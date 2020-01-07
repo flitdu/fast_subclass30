@@ -1,0 +1,5 @@
+29 3121019 1 5 cap elt smd 1 uf 10v tant b45196h2107m409
+145 310008300 3 3500 cap 100 uf 10v 20% low esr tantalum tpsd107k016r0125
+196 1 500 cap elt smd 100 uf 10v tant tajd107m010r
+4 tantalum capacitor 220 uf 4v ± 20% b case tajb227m004rnj 10000
+capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000

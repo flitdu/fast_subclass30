@@ -1,0 +1,21 @@
+__label__贴片电阻 , rc0603jr 07470rl 10000 470 0603 5% 0603
+__label__直插电解电容 , 电解电容 100 uf 50v cap d 8 11 20% 直插 dip 2000 0.07
+__label__金属薄膜电阻器 , 金属膜 电阻 4.7 k 1 8w ± 1% 5000 0.005
+__label__碳膜电阻器 , 电阻 100r 1w dip2 14 5% 碳膜 电阻 贴片 smd 5000 0.02
+__label__金属薄膜电阻器 , 金属膜 电阻 200k 1w ± 1% 天龙 2000 0.06
+__label__金属薄膜电阻器 , 直插 功率 金属膜 电阻 470r 0.5 w ± 1% 天龙 直插 dip 5000 0.035
+__label__直插压敏电阻 , 压敏 电阻 10d471k un 直插 dip 5500 0.1
+__label__直插压敏电阻 , 压敏 电阻 14d561k un 200 0.2
+__label__贴片晶体谐振器(无源) , 11001 0000 晶振 x3s012000bk1h 石英 晶体 谐振器 12mhz 20pf 4pin 温度 频差 ± 30ppm 温度 40 ℃ 85 ℃ 3225 y1 1 6
+__label__贴片晶体谐振器(无源) , 11001 0002 石英 晶体 谐振器 nx3215sa 石英 晶体 谐振器 32768 khz 2pin 125 pf 频差 ± 20ppm 温度 频差 ± 10ppm 温度 40 ℃ 85 ℃ 3215 ndk y2 1 6 ndk
+__label__高频电感 , 电感 11 sdcl1005c2n0stdf sunlord hf inductors 2nh â ± 0.3 nh 300ma 0402 1 200000
+__label__贴片电感 , 电感 12 mlz1608n100l 10uh â ± 20% shielded fixed inductor 300ma 600mohms max 0603 1608 metric 1 200000
+__label__铝质电解电容器-SMD , 15 6102 ft1v3900 贴片 铝 电解电容 贴片 铝 电解电容 eeeft1v391up 390 uf 35v 8 102 mm eeeft1v391up 160 quad
+__label__贴片压敏电阻 , 27 6103 0402180a 贴片 压敏 电阻 贴片 压敏 电阻 ezjz0v180ha 允许 电压 11v 0402 ezjz0v180ha 4020 1200 quad
+__label__功率电感 , 44 6104 1010610m 贴片 电感 贴片 电感 clf10060nit 100m d 10 10 6mm 10uh 20% 电流 5a clf10060nit 100m d 160 quad
+__label__贴片电感 , 46 6104 2512125m 贴片 电感 贴片 电感 man uf acturing dfe252012f 1r0m 25 12 12 mm 1uh 20% 电流 5a dfe252012f 1r0m 80 quad
+__label__贴片电解电容 , 贴片 电解 电容器 ф 6.3 5.5 22 μ f 35v 6000
+__label__贴片电解电容 , 贴片 电解 电容器 ф 6.3 5.5 100 μ f 16v 6000
+__label__贴片晶体谐振器(无源) , 6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 100 7f16000e12ucg sjk 100 3 0690265 smd 2016 4p
+__label__贴片晶体谐振器(无源) , 6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 100 x503224576msb4si yxc 100 3 0936638 smd 5032 4p
+__label__贴片晶体谐振器(无源) , 6107 s16m0002 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 100 7f16000e12ucg sjk 100 3 0707257

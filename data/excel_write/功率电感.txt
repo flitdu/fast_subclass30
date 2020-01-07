@@ -1,0 +1,18 @@
+71 320001210 2 3500 power inductor 6.8 uh 20% rdc 0.176 ohm idc 0.96 a smd nr3015t6r8m tayo yuden
+134 320000900 2 3500 ind 15uh 1.6 a shield smd sdc4d22hp 150m lf coilmaster
+135 320000800 1 3500 ind 10uh 1a shield smd sds4212e 100m lf coilmaster
+136 320001000 1 3500 ind 4 7uh 1 1a shield smd sds3015 4r7m lf coilmaster
+线圈 贴片 电感 wurth 7447709221 220 µ h ± 20% 1.8 a 300m ω 12.00 mm 12.00 mm 10.00 mm 7447709221 wurth 92
+线圈 贴片 电感 wurth 744771127 27 µ h ± 20% 2.97 a 51m ω 12.00 mm 12.00 mm 6.00 mm 744771127 wurth 92
+线圈 贴片 电感 wurth 7447714330 33 µ h ± 20% 2.5 a 79m ω 10.00 mm 10.00 mm 5.00 mm 7447714330 wurth 540
+105.0 3.0 l1m0 l1m3 l1m5 6.8 uh ind 6d2 2sp 6d8w7d3l3h ind smt 6.8 uh 30% 5.6 a 7.3 x6.8 60
+106.0 3.0 l1m1 l2m1 l5m1 1uh ind 3d2 2sp 4wl1d8h ins smd 1.0 uh 3.0 h 5.2 a swpa4020s1r0nt 60
+107.0 2.0 l1m2 l4m2 1uh ind 3d2 2sp 4wl1d8h ins smd 1.0 uh 3.0 h 5.2 a swpa4020s1r0nt 40
+108.0 1.0 l1m4 1.0 uh ind 3d6 2sp 5wl2h ins smd 1.0 uh 3.0 h 5.7 a swpa5040s1r0nt 20
+109.0 1.0 l1m6 10uh 7a ind 9d9 2sp 12wl10dh ind smd 10uh 20% 62m ω 4a 6.6 x7.1 mm mwsc0630h100mt sunlord 20
+110.0 1.0 l11 swpa3015s2r2nt ind 2d 2sp 3wl1d5h ind smd 2.2 uh 20% 0.3 h 1.6 a swpa3015s2r2nt sunlord 20
+111.0 2.0 l12 l13 1.0 uh ind 2d 2sp 3wl1d5h ind smt 1.0 uh 30% 2.3 a 3.0 x3.0 ind 303015 sunlord 40
+112.0 1.0 l14 10uh ind 3d2 2sp 4wl1d8h ind smt 10uh 30% 1.2 a swpa4020s100mt 20
+113.0 1.0 l2m2 1uh ind 3d6 2sp 5wl2h ins smd 1.0 uh 3.0 h 5.7 a swpa5040s1r0nt 20
+114.0 2.0 l3m1 l4m1 1uh ind vls252010 ind smd 1.0 uh 20% 2.5 a mph252010s1r0 40
+115.0 1.0 l3m2 1uh ind vls252010 ind smd 1.0 uh 20% 2.5 a mph252010s1r0 20
