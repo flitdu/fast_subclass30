@@ -1,1 +1,2 @@
 electric double layer capacitors 0.22 f 5v c36 1 dx 5r5h224u sim 5000.0 6.1936 6.3121
+1.0 1000.0 eec s0hd224hn rg 105x50 v c10 capacitor super cap eec rg0v224h cap 0.22 f 3.6 v

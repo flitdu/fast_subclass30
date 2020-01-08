@@ -1,1 +1,2 @@
 线圈 贴片 电感 wurth 744045004 4.7 µ h ± 20% 1.24 a 150m ω 1812 744045004 wurth 100
+2.0 2000.0 srn6045 150m srn6045 l12 l13 inductors srn6045 150m 15uh 1.9 a 98.5 mohm 6x6mm

@@ -238,7 +238,7 @@ if __name__ == '__main__':
     # 读取txt路径：ft_BOM\data\bom_subclass30'，  写入r'D:\dufy\code\ft_BOM\data\excel_write'
     # '''''''''''''''''jieba_used.py
 
-    # excel_read2txt()
+    excel_read2txt()
     #
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
@@ -262,88 +262,88 @@ if __name__ == '__main__':
     # ft_.fit('train_split_data.txt')  # 训练
     # ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
 
-    ########## 5 测试
-
-    # excel_path = r'D:\dufy\code\ft_BOM\data\bom_test'
-    # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-    excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\三级标注1-7'
-    # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
-
-
-    # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
-    txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
-    print(txt_filePath)
-    txt_names = os.listdir(txt_filePath)
-    # excel_test1(txt_names)
-    dict_model_test = {}
-    for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
-
-        if str(txt_filePath).strip(r'D:\dufy\code\ft_BOM\\') == 'model':
-            modle_path = r'D:\dufy\code\ft_BOM\model' + '\\' + name0
-
-        else:
-            modle_path = r'D:\dufy\code\ft_BOM\model_1' + '\\' + name0
-            pass
-
-        # modle_path = 'model_' + '\\' + name0
-        # print(modle_path)
-        classfier = ff.load_model(modle_path)
-
-        f_train = open(r'D:\dufy\code\work_record\aaa.txt', 'w')
-        f_train.truncate()
-        f_train.close()
-        f_test = open(r'D:\dufy\code\work_record\bbb.txt', 'w')
-        f_test.truncate()
-        f_test.close()
-        all_record = 0
-        right_record = 0
-        # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6'
-        # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\已标注bom1206\已标注\1206'
-        # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
-        folder_path = excel_path
-        file_names = os.listdir(folder_path)
-        for i, name1 in enumerate(file_names):
-            file_path_combine = folder_path + '//' + name1
-            # ss = pd.read_excel(file_path_combine)
-            # r"C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6\2c93ea3b6dfd8eaa016e0fd1bc90012f-U226.xlsx")
-            # predict_line_all(ss)  #预测 excel 一行所有数据
-            print(file_path_combine)
-            TF_record = predict_line_label_out(file_path_combine)  # 预测 excel 一行,除去标签
-            print(TF_record)
-            # if TF_record != None and []:  # 之前这样写，不对！！！！
-            if TF_record:
-                print(name1)
-                print(TF_record, '~~~~~~~~~~~~~~~~')
-                print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
-                all_record += len(TF_record)
-                for i in TF_record:
-                    if i == 1:
-                        right_record += 1
-            else:
-                print('{} 无法识别'.format(file_path_combine))
-            print(file_path_combine)
-            print('\033[1;32m =\033[0m'*120)
-            pass
-        print('标注数据量:{}'.format(all_record))
-        print('预测正确量:{}'.format(right_record))
-        print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
-        print('全部结束！！！！')
-        dict_model_test[name0] = right_record / all_record #此处。。。。
-    print(dict_model_test)
-
-    x = []
-    y = []
-    for key, value in dict_model_test.items():
-        print(key.strip('model_w1_e'), value)
-        x.append(int(key.strip('model_w1_e')))  # append() 方法用于在列表末尾添加新的对象。
-        y.append(value)
-    print(x, y)
-    plt.plot(x, y, "b-o", linewidth=2)
-    plt.xlabel("epoch")  # X轴标签
-    plt.ylabel("accu")  # Y轴标签
-    plt.title("Line plot")  # 图标题
-    plt.show()  # 显示图
-
+    # ########## 5 测试
+    #
+    # # excel_path = r'D:\dufy\code\ft_BOM\data\bom_test'
+    # # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
+    # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\三级标注1-7'
+    # # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
+    #
+    #
+    # # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
+    # txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+    # print(txt_filePath)
+    # txt_names = os.listdir(txt_filePath)
+    # # excel_test1(txt_names)
+    # dict_model_test = {}
+    # for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
+    #
+    #     if str(txt_filePath).strip(r'D:\dufy\code\ft_BOM\\') == 'model':
+    #         modle_path = r'D:\dufy\code\ft_BOM\model' + '\\' + name0
+    #
+    #     else:
+    #         modle_path = r'D:\dufy\code\ft_BOM\model_1' + '\\' + name0
+    #         pass
+    #
+    #     # modle_path = 'model_' + '\\' + name0
+    #     # print(modle_path)
+    #     classfier = ff.load_model(modle_path)
+    #
+    #     f_train = open(r'D:\dufy\code\work_record\aaa.txt', 'w')
+    #     f_train.truncate()
+    #     f_train.close()
+    #     f_test = open(r'D:\dufy\code\work_record\bbb.txt', 'w')
+    #     f_test.truncate()
+    #     f_test.close()
+    #     all_record = 0
+    #     right_record = 0
+    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6'
+    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\已标注bom1206\已标注\1206'
+    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
+    #     folder_path = excel_path
+    #     file_names = os.listdir(folder_path)
+    #     for i, name1 in enumerate(file_names):
+    #         file_path_combine = folder_path + '//' + name1
+    #         # ss = pd.read_excel(file_path_combine)
+    #         # r"C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6\2c93ea3b6dfd8eaa016e0fd1bc90012f-U226.xlsx")
+    #         # predict_line_all(ss)  #预测 excel 一行所有数据
+    #         print(file_path_combine)
+    #         TF_record = predict_line_label_out(file_path_combine)  # 预测 excel 一行,除去标签
+    #         print(TF_record)
+    #         # if TF_record != None and []:  # 之前这样写，不对！！！！
+    #         if TF_record:
+    #             print(name1)
+    #             print(TF_record, '~~~~~~~~~~~~~~~~')
+    #             print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
+    #             all_record += len(TF_record)
+    #             for i in TF_record:
+    #                 if i == 1:
+    #                     right_record += 1
+    #         else:
+    #             print('{} 无法识别'.format(file_path_combine))
+    #         print(file_path_combine)
+    #         print('\033[1;32m =\033[0m'*120)
+    #         pass
+    #     print('标注数据量:{}'.format(all_record))
+    #     print('预测正确量:{}'.format(right_record))
+    #     print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
+    #     print('全部结束！！！！')
+    #     dict_model_test[name0] = right_record / all_record #此处。。。。
+    # print(dict_model_test)
+    #
+    # x = []
+    # y = []
+    # for key, value in dict_model_test.items():
+    #     print(key.strip('model_w1_e'), value)
+    #     x.append(int(key.strip('model_w1_e')))  # append() 方法用于在列表末尾添加新的对象。
+    #     y.append(value)
+    # print(x, y)
+    # plt.plot(x, y, "b-o", linewidth=2)
+    # plt.xlabel("epoch")  # X轴标签
+    # plt.ylabel("accu")  # Y轴标签
+    # plt.title("Line plot")  # 图标题
+    # plt.show()  # 显示图
+    #
 
 
 

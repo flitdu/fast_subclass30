@@ -16,3 +16,24 @@
 113.0 1.0 l2m2 1uh ind 3d6 2sp 5wl2h ins smd 1.0 uh 3.0 h 5.7 a swpa5040s1r0nt 20
 114.0 2.0 l3m1 l4m1 1uh ind vls252010 ind smd 1.0 uh 20% 2.5 a mph252010s1r0 40
 115.0 1.0 l3m2 1uh ind vls252010 ind smd 1.0 uh 20% 2.5 a mph252010s1r0 20
+342.0 11802006 47uh 电感 11802003 11802010 47uh 127 30000.0
+342.0 11802006 47uh 电感 11802003 11802010 47uh 127 30000.0
+347.0 11802028 贴片 电感 10uh 12 12 7 30000.0
+348.0 11802039 贴片 电感 47uh 2a8 20% xln 30000.0
+349.0 11802040 贴片 电感 33u 3.2 a 20% l8080 30000.0
+351.0 11802042 贴片 电感 lpc5015ft 2r2m a lvs505040 30000.0
+1 300 l2 1.5 uh ind 3d6 2sp 4d9wl2h wpn4012h1r5mt wpn4012h1r5mt sunlord
+1 300 l4 10uh 5a ind 6d2 2sp 6d8w7d3l3h mwsa0603 100mt mwsa0603 100mt sunlord
+71 功率 电感 inductor 2 4.7 uh 1.8 r 2a cmnr5020 4r7m 6377
+72 功率 电感 inductor 2 4.7 uh 3a cmnr6045 4r7m 6377
+73 功率 电感 inductor 22uh ± 20% 4a cst1040 220m 6377
+74 功率 电感 inductor 6.8 uh ± 20% 5a cst1040 6r8m 6377
+75 贴片 功率 电感 功率 电感 4.0 x4.0 x1.8 mm 2.2 uh ± 20% 2.0 a cmnr4018 2r2m 19131
+76 贴片 功率 电感 功率 电感 4.0 x4.0 x1.8 mm 47uh ± 20% 0.5 a cmnr4018 47m 6377
+1.0 1000.0 srp1265a 100m xal1010 l10 inductors srp1265a 100m 10uh 10a 16.5 mohm 13.5 x12.5 mm
+88 13100076 电感 pulse pa3784.121 hlt pa3784.121 hlt pulse l2 cpu choke smt inductor 120nh ± 20% 0.18 mohm 94a 25 ℃ 10x8mm smt pulse pa3784.121 hlt 10 30000
+93 13100065 电感 lqh32pn4r7nncl lqh32pn4r7nncl l3 2x2 5x2 0mm inductor 4.7 uh ± 30% 0.186 ω 1.2 a 3.2 2.5 1.55 mm smt lqh32pn4r7nncl 1 3000
+87 13100055 电感 pulse pa2607.231 nl pa2607.231 nl pulse l10 4x7 9x7 5mm inductor 230nh 0.29 m ω ± 7% 43 25 ℃ 37a 100 ℃ smt pulse pa2607.231 nl 2 6000
+83 13100058 电感 chilisin mhci06030 4r7m r8 mhci06030 4r7m r8 chilisin l6 6x7 6x4 0mm inductor 4.7 uh ± 20% 33mohm 7a 6.6 7.5 4.0 mm smt chilisin mhci06030 4r7m r8 3 9000
+ldr77 usrr v0.1 电感 1uh gstm4020p 1r0m1uh ± 20% 5a 4.45 4.06 1.8 mm m00000 4 l0202 l0203 l0204 l0205 gotrend 4000
+ldr77 usrr v0.1 电感 2.2 uh spm3020t 2r2m lr 贴片 电感 2.2 uh ± 20% 2.8 a 3.0 3.2 2.0 mm m00000 1 l0201 1000

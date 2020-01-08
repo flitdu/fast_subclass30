@@ -7,3 +7,18 @@ cxt0010 nx3225ga 26mhz crystal smd q2 1 nx3225ga 26mhz sim 5000.0 2.6765 2.7326
 9 1.9 贴片 ycr16m2p 贴片 晶振 3225 16m 20ppm cl 20pf 温度 40 85 1.0 y1 30000.0 0.0 0.385 0.385
 259.0 3.0 y1 y3 y4 24mhz xtal4 sx 3225 xtal 24mhz 12pf ± 20ppm 40 ℃ 85 ℃ 3.2 x2.5 mm smt 60
 260.0 3.0 y2 y5 y6 25mhz xtal4 sx 3225 xtal 25mhz 25mhz 12pf ± 20ppm 40 ℃ 85 ℃ 3.2 x2.5 mm smt 60
+336.0 11801011 贴片 晶振 8m xtal 49s 30000.0
+339.0 11801025 贴片 晶振 12mhz 3225 30000.0
+340.0 11801026 贴片 晶振 32.768 khz xtal2 3p2x1p5 sm 30000.0
+355.0 11803004 贴片 晶振 8m 蓝 30000.0
+336.0 11801011 贴片 晶振 8m xtal 49s 30000.0
+339.0 11801025 贴片 晶振 12mhz 3225 30000.0
+340.0 11801026 贴片 晶振 32.768 khz xtal2 3p2x1p5 sm 30000.0
+355.0 11803004 贴片 晶振 8m 蓝 30000.0
+50 xt9m20hrr8m cn8000 b crystal 8mhz 30ppm degc 7pf max 22pf min 12weeks moq 3k 12000 032 3840
+50 xt9m20hrr8m cn8000 b crystal 8mhz 30ppm degc 7pf max 22pf min 12weeks moq 3k 12000 032 3840
+91 贴片 晶振 rs crystal 0 8m 8m 6377
+92 贴片 晶振 crystal smd 24mhz 20ppm 24mhz 6377
+93 贴片 晶振 crystal smd 27mhz 20ppm 27mhz 6377
+94 贴片 晶振 crystal smd 32.768 khz 20ppm 32.768 khz 6377
+1.0 1000.0 8mhz 5032 y1 crystal abracon abm3b 8.000 mhz b2 t 8.0000 mhz 18pf

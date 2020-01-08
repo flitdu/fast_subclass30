@@ -3,3 +3,21 @@
 196 1 500 cap elt smd 100 uf 10v tant tajd107m010r
 4 tantalum capacitor 220 uf 4v ± 20% b case tajb227m004rnj 10000
 capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000
+181.0 11001030 钽 电解电容 10 uf 16v 3216 30000.0
+182.0 11001032 钽 电解电容 10 uf 35v 6032 30000.0
+183.0 11001033 钽 电解电容 22 uf 25v 6032 30000.0
+205.0 11003033 贴片 钽 电解电容 10 uf 16v 3528 30000.0
+209.0 11003050 贴片 钽电容 47 uf 25v 7243 30000.0
+226.0 11003083 贴片 钽电容 10 uf 35v 7343 30000.0
+227.0 11003084 贴片 钽电容 470 uf 7343 30000.0
+229.0 11003087 贴片 钽电容 10 uf 16v sma 30000.0
+8 贴片 钽电容 2.2 uf 16v 10% 105 ° 1206 10000 c3
+20 tajd476m025tnjv capasitor 47 uf toleranc 20% 2917 automotive 16weeks 10000 0.45 4500
+24 tajc226m025tnjv capasitor 22 uf toleranc 5% 2312 automotive 16weeks 10000 0.24 2400
+20 tajd476m025tnjv capasitor 47 uf toleranc 20% 2917 automotive 16weeks 10000 0.45 4500
+24 tajc226m025tnjv capasitor 22 uf toleranc 5% 2312 automotive 16weeks 10000 0.24 2400
+8 贴片 钽电容 2.2 uf 16v 10% 105 ° 1206 c3 10000
+钽电容 593d336x9020d2 4 8040 593d336x9020d2te3 1500 a 2.5186 7 12d 价高 太 多 重新 推荐
+钽质 电容器 固体 smd tajd336k020rnj 1
+35 贴片 钽电容 cape3216 100 uf ± 10% 100 uf 6v3 12754
+36 贴片 钽电容 cape3216 10 uf ± 10% 10 uf 10v 6377

@@ -1,1 +1,10 @@
 27.0 2.0 c7m6 c100 100 uf 25v capale 6d3pi 2sp 6d6wl6h c smd al poly 100 uf 20% 25v 2.7 a 3khr 6.3 x8mm lt lf matsuki 40
+8 eee fp1e101ap cap alum smd 25v 100 uf 20% d8 l6.2 50000 0.175 8750
+9 eee fc1v221p cap alum smd 35v 220 uf 20% d10 l10 50000 0.2 10000
+22 mal215099601e3 capasitor 330 uf toleranc 20% h10 d10mm automotive 12weeks 10000 0.6 6000
+22 mal215099601e3 capasitor 330 uf toleranc 20% h10 d10mm automotive 12weeks 10000 0.6 6000
+23 ca025m0033rec 0505 capasitor 33 uf toleranc 20% h6.6 d6.6 mm automotive 8weeks 10000 0.055 550
+32 铝 电解电容 vej331m1vtr 1010 330 uf 35v 10 10 105 度 lelon vej331m1vtr 1010 6377
+33 铝 电解电容 ves101m1vtr 0607 100 uf 35v 6.3 7.7 105 度 lelon ves101m1vtr 0607 6377
+34 铝 电解电容 ves221m1ctr 0607 220 uf 16v 6.3 7.7 105 度 lelon ves221m1ctr 0607 19131
+8 12101005 电解电容 eefsx0e471e4 eefsx0e471e4 aec7 3x4 3x1 9mm sp cap 2.5 v 470 uf esr4.5 mohm 8.5 a 26 78000

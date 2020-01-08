@@ -1,1 +1,4 @@
 金属膜 电阻 pe2010fke070r02l 20m ω ± 1% 1 2w 2010 贴装 pe2010fke070r02l 150
+电阻 tlr2bn 10l0 f k0a 1 2010 tlr2attd10l0f koa 2010 a 2.0678 7 12d 价高 太 多
+3.0 3000.0 10mohms 2512 r55 r59 r61 resistor erj mp4pf10mu res 2512 0.01 r 2w 1%
+2.0 2000.0 4mohms 2512 r130 r124 resistor pa2512fkf7w0r004e res 0.004 r 2w 1% 2512
