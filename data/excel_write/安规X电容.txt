@@ -1,0 +1,5 @@
+23 插件 68k 275v x2 carl1 mpx40 100 56 1 1.5 cm 电容 0.68 uf
+23 插件 68k 275v x2 carl1 mpx40 100 56 1 1000000 1.5 cm 电容 0.68 uf
+7 11 0102 005 001 x2 电容 104k 3 10v ac p 7.5 w10 h11 t4.8 mm 插件 cx1 1 10000.0
+46.0 x 电容 mpx mkp104kc3xxa 0.1 uf 275vac cx 10mm 脚距 jurcc 薄膜 1.0 1000
+27 safety x2 capacitor x2 0.1 uf 3 10v ac 13 12 6 p 10mm 3.5 mm short legs 10000

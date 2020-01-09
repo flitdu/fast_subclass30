@@ -158,7 +158,7 @@ def train_datas_split():
     f_test.close()  # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\test.txt')  # 添加需要操作的文件路径
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\fasttext.test1125.txt')  # 添加需要操作的文件路径
-    a = Operate_txt(r'D:\dufy\code\work_record\selection_data.txt')  # 添加需要操作的文件路径
+    a = Operate_txt(r'D:\dufy\code\fast_subclass30\selection_data.txt')  # 添加需要操作的文件路径
     a.txt_print()
     # a.txt_write('text_write_test.txt')   # 写入文件路径
 

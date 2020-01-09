@@ -1,3 +1,5 @@
 49 322000800 1 10500 crystal 32.768 khz 12.5 pf 3.2 x1.5 mm 20500327618 yoke
 cxt0004 cristal 32.768 khz cylindrico 12.5 pf abracon ab38t 32.768 khz q1 1 abracon ab38t sim 5000.0
 晶振 x1 32678 2 6 15pf 1
+95 1 citizen 晶体 谐振器 y3 cmr200t32768dzft cry2 6r90x1r40x1r30 32.768 k 12pf 20ppm
+69 石英 晶振 32.768 2 6mm dip 1 y3 3000

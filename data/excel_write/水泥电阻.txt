@@ -1,0 +1,1 @@
+17 1777 0 17 taiwan resistor resistor thd wirewound resistor resistor 47 ω 5% 5w 3 50v tht sqp5wj47 1.0 10000

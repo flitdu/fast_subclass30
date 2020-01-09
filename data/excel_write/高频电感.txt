@@ -3,3 +3,6 @@
 1 300 l7 高频 贴片 电感 10nh ± 5% 0402 高频 贴片 电感 10nh ± 5%
 1 300 l8 高频 贴片 电感 8.2 nh ± 5% 0603 高频 贴片 电感 8.2 nh ± 5%
 1 300 l9 高频 贴片 电感 8.2 nh ± 5% 0402 高频 贴片 电感 8.2 nh ± 5%
+电感 11 sdcl1005c2n0stdf sunlord hf inductors 2nh â ± 0.3 nh 300ma 0402 1 200000
+242 电感 inducrot 2.2 uh 600ma 0805 mlp2012s2r2tt smt mlp2012s2r2tt 2 80
+a44 l12 s000414 固定 电感器 33000nh 5% 0805 aisc 0805f 330j t abracon 固定 电感器 20

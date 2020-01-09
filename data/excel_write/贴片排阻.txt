@@ -1,3 +1,10 @@
 23 301004300 1 4500 res pack 47k x 4 1632 yc164 jr 0747k
 110101501053x cd 贴片 排阻 chip res rca03 4d 10k ω 土 5% 8 脚 10000
 67 贴片 排阻 rn8p4r 0402 22r 4 ± 5% 22r 4 38262
+rs1 1206 排阻 10k 1% 0603x4 1 5
+rs1 rs2 1206 排阻 10k 1% 0603x4 2 30
+a44 r07 s000003 res array 4 res 47 k ohm 1206 cat16 472j4lf inc 排阻 15
+a44 r07 s000140 res array 4 res 10k ohm 1206 cat16 103j4lf 排阻 15
+a44 r07 s000141 res array 4 res 1k ohm 1206 cat16 102j4lf 排阻 45
+贴片 排阻 0 0603 3 r9 r15 r16
+电阻 排 100 ω 4 rcmlosw 101 100 ω 2 smd resistor array resistors 4x ± 5% 1 16w rcm0603 贴片 rn1 rn2 4000

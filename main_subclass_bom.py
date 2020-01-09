@@ -74,14 +74,19 @@ class FastTextModel:
                 predict_labels = classifier.predict(texts)[0]
                 print('测试集predict_labels 为：', predict_labels, type(predict_labels))
                 print(confusion_matrix(correct_labels, predict_labels,
-                                       labels=['__label__功率电感', '__label__圆柱体晶振', '__label__工字电感', '__label__晶振直插',
-                                               '__label__晶振贴片', '__label__电位器-其他可调电阻', '__label__直插压敏电阻', '__label__直插晶体谐振器(无源)',
-                                               '__label__直插独石电容', '__label__直插瓷片电容', '__label__直插电解电容', '__label__精密可调电阻',
-                                               '__label__线绕电阻器-透孔', '__label__贴片低阻值采样电阻', '__label__贴片排阻','__label__贴片晶体振荡器(有源)',
-                                               '__label__贴片晶体振荡器(无源)', '__label__贴片电容', '__label__贴片电感', '__label__贴片电解电容',
+                                       labels=['__label__CBB电容', '__label__NTC热敏电阻', '__label__PTC热敏电阻', '__label__保险电阻',
+                                               '__label__功率电感', '__label__可调电感', '__label__固态电解电容', '__label__圆柱体晶振',
+                                               '__label__安规X电容', '__label__安规Y电容', '__label__安规电容直插', '__label__工字电感',
+                                               '__label__平面电阻器', '__label__晶振直插', '__label__晶振贴片', '__label__水泥电阻',
+                                               '__label__电位器-其他可调电阻', '__label__电阻贴片', '__label__直插压敏电阻', '__label__直插晶体谐振器(无源)',
+                                               '__label__直插独石电容', '__label__直插瓷片电容', '__label__直插电解电容', '__label__碳膜电阻器',
+                                               '__label__精密可调电阻', '__label__线绕电阻器-透孔', '__label__聚酯薄膜电容', '__label__色环电感',
+                                               '__label__贴片低阻值采样电阻', '__label__贴片压敏电阻', '__label__贴片排阻', '__label__贴片晶体振荡器(有源)',
+                                               '__label__贴片晶体谐振器(无源)', '__label__贴片电容', '__label__贴片电感', '__label__贴片电解电容',
                                                '__label__贴片电阻', '__label__贴片线绕电感', '__label__贴片高精密-低温漂电阻', '__label__超级电容器',
-                                               '__label__通孔电阻器', '__label__金属薄膜电阻器', '__label__钽质电容器-固体SMD钽电容器','__label__铝电解电容器-带引线',
-                                               '__label__铝质电解电容器-SMD',  '__label__高频电感']))
+                                               '__label__通孔电阻器', '__label__金属氧化膜电阻', '__label__金属玻璃釉电阻', '__label__金属薄膜电阻器',
+                                               '__label__钽质电容器-固体SMD钽电容器', '__label__铝电解电容器-带引线', '__label__铝质电解电容器-SMD', '__label__陶瓷谐振器',
+                                               '__label__高频电感']))
                 f1_score = metrics.f1_score(correct_labels, predict_labels,
                                             average='weighted')
                 print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
@@ -183,10 +188,8 @@ def predict_line_label_out(file_path_combine):
                 zonhe = zonhe + str(ss.loc[h].ix[l]).strip().replace('\n', '') + ' '
                 true_label = ss.loc[h].ix[0]
                 true_label = str(true_label).replace('/', '').strip()
-                if true_label == '电池电池配件':
-                    true_label = '电池配件'
-                # if true_label == '功能模块开发板方案验证板':
-                #     true_label = '方案验证板'
+                if true_label == '电阻贴片':
+                    true_label = '贴片电阻'
                 # if true_label == '二级管':
                 #     true_label = '二极管'
                 # if true_label == '天线':
@@ -221,8 +224,8 @@ def predict_line_label_out(file_path_combine):
                 else:
                     print('\033[1;31m error!!【{}】\033[0m预测为\033[1;31m 【{}】\033[0m--{}]'.format(true_label, shiti, file_path_combine))
                     error_infor = true_label+'     预测为     '+shiti
-                    txt_write_line(r'D:\dufy\code\work_record\aaa.txt', error_infor)
-                    txt_write_line(r'D:\dufy\code\work_record\bbb.txt', '__label__'+true_label+' , '+line_process)
+                    txt_write_line(r'D:\dufy\code\fast_subclass30\aaa.txt', error_infor)
+                    txt_write_line(r'D:\dufy\code\fast_subclass30\bbb.txt', '__label__'+true_label+' , '+line_process)
                     true_false_list.append(0)
             print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(h, zonhe))
             print("预测实体为：\033[1;31m {}\033[0m".format(shiti))
@@ -238,12 +241,12 @@ if __name__ == '__main__':
     # 读取txt路径：ft_BOM\data\bom_subclass30'，  写入r'D:\dufy\code\ft_BOM\data\excel_write'
     # '''''''''''''''''jieba_used.py
 
-    excel_read2txt()
+    # excel_read2txt()
     #
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
-    #
-    # merge_txts(2000)  ## 读取行数
+    # #
+    # merge_txts(1000)  ## 读取行数
     # # # # #
     # # # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
     # # # # # '''''''''''''''''data_split.py
@@ -252,98 +255,100 @@ if __name__ == '__main__':
 
     # 4 训练-调参
     # 初始化
+    tag_ = 1000
+    if tag_ ==1:
+        epoch_begin = 2
+        epoch_ = 150
+        loss_name = 'softmax'
+        learn_rate = 0.5
 
-    # epoch_begin = 2
-    # epoch_ = 150
-    # loss_name = 'softmax'
-    # learn_rate = 0.5
-    #
-    # ft_ = FastTextModel(epoch_, loss_name, learn_rate)
-    # ft_.fit('train_split_data.txt')  # 训练
-    # ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
+        ft_ = FastTextModel(epoch_, loss_name, learn_rate)
+        ft_.fit('train_split_data.txt')  # 训练
+        ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
 
     # ########## 5 测试
     #
-    # # excel_path = r'D:\dufy\code\ft_BOM\data\bom_test'
-    # # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-    # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\三级标注1-7'
-    # # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
-    #
-    #
-    # # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
-    # txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
-    # print(txt_filePath)
-    # txt_names = os.listdir(txt_filePath)
-    # # excel_test1(txt_names)
-    # dict_model_test = {}
-    # for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
-    #
-    #     if str(txt_filePath).strip(r'D:\dufy\code\ft_BOM\\') == 'model':
-    #         modle_path = r'D:\dufy\code\ft_BOM\model' + '\\' + name0
-    #
-    #     else:
-    #         modle_path = r'D:\dufy\code\ft_BOM\model_1' + '\\' + name0
-    #         pass
-    #
-    #     # modle_path = 'model_' + '\\' + name0
-    #     # print(modle_path)
-    #     classfier = ff.load_model(modle_path)
-    #
-    #     f_train = open(r'D:\dufy\code\work_record\aaa.txt', 'w')
-    #     f_train.truncate()
-    #     f_train.close()
-    #     f_test = open(r'D:\dufy\code\work_record\bbb.txt', 'w')
-    #     f_test.truncate()
-    #     f_test.close()
-    #     all_record = 0
-    #     right_record = 0
-    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6'
-    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\已标注bom1206\已标注\1206'
-    #     # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
-    #     folder_path = excel_path
-    #     file_names = os.listdir(folder_path)
-    #     for i, name1 in enumerate(file_names):
-    #         file_path_combine = folder_path + '//' + name1
-    #         # ss = pd.read_excel(file_path_combine)
-    #         # r"C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6\2c93ea3b6dfd8eaa016e0fd1bc90012f-U226.xlsx")
-    #         # predict_line_all(ss)  #预测 excel 一行所有数据
-    #         print(file_path_combine)
-    #         TF_record = predict_line_label_out(file_path_combine)  # 预测 excel 一行,除去标签
-    #         print(TF_record)
-    #         # if TF_record != None and []:  # 之前这样写，不对！！！！
-    #         if TF_record:
-    #             print(name1)
-    #             print(TF_record, '~~~~~~~~~~~~~~~~')
-    #             print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
-    #             all_record += len(TF_record)
-    #             for i in TF_record:
-    #                 if i == 1:
-    #                     right_record += 1
-    #         else:
-    #             print('{} 无法识别'.format(file_path_combine))
-    #         print(file_path_combine)
-    #         print('\033[1;32m =\033[0m'*120)
-    #         pass
-    #     print('标注数据量:{}'.format(all_record))
-    #     print('预测正确量:{}'.format(right_record))
-    #     print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
-    #     print('全部结束！！！！')
-    #     dict_model_test[name0] = right_record / all_record #此处。。。。
-    # print(dict_model_test)
-    #
-    # x = []
-    # y = []
-    # for key, value in dict_model_test.items():
-    #     print(key.strip('model_w1_e'), value)
-    #     x.append(int(key.strip('model_w1_e')))  # append() 方法用于在列表末尾添加新的对象。
-    #     y.append(value)
-    # print(x, y)
-    # plt.plot(x, y, "b-o", linewidth=2)
-    # plt.xlabel("epoch")  # X轴标签
-    # plt.ylabel("accu")  # Y轴标签
-    # plt.title("Line plot")  # 图标题
-    # plt.show()  # 显示图
-    #
+    tag = 1
+    if tag == 1:
+        # excel_path = r'D:\dufy\code\ft_BOM\data\bom_test'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\三级分类标注1-9'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
+
+        # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
+        txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+        print(txt_filePath)
+        txt_names = os.listdir(txt_filePath)
+        # excel_test1(txt_names)
+        dict_model_test = {}
+        for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
+
+            if str(txt_filePath).strip(r'D:\dufy\code\ft_BOM\\') == 'model':
+                modle_path = r'D:\dufy\code\ft_BOM\model' + '\\' + name0
+
+            else:
+                modle_path = r'D:\dufy\code\ft_BOM\model_1' + '\\' + name0
+                pass
+
+            # modle_path = 'model_' + '\\' + name0
+            # print(modle_path)
+            classfier = ff.load_model(modle_path)
+
+            f_train = open(r'D:\dufy\code\fast_subclass30\aaa.txt', 'w')
+            f_train.truncate()
+            f_train.close()
+            f_test = open(r'D:\dufy\code\fast_subclass30\bbb.txt', 'w')
+            f_test.truncate()
+            f_test.close()
+            all_record = 0
+            right_record = 0
+            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6'
+            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\已标注bom1206\已标注\1206'
+            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
+            folder_path = excel_path
+            file_names = os.listdir(folder_path)
+            for i, name1 in enumerate(file_names):
+                file_path_combine = folder_path + '//' + name1
+                # ss = pd.read_excel(file_path_combine)
+                # r"C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6\2c93ea3b6dfd8eaa016e0fd1bc90012f-U226.xlsx")
+                # predict_line_all(ss)  #预测 excel 一行所有数据
+                print(file_path_combine)
+                TF_record = predict_line_label_out(file_path_combine)  # 预测 excel 一行,除去标签
+                print(TF_record)
+                # if TF_record != None and []:  # 之前这样写，不对！！！！
+                if TF_record:
+                    print(name1)
+                    print(TF_record, '~~~~~~~~~~~~~~~~')
+                    print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
+                    all_record += len(TF_record)
+                    for i in TF_record:
+                        if i == 1:
+                            right_record += 1
+                else:
+                    print('{} 无法识别'.format(file_path_combine))
+                print(file_path_combine)
+                print('\033[1;32m =\033[0m' * 120)
+                pass
+            print('标注数据量:{}'.format(all_record))
+            print('预测正确量:{}'.format(right_record))
+            print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
+            print('全部结束！！！！')
+            dict_model_test[name0] = right_record / all_record  # 此处。。。。
+        print(dict_model_test)
+
+        x = []
+        y = []
+        for key, value in dict_model_test.items():
+            print(key.strip('model_w1_e'), value)
+            x.append(int(key.strip('model_w1_e')))  # append() 方法用于在列表末尾添加新的对象。
+            y.append(value)
+        print(x, y)
+        plt.plot(x, y, "b-o", linewidth=2)
+        plt.xlabel("epoch")  # X轴标签
+        plt.ylabel("accu")  # Y轴标签
+        plt.title("Line plot")  # 图标题
+        plt.show()  # 显示图
+
 
 
 

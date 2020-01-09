@@ -1,2 +1,15 @@
-电容 c14 c19 c9 c118 c2 100 uf 25v 6 7mm 5
-电容 c7 c8 100 uf 35v 6 12mm 2
+插件 铝 电解电容 16px470mefc8x11.5 极性 470 µ f 20% 16v 105 ° c 1000 8.00 mm 13.00 mm 3.50 mm 105 ° c 16px470mefc8x11.5 90
+插件 铝 电解电容 16yxj220m6.3 x11 极性 220 µ f 20% 16v 105 ° c 7000 6.30 mm 12.50 mm 2.50 mm 105 ° c 16yxj220m6.3 x11 90
+插件 铝 电解电容 25yxf220mefc8x11.5 极性 220 uf 20% 25v 105 ℃ 7000 8 13 3.5 25yxf220mefc8x11.5 180
+插件 铝 电解电容 35zlh100mefc6.3 x11 极性 100 uf 20% 35v 105 ° c 6000 6.3 12.5 2.5 105 ° c 35zlh100mefc6.3 x11 90
+插件 铝 电解电容 50px470mefc10x20 极性 470 uf 20% 50v 105 ℃ 2000 10 20 5.0 105 ℃ 50px470mefc10x20 178
+插件 铝 电解电容 50yxf100mefc8x11.5 极性 100 uf 20% 50v 105 ° c 7000 8 13 3.5 105 ° c 50yxf100mefc8x11.5 90
+插件 铝 电解电容 50yxj220m10x16 极性 220 µ f 20% 50v 105 ° c 10000 10.00 mm 17.50 mm 5.00 mm 105 ° c 50yxj220m10x16 354
+插件 电容 c14 c19 c9 c118 c2 100 uf 25v 6 7mm 5
+插件 电容 c7 c8 100 uf 35v 6 12mm 2
+3 铝 电解电容 ccap 270 uf ± 20% 16v 6.3 8mm nichicon fp 016re271m s8cg dip nichicon fp 016re271m s8cg 45 1800
+4 铝 电解电容 ccap 470 uf ± 20% 6.3 v 6.3 8mm nichicon fp 6r3re471m s8cgl 5k dip nichicon fp 6r3re471m s8cgl 5k 2 80
+5 电解电容 ccap al 560 uf ± 20% 6.3 v 6.3 8mm ce25d63h80 nichicon fp 6r3re561m s8cg dip nichicon fp 6r3re561m s8cg 4 160
+c102 插件 铝 电解电容 470 uf 50v cap10 5 1 15
+po20190026 电解电容 400v 22 uf 12.5 25 p5 105 ℃ 5000h 9 ω 20 ℃ 120hz 750
+9 p20302000032 cap 10x16mm 35yxj470m 10x16 470 uf 35v 20% 电解电容 600

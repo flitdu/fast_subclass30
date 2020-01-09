@@ -1,13 +1,21 @@
 109 3121019 02 1 3500 cap elt smd 100 uf 35v 20% ece v1va101xp
 197 1 3500 cap elt smd 100 uf 35v 20% ece v1va101xp
-贴片 铝 电解电容 25tzv100m6.3 x8 有 极性 100 µ f 20% 25v 105 ° c 时为 2000 小时 6.30 mm 8.00 mm 105 ° c 25tzv100m6.3 x8 180
 31 贴片 yc0220692w 贴片 电解电容 63 mm 54 mm 220 uf ± 20% 10v sd 20 e1 e2 600000 00 01364 02728
 241.0 11003123 贴片 电解电容 470 uf 35v 10 10 30000.0
 244.0 11003150 贴片 电解电容 1000 uf 16v 30000.0
 245.0 11003151 贴片 电解电容 2.2 uf 50v 30000.0
 246.0 11003155 贴片 电解电容 470u 25v 20% 10x10 30000.0
 247.0 11003156 贴片 电解电容 47u 25v 20% 6x6 30000.0
-1 40 c29 贴片 电解电容 100 uf 35v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10mm lelon 立隆 vua101m1vtr 1010
+1 40 c29 贴片 电解电容 100 uf 35v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10mm lelon vua101m1vtr 1010
 1 40 xx 贴片 电解电容 47 uf 50v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10.2 mm eee1ha470p
 9 贴片 电解电容 47 uf 16v 10% 105 ° 5 5.4 10000 c4
 9 贴片 电解电容 47 uf 16v 10% 105 ° 5 5.4 c4 10000
+贴片 电解 电容器 ф 6.3 5.5 22 μ f 35v 6000
+贴片 电解 电容器 ф 6.3 5.5 100 μ f 16v 6000
+34 电解电容 ccap al 560 uf ± 20% 16v cesu80x117h120 nichicon fp 016me561m hsr smt nichicon fp 016me561m hsr 2 80
+35 电解电容 ccap al 180 uf ± 20% 16v 6.3 5.7 mm cesd63x57h60 nichicon fp 016me181m sar smt nichicon fp 016me181m sar 8 320
+46 电解电容 ccap al 220 uf ± 20% 6.3 v 6.3 5.7 mm cesd63x57h60 nichicon fp 6r3me221m sbr smt nichicon fp 6r3me221m sbr 1 40
+19 贴片 电解电容 22 uf 50v f6.3 xh5.3 cap smd f6.3 xh5.3 2 ec1 ec2 4200
+35v 33 uf cap e smd6.3 7.0 贴片 电解电容 3500.0
+16v 10 uf cap e smd4 2.0 贴片 电解电容 1000.0
+贴片 电解电容 220 uf 35v ￠ 8 10 1 c53

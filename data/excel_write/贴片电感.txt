@@ -18,3 +18,32 @@ cin0025 indutor smd 0603 15nh l3 1 lqp18mn15ng02d sim 5000.0 0.8488 0.8768
 69 叠层 电感 chip inducotrs cmfl0402 1r8k 1.8 uh ± 10% 15ma cmfl0402 1r8k 6377
 70 叠层 电感 电感 chip inducotrs cmfl0603 2r7k 2.7 uh ± 10% 0603 15ma cmfl0603 2r7k 6377
 1.0 1000.0 ferrite bead 0805 l1 inductors taiyo yuden bk2125hs601 t 500ma 600ohms 0805
+电感 12 mlz1608n100l 10uh â ± 20% shielded fixed inductor 300ma 600mohms max 0603 1608 metric 1 200000
+46 6104 2512125m 贴片 电感 贴片 电感 man uf acturing dfe252012f 1r0m 25 12 12 mm 1uh 20% 电流 5a dfe252012f 1r0m 80 quad
+29 贴片 电感 2nh 0402 0402 2nh ± 0.3 nh 900ma
+30 贴片 电感 3.6 nh 0402 0402 3.6 nh ± 0.3 nh 750ma
+78 电感 inducrot 22nh ± 10% 1.85 a 0805 mlh2012f22nk smt mlh2012f22nk 1 40
+贴片 电感 l1 smd 7.1 x6.6 x3mm 15uh sunltech 1 10000
+6 053w222203211 053 inductor 电感 green multayer chip inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100
+lqm21fn100m70l 0805 2012 metric l1 l4 l5 l7 l100 l101 l201 10uh 固定 电感器 7.0 28.0
+35 贴片 电感 1.0 nh 0.3 nh l0402 2 l10 l14 4200
+36 贴片 电感 24nh l0402 1 l13 2100
+14.0 贴片 电感 10uh cmfl1206 100kt l1 l2 1206 2.0 2000
+30.0 贴片 电感 cmfl0603 100kt 10uh l1 l2 l3 l4 l5 l6 l7 l8 0603 8.0 8000
+31.0 贴片 电感 cmfl1206 100kt l9 1206 1.0 1000
+26.0 22uh 0603 ls1 1.0 30.0
+27.0 22uh 1206 l1 1.0 10.0
+22uh 603 l1 1 30
+y13 l02 s000205 fixed ind 10uh 450ma 360 mohm nlcv32t 100k pf 贴片 电感 55
+y13 l02 s000205 fixed ind 10uh 450ma 360 mohm nlcv32t 100k pf 贴片 电感 59
+y13 l12 s000144 fixed ind 10uh 15ma 800 mohm smd 0805 mlf2012e100kt000 固定 电感器 120
+y13 l12 s000144 fixed ind 10uh 15ma 800 mohm smd 0805 mlf2012e100kt000 固定 电感器 70
+95 0603 电感 100uh 0603 1
+95 0603 电感 100uh 0603 1
+贴片 电感 47uh 贴片 电感 12 12 1 l5
+贴片 电感 2.2 uh 贴片 电感 4 4 3 l6 l7 l8
+贴片 电感 10uh 5 5 3030000006002 贴片 1 l1
+56.0 贴片 电感 la0r47 sr04 la0r47
+贴片 电感 10uh 5 5 3030000006002 贴片 1 l1
+60503002850 贴片 电感器 10uh 20% 0.28 r 3 3 0.9 mm 2pin smd lqh3npz100mgrl 50
+67.0 贴片 电感 0r 0603 2.0 l1 l4 6000

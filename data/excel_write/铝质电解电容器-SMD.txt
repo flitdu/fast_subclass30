@@ -1,3 +1,4 @@
+贴片 铝 电解电容 25tzv100m6.3 x8 极性 100 µ f 20% 25v 105 ° c 2000 6.30 mm 8.00 mm 105 ° c 25tzv100m6.3 x8 180
 27.0 2.0 c7m6 c100 100 uf 25v capale 6d3pi 2sp 6d6wl6h c smd al poly 100 uf 20% 25v 2.7 a 3khr 6.3 x8mm lt lf matsuki 40
 8 eee fp1e101ap cap alum smd 25v 100 uf 20% d8 l6.2 50000 0.175 8750
 9 eee fc1v221p cap alum smd 35v 220 uf 20% d10 l10 50000 0.2 10000
@@ -8,3 +9,34 @@
 33 铝 电解电容 ves101m1vtr 0607 100 uf 35v 6.3 7.7 105 度 lelon ves101m1vtr 0607 6377
 34 铝 电解电容 ves221m1ctr 0607 220 uf 16v 6.3 7.7 105 度 lelon ves221m1ctr 0607 19131
 8 12101005 电解电容 eefsx0e471e4 eefsx0e471e4 aec7 3x4 3x1 9mm sp cap 2.5 v 470 uf esr4.5 mohm 8.5 a 26 78000
+15 6102 ft1v3900 贴片 铝 电解电容 贴片 铝 电解电容 eeeft1v391up 390 uf 35v 8 102 mm eeeft1v391up 160 quad
+11 铝 电解电容 ccap 270 uf ± 20% 8.0 6.9 e7 16svpf270m smt 16svpf270m 1 40
+c1 c3 c5 c8 c10 c13 贴片 铝 电解电容 220 uf 25v 8x7 ct8x8 6.0 180.0 8 7
+c1 c14 c49 c59 c60 c61 c62 贴片 铝 电解电容 220 uf 50v 10% capcmd g 7 35
+c40 c105 贴片 铝 电解电容 100 uf 16v capcmd d 2 30
+c46 c74 c106 c120 c166 c194 c222 c250 贴片 铝 电解电容 220 uf 50v capcmd f 8 120
+1 90 2002030017 电解电容 alu nichicon ucl1c471mcl6gs 10 7.7 470 uf 20% 16v c108 c208 2 20 b 40 dlk
+1 200 2002030002 电解电容 alu nichicon uwx1e101mcl1gb 8 5.4 100 uf 20% 25v c997 c998 c1014 c1015 4 20 b 80 dlk
+6 0105 00332 电解电容 ucw1e470mcl1gs cap alum 47 uf 20% 25v smd nichicon ucw1e470mcl1gs nichicon 2100
+7 0105 00333 电解电容 ucw1c101mcl1gs cap alum 100 uf 20% 16v smd nichicon ucw1c101mcl1gs nichicon 1050
+43.0 铝 电解电容 rxw151m1cbk 0611 150 uf 16v ec1 6 11mm 1.0 1000
+000020 c5 c6 贴片 电容 220 uf cap sm 220 uf eee fk1v221gp 2 elec comp 2240
+000090 c73 贴片 电容 47 uf cap sm alum poly sm 47 uf 875105142001 1 wurth 1120
+po20190026 贴片 铝 电解电容 6.3 mm 7.7 mm 贴片 50v 47 uf 6.3 x7.7 p7.4 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
+po20190026 贴片 铝 电解电容 8mm 10mm 贴片 35v 100 uf 8x10 p9.2 105 ℃ 2000h 2 ω 20 ℃ 120hz 2910
+po20190026 贴片 铝 电解电容 10mm 10.5 mm 贴片 35v 470 uf 10mm 10.5 p10.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 1470
+po20190026 贴片 铝 电解电容 8mm 10.5 mm 贴片 16v 470 uf 8mm 10.5 p8.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
+y13 c05 s000313 贴片 电解电容 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
+y13 c05 s000313 贴片 电解电容 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
+y13 c05 s000314 贴片 电解电容 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
+y13 c05 s000314 贴片 电解电容 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
+y13 c05 s000315 贴片 电解电容 100 uf 25v smd 8x10mm vua101m1etr 0810k 铝 电解电容 50
+贴片 钽电容 10 uf 16v 3216 10% 3024200006002 3216 3 c1 c6 c17
+16 6p7901b0 c05 s000289 cap alum 220 uf 20% 35v smd 10.00 mm x 10.00 mm mal214699004e3 铝 电解电容 6
+220 uf cp elec 8x6.9 1 pcr1c221mcl1gs polarized capacitor 100
+220 uf cp elec 8x10 1 pcr1v221mcl1gs polarized capacitor 100
+贴片类 贴片 铝 电容 10 uf 50v 6.3 x5.5 mm 1 c135 8570
+贴片类 贴片 铝 电容 220 uf 16v 6.3 x7.7 mm 3 c181 ec1 ec2 25710
+贴片类 贴片 铝 电容 470 uf 25v 10x10.5 mm 3 c88 c95 c100 25710
+贴片类 贴片 铝 电容 470 uf 35v 10x10.5 mm 5 c83 c84 c86 c94 c99 42850
+cap alum 330 uf 20% 25v smd 8mm 10mm uwt1e331mnl1gs nichicon 贴片 铝 电解电容 798

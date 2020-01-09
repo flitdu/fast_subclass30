@@ -1,1 +1,13 @@
 14.0 10901070 压敏 电阻 470kd10j sip 30000.0
+压敏 电阻 10d471k un 直插 dip 5500 0.1
+压敏 电阻 14d561k un 200 0.2
+21 插件 myg 07k471 1 压敏 电阻 两脚 5mm
+21 插件 myg 07k471 1 1000000 压敏 电阻 两脚 5mm
+5 0103 00065 压敏 电阻 mov 10d511ktr varistor 5 10v 25 ka disc 10mm inc mov 10d511ktr 1050
+42 1777 0 42 varistor thd 275v 25a dip 2pin mov 10d431k 2.0 20000
+17 压敏 电阻 b72220p3511k101 5 10v b72220p3511k101 1200
+44.0 压敏 电阻器 10d561k mov1 7.5 mm yini 1.0 1000
+39 vdr1 vdr2 2.0 varistor varistor varistors 3 50v 430 387 473 7 10v 25a through hole through hole erzv10d431
+压敏 电阻 330kd07 1 rv1
+压敏 电阻 tvr 2 5w 680v 10d681 4 680v 10 rv2 直插 rvs1 rvs2 rvs3 rvs4 8000
+29 varistor 10d561k p7.5 mm short legs 3.5 mm 10000

@@ -1,1 +1,18 @@
-电阻 r49 1w 100r 1
+插件 电阻 r49 1w 100r 1
+金属膜 电阻 4.7 k 1 8w ± 1% 5000 0.005
+金属膜 电阻 200k 1w ± 1% 2000 0.06
+直插 功率 金属膜 电阻 470r 0.5 w ± 1% 直插 dip 5000 0.035
+2.0 插件 电阻 rt 30 ω 3w ± 5 ﹪ ф 5 15 ф 5 15 手 插件 1 r1 5000.0
+1m 1w 五色 环 金属膜 电阻 r20 插件 10 1
+42.0 直插 金属膜 电阻 mfr50s t 52 0r 1 2w ra1 ra2 rb1 rb2 rc1 rc2 axial 6.0 6000
+1 r1 1.0 resistor 100r 1% res 100 ohm 1% 2w axial uniroyal mfr02sf1000a10
+3 r3 r4 2.0 resistor 1m 1% res 1m ohm 1% 1 4w axial uniroyal mfr0w4f1004a50
+9 r18 r21 2.0 resistor 470r 1% res 470 ohm 1% 1 4w axial uniroyal mfr0w4f4700a50
+10 r22 r24 2.0 resistor 3.9 k 1% res 3.9 k ohm 1% 1 4w axial uniroyal mfr0w4f3901a50
+12 r25 r27 2.0 resistor 680r 1% res 680 ohm 1% 1 4w axial uniroyal mfr0w4f6800a50
+15 r39 r40 2.0 resistor 10k 1% res 10k ohm 1% 1 4w axial uniroyal mfr0w4f1002a50
+16 r42 1.0 resistor 22r 1% res 22 ohm 1% 2w axial uniroyal mfr02sf220ja10
+18 p14 1.0 resistor 150r 1% res 150 ohm 1% 1 4w axial uniroyal mfr0w4f1500a50
+po20190026 金属膜 电阻 500v 3w 10 ω ± 5% 金属膜 电阻 1470
+y13 r03 s000002 3 毫欧 ± 1% bvs r003f 10.2 5.4 1.4 mm bvs a r003 1.0 isabellenhuette 金属 薄膜 电阻 50
+y13 r03 s000003 2 毫欧 ± 1% bvs r002f 10.2 5.4 1.4 mm 2p bvs a r002 1.0 isabellenhuette 金属 薄膜 电阻 50

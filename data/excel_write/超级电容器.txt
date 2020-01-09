@@ -1,2 +1,4 @@
 electric double layer capacitors 0.22 f 5v c36 1 dx 5r5h224u sim 5000.0 6.1936 6.3121
 1.0 1000.0 eec s0hd224hn rg 105x50 v c10 capacitor super cap eec rg0v224h cap 0.22 f 3.6 v
+15 0108 00100 超级 电容 dx 5r5v224u cap 220mf 20% 80% 55 v t h elna dx 5r5v224u elna 1050
+法拉 电容 1.5 f 5.5 v 法拉 电容 ￠ 19 c 1 c1

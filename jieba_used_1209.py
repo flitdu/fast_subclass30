@@ -140,26 +140,26 @@ class Operate_excel:
                 # print(aa, '小写--停用词结果')  #移到后面
                 aa_label = aa.split()[0].replace('/', '')  # 替换标签里面 '/'
                 # aa_label = aa.split()[0] # 替换标签里面 '/'
-                if aa_label == '电池电池配件':
-                    aa_label = '电池配件'
-                if aa_label == '功能模块开发板方案验证板':
-                    aa_label = '方案验证板'
-                if aa_label == '二级管':
-                    aa_label = '二极管'
-                if aa_label == '仪器仪表及配件':
-                    aa_label = '仪器仪表'
-                if aa_label == '天线':
-                    aa_label = '射频无线电'
-                if aa_label == '光耦':
-                    aa_label = '光电器件'
-                if aa_label == '处理器和控制器':
-                    aa_label = '处理器和微控制器'
-                if aa_label == '险丝座':
-                    aa_label = '保险丝'
-                if aa_label == '模拟开关':
-                    aa_label = '模拟芯片'
-                if aa_label == '逻辑器件':
-                    aa_label = '逻辑芯片'
+                if aa_label == '贴片电容;':
+                    aa_label = '贴片电容'
+                # if aa_label == '功能模块开发板方案验证板':
+                #     aa_label = '方案验证板'
+                # if aa_label == '二级管':
+                #     aa_label = '二极管'
+                # if aa_label == '仪器仪表及配件':
+                #     aa_label = '仪器仪表'
+                # if aa_label == '天线':
+                #     aa_label = '射频无线电'
+                # if aa_label == '光耦':
+                #     aa_label = '光电器件'
+                # if aa_label == '处理器和控制器':
+                #     aa_label = '处理器和微控制器'
+                # if aa_label == '险丝座':
+                #     aa_label = '保险丝'
+                # if aa_label == '模拟开关':
+                #     aa_label = '模拟芯片'
+                # if aa_label == '逻辑器件':
+                #     aa_label = '逻辑芯片'
 
                 if aa_label != 'nan':
                     # print(aa_label, '~~~~~~~')

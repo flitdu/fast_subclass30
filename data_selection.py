@@ -88,6 +88,7 @@ class Operate_txt:
             #     print(i, a[i])
             plt.plot(i, label_number[i], 'r:o')
         plt.grid()
+        plt.xticks(rotation=270)  # 标签旋转
         plt.show()
         print('txt_get_somelines: done!!!!')
 
@@ -166,7 +167,7 @@ def merge_txts(line_select_number):
 
     # a.txt_split(0.5)  # 测试比例
     # a.txt_change(r'D:\dufy\code\ft_BOM\data\initial')  # 待融合txt 合剂路径
-    a.txt_change(r'D:\dufy\code\work_record\data\excel_write')  # 待融合txt 合剂路径
+    a.txt_change(r'D:\dufy\code\fast_subclass30\data\excel_write')  # 待融合txt 合剂路径
     a.txt_get_somelines(line_select_number)  # 读取行数
 
 if __name__ == '__main__':

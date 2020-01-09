@@ -1,2 +1,13 @@
 335.0 11801009 贴片 有源 晶振 5v 4m 7050 30000.0
 335.0 11801009 贴片 有源 晶振 5v 4m 7050 30000.0
+240 晶振 crystal 24mhz 50ppm 15pf 3.2 2.5 mm x4s32x25h11 txc 7x24000005 smt txc 7x24000005 1 40
+241 晶振 crystal 50mhz ± 25ppm 15pf diodes fk5000037 3.2 2.5 smt diodes fk5000037 1 40
+11 060026 有源 晶振 sit9121ai 2b3 33e15000000 y 20
+11 060027 有源 晶振 sit9121ai 2b3 33e148500000 y 20
+y1 有源 晶振 16m 625l3c016m00000 625l3c016m00000 osc cts 625 1 15
+1 有源 振荡器 有源 振荡器 65.536 mhz 3.3 v 3225 贴装 ± 30ppm 1000
+sg 310 scf c 20.0 mhz sg 310 scf 20.4800 ml0 cry4 3225 smd 3.2 mm 2.5 mm y2 标准 时钟 有源 振荡器 20.48 mhz 3.3 volt 50ppm 40c 85c 1.0 4.0
+204 贴片 有源 晶体 32.768 khz ± 30ppm v 3.3 v osc32327683350 smd3225 d3sx00327000qe 3.3 v hosonic tcxo 3225 s 1 20 2000 30000
+000440 u5 集成电路 ic 12mhz osc clock osc 12mhz 33 v asemb 12000 mhz lc t 1 abracon 1120
+a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mhz xy t abracon 晶振 10
+64mhz oscillator smd txc 7c 4pin 5.0 x3.2 mm 1 kc5032a64.0000 c10e00 kyocera 50ppm crystal oscillator low profile high stability spxo 100

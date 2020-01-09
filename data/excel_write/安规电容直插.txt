@@ -1,0 +1,6 @@
+22 插件 0.1 uf mpx 40 100 21 c 1 1cm 电容 0.1 uf
+22 插件 0.1 uf mpx 40 100 21 c 1 1000000 1cm 电容 0.1 uf
+21 1777 0 21 weidy capacitor thd capacitor non polarity 22 nf 3 10v mkp x10 و 20% dip 18x5x11 mm w41q3223 km8l jfz0a9223k150000b jb 1.0 10000
+22 1777 0 22 weidy capacitor thd capacitor non polarity 1.2 uf 3 10v mkp x2 dip 31.4 x10.5 x20.5 mm w41q3125 ks8l jfz0a9125k150000b jb 1.0 10000
+23 1777 0 23 weidy capacitor thd capacitor non polarity 470 nf 3 10v mkp x2 dip 26.5 x7x11 mm w41q3474 kp8l jfz0a9474k150000b jb 1.0 10000
+6 薄膜 电容 b32922c3104m 100nf 插件 b32922c3104m dip 900

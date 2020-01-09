@@ -1,0 +1,1 @@
+2 r2 1.0 resistor 47r 5% res 47 ohm 5% 5w axial chian chia elec cr l5w47 ω j

@@ -17,7 +17,40 @@ capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000
 20 tajd476m025tnjv capasitor 47 uf toleranc 20% 2917 automotive 16weeks 10000 0.45 4500
 24 tajc226m025tnjv capasitor 22 uf toleranc 5% 2312 automotive 16weeks 10000 0.24 2400
 8 贴片 钽电容 2.2 uf 16v 10% 105 ° 1206 c3 10000
-钽电容 593d336x9020d2 4 8040 593d336x9020d2te3 1500 a 2.5186 7 12d 价高 太 多 重新 推荐
+钽电容 593d336x9020d2 4 8040 593d336x9020d2te3 1500 a 2.5186 7 12d
 钽质 电容器 固体 smd tajd336k020rnj 1
 35 贴片 钽电容 cape3216 100 uf ± 10% 100 uf 6v3 12754
 36 贴片 钽电容 cape3216 10 uf ± 10% 10 uf 10v 6377
+贴片 钽电容 3528 22 uf 16v 2000
+93 贴片 坦质 电容 ccap 470 uf ± 20% 2.5 v 7.3 4.3 2.0 mm kemet t520v477m2r5ate009 smt kemet t520v477m2r5ate009 52 2080
+1 贴片 坦质 电容 ccap 330 uf ± 20% 6.3 v d2 sanyo 6tpc330ma smt sanyo 6tpc330ma 18 720
+35 贴片 坦质 电容 ctcap b 2.2 uf ± 10% 16v tajr225k016rnj smt tajr225k016rnj 2 80
+2002020012 钽电容 tan tpsc476k010r0350 6032 47 uf 10% 10v 5 20 0.03 b 100
+c5 钽电容 4.7 uf 16v 3216 a 1 5
+c70 钽电容 100 uf 107 ± 10% 6.3 v lc case b 3528 1 5
+c76 c82 c84 c108 c111 c113 钽电容 taja106k016rnj taja106k016rnj 3528 b 6 corporation 16 uf 16v 30
+c28 c29 钽电容 taja225k016rnj taja225k016rnj 3216 a 2 corporation 2.2 uf 16v 12
+c28 c29 钽电容 2.2 uf 16v 3216 a 2 30
+c34 钽电容 10v 100 uf 7343 de 1 15
+c154 c156 钽电容 10 uf 35v 6032 c 2 30
+1 130 2002020001 钽电容 tan tajd107k016rnj 7343 100 uf 10% 16v c147 c149 c891 c996 c999 ck08 ck09 ck11 8 20 b 160 dlk
+1 180 2002020005 钽电容 tan tajb106k020rnj 3528 10 uf 10% 20v c836 c846 2 20 b 40 dlk
+2 100 uf 16v c23 c24 d 7343 tantilum 16v ± 10% smd d 7343 tajd107k016rnj 40.0
+1 680 uf 6.3 v tantalum c26 eia7343 tantilum 6.3 v ± 10% smd taje687k006rnj 20.0
+t491b226k010atautotrjb226k010rrjtpsb226k010t0700tcqb226m006r0070f971a226mbaf970j226mba 3528 1210 英制 smd 3.5 mm 2.8 mm kemet ce5 ce6 贴片 钽电容 22 uf 10v low esr 3.5 mm 2.8 mm 2.0 8.0
+47 uf 10v 胆 电容 c40 贴片 b 10 1
+a44 c06 s000028 cap tant 0.1 uf 35v 10% 1206 t491a104k035at kemet 钽电容 11
+a44 c06 s000329 cap tant 10 uf 20% 10v 1206 t491a106m010atauto kemet 钽电容 11
+a44 c06 s000330 cap tant 47 uf 10% 6.3 v 1206 t491a476k006at kemet 钽电容 42
+a44 c06 s000331 钽质 电容器 固体 smd 10v olts 47 uf 20% esr 1500 1206 tljg476m010r1500 钽电容 11
+贴片 钽电容 100 uf 10v 3528 b 6 c23 c24 c52 c93 c94 c95
+54.0 钽电容 10 uf 6.3 v 3528 smd 1.0 c15 3000
+55.0 钽电容 47 uf 6.3 v 3528 smd 2.0 c19 c28 6000
+63.0 铝 电容 100 uf 10v 80% 20% smd 1.0 c38 3000
+64.0 铝 电容 220 uf 10v 80% 20% smd 3.0 c57 c62 c64 9000
+53 钽电容 47u 4v 3528 smd 5 c79 c86 c94 c100 c127 15000
+54 铝 电容 47u 16v 80% 20% smd 1 c110 3000
+55 铝 电容 220u 16v 80% 20% smd 2 c111 c120 6000
+7 钽电容 10 uf 106 ± 10% 25v tajb106k025rnj case b 3528 2000
+3 p20302000022 c case tajc476k016rnj 47 uf 16v 10% 贴片 钽电容 2
+4 p20302000027 b case tajb106k016rnj 10 uf 16v 10% 贴片 钽电容 1
