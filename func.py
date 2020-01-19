@@ -13,7 +13,8 @@ Change Activity:
 -------------------------------------------------
 """
 
-import fastText.FastText as ff
+# import fastText.FastText as ff
+import fasttext as ff
 import jieba
 jieba.load_userdict('dict_boom.txt')
 

@@ -1,4 +1,9 @@
 electric double layer capacitors 0.22 f 5v c36 1 dx 5r5h224u sim 5000.0 6.1936 6.3121
 1.0 1000.0 eec s0hd224hn rg 105x50 v c10 capacitor super cap eec rg0v224h cap 0.22 f 3.6 v
 15 0108 00100 超级 电容 dx 5r5v224u cap 220mf 20% 80% 55 v t h elna dx 5r5v224u elna 1050
+cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
+cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
+0.22 f 3.6 v cap 10p10d supercap 3.6 v 0.22 f eecrg0v224h 600 9920 7000 0988
+17.0 08090004 eecf5r5h104 1 50 超级 电容 b super capacitor 5.5 v 0.1 f 80% 20% 150 ω 14.5 15.5 5mm 85 ℃ 40 ℃
+c1 1 283 2811 nd eaton bussmann kr 5r5c155 r cap 1.5 f 20% 80% 5.5 v t h 5000
 法拉 电容 1.5 f 5.5 v 法拉 电容 ￠ 19 c 1 c1

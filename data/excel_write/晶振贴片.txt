@@ -31,4 +31,6 @@ cxt0010 nx3225ga 26mhz crystal smd q2 1 nx3225ga 26mhz sim 5000.0 2.6765 2.7326
 201 贴片 晶体 贴片 晶振 24.000 mhz ± 20ppm smd3225 txc 24mhz 30 ℃ 85 ℃ 24m 10p 3225 1 20 2000 30000
 202 贴片 晶体 贴片 晶振 26.000 mhz ± 20ppm smd3225 txc 26mhz 30 ℃ 85 ℃ 26m 7.5 pf ± 10p 3225 1 20 2000 30000
 205 贴片 晶体 8m 20pf 20ppm smd5032 pns53080002020100 8mhz 20ppm 20 si5032 1 20 2000 30000
+14.0 1.0 mc 贴片 xt1 1.0 10.0
+99 065w025111281 703514000200 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30 y 1 100 mbs 5330 1.0
 8mhz 晶振 y1 xtal 49smd 1 5

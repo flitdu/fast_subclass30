@@ -1,1 +1,3 @@
+18.2 贴片 ptc 热敏电阻 smd1812p050tf jk msmd050 4 16
 18 热敏电阻 b59755b0115a070 500 b59755b0115a070 900
+res thermal 470 thermistor ptc ptcsgm3t081dbe ptcsgm3 ptcsgm3t081dbe 600 9920 7000 1000

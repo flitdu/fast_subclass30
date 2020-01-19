@@ -2,6 +2,14 @@
 145 310008300 3 3500 cap 100 uf 10v 20% low esr tantalum tpsd107k016r0125
 196 1 500 cap elt smd 100 uf 10v tant tajd107m010r
 4 tantalum capacitor 220 uf 4v ± 20% b case tajb227m004rnj 10000
+181.0 11001030 钽 电解电容 10 uf 16v 3216 0.0
+182.0 11001032 钽 电解电容 10 uf 35v 6032 100.0
+183.0 11001033 钽 电解电容 22 uf 25v 6032 100.0
+205.0 11003033 贴片 钽 电解电容 10 uf 16v 3528 0.0
+209.0 11003050 贴片 钽电容 47 uf 25v 7243 233.0
+226.0 11003083 贴片 钽电容 10 uf 35v 7343 0.0
+227.0 11003084 贴片 钽电容 470 uf 7343 50.0
+229.0 11003087 贴片 钽电容 10 uf 16v sma 0.0
 capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000
 181.0 11001030 钽 电解电容 10 uf 16v 3216 30000.0
 182.0 11001032 钽 电解电容 10 uf 35v 6032 30000.0
@@ -21,6 +29,13 @@ capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000
 钽质 电容器 固体 smd tajd336k020rnj 1
 35 贴片 钽电容 cape3216 100 uf ± 10% 100 uf 6v3 12754
 36 贴片 钽电容 cape3216 10 uf ± 10% 10 uf 10v 6377
+16.1 钽电容 25v 226k d 1 4
+16.2 钽电容 16v 107k d 1 4
+16.299999999999997 钽电容 25v 476k d 3 12 kemet
+16.399999999999995 钽电容 16v 106k b 11 44
+16.499999999999993 钽电容 25v 226k c 3 12
+16.59999999999999 钽电容 16v 106k a 22 88
+16.69999999999999 钽电容 35v 226k d 2 8 kemet
 贴片 钽电容 3528 22 uf 16v 2000
 93 贴片 坦质 电容 ccap 470 uf ± 20% 2.5 v 7.3 4.3 2.0 mm kemet t520v477m2r5ate009 smt kemet t520v477m2r5ate009 52 2080
 1 贴片 坦质 电容 ccap 330 uf ± 20% 6.3 v d2 sanyo 6tpc330ma smt sanyo 6tpc330ma 18 720
@@ -39,6 +54,64 @@ c154 c156 钽电容 10 uf 35v 6032 c 2 30
 1 680 uf 6.3 v tantalum c26 eia7343 tantilum 6.3 v ± 10% smd taje687k006rnj 20.0
 t491b226k010atautotrjb226k010rrjtpsb226k010t0700tcqb226m006r0070f971a226mbaf970j226mba 3528 1210 英制 smd 3.5 mm 2.8 mm kemet ce5 ce6 贴片 钽电容 22 uf 10v low esr 3.5 mm 2.8 mm 2.0 8.0
 47 uf 10v 胆 电容 c40 贴片 b 10 1
+po20190026 温度 3000027858 贴片 钽电容 贴片 钽电容 16v 47 uf ± 20% b 1210 870
+120 034w000005000 701801007600 电容 330 uf 2.5 v ± 20% smd 11mr 2700ma h 1.9 mm etpe330mbjb 26 2600 mbs 5330 26.0
+122 034w133793171 701801005203 电容 smd 330 uf 2v ± 20% b type tpe 2tpe330ma9rg 24 2400 mbs 5330 24.0
+39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
+40 05004 00508 贴片 钽电容 10 uf 16v cap b 3528 8 c17 c18 c19 c20 c21 c84 c92 c101 176
+39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
+40 05004 00508 贴片 钽电容 10 uf 16v cap b 3528 8 c17 c18 c19 c20 c21 c84 c92 c101 176
+tpse476k035t02 50v tantalum capacitors solid smd 35v 47 uf dry pack esr 250ohms aec q200 3d cap 7343 c30 c43 c56 c69 c82 c134 c146 c167 c171 c191 c194 c201 c204 c214 c219 2.0 700.0
+091802 153001 贴片 钽电容 10 uf 10v 0603 1867
+39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
+40 05004 00508 贴片 钽电容 10 uf 16v cap b 3528 8 c17 c18 c19 c20 c21 c84 c92 c101 176
+tpse476k035t02 50v tantalum capacitors solid smd 35v 47 uf dry pack esr 250ohms aec q200 3d cap 7343 c30 c43 c56 c69 c82 c134 c146 c167 c171 c191 c194 c201 c204 c214 c219 2.0 700.0
+11 贴片 钽电容 22 uf 16v c3528 b 2 c15 c16 2000 2000 0 2000 tajb226k016rnj 2000.0 贴片 钽电容 22 uf 16v c3528 b 2.0 c15 c16
+d 钽电容 22u 25v 20% e4 d 1.0 100.0 top
+b 钽电容 22u 10v 20% e1 e5 e6 e7 e8 e9 e10 e11 e12 e13 b 10.0 1000.0 top
+10 uf 1% 钽电容 钽电容 c4 c6 c8 c10 c18 case b 3528 5 25
+10 uf 1% 钽电容 钽电容 c48 c49 case d 7343 2 10
+22 uf 1% 钽电容 钽电容 c51 case d 7343 1 5
+0.1 uf 钽电容 钽电容 c53 c54 c64 c96 c97 c106 c107 case b 3528 7 35
+1 uf 钽电容 钽电容 c55 c56 c66 c98 c99 c108 c109 case b 3528 7 35
+0.1 uf 钽电容 钽电容 c63 case b 3528 1 5
+1 uf 16v 钽电容 钽电容 c65 case b 3528 1 5
+10 uf 1% 钽电容 钽电容 c67 c68 c71 c72 c80 c82 c86 c110 c111 c114 c115 c123 c129 case b 3528 13 65
+10 uf 钽电容 钽电容 c125 case b 3528 1 5
+capc 102 3 091802 146001 贴片 钽电容 25v 4.7 uf tajb475k025rnj ctb3528 3528 30
+capc 102 3 091802 146001 贴片 钽电容 贴片 钽电容 3528 25v 4.7 uf tajb475k025rnj 3528 50
+capc 102 3 091802 145901 贴片 钽电容 贴片 钽电容 3528 25v 10 uf tajb106k025rnj 3528 100
+capc 102 3 贴装 钽电容 c3528 22 uf 25v 3528 120
+capc 102 3 贴片 钽电容 25v 47 uf ctb3528 3528 30
+capc 102 3 贴片 钽电容 贴片 钽电容 3528 25v 47 uf 3528 60
+7 10 capacitor cap 10 uf tant 20v 20% smd c126 399 5157 1 nd kemet t494a106m020at each
+100 10 capacitor tantalum 100 uf 10v 1206 20% c3 c4 478 6251 1 nd tlnk107m010r2500 each
+111 10 cap tant 10 uf 20v 20% 1411 c126 399 8300 1 nd kemet t491b106m020at each
+7 rfoa02 03 087 capacitor tant 22 uf 63 v 10% case a taja226k006r taja226k006r 2 230
+8 rfoa02 03 212 capacitor tant 33 uf 63 v 10% case a taja336k006r taja336k006r 1 120
+贴片 高分子 钽 电解电容 t520d477m006ate030 6tpb470m 额定 电压 6.3 v 容量 470 μ f 容 20% 漏 电流 ≤ 296.1 μ a 损耗 角 ≤ 0.15 允许 纹波 电流 ≤ 2.7 a 等效 串联 电阻 ≤ 35m ω 温度 55 105 ℃ 2000h 7.3 4.3 厚度 kemet 2.8 ± 0.3 mm 3.8 ± 0.2 mm sanyo 300 90000
+4 贴片 钽 电解电容 7343 16v 100 uf ± 10% d 7343 6 500 3000 c159 c171 c185 c187 c192 c194
+14.0 贴片 钽电容 10 μ f 16v a tana 1000 cx1 cx2 贴装
+15.0 贴片 钽电容 22 uf 10v b 3528c 1500 c12 c8 c10 贴装
+60202000950 taje227k016rnj 钽电容 16v 220 uf ± 10% 7343 e 2pin smd 160
+19 钽电容 4.7 uf 16v cs6y a 1 c40
+12 钽电容 10 uf c1206 9 18
+13 钽电容 47 uf c3528 5 10
+14 钽电容 330 uf ca45 d 1 2
+26 贴片 电容 t491a105k035at t491a105k035at 1 uf ± 10% 16v c106 kemet 50
+25 钽电容 t491a225k016at t491a225k016at 2.2 uf ± 10% 16v c225 kemet 400
+1 钽电容 t491a226k010at t491a226k010at cap 22 uf 16v 20% t 3216 600
+1 钽电容 ca45b106kc ca45b106kc 10 uf ± 10% 16v 106c 莆田 华达 3350
+4 钽电容 ca45b106ke ca45b106ke 10 uf ± 10% 25v 106e 莆田 华达 950
+2 钽电容 ca45b107ka ca45b107ka cap 100 uf 6.3 v 20% 1210 b 800
+3 钽电容 ca45b225ke ca45b225ke 2.2 uf ± 10% 25v 225e 莆田 华达 8000
+2 钽电容 ca45b226kc ca45b226kc 22 uf ± 10% 16v 226c 莆田 华达 950
+4 钽电容 ca45b475ke ca45b475ke 4.7 uf ± 10% 25v 475e 200
+4.0 1.0 c5 100u 6v3 tajb107k006tnj cap ta smd b 300.0
+5.0 2.0 c6 c7 33u 16v tajb336k016r cap ta smd b 600.0
+1.0 c9 t495d337m006ate050 10.0 kemet molded tantalum capacitors 330 uf 6.3 v 20% size code d 2917 7343 metric
+10 uf 16v taja106k016rnj c3 c5 c22 case a 3216 2 200 3 600
+tpsa475k020r1800 cap tant 4.7 uf 百份 之 10 20v 1206 4000
 a44 c06 s000028 cap tant 0.1 uf 35v 10% 1206 t491a104k035at kemet 钽电容 11
 a44 c06 s000329 cap tant 10 uf 20% 10v 1206 t491a106m010atauto kemet 钽电容 11
 a44 c06 s000330 cap tant 47 uf 10% 6.3 v 1206 t491a476k006at kemet 钽电容 42
@@ -54,3 +127,30 @@ a44 c06 s000331 钽质 电容器 固体 smd 10v olts 47 uf 20% esr 1500 1206 tlj
 7 钽电容 10 uf 106 ± 10% 25v tajb106k025rnj case b 3528 2000
 3 p20302000022 c case tajc476k016rnj 47 uf 16v 10% 贴片 钽电容 2
 4 p20302000027 b case tajb106k016rnj 10 uf 16v 10% 贴片 钽电容 1
+14 钽电容 10 uf 10% 6.3 v case a 75
+15 钽电容 22 uf 20% 16v case b 11
+2 贴片 钽电容 taja106k010rnj 10 uf 10v 10% 55 ℃ 105 ℃ cd a 3216 64
+8 钽电容 10 uf ± 10% 16v case a 3216 21
+钽电容 100 uf 20% 25v 2917 taje107m025rnj 等级 a taje107m025rnj 20
+钽电容 1206 33 uf 20% 6.3 v tca0j336m8r 等级 c tca0j336m8r 1206 30
+cap tant 33 uf 25v 10% 2413 t491c336k025at kemet 2
+cap tant 470 uf 10% 10v 2917 293d477x9010e2te3 sprague 1
+cap tant 47 uf 10% 25v 2917 293d476x9025e2te3 sprague 1
+3 钽电容 47 uf 6.3 v 10% 1206cap 4000
+7 表贴 钽电容 4.7 uf 25v a 3.0 c4 c122 c125 电气 性能 最优 耐压 2400
+9 表贴 钽电容 10 uf 16v a 7.0 c17 c91 c130 c154 c164 c194 c199 5600
+11 表贴 钽电容 10 uf 25v b 1.0 c51 电气 性能 最优 耐压 800
+12 表贴 钽电容 22 uf 20v b 1.0 c59 电气 性能 最优 耐压 800
+23 表贴 钽电容 2.2 uf 10v a 1.0 c131 电气 性能 最优 耐压 800
+33 表贴 钽电容 100 uf 50v d 1.0 c219 电气 性能 最优 耐压 800
+40 贴片 钽电容 3216 10 uf k 16v 3 30
+41 贴片 钽电容 6032 10 uf k 25v 5 50
+40 贴片 钽电容 3216 10 uf k 16v 3 1500
+41 贴片 钽电容 6032 10 uf k 25v 5 2500
+钽 电解 电容器 钽电容 e 35v 226 k e 35v 226 k c50 c68 2 10
+钽电容 100 uf 16v tajd107k016rnjv d 400
+57 钽电容 t491a106k010at kemet 3.0 50.0 150.0 smt 10 uf 10v 10%
+58 钽电容 taja106k010rnj 50.0 0.0 smt 10 uf 10v 10%
+59 钽电容 tca1a106m8r rohm 50.0 0.0 smt 10 uf 10v 20%
+60 钽电容 f931a106maa ninchion 50.0 0.0 smt 10 uf 10v 20%
+tajd227m010 tan 220 uf 10v ± 10% 7.3 4.3 2.9 c13 c14 2.0 2000.0 10000.0

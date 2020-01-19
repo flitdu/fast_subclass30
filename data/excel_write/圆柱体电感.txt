@@ -1,0 +1,2 @@
+wi ind 0023 l3 22 mh 1 fixed ind 22 mh 360ma 59 ohm th inc rlb9012 222kl rlb9012 222kl nd radial th 650
+功率 电感 tsl1112ra 102jr50 pf 1mh 0.5 a ± 5% 直插 电感 11 12mm 脚距 5mm 10000

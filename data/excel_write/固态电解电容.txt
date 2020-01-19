@@ -1,3 +1,7 @@
 9 电解电容 ccap al 220 uf ± 20% 6.3 v 6.3 5.7 mm cesd63x57h60 nichicon fp 6r3me221m sbr smt nichicon fp 6r3me221m sbr 1 40
 13 铝 电解电容 ccap 270 uf ± 20% 8.0 6.9 e7 16svpf270m smt 16svpf270m 1 40
 4 11 0102 004 001 固态 电容 820 uf 16v 8 12 105 ℃ 插件 c5 1 10000.0
+17 034w000010000 701801003801 solid cap 固態 電容 cas jason 190815 scap 100 uf 6.3 v ± 20% b type smd kemet t520b107m006ate035 4 2000
+18 034w000013000 701801005202 solid cap 固態 電容 cas jason 190815 scap 330 uf 2.5 v ± 20% b type smd kemet t520b337m2r5ate009 13 6500
+100 uf 16v orz101m1cbk 0606 lelon c10 cs 2.5 6.3 7 c 2 200 1 200
+100 uf 35v spz1vm101e08o00raxxx aishi 集团 c11 cs 2.5 6.3 11 r 2 200 1 200

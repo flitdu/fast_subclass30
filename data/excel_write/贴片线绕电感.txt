@@ -3,3 +3,12 @@
 11 030055 贴片 电感 swpa4018s4r7mt 40
 11 030016 贴片 电感 22 uh vls252012hbx 2r2m 1 40
 11 030055 电感 swpa4018s4r7mt 40
+wi ind 0017 l4 220uh 1 fixed ind 220uh 200ma 46 ohm power solutions inc 84224c 811 3636 6 nd 780
+42 电感 srn6045 330m srn6045 ws040001 1 9200
+23 top 贴片 电感 5.6 nh 0402 5.6 nh 0402 电感 l2 l3 2 20
+33 top 贴片 电感 2.4 nh 0402 2.4 nh 0402 电感 r36 r50 2 20
+2 bot 贴片 电感 5.6 nh 0402 5.6 nh 0402 电感 l3 1 120
+swpa3012s100mt swpa3012s100mt l1 swpa3012s100mt inductor iron 1 10
+swpa6045s470mt swpa6045s470mt l6 swpa6045s470mt inductor 1 10
+9 贴片 电感 pio54100kt 10uh ± 10% 100 1000
+1210 3225 2.2 uh 5% 320ma nlv32t 2r2j pf 贴片 电感 2000.0

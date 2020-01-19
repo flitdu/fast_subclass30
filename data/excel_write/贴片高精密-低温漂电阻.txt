@@ -1,2 +1,18 @@
 12.0 10901045 电阻 5.1 k 1 4w 30000.0
 13.0 10901047 电阻 27k 1 4w 30000.0
+电阻 4.99 k 0.1% 1 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
+电阻 10k 0.1% 1 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
+电阻 102r 0.1% 1 20w 0201 era 1arb1020c 等级 c era 1arb1020c 0201 50
+电阻 1k ohm 0.1% 1 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
+电阻 49.9 k 0.1% 1 16w 0402 era 2aeb4992x 等级 c era 2aeb4992x 0402 120
+电阻 1m 0.1% 1 16w 0402 rt0402brd071ml 等级 c rt0402brd071ml 0402 100
+电阻 180r 0.1% 1 16w 0402 rt0402brd07180rl 等级 c rt0402brd07180rl 0402 100
+电阻 150k 0.1% 1 10w 0603 rt0603brd07150kl 等级 c rt0603brd07150kl 0603 50
+电阻 0402 499r 0.1% 1 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
+res 430 ohm 0.1% 1 10w 0402 tnpw0402430rbeed dale 2
+res smd 50 ohm 0.1% 1 20w 0402 fc0402e50r0btbst1 dale thin film 8
+res 620 ohm 0.1% 1 10w 0402 tnpw0402620rbeed dale 1
+25 电阻 0603 20k ω b ± 10ppm 4 40
+26 电阻 0603 5.6 k ω b ± 10ppm 4 40
+25 电阻 0603 20k ω b ± 10ppm 4 2000
+26 电阻 0603 5.6 k ω b ± 10ppm 4 2000

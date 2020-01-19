@@ -1,0 +1,1 @@
+102 066w240141001 703514000400 晶振 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1 100 mbs 5330 1.0

@@ -1,2 +1,7 @@
 43 1777 0 43 ecs resonator thd resonators sip 3 cer res 4.0 mh dip 3pin ztt 4.00 mg 1.0 10000
 40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c ztt 400 mg
+40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c 10000 ecs 100 8 12workg days 3014 3014 shortage
+62502000540 cstne16m0vh3c000r0 晶体 谐振器 16mhz 15pf 3.2 x1.3 x1.0 2pin smd 410
+73 贴片 晶振 cstce20m0v53c r0 y1 ceralock 1 20
+65 晶振 cstcr4m0g53 a0 1.0 50.0 50.0 smt 4mhz
+8m y1 xtal1 100

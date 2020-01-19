@@ -1,0 +1,8 @@
+sr211a220jar 10 cap cer 22pf 100v 10% cog npo
+sr211a470jaa 10 cap cer 47pf 100v 10% cog npo
+sr211c101kaa 70 cap cer 100pf 100v 10% x7r
+sr211c471kaa 40 cap cer 470pf 100v 10% x7r
+sr211c103kaa 100 cap cer 10nf 100v 10% x7r
+sr211c104kaa 280 cap cer 100nf 100v 10% x7r
+sr301c474kaa 10 cap cer 0 47 uf 100v 10% x7r
+sr305c105kaa 50 cap cer 1 uf 50v 10% x7r

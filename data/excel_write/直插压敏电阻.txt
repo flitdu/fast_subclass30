@@ -1,3 +1,4 @@
+14.0 10901070 压敏 电阻 470kd10j sip 0.0
 14.0 10901070 压敏 电阻 470kd10j sip 30000.0
 压敏 电阻 10d471k un 直插 dip 5500 0.1
 压敏 电阻 14d561k un 200 0.2
@@ -8,6 +9,26 @@
 17 压敏 电阻 b72220p3511k101 5 10v b72220p3511k101 1200
 44.0 压敏 电阻器 10d561k mov1 7.5 mm yini 1.0 1000
 39 vdr1 vdr2 2.0 varistor varistor varistors 3 50v 430 387 473 7 10v 25a through hole through hole erzv10d431
+mov1 mov 7d561 10000
+wi mov 0001 mov1 mov2 mov3 5 10v 4.5 a 3 varistor 5 10v 4.5 ka disc 14mm b72214s0321k551 495 6530 1 nd metal 1910
+39 vdr1 vdr2 2.0 varistor varistor varistors 3 50v 430 387 473 7 10v 25a through hole through hole 20000 200 1 3working days 1000.0 1.0 1.57107 314.21
+压敏 电阻 直插 16d20 r94 r101 2 6
+直插 14d471k r103 1 3
+压敏 电阻 10d471k rv1 res m10x4 10 1.0 100.0 top
+nvd14ucd470 tvs nvd14uxxxx h metal oxide varistor 470volt 14mm koa nvd14ucd470 600 9920 7000 0988
+nvd14ucd470 tvs nvd14uxxxx metal oxide varistor 470volt 14mm koa nvd14ucd470 80 9920 7000 0916
+29 压敏 电阻 14d681 3 12000
+73 压敏 电阻 myg142kd14 直插 142kd14 300
+67 压敏 电阻 330kd14 brightking tht 300
+16.0 08050110 de2e3ky472ma3bm02 4 200 电容 b leaded disc ceramic capacitor 2 50v ac 4700pf ± 20% e 10.0 0.6 p7.5 x1 y2 ul eu
+mov1 digi key f1952 nd inc v320la10p varistor 5 10v 2.5 ka disc 10mm
+49 cnr05d820k cnr 2 2000 0
 压敏 电阻 330kd07 1 rv1
 压敏 电阻 tvr 2 5w 680v 10d681 4 680v 10 rv2 直插 rvs1 rvs2 rvs3 rvs4 8000
 29 varistor 10d561k p7.5 mm short legs 3.5 mm 10000
+18 压敏 电阻 130v r1 mov 14d201k mov 14d201k 1 20
+压敏 电阻 10d471k 脚距 7.5 mm 10d471k znr1 插件 1.0 3000.0
+压敏 电阻 hel 10d471k ± 10% p 75 mm hel 10d471k hongzhi enterprises ltd hongzhi enterprises ltd 10 30000
+压敏 电阻 14d561k ± 10% p 7.5 mm 短脚 songtian rv1 1.0 3000.0
+压敏 电阻 10d561k p 7.5 mm znr1 1.0 3000.0
+压敏 电阻 14d561k ± 10% p 7.5 mm rv 14d p7.5 rv1 1.0 3000.0

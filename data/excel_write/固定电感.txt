@@ -1,0 +1,2 @@
+lqh1n100k34m00 fixed inductors 1206 10uh 10% 1206 l19 l20 l21 2.0 1050.0
+inductor ind ihlp 4040dz 01 inductor dale ihlp4040dzer4r7m01 80 9920 7000 0916

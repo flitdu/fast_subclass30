@@ -4,3 +4,17 @@
 2.0 2000.0 4mohms 2512 r130 r124 resistor pa2512fkf7w0r004e res 0.004 r 2w 1% 2512
 30 hiqco000000000225 resistor 0.02 r ± 1% smd res 1206 5
 47 1 rp56 0.01 r 1% ra6p45b125 200h60
+r8 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
+r9 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
+r11 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
+332 039w540004101 701502000530 电阻 smd 0.4 ohm 1% 0603 rl0603fr 070r4l 14 1400 mbs 5330 14.0
+wi res 0102 r53 r54 r55 r56 0.003 4w 4 res 0.003 ohm 1% 4w 2512 dale wslf25123l000fea 541 3127 6 nd 2512 3120
+57 高精度 采样 电阻 1 毫欧 3w r60 r61 r62 2512 r 3 60
+res smd 0.025 ohm 1% 1 4w 1206 wsl1206r0250fea dale 1
+res 0.005 ohm 1% 1.5 w 1206 fcsl32r005fer ohmite 1
+res 0.01 ohm 1w 1206 wide ltr18ezpfu10l0 rohm 1
+res 0.047 ohm 1% 1w 1206 erj 8cwfr047v 4
+res 0.15 ohm 5% 1 4w 0805 rlp73n2ar15jtd 2
+smd1w 1206 0.03 r 1 1.1 1 r3 1000
+resistor shunt 4527 0 02 1% wsr3r0200feb 1 520
+resistor shunt 4527 0 02 1% wsr3r0200feb 1 220

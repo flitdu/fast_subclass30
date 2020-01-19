@@ -1,0 +1,93 @@
+gcj31cr71a226ke01k multilayer ceramic capacitors mlcc smd smt 1206 22 uf 10v olts x7r 10% soft term 1206 c199 c200 2.0 700.0
+1 c01 s000139 cap cer 0.1 uf 50v x7r 0603 10% cga3e2x7r1h104k080aa 陶瓷 电容 1632
+2 c01 s001123 cap cer 1 uf 50v x5r 0603 10% cga3e3x5r1h105k080ab 陶瓷 电容 1595
+3 c01 s003492 cap cer 0.47 uf 16v x7r 0805 c0805c474k4ractu kemet 陶瓷 电容 840
+4 c01 s003802 cap cer 1000pf 50v x7r 0603 cga3e2x7r1h102k080aa 陶瓷 电容 1632
+10nf 贴片 电容 c1 c1206 1 5
+4.7 uf 贴片 电容 c2 c3 c1206 2 10
+0.1 uf 贴片 电容 c5 c7 c9 c11 c12 c13 c14 c17 c19 c23 c24 c25 c26 c27 c28 c29 c30 c31 c32 c33 c34 c35 c36 c37 c38 c39 c40 c41 c42 c43 c44 c45 c46 c47 c139 c140 c141 c1206 37 185
+1 uf 贴片 电容 c15 c1206 1 5
+10 uf 贴片 电容 c16 c1206 1 5
+0.1 uf 1% 贴片 电容 c20 c77 c78 c79 c83 c84 c87 c91 c94 c120 c121 c122 c126 c127 c130 c134 c137 c1206 17 85
+0.1 uf esr 陶瓷 电容 esr 陶瓷 电容 c21 cap th l6.0 w2.5 p5.00 d1.0 1 5
+1 uf est 陶瓷 电容 est 陶瓷 电容 c22 cap th l6.0 w2.5 p5.00 d1.0 1 5
+0.1 uf 25v 贴片 电容 c50 c52 c1206 2 10
+100nf 104 10% 50v 贴片 电容 c58 c61 c101 c104 c1206 4 20
+1 uf 105 10% 50v 贴片 电容 c59 c62 c102 c105 c1206 4 20
+1nf 1% 贴片 电容 c69 c112 c1206 2 10
+7pf 1% 贴片 电容 c70 c81 c85 c88 c113 c124 c128 c131 c1206 8 40
+10 uf 1% 贴片 电容 c73 c74 c75 c89 c92 c93 c116 c117 c118 c132 c135 c136 c1206 12 60
+10nf 1% 贴片 电容 c76 c90 c95 c119 c133 c138 c1206 6 30
+2 rfoa02 03 241 capacitor cer 01 uf 50v 10% 0603 x7r e 絡盟 1362556 cc0603krx7r9bb104
+3 rfoa02 03 037 capacitor cer 01 uf 50v 10% 0805 wasson cc0805krx7r9bb104 e 絡盟 0805b104k500ct 2496944 0805b104k500ct
+4 rfoa02 03 039 capacitor cer 15pf 50v 5% 0805 npo brand part cc0805drnpo9bn150 cc0805jrnp09bn150
+陶瓷 贴片 电容器 jmk105bj224kv f 0402x224k6r3ct cl05a224kq5nnxc grm155r60j224ke01d 温度 特性 x5r 额定 电压 6.3 v 容值 0.22 μ f 容值 ± 10% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 umk105cg101jv f grm1555c1h101ja01d cl05c101jb5nnxc 0402n101j500ct 0402cg101j500nt 温度 特性 c0g 额定 电压 50v 容值 100pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 umk105cg220jv f grm1555c1h220ja01d 0402n220j500ct 0402cg220j500nt 温度 特性 c0g 额定 电压 50v 容值 22pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 grm1555c1h150ja01d cl05c150jb5nnxc 0402n150j500ct 温度 特性 c0g 额定 电压 50v 容值 15pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 0402cg100j500nt umk105 cg100dv f grm1555c1h100ja01d 0402n100j500ct 温度 特性 c0g 额定 电压 50v 容值 10pf 容值 ± 0.5 pf 外形尺寸 0402 0402 taiyo 300 90000
+陶瓷 贴片 电容器 0402b102k500ct wbm155r71h102ka01d 0402b102k500nt cl05b102kb5nnxc umk105b7102kv f 温度 特性 x7r 额定 电压 50v 容值 1000pf 容值 ± 10% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 cl05b222kb5nnxc umk105b7222kv f grm155r71h222ka01d 0402b222k500ct 温度 特性 x7r 额定 电压 50v 容值 2200pf 容值 ± 10% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 cl05a225mq5nnxc grm155r60j225me15d c1005x5r0j225mt jmk105bj225mv f 温度 特性 x5r 额定 电压 6.3 v 容值 2.2 μ f 容值 ± 20% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 lmk105bj105kv f grm155r61a105ke15d 温度 特性 x5r 额定 电压 10v 容值 1 μ f 容值 ± 10% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 wbm155r71h103ka01d 0402b103k500ct 温度 特性 x7r 额定 电压 50v 容值 0.01 μ f 容值 ± 10% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 grm1555c1h821ja01d 温度 特性 c0g 额定 电压 50v 容值 820pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+陶瓷 贴片 电容器 grm155c80j475meaad jmk105bc6475mv f 温度 特性 x6s 额定 电压 6.3 v 容值 4.7 μ f 容值 ± 20% 外形尺寸 0402 0402 厚度 0.5 ± 0.15 mm taiyo 0.5 0.15 0.05 mm taiyo 300 90000
+陶瓷 贴片 电容器 0603b104k500ct grm188r71h104ka93d 06035c104kat2a 温度 特性 x7r 额定 电压 50v 容值 0.1 μ f 容值 ± 10% 外形尺寸 0603 0603 厚度 0.8 ± 0.1 mm 0.8 0.15 0.1 mm ≤ 0.90 mm 300 90000
+陶瓷 贴片 电容器 grm188r71c334ka01d 0603b334k160ct 温度 特性 x7r 额定 电压 16v 容值 0.33 μ f 容值 ± 10% 外形尺寸 0603 0603 厚度 0.8 ± 0.1 mm 0.8 0.15 0.1 300 90000
+陶瓷 贴片 电容器 grm188r71e105ka12d tmk107b7105ka t 温度 特性 x7r 额定 电压 25v 容值 1 μ f 容值 ± 10% 外形尺寸 0603 0603 厚度 taiyo 0.8 ± 0.1 mm 300 90000
+陶瓷 贴片 电容器 c1608x7r1a225kt000e lmk107b7225ka t grm188r71a225ke15d 额定 电压 nom10 v 标称 电容量 nom2.2 μ f 容值 min 10 max10 % 电容量 温度 特性 x7r 0603 厚度 taiyo 0.8 ± 0.1 mm 300 90000
+陶瓷 贴片 电容器 grm188c81a106ma73d lmk107bc6106ma t c1608x6s1a106mt 温度 特性 x6s 额定 电压 10v 容值 10 μ f 容值 ± 20% 外形尺寸 0603 0603 taiyo 300 90000
+陶瓷 贴片 电容器 c1608x7s1a475kt000e grm188c71a475ke11d 额定 电压 nom10 v 标称 电容量 nom4.7 μ f 容值 min 10 max10 % 电容量 温度 特性 x7s 0603 300 90000
+陶瓷 贴片 电容器 grm21bc80g476me15l c2012x6s0g476m amk212bc6476mg t 温度 特性 x6s 额定 电压 4v 容值 47 μ f 容值 ± 20% 外形尺寸 0805 0805 厚度 1.25 ± 0.25 mm 300 90000
+陶瓷 贴片 电容器 grm21bc71c106me11l emk212bb7106mg t 温度 特性 x7s x7r 额定 电压 16v 容值 10 μ f 容值 ± 20% 外形尺寸 0805 0805 厚度 1.25 ± 0.2 mm taiyo 1.25 0.2 0mm 300 90000
+陶瓷 贴片 电容器 grm21br71e105ka99l 温度 特性 x7r 额定 电压 25v 容值 1 μ f 容值 ± 10% 外形尺寸 0805 0805 300 90000
+陶瓷 贴片 电容器 grm21br71c475ka73l mutata 温度 特性 x7r 额定 电压 16v 容值 4.7 μ f 容值 ± 10% 外形尺寸 0805 0805 300 90000
+陶瓷 贴片 电容器 grm21bc81c226me44l emk212bc6226mg tt taiyo 温度 特性 x7r 额定 电压 16v 容值 22 μ f 容值 ± 20% 外形尺寸 0805 0805 300 90000
+陶瓷 贴片 电容器 grm31cr71e106ka12l c3216x7r1e106k tmk316ab7106kl t 额定 电压 nom25 v 标称 电容量 nom10 μ f 容值 min 10 max10 % 电容量 温度 特性 x7r 1206 厚度 taiyo 1.6 ± 0.2 mm taiyo 300 90000
+陶瓷 贴片 电容器 c3216x7s0j476mt grm31cc70j476me99l jmk316ac7476ml t 温度 特性 x7s 额定 电压 6.3 v 容值 47 μ f 容值 ± 20% 外形尺寸 1206 1206 厚度 taiyo 1.6 ± 0.2 mm taiyo 300 90000
+陶瓷 贴片 电容器 grm32er71a476ke15l lmk325b7476km tr taiyo 额定 电压 10v 容值 47 μ f 容值 ± 10% 外形尺寸 1210 1210 300 90000
+0.1 uf 50v 0.1 uf 50v c0402 c1005x7r1h104m050bb 51300 9920 7000 1000
+1nf 2kv capacitor mlcc 1nf 2kv 1206 x7r c1206 1206gc102kat1a 2700 9920 7000 1000
+10 uf 50v cap cer 10 uf 50v x5r 1206 c1206 grt31cr61h106ke01l 10800 9920 7000 1000
+10 uf 35v cap 10 uf 35v x5r 0805 c0805 c2012x5r1v106k085ac 3900 9920 7000 1000
+330pf 50v capacitor mlcc x7r 330pf 50v c0402 04025c331kat2a 4800 9920 7000 1000
+33pf 50v cap cer 33pf 50v np0 0402 ± 10% 55 ° c 125 ° c 2 pin c0402 kemet c0402c330k5gac7867 1200 9920 7000 1000
+4.7 uf 16v cap cer 4.7 uf 16v x5r 0603 c0603 grm188r61c475kaajd 12300 9920 7000 1000
+2.2 uf 16v cap cer 4.7 uf 16v x5r 0603 10% c0603 grm188r61c225ke15d 2400 9920 7000 1000
+1 uf 35v cap cer 1 uf 35v x5r 0603 10% c0603 taiyo yuden gmk107bj105ka t 11100 9920 7000 1000
+47 uf 25v smd multilayer ceramic capacitor 1206 3216 metric 47 µ f 25 v ± 20% x5r c series c1206 c3216x5r1e476m160ac 2700 9920 7000 1000
+1nf 50v smd multilayer ceramic capacitor 0402 1005 metric 1000 pf 50 v ± 10% x7r 0402 mlcc c0402 04025c102kat2a 3000 9920 7000 1000
+47pf 50v cap cer 47pf 50v c0g np0 0402 5% c0402 kemet c0402c470j5gactu 2100 9920 7000 1000
+100pf 200v smd multilayer ceramic capacitor 0603 1608 metric 100 pf 200 v ¡ à 5% c0g np0 c series c0603 cgj3e3c0g2d101j080aa 1200 9920 7000 1000
+1nf 200v smd multilayer ceramic capacitor 0603 1608 metric 1000 pf 200 v ¡ à 10% x7r c series c0603 kemet c0603c102k2ractu 1800 9920 7000 1000
+10 uf 100v ceramic capacitor 2220 x7s 100v 10% c2220 cga9n3x7s2a106k230kb 1200 9920 7000 1000
+22nf 2 50v cap 1206 0.022 ¦ ì f 250 v ¡ à 10% x7r s series fe cap c1206 kemet c1206s223karactu 3000 9920 7000 1000
+47nf 200v smd multilayer ceramic capacitor aec q200 0805 2012 metric 0.047 µ f 200 v ± 10% x7r c0805 kemet c0805c473k2racauto 600 9920 7000 1000
+0.1 uf 200v smd multilayer ceramic capacitor 1206 3216 metric 0.1 µ f 200 v ± 10% x7r c series c1206 kemet c1206c104k2ractu 1800 9920 7000 1000
+2.2 uf 25v cap cer 2.2 uf 25v x5r 0402 c0402 grm155r61e225me15d 300 9920 7000 1000
+2.2 uf 50v cap ceramic 2.2 uf 50v x7r 10% pad smd 1210 flexiterm 125c t r c1210 kemet c1210x225k5ractu 600 9920 7000 1000
+470nf ceramic capacitor 0.47 uf 50v x7r 10% 0805 c0805 taiyo yuden umk212b7474kg t 1500 9920 7000 1000
+15pf 50v cap cer 15pf 50v c0g np0 0402 c0402 gjm1555c1h150jb01d 900 9920 7000 1000
+4.7 nf 50v capacitor mlcc 0.0047 uf 50v 0402 c0402 c1005x7r1h472k050ba 300 9920 7000 1000
+22 uf 10v smd multilayer c1206 22 ¦ ì f 10 v ¡ à 10% x7r mlcc c1206 1206zc226kat2a 1800 9920 7000 1000
+390pf 50v capacitor mlcc 150pf 50v c0g npo 0402 c0402 kemet c0402c391j5gactu 600 9920 7000 1000
+100pf 50v capacitor mlcc 100pf 50v c0g np0 0402 c0402 04025a101kat2a 1500 9920 7000 1000
+10nf 50v cap cer 10000pf 50v x7r 0402 c0402 04025c103kat2a 600 9920 7000 1000
+5.6 nf 25v multilayer ceramic capacitors mlcc smd smt 25volts 5600pf 10% x7r c0402 multicomp mc0402b562k250ct 300 9920 7000 1000
+10 uf 16v cap cer 10 uf 16v x6s 0603 c0603 grm188c81c106ma73d 6900 9920 7000 1000
+0.1 uf 630v 0.1 ¦ ì f ¡ à 10% 630v ceramic capacitor x7r 1812 4532 metric c1812 grm43dr72j104kw01l 1200 9920 7000 1000
+3.3 uf 16v cap cer 3.3 uf 16v x5r 0603 c0603 c1608x5r1c335k080ac 1200 9920 7000 1000
+2.2 nf 50v capacitor mlcc 2.2 nf 50v 0402 c0402 gcm155r71h222ja37d 1200 9920 7000 1000
+270pf 50v multilayer ceramic capacitors mlcc smd smt 50v 270pf c0g 0402 5% aec q200 c0402 kemet c0402c271j5gacauto 600 9920 7000 1000
+680pf 50v multilayer ceramic capacitors mlcc smd smt 50v 680pf c0g 0402 5% aec q200 c0402 kemet c0402c681j5gacauto 600 9920 7000 1000
+130pf 200v multilayer ceramic capacitors mlcc smd smt 200volts 130pf 5% c0g auto c0402 kemet c0402c131j2gacauto 600 9920 7000 1000
+0.1 uf 2 50v 0.1 ¦ ì f ¡ à 10% 2 50v ceramic capacitor x7r 1206 3216 metric c1206 c3216x7r2e104k160aa 900 9920 7000 1000
+1 uf 2 50v 1 ¦ ì f ¡ à 10% 2 50v ceramic capacitor x7t 1812 4532 metric c1812 cga8p3x7t2e105k250ka 900 9920 7000 1000
+4.7 uf 16v smd multilayer ceramic capacitor 0805 2012 metric 4.7 ¦ ì f 16 v ¡ à 10% x7r mc series c0805 multicomp mc0805b475k160ct 300 9920 7000 1001
+1 uf 25v cap cer 0.1 uf 25v x8r 0603 c0603 c1608x8r1e104k080aa 300 9920 7000 1001
+4.7 uf 16v cap cer 4.7 uf 16v x5r 0603 c0603 grm188r61c475kaajd 300 9920 7000 1001
+100pf 50v capacitor mlcc 100pf 50v c0g np0 0402 c0402 04025a101kat2a 2100 9920 7000 1001
+100nf 16v c0402 ceramic capacitor 0402 x7r 16v 10 55 125deg gcm155r71c104ka55d 16200 9920 7000 0988
+n1020501385 无铅 表贴 陶瓷 电容器 cl31b105kchnnne 1 uf ± 10% 100v 1206 3.20 mm x 1.60 mmx1.80 mm 55 ° c 125 ° c x7r 250
+n1020501386 无铅 表贴 陶瓷 电容器 grm32ec81c476ke15l 47 uf ± 10 ％ 16v 1210 3.2 mmx2.5 mmx2.7 mm 55 ° c 105 ° c x6s 200

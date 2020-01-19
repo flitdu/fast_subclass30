@@ -1,0 +1,62 @@
+9 r01 s000224 res smd 2.2 k ohm 5% 1 10w 0603 erj 3geyj222v 芯片 电阻 3254
+10 r01 s000230 res smd 100 ohm 5% 1 10w 0603 erj 3geyj101v 芯片 电阻 1632
+11 r01 s000327 res smd 10 ohm 5% 1 10w 0603 erj 3geyj100v 芯片 电阻 1632
+12 r01 s005283 res smd 100k ohm 1% 1 10w 0603 erj 3ekf1003v 芯片 电阻 1632
+13 r01 s005815 res smd 27k ohm 1% 1 10w 0603 erj 3ekf2702v 芯片 电阻 4896
+23 crcw04022m00fkedc 2 mohms ± 1% 0.063 w 1 16w chip resistor 0402 1005 metric thick film dale 1 1000
+23 crcw04022m00fkedc 2 mohms ± 1% 0.063 w 1 16w chip resistor 0402 1005 metric thick film dale 1 5000
+0402 厚膜 电阻 1% rc 02w56r0ft rk73h1ettp56r0f wr04x56r0ftl rm04ftn56r0 备注 标称 阻值 nom56 ω 0402 1% 0402 koa 300 90000
+0402 抗 硫化 厚膜 电阻 0.5% rhc 02k2402dt rms04dt2402 rk73h1erttp2402d sf04h2402dtla 额定功率 1 16w 阻值 24k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 1% rms04ft2671 sr04x2671ftla rk73h1erttp2671f rhc 02k2671ft 额定功率 1 16w 阻值 2.67 k ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 0.5% rk73h1erttp5600d sf04t5600dtla rms04dt5600 rhc 02k5600dt 额定功率 1 16w 阻值 560 ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 1% rms04ft3011 rk73h1erttp3011f sr04x3011ftla rhc 02k3011ft 额定功率 1 16w 阻值 3.01 k ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 1% rms04ft2002 rk73h1erttp2002f sr04x2002ftla rhc 02k2002ft 额定功率 1 16w 阻值 20k ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 0.5% rms04dt1912 sf04h1912dtla rk73h1erttp1912d rhc 02k1912dt 额定功率 1 16w 阻值 19.1 k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 1% sr04x4993ftla rms04ft4993 rhc 02k4993ft rk73h1erttp4993f 额定功率 1 16w 阻值 499k ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 1% sr04x2400ftla rhc 02k2400ft rms04ft2400 rk73h1erttp2400f 额定功率 1 16w 阻值 240 ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 fenghua 300 90000
+0402 抗 硫化 厚膜 电阻 1% rms04ft4700 rhc 02k4700ft rk73h1erttp4700f sr04x4700ftla 额定功率 1 16w 阻值 470 ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 0.5% rhc 02k1803dt sf04h1803dtla rms04dt1803 rk73h1erttp1803d 额定功率 1 16w 阻值 180k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0402 抗 硫化 厚膜 电阻 0.5% rhc 02k6041dt sf04h6041dtla rms04dt6041 rk73h1erttp6041d 额定功率 1 16w 阻值 6.04 k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+0r resistor thick 0r 1% 0.1 w 0402 r0402 erj 2ge0r00x 26700 9920 7000 1000
+75k 0.5 w smd chip resistor thick film 75 kohm 200 v 1206 3216 metric 250 mw ¡ à 1% crcw series r1206 crcw120675k0fkea 600 9920 7000 1000
+10k res thick film 10k 1% 0.75 w 1206 r1206 crcw120610k0fkeahp 1800 9920 7000 1000
+10r smd chip resistor thick film 10 ohm 200 v 1206 3216 metric 250 mw ¡ à 1% crcw series r1206 draloric crcw120610r0fkea 1800 9920 7000 1000
+330r smd chip resistor thick film 330 ohm 200 v 1206 3216 metric 250 mw ¡ à 1% cr series r1206 cr1206 fx 3300elf 1200 9920 7000 1000
+7.5 k smd chip resistor thick film 7.5 kohm 200 v 1206 3216 metric 330 mw 1% mcpwr series r1206 multicomp mcpwr06fteo7501 600 9920 7000 1000
+5.6 k smd chip resistor thick film 5.6 kohm 200 v 1206 3216 metric 750 mw ¡ à 1% crcw hp series r1206 crcw12065k60fkeahp 600 9920 7000 1000
+4.7 k smd chip resistor thick film 4.7 kohm 400 v 1206 3216 metric 500 mw ¡ à 1% crs series r1206 crs1206 fx 4701elf 600 9920 7000 1000
+1.2 k 2w smd chip resistor thick film 1.2 kohm 250 v 2512 6432 metric 2 w ¡ à 1% mchp12 series r2512 multicomp mchp122wf1201t4e 3600 9920 7000 1000
+10k smd chip resistor thick film 10 kohm 150 v 0805 2012 metric 125 mw ¡ à 1% cr series r0805 cr0805 fx 1002elf 3000 9920 7000 1000
+100k smd chip resistor thick film 100 kohm 200 v 1206 3216 metric 250 mw ¡ à 1% cr series r1206 cr1206 fx 1003elf 1800 9920 7000 1000
+100r smd chip resistor 100 ohm crm series 300 v thick film 2512 2512 crm2512 jw 101elf 600 9920 7000 1000
+1k smd chip resistor thick film 1 kohm 50 v 0603 1608 metric 100 mw ¡ à 1% rc series r0603 phycomp rc0603fr 071kl 600 9920 7000 1000
+1m smd chip resistor thick film 1 mohm 150 v 0805 2012 metric 125 mw ¡ à 1% cr series r0805 cr0805 fx 1004elf 1800 9920 7000 1000
+62k resistor thick 0r 250 mw 1206 200v r1206 erj8enf6202v 1200 9920 7000 1000
+100k smd chip resistor thick film 100 kohm 150 v 0603 1608 metric 250 mw ¡ à 1% erjpa3 series r0603 erjpa3f1003v 1800 9920 7000 1000
+20k smd chip resistor thick film 20 kohm 200 v 1206 3216 metric 330 mw ¡ à 1% sg73p series r1206 koa speer sg73p2bttd2002f 600 9920 7000 1000
+0r resistor thick 0r 750 mw 1206 200v r1206 dale crcw12060000z0eahp 900 9920 7000 1000
+15r md chip resistor 15 ohm mcwr series 200 v thick film 1206 3216 metric 250 mw r1206 multicomp mcwr12x15r0ftl 600 9920 7000 1000
+4.99 k smd chip resistor thick film 4.99 kohm 150 v 0805 2012 metric 125 mw ¡ à 1% crcw series r0805 draloric crcw08054k99fkea 600 9920 7000 1000
+267k res thick film 267k 1% 0.125 w 0805 r0805 crcw0805267kfkea 600 9920 7000 1000
+0r resistor thick 0r 1% 0.1 w 0402 r0402 erj2ge0r00x 1800 9920 7000 1001
+0r thick film chip resistor 2512 2a 55 155deg koa speer inc rk73z3atte 600 9920 7000 0988
+0r r0402 thick film chip resistor 0402 1a 55 155deg koa speer inc rk73z1ettp 7800 9920 7000 0988
+10k 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa koa speer inc rk73b1ettp103j 17400 9920 7000 0988
+75 1% r0402 thick film resistors 0402 1% 100ppm 100mw 55 155deg koa speer inc rk73h1ettp75r0f 3000 9920 7000 0988
+470r 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa koa speer inc rk73b1ettp471j 1800 9920 7000 0988
+4.7 k 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa koa speer inc rk73b1ettp472j 6000 9920 7000 0988
+5.11 k 1% r0402 thick film resistors 0402 1% 100ppm 100mw 55 155deg koa speer inc rk73h1ettp5111f 600 9920 7000 0988
+10.2 k 1% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa speer inc rk73h1jttd1022f 1200 9920 7000 0988
+1.2 k 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa speer inc rk73b1ettp122j 600 9920 7000 0988
+2k2 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa rk73b1ettp222j 600 9920 7000 0988
+1k 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa speer inc rk73b1ettp102j 600 9920 7000 0988
+220r 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa speer inc rk73b1ettp221j 3600 9920 7000 0988
+33.2 k 5% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa rk73h1jttd3322f 600 9920 7000 0988
+57.6 k 1% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa speer inc rk73h1jttd5762f 600 9920 7000 0988
+10k 1% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa rk73h1jttd1002f 600 9920 7000 0988
+120r r0603 thick film resistors 0603 5% 200ppm 100mw 55 155deg koa rk73b1jttd121j 640 9920 7000 0860
+1m r0603 thick film resistors 0603 5% 200ppm 100mw 55 155deg koa rk73b1jttd105j 960 9920 7000 0860
+0r r0603 thick film resistors 0603 5% 250ppm 100mw 55 155deg koa rk73z1jttd 320 9920 7000 0860
+10k r0603 thick film resistors 0603 5% 200ppm 100mw 55 155deg koa rk73b1jttd103j 640 9920 7000 0860
+4k7 r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa rk73h1jttd4701f 640 9920 7000 0860
+0r r1206 thick film resistors 1206 1% 250ppm 250mw 55 155deg koa rk73z2bttd 80 9920 7000 0916

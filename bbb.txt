@@ -1,76 +1,47 @@
-__label__高频电感 , 33 26058 sdcl1608c15njtdf 15nh l0603 70 100
-__label__贴片晶体振荡器(有源) , 703514000100.0 晶振 green 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20y d 1.0 100.0
-__label__贴片晶体振荡器(有源) , 703514000300.0 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1.0 100.0
-__label__贴片晶体振荡器(有源) , 703514000200.0 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30y 4.0 400.0
-__label__圆柱体晶振 , 703514000500.0 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury 3ha57 et 32.768 k mercury 3ha57 et 32.768 k 2.0 200.0
-__label__晶振贴片 , 703514000400.0 晶振 green 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1.0 100.0
-__label__晶振贴片 , 45 1 y1 25m 晶振 sm7745hev 25.0 m 10 pletronics 25m 晶振 sm7745hev 25.0 m sm7745hev 25.0 m pletronics 10 7 12 9.4397 94.4
-__label__贴片晶体振荡器(有源) , 46 1 gj1 26m 晶振 7l26002009 10 txc 26m 晶振 7l26002009 7l26002009 txc 10 3 2.86 28.6
-__label__功率电感 , 47 1 l1 sph4012hr47mt 16 sunlord sph4012hr47mt sph4012hr47mt sunlord 20 3 0.53617 10.72
-__label__功率电感 , 48 3 l2 l3 l4 dfe201610e r68m p2 36 dfe201610e r68m p2 dfe201610e r68m p2 40 3 066712 2668
-__label__贴片电感 , 49 5 l5 l6 l7 l8 l9 dfe201610e 2r2m p2 56 dfe201610e 2r2m p2 dfe201610e 2r2m p2 56 3 054 3024
-__label__功率电感 , 50 1 l10 sph4012h3r3mt 16 sunlord sph4012h3r3mt sph4012h3r3mt sunlord 20 3 0.53884 10.78
-__label__精密可调电阻 , vr 0104p 3296w 1 104 lf r19 r94 r145 r157 r167 r174 r182 183 r188 13 3296w 1 xxx lf 100k ω 3296w 1 xxx lf 2600
-__label__功率电感 , l 0104m0065 gsdrk127p 560m l10 11 l13 15 5 gsdrk 127 type 12.5 x12.5 x8mm 56uh ± 20% 2.9 a 1000
-__label__铝质电解电容器-SMD： , po20190026 温度 3000001769 贴片 铝 电解电容 8mm 10mm 贴片 35v 220 uf 8x10 p9.2105 ℃ 2000h 2 ω 20 ℃ 120hz rve lz 540
-__label__安规X电容 , po20190026 温度 3000004235 电容 金属化 聚丙烯 薄膜 电容 mkp x2 275vac 0.1 uf ± 20% p7.5 160
-__label__CBB电容 , po20190026 配件 3000001747 聚丙烯 薄膜 电容 cbb22 1000v 0.1 uf 104 ± 5% p15 1052
-__label__直插低阻值采样电阻 , po20190026 配件 3000025241 电流 采样 电阻器 15a 75mv 3mm 跨距 30mm 引脚 压脚 温度 飘移 ± 40ppm 阻值 0.5% y230 30 5j 200
-__label__直插独石电容 , po20190026 配件 3000028583 独石 电容 直插 独石 电容 0.1 uf 104k 63v 10 ％ 脚长 29mm 830
-__label__贴片电阻 , 2001010128 电阻 100 rt0603dre0749k9
-__label__贴片电感 , 2003010077 电感 30 lqm18pn2r2mfrl
-__label__贴片低阻值采样电阻 , r8 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
-__label__贴片低阻值采样电阻 , r9 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
-__label__贴片低阻值采样电阻 , r11 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
-__label__直插瓷片电容 , 3.0 0.1 u 630v rad0.2 c0 2.0 20.0 直插
-__label__直插瓷片电容 , 1nf 2kv rad0.2 c4 1.0 10.0 直插
-__label__贴片电阻 , 2.0 贴片 电阻 36k axial0.4 rs1 rs2 2.0 20.0
-__label__晶振贴片 , 14.0 1.0 mc 贴片 xt1 1.0 10.0
-__label__贴片电容 , 19.0 1 uf 805 ch1 ch4 2.0 40.0
-__label__直插晶体谐振器(无源) , 22.0 晶振 3.6864 mhz 直插 xth1 1.0 10.0
-__label__贴片电阻 , 31.0 100r 805 r5 1.0 30.0
-__label__贴片电感 , 60 053w147a11c11 703110001311 电感 choke 4.7 uh ± 10% 1.22 a 3.5 x3x1.6 mm smd gotrend gotrend gsdr31p 4r7k 1 100 mbs 5330 1.0
-__label__高频电感 , 111 053w222203211 703110001312 电感 inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100 mbs 5330 1.0
-__label__铝质电解电容器-SMD , 121 034w000021000 701801007401 电容 270 uf 16v ± 20% 6.3 x9.9 smd esr 8mr 5800ma 16svpg270m 12 1200 mbs 5330 12.0
-__label__电容器阵列与网络 , 171 035w118112511 701801005310 电容 smd 180p npo 50v k 1206 8p4c 0603x4 y4c3n181k500ct 6 600 mbs 5330 6.0
-__label__贴片排阻 , 128 038w214103601 701591701051 电阻 smd 8p4r 10k ohm 5% 0402 ralec rta02 4d103jth 3 300 mbs 5330 3.0
-__label__贴片排阻 , 129 038w214472601 701591701055 电阻 smd 8p4r 4.7 k ohm 5% 0402 ralec rta02 4d472jth 4 400 mbs 5330 lio 53303 2.0 2.0
-__label__贴片排阻 , 176 038w214202601 电阻 green smd 8p4r 2k ohm 5% 0402 wa04x202jtl 5 500 lio 53303 5.0
-__label__贴片排阻 , 266 038w214151611 701591701070 电阻 smd 8p4r 150 ohm 5% 0603 yc164 jr 07150rl 1 100 mbs 5330 1.0
-__label__贴片低阻值采样电阻 , 332 039w540004101 701502000530 电阻 smd 0.4 ohm 1% 0603 rl0603fr 070r4l 14 1400 mbs 5330 14.0
-__label__晶振贴片 , 97 065w000015000 703514000600 晶振 xtal 25.000375 mhz 15ppm 20pf 5x3.2 4p smd mercury mj 25.000375 20 15 15 y 4 400 mbs 5330 4.0
-__label__晶振贴片 , 98 065w025011281 703514000100 晶振 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20 y d 1 100 mbs 5330 1.0
-__label__晶振贴片 , 100 065w048013281 703514000300 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1 100 mbs 5330 1.0
-__label__晶振贴片 , 102 066w240141001 703514000400 晶振 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1 100 mbs 5330 1.0
-__label__安规电容直插 , 41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
-__label__贴片压敏电阻 , 42 05035 01397 tvs 压敏 电阻 82541350 tvs 压敏 电阻 vrms 35v vdc 45v we vs series vc 100v 1206 3216 压敏 变阻器 mlv 1 v1 wurth 50
-__label__直插电解电容: , 31 05004 00505 直插 电解电容 470 uf 35v 10 高频 阻抗 电解电容 1 c16 22
-__label__安规电容直插 , 41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
-__label__贴片压敏电阻 , 42 05035 01397 tvs 压敏 电阻 82541350 tvs 压敏 电阻 vrms 35v vdc 45v we vs series vc 100v 1206 3216 压敏 变阻器 mlv 1 v1 wurth 50
-__label__电解电容 , electrolyte cap 100 uf 35v electrolite capacitor 3d rb2 4 c189 c190 c193 20 15000
-__label__超级电容器 , cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
-__label__贴片排阻 , exb2hv103jv 10 kohm exb2 series 8 elements 3d res exb2h r32 r64 r96 r128 r160 r292 r318 r326 r408 16.0 3150.0
-__label__贴片电感 , lqh1n100k34m00 fixed inductors 1206 10uh 10% 1206 l19 l20 l21 2.0 1050.0
-__label__钽质电容器-固体SMD钽电容器 , tpse476k035t02 50v tantalum capacitors solid smd 35v 47 uf dry pack esr 250ohms aec q200 3d cap 7343 c30 c43 c56 c69 c82 c134 c146 c167 c171 c191 c194 c201 c204 c214 c219 2.0 700.0
-__label__安规X电容 , wi cap 0077 c1 0.1 uf 275v 1 0.1 uf 275v film capacitor kemet r46kf3100ckm1m 399 11735 2 nd radial 650
-__label__安规电容直插 , wi cap 0082 c10 0.047 uf 3 10v 1 cap film 0.047 uf 20% 3 10v dc rad kemet r463f247000n0m radial 650
-__label__铝质电解电容器-SMD , wi cap 0090 c13 10 uf 50v 1 cap alum 10 uf 20% 50v smd eee fth100uar pce5020tr nd radial 650
-__label__直插瓷片电容 , wi cap 0054 c15 680pf 1kv 1 cap cer 680pf 1kv y5p radial bccomponents s681k29y5pn63j5r 1293ph nd radial 650
-__label__贴片电感 , wi ind 0010 l1 l2 10mh 2 fixed ind 10mh 130ma 228 ohm wurth inc 74404086103 732 10747 1 nd 1560
-__label__圆柱体电感 , wi ind 0023 l3 22 mh 1 fixed ind 22 mh 360ma 59 ohm th inc rlb9012 222kl rlb9012 222kl nd radial th 650
-__label__贴片线绕电感 , wi ind 0017 l4 220uh 1 fixed ind 220uh 200ma 46 ohm power solutions inc 84224c 811 3636 6 nd 780
-__label__贴片电阻 , wi res 0113 r7 0 1w 1 res smd 0 ohm jumper 1w 2010 dale crcw20100000z0efhp 541 0.0 pbdkr nd 2010 5025 metric 780
-__label__贴片低阻值采样电阻 , wi res 0102 r53 r54 r55 r56 0.003 4w 4 res 0.003 ohm 1% 4w 2512 dale wslf25123l000fea 541 3127 6 nd 2512 3120
-__label__晶振贴片 , wi xtl 0002 y1 y2 16mhz 10pf 2 crystal 16.000 mhz 10pf smd ecs international ecs 160 10 37 rwm tr xc2119ct nd smd smt 1560
-__label__电位计 , 091803 013001 电位器 3296w 10k 16
-__label__贴片晶体振荡器(有源) , 091809 013501 晶振 dsx321g 8m 3225 117
-__label__功率电感 , 24 05004 00494 贴片 电感 744 771 4220 22uh 3a 1 l3 22
-__label__安规电容直插 , 41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
-__label__贴片压敏电阻 , 42 05035 01397 tvs 压敏 电阻 82541350 tvs 压敏 电阻 vrms 35v vdc 45v we vs series vc 100v 1206 3216 压敏 变阻器 mlv 1 v1 wurth 50
-__label__铝质电解电容器-SMD , 8 电容 220u 50v 贴片 电解电容 10mm ± 20% ec s 10 3x10x10 3 bn2 es012355 1 9200 eee fk1h221gp
-__label__铝质电解电容器-SMD , 17 电容 100 uf 16v 贴片 电解电容 6.3 mm ± 20% lelon ec s 6 6x6 3x5 7 bn2 ws020015 1 9200 vej101m1ctr 0605
-__label__铝质电解电容器-SMD , 19 电容 330 uf 16v 贴片 电解电容 8mm ± 20% lelon ec s 8x8x10 ws020017 1 9200 vej331m1ctr 0810
-__label__铝质电解电容器-SMD , 23 电容 1000u 10v 贴片 电解电容 10mm ± 20% lelon vej102m1atr 1010 ws020041 2 18400 vej102m1atr 1010
-__label__铝质电解电容器-SMD , 24 电容 470 uf 10v 贴片 电解电容 8mm ± 20% lelon vzh471m1ctr 0810 ws020042 2 18400 vzh471m1ctr 0810
-__label__贴片线绕电感 , 44 电感 27nh 320ma 0603 sdwl1608c27njstf sunlord fb0603 ws040006 1 9200 sdwl1608c27njstf
-__label__贴片晶体谐振器(无源) , 77 晶振 hc 49smd 8mhz txc sm49 xtal ws090001 1 9200
+__label__贴片电感 , 0603 电感 470nh 470n ± 5% 0.35 ω 150ma smd 0603 2
+__label__贴片电感 , 0603 电感 470nh 470n ± 5% 0.35 ω 150ma smd 0603 6000
+__label__电位计 , 26.0 10905019 电位器 旋钮 a 04 0.0
+__label__电位计 , 27.0 10905020 电位器 白色 10k 0.0
+__label__电位计 , 28.0 10905021 tocos 电位器 rv24yn 20s b202 0.0
+__label__电位计 , 29.0 10905024 bochen 电位器 wxd3 13 2w 5k ω ± 5% ± 0.3% 0.0
+__label__铝电解电容器-带引线 , 180.0 11001010 电解电容 100vf 25v 直插 0.0
+__label__钽质电容器-固体SMD钽电容器 , 181.0 11001030 钽 电解电容 10 uf 16v 3216 0.0
+__label__钽质电容器-固体SMD钽电容器 , 182.0 11001032 钽 电解电容 10 uf 35v 6032 100.0
+__label__钽质电容器-固体SMD钽电容器 , 183.0 11001033 钽 电解电容 22 uf 25v 6032 100.0
+__label__铝电解电容器-带引线 , 184.0 11001034 电解电容 直插 13 20 470 μ f 63v 0.0
+__label__铝电解电容器-带引线 , 185.0 11001035 电解电容 直插 8 11 470 μ f 16v 0.0
+__label__直插独石电容 , 187.0 11002006 独石 电容 101 100pf 直插 1949.0
+__label__铝质电解电容器-SMD , 241.0 11003123 贴片 电解电容 470 uf 35v 10 10 2085.0
+__label__铝质电解电容器-SMD , 244.0 11003150 贴片 电解电容 1000 uf 16v 0.0
+__label__铝质电解电容器-SMD , 246.0 11003155 贴片 电解电容 470u 25v 20% 10x10 472.0
+__label__圆柱体晶振 , 2 晶振 32.768 khz ± 20ppm 圆形 双脚 直插 2 6mm 1 y1
+__label__铝质电解电容器-SMD , 13 贴片 电容 10nf 25v ± 20% 0603 1 c38
+__label__铝质电解电容器-SMD , 15 贴片 电容 100nf 25v ± 20% 0805 2 c54 c55
+__label__直插晶体谐振器(无源) , 37 晶振 x2 12m 49s 20pf 5ppm 1.0
+__label__超级电容 , 43 法拉 电容 c17 1f 5.5 v f 20mm 1.0
+__label__功率电感 , 34 a10 001107 001 贴片 功率 电感 120uh 160 a ± 20% ms127 121mt 6000 l1 l3 贴片
+__label__功率电感 , 35 a10 001099 004 功率 电感 15uh ± 20% 0027 ω 45 a ms127 150mt 6000 l2 l5 贴片
+__label__压敏电阻 , 85 a04 024001 003 压敏 电阻 820kd10j dc65v 10% 40 85 ℃ 820kd10j 9000 d3 d4 d8 插件
+__label__直插晶体振荡器(有源) , 10.1 有源 3.3 v 贴片 晶振 hxo 36b 30.000 m 5 7 帖片 3v 1 4 真空 kds
+__label__直插晶体谐振器(无源) , 10.2 插脚 晶振 20.0000 mhz hc 49s 1 4 以太网 1 真空 kds
+__label__直插晶体振荡器(有源) , 10.3 插脚 晶振 11.0592 mhz hc 49s 插脚 3v 1 4 真空 kds
+__label__直插晶体振荡器(有源) , 10.4 插脚 晶体 32.768 khz 2 6mm 插脚 3v 1 4 真空 kds
+__label__电阻器网络与阵列 , 15.3 排阻 4.7 k 5% 0603 4 4 16 wa06x472jtl
+__label__电阻器网络与阵列 , 15.239999999999997 排阻 10k 5% 0603 4 仪表 7 28 wa06x103jtl
+__label__金属膜电阻 , 15.309999999999995 直插 电阻 2.0 k 3w 金属膜 5% 2 8 rss03j2001a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.319999999999995 直插 电阻 10k 0.5 w 金属膜 5% 3 12 rss12j1002a520nh 信达 军工 合资
+__label__金属膜电阻 , 15.349999999999994 直插 电阻 7.5 k 3w 金属膜 5% 3 12 rss03j7501a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.359999999999994 直插 电阻 7.5 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 3 12 rss03j7501a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.369999999999994 直插 电阻 3.3 k 3w 金属膜 5% 1 4 rss03j3301a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.379999999999994 直插 电阻 3.3 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 3 12 rss03j3301a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.389999999999993 直插 电阻 2.4 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 2 8 rss03j2401a640nh 信达 军工 合资
+__label__金属膜电阻 , 15.399999999999993 直插 电阻 3.3 k 3w 2.4 k 3w 金属膜 5% 操作 电压 110dc 2.4 k 220vdc 3.3 k 2 8 rss03j2401a640nh 信达 军工 合资
+__label__安规Y电容 , 16.799999999999986 直插 电容 jy12f472ml72n y2 472m 2 50v 8 32 p 7.5 jnc 蓝色
+__label__安规Y电容 , 16.899999999999984 直插 电容 jy16f103m02n y2 103m 2 50v 3 12 p 7.5 jnc 蓝色
+__label__PTC热敏电阻 , 18.2 贴片 ptc 热敏电阻 smd1812p050tf jk msmd050 4 16
+__label__铝电解电容器-带引线 , 21 c3 c9 2.0 capacitor 100 uf 35v 20% cap alum 100 uf 20% 35v radial 6.3 11mm samyoung 20000 samyoung 三莹 200 2 4working days 0.20835 41.67
+__label__铝电解电容器-带引线 , 22 c4 1.0 capacitor 1000 uf 10v 20% cap alum 1000 uf 20% 10v radial 10 16mm samyoung 10000 samyoung 三莹 100 2 4working days 0.56298 56.3
+__label__陶瓷谐振器 , 40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c 10000 ecs 100 8 12workg days 3014 3014 shortage
+__label__贴片压敏电阻 , b72580e0300k062 varistor 47v 800a 1812 1812 r13 r45 r77 r109 r141 r315 r374 r377 2.0 2800.0
+__label__标准时钟振荡器 , hx7011c0025.000000 standard clock oscillators 3.3 v cmos xo 25.000000 mhz 25ppm osc 4sm 2r5x2r0 x1 x3 4.0 700.0
+__label__固定电感 , lqh1n100k34m00 fixed inductors 1206 10uh 10% 1206 l19 l20 l21 2.0 1050.0

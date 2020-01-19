@@ -1,2 +1,18 @@
+16.799999999999986 直插 电容 jy12f472ml72n y2 472m 2 50v 8 32 p 7.5 jnc 蓝色
+16.899999999999984 直插 电容 jy16f103m02n y2 103m 2 50v 3 12 p 7.5 jnc 蓝色
 6 11 0102 005 002 y1 电容 222m 400vac p 10 插件 c7 1 10000.0
 po20190026 高压 瓷片 电容 y1 y5u 103m ac400v 750
+dk1e3ea152m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea152m86rah01 1800 9920 7000 0988
+dk1e3ea102m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea102m86rah01 1800 9920 7000 0988
+4700pf 2 50v ac cap 5px10x5 y cap 4700pf 2 50v ac 20% 25 85 de2e3ky472ma2bm01 1200 9920 7000 0988
+1000pf 2 50v ac cap 5px10x5 y cap 1000pf 2 50v ac 20% 25 85 y cap 1000pf 2 50v ac 20% 25 85 de2e3ky102ma2bm01 160 9920 7000 0916
+20 y 型安规 电容 4.7 nf 2 50v 2 jec 8000
+1 电容 x1 hje 102m 1000 c1 c2 电装
+2 电容 y c2 c6 4.7 nf 2 50v vy1472m63y5uq63v0 2 40
+5 电容 x2 c5 2.2 uf 3 10v r463r422000m2m 1 20 kemet
+电容 ce 472m y2 2 50v ac ± 20% p 7.5 mm songtian songtian 2.0 6000.0
+陶瓷 电容 ce 222m y2 2 50v ac ± 20% p 7.5 mm songtian cy1 cy2 2.0 6000.0
+电容 222m y2 2 50v ac ± 20% p 7.5 mm cy1 cy2 2.0 6000.0
+电容 222m y1 400vac ± 20% p 10mm cy3 cy4 2.0 6000.0
+陶瓷 电容 cd 222m y1 400vac ± 20% p 10mm songtian c23 c24 4.0 12000.0
+电容 cd 222m y1 400vac ± 20% p 10mm cy 222m p10 c29 c30

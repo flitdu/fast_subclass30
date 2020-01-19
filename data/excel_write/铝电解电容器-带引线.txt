@@ -1,3 +1,6 @@
+112 312002400 1 14000 cap elet 3300 uf 35v 20% 8332lem1630wpn0810 fenghua lh nova
+cca0034 capacitor eletrol í tico 470 uf 16v c33 c34 2 b41827a4477m000 sim 10000.0 0
+cca0018 capacitor eletrol í tico 1000 uf 25v c37 1 b41821a5108m000 ou b41827a5108m000 sim 5000.0
 插件 铝 电解电容 16px470mefc8x11.5 极性 470 µ f 20% 16v 105 ° c 1000 8.00 mm 13.00 mm 3.50 mm 105 ° c 16px470mefc8x11.5 90
 插件 铝 电解电容 16yxj220m6.3 x11 极性 220 µ f 20% 16v 105 ° c 7000 6.30 mm 12.50 mm 2.50 mm 105 ° c 16yxj220m6.3 x11 90
 插件 铝 电解电容 25yxf220mefc8x11.5 极性 220 uf 20% 25v 105 ℃ 7000 8 13 3.5 25yxf220mefc8x11.5 180
@@ -5,11 +8,182 @@
 插件 铝 电解电容 50px470mefc10x20 极性 470 uf 20% 50v 105 ℃ 2000 10 20 5.0 105 ℃ 50px470mefc10x20 178
 插件 铝 电解电容 50yxf100mefc8x11.5 极性 100 uf 20% 50v 105 ° c 7000 8 13 3.5 105 ° c 50yxf100mefc8x11.5 90
 插件 铝 电解电容 50yxj220m10x16 极性 220 µ f 20% 50v 105 ° c 10000 10.00 mm 17.50 mm 5.00 mm 105 ° c 50yxj220m10x16 354
+180.0 11001010 电解电容 100vf 25v 直插 0.0
+184.0 11001034 电解电容 直插 13 20 470 μ f 63v 0.0
+185.0 11001035 电解电容 直插 8 11 470 μ f 16v 0.0
+27 插件 电容 c14 c19 c9 c118 c2 100 uf 25v 6 7mm 5.0
+28 插件 电容 c7 c8 100 uf 35v 6 12mm 2.0
 插件 电容 c14 c19 c9 c118 c2 100 uf 25v 6 7mm 5
 插件 电容 c7 c8 100 uf 35v 6 12mm 2
+180.0 11001010 电解电容 100vf 25v 直插 30000.0
+184.0 11001034 电解电容 直插 13 20 470 μ f 63v 30000.0
+185.0 11001035 电解电容 直插 8 11 470 μ f 16v 30000.0
+16 100 uf 35v 插件 电容 6.3 8.8 铝 白色 1 ec1 dip 3000
+17 220 uf 25v 插件 电容 6.3 7.9 1 ec2 dip 3000
+电解电容 100 uf 50v cap d 8 11 20% 直插 dip 2000 0.07
 3 铝 电解电容 ccap 270 uf ± 20% 16v 6.3 8mm nichicon fp 016re271m s8cg dip nichicon fp 016re271m s8cg 45 1800
 4 铝 电解电容 ccap 470 uf ± 20% 6.3 v 6.3 8mm nichicon fp 6r3re471m s8cgl 5k dip nichicon fp 6r3re471m s8cgl 5k 2 80
 5 电解电容 ccap al 560 uf ± 20% 6.3 v 6.3 8mm ce25d63h80 nichicon fp 6r3re561m s8cg dip nichicon fp 6r3re561m s8cg 4 160
+21.0 电解电容 cd 2200 uf 25v ± 20 ﹪ 13.5 17 13.5 17 插件 1 ec1 5000.0
+22.0 cd 100 uf 25v ± 20 ﹪ 6 12 6 12 插件 5 ec2 ec6 25000.0
+23.0 cd 100 uf 16v ± 20 ﹪ ф 5 11 ф 5 11 插件 3 ec7 ec9 15000.0
+24.0 cd 22 uf 25v ± 20 ﹪ ф 5 11 ф 5 11 插件 1 ec10 5000.0
 c102 插件 铝 电解电容 470 uf 50v cap10 5 1 15
+15 插件 10v 470 uf 1 电解电容 6 12
+16 插件 16v 220 uf 1 电解电容 6 12
+17 插件 50v 100 uf 1 电解电容 8 11
+6 插件 电解 220 uf 10v 1
+15 插件 10v 470 uf 1 1000000 电解电容 6 12
+16 插件 16v 220 uf 1 1000000 电解电容 6 12
+17 插件 50v 100 uf 1 1000000 电解电容 8 11
+4 11 0202 003 010 插件 电解电容 220 uf 25v ф 6 12 绿 金色 高频 低阻 耐高温 长寿命 1 10000.0 焊 组装 bom
+2 11 0202 003 009 电解电容 10 uf 400v ф 8 12mm 105 ℃ 插件 c1 c2 2 20000.0
+3 11 0202 003 008 电解电容 4.7 uf 50v ф 4 8mm 105 ℃ 插件 c8 1 10000.0
+50v 470 uf cappr5 10x20 2.0 插件 电解电容 chang 1000.0
+35v 220 uf cappr3.5 8x11.5 2.0 插件 电解电容 chang 1000.0
+21 c3 c9 2.0 capacitor 100 uf 35v 20% cap alum 100 uf 20% 35v radial 6.3 11mm samyoung nxa 35v100 6.3 11
+22 c4 1.0 capacitor 1000 uf 10v 20% cap alum 1000 uf 20% 10v radial 10 16mm samyoung nxa 10v 1000 10 16
 po20190026 电解电容 400v 22 uf 12.5 25 p5 105 ℃ 5000h 9 ω 20 ℃ 120hz 750
+31 05004 00505 直插 电解电容 470 uf 35v 10 高频 阻抗 电解电容 1 c16 22
+wi cap 0047 c4 c11 18 uf 400v 2 cap alum 18 uf 20% 400v t h aishi ehs2gm180g16ot radial 1280
+wi cap 0105 c9 470 uf 16v 1 cap alum 470 uf 20% 16v radial nichicon urs1c471mpd1td 493 11709 3 nd radial can 650
+31 05004 00505 直插 电解电容 470 uf 35v 10 高频 阻抗 电解电容 1 c16 22
+21 c3 c9 2.0 capacitor 100 uf 35v 20% cap alum 100 uf 20% 35v radial 6.3 11mm samyoung 20000 samyoung 三莹 200 2 4working days 0.20835 41.67
+22 c4 1.0 capacitor 1000 uf 10v 20% cap alum 1000 uf 20% 10v radial 10 16mm samyoung 10000 samyoung 三莹 100 2 4working days 0.56298 56.3
+electrolyte cap 100 uf 35v electrolite capacitor 3d rb2 4 c189 c190 c193 20 15000
+70201000650 50yxf100mefc8x11.5 铝 电解电容 50v 100 uf ± 20% 8 11.5 105 ℃ 7000h 2pin dip 20
+1 直插 铝 电解电容 egpd500ell182mm25h c1 c79 dxl 18x25 2 40
+电解电容 直插 400v680 uf c42 c64 2 6
+直插 35v220 uf c72 c77 c5 3 9
+直插 16v 1000 uf c45 c9 2 6
+直插 16v 470 uf c47 1 3
+直插 50v 47 uf c20 1 3
+直插 50v 10 uf c21 1 3
+直插 35v220 uf c16 c19 2 6
+铝 电解电容 贴片 25v22 uf c91 c92 c93 3 9
+6 电解电容 22 uf 50v c d6 1 c13 1000 1000 0 1000 22 uf 50v 5 11 cx 1000.0 电解电容 22 uf 50v c d6 1.0 c13
+铝 电解电容 贴片 铝 电解电容 470 uf 35v 10 10.5 mm c13 c15 10 10.5 mm 2 15
+sh100m4r70a2f 0511 20 cap electr rad 4 7 uf 100v 5mm 20% 105 ° c
+sh050m0010azf 0511 20 cap electr rad 10 uf 50v 5mm 20% 105 ° c
+sh025m0100azf 0611 10 cap electr rad 100 uf 25v 6 3x 11mm 20% 105 ° c
+uhv1c221med1ta nichicon 20 cap electr rad 220 uf 16v 6 3mm 20% 105 ° c
+b41858c7687m 20 cap electr rad 680 uf 35v 12 5x20 20% 105 º c
+b41851f7108m 10 cap electr rad 1000 uf 35v 12 5x20 20% 105 ° c
+b41252a6159m000 20 cap el 15000 uf 50v 35x52 20% 105 º snap
+5 c05 d000289 cap alum 100 uf 20% 25v radial 8 6mm uma1e101mdd nichicon 铝 电解电容 1600
+直插 电解 470u 25v e2 e3 rb r8 3.5 2.0 200.0 top
+100 uf 16v 直插 电解电容 直插 电解电容 c57 c60 c100 c103 cappr2 5x6.8 4 20
+capc 117 2 091802 147601 电解电容 cd263 47 uf 50v 50v 47 uf rb2 4 40
+capc 117 2 091802 147501 电解电容 cd263 100 uf 50v 50v 100 uf rb3 6 40
+capc 117 2 091802 147401 电解电容 10 uf 25v cd263 10 uf 25v rb1 2 5 11 rb1 2 330
+capc 117 2 091802 147401 电解电容 电解电容 rb1 2 10 uf 25v cd263 10 uf 25v rb1 2 rb1 2 80
+5 rfoa02 03 026 capacitor elect 100 uf 25v 20% rad d 5mm h 12mm p 2mm brand jackcon rga101m1ebk 0511 lelon 1 110
+6 rfoa02 03 197 capacitor elect 330 uf 25v 20% rad d 10mm h 125 mm p 5mm rga331m1ebk 1012g lelon 1 110
+330 uf 200v polarized e capacitor radial 200kxw330mefc18x30 farnell 8126356 cap 7.5 p18d 200kxw330mefc18x30 600 9920 7000 1000
+330 uf 200v polarized e capacitor radial 200kxw330mefc18x30 farnell 8126356 cap 7.5 p18d sleep 200kxw330mefc18x30 600 9920 7000 1000
+200txw180mefcce12.5 x35 cap 5p12.5 d35l e cap radial dia12.5 200v 20% 40 105deg 10000hr 200txw180mefr12.5 x35 240 9920 7000 0916
+n1020501382 无铅 插装 铝电解 电容器 ekyb101ell471mk40s ncc 贵弥功 470 uf ± 20 ％ 100v ф d l 12.5 mm 40mm 6mm 55 105 ℃ 10000 极化 united chemi con 200
+电解电容 直插 400v680 uf c42 c64 2 6 35x52 hp85 °
+直插 35v220 uf c72 c77 c5 3 9 8.2 x12 rga105 °
+直插 16v 1000 uf c45 c9 2 6 10.2 x17 rga105 °
+直插 16v 470 uf c47 1 3 8.2 x12 rga120 °
+直插 50v 47 uf c20 1 3 6.5 x12.5 40 105 °
+直插 50v 10 uf c21 1 3 5x12 rga105 °
+直插 35v220 uf c16 c19 2 6 8.2 x12 rga105 °
+17 插件 电容 470 uf 50v ￠ 10 3 c4 c6 c21 1500
+18 插件 电容 470 uf 25v ￠ 8 1 c11 500
+19 插件 电容 1000 uf 50v ￠ 12 1 c20 500
+20 插件 电容 100 uf 16v ￠ 5 1 c23 500
+5 插件 电解电容 8mm 15mm 10 uf 2 50v ± 10% 8mm 15mm 2 500 1000 c175 c176
+15 电解电容 22 uf 400v 13 20 5 1 4000
+16 电解电容 22 uf 25v 4 7 2 1 4000
+17 电解电容 100 uf 25v 6 11 3 4 16000
+18 电解电容 470 uf 25v 8 12 3 1 4000
+4 电解电容 100 uf 50v 8 11 脚 5.0 mm 8 11 脚 5.0 mm 1000 c9 c10 插装
+5 电解电容 470 uf 16v 脚 50 mm 小于 15mm rb15 3 500 c6 插装
+6 电解电容 1000 uf 50v rb2 5 500 c3 电装
+77 直插 铝 电解电容 100 uf 25v ce7p6x11 2p54d 100 uf 25v 三莹 1000
+76 直插 铝 电解电容 10 uf 25v rb1 2 10 uf 25v 三莹 600
+78 直插 铝 电解电容 10 uf 50v ce5x11 2p54d 10 uf 50v 900
+19 直插 电解电容 25me220hc 220 uf e c 25v 10 12.5 mm 220 uf 25v sanyo 300
+79 直插 铝 电解电容 470 uf 25v ce10x12 5p08d 470 uf 25v 300
+30 直插 铝电解 电容器 fh101m035e110eca 100 uf 25v 100 uf 35v capxon 150
+47 uf 16v 4 7 cx 6000 0.023
+cap2 capacitor c5 c13 rb2 5 cap2 2 50v 10 uf 直插 电解电容
+polarized capacitor radial c10 rb1 3 cap pol1 1 10 uf 50v 直插 电解电容
+polarized capacitor radial c17 dc cap pol1 1 实际 50v 10 uf 直插 电解电容
+polarized capacitor radial c73 rb1 3 cap pol1 1 实际 50v 10 uf 直插 电解电容
+220 uf 35v 8 11.5 35zlh220mefc8x11.5 c1 cap 3.5 8 11.5 bk 2 200 1 200
+mcgpr 16v 477m8x11 e cap 电解电容 generique mcgpr 16v 477m8x11 470 uf 16v 10000
+2 rxw100m2abk0611 lelon th capacitor 10 uf 100v 1 1000 0
+18 rxw221m1cbk0812 lelon th capacitor 220 uf 16v 1 1000 0
+27 rga470m2abk 1012 lelon th capacitor 47 uf 100v 1 1000 0
+28 vea 16v 470me55 r lelon smd capacitor 47 uf 16v 2 2000 0
+1000 uf 25v 直插 电解电容 e1 e2 cap 5.0 10 16 bk 2 10
 9 p20302000032 cap 10x16mm 35yxj470m 10x16 470 uf 35v 20% 电解电容 600
+10 直插 电解电容 100 uf 35v nichicon radial 6.3 20
+11 直插 电解电容 47 uf 25v nichicon radial 5 10
+12 直插 电解电容 100 uf 16v nichicon radial 5 10
+13 直插 电解电容 22 uf 35v nichicon radial 5 10
+22 electrolytic capacitors 100 uf 16v 5 11mm 105 ℃ low 3.5 mm short legs 10000
+23 electrolytic capacitors 10 uf 50v 5 11mm 105 ℃ low esr short legs 3.5 mm 10000
+24 electrolytic capacitors 33 uf 50v 6.3 11mm 105 ℃ low esr short legs 3.5 mm 10000
+25 electrolytic capacitors 3300 uf 35v 16 25mm 105 ℃ low esr short legs 3.5 mm 10000
+26 electrolytic capacitors 680 uf 35v 10 20mm 105 ℃ low esr short legs 3.5 mm 10000
+3.0 电解电容 100 uf 50v dip 50yxf100m8x11.5 5.0
+7.0 电容 10 uf 50v dip 50yxf10m5x11 10.0
+1 电解电容 插 c1 100 uf 160v dip eeu ee2c101 1 20
+7 电解电容 插 c10 220 uf 50v dip 50yxf220m10 16 1 20
+8 电解电容 c11 100 uf 50v dip 50yxf100m8x11.5 1 20
+高压 电解 km 4.7 uf 400v m 105 ℃ 8 12 530vf 脚距 2.5 mm 2 0 c1 c2 7 四选 kt 100.0
+高压 电解 cd263 4.7 uf 400v m 105 ℃ 8 12 530vf 脚距 2.5 mm 2 0 c1 c2 7 四选 efc 100.0
+高压 电解 km 4.7 uf 400v m 105 ℃ 8 12 530vf m 脚距 2.5 mm 2 0 c1 c2 7 四选 acon 100.0
+高压 电解 ra 4.7 uf 400v m 105 ℃ 8 12 530vf m 脚距 2.5 mm 2 0 c1 c2 7 四选 jcap 100.0
+高频 低阻 电解 gf 220 uf 10v m 105 ℃ 6.3 12 脚距 2.5 mm 1 0 c7 8 kt 50.0
+高频 低阻 电解 gf 220 uf 10v m 105 ℃ 6.3 11 tg0.19 345ma 脚距 2.5 mm 1 0 c7 8 50.0
+电解 4.7 uf 50v m 105 ℃ 5 11 脚距 2.5 mm 1 0 c3 9 50.0
+电解 4.7 uf 50v m 105 ℃ 5 11 脚距 2.5 mm 1 0 c3 9 50.0
+高频 低阻 电解 gf 680 uf 10v m 105 ℃ 8 12 脚距 2.5 mm 1 0 c6 kt 50.0
+25 电解电容 eca1cm470i 47 uf 16v 插装 1 1000
+26 电解电容 eca1hm101b 100 uf 50v 插装 1 1000
+电解电容 100 uf 16v m 40 105 ℃ 5 11 3000 c2 c3 5 12 pin 距 2.0 mm 2.0 6000.0
+电解电容 4.7 uf 400v 黑体 白字 m 40 105 ℃ 10 13 3000 ec101 ec102 10 14 pin 距 5.0 mm 2.0 6000.0
+电解电容 4.7 uf 50v 高频 黑体 金字 m 40 105 ℃ 5 11 3000 ec103 5 12 pin 距 2.0 mm 1.0 3000.0
+电解电容 220 uf 25v 高频 黑体 金字 m 40 105 ℃ 8 12 3000 ec104 ec105 8 12 pin 距 3.5 mm 2.0 6000.0
+电解电容 100 uf 16v 高频 黑体 金字 m 40 105 ℃ 5 12 3000 ec201 5 12 pin 距 2.0 mm 1.0 3000.0
+电解电容 电解电容 4.7 μ f 400v ± 20% chengx 耐温 105 ℃ 10 13mm 2.0 6000.0
+高频 电解电容 高频 电解电容 4.7 uf 50v 5.0 11 1.0 3000.0
+高频 电解电容 高频 电解电容 220 μ f 25v ± 20% chengx 耐温 105 ℃ 8 12mm 2.0 6000.0
+电解电容 高频 电解电容 100 μ f 16v ± 20% chengx 耐温 105 ℃ 5 11mm 1.0 3000.0
+电解电容 220 μ f 25v ± 20% chengx 耐温 105 ℃ 8 12mm ec d8.0 f3.5 d0.5 c25 c26 2.0 6000.0
+电解电容 100 μ f 16v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 ec7 1.0 3000.0
+电解电容 47 μ f 25v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 ec9 1.0 3000.0
+电解电容 10 μ f 50v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 ec1 1.0 3000.0
+电解电容 10 μ f 400v ± 20% chengx 耐温 105 ℃ 10 17mm ec d10.0 f5.0 d0.6 c3 c4 5.0 15000.0
+电解电容 10 μ f 400v ± 20% chengx 耐温 105 ℃ 10 17mm ec d10.0 f5.0 d0.6 c16 c17
+电解电容 10 μ f 400v ± 20% chengx 耐温 105 ℃ 10 17mm ec d5.0 f2.0 d0.5 c24
+电解电容 10 μ f 50v ± 20% chengx 105 ℃ 5 11mm ec8 ec11 2.0 6000.0
+电解电容 47 μ f 25v ± 20% chengx 105 ℃ 5 11mm ec10 ec12 2.0 6000.0
+电解电容 100 μ f 25v ± 20% chengx 105 ℃ 5 11mm ec3 1.0 3000.0
+电解电容 220 μ f 25v ± 20% chengx 105 ℃ 8 12mm ec9 1.0 3000.0
+电解电容 470 μ f 25v ± 20% chengx 105 ℃ 8 14mm ec4 ec5 2.0 6000.0
+电解电容 10 μ f 400v ± 20% chengx 105 ℃ 10 17mm ec1 ec2 2.0 6000.0
+电解电容 220 uf 4 50v chengx ls m 105 ℃ 22 35 22 46 pin 距 10.0 mm ec6 ec7 2.0 6000.0
+电解电容 470 μ f 25v ± 20% chengx 耐温 105 ℃ 8 14mm ec d8.0 f3.5 d0.5 c5 5.0 15000.0
+电解电容 470 μ f 25v ± 20% chengx 耐温 105 ℃ 8 14mm ec d8.0 f3.5 d0.5 c5 c8
+电解电容 470 μ f 25v ± 20% chengx 耐温 105 ℃ 8 14mm ec d8.0 f3.5 d0.5 c19 c20
+电解电容 100 μ f 16v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 c18 1.0 3000.0
+电解电容 100 uf 16v m 40 105 ℃ 5 12 ec d5.0 f2.0 d0.5 c3 c5 c8 3.0 9000.0
+c6 c7 c8 capacitor 47 uf 35v ± 20% cap 47 uf 35v ± 20% through hole p 2mm through hole p 2mm corporation 35zlj47m5x11
+c9 capacitor 22 uf 400v ± 20% cap 22 uf 400v ± 20% through hole p 5mm through hole p 5mm corporation 400ax22mefc12.5 x16
+c11 capacitor 1000 uf 35v ± 20% cap 1000 uf 35v ± 20% through hole p 5mm through hole p 5mm corporation 35px1000mefc10x20
+4 电解电容 220 uf 16v 6 7 10% 直插 6x7 1000
+30 直插 电容 220nf 100v 224j100 2.0 c183 c192 电容 13713768306 金属 薄膜 电容 0.22 uf 红褐色 电气 性能 最优 耐压 1600
+41 插件 电容 1000 uf 50v 12.5 25 c9 c123 c122 c10 c12.5 25 100
+58 直插 铝 电解电容 2200 uf 25v rb12.5 25 2 20
+58 直插 铝 电解电容 2200 uf 25v rb12.5 25 2 1000
+91 电解电容 rga102m1ebk1020p lelon 2.0 50.0 100.0 p hi 1000 uf 25v
+92 电解电容 rd1e108m10020 samwha 50.0 0.0 p hi 1000 uf 25v
+93 电解电容 skm108meg20rr samson 50.0 0.0 p hi 1000 uf 25v
+capacitor pth 45mm 1000 uf 2 50v 20% eetee2e102kj 4 ls108m250p40rr0vh2sp0 cx 25
+capacitor pth 6 3x5x5xmm 22 uf 35v 20% umt1v220mdd 3 1520
