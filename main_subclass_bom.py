@@ -101,7 +101,7 @@ class FastTextModel:
                 # print(len(texts))
                 accuracy_num = 0
                 for j in range(len(texts)):
-                    if predict_labels[j] == correct_labels[j]:
+                    if predict_labels[j][0] == correct_labels[j]:
                         accuracy_num += 1
 
                 accuracy = accuracy_num / len(texts)
@@ -133,15 +133,15 @@ class FastTextModel:
                 # print("Model/model_w" + str(w) + "_e" + str(i))
                 # 预测
                 predict_labels = classifier.predict(texts1)[0]
-                print(predict_labels,'--------------------')
+                # print(predict_labels,'--------------------')
                 # 计算预测结果
                 # print(len(texts))
                 accuracy_num = 0
                 for j in range(len(texts1)):
-                    print(predict_labels[j],correct_labels_train[j],'--------------------')
-                    if predict_labels[j] == correct_labels_train[j]:
+                    # print(predict_labels[j][0],correct_labels_train[j],'--------------------')
+                    if predict_labels[j][0] == correct_labels_train[j]:
                         accuracy_num += 1
-                print(accuracy_num,'--------------------')
+                # print(accuracy_num,'--------------------')
                 accuracy = accuracy_num / len(texts1)
                 train_accuracy.append(accuracy)
                 # print("训练集正确率：%s" % accuracy)
@@ -243,19 +243,19 @@ if __name__ == '__main__':
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
     # #
-    # merge_txts(1000)  ## 读取行数
-    # # # #
-    # # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
-    # # # # '''''''''''''''''data_split.py
+    merge_txts(1000)  ## 读取行数
     # # #
-    # train_datas_split()
+    # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
+    # # # '''''''''''''''''data_split.py
+    # #
+    train_datas_split()
 
     # 4 训练-调参
     # 初始化
-    tag_ = 1
+    tag_ = 10
     if tag_ == 1:
         epoch_begin = 2
-        epoch_ = 10
+        epoch_ = 100
         loss_name = 'softmax'
         learn_rate = 0.8  # 0.5
 

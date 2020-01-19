@@ -1,967 +1,967 @@
+__label__CBB电容 , 19 c1 1.0 capacitor 470nf 3 10v cbb capacitors 470nf 3 10v through hole p 22.5 mm through hole p 22.5 mm nissei mp10310k47400000000
+__label__CBB电容 , 20 c2 1.0 capacitor 1.2 uf 400v cbb capacitors 1.2 uf 400v through hole p 27.5 mm through hole p 27.5 mm winday smpc 125k0400db2815
+__label__CBB电容 , 20 c2 1.0 capacitor 1.2 uf 400v cbb capacitors 1.2 uf 400v through hole p 27.5 mm through hole p 27.5 mm winday 10000 champion 全鹏 100 2 4working days 0.88 88.0
+__label__CBB电容 , 电容 cbb 直插 630v105 c95 1 3
 __label__CBB电容 , cbb 电容 0.1 u 104 4 50v cbb p 10 cbb1 1.0 3000.0
-__label__MELF电阻 , 106 表贴 晶圆 电阻 10k 1% melf 1 4w 0204 10k 1 4w melf 0204 9.0 r141 r146 r145 r150 r151 r152 r153 r162 r167 看 交叉 方向 进行 贴片 7200
-__label__MLCC-SMDSMT , 2 c01 s001123 cap cer 1 uf 50v x5r 0603 10% cga3e3x5r1h105k080ab 陶瓷 电容 1595
-__label__MLCC-SMDSMT , 10nf 贴片 电容 c1 c1206 1 5
-__label__MLCC-SMDSMT , 0.1 uf 贴片 电容 c5 c7 c9 c11 c12 c13 c14 c17 c19 c23 c24 c25 c26 c27 c28 c29 c30 c31 c32 c33 c34 c35 c36 c37 c38 c39 c40 c41 c42 c43 c44 c45 c46 c47 c139 c140 c141 c1206 37 185
-__label__MLCC-SMDSMT , 100nf 104 10% 50v 贴片 电容 c58 c61 c101 c104 c1206 4 20
-__label__MLCC-SMDSMT , 10 uf 1% 贴片 电容 c73 c74 c75 c89 c92 c93 c116 c117 c118 c132 c135 c136 c1206 12 60
-__label__MLCC-SMDSMT , 10nf 1% 贴片 电容 c76 c90 c95 c119 c133 c138 c1206 6 30
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 umk105cg101jv f grm1555c1h101ja01d cl05c101jb5nnxc 0402n101j500ct 0402cg101j500nt 温度 特性 c0g 额定 电压 50v 容值 100pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+__label__MLCC-SMDSMT , 3 c01 s003492 cap cer 0.47 uf 16v x7r 0805 c0805c474k4ractu kemet 陶瓷 电容 840
+__label__MLCC-SMDSMT , 10 uf 贴片 电容 c16 c1206 1 5
+__label__MLCC-SMDSMT , 0.1 uf 1% 贴片 电容 c20 c77 c78 c79 c83 c84 c87 c91 c94 c120 c121 c122 c126 c127 c130 c134 c137 c1206 17 85
+__label__MLCC-SMDSMT , 0.1 uf 25v 贴片 电容 c50 c52 c1206 2 10
+__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 umk105cg220jv f grm1555c1h220ja01d 0402n220j500ct 0402cg220j500nt 温度 特性 c0g 额定 电压 50v 容值 22pf 容值 ± 5% 外形尺寸 0402 0402 300 90000
+__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 0402cg100j500nt umk105 cg100dv f grm1555c1h100ja01d 0402n100j500ct 温度 特性 c0g 额定 电压 50v 容值 10pf 容值 ± 0.5 pf 外形尺寸 0402 0402 taiyo 300 90000
 __label__MLCC-SMDSMT , 陶瓷 贴片 电容器 cl05a225mq5nnxc grm155r60j225me15d c1005x5r0j225mt jmk105bj225mv f 温度 特性 x5r 额定 电压 6.3 v 容值 2.2 μ f 容值 ± 20% 外形尺寸 0402 0402 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 lmk105bj105kv f grm155r61a105ke15d 温度 特性 x5r 额定 电压 10v 容值 1 μ f 容值 ± 10% 外形尺寸 0402 0402 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 c1608x7r1a225kt000e lmk107b7225ka t grm188r71a225ke15d 额定 电压 nom10 v 标称 电容量 nom2.2 μ f 容值 min 10 max10 % 电容量 温度 特性 x7r 0603 厚度 taiyo 0.8 ± 0.1 mm 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm21br71e105ka99l 温度 特性 x7r 额定 电压 25v 容值 1 μ f 容值 ± 10% 外形尺寸 0805 0805 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm21br71c475ka73l mutata 温度 特性 x7r 额定 电压 16v 容值 4.7 μ f 容值 ± 10% 外形尺寸 0805 0805 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm31cr71e106ka12l c3216x7r1e106k tmk316ab7106kl t 额定 电压 nom25 v 标称 电容量 nom10 μ f 容值 min 10 max10 % 电容量 温度 特性 x7r 1206 厚度 taiyo 1.6 ± 0.2 mm taiyo 300 90000
-__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 c3216x7s0j476mt grm31cc70j476me99l jmk316ac7476ml t 温度 特性 x7s 额定 电压 6.3 v 容值 47 μ f 容值 ± 20% 外形尺寸 1206 1206 厚度 taiyo 1.6 ± 0.2 mm taiyo 300 90000
-__label__MLCC-SMDSMT , 10 uf 35v cap 10 uf 35v x5r 0805 c0805 c2012x5r1v106k085ac 3900 9920 7000 1000
-__label__MLCC-SMDSMT , 33pf 50v cap cer 33pf 50v np0 0402 ± 10% 55 ° c 125 ° c 2 pin c0402 kemet c0402c330k5gac7867 1200 9920 7000 1000
-__label__MLCC-SMDSMT , 1 uf 35v cap cer 1 uf 35v x5r 0603 10% c0603 taiyo yuden gmk107bj105ka t 11100 9920 7000 1000
+__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm155c80j475meaad jmk105bc6475mv f 温度 特性 x6s 额定 电压 6.3 v 容值 4.7 μ f 容值 ± 20% 外形尺寸 0402 0402 厚度 0.5 ± 0.15 mm taiyo 0.5 0.15 0.05 mm taiyo 300 90000
+__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm21bc71c106me11l emk212bb7106mg t 温度 特性 x7s x7r 额定 电压 16v 容值 10 μ f 容值 ± 20% 外形尺寸 0805 0805 厚度 1.25 ± 0.2 mm taiyo 1.25 0.2 0mm 300 90000
+__label__MLCC-SMDSMT , 陶瓷 贴片 电容器 grm32er71a476ke15l lmk325b7476km tr taiyo 额定 电压 10v 容值 47 μ f 容值 ± 10% 外形尺寸 1210 1210 300 90000
+__label__MLCC-SMDSMT , 0.1 uf 50v 0.1 uf 50v c0402 c1005x7r1h104m050bb 51300 9920 7000 1000
+__label__MLCC-SMDSMT , 1nf 2kv capacitor mlcc 1nf 2kv 1206 x7r c1206 1206gc102kat1a 2700 9920 7000 1000
 __label__MLCC-SMDSMT , 10 uf 100v ceramic capacitor 2220 x7s 100v 10% c2220 cga9n3x7s2a106k230kb 1200 9920 7000 1000
-__label__MLCC-SMDSMT , 47nf 200v smd multilayer ceramic capacitor aec q200 0805 2012 metric 0.047 µ f 200 v ± 10% x7r c0805 kemet c0805c473k2racauto 600 9920 7000 1000
-__label__MLCC-SMDSMT , 2.2 uf 25v cap cer 2.2 uf 25v x5r 0402 c0402 grm155r61e225me15d 300 9920 7000 1000
-__label__MLCC-SMDSMT , 2.2 uf 50v cap ceramic 2.2 uf 50v x7r 10% pad smd 1210 flexiterm 125c t r c1210 kemet c1210x225k5ractu 600 9920 7000 1000
-__label__MLCC-SMDSMT , 4.7 nf 50v capacitor mlcc 0.0047 uf 50v 0402 c0402 c1005x7r1h472k050ba 300 9920 7000 1000
 __label__MLCC-SMDSMT , 22 uf 10v smd multilayer c1206 22 ¦ ì f 10 v ¡ à 10% x7r mlcc c1206 1206zc226kat2a 1800 9920 7000 1000
-__label__MLCC-SMDSMT , 3.3 uf 16v cap cer 3.3 uf 16v x5r 0603 c0603 c1608x5r1c335k080ac 1200 9920 7000 1000
-__label__MLCC-SMDSMT , 2.2 nf 50v capacitor mlcc 2.2 nf 50v 0402 c0402 gcm155r71h222ja37d 1200 9920 7000 1000
-__label__MLCC-SMDSMT , 270pf 50v multilayer ceramic capacitors mlcc smd smt 50v 270pf c0g 0402 5% aec q200 c0402 kemet c0402c271j5gacauto 600 9920 7000 1000
-__label__MLCC-SMDSMT , 680pf 50v multilayer ceramic capacitors mlcc smd smt 50v 680pf c0g 0402 5% aec q200 c0402 kemet c0402c681j5gacauto 600 9920 7000 1000
+__label__MLCC-SMDSMT , 5.6 nf 25v multilayer ceramic capacitors mlcc smd smt 25volts 5600pf 10% x7r c0402 multicomp mc0402b562k250ct 300 9920 7000 1000
+__label__MLCC-SMDSMT , 10 uf 16v cap cer 10 uf 16v x6s 0603 c0603 grm188c81c106ma73d 6900 9920 7000 1000
+__label__MLCC-SMDSMT , 0.1 uf 2 50v 0.1 ¦ ì f ¡ à 10% 2 50v ceramic capacitor x7r 1206 3216 metric c1206 c3216x7r2e104k160aa 900 9920 7000 1000
+__label__MLCC-SMDSMT , 1 uf 2 50v 1 ¦ ì f ¡ à 10% 2 50v ceramic capacitor x7t 1812 4532 metric c1812 cga8p3x7t2e105k250ka 900 9920 7000 1000
 __label__MLCC-SMDSMT , 4.7 uf 16v smd multilayer ceramic capacitor 0805 2012 metric 4.7 ¦ ì f 16 v ¡ à 10% x7r mc series c0805 multicomp mc0805b475k160ct 300 9920 7000 1001
-__label__MLCC-含引线 , sr211a470jaa 10 cap cer 47pf 100v 10% cog npo
-__label__MLCC-含引线 , sr211c103kaa 100 cap cer 10nf 100v 10% x7r
-__label__MLCC-含引线 , sr301c474kaa 10 cap cer 0 47 uf 100v 10% x7r
-__label__NTC热敏电阻 , 146 ntc 温度 电阻 ntc 温度 电阻 100k sip2 2.0 200
-__label__NTC热敏电阻 , 146 ntc 温度 电阻 ntc 温度 电阻 100k sip2 2.0 200
-__label__PTC热敏电阻 , 18 热敏电阻 b59755b0115a070 500 b59755b0115a070 900
-__label__TO封装平面功率电阻 , 10 高频 无感 厚膜 电阻 10 ω 1% 100w ± 50ppm ℃ to247 20kw 5 否
+__label__MLCC-SMDSMT , 4.7 uf 16v cap cer 4.7 uf 16v x5r 0603 c0603 grm188r61c475kaajd 300 9920 7000 1001
+__label__MLCC-SMDSMT , n1020501385 无铅 表贴 陶瓷 电容器 cl31b105kchnnne 1 uf ± 10% 100v 1206 3.20 mm x 1.60 mmx1.80 mm 55 ° c 125 ° c x7r 250
+__label__MLCC-SMDSMT , n1020501386 无铅 表贴 陶瓷 电容器 grm32ec81c476ke15l 47 uf ± 10 ％ 16v 1210 3.2 mmx2.5 mmx2.7 mm 55 ° c 105 ° c x6s 200
+__label__MLCC-含引线 , sr211c471kaa 40 cap cer 470pf 100v 10% x7r
+__label__NTC热敏电阻 , 2 11 0215 002 004 ntc ntc 100k ± 1% b 3950 引线 50mm 引线 50mm r47 1 10000.0 焊 组装 bom
+__label__NTC热敏电阻 , 24 11 0215 002 002 ntc 电阻 smd 0402 100k ± 1% b 4100 lc 0402 r r52 1 10000.0
+__label__PTC热敏电阻 , res thermal 470 thermistor ptc ptcsgm3t081dbe ptcsgm3 ptcsgm3t081dbe 600 9920 7000 1000
 __label__TO封装平面功率电阻 , 11 高频 无感 厚膜 电阻 25 ω 1% 100w ± 50ppm ℃ to247 20kw 5 否
 __label__TO封装平面功率电阻 , 12 高频 无感 厚膜 电阻 50 ω 1% 100w ± 50ppm ℃ to247 20kw 5 否
-__label__云母电容器 , 涤纶 电容 1nf 1kv 云母 电容 3a102jp 5.0 1.0 3000.0
-__label__保险电阻 , 38 fuse resistance vertical 1ws 1 ω 5% 10000
 __label__功率电感 , 71 320001210 2 3500 power inductor 6.8 uh 20% rdc 0.176 ohm idc 0.96 a smd nr3015t6r8m tayo yuden
-__label__功率电感 , 134 320000900 2 3500 ind 15uh 1.6 a shield smd sdc4d22hp 150m lf coilmaster
+__label__功率电感 , 135 320000800 1 3500 ind 10uh 1a shield smd sds4212e 100m lf coilmaster
 __label__功率电感 , 线圈 贴片 电感 wurth 7447709221 220 µ h ± 20% 1.8 a 300m ω 12.00 mm 12.00 mm 10.00 mm 7447709221 wurth 92
-__label__功率电感 , 线圈 贴片 电感 wurth 7447714330 33 µ h ± 20% 2.5 a 79m ω 10.00 mm 10.00 mm 5.00 mm 7447714330 wurth 540
-__label__功率电感 , 109.0 1.0 l1m6 10uh 7a ind 9d9 2sp 12wl10dh ind smd 10uh 20% 62m ω 4a 6.6 x7.1 mm mwsc0630h100mt sunlord 20
-__label__功率电感 , 110.0 1.0 l11 swpa3015s2r2nt ind 2d 2sp 3wl1d5h ind smd 2.2 uh 20% 0.3 h 1.6 a swpa3015s2r2nt sunlord 20
-__label__功率电感 , 111.0 2.0 l12 l13 1.0 uh ind 2d 2sp 3wl1d5h ind smt 1.0 uh 30% 2.3 a 3.0 x3.0 ind 303015 sunlord 40
+__label__功率电感 , 电感 10uh 100 ± 20% 0.38 ω 1.4 a smd 40 40mm 3000
+__label__功率电感 , 106.0 3.0 l1m1 l2m1 l5m1 1uh ind 3d2 2sp 4wl1d8h ins smd 1.0 uh 3.0 h 5.2 a swpa4020s1r0nt 60
+__label__功率电感 , 112.0 1.0 l14 10uh ind 3d2 2sp 4wl1d8h ind smt 10uh 30% 1.2 a swpa4020s100mt 20
+__label__功率电感 , 115.0 1.0 l3m2 1uh ind vls252010 ind smd 1.0 uh 20% 2.5 a mph252010s1r0 20
+__label__功率电感 , 342.0 11802006 47uh 电感 11802003 11802010 47uh 127 30000.0
 __label__功率电感 , 347.0 11802028 贴片 电感 10uh 12 12 7 30000.0
-__label__功率电感 , 351.0 11802042 贴片 电感 lpc5015ft 2r2m a lvs505040 30000.0
-__label__功率电感 , 贴片 功率 电感 10uh 4a 微电 smd 12.5 x12.5 x6m 091803 036501 31
-__label__功率电感 , 73 功率 电感 inductor 22uh ± 20% 4a cst1040 220m 6377
-__label__功率电感 , 75 贴片 功率 电感 功率 电感 4.0 x4.0 x1.8 mm 2.2 uh ± 20% 2.0 a cmnr4018 2r2m 19131
-__label__功率电感 , ldr77 usrr v0.1 电感 1uh gstm4020p 1r0m1uh ± 20% 5a 4.45 4.06 1.8 mm m00000 4 l0202 l0203 l0204 l0205 gotrend 4000
-__label__功率电感 , 47 6104 4012100m 贴片 电感 贴片 电感 taiyo yuden nrs4012t100mdgj 4012 10uh 20% 电流 1a nrs4012t100mdgj 40120 taiyo yuden 80 quad
-__label__功率电感 , 81 电感 inducrot 0.3 uh 30a 9.5 6.2 mm l3825h80 itg sl3732h r30khf smt itg sl3732h r30khf 4 160
+__label__功率电感 , 1 300 l4 10uh 5a ind 6d2 2sp 6d8w7d3l3h mwsa0603 100mt mwsa0603 100mt sunlord
+__label__功率电感 , 贴片 功率 电感 4.7 uh 2a slf7045t 4r7m2r0 pf slf7045 091803 036401 91
+__label__功率电感 , 72 功率 电感 inductor 2 4.7 uh 3a cmnr6045 4r7m 6377
+__label__功率电感 , 76 贴片 功率 电感 功率 电感 4.0 x4.0 x1.8 mm 47uh ± 20% 0.5 a cmnr4018 47m 6377
+__label__功率电感 , 93 13100065 电感 lqh32pn4r7nncl lqh32pn4r7nncl l3 2x2 5x2 0mm inductor 4.7 uh ± 30% 0.186 ω 1.2 a 3.2 2.5 1.55 mm smt lqh32pn4r7nncl 1 3000
+__label__功率电感 , 80 电感 inducrot 50nh 53a 5.2 5mm l2019h66 itg sl2026b r05lhf smt itg sl2026b r05lhf 2 80
+__label__功率电感 , 82 电感 inducrot 0.22 uh 34a 9.6 6.4 indct l3724h78 itg sl3732a r22khf smt itg sl3732a r22khf 2 80
+__label__功率电感 , 83 电感 inducrot 22nh 22a 4 4 l1616h40 itg slc1615a r022lhf smt itg slc1615a r022lhf 6 240
+__label__功率电感 , 85 电感 inducrot 0.12 uh 51a l3724h78 itg sl3732a r12khf smt itg sl3732a r12khf 12 480
 __label__功率电感 , 87 电感 inducrot 0.1 uh 9.5 a 3.5 3.2 l1513h20 tai tech tmpc0302h r10yg smt tai tech tmpc0302h r10yg 1 40
-__label__功率电感 , 88 电感 inducrot 4.7 uh 6.5 a 6.6 6.4 mm l2726h50 tai tech tmpf0605a 4r7mn d smt tai tech tmpf0605a 4r7mn d 3 120
-__label__功率电感 , 17 电感 inductor 3.3 uh ± 20% 6a isat 13.5 a 30mohmmax 7.1 6.6 3 lianzhen sicp0603 3r3m sm1w smt lianzhen sicp0603 3r3m sm1w 1 40
+__label__功率电感 , 46 电感 inductor 1.0 uh ± 20% 14.1 a 6.86 6.4 5.07 mm spm6550t 1r0m100a smt spm6550t 1r0m100a 2 80
 __label__功率电感 , 18 电感 inducrot 1.5 uh 6.3 mohm 13a 6.6 6.4 mm l2726h50 tai tech tmpf0605a 1r5mn d smt tai tech tmpf0605a 1r5mn d 1 40
-__label__功率电感 , l5 表贴 电感 15uh lcm7.5 7.5 1 5
-__label__功率电感 , 1 270 2003010040 电感 ind lqh32cn150k53l 1210 15uh 0.3 a 10% l104 l109 2 20 0.3 b 40 dlk
-__label__功率电感 , 8 053w101021212 053 inductor 电感 green choke 1uh ± 20% 12a 6.8 x7.3 x3.0 mm smd cyntec cyntec pcmb063t 1r0ms 1 100
-__label__功率电感 , 31 贴片 功率 电感 2.2 uh 1.5 a vls4012 2 l3 l4 4200
-__label__功率电感 , 32 贴片 功率 电感 1uh 2.5 a vls4012 1 l5 2100
+__label__功率电感 , 22 电感 inducrot 1.5 uh 6.3 mohm 13a 6.6 6.4 mm l2726h50 tai tech tmpf0605a 1r5mn d smt tai tech tmpf0605a 1r5mn d 1 40
+__label__功率电感 , 11 030056 贴片 电感 10uh mhci06030 100m r7 40
+__label__功率电感 , l1 l2 l3 100uh 12x12 l smd 12 1 3.0 90.0
+__label__功率电感 , l4 功率 电感 srr1210 680m srr1210 680m lcmd12 12 1 15
+__label__功率电感 , 3 053w133a2d111 053 inductor green chock 3.3 uh ± 20% 11.0 a 10.0 x11.5 x4 cyntec pcmb104e 3r3ms 3 300
+__label__功率电感 , 141 贴片 功率 电感 1.5 uh ± 30% 3.30 a dcr ≤ 0.037 r sph4018h1r5nt 4 4 1.8 mm sph4018h1r5nt cd4x4 5 100 10000 150000
+__label__功率电感 , 148 贴片 功率 电感 6.8 uh ± 20% l11.5 x10mm mcf 1040 6r8 n2 mcf 1040 6r8 n2 l11.5 x10mm 2 40 4000 60000
 __label__功率电感 , 149 贴片 功率 电感 6.8 uh ± 20% 6.6 6.6 3.0 mm mcw 0630 6r8 mcw 0630 6r8 mcw 0630 6r8 1 20 2000 30000
-__label__功率电感 , 48 3 l2 l3 l4 dfe201610e r68m p2 36 dfe201610e r68m p2 dfe201610e r68m p2 40 3 066712 2668
-__label__功率电感 , l 0103m0051 sdia6010 100m l12 l18 22 l24 25 8 sdia6010 series 10uh ± 20% smd inductor 10uh 20% 1600
-__label__功率电感 , l 0104m0065 gsdrk127p 560m l10 11 l13 15 5 gsdrk 127 type 12.5 x12.5 x8mm 56uh ± 20% 2.9 a 1000
-__label__功率电感 , 34 053w104721311 703110001350 电感 choke 0.47 uh ± 20% 13a smd 4.9 x5.2 x3.0 mm cyntec cyntec pcmb053t r47ms 2 200 mbs 5330 2.0
+__label__功率电感 , 32 2 功率 电感 lp4 lp5 sph3015h1r0mt 1uh 2a l3015
+__label__功率电感 , 000230 l1 电感 100uh inductor 100uh 1.2 a 10mm sq mss1048 104mlb 1 coilcraft 1120
+__label__功率电感 , l 0104m0065 gsdrk127p 560m l5 1 gsdrk 127 type 12.5 x12.5 x8mm 56uh ± 20% 2.9 a 200
+__label__功率电感 , 33 053w101021212 703110001320 电感 choke 1uh ± 20% 12a 6.8 x7.3 x3.0 mm smd cyntec cyntec pcmb063t 1r0ms 1 100 mbs 5330 1.0
 __label__功率电感 , 35 053w108823811 703110001370 电感 power choke 0.88 uh ± 20% 20a 11.5 x10x4mm smd cyntec pcmc104t r88mn 1 100 mbs 5330 1.0
 __label__功率电感 , 59 053w102222011 703110001330 电感 choke 2.2 uh ± 20% 20a 14.0 x12.8 x5.2 mm smd gotrend gotrend gstc135p 2r2mf 1 100 mbs 5330 1.0
-__label__功率电感 , pa4341.153 anlt high current molded power inductor pa4341 l16 2.0 350.0
-__label__功率电感 , 091803 033901 电感 vls3012hbx 150m 237
-__label__功率电感 , pa4341.153 anlt high current molded power inductor pa4341 l16 2.0 350.0
+__label__功率电感 , 091803 012901 电感 ihlp1212bz 2.2 uh 132
+__label__功率电感 , tmpc0603h 100mg d l1 7x7 1.0 100.0 top
 __label__功率电感 , 19 744316470 fixed ind 4.7 uh 4.6 a 24.5 mohm wurth 1 1000
+__label__功率电感 , 20 78438357068 68 µ h shielded wirewound inductor 3a 74mohm max nonstandard wurth inc 1 1000
 __label__功率电感 , 功率 电感 pcmb065t1r5ms mhci06050 1r5m r8 047021400004 电感 1.5 uh ± 20% 直流电 阻 9.0 m ω max 额定电流 9.4 a 温度 40 ℃ ﹢ 125 ℃ 7.2 mm 6.5 mm 5mm 300 90000
-__label__功率电感 , n1020600277 无铅 表贴 功率 电感 slw6045s331mst sunltech 顺磁 330uh ± 20% 570ma 1.65 ω 6mmx6mmx4.5 mm 25 ° c 125 ° c ta sunltech 顺磁 100
-__label__功率电感 , 28 电感 68uh slf12565 1 l3 500
-__label__功率电感 , 20 10uh l1 l2 l3 l4 l5 whc0624 10uh 7 7 2.4 5 5250
-__label__功率电感 , 12.3 12.3 8.0 15uh 5.6 a induct l3 sumida 1 20 sxn smdri127 100mt
-__label__功率电感 , 1040 10uh 7a 10mm 10mm slw6045s150mst sunltech l2 l smd 0630 2 200 1 200
-__label__功率电感 , 17 0204 3001 功率 电感 33 uh 40 40 30 mm swpa4030s3r3mt ly1 1 20
-__label__功率电感 , 26038 1uh 5a ind 5x5 2 200 l1 l2
-__label__功率电感 , l3 1 sru1048 221ytr nd inc sru1048 221y inductor 220uh 30% 10x10mm shld 800ma 5000
-__label__功率电感 , 98 功率 电感 csa0730 100m csab07x 50
-__label__功率电感 , 97 功率 电感 csab0420 4r7m csab04x 200
-__label__功率电感 , 57 功率 电感 vlf3010at 4r7mr70 3010 4.7 uh ± 10% 700ma 1 1000
+__label__功率电感 , cd54 7 7 4mm 10uh l1 贴片 电感 1 200
+__label__功率电感 , 30 电感 xfl4020 102me 4020 2 4
+__label__功率电感 , 27 l2 swrh1207b 220mt swrb1207s 220mt swrh1207b 1 50
+__label__功率电感 , 130 电感 ihlp2525czer4r7m01 ihlp2525czer4r7m01 smd l4d7uh8a 4r7 700
+__label__功率电感 , 19 功率 电感 10uh swpa3012s100mt l1 1 10
+__label__功率电感 , 1.0 l1 ihlp3232dzer100m11 10.0 fixed inductors 10uh 20% low profile 3232
+__label__功率电感 , 100 功率 电感 csa1260 220m csab12x 50
+__label__功率电感 , 99 功率 电感 csa0730 150m csab07x 150
+__label__功率电感 , 55.0 贴片 电感 744373460033 ss60 l 744373460033
+__label__功率电感 , 贴片类 功率 电感 6r8uh cd54 2 l1 l4 17140
+__label__功率电感 , 贴片类 功率 电感 47uh cd105 3 l6 l8 l10 25710
+__label__功率电感 , 28 功率 电感 slf7032t 220mr96 2pf slf7032 smdrs7032 220n 11
 __label__功率电感 , 58 功率 电感 pcmb042t 1r5ms 4.15 x4x1.8 mm 1.5 uh ± 20% 4a 1 susumu 1000
-__label__功率电感 , 功率 电感 swpa4018s6r8mt 6.8 uh isat 2.0 a irms 1.5 a ± 30% 功率 电感 4.0 4.0 1.8 mm swpa4018s6r8mt l4040 1.0 3000.0
+__label__功率电感 , 59 功率 电感 vlcf4020t 2r2n1r7 4.0 x4.0 x1.8 mm 2.2 uh ± 30% 1.7 a 3 3000
+__label__功率电感 , 电感 swpa4030s4r7mt smd 4.0 x4.0 x3.0 mm 4.7 uh 3a 10000
+__label__功率电感 , 功率 电感 scds4d28t 220m s n smd 4.7 x4.7 x3.0 22uh ± 20% 10000
+__label__功率电感 , 功率 电感 wpn252012h1r0mt 1uh isat 4.2 a irms 3.4 a ± 20% 功率 电感 2.5 2.0 1.2 mm wpn252012h1r0mt l2520 5.0 15000.0
+__label__功率电感 , 电感 180uh 20% 1100ma 1100ma 12.5 x12.5 x6.8 b953as 181m p3 等级 b b953as 181m p3 20
 __label__功率电感 , 电感 2.2 uh 20% 2016 1.9 a 1.3 a wpn201610h2r2mt 等级 d wpn201610h2r2mt 40
-__label__功率电感 , 电感 0.33 uh 20% 2520 5.3 a 4.05 a wpn252012hr33mty01 等级 d wpn252012hr33mty01 40
-__label__功率电感 , fixed ind 4.7 uh 1a 130 mohm smd mlp2520s4r7mt0s1 2
-__label__功率电感 , l1 inductor power smd cdrh104rnp 220nc 22uh cdrh104rnp 220nc 50 l 10 sumida
-__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 0.5% rhc 02k2402dt rms04dt2402 rk73h1erttp2402d sf04h2402dtla 额定功率 1 16w 阻值 24k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 0.5% rhc 02k6041dt sf04h6041dtla rms04dt6041 rk73h1erttp6041d 额定功率 1 16w 阻值 6.04 k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-__label__厚膜电阻器 , 10k res thick film 10k 1% 0.75 w 1206 r1206 crcw120610k0fkeahp 1800 9920 7000 1000
-__label__厚膜电阻器 , 1.2 k 2w smd chip resistor thick film 1.2 kohm 250 v 2512 6432 metric 2 w ¡ à 1% mchp12 series r2512 multicomp mchp122wf1201t4e 3600 9920 7000 1000
+__label__功率电感 , fixed ind 4.7 uh 3a 40.3 mohm smd nr6028t4r7m taiyo yuden 1
+__label__功率电感 , 11 030014 功率 电感 swpa4018s1r0mt 30 30000
+__label__功率电感 , 11 030016 功率 电感 vls252012hbx 2r2m 1 40 40000
+__label__功率电感 , indutor 3 3uh 4a lqh5bpn3r3n38l 1 505
+__label__厚膜电阻器 , 10 r01 s000230 res smd 100 ohm 5% 1 10w 0603 erj 3geyj101v 芯片 电阻 1632
+__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 0.5% rk73h1erttp5600d sf04t5600dtla rms04dt5600 rhc 02k5600dt 额定功率 1 16w 阻值 560 ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 1% sr04x4993ftla rms04ft4993 rhc 02k4993ft rk73h1erttp4993f 额定功率 1 16w 阻值 499k ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 1% sr04x2400ftla rhc 02k2400ft rms04ft2400 rk73h1erttp2400f 额定功率 1 16w 阻值 240 ω 阻值 ± 1% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 fenghua 300 90000
+__label__厚膜电阻器 , 0402 抗 硫化 厚膜 电阻 0.5% rhc 02k1803dt sf04h1803dtla rms04dt1803 rk73h1erttp1803d 额定功率 1 16w 阻值 180k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+__label__厚膜电阻器 , 10k smd chip resistor thick film 10 kohm 150 v 0805 2012 metric 125 mw ¡ à 1% cr series r0805 cr0805 fx 1002elf 3000 9920 7000 1000
 __label__厚膜电阻器 , 100r smd chip resistor 100 ohm crm series 300 v thick film 2512 2512 crm2512 jw 101elf 600 9920 7000 1000
+__label__厚膜电阻器 , 1k smd chip resistor thick film 1 kohm 50 v 0603 1608 metric 100 mw ¡ à 1% rc series r0603 phycomp rc0603fr 071kl 600 9920 7000 1000
+__label__厚膜电阻器 , 1m smd chip resistor thick film 1 mohm 150 v 0805 2012 metric 125 mw ¡ à 1% cr series r0805 cr0805 fx 1004elf 1800 9920 7000 1000
 __label__厚膜电阻器 , 62k resistor thick 0r 250 mw 1206 200v r1206 erj8enf6202v 1200 9920 7000 1000
-__label__厚膜电阻器 , 0r resistor thick 0r 750 mw 1206 200v r1206 dale crcw12060000z0eahp 900 9920 7000 1000
-__label__厚膜电阻器 , 267k res thick film 267k 1% 0.125 w 0805 r0805 crcw0805267kfkea 600 9920 7000 1000
-__label__厚膜电阻器 , 470r 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa koa speer inc rk73b1ettp471j 1800 9920 7000 0988
+__label__厚膜电阻器 , 75 1% r0402 thick film resistors 0402 1% 100ppm 100mw 55 155deg koa speer inc rk73h1ettp75r0f 3000 9920 7000 0988
 __label__厚膜电阻器 , 10.2 k 1% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa speer inc rk73h1jttd1022f 1200 9920 7000 0988
-__label__厚膜电阻器 , 2k2 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa rk73b1ettp222j 600 9920 7000 0988
-__label__厚膜电阻器 , 33.2 k 5% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa rk73h1jttd3322f 600 9920 7000 0988
-__label__厚膜电阻器 , 10k r0603 thick film resistors 0603 5% 200ppm 100mw 55 155deg koa rk73b1jttd103j 640 9920 7000 0860
-__label__变阻器 , 10k ω 1% 滑动 电阻 滑动 电阻 r30 r38 rdc506002a 2 10
-__label__可调电感 , 9 b82464p4 473m adjustable inductor l7 b82464p4473m inductor adj 10 b82464p4 473m
-__label__固态电解电容 , 4 11 0102 004 001 固态 电容 820 uf 16v 8 12 105 ℃ 插件 c5 1 10000.0
-__label__固态电解电容 , 17 034w000010000 701801003801 solid cap 固態 電容 cas jason 190815 scap 100 uf 6.3 v ± 20% b type smd kemet t520b107m006ate035 4 2000
-__label__圆柱体晶振 , cxt0004 cristal 32.768 khz cylindrico 12.5 pf abracon ab38t 32.768 khz q1 1 abracon ab38t sim 5000.0
-__label__圆柱体晶振 , 晶振 x1 32678 2 6 15pf 1
-__label__圆柱体晶振 , 69 石英 晶振 32.768 2 6mm dip 1 y3 3000
-__label__圆柱体电感 , 功率 电感 tsl1112ra 102jr50 pf 1mh 0.5 a ± 5% 直插 电感 11 12mm 脚距 5mm 10000
-__label__安规X电容 , 电容 直插 0.1 uf 275v c94 1 3 40 110 21 c 长宽 12.8 x6x12.3 两脚 10mm
+__label__厚膜电阻器 , 1k 5% r0402 thick film resistors 0402 5% 200ppm 100mw 55 155deg koa speer inc rk73b1ettp102j 600 9920 7000 0988
+__label__厚膜电阻器 , 10k 1% r0603 thick film resistors 0603 1% 100ppm 100mw 55 155deg koa rk73h1jttd1002f 600 9920 7000 0988
+__label__厚膜电阻器 , 120r r0603 thick film resistors 0603 5% 200ppm 100mw 55 155deg koa rk73b1jttd121j 640 9920 7000 0860
+__label__厚膜电阻器 , 0r r1206 thick film resistors 1206 1% 250ppm 250mw 55 155deg koa rk73z2bttd 80 9920 7000 0916
+__label__变阻器 , 20k ω 1% 滑动 电阻 滑动 电阻 r26 r37 r79 r90 rdc506002a 4 20
+__label__固态电解电容 , 100 uf 16v orz101m1cbk 0606 lelon c10 cs 2.5 6.3 7 c 2 200 1 200
+__label__圆柱体晶振 , 95 1 citizen 晶体 谐振器 y3 cmr200t32768dzft cry2 6r90x1r40x1r30 32.768 k 12pf 20ppm
+__label__安规X电容 , 46.0 x 电容 mpx mkp104kc3xxa 0.1 uf 275vac cx 10mm 脚距 jurcc 薄膜 1.0 1000
+__label__安规X电容 , 0.22 uf 275vac cap le224mx x cap capacitor 1 uf 275vac 10 55 110 ° c okaya le224 mx 1200 9920 7000 0988
+__label__安规X电容 , 19 x 型安规 电容 0.1 uf 275v p 15mm 2 df 8000
+__label__安规X电容 , 3 电容 x2 c3 22nf 3 10v r463f222000n0k 1 20 kemet
 __label__安规X电容 , 电容 0.1 uf k x2 275vac p 10 songtian cb1 songtian 2.0 6000.0
-__label__安规X电容 , 电容 jec jy 472m x1 400vac y2 300vac ± 20% p 7.5 mm cy101 cy102 d 8.5 mmp 7.0 mm 2.0 6000.0
-__label__安规X电容 , 电容 0.47 uf k x2 275vac 18 9.0 15mm p 15 cx1 1.0 3000.0
-__label__安规Y电容 , dk1e3ea152m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea152m86rah01 1800 9920 7000 0988
-__label__安规Y电容 , 1000pf 2 50v ac cap 5px10x5 y cap 1000pf 2 50v ac 20% 25 85 y cap 1000pf 2 50v ac 20% 25 85 de2e3ky102ma2bm01 160 9920 7000 0916
-__label__安规Y电容 , 电容 222m y2 2 50v ac ± 20% p 7.5 mm cy1 cy2 2.0 6000.0
+__label__安规X电容 , 电容 0.1 uf k x2 275vac p 10 cx 104 13 6 p10 c14
+__label__安规X电容 , 电容 0.1 uf k x2 275vac c301 长宽 13 5.8 12.0 脚距 10.0 mm 1.0 3000.0
+__label__安规Y电容 , po20190026 高压 瓷片 电容 y1 y5u 103m ac400v 750
+__label__安规Y电容 , dk1e3ea102m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea102m86rah01 1800 9920 7000 0988
+__label__安规Y电容 , 4700pf 2 50v ac cap 5px10x5 y cap 4700pf 2 50v ac 20% 25 85 de2e3ky472ma2bm01 1200 9920 7000 0988
+__label__安规Y电容 , 20 y 型安规 电容 4.7 nf 2 50v 2 jec 8000
 __label__安规电容直插 , 22 插件 0.1 uf mpx 40 100 21 c 1 1000000 1cm 电容 0.1 uf
-__label__安规电容直插 , 41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
-__label__安规电容直插 , 104 275vac 电容 c32 rad0.4 1.0 100.0 top
+__label__安规电容直插 , 23 1777 0 23 weidy capacitor thd capacitor non polarity 470 nf 3 10v mkp x2 dip 26.5 x7x11 mm w41q3474 kp8l jfz0a9474k150000b jb 1.0 10000
+__label__安规电容直插 , 6 陶瓷 电容 c7 c8 c9 c12 nc vy1102m35y5uq63v0 4 80
 __label__工字电感 , 15 22uh 插件 电感 外径 12.8 内径 3.2 外套 黑色 热缩 套管 1 l1 dip 3000
-__label__工字电感 , 220uh l1 l2 8 10mm 200
-__label__晶振直插 , 337.0 11801014 晶振 4.096 m 直插 30000.0
-__label__晶振贴片 , 48 322000700 1 10500 crystal 18.4320 mhz 3.2 x2.5 18 20pf 30 50ppm 20500184306 yoke
-__label__晶振贴片 , 9 1.9 贴片 ycr16m2p 贴片 晶振 3225 16m 20ppm cl 20pf 温度 40 85 1.0 y1 30000.0 0.0 0.385 0.385
-__label__晶振贴片 , 260.0 3.0 y2 y5 y6 25mhz xtal4 sx 3225 xtal 25mhz 25mhz 12pf ± 20ppm 40 ℃ 85 ℃ 3.2 x2.5 mm smt 60
-__label__晶振贴片 , 355.0 11803004 贴片 晶振 8m 蓝 30000.0
-__label__晶振贴片 , 92 贴片 晶振 crystal smd 24mhz 20ppm 24mhz 6377
-__label__晶振贴片 , 202 贴片 晶体 贴片 晶振 26.000 mhz ± 20ppm smd3225 txc 26mhz 30 ℃ 85 ℃ 26m 7.5 pf ± 10p 3225 1 20 2000 30000
+__label__工字电感 , 8 电感 330uh 柱型 5.0 mm 柱型 5.0 mm 500 l2 插装
+__label__晶振贴片 , cxt0010 nx3225ga 26mhz crystal smd q2 1 nx3225ga 26mhz sim 5000.0 2.6765 2.7326
+__label__晶振贴片 , 339.0 11801025 贴片 晶振 12mhz 3225 30000.0
+__label__晶振贴片 , 339.0 11801025 贴片 晶振 12mhz 3225 30000.0
+__label__晶振贴片 , 340.0 11801026 贴片 晶振 32.768 khz xtal2 3p2x1p5 sm 30000.0
+__label__晶振贴片 , 50 xt9m20hrr8m cn8000 b crystal 8mhz 30ppm degc 7pf max 22pf min 12weeks moq 3k 12000 032 3840
 __label__晶振贴片 , 14.0 1.0 mc 贴片 xt1 1.0 10.0
-__label__标准时钟振荡器 , hx7011c0025.000000 standard clock oscillators 3.3 v cmos xo 25.000000 mhz 25ppm osc 4sm 2r5x2r0 x1 x3 4.0 700.0
+__label__晶振贴片 , 99 065w025111281 703514000200 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30 y 1 100 mbs 5330 1.0
+__label__标准时钟振荡器 , coc 113 091806 033501 晶振 fn5000118 50m 160
 __label__标准时钟振荡器 , coc 113 091806 033401 晶振 fn3000041 30m 10
+__label__水泥电阻 , 17 1777 0 17 taiwan resistor resistor thd wirewound resistor resistor 47 ω 5% 5w 3 50v tht sqp5wj47 1.0 10000
 __label__电位器-其他可调电阻 , 28.0 10905021 tocos 电位器 rv24yn 20s b202 30000.0
-__label__电位器-其他可调电阻 , vr2 low lvl 100ka potentiometer 100ka 1 1200
-__label__电位器-其他可调电阻 , vr3 high level 100ka potentiometer 100ka 1 1200
+__label__电位器-其他可调电阻 , 29.0 10905024 bochen 电位器 wxd3 13 2w 5k ω ± 5% ± 0.3% 30000.0
 __label__电位器-其他可调电阻 , 28 贴片 电位器 3314j 1 103e 3314j 1 500 500 rw1
-__label__电位器-其他可调电阻 , 36.0 1.0 r24 100r 3306w 1 101 res trimm pt 10 vertikal 300.0
-__label__电位器-其他可调电阻 , rpot potentiometer r6 vr5 rpot 1 1k
-__label__电位计 , 29.0 10905024 bochen 电位器 wxd3 13 2w 5k ω ± 5% ± 0.3% 0.0
-__label__电容器阵列与网络 , 171 035w118112511 701801005310 电容 smd 180p npo 50v k 1206 8p4c 0603x4 y4c3n181k500ct 6 600 mbs 5330 6.0
-__label__电阻器网络与阵列 , 15.3 排阻 4.7 k 5% 0603 4 4 16 wa06x472jtl
-__label__直插压敏电阻 , 压敏 电阻 14d561k un 200 0.2
-__label__直插压敏电阻 , nvd14ucd470 tvs nvd14uxxxx h metal oxide varistor 470volt 14mm koa nvd14ucd470 600 9920 7000 0988
-__label__直插压敏电阻 , nvd14ucd470 tvs nvd14uxxxx metal oxide varistor 470volt 14mm koa nvd14ucd470 80 9920 7000 0916
-__label__直插压敏电阻 , 压敏 电阻 330kd07 1 rv1
-__label__直插压敏电阻 , 压敏 电阻 tvr 2 5w 680v 10d681 4 680v 10 rv2 直插 rvs1 rvs2 rvs3 rvs4 8000
-__label__直插压敏电阻 , 29 varistor 10d561k p7.5 mm short legs 3.5 mm 10000
-__label__直插压敏电阻 , 压敏 电阻 10d471k 脚距 7.5 mm 10d471k znr1 插件 1.0 3000.0
-__label__直插压敏电阻 , 压敏 电阻 14d561k ± 10% p 7.5 mm 短脚 songtian rv1 1.0 3000.0
+__label__电位器-其他可调电阻 , 49.0 pot 10k pt10lh01 103a2020 s piher 0.2 datasheet bulk box 1000.0
+__label__直插低阻值采样电阻 , po20190026 配件 3000025241 电流 采样 电阻器 15a 75mv 3mm 跨距 30mm 引脚 压脚 温度 飘移 ± 40ppm 阻值 0.5% y230 30 5j 200
+__label__直插压敏电阻 , 14.0 10901070 压敏 电阻 470kd10j sip 0.0
+__label__直插压敏电阻 , 21 插件 myg 07k471 1 压敏 电阻 两脚 5mm
+__label__直插压敏电阻 , 44.0 压敏 电阻器 10d561k mov1 7.5 mm yini 1.0 1000
+__label__直插压敏电阻 , 直插 14d471k r103 1 3
+__label__直插压敏电阻 , 29 压敏 电阻 14d681 3 12000
+__label__直插压敏电阻 , 16.0 08050110 de2e3ky472ma3bm02 4 200 电容 b leaded disc ceramic capacitor 2 50v ac 4700pf ± 20% e 10.0 0.6 p7.5 x1 y2 ul eu
+__label__直插压敏电阻 , 18 压敏 电阻 130v r1 mov 14d201k mov 14d201k 1 20
 __label__直插压敏电阻 , 压敏 电阻 10d561k p 7.5 mm znr1 1.0 3000.0
+__label__直插晶体振荡器(有源) , 10.1 有源 3.3 v 贴片 晶振 hxo 36b 30.000 m 5 7 帖片 3v 1 4 真空 kds
 __label__直插晶体振荡器(有源) , 10.3 插脚 晶振 11.0592 mhz hc 49s 插脚 3v 1 4 真空 kds
-__label__直插晶体谐振器(无源) , 17 xtal1 插装 晶振 8.192 mhz hc 49s 1 3000
+__label__直插晶体谐振器(无源) , 3.22 贴片 ycr32k1a 直插 无源 晶振 圆柱 直插 d38 d38 032768 3ftd41 1.0 y1 30000.0 0.0 0.4 0.4
+__label__直插晶体谐振器(无源) , 晶振 quartzcrystal dip hc 49s 9b 8.192 mhz 无源 晶振 80.0
 __label__直插晶体谐振器(无源) , 无源 晶振 插件 16.384 mhz 10000
-__label__直插晶体谐振器(无源) , 无源 晶振 插件 32.768 khz 10000
-__label__直插独石电容 , 190.0 11002017 独石 电容 1000 袋 105 1 uf 直插 0.0
+__label__直插晶体谐振器(无源) , 无源 晶振 插件 12.000 mhz 10000
+__label__直插独石电容 , 188.0 11002010 独石 电容 1000 袋 102 1000pf 直插 1000.0
+__label__直插独石电容 , 189.0 11002016 独石 电容 1000 袋 104 0.1 uf 直插 0.0
 __label__直插独石电容 , 190.0 11002017 独石 电容 1000 袋 105 1 uf 直插 30000.0
-__label__直插独石电容 , po20190026 配件 3000028583 独石 电容 直插 独石 电容 0.1 uf 104k 63v 10 ％ 脚长 29mm 830
-__label__直插瓷片电容 , 102 1000v 插件 高压 电容 c39 脚距 5mm 10 1
+__label__直插瓷片电容 , 110101700346x cd 高压 瓷片 电容 102k 1kv 脚距 5mm 11480003 10000
 __label__直插瓷片电容 , 30.0 103 1kv rad0.2 co1 1.0 10.0 直插
-__label__直插瓷片电容 , 0.1 u 630v rad0.2 c0 1 10
-__label__直插瓷片电容 , 3.0 0.1 u 630v rad0.2 c0 2.0 20.0 直插
-__label__碳膜电阻器 , 14 插件 47 ω ± 1% 1 2w 碳膜 电阻 五色 环
+__label__直插瓷片电容 , c14 through holes close to j9 j10 digi key 445 8552 nd corp fk26x7r1e106k cap cer 10 uf 25v 10% radial
 __label__碳膜电阻器 , 14 插件 47 ω ± 1% 1 1000000 2w 碳膜 电阻 五色 环
-__label__碳膜电阻器 , 18 1777 0 18 uniohm resistor thd carbon film resistor 100 ω 5% 2w tht cfr02w0101t10 cfr200jt 52 100r 1.0 10000
-__label__碳膜电阻器 , 3 109 0201 0006 直插 电阻 1 4w 1k 3 00000
+__label__碳膜电阻器 , 12 1777 0 12 uniohm resistor thd carbon film resistor 3.9 k ω 5% 1 4w tht cfr0w40392t10 cfr 25jt 52 3k9 2.0 20000
 __label__碳膜电阻器 , 6 109 0201 0075 直插 电阻 1w 51 r 3 00000
-__label__碳膜电阻器 , ac05000001509jac00 10 through hole resistor axial flame 15r 5w 5%
-__label__精密可调电阻 , 电位器 r37 r38 r1610n bc3 b10k 2
-__label__精密可调电阻 , 091803 013001 电位器 3296w 10k 16
-__label__精密可调电阻 , 51 40 trimmer 50k ohm 0.5 w th r38 r49 r63 r70 3296w 503lf nd 3296w 1 503lf each
+__label__碳膜电阻器 , 碳膜 电阻 100k 1w 5% r 1w p 6.0 r46 1.0 3000.0
 __label__精密可调电阻 , 46 电位器 3224j 1 103 3224j 1 103 4 40
-__label__精密可调电阻 , 46 电位器 3224j 1 103 3224j 1 103 4 2000
-__label__线绕电阻器-透孔 , 24.0 10904015 电阻 6w 68 30000.0
+__label__线绕电阻器 , 透孔 插件 电阻 10 ω 1w 功率 线绕 电阻 插件 rx101 轴状 电阻 1.0 3000.0
 __label__线绕电阻器 , 透孔 线绕 电阻 100r 1w 线绕 电阻 ± 5% 1.0 3000.0
-__label__线绕电阻器 , 透孔 线绕 电阻 10r 1w 线绕 电阻 ± 5% 1.0 3000.0
+__label__线绕电阻器 , 透孔 线绕 电阻 100r 2w 5% r 2w l r35 1.0 3000.0
 __label__聚酯薄膜电容 , 0.1 uf capacitor c9 c72 rad0.2 cap 2 0.1 uf 薄膜 电容 直插
-__label__色环电感 , 插件 电感 1mh 色环 电感 l102 l 0410 1.0 3000.0
-__label__贴片低阻值采样电阻 , 47 1 rp56 0.01 r 1% ra6p45b125 200h60
-__label__贴片低阻值采样电阻 , r8 css2h 3920k 3l00fe 5w 3m ω 3920 10.0
-__label__贴片低阻值采样电阻 , 57 高精度 采样 电阻 1 毫欧 3w r60 r61 r62 2512 r 3 60
+__label__聚酯薄膜电容 , c3 capacitor cap film 0.047 uf 5% 100vdc rad 0.047 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1473j289
+__label__色环电感 , 直插 色环 电感 10uh 0307 l2 l3 inductor 0307 2.0 200.0 top
+__label__色环电感 , 色环 电感 1mh al0510 ± 10% 5.0 10.0 mm 1.0 3000.0
+__label__贴片低阻值采样电阻 , 金属膜 电阻 pe2010fke070r02l 20m ω ± 1% 1 2w 2010 贴装 pe2010fke070r02l 150
+__label__贴片低阻值采样电阻 , 2.0 2000.0 4mohms 2512 r130 r124 resistor pa2512fkf7w0r004e res 0.004 r 2w 1% 2512
+__label__贴片低阻值采样电阻 , 332 039w540004101 701502000530 电阻 smd 0.4 ohm 1% 0603 rl0603fr 070r4l 14 1400 mbs 5330 14.0
+__label__贴片低阻值采样电阻 , wi res 0102 r53 r54 r55 r56 0.003 4w 4 res 0.003 ohm 1% 4w 2512 dale wslf25123l000fea 541 3127 6 nd 2512 3120
 __label__贴片低阻值采样电阻 , res smd 0.025 ohm 1% 1 4w 1206 wsl1206r0250fea dale 1
-__label__贴片低阻值采样电阻 , res 0.047 ohm 1% 1w 1206 erj 8cwfr047v 4
-__label__贴片低阻值采样电阻 , res 0.15 ohm 5% 1 4w 0805 rlp73n2ar15jtd 2
-__label__贴片功率电阻 , n1020103061 无铅 表贴 功率 电阻器 rnp20ecf15r0q9 resistortoday 15 ω ± 1% 35w to 263 10.3 mm x 10.1 mmx4.5 mm ± 50ppm ° c 55 ℃ 175 ℃ resistortoday 100
-__label__贴片排阻 , 128 038w214103601 701591701051 电阻 smd 8p4r 10k ohm 5% 0402 ralec rta02 4d103jth 3 300 mbs 5330 3.0
-__label__贴片排阻 , 12 贴片 排阻 4.7 k 5% 472 0603 4 3 r38 r81 r82
-__label__贴片排阻 , 8.0 r13 r14 r15 r16 r17 r18 r19 r20 yc122 fr 0722rl 60.0 res array 2 res 22 ohm 1% 62.5 mw 0404 ± 200ppm ° c 0404
-__label__贴片排阻 , 4.7 k ω 472 ± 5% 4d03wgj0472t5e uni royal rp1 rp2 rp3 rp4 0603 rx4 8 200 4 800
-__label__贴片排阻 , a44 r07 s000140 res array 4 res 10k ohm 1206 cat16 103j4lf 排阻 15
-__label__贴片排阻 , 贴片 排阻 0 0603 3 r9 r15 r16
+__label__贴片低阻值采样电阻 , res 0.005 ohm 1% 1.5 w 1206 fcsl32r005fer ohmite 1
+__label__贴片压敏电阻 , ct0805s14bautog 压敏 电阻 b72510e1140s262 r185 r187 6 0805 n 2
+__label__贴片排阻 , 67 贴片 排阻 rn8p4r 0402 22r 4 ± 5% 22r 4 38262
+__label__贴片排阻 , rs1 rs2 1206 排阻 10k 1% 0603x4 2 30
+__label__贴片排阻 , exb2hv103jv 10 kohm exb2 series 8 elements 3d res exb2h r32 r64 r96 r128 r160 r292 r318 r326 r408 16.0 3150.0
+__label__贴片排阻 , 22 038w214510401 701591701056 resistor networks 排阻 cas jason190815 smd 8p4r 51 ohm 1% 0402 ralec rta02 4d51r0fth 7 3500
+__label__贴片排阻 , a44 r07 s000141 res array 4 res 1k ohm 1206 cat16 102j4lf 排阻 45
+__label__贴片排阻 , 电阻 排 100 ω 4 rcmlosw 101 100 ω 2 smd resistor array resistors 4x ± 5% 1 16w rcm0603 贴片 rn1 rn2 4000
+__label__贴片排阻 , 11 010211 排阻 rcmt08w330ft 33r srn8 0804 1% 30 30000
 __label__贴片晶体振荡器(无源) , 703514000300.0 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1.0 100.0
-__label__贴片晶体振荡器(无源) , 091809 013501 晶振 dsx321g 8m 3225 117
-__label__贴片晶体振荡器(有源) , 204 贴片 有源 晶体 32.768 khz ± 30ppm v 3.3 v osc32327683350 smd3225 d3sx00327000qe 3.3 v hosonic tcxo 3225 s 1 20 2000 30000
-__label__贴片晶体振荡器(有源) , 46 1 gj1 26m 晶振 7l26002009 10 txc 26m 晶振 7l26002009 7l26002009 txc 10 3 2.86 28.6
-__label__贴片晶体振荡器(有源) , 贴片 晶体振荡器 jyod3h7h3c5y 25.000 oxetghjanf 25.000000 mhz 7x25002011 l 3 5 25.000 m 50 40125 d3sx25e00000te 标称 频率 25mhz 频率 稳定度 ± 50ppm 温度 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x25002011 hlx l 3 5 25.000 m 50 40125 1 300
-__label__贴片晶体振荡器(有源) , 83 有源 晶振 32.768 khz sc0 700 smd 4 1000 x1
-__label__贴片晶体振荡器(有源) , smd 3225 4p osc 24m osc 24m y1 晶振 1 20 无源
-__label__贴片晶体振荡器(有源) , 113 有源 晶振 ovetgljanf 16mhz ovetgljanf 16.00 mhz smd 4p 500
-__label__贴片晶体振荡器(有源) , 185 晶振 ovetgljanf 50mhz smd 50mhz taitien 100
+__label__贴片晶体振荡器(无源) , 703514000200.0 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30y 4.0 400.0
+__label__贴片晶体振荡器(无源) , 45 1 x1 smd 3215 2p32.768 khz12.5 pf10ppm 30
+__label__贴片晶体振荡器(有源) , 240 晶振 crystal 24mhz 50ppm 15pf 3.2 2.5 mm x4s32x25h11 txc 7x24000005 smt txc 7x24000005 1 40
+__label__贴片晶体振荡器(有源) , 241 晶振 crystal 50mhz ± 25ppm 15pf diodes fk5000037 3.2 2.5 smt diodes fk5000037 1 40
+__label__贴片晶体振荡器(有源) , y1 有源 晶振 16m 625l3c016m00000 625l3c016m00000 osc cts 625 1 15
+__label__贴片晶体振荡器(有源) , 1 有源 振荡器 有源 振荡器 65.536 mhz 3.3 v 3225 贴装 ± 30ppm 1000
+__label__贴片晶体振荡器(有源) , sg 8002ca 80.000000 mhz u9 smd 7050 4p 1 5
+__label__贴片晶体振荡器(有源) , 48m 贴片 晶体振荡器 sit8103ai 21 18e 48.00000 x 标称 频率 48mhz 频率 稳定度 ± 20ppm 温度 40 85 ℃ 逻辑 cmos 电压 1.8 v ± 5% 占空比 45 55% 上升 下降时间 4.6 nsmax 老化 率 ± 1ppm 形式 smd3.2 2.5 3225 sitime sit8103ai 21 18e 48.00000 x 1 300
+__label__贴片晶体振荡器(有源) , 贴片 晶体振荡器 1631 24003 btbqya iqg 7x24002001 txc sg 310scn 24mhz j oxetelkanf 24.000000 mhz taitien 标称 频率 24mhz 频率 稳定度 ± 50ppm 温度 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x24002001 taitien oxetelkanf 24.000000 mhz 1 300
 __label__贴片晶体振荡器(有源) , 6107 s24m5706 贴片 晶振 kc2520k245760 c1ge00 京瓷 kyocera 80 无货
 __label__贴片晶体振荡器(有源) , 1 20 u3 cb3lv 5i 16m0000 774 cb3lv 5i 16m0000 cts standard clock oscillators 16.0 mhz 3.3 v 40c 85c 25ppm 16.000 mhz cb3lv
+__label__贴片晶体振荡器(有源) , 64mhz oscillator smd txc 7c 4pin 5.0 x3.2 mm 1 kc5032a64.0000 c10e00 kyocera 50ppm crystal oscillator low profile high stability spxo 100
+__label__贴片晶体振荡器(有源) , 150 表贴 晶振 有源 晶振 25mhz 5 3.2 mm 3.3 v 有源 晶振 smd 4pin 1.0 y1 800
 __label__贴片晶体振荡器(有源) , 153 表贴 晶振 有源 晶振 50mhz 5 3.2 mm 3.3 v 有源 晶振 smd 4pin txc 50mhz txc txc 50mhz 1.0 y4 800
+__label__贴片晶体振荡器(有源) , 有源 钟振 12mhz 5032 1.8 3.3 v osc3x5 100
 __label__贴片晶体振荡器(有源) , 11 060003 有源 晶振 kc3225a500000 c30e00 10 10000
 __label__贴片晶体振荡器(有源) , 11 060002 有源 晶振 kc3225a250000 c30e00 10 10000
 __label__贴片晶体振荡器(有源) , 11 060019 有源 晶振 sitime sit8008bi 13 33e 72000000 72mhz 33 v 10 10000 sit8008bi 13 33e 72000000 sitime 赛特 时脉 3000 2 4 3000 3000 242 陈彩珠
 __label__贴片晶体振荡器(有源) , 20mhz 15pf 40 125 ° c smf 020000 5bc6t0 贴片 晶体振荡器 有源 20mhz 15pf 40 125 ° c x2 smd 5032 4p 1
-__label__贴片晶体谐振器(无源) , 晶体 8.000 mhz ± 20ppm 20pf 20 ℃ 70 ℃ smd 5032 1
-__label__贴片晶体谐振器(无源) , 贴片 ycr12m1l 无源 晶振 贴片 12m 3225 yxc 1.0 y1 0.0 30000.0 0.36 0.36
-__label__贴片晶体谐振器(无源) , 3.21 贴片 ycr27m1g 无源 晶振 贴片 cxa 027120 3d7c40 3225 1.0 y2 30000.0 0.0 0.38 0.38
-__label__贴片晶体谐振器(无源) , 82 a08 001016 005 晶振 32768 m 20ppm 3225 12pf 40 ω max 40 85 ℃ smd322532768 eemm1f 3000 y3 贴片
+__label__贴片晶体谐振器(无源) , 121.0 1.0 qz500 32.768 khz xtal2 3p2x1p5 sm xtal 32.768 khz 12.5 pf 20ppm 3.2 x1.5 mm smt 20
+__label__贴片晶体谐振器(无源) , 80 a08 001015 003 晶体 谐振器 晶体 谐振器 8mhz ± 20ppm smd 49s 40 ℃ 85 ℃ 49smd8ecmq1f 3000 y1 贴片
 __label__贴片晶体谐振器(无源) , 98 贴片 晶体 smd 24mhz 12pf 20ppm 3225 1.0 y1
-__label__贴片晶体谐振器(无源) , 6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 100 7f16000e12ucg sjk 100 3 0690265 smd 2016 4p
-__label__贴片晶体谐振器(无源) , y1 2 脚无源 晶振 abm3 25mhz abm3 25mhz xtal 5x3.2 1 5
-__label__贴片晶体谐振器(无源) , nx3225sa 30.000 m cry4 3225 smd 3.2 mm 2.5 mm ndk y1 crystal 4pin dsp 旋变 无源 晶体振荡器 1.0 4.0
-__label__贴片晶体谐振器(无源) , 38.0 无源 晶振 xiheecnanf 6.553600 mhz y1 11.1 4.68 mm 1.0 1000
-__label__贴片晶体谐振器(无源) , 44 1 x1 smd 3215 2p32.768 khz12.5 pf10ppm 10 yxc smd 3215 2p32.768 khz12.5 pf10ppm smd 3215 2p32.768 khz12.5 pf10ppm tae 10 3 0.74 7.4 tae
-__label__贴片晶体谐振器(无源) , 97 065w000015000 703514000600 晶振 xtal 25.000375 mhz 15ppm 20pf 5x3.2 4p smd mercury mj 25.000375 20 15 15 y 4 400 mbs 5330 4.0
-__label__贴片晶体谐振器(无源) , dst311s 32.768 khz xtal 1808 x2 2.0 350.0
-__label__贴片晶体谐振器(无源) , 无源 晶振 yxc 杨兴 40 to 85 ° c 20pf ± 20ppm 11.5 4.5 3.68 mm 8m 杨兴 hc 49smd 10
-__label__贴片晶体谐振器(无源) , 1 0101 170007 贴片 无源 晶振 12m 5032 txc 1000 txc 7a12000009 1300
-__label__贴片晶体谐振器(无源) , fc 135 32.768 khz 12.5 pf 20ppm y2 xtal smd3215 2 1.0 100.0 bottom
-__label__贴片晶体谐振器(无源) , fa 238v 12m 12pf 15ppm y1 无源 smd3225 4 1.0 100.0 top
-__label__贴片晶体谐振器(无源) , 18 bot 贴片 晶振 32mhz 2520 tj xtal smd2.5 2 0.55 32mhz sx 2520 10ppm cl 10pf sx25032000ba1t x1 1 120
-__label__贴片晶体谐振器(无源) , 88 10 osc 1.5440 mhz 3.3 v smd y2 ctx290lvct nd cts frequency controls cb3lv 3c 1m5440 each
-__label__贴片晶体谐振器(无源) , 15 rfoa02 04 031 crystal 7.3728 mhz 30ppm smd 49s 16pf short lfxtal003334reel iqd 1 110
-__label__贴片晶体谐振器(无源) , 86 22.1184 mhz y1 tx 8m 5.0 x 3.2 x 1.2 1 1100
-__label__贴片晶体谐振器(无源) , 16 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 5
-__label__贴片晶体谐振器(无源) , 16 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 50
-__label__贴片晶体谐振器(无源) , 44 m25000j089 m25000j089 y1 1 10
-__label__贴片晶体谐振器(无源) , x2 1 631 1002 1 nd fox fx135a 327 crystal 32.7680 khz 12.5 pf smd 5000
-__label__贴片晶体谐振器(无源) , 5 xtal 25mhz cl 20pf 20ppm fund dip 1 3000
-__label__贴片晶体谐振器(无源) , 7 xtal 40mhz cl 15pf 7ppm lf 高溫 規格 85 度 1 3000
-__label__贴片晶体谐振器(无源) , 无源 晶振 32.768 k xtal fc135 1 x1
-__label__贴片晶体谐振器(无源) , 24004 32.768 khz ± 20ppm 12pf cry mc146 1 50 y4
-__label__贴片晶体谐振器(无源) , 贴片 晶体 esb49152 f20e33f hc49sma 49152 mhz ± 30ppm ssl4915220aehhf0 49152 mhz 1 crystal unit honsic tol ± 30ppm cload 20pf xtal02 贴片 x1 honsic 2000
-__label__贴片晶体谐振器(无源) , 36 晶振 q22fa12800101 1 10
-__label__贴片晶体谐振器(无源) , 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 7f16000e12ucg sjk 100 3 0.690265 smd 2016 4p
-__label__贴片晶体谐振器(无源) , 晶体 crystal 24.576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x x503224576msb4si yxc 100 3 0.936638 smd 5032 4p
-__label__贴片晶体谐振器(无源) , 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 7f16000e12ucg sjk 100 3 0.707257
-__label__贴片晶体谐振器(无源) , 35 32.768 khz 6pf smd 3215 2p 1.0 y1 400.0
-__label__贴片晶体谐振器(无源) , 68 石英 晶振 12m 3 5.2 mm 两脚 smd 1 y2 3000
-__label__贴片晶体谐振器(无源) , 86 贴片 晶振 x49sm8msd2si yxc hc 49smd 11
-__label__贴片晶体谐振器(无源) , 32.768 khz 无源 晶振 32.768 khz mc 146 ± 20ppm 12.5 pf hosonic y2 cry2 6r90x1r40x1r30 1 3000
-__label__贴片晶体谐振器(无源) , 无源 晶振 贴片 mc 146 10000
-__label__贴片晶体谐振器(无源) , 6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 100 7f16000e12ucg sjk 100 3 0690265 smd 2016 4p
+__label__贴片晶体谐振器(无源) , 11001 0002 石英 晶体 谐振器 nx3215sa 石英 晶体 谐振器 32768 khz 2pin 125 pf 频差 ± 20ppm 温度 频差 ± 10ppm 温度 40 ℃ 85 ℃ 3215 ndk y2 1 6 ndk
 __label__贴片晶体谐振器(无源) , 6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 100 x503224576msb4si yxc 100 3 0936638 smd 5032 4p
-__label__贴片晶体谐振器(无源) , 11 060025 无源 晶振 abracon abs06 127 32768 khz 32768 khz 2012 10 10000
-__label__贴片晶体谐振器(无源) , osc cmos 24.0 mhz 20 ppm 18pf 40 ° c 85 ° c 6.00 mm x 3.30 mm x 1.40 mm 2 pins smt abracon abm7 24.000 mhz d2y t 24.0 mhz 20 ppm 18pf 40 ° c 85 ° c 6.00 mm x 3.30 mm x 1.40 mm 2 pins smt xtl1 xtl3 2.0 90000.0 90010.0
-__label__贴片晶体谐振器(无源) , 8mhz txc aa08000002 x1 5320 jz 1
-__label__贴片电容 , 18 310101710 1 40000 cap 22 uf 10v 20 x5r 0603 grm188r61a226me15d
-__label__贴片电容 , 62 310008400 1 3500 cap 2.2 nf 50v x7r 0603 grm188r71h222ka01d
+__label__贴片晶体谐振器(无源) , 244 晶振 crystal 32.768 khz ± 20ppm cl 12.5 pf 40 85c 3.2 1.5 mm 2p txc 9h03200031 smt txc 9h03200031 1 40
+__label__贴片晶体谐振器(无源) , y1 2 脚无源 晶振 abm3 25mhz abm3 25mhz xtal 5x3.2 1 5
+__label__贴片晶体谐振器(无源) , 200 贴片 晶体 32.768 khz ± 20ppm 12.5 pf 基频 6.9 1.4 1.3 mm 40 85 ℃ 32.768 khz osd mc146 1 20 2000 30000
+__label__贴片晶体谐振器(无源) , 203 贴片 晶体 25mhz ± 10ppm 20pf s3225000201060 smd3225 s3225000201060 3225 1 20 2000 30000
+__label__贴片晶体谐振器(无源) , 38 065w0327011a1 703514000700 晶振 32.768 khz 20ppm 12.5 pf 6.9 x1.4 x1.3 mm mc 146 smd q13mc14620002xx 1 100 mbs 5330 1.0
+__label__贴片晶体谐振器(无源) , 97 065w000015000 703514000600 晶振 xtal 25.000375 mhz 15ppm 20pf 5x3.2 4p smd mercury mj 25.000375 20 15 15 y 4 400 mbs 5330 4.0
+__label__贴片晶体谐振器(无源) , 98 065w025011281 703514000100 晶振 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20 y d 1 100 mbs 5330 1.0
+__label__贴片晶体谐振器(无源) , 77 晶振 hc 49smd 8mhz txc sm49 xtal ws090001 1 9200
+__label__贴片晶体谐振器(无源) , dst311s 32.768 khz xtal 1808 x2 2.0 350.0
+__label__贴片晶体谐振器(无源) , 6107 s16m0002 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 100 7f16000e12ucg sjk 100 3 0707257
+__label__贴片晶体谐振器(无源) , 无源 晶振 yxc 杨兴 40 to 85 ° c 20pf ± 20ppm 11.5 4.5 3.68 mm 8m 杨兴 hc 49smd 10
+__label__贴片晶体谐振器(无源) , q1 8mhz csm 7x du csm 7x du csm 7x du smd crystal unknown unknown 20
+__label__贴片晶体谐振器(无源) , fc 135 32.768 khz 12.5 pf 20ppm y2 xtal smd3215 2 1.0 100.0 bottom
+__label__贴片晶体谐振器(无源) , 41 st2012sb32768e0hpwbb crystal 32.7680 khz 9pf smd kyocera international 1 5000
+__label__贴片晶体谐振器(无源) , 87 10 crystal 32768 khz 125 pf smd y1 xc1617ct nd ecs inc ecs 327 125 34b each
+__label__贴片晶体谐振器(无源) , 89 10 crystal 8.00 mhz 20pf smd y3 xc1010ct nd ecs inc ecs 80 20 20a tr each
+__label__贴片晶体谐振器(无源) , 15 rfoa02 04 031 crystal 7.3728 mhz 30ppm smd 49s 16pf short lfxtal003334reel iqd 1 110
+__label__贴片晶体谐振器(无源) , 15 y1 贴片 晶振 q13fc1350000400 32.768 khz xd3215 1
+__label__贴片晶体谐振器(无源) , u8 smd 5032 4p 8m 20pf 20ppm smd 5032 4p 8m 20pf 20ppm 1 10
+__label__贴片晶体谐振器(无源) , 82 无源 晶振 24.576 mhz cpx 49sp smd 2 1000 x4
+__label__贴片晶体谐振器(无源) , 60 1200 y102 crystal 32768hz 2.0 x1.2 mm cts tf202p32k7680
+__label__贴片晶体谐振器(无源) , 86 22.1184 mhz y1 tx 8m 5.0 x 3.2 x 1.2 1 1100
+__label__贴片晶体谐振器(无源) , m25000j089 m25000j089 y1 osc 3225 crystal 1 10
+__label__贴片晶体谐振器(无源) , 16 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 5
+__label__贴片晶体谐振器(无源) , 60 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 5
+__label__贴片晶体谐振器(无源) , 183 晶振 xvdbblnanf24.000 smd 24mhz taitien 100
+__label__贴片晶体谐振器(无源) , 186 晶振 xvdbblnanf8.000 smd 8mhz taitien 50
+__label__贴片晶体谐振器(无源) , 184 晶振 zm206 smd 32.768 khz c 306 taitien 100
+__label__贴片晶体谐振器(无源) , 112 晶体 zm206 32.768 k taitien smd 200
+__label__贴片晶体谐振器(无源) , 6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 100 x503224576msb4si yxc 100 3 0936638 smd 5032 4p
+__label__贴片晶体谐振器(无源) , x1 1 520 csm403 20 ecs ecs 40.3 20 5p tr crystal 4.032 mhz 20pf smd 5000
+__label__贴片晶体谐振器(无源) , x2 1 631 1002 1 nd fox fx135a 327 crystal 32.7680 khz 12.5 pf smd 5000
+__label__贴片晶体谐振器(无源) , 16m 晶振 x322516mlb4si 12000.0
+__label__贴片晶体谐振器(无源) , 晶体 co4 2r5x3r2 s kyocera cx3225gb24000p0hpqcc 24mhz 24mh 20ppm 1.0 20.0
+__label__贴片晶体谐振器(无源) , 101 贴片 无源 晶振 16.000 mhz 9pf ± 10ppm cy2016 150
+__label__贴片晶体谐振器(无源) , 无源 晶振 32.768 k xtal fc135 1 x1
+__label__贴片晶体谐振器(无源) , 24007 27mhz ± 10ppm 20pf cry d3225 3 300
+__label__贴片晶体谐振器(无源) , 贴片 晶体 esb49152 f20e33f hc49sma 49152 mhz ± 30ppm ssl4915220aehhf0 49152 mhz 1 crystal unit honsic tol ± 30ppm cload 20pf xtal02 贴片 x1 honsic 2000
+__label__贴片晶体谐振器(无源) , 4.9152 mhz 1 ± 30ppm sx2 4518 贴片 x1 hosnic 2000
+__label__贴片晶体谐振器(无源) , 贴片 无源 晶振 32.768 khz 12.5 pf 20ppm 3215 3040000033002 3215 1 y1
+__label__贴片晶体谐振器(无源) , 贴片 无源 晶振 32.768 khz 12.5 pf 20ppm 3215 3040000033002 3215 1 y1
+__label__贴片晶体谐振器(无源) , 34 晶振 q24fa20h0068700 1 10
+__label__贴片晶体谐振器(无源) , 晶振 sc 32s32.768 khz20ppm7pf 3215 晶体 振 荡器 sc 32s 7pf smd 321 5 seiko 1 2000
+__label__贴片晶体谐振器(无源) , 35 32.768 khz 6pf smd 3215 2p 1.0 y1 400.0
+__label__贴片晶体谐振器(无源) , 36 8mhz 20pf 20ppm smd 5032 2p 1.0 y2 400.0
+__label__贴片晶体谐振器(无源) , crystal 12mhz crystal smd 2520 4pin 2.5 x2.0 mm 1 abm10 166 12.000 mhz t3 abracon 10ppm 10ppm four pin crystal gnd on pins 2 and 4 100
+__label__贴片晶体谐振器(无源) , 贴片 晶振 12mhz xtals 2 5x3 2mm 1 x1 8570
+__label__贴片晶体谐振器(无源) , 122 2 脚 晶振 vt 200 f 32.768 khz 5ppm 12.5 pf seiko xtal 2x6h 11
+__label__贴片晶体谐振器(无源) , 24mhz 无源 晶振 24m 3225 ± 10ppm 8pf hosonic y1 cry4 3r20x2r50x0r80 1 3000
+__label__贴片晶体谐振器(无源) , 32.768 khz 无源 晶振 32.768 khz mc 146 ± 20ppm 12.5 pf hosonic y2 cry2 6r90x1r40x1r30 1 3000
+__label__贴片晶体谐振器(无源) , 45.0 xtal 12.288 mhz sjk 6b 12.288 20 30 30 f shenzhen crystal 20pf hc 49s bulk 2000.0
+__label__贴片晶体谐振器(无源) , 46.0 xtal 20mhz as49sd 20m fc160f3 tr ansen 16pf hc 49s tape reel 1000.0
+__label__贴片晶体谐振器(无源) , ecy3225xx4p16m09prjx 16mhz 贴片 晶振 cl 9pf 3225 带铁壳 rjx y2 1 3000
+__label__贴片晶体谐振器(无源) , 4 脚无源 贴片 晶振 25mhz smd3225 x322535mrb4si 2 2 2 48 50
+__label__贴片电容 , 59 310011100 1 14000 cap 18pf 50v npo 5% 0402 cc0402jrnpo9bn180
+__label__贴片电容 , 61 312000900 1 52500 cap 1nf 16v x7r 0402 c1005x7r1c102kt
 __label__贴片电容 , 63 310008100 1 14000 cap 10nf 25v x7r 0402 c1005x7r1e103jt
 __label__贴片电容 , 64 310008100 5 14000 cap 10nf 25v x7r 0402 ecj 0eb1e103k
-__label__贴片电容 , 68 310011160 1 17500 cap 10 uf 10v 10% x5r 0603 c1608x5r1a106k
-__label__贴片电容 , 69 310008600 1 38500 cap 22 uf 6.3 v x5r 0805 c2012x5r0j226m
-__label__贴片电容 , 144 310001100 1 7000 cap smd 0805 47 uf 6 3v x5r 20% c0805c476m9pactu kemet
-__label__贴片电容 , 146 5222 4 56000 cap cer 1nf 10% 50v 0603 smd ecj 1vb1h102k
-__label__贴片电容 , 148 312001400 2 7000 cap 10 uf 10v x5r 1206 grm31cr71a106ka01l
+__label__贴片电容 , 70 310005100 1 3500 cap cer 47 uf 6.3 v 1206 x7r grm31cb30j476ke18k
+__label__贴片电容 , 108 4891 2 45500 cap 100pf cer npo 50v 0603smd ecj 1vc1h101j
 __label__贴片电容 , 149 312001500 2 10500 cap 10 uf 50v x7s 1210 umk325c7106mm t tayo
-__label__贴片电容 , 3 capacitor 10 uf x5r 4v ± 20% 0402 grm155r60g106me11d 1000
-__label__贴片电容 , cca0093 0.047 µ f 50v ceramic capacitor x7r 0603 c21 1 06035c473kat2a sim 5000.0 0.016 0.3691 0.1023
-__label__贴片电容 , cca0098 capacitor 150pf 0603 tolerancia 5% c26 1 cl10c151jb8nnnc sim 5000.0 0.012 0.054 0.0358 0.04
-__label__贴片电容 , 110101700731x 贴片 独石 瓷介 电容 chip mono cap.0603 c0g 620pf 士 5% 500t 4000
-__label__贴片电容 , 7 1.7 贴片 ycd100393a 贴片 陶瓷 电容 0201 100nf ± 20% 16v x5r 3.0 c8 c12 c13 90000.0 0.0 0.0072 0.0216
-__label__贴片电容 , 3.9 贴片 yc4100075c 贴片 陶瓷 电容 0603 100pf ± 5% 50v c0g 1.0 c36 30000.0 0.0 0.013 0.013
-__label__贴片电容 , 3.12 贴片 yc4470075c 贴片 陶瓷 电容 0603 470pf ± 5% 50v c0g 1.0 c32 30000.0 0.0 0.024 0.024
+__label__贴片电容 , 4 smd 贴片 陶瓷 电容 c4 0603 100nf 50v 1.0 20000.0
+__label__贴片电容 , 1 smd 贴片 陶瓷 电容 c1 c2 c3 c0603 100nf 50v 3.0 15000.0
+__label__贴片电容 , cca0006 capacitor 10 uf 16v x5r smd 0805 c32 1 grm21br61c106ke15l sim 5000.0 0.038 0.5111 0.0717 0.09
+__label__贴片电容 , cca0073 cap cer 100nf 16v 10% x7r 0603 c1 c3 c5 c7 c10 c11 c13 c14 c31 c38 c40 c41 12 c0603c104k4ractu kemet sim 60000.0 0.011 0.1177 0.1397
+__label__贴片电容 , 贴片 电容 c02 c04 0603 10nf x7r 10% 2
+__label__贴片电容 , 6 1.3 贴片 ycd001693a 贴片 陶瓷 电容 0201 1 uf ± 20% 16v x5r 4.0 c7 c9 c10 c11 120000.0 0.0 0.0145 0.058
+__label__贴片电容 , 7 1.4 贴片 ycd022285b 贴片 陶瓷 电容 0201 2.2 nf ± 10% 50v x7r 1.0 c3 30000.0 0.0 0.012 0.012
+__label__贴片电容 , 3 1.3 贴片 ycd001693a 贴片 陶瓷 电容 0201 1 uf ± 20% 16v x5r 4.0 c7 c9 c10 c11 120000.0 0.0 0.0145 0.058
+__label__贴片电容 , 贴片 yc2100393b 贴片 陶瓷 电容 0402 100nf ± 20% 16v x7r 6.0 c2 c3 c4 c7 c9 c10 0.0 180000.0 0.006 0.036000000000000004
+__label__贴片电容 , 贴片 yc2001693b 贴片 陶瓷 电容 0402 1 uf ± 20% 16v x7r 1.0 c1 0.0 30000.0 0.011 0.011
+__label__贴片电容 , 37 贴片 yc4022075c 贴片 陶瓷 电容 0603 22pf ± 5% 50v c0g 20 c29 c27 600000 00 0016 0032
+__label__贴片电容 , 3.11 贴片 yc4130075c 贴片 陶瓷 电容 0603 130pf ± 5% 50v c0g 1.0 c26 30000.0 0.0 0.036 0.036
+__label__贴片电容 , 3.13 贴片 yc5010693a 贴片 陶瓷 电容 0805 10 uf ± 20% 16v x5r 1.0 c51 30000.0 0.0 0.048 0.048
+__label__贴片电容 , 42 贴片 yc4047285b 贴片 陶瓷 电容 0603 47 nf ± 10% 50v x7r 20 c1 c2 600000 00 0013 0026
 __label__贴片电容 , 10.0 85.0 c19 c20 c21 c23 c25 c48 c619 c625 c626 c628 c629 c630 c632 c633 c634 c635 c636 c637 c638 c640 c643 c644 c645 c646 c648 c650 c652 c655 c656 c657 c658 c659 c660 c661 c662 c663 c664 c665 c667 c668 c670 c671 c672 c674 c675 c676 c677 c678 c684 c685 c686 c687 c688 c689 c690 c691 c692 c693 c695 c696 c698 c701 c702 c703 c704 c705 c706 c707 c708 c709 c710 c711 c712 c713 c714 c715 c719 c720 c721 c722 c723 c724 c725 c727 c728 0.22 uf 0201 cc cap cer 0.22 uf 6.3 v 20% x5r 0201 1700
-__label__贴片电容 , 12.0 1.0 c27 0.1 uf 0201 cc cap cer 0.1 uf 6.3 v 10% x5r 0201 20
-__label__贴片电容 , 13.0 4.0 c3m0 c3m3 c3m5 c12m6 0.1 uf 25v c0402 c smd cer 0.1 uf 10% 25v x5r 0402 t0.5 mm lt lf 80
-__label__贴片电容 , 16.0 42.0 c37 c41 c42 c43 c44 c45 c46 c47 c52 c53 c56 c57 c58 c59 c64 c67 c70 c71 c72 c73 c74 c75 c76 c613 c614 c615 c616 c617 c618 c620 c647 c653 c666 c717 c718 c731 c732 c733 c734 c735 c736 c737 0.22 uf 0402 cc cap cer 0.22 uf 16v 10% x5r 0402 840
+__label__贴片电容 , 19.0 14.0 c4m2 c5m2 c6m2 c7m2 c8m2 c9m2 c21m2 c22m2 c23m2 c32m2 c33m2 c35m2 c40m2 c46m2 4.7 uf 0603 cc cap cer 4.7 uf 10v 10% x5r 0603 280
 __label__贴片电容 , 20.0 18.0 c4m6 c6m6 c9m5 c10m3 c10m4 c11m0 c233 c236 c270 c306 c311 c332 c334 c350 c366 c374 c406 c415 1 uf 16v c0603 c smd cer 1 uf 10% 16v x5r 0603 t0.8 mm lt lf 360
 __label__贴片电容 , 21.0 6.0 c5m6 c11m6 c13m6 c15m0 c21m6 c241 10nf 25v c0402 c smd cer 10nf 10% 25v x5r 0402 t0.5 mm lt lf 120
-__label__贴片电容 , 22.0 4.0 c51 c55 c624 c639 18pf 0402 cc c smd cer 18pf 5% 50v c0g 0402 t0.5 mm lt lf 80
-__label__贴片电容 , 28.0 1.0 c77 22 uf 16v 0805 cc c smd cer 22 uf 10% 25v x5r 0805 t1.25 mm lt lf 20
-__label__贴片电容 , 30.0 23.0 c86 c87 c187 c376 c379 c380 c381 c383 c385 c391 c396 c397 c401 c404 c420 c421 c603 c621 c738 c742 c744 c745 c749 0.1 uf 0402 cc c smd cer 0.1 uf 10% 16v x5r 0402 t0.5 mm lt lf 460
-__label__贴片电容 , 32.0 1.0 c10m2 1 uf c0402 cap cer 1.0 uf 10v 10% x5r 0402 20
-__label__贴片电容 , 37.0 1.0 c14m6 1 uf 25v c0603 c smd cer 1 uf 10% 25v x5r 0603 t0.8 mm lt lf 20
-__label__贴片电容 , 41.0 1.0 c20m6 2200pf c0402 c smd cer 2200pf 10% 16v x5r 0402 t0.5 mm lt lf 20
+__label__贴片电容 , 31.0 14.0 c9m1 c11m1 c12m1 c14m1 c15m1 c16m1 c21m1 c22m1 c27m1 c32m1 c35m1 c41m1 c42m1 c48m1 4.7 uf 0603 cc cap cer 4.7 uf 10v 10% x5r 0603 280
+__label__贴片电容 , 33.0 10.0 c11m2 c12m2 c14m2 c15m2 c16m2 c17m2 c18m2 c19m2 c20m2 c34m2 0.1 uf 0402 cc c smd cer 0.1 uf 10% 16v x5r 0402 t0.5 mm lt lf 200
+__label__贴片电容 , 43.0 20.0 c203 c205 c273 c278 c283 c287 c317 c320 c326 c329 c339 c340 c342 c343 c345 c354 c362 c364 c372 c373 10 uf 16v c0805 c smd cer 10 uf 10% 16v x5r 0805 t1.25 mm lt lf 400
 __label__贴片电容 , 47.0 3.0 c221 c222 c224 22 uf c0603 cap cer 22 uf 10v 10% x5r 0603 60
-__label__贴片电容 , 48.0 4.0 c229 c230 c231 c232 1.0 uf c0402 cap cer 1.0 uf 10v 10% x5r 0402 80
-__label__贴片电容 , 50.0 2.0 c239 c240 12pf c0402 c smd cer 12pf 5% 50v npo 0402 t0.5 mm lt lf 40
-__label__贴片电容 , 51.0 12.0 c24m2 c25m2 c26m2 c27m2 c28m2 c29m2 c30m2 c31m2 c36m2 c37m2 c38m2 c39m2 22 uf 0603 cc cap cer 22 uf 6.3 v 20% x5r 0603 240
-__label__贴片电容 , 56.0 1.0 c296 1 uf c0402 cap cer 1.0 uf 10v 10% x5r 0402 20
-__label__贴片电容 , 61.0 3.0 c384 c386 c416 22pf c0402 c smd cer 22pf 5% 50v cog 0402 t0.5 mm lt lf 60
-__label__贴片电容 , 67.0 1.0 c42m2 0.22 uf 0402 cc cap cer 0.22 uf 16v 10% x5r 0402 20
-__label__贴片电容 , 110101700248x 贴片 独石 瓷介 电容 chip mono cap.0603 x7r 201k 500t 11454053 16000
+__label__贴片电容 , 72.0 1.0 c726 1 uf 0402 cc cap cer 1.0 uf 10v 10% x5r 0402 20
 __label__贴片电容 , 110101700332x 贴片 独石 瓷介 电容 chip mono cap.0603 c0g 10pf 士 5% 500t 11454030 100000
-__label__贴片电容 , 110101700375x 贴片 独石 瓷介 电容 chip mono cap.1206 x7r 106k 16v 72000
-__label__贴片电容 , 110101700645x cd 贴片 独石 瓷介 电容 chip mono cap 0603 y5v 106k 63 v 160000
-__label__贴片电容 , 110101700827x 贴片 陶瓷 电容 chip cap 0603 15nf ± 10% 25v 55 ℃ 125 ℃ 2000
-__label__贴片电容 , 110101700830x 贴片 陶瓷 电容 chip cap 0603 2 uf ± 10% 10v 55 ℃ 125 ℃ 2000
-__label__贴片电容 , 201.0 11003020 贴片 电容 10v f 50v 30000.0
-__label__贴片电容 , 202.0 11003023 贴片 电容 22p 0805 30000.0
-__label__贴片电容 , 212.0 11003062 贴片 电容 100nf 50v 0603 30000.0
-__label__贴片电容 , 213.0 11003063 贴片 电容 4.7 uf 0805 30000.0
+__label__贴片电容 , 110101700592x cd 贴片 独石 瓷介 电容 chip mono cap.0603 c0g 24pf 士 5% 500t 12000
+__label__贴片电容 , 193.0 11003002 贴片 电容 470p 0805 30000.0
+__label__贴片电容 , 194.0 11003003 贴片 电容 20p 0805 30000.0
+__label__贴片电容 , 199.0 11003011 瓷片 贴片 电容 2.2 vf 1206 30000.0
+__label__贴片电容 , 203.0 11003024 贴片 电容 475 0805 4.7 uf 30000.0
+__label__贴片电容 , 206.0 11003039 贴片 电容 10 uf 106 0805 30000.0
+__label__贴片电容 , 215.0 11003065 贴片 电容 1nf 0603 30000.0
+__label__贴片电容 , 218.0 11003074 贴片 电容 2.2 pf 2.2 pf 0603 30000.0
+__label__贴片电容 , 220.0 11003077 贴片 电容 18pf 0603 30000.0
+__label__贴片电容 , 228.0 11003086 贴片 电容 47 uf 50v smd 30000.0
 __label__贴片电容 , 230.0 11003088 贴片 陶瓷 电容 8.2 pf 16v 0603 30000.0
+__label__贴片电容 , 231.0 11003089 贴片 陶瓷 电容 150pf 50v 0603 30000.0
+__label__贴片电容 , 233.0 11003091 贴片 陶瓷 电容 4700pf 50v 0603 30000.0
+__label__贴片电容 , 234.0 11003092 贴片 陶瓷 电容 0.068 uf 68nf 50v 0603 30000.0
 __label__贴片电容 , 235.0 11003094 贴片 陶瓷 电容 0.22 uf 50v 0603 30000.0
-__label__贴片电容 , 242.0 11003124 贴片 电容 22vf 16v 1206 30000.0
-__label__贴片电容 , 249.0 11003158 贴片 电容 330nf 0603 30000.0
-__label__贴片电容 , 1 300 c13 22pf 0402 贴片 电容 22pf 220 ± 5% 50v
-__label__贴片电容 , 2 300 c16 c17 22 uf 35v 1206 贴片 电容 22 uf 226 ± 20% 35v
+__label__贴片电容 , 239.0 11003121 贴片 电容 10 uf 50v 10% 1210 30000.0
+__label__贴片电容 , 250.0 11003160 贴片 电容 10 uf 35v 1206 30000.0
+__label__贴片电容 , 5 300 c4 c8 c9 c64 c65 0.1 uf 25v 0402 贴片 电容 0.1 uf ± 10% 25v
+__label__贴片电容 , 1 300 c10 1 uf 16v 0603 贴片 电容 1 uf 105 ± 10% 16v
 __label__贴片电容 , 1 300 c23 33nf 50v 0402 贴片 电容 33nf ± 20% 50v
-__label__贴片电容 , 2 300 c33 c34 47pf 50v 0603 贴片 电容 47pf 470 ± 5% 50v
-__label__贴片电容 , 2 300 c49 c56 47pf 50v 0402 贴片 电容 47pf 470 ± 5% 50v
+__label__贴片电容 , 1 300 c25 100pf 50v 0603 贴片 电容 100pf 101 ± 5% 50v
+__label__贴片电容 , 1 300 c54 1.8 pf 50v 0603 贴片 电容 1.8 pf 1r8 ± 0.1 pf 50v
+__label__贴片电容 , 1 cl21b104jbcnnnc 100nf 1% 25v 100nf ± 5% 50v 805 500000 0.0085 4250
 __label__贴片电容 , 4 cl21c300jbannnc 30pf 1% 25v 30pf ± 5% 50v 805 150000 0.0085 1275
 __label__贴片电容 , 5 cl21c681jbcnnnc 680pf 1% 25v 680pf ± 5% 50v 805 50000 0.0115 575
-__label__贴片电容 , 21 vj0603y102jxx capasitor 1nf toleranc 5% 0603 automotive 12weeks moq 48k 48000 0.0045 216
-__label__贴片电容 , 28 18125c475mat2a capasitor 4.7 uf x7r dielectric 1812 automotive 16weeks 10000 0.402 4020
-__label__贴片电容 , 30 vj0603y471jxacw1bc capasitor 470pf toleranc 5% 0603 automotive 12weeks moq 40k 40000 0.0058 232
 __label__贴片电容 , 29 vj0603y121kxacw1bc capasitor 120pf toleranc 5% 0603 automotive 12weeks moq 40k 40000 0.0058 232
-__label__贴片电容 , 30 vj0603y471jxacw1bc capasitor 470pf toleranc 5% 0603 automotive 12weeks moq 40k 40000 0.0058 232
-__label__贴片电容 , 7 贴片 电容 104 50v 20% 0805 c1 c2 20000
+__label__贴片电容 , 25 vj1206y105jxx capasitor 1 uf toleranc 5% 1206 automotive 12weeks moq 15k 10000 0.0636 636
+__label__贴片电容 , 29 vj0603y121kxacw1bc capasitor 120pf toleranc 5% 0603 automotive 12weeks moq 40k 40000 0.0058 232
 __label__贴片电容 , 110101700248x 贴片 独石 瓷介 电容 chip mono cap 0603 x7r 201k 500t 11454053 16000
-__label__贴片电容 , 110101700645x cd 贴片 独石 瓷介 电容 chip mono 0603 6.3 v y5v 106k 160000
+__label__贴片电容 , 110101700375x 贴片 独石 瓷介 电容 chip mono cap 1206 x7r 106k 16v 72000
+__label__贴片电容 , 110101700628x cd 片状 陶瓷 电容器 chip gqm1885c1h100gb01 mono cap 0603 10pf ± 5% 50v gqm 温度 c0g 16000
 __label__贴片电容 , 110101700187x 贴片 独石 瓷介 电容 chip cap.0805 x7r 103k 500t 80000
-__label__贴片电容 , 110101700203x 贴片 独石 瓷介 电容 chip cap.0603 y5v 473m 500t 24000
-__label__贴片电容 , 110101700539x 贴片 独石 瓷介 电容 chip mono cap 0805 805 cog 182j 4000
 __label__贴片电容 , 110101700836x 贴片 独石 瓷介 电容 chip mono cap.0402 402 x7r 273k 100000
-__label__贴片电容 , 瓷片 电容 vj0603y103jxx 7 14070 vj0603y103jxxac 16000 a 0.392 7 12d
-__label__贴片电容 , 15 贴片 电容 cap0402 5pf ± 5% 50v cc0402crnpo9bn5r0 12754
-__label__贴片电容 , 30 贴片 电容 cap0603 10 uf ± 10% cc0603krx5r6bb106 25508
-__label__贴片电容 , 31 贴片 电容 cap0805 10 uf 16v ± 10% cc0805mrx5r7bb106 63770
-__label__贴片电容 , 12 12100004 贴片 电容 10nf 25v ± 10% 0402 x7r 10nf 25v ± 10% 0402 x7r c0402 cap mlcc 10nf 25v ± 10% 0402 x7r smt 116 348000
-__label__贴片电容 , ldr77 usrr v0.1 电容 220nf 220nf ± 10% 16v x7r 0402 14 c0301 c0303 c0304 c0308 c0310 c0311 c0312 c0314 c0315 c0316 c0317 c0320 c0321 c0325 14000
+__label__贴片电容 , 贴片 电容 vj0603y100 3 6030
+__label__贴片电容 , 19 贴片 电容 cap 100pf 100pf 100v cc0603jrnpo0bn101 70147
+__label__贴片电容 , 23 贴片 电容 cap0402 10nf 50v ± 10% 50v cc0402krx7r9bb103 51016
+__label__贴片电容 , 2.0 2000.0 0.33 uf 50v 0805 c122 c117 capacitor vj0805v334mxacw1bc chip cap 0805 330nf 50v 10% x7r kemet
+__label__贴片电容 , 51.0 51000.0 0.1 uf 50v 0805 c1 c2 c9 c85 c87 c26 c80 c41 c42 c43 c108 c114 c123 c124 c136 c139 c140 c141 c142 c143 c144 c145 c147 c149 c11 c12 c13 c16 c17 c18 c19 c23 c25 c27 c28 c29 c30 c31 c32 c33 c35 c36 c37 c48 c49 c50 c61 c63 c68 c69 c86 capacitor 0805b104k500ct chip cap 0805 x7r 100nf 50v 10%
+__label__贴片电容 , 10 1 uf 25v 2 c4 c7 6000
+__label__贴片电容 , 11 100nf 25v 2 c5 c6 6000
+__label__贴片电容 , ldr77 usrr v0.1 电容 10pf 10pf ± 0.1 pf 50v c0g 0603 1 c0105 1000
+__label__贴片电容 , ldr77 usrr v0.1 电容 1nf 1nf ± 10% 50v x7r 0603 1 c0107 1000
+__label__贴片电容 , ldr77 usrr v0.1 电容 470nf 470nf ± 10% 25v x7r 0603 3 c0206 c0230 c0231 3000
 __label__贴片电容 , ldr77 usrr v0.1 电容 2.2 uf 2.2 uf ± 20% 6.3 v x5r 0402 2 c0302 c0319 2000
+__label__贴片电容 , ldr77 usrr v0.1 电容 4.7 uf 4.7 uf ± 20% 25v x7r 0603 1 c0205 1000
+__label__贴片电容 , ldr77 usrr v0.1 电容 10 uf 10 uf ± 10% 25v x7r 0805 4 c0217 c0218 c0219 c0220 4000
 __label__贴片电容 , ldr77 usrr v0.1 电容 10 uf 10 uf ± 10% 25v x7r 1206 2 c0201 c0203 2000
 __label__贴片电容 , ldr77 usrr v0.1 电容 10 uf 10 uf ± 10% 35v x7r 1210 1 c0101 1000
-__label__贴片电容 , ldr77 usrr v0.1 电容 22 uf 22 uf ± 10% 25v x7r 0805 11 c0209 c0210 c0215 c0216 c0222 c0223 c0224 c0225 c0226 c0232 c0235 11000
-__label__贴片电容 , 电容 3 cl21a475kbqnnne 4.7 â µ f â ± 10% 50v ceramic capacitor x5r 0805 2012 metric 1 200000
-__label__贴片电容 , 8 6102 0402472k 贴片 电容 c 1005 473 50 x 0402 47nf 50v ± 10% 0402 47nf 50v ± 10% 4020 ok 240 quad
-__label__贴片电容 , 13 6102 0603477k 贴片 电容 c 1608 475 25 x 0603 47 uf 25v ± 10% 0603 47 uf 25v ± 10% 6030 ok 160 quad
-__label__贴片电容 , 2 贴片 电容 1.5 pf 0402 0402 1.5 pf 1r5 ± 0.1 pf 50v
-__label__贴片电容 , 6 贴片 电容 4.7 uf 0603 0603 4.7 uf 475 ± 10% 16v
-__label__贴片电容 , 2 100pf 50v ceramic capacitor 0805c c2 1 15
-__label__贴片电容 , 5 22 uf 16v ceramic capacitor 1210c c6 c19 c20 c40 c42 c45 6 90
-__label__贴片电容 , 10 100nf 50v ceramic capacitor 0805c c13 c30 2 30
-__label__贴片电容 , 11 22nf 50v ceramic capacitor 1210c c14 1 15
-__label__贴片电容 , 16 10 uf 10v ceramic capacitor 0603c c43 c144 c151 3 45
-__label__贴片电容 , 17 2.2 uf 10v ceramic capacitor 0603c c48 c49 2 30
+__label__贴片电容 , tmcma0j106mtrf 10000 10 µ f 6 3v 1206 20% 1206
+__label__贴片电容 , 10103 0016 贴片 电容 cc0805kkx5r6bb226 片状 电容器 10v 22 uf ± 10% x7r 0805 c2 c4 c5 c6 c7 c8 c10 c12 c37 c39 c44 c46 12 72 国
+__label__贴片电容 , 10103 0015 贴片 电容 cc0603jrnp09bn200 片状 电容器 25v 20pf ± 10% x7r 0603 c27 c28 c34 c35 4 24
+__label__贴片电容 , 14 6102 0603680k 贴片 电容 c 1608 684 50 x 0603 680nf 50v ± 10% 0603 680nf 50v ± 10% 6030 ok 160 quad
+__label__贴片电容 , 5 c7 c8 c9 c10 c18 cap mlcc 100nf 50v x7r 0603 reel capacitance 100nf capacitance tolerance ± 10% dielectric characteristic x7r voltage rating 50v capacitor case style 0603 1608 metric operating temperature min 55 ° c operating temperature max 125 ° c packaging 628 1759122 capc0603 100n 50v multicomp mc0603b104k500ct yes ok 2600.0
+__label__贴片电容 , 1 100pf 50v ceramic capacitor 0603c c1 c135 c136 c137 c138 c181 6 90
+__label__贴片电容 , 4 33nf 50v ceramic capacitor 0603c c4 1 15
+__label__贴片电容 , 15 10 uf 25v ceramic capacitor 1206c c36 c46 2 30
 __label__贴片电容 , c5 c6 100pf capacitors smd c 0402 equivalent part acceptable cap cer 100pf 50v c0g np0 0402 cl05c101jb5nnnc 6000
-__label__贴片电容 , c3 47pf capacitors smd c 0603 equivalent part acceptable cap cer 47pf 50v c0g np0 0603 cl10c470fb8nnnc 1100
+__label__贴片电容 , c1 3.3 pf capacitors smd c 0603 equivalent part acceptable cap cer 3.3 pf 50v c0g np0 0603 cl10c3r3bb8nnnc 600
+__label__贴片电容 , c1 82pf capacitors smd c 0603 equivalent part acceptable cap cer 82pf 50v c0g np0 0603 cl10c820jb8nnnc 4000
 __label__贴片电容 , c3 8.2 pf capacitors smd c 0603 equivalent part acceptable cap cer 8.2 pf 50v c0g np0 0603 cl10c8r2db8nnnc 2200
 __label__贴片电容 , 9 贴片 电容 ccap 10pf ± 5% 50v npo 0402 smt 贴片 电容 2 80
+__label__贴片电容 , 11 贴片 电容 ccap 33pf ± 5% 50v npo 0402 smt 3 120
 __label__贴片电容 , 13 贴片 电容 ccap 10 uf ± 20% 6.3 v x7r 0603 smt 164 6560
-__label__贴片电容 , 14 贴片 电容 ccap 22 uf ± 20% 6.3 v x6s 0603 smt 贴片 电容 95 3800
 __label__贴片电容 , 15 贴片 电容 ccap 47 uf ± 20% 6.3 v x5r 0805 smt 25 1000
-__label__贴片电容 , 17 贴片 电容 ccap 100pf ± 5% 50v npo cog 0402 smt 贴片 电容 8 320
-__label__贴片电容 , 23 贴片 电容 ccap 4.7 uf ± 10% 16v x7r 0805 smt 6 240
-__label__贴片电容 , 27 贴片 电容 ccap 220pf ± 10% 50v x7r 0402 smt 贴片 电容 6 240
-__label__贴片电容 , 29 贴片 电容 ccap 10 uf ± 20% 10v x5r 0603 smt 贴片 电容 4 160
-__label__贴片电容 , 32 贴片 电容 ccap 0.22 uf ± 10% 25v x5r 0402 smt 贴片 电容 37 1480
-__label__贴片电容 , 41 贴片 电容 ccap 10 uf ± 10% 25v x6s 0805 smt 6 240
-__label__贴片电容 , 49 贴片 电容 ccap 0.0082 uf ± 10% 50v x7r 0402 smt 3 120
-__label__贴片电容 , 50 贴片 电容 ccap 0.0047 uf ± 10% 50v x7r 0402 smt 10 400
-__label__贴片电容 , 3 贴片 电容 ccap 0.1 uf ± 10% 6.3 v x5r 0201 smt 贴片 电容 162 6480
-__label__贴片电容 , 11 贴片 电容 ccap 10 uf ± 20% 6.3 v x5r 0603 smt 18 720
-__label__贴片电容 , 12 贴片 电容 ccap 0.22 uf ± 10% 16v x7r 0402 smt 384 15360
-__label__贴片电容 , 14 贴片 电容 ccap 100 uf ± 20% 6.3 v x5r 1206 smt 贴片 电容 6 240
-__label__贴片电容 , 20 贴片 电容 ccap 0.0022 uf ± 10% 50v x5r 0402 smt 贴片 电容 6 240
-__label__贴片电容 , 23 贴片 电容 ccap 150pf ± 10% 50v x7r 0402 smt 2 80
-__label__贴片电容 , 30 贴片 电容 ccap 1 uf ± 10% 25v x5r 0402 smt 2 80
-__label__贴片电容 , 36 贴片 电容 ccap 22 uf ± 20% 25v x5r 0805 smt 2 80
-__label__贴片电容 , 2 贴片 电容 ccap 0.1 uf ± 10% 25v x7r 0402 smt 49 1960
-__label__贴片电容 , 4 贴片 电容 ccap 22 uf ± 20% 16v x6s 0805 smt 2 80
-__label__贴片电容 , 5 贴片 电容 ccap 22 uf ± 20% 6.3 v x6s 0603 smt 贴片 电容 8 320
-__label__贴片电容 , 12 贴片 电容 ccap 120pf ± 10% 50v x7r 0402 smt 1 40
-__label__贴片电容 , 33.0 x7r 105 25v ± 10 ﹪ 0603 0603 贴片 6 c38 c43 30000.0
-__label__贴片电容 , 4 capacitor ceramic c2 c3 c4 c10 4.7 uf eia 3216 18 case a lmk107bj475ka t taiyo yuden 2100
+__label__贴片电容 , 19 贴片 电容 ccap 22pf ± 5% 50v npo 0402 smt 贴片 电容 1 40
+__label__贴片电容 , 21 贴片 电容 ccap 10 uf ± 20% 6.3 v x5r 0402 smt 11 440
+__label__贴片电容 , 38 贴片 电容 ccap 270pf ± 10% 50v x7r 0402 smt 4 160
+__label__贴片电容 , 52 贴片 电容 ccap 1 uf ± 10% 25v x5r 0603 smt 8 320
+__label__贴片电容 , 2 贴片 电容 ccap 0.1 uf ± 10% 16v x7r 0402 smt 96 3840
+__label__贴片电容 , 7 贴片 电容 ccap 22 uf ± 20% 6.3 v x5r 0603 smt 58 2320
+__label__贴片电容 , 9 贴片 电容 ccap 0.1 uf ± 10% 25v x5r 0402 smt 102 4080
+__label__贴片电容 , 10 贴片 电容 ccap 10 uf ± 10% 25v x5r 1206 smt 48 1920
+__label__贴片电容 , 15 贴片 电容 ccap 0.001 uf ± 5% 50v x7r 0402 smt 4 160
+__label__贴片电容 , 25 贴片 电容 ccap 10 uf ± 20% 25v x5r 0603 smt 4 160
+__label__贴片电容 , 29 贴片 电容 ccap 0.001 uf ± 10% 50v x7r 0402 smt 1 40
+__label__贴片电容 , 33 贴片 电容 ccap 470pf ± 10% 50v x7r 0402 smt 2 80
+__label__贴片电容 , 8 贴片 电容 ccap 0.0068 uf ± 10% 50v x7r 0402 smt 1 40
+__label__贴片电容 , 6 贴片 电容 ccap 22 uf ± 20% 16v x6s 0805 smt 2 80
+__label__贴片电容 , 11 贴片 电容 ccap 0.0022 uf ± 10% 50v x7r 0402 smt 1 40
+__label__贴片电容 , 32.0 x7r 684 25v ± 10 ﹪ 0603 0603 贴片 3 c44 c45 c49 15000.0
 __label__贴片电容 , 贴片 电容 c34 c35 c36 603 30pf 16v 3 30000
-__label__贴片电容 , c10 c46 c56 1206 表贴 电容 0.68 uf 50v 10% 1206 c 3 15
-__label__贴片电容 , c21 c22 0603 表贴 电容 20pf 50v 10% 0603c 2 10
-__label__贴片电容 , c25 c37 c39 c135 c158 0603 表贴 电容 100pf 50v 10% 0603c 5 75
-__label__贴片电容 , c51 c54 c82 c93 c125 c128 c171 c174 c199 c202 c227 c230 c255 c258 1206 表贴 电容 10 uf 50v 10% 1206c 14 210
-__label__贴片电容 , c59 c60 c100 c101 c141 c142 c179 c180 c207 c208 c235 c236 c263 c264 0603 表贴 电容 470nf 50v 10% 0603c 14 210
-__label__贴片电容 , c64 c65 c66 c109 c110 c112 c146 c147 c148 c184 c185 c186 c212 c213 c214 c240 c241 c242 c268 c269 c270 0603 表贴 电容 10pf 50v 10% 0603c 21 315
+__label__贴片电容 , 2002010129 电容 mlcc 0805b106k100nt 0805 10 uf 10% 10v x7r 9 20 b 180
+__label__贴片电容 , c25 c44 c75 c88 c103 c117 0603 表贴 电容 10nf 50v 10% 0603c 6 30
+__label__贴片电容 , c32 c33 0603 表贴 电容 20pf 50v 10% 0603c 2 30
+__label__贴片电容 , c48 c55 c56 c57 c58 c78 c94 c95 c96 c97 c122 c129 c130 c131 c132 c168 c175 c176 c177 c178 c196 c203 c204 c205 c206 c224 c231 c232 c233 c234 c252 c259 c260 c261 c262 0603 表贴 电容 470nf 50v 10% 0603c 35 525
+__label__贴片电容 , c86 0805 表贴 电容 4.7 uf 50v 10% 0805c 1 15
+__label__贴片电容 , c90 c104 0805 表贴 电容 0.1 uf 50v 10% 0805c 2 30
 __label__贴片电容 , 1 50 2002010157 瓷片 电容 mlcc 0603cg101j500nt 0603 100pf 5% 50v cog c67 c286 c993 c995 c1006 c1008 6 20 0.3 b 120
-__label__贴片电容 , 1 60 2002010191 电容 mlcc kemet c0603c911j5gactu 0603 910pf 5% 50v c0g c102 c116 c117 c202 4 20 0.3 b 80
 __label__贴片电容 , 2002010024 电容 mlcc 0603cg911j500nt 0603 910pf 5% 50v cog 4 20 0.3 b 80
+__label__贴片电容 , 1 100 2002010049 电容 mlcc grm1882c1h471ja01d 0603 470pf 5% 50v ch c120 c132 c141 c166 c174 c184 ck01 ck02 8 20 0.3 b 160 dlk
 __label__贴片电容 , 2002010200 电容 mlcc cc0603jrnpo9bn821 0603 820pf 5% 50v npo 4 20 0.3 b 80
-__label__贴片电容 , 1 170 2002010016 电容 mlcc 0603cg511j500nt 0603 510pf 5% 50v cog c712 c717 c738 c743 4 20 0.3 b 80
-__label__贴片电容 , 4 c4 c9 c20 c21 c33 c41 c42 c46 c51 c55 c56 c64 c81 c89 c90 c94 c99 c103 c104 c112 c129 c137 c138 c142 c147 c151 c152 c160 c177 c185 c186 c190 104pf 63v mlcc smt smd 100nf 50v x7r 1206 1206 3216 matric 32.0 4868
-__label__贴片电容 , 5 c14 c45 c52 c93 c100 c141 c148 c189 333pf 50v mlcc smt smd 33nf 50v x7r 1206 1206 3216 matric 8.0 1232
-__label__贴片电容 , 6 c11 c37 c60 c85 c108 c133 c156 c181 332pf 50v mlcc smt smd 3.3 nf 50v x7r 1206 1206 3216 matric 8.0 1232
-__label__贴片电容 , 1 30.0 2002010029 电容 mlcc 0.1 uf 10% 50v x7r 0603b104k500nt 603 c3 c5 c6 3 20 0.3 b 61
-__label__贴片电容 , 27 电容 陶瓷 电容 0.1 uf 50v 10% x7r 0603 表贴 2000
-__label__贴片电容 , 2 10 uf c7 c8 0805 ceramic 50v ± 10% smd 0805 cl21a106kaynnne 40.0
-__label__贴片电容 , 5 capacitor 0.1 uf 10v c0402 45 c7 c18 c19 c22 c23 c28 c29 c30 c31 c32 c33 c34 c35 c36 c37 c38 c39 c40 c41 c42 c44 c46 c50 c51 c52 c53 c54 c55 c56 c57 c58 c60 c61 c62 c63 c64 c65 c68 c71 c72 c73 c75 c76 c80 c90 94500
+__label__贴片电容 , 1 150 2002010060 电容 mlcc 0603b103k500nt 0603 0.01 uf 10% 50v x7r c481 c483 c487 c488 c489 c490 c491 c492 c714 c720 c740 c746 c939 c940 c941 c942 16 20 0.3 b 320
+__label__贴片电容 , 7 c7 c36 c61 c84 c109 c132 c157 c180 270pf 50v mlcc smt smd 027nf 50v x7r 1206 1206 3216 matric 80 1232
+__label__贴片电容 , 1 20.0 2002010063 电容 mlcc 1 uf 10% 25v x7r c1608x7r1e105kt 603 c2 1 20 0.3 b 21
+__label__贴片电容 , 28 电容 陶瓷 电容 15pf 25v 5% c0g 0603 表贴 2000
+__label__贴片电容 , 29 电容 陶瓷 电容 8200pf 50v 10% x7r 0603 表贴 2000
+__label__贴片电容 , 2 27pf c6 c9 0603 ceramic 50v ± 10% smd 0603 cl10c270jb8nnnc 40.0
+__label__贴片电容 , 4 capacitor 22 uf 10v c0805 7 c5 c6 c10 c12 c14 c15 c47 14700
+__label__贴片电容 , 6 capacitor 10 uf 10v c0603 11 c9 c11 c16 c17 c43 c45 c59 c69 c70 c74 c77 23100
+__label__贴片电容 , 9 capacitor 10p npo c0402 2 c24 c26 4200
 __label__贴片电容 , 10 capacitor 2.2 uf 25v c0805 2 c48 c49 4200
-__label__贴片电容 , 12 capacitor 1 uf 10v c0402 1 c79 2100
-__label__贴片电容 , 13 capacitor 33pf npo c0402 1 c81 2100
-__label__贴片电容 , 15 capacitor 2.4 pf 0.25 pf c0402 1 c86 2100
-__label__贴片电容 , cl21b103kefnnne cc0805kkx7rybb103 200000 1
-__label__贴片电容 , 15 11 0102 011 015 电容 0402 smd 0402 x7r 103 25v ± 10% lc 0402 c c23 1 10000.0
-__label__贴片电容 , 18 11 0102 011 031 电容 0402 smd 0402 x5r 0.47 uf 10v ± 10% lc 0402 c c21 c22 2 20000.0 耐压 10v
-__label__贴片电容 , 20 11 0102 010 019 电容 0603 smd 0603 x7r 2.2 uf 6.3 v ± 10% lc 0603 c c19 c24 c30 c31 4 40000.0
-__label__贴片电容 , 24 11 0102 009 021 电容 0805 smd 0805 x5r 22 uf 25v ± 20% lc 0805 c c28 c34 c36 c38 c39 5 50000.0 共 25v
+__label__贴片电容 , 3 11 0102 011 035 贴片 电容 0402 smd 0402 npo 33pf 16v ± 5% 0402 c c4 c5 c6 c7 4 40000.0 耐压 16v
 __label__贴片电容 , 4 11 0102 011 033 贴片 电容 0402 smd 0402 x7r 100pf 16v ± 5% 0402 c c11 1 10000.0 耐压 16v
-__label__贴片电容 , 6 11 0102 011 006 贴片 电容 0402 smd 0402 x7r 100nf 16v ± 10% 0402 c c3 c8 c12 3 30000.0 耐压 16v
-__label__贴片电容 , 8 11 0102 007 010 贴片 电容 1206 smd 1206 x5r 100 uf 6.3 v ± 20% 1206 c c10 1 10000.0
+__label__贴片电容 , 7 11 0102 009 021 电容 0805 smd 0805 x5r 22 uf 25v ± 20% lc 0805 c c38 c39 2 20000.0
 __label__贴片电容 , 101 50v ± 20 ％ 电容 c14 1206 10 1
+__label__贴片电容 , 475 25v ± 20 ％ 电容 c35 c38 1206 20 2
+__label__贴片电容 , 98 c2911010008 贴片 电容 106 10 uf ± 20% 10v x5r 0603 55 ℃ 85 ℃ 10 uf 10v o603 30 600 60000 900000
+__label__贴片电容 , 100 c2911010003 贴片 电容 105 1 uf ± 10% 25v x7r 0402 55 ℃ 125 ℃ 105 o402 44 880 88000 1320000
 __label__贴片电容 , 108 贴片 电容 475 4.7 uf ± 20% 10v x5r 0402 55 ℃ 85 ℃ 4.7 uf o402 4 80 8000 120000
-__label__贴片电容 , 126 贴片 电容 106 10 uf ± 20% 50v x5r 1206 55 ℃ 85 ℃ 10 uf 50v 1206 8 160 16000 240000
+__label__贴片电容 , 111 c2911010012 贴片 电容 106 10 uf ± 20% 10v x5r 0402 55 ℃ 85 ℃ 10 uf 10v o402 10 200 20000 300000
+__label__贴片电容 , 112 贴片 电容 180 18pf ± 10% 50v npo 0402 55 ℃ 125 ℃ 18 o402 5 100 10000 150000
+__label__贴片电容 , 124 贴片 电容 101 100pf ± 10% 50v npo 0402 55 ℃ 125 ℃ 100 o402 6 120 12000 180000
 __label__贴片电容 , 134 贴片 电容 270 27pf ± 10% 50v np0 0402 55 ℃ 125 ℃ 27 o402 2 40 4000 60000
-__label__贴片电容 , 137 贴片 电容 106 10 uf ± 20% 25v x5r 0603 55 ℃ 85 ℃ 10 uf 25v o603 2 40 4000 60000
+__label__贴片电容 , 140 c2921010001 贴片 电容 107 100 uf ± 20% 10v b tajb107m010rnj 100 uf 6.3 v b caseb 3 60 6000 90000
 __label__贴片电容 , 0402 片容 15pf ± 5% 50v npo c0402 1
-__label__贴片电容 , 0402 片容 3900pf ± 5% 50v npo c0402 1
-__label__贴片电容 , 0603 片容 1 uf ± 10% 25v x7r c0603 1
-__label__贴片电容 , 1000pf 0805 6.0 贴片 陶瓷 电容 3000.0
-__label__贴片电容 , 11 0107 00416 贴片 电容 smd grm188r61e225ka12d cap cer 22 uf 25v x5r 0603 grm188r61e225ka12d 2110
-__label__贴片电容 , 12 0107 00418 贴片 电容 smd cl21a106mqfnnne cap cer 10 uf 63 v x5r 0805 cl21a106mqfnnne 2110
-__label__贴片电容 , 19 1777 0 19 uniohm capacitor smd 100 nf 10% 50v 1206 cp104k050xrc 1206b104k500ct 1.0 10000
-__label__贴片电容 , 22 贴片 电容 grm31mr71h105ka88l 1 uf 1206 grm31mr71h105ka88l 1206 2400
-__label__贴片电容 , 3 2 cd3 cd4 2.2 nf 50v c0402
-__label__贴片电容 , 6 15 cm1 cm3 c4 cm5 cm8 cd10 cd13 cd14 c16 c17 cd18 c22 c28 cp31 cp48 1 uf 16v ± 10% c0402
+__label__贴片电容 , 104jc9 1812 3.0 贴片 涤纶 电容 1500.0
+__label__贴片电容 , 13 0107 00419 贴片 电容 smd cc0402krx7r9bb471 cap cer 470pf 50v x7r 0402 cc0402krx7r9bb471 1055
+__label__贴片电容 , 8 贴片 电容 grm319r71h103ka01d 10nf 1206 grm319r71h103ka01d 1206 3300
+__label__贴片电容 , 10 贴片 电容 grm319r71h331ka01d 330pf 1206 grm319r71h331ka01d 1206 3900
+__label__贴片电容 , 7 19 cd12 cp1 cp2 cp5 cp7 cp10 cp11 cp12 c15 cp22 cp24 cp27 cp29 cp32 cp45 cp46 cp47 c50 c52 10 uf 16v ± 20% c0603
 __label__贴片电容 , 8 4 cd23 cd26 cd30 cd31 100nf 50v c0402 nc
 __label__贴片电容 , 10 4 cd25 cd28 cd29 cm11 1 uf 16v ± 10% c0402 nc
-__label__贴片电容 , 11 4 cp13 cp21 cd32 cp43 22 uf 16v ± 20% c0603 nc
-__label__贴片电容 , 12 7 cm2 cm4 cm6 cm7 cm9 cm10 c77 100nf 50v c0201
 __label__贴片电容 , 17 1 cp34 1nf 50v c0402 nc
-__label__贴片电容 , 18 3 c7 c8 cp35 1nf 50v c0402
+__label__贴片电容 , 20 3 cp38 c26 cp42 22 uf 16v ± 20% c0603
 __label__贴片电容 , 18.0 贴片 电容 cc0603jrnpo9bn100 10pf 50v c20 c21 c23 0603 3.0 3000
-__label__贴片电容 , 21.0 贴片 电容 cc0603krx7r9bb333 33nf 50v c5 c6 c7 c8 c9 c10 c11 c12 c13 c14 c15 c16 0603 12.0 12000
-__label__贴片电容 , 22.0 贴片 电容 cc0603krx7r9bb104 0.1 uf 50v c4 c18 c22 c24 c25 c40 c42 c43 0603 8.0 8000
 __label__贴片电容 , 24.0 贴片 电容 cc0805kkx7r7bb106 10 uf 16v c2 c3 dc1 dc2 dc3 dc4 dc5 c44 c45 0805 9.0 9000
-__label__贴片电容 , 000030 c7 c8 c10 c11 c12 c13 c14 c15 c17 c18 c19 c20 c21 c22 c23 c24 c25 c26 c27 c29 c30 c32 c35 c38 c40 c42 c44 c46 c48 c49 c50 c51 c52 c53 c55 c57 c58 c59 c60 c61 c62 c68 c70 c71 c72 c75 贴片 电容 100nf cap sm 0603 10% x7r 50v 0.1 uf 46 csmr b3501 0104 51520
-__label__贴片电容 , 2 83 c2 c4 c10 c11 c21 c32 c33 c40 c41 c45 c46 c47 c48 c49 c50 c51 c52 c53 c54 c55 c56 c57 c58 c77 c78 c79 c80 c81 c82 c83 c84 c85 c86 c87 c88 c89 c90 c91 c92 c93 c94 c95 c96 c97 c98 c99 c100 c101 c102 c103 c104 c105 c106 c107 c108 c109 c110 c111 c112 c113 c114 c117 c118 c119 c120 c121 c122 c123 c128 c132 c133 c135 c136 c138 c143 c149 c150 c159 c160 c167 c192 c200 c201 1 uf c0201 830 贴片 电容 c0201 1 uf ± 20% 10v grm033r61a105me44d 850 3 0.03306 28.1
-__label__贴片电容 , 4 16 c5 c6 c7 c8 c22 c23 c29 c44 c130 c137 c141 c147 c157 c194 c196 c202 22 uf c0603 200 贴片 电容 c0603 22 uf 226 ± 20% 10v cl10a226mp8nune 200 3 0.09897 19.79
+__label__贴片电容 , 24 c8 1.0 capacitor 100nf 5% cap 100nf 5% 1206 1206 technology corp 1206b104j500
+__label__贴片电容 , 3 18 c3 c14 c17 c19 c35 c36 c37 c38 c134 c140 c145 c146 c153 c154 c155 c156 c162 c163 10nf c0201 200 贴片 电容 c0201 10nf 103 ± 10% 16v cc0201krx5r7bb103 200 3 0.0063 1.26
 __label__贴片电容 , 5 9 c9 c24 c26 c27 c30 c31 c42 c43 c189 10 uf c0603 200 贴片 电容 c0603 10 uf 106 10v 10% x5r grm188r61a106ke69d 200 3 0.10937 21.87
 __label__贴片电容 , 8 14 c61 c62 c63 c64 c65 c66 c67 c68 c69 c70 c72 c74 c75 c76 4.7 uf c0402 200 贴片 电容 c0402 4.7 uf 475 ± 20% 10v cl05a475mp5nrnc 200 3 0.06342 12.68
-__label__贴片电容 , c 0103kaea c22 c211 2 0402 0.01 uf ± 10% 50v x5r 400
+__label__贴片电容 , a0 5 c142 c148 c158 c193 c198 10 uf c0402 200 贴片 电容 c0402 10 uf 106 ± 20% 6.3 v 0402x106m6r3nt fenghua 200 3 0.0938 18.76
+__label__贴片电容 , c 0101kbed c28 c34 35 c40 c220 5 0603 100pf ± 10% 50v cog npo 1000
 __label__贴片电容 , c 0104kacc grm155r71c104ka88d c43 44 2 0402 0.1 uf ± 10% 16v x7r 400
-__label__贴片电容 , c 0472kaec grm155r71h472ka01d c24 c212 2 0402 4.7 nf ± 10% 50v x7r 400
+__label__贴片电容 , c 0104kbdc grm188r71e104ka01d c96 c113 c119 c125 c131 c137 c149 c155 8 0603 0.1 uf ± 10% 25v x7r marata 1600
+__label__贴片电容 , c 0105kadab tmk105bj105kv f c104 106 3 0402 1 uf ± 10% 25v x5r 600
+__label__贴片电容 , c 0150kbca c141 c143 c145 c160 c162 c164 c166 c168 8 0603 15pf ± 10% 16v x5r 1600
+__label__贴片电容 , c 0475kcca grm21br61c475ka88l c3 4 c10 11 4 0805 4.7 uf ± 10% 16v x5r 800
 __label__贴片电容 , po20190026 贴片 陶瓷 电容 0805 x7r 30p ± 10% 50v 750 ± 60ppm ℃ 1640
-__label__贴片电容 , po20190026 贴片 陶瓷 电容 0805 x7r 104 ± 10% 50v 750 ± 60ppm ℃ 18920
+__label__贴片电容 , po20190026 贴片 陶瓷 电容 0805 x7r 101 ± 10% 50v 温度 ± 15% 1640
+__label__贴片电容 , po20190026 贴片 陶瓷 电容 0805 x7r 103 ± 10% 50v 750 ± 60ppm ℃ 1640
 __label__贴片电容 , po20190026 贴片 陶瓷 电容 0805 x7r 105 ± 10% 50v 750 ± 60ppm ℃ 3080
-__label__贴片电容 , po20190026 温度 3000001778 贴片 陶瓷 电容 0805 npo 20p ± 10% 50v 750 ± 60ppm ℃ cl21c300jbannnc cl21c300jbannnc 420
+__label__贴片电容 , po20190026 贴片 陶瓷 电容 1206 x7r 10 uf 25v ± 10% 5960
+__label__贴片电容 , 2002010210 贴片 电容 700 cc0603mrx5r5bb106
+__label__贴片电容 , c1 grm55dr72h474kw10l 500v 0.47 uf x7r 10 % 2220 10.0
 __label__贴片电容 , c6 grm32ec72a106ke05l 10 uf 100 vdc 10 % 1210 10.0
-__label__贴片电容 , c10 grm32ec72a106ke05l 10 uf 100 vdc 10 % 1210 10.0
+__label__贴片电容 , c9 grm21bc72a105ke01l 1 uf 100 vdc 10 % 0805 x7s 10.0
 __label__贴片电容 , c21 grm32ec72a106ke05l 10 uf 100 vdc 10 % 1210 10.0
+__label__贴片电容 , 15.0 贴片 电容 0.1 u 0805 cso c1 c4 3.0 50.0
 __label__贴片电容 , 16.0 贴片 电容 0.01 u 0805 cs1 cs2 cs3 cs4 cs5 cs6 6.0 80.0
-__label__贴片电容 , 31.0 103 50v 805 c5 c6 2.0 40.0
 __label__贴片电容 , 32.0 104 805 c7 c8 2.0 40.0
-__label__贴片电容 , 9.0 30p 805 c10 c9 2.0 40.0
-__label__贴片电容 , 26.0 10u 1210 e4 c8 2.0 20.0
-__label__贴片电容 , 72 030w12269a521 701801001100 电容 smd 22 uf x5r 6.3 v m 0805 holy stone c0805b226m007t 36 3600 mbs 5330 lio 53303 30.0 6.0
-__label__贴片电容 , 73 030w147591621 701801005026 电容 smd 4.7 uf x5r 25v m 0805 holy stone c0805b475m025t 2 200 mbs 5330 2.0
-__label__贴片电容 , 110 030w147690441 701802000002 电容 smd 47 uf x5r 16v k 1210 grm32er61c476ke15l 3 300 mbs 5330 3.0
-__label__贴片电容 , 136 030w000033000 701802000100 电容 1500pf 1.5 nf 50v x7r k 0603 smd cl10b152kb8nnnc 1 100 mbs 5330 1.0
-__label__贴片电容 , 138 030w000042000 701801006642 电容 10 uf 10v x5r m 0603 smd cl10a106mp8nnnc 11 1100 mbs 5330 lio 53303 1.0 10.0
-__label__贴片电容 , 146 030w12269a511 701801005015 电容 smd 22 uf x5r 6.3 v m 0603 cl10a226mq8nrnc 302 30200 mbs 5330 lio 53303 293.0 9.0
+__label__贴片电容 , 143 030w120012301 701801005008 电容 smd 20pf c0g 50v j 0402 cl05c200jb5nnnc 2 200 mbs 5330 2.0
 __label__贴片电容 , 147 030w127012301 701801001200 电容 smd 27pf c0g npo 50v j 0402 cl05c270jb5nnnc 2 200 mbs 5330 2.0
-__label__贴片电容 , 161 030w14759a501 701801005027 电容 smd 4.7 uf x5r 6.3 v m 0402 c1005x5r0j475m 2 200 mbs 5330 2.0
-__label__贴片电容 , 181 030w000014000 701801004700 电容 0.22 uf 16v x7r k 0402 smd cc0402krx7r7bb224 1 100 mbs 5330 1.0
-__label__贴片电容 , 186 030w110222421 701801006800 电容 smd 0.001 uf 102pf x7r 50v k 0805 cc0805krx7r9bb102 2 200 mbs 5330 2.0
-__label__贴片电容 , 187 030w110225431 701801000103 电容 smd 0.001 uf 102p x7r 2kv k 1206 cc1206krx7rdbb102 2 200 mbs 5330 lio 53301 1.0 1.0
-__label__贴片电容 , 194 030w110597401 701801000500 电容 smd 1 uf x5r 10v k 0402 cc0402krx5r6bb105 141 14100 mbs 5330 lio 53303 lrc 53301 129.0 10.0 2.0
+__label__贴片电容 , 189 030w110322411 701801000100 电容 smd 0.01 uf 103pf x7r 50v k 0603 cc0603krx7r9bb103 3 300 mbs 5330 3.0
 __label__贴片电容 , 195 030w11059a401 701801005005 电容 smd 1 uf x5r 6.3 v k 0402 cc0402krx5r5bb105 89 8900 mbs 5330 lio 53303 88.0 1.0
-__label__贴片电容 , 197 030w110690441 701811001153 电容 smd 10 uf x5r 16v k 1210 cc1210kkx5r7bb106 10 1000 mbs 5330 10.0
-__label__贴片电容 , 204 030w118122401 701801005101 电容 smd 180pf x7r 50v k 0402 cc0402krx7r9bb181 3 300 mbs 5330 3.0
-__label__贴片电容 , 207 030w122222401 701801005011 电容 smd 2200pf x7r 50v k 0402 cc0402krx7r9bb222 6 600 mbs 5330 lio 53301 4.0 2.0
-__label__贴片电容 , 209 030w12249a401 701801007300 电容 smd 0.22 uf x5r 6.3 v k 0402 cc0402krx5r5bb224 264 26400 mbs 5330 lio 53303 248.0 16.0
-__label__贴片电容 , 213 030w133012301 701801005018 电容 smd 33pf npo 50v j 0402 cc0402jrnpo9bn330 6 600 mbs 5330 6.0
-__label__贴片电容 , 214 030w133112311 701801005019 电容 smd 330pf npo 50v j 0603 cc0603jrnpo9bn331 1 100 mbs 5330 1.0
-__label__贴片电容 , 215 030w133122411 701801005020 电容 smd 330pf x7r 50v k 0603 cc0603krx7r9bb331 1 100 mbs 5330 1.0
+__label__贴片电容 , 196 030w110620431 701811001152 电容 smd 10 uf x7r 16v k 1206 cc1206kkx7r7bb106 17 1700 mbs 5330 lio 53303 11.0 6.0
+__label__贴片电容 , 199 030w112422411 701811001154 电容 smd 1200pf x7r 50v k 0603 cc0603krx7r9bb122 2 200 mbs 5330 2.0
+__label__贴片电容 , 200 030w115012301 701801005006 电容 smd 15pf npo 50v j 0402 cc0402jrnpo9bn150 6 600 mbs 5330 lio 53303 4.0 2.0
 __label__贴片电容 , 219 030w147112301 701801005023 电容 smd 470pf npo 50v j 0402 cc0402jrnpo9bn471 10 1000 mbs 5330 10.0
+__label__贴片电容 , 372 030w133112301 电容 smd 330pf npo 50v j 0402 cc0402jrnpo9bn331 2 200 lio 53303 2.0
+__label__贴片电容 , 2.2 uf capacitor 3d cap 0805 c2 c113 c114 c234 c235 c236 c242 c243 c244 c250 c251 c252 2.0 4500.0
 __label__贴片电容 , 10pf capacitor 3d cap 0805 c116 c133 2.0 1000.0
-__label__贴片电容 , 220nf capacitor 3d cap 0805 c233 c241 c249 2.0 1500.0
-__label__贴片电容 , 470pf capacitor 3d cap 0805 c137 2.0 500.0
-__label__贴片电容 , 38 05035 00623 贴片 陶瓷 电容 c1210c106m5pactu 陶瓷 电容 x5r 10 uf 50v 1210 1 c5 kemet 22
-__label__贴片电容 , 6 电容 22pf 100v 0805 npo ± 5% c0805 ws020005 2 18400
-__label__贴片电容 , 16 电容 33pf 50v 0603 x7r ± 10% c0603 ws020014 3 27600
-__label__贴片电容 , 18 电容 1 uf 16v 0603 x7r ± 10% c0603 ws020016 2 18400
-__label__贴片电容 , 21 电容 22pf 50v 0603 x7r ± 10% c0603 ws020019 3 27600
-__label__贴片电容 , 22 电容 2200pf 100v 0603 10% x7r c0603 ws020026 1 9200
+__label__贴片电容 , 100nf capacitor 3d cap 0805 c1 c3 c25 c26 c29 c33 c34 c38 c39 c42 c46 c47 c51 c52 c55 c59 c60 c64 c65 c68 c72 c73 c77 c78 c81 c85 c86 c103 c104 c105 c106 c109 c111 c117 c118 c119 c120 c121 c122 c123 c124 c125 c126 c127 c128 c129 c130 c132 c135 c136 c138 c139 c140 c143 c144 c145 c177 c179 c185 c186 c187 c188 c192 c197 c198 c220 c221 c237 c239 c245 c247 c253 c255 2.0 27000.0
+__label__贴片电容 , gcj31cr71a226ke01k multilayer ceramic capacitors mlcc smd smt 1206 22 uf 10v olts x7r 10% soft term 1206 c199 c200 2.0 700.0
+__label__贴片电容 , wi cap 0089 c8 3300pf 200v 1 cap cer 3300pf 200v x7r 0603 kemet c0603c332k2ractu 399 10049 6 nd 0603 780
+__label__贴片电容 , 7 电容 1nf 100v 0805 x7r ± 10% c0805 ws020006 2 18400
+__label__贴片电容 , 12 电容 10 uf 16v 1206 x7r ± 10% c1206 ws020010 3 27600
+__label__贴片电容 , 15 电容 100pf 50v 0603 x7r ± 10% c0603 ws020013 4 36800
+__label__贴片电容 , grm3195c1h333ja01d 6000 0.55
+__label__贴片电容 , a44 c01 s003811 cap cer 10 uf 10v x7r 1206 c1206c106k8racauto kemet 陶瓷 电容 25
+__label__贴片电容 , a44 c01 s003812 cap cer 0.022 uf 25v x7r 0603 c0603c223k3ractu kemet 陶瓷 电容 30
+__label__贴片电容 , a44 c01 s003813 cap cer 1 uf 25v x5r 0603 c1608x5r1e105m080ac 陶瓷 电容 50
+__label__贴片电容 , y13 c01 s001585 cap cer 4.7 uf 50v x7r 1210 ± 10% gcm32er71h475ka55l 陶瓷 电容 51
 __label__贴片电容 , y13 c01 s002553 cap cer 0.1 uf 50v x7r 0603 ± 10% ac0603krx7r9bb104 陶瓷 电容 940
-__label__贴片电容 , y13 c01 s003815 cap cer 10 uf 25v x6s 0805 grm21bc81e106me51l 陶瓷 电容 540
-__label__贴片电容 , y13 c01 s003816 cap cer 2.2 uf 50v x6s 1206 c3216x6s1h225m160ab 陶瓷 电容 60
-__label__贴片电容 , 0603 1pf 5% 24000.0
+__label__贴片电容 , 0603 1.2 pf 5% 12000.0
 __label__贴片电容 , 0603 1 uf 25v 10% 108000.0
-__label__贴片电容 , 0603 4.7 uf 16v 10% 20000.0
-__label__贴片电容 , 3 0402 电容 10pf 50v 0.5 pf 0402 1
-__label__贴片电容 , 7 0402 电容 4.7 nf 50v 10% 0402 1
-__label__贴片电容 , 9 0402 电容 22nf 50v 5% 0402 1
-__label__贴片电容 , 11 0402 电容 100nf 50v 10% 0402 1
-__label__贴片电容 , 57 0603 电容 0.1 uf 50v 10% 0603 1
-__label__贴片电容 , 58 0603 电容 0.22 uf 50v 10% 0603 1
-__label__贴片电容 , 82 1206 电容 4.7 uf 100v 10% 1206 1
-__label__贴片电容 , 84 1206 电容 22 uf 25v 10% 1206 1
-__label__贴片电容 , 5 0402 电容 1nf 50v 1% 0402 1
-__label__贴片电容 , 56 0603 电容 472p 4.7 nf 50v 1% 0603 1
-__label__贴片电容 , 57 0603 电容 0.1 uf 50v 10% 0603 1
+__label__贴片电容 , 2 0402 电容 9.1 pf 50v 0.5 pf 0402 1
+__label__贴片电容 , 52 0603 电容 22pf 630v 0.5 pf 0603 1
+__label__贴片电容 , 61 0603 电容 10 uf 25v 10% 0603 1
 __label__贴片电容 , 80 1206 电容 10nf 2kv 10% 1206 1
+__label__贴片电容 , 83 1206 电容 10 uf 50v 10% 1206 1
+__label__贴片电容 , 贴片 电容 0402c s grm155r71c473ka01d 0.047 uf 0402 x7r 0.047 uf ± 10% 50v 2.0 100.0
+__label__贴片电容 , 2 0402 电容 9.1 pf 50v 0.5 pf 0402 1
+__label__贴片电容 , 12 0402 电容 1 uf 50v 10% 0402 1
+__label__贴片电容 , 54 0603 电容 220pf 2 50v 1% 0603 1
+__label__贴片电容 , 60 0603 电容 4.7 uf 16v 10% 0603 1
+__label__贴片电容 , 79 1206 电容 2.2 nf 2kv 10% 1206 1
+__label__贴片电容 , 81 1206 电容 100nf 4 50v 10% 1206 1
+__label__贴片电容 , 84 1206 电容 22 uf 25v 10% 1206 1
+__label__贴片电容 , 85 1206 电容 47 uf 16v 20% 1206 1
+__label__贴片电容 , 贴片 电容 1nf 2kv 1206 3216 4 c26 c27 c28 c31
+__label__贴片电容 , 贴片 电容 10 uf 25v 0603 1608 7 c71 c75 c76 c77 c78 c79 c80
 __label__贴片电容 , 贴片 电容 3pf 0603 1608 2 c14 c15
-__label__贴片电容 , 贴片 电容 6pf 0603 1608 2 c50 c51
-__label__贴片电容 , 20008 220pf 50v ± 5% x7r t c0402 1 50 c267
-__label__贴片电容 , 20009 560pf 50v ± 5% x7r t c0402 1 50 c523
 __label__贴片电容 , 20029 22nf 16v c0402 1 100
+__label__贴片电容 , 20033 4.7 uf 16v c0603 29 2900
+__label__贴片电容 , 20050 1nf 16v 50v c0402 29 2900
+__label__贴片电容 , 20052 1nf 16v 50v c0603 1 100
 __label__贴片电容 , 20089 22pf 50v 0402 22pf 50v 0402 12 1200
-__label__贴片电容 , 陶瓷 电容 ct41g08052x1 50v 105knf 1 uf 1 1 uf 50v ± 10% x7r sc0805 贴片 c1 2000
-__label__贴片电容 , 贴片 电容 12pf 0603 5% 50v 3020200038002 0603 2 c9 c10
+__label__贴片电容 , 贴片 陶瓷 电容 cc41 0603 cg 50v 680pf j nf cc0603 j r npo 9 bn 681 680pf 1 680pf 100v ± 5% cog sc0603 贴片 c3 2000
+__label__贴片电容 , 贴片 陶瓷 电容 ct41g 0603 2x1 50v 0.01 μ f j nf 0.01 μ f 2 0.01 uf 100v ± 5% x7r sc0603 贴片 c7 c8 4000
+__label__贴片电容 , 150pf 1 50v c0gc12 sc0603 贴片 c9 2000
+__label__贴片电容 , 30pf 2 50v c0g sc0603 贴片 c33 c34 4000
+__label__贴片电容 , 贴片 钽电容 10 uf 16v 3216 10% 3024200006002 3216 3 c1 c6 c17
 __label__贴片电容 , 4.0 贴片 电容 473k 50v x7r 0402 473k 50v x7r
-__label__贴片电容 , 7.0 贴片 电容 104k 50v x7r 0402 104k 50v x7r
-__label__贴片电容 , 6 6p7901b0 c01 s003633 cap cer 10 uf 25v x7r 1210 ± 10% gcj32er71e106ka18l 陶瓷 电容 45
-__label__贴片电容 , 8 6p7901b0 c01 s003635 cap cer 4.7 uf 16v x6s 0603 ± 20% grt188c81c475me13d 陶瓷 电容 6
-__label__贴片电容 , 15 6p7901b0 c01 s003817 陶瓷 电容器 mlcc smd smt 16v 4.7 uf x7r 1206 10% aecq200 1206yc475k4t2a kemet 陶瓷 电容 6
-__label__贴片电容 , 电容 gcm155r71h272ka37d 402 电容 2.7 nf ± 10% 50v x7r 402 mu rata 1 2000
-__label__贴片电容 , 46.0 贴片 电容 10n 25v 80% 20% 0402 smd 1.0 c39 3000
-__label__贴片电容 , 51.0 贴片 电容 47p 25v 80% 20% 0402 smd 1.0 c32 c33 3000
-__label__贴片电容 , 58.0 贴片 电容 1 uf 16v 80% 20% 0603 smd 3.0 c30 c31 c36 9000
-__label__贴片电容 , 60.0 贴片 电容 4.7 uf 10v 80% 20% 0603 smd 1.0 c59 3000
-__label__贴片电容 , 62.0 贴片 电容 47 uf 10v 80% 20% 0603 smd 1.0 c49 3000
-__label__贴片电容 , 52 贴片 电容 22u 10v 0805 smd 1 c122 3000
-__label__贴片电容 , 56 贴片 电容 0603 nc 1 c113 3000
+__label__贴片电容 , 电容 102 0805 1% 50v 1
+__label__贴片电容 , 贴片 电容 2.2 uf 25v 0603 10% 3020200029002 0603 2 c11 c13
+__label__贴片电容 , 2 6p7901b0 c01 s001553 cap cer 0.1 uf 16v x7r 0603 ± 10% gcm188r71c104ka37d 陶瓷 电容 119
+__label__贴片电容 , 4 6p7901b0 c01 s003569 cap cer 1 uf 25v x8l 0805 gcj21bl81e105ka01l 陶瓷 电容 60
+__label__贴片电容 , 12 6p7901b0 c01 s003640 cap cer 2.2 uf 50v x7r 1206 ± 10% gcm31cr71h225ka55k 陶瓷 电容 6
+__label__贴片电容 , 45.0 贴片 电容 2.2 n 25v 80% 20% 0402 smd 2.0 c7 c8 6000
+__label__贴片电容 , 61.0 贴片 电容 10 uf 10v 80% 20% 0603 smd 2.0 c5 c48 6000
+__label__贴片电容 , 50 贴片 电容 10u 10v 0603 smd 3 c69 c71 c95 9000
+__label__贴片电容 , 51 贴片 电容 10u 10v 0805 smd 1 c107 3000
 __label__贴片电容 , 1 p20302000009 c0603 grm188r71h104ka93d 0.1 uf 50v 10% 贴片 电容 2
-__label__贴片电容 , 贴片类 33pf 6.3 v c0402 2 c46 c79 17140
-__label__贴片电容 , 贴片类 47nf 6.3 v c0402 6 c167 c168 c169 c170 c171 c172 51420
-__label__贴片电容 , cap cer 2.2 uf 16v x7r 1206 grm31mr71c225ka35l 陶瓷 电容 3216
-__label__贴片电感 , 110103200030x cd 贴片 电感 0805 3.3 uh 50ma 3000
+__label__贴片电容 , cap cer 33pf 50v c0g np0 1206 c1206c330j5gactu kemet 陶瓷 电容 810
 __label__贴片电感 , 0603 电感 2.2 uh 2r2 ± 20% 0.2 ω 1000ma smd 0603 1
+__label__贴片电感 , 0603 电感 470nh 470n ± 5% 0.35 ω 150ma smd 0603 6000
 __label__贴片电感 , 25 贴片 电感 30uh ± 20% 1.5 a 6x6x4.5 1 l1
 __label__贴片电感 , 27 贴片 电感 33uh ± 20% 400ma 3x3x1.5 1 l3
-__label__贴片电感 , 348.0 11802039 贴片 电感 47uh 2a8 20% xln 30000.0
 __label__贴片电感 , 350.0 11802041 贴片 电感 bead 180ohm 0805 30000.0
 __label__贴片电感 , 351.0 11802042 贴片 电感 lpc5015ft 2r2m a lvs505040 30000.0
-__label__贴片电感 , 344.0 11802023 贴片 电感 30nh 30nh 0603 30000.0
-__label__贴片电感 , 69 叠层 电感 chip inducotrs cmfl0402 1r8k 1.8 uh ± 10% 15ma cmfl0402 1r8k 6377
-__label__贴片电感 , 电感 12 mlz1608n100l 10uh â ± 20% shielded fixed inductor 300ma 600mohms max 0603 1608 metric 1 200000
+__label__贴片电感 , 1.0 1000.0 ferrite bead 0805 l1 inductors taiyo yuden bk2125hs601 t 500ma 600ohms 0805
 __label__贴片电感 , 贴片 电感 l1 smd 7.1 x6.6 x3mm 15uh sunltech 1 10000
-__label__贴片电感 , 6 053w222203211 053 inductor 电感 green multayer chip inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100
-__label__贴片电感 , lqm21fn100m70l 0805 2012 metric l1 l4 l5 l7 l100 l101 l201 10uh 固定 电感器 7.0 28.0
 __label__贴片电感 , 35 贴片 电感 1.0 nh 0.3 nh l0402 2 l10 l14 4200
+__label__贴片电感 , 30.0 贴片 电感 cmfl0603 100kt 10uh l1 l2 l3 l4 l5 l6 l7 l8 0603 8.0 8000
+__label__贴片电感 , 31.0 贴片 电感 cmfl1206 100kt l9 1206 1.0 1000
 __label__贴片电感 , 49 5 l5 l6 l7 l8 l9 dfe201610e 2r2m p2 56 dfe201610e 2r2m p2 dfe201610e 2r2m p2 56 3 054 3024
-__label__贴片电感 , wi ind 0010 l1 l2 10mh 2 fixed ind 10mh 130ma 228 ohm wurth inc 74404086103 732 10747 1 nd 1560
-__label__贴片电感 , 贴片 电感 100uh 12 12 7 l1 12 12 7 1 9
-__label__贴片电感 , 功率 电感 功率 电感 0.47 uh ± 20% 3000ma 0.04 2 1.6 1mm mpial201610 r47m lf 3 3000 l2003 l2006 l2008
+__label__贴片电感 , 6.0 15uh 1206 l1 l2 1.0 10.0
+__label__贴片电感 , 89 表贴 电感 nl453232t 101j pf 1812 3 500 1500 l8 l23 l24
 __label__贴片电感 , 11 贴片 电感 47uh 1206 1 fh 4000
+__label__贴片电感 , 0402 l 100nh 5% 0402 100nh 5% l1 贴片 电感 1 40 0402 100nh 5%
 __label__贴片电感 , 11 贴片 电感 cmi322513x100kt cmi322513x100kt 10uh ± 10% 100 2900
 __label__贴片电感 , 7 贴片 电感 cmp321609xd100k cmp321609xd100k 10uh ± 10% e 4800
-__label__贴片电感 , 55 电感 vlcf5020t 2r2n2r6 3 smd 2r2 300
+__label__贴片电感 , 4 80 l1 l2 l3 l4 cm322522 470kl 652 cm322522 470kl fixed ind 47uh 75ma 7 ohm smd 1210 3225 metric cm322522 470kl l cm322522
 __label__贴片电感 , y13 l02 s000205 fixed ind 10uh 450ma 360 mohm nlcv32t 100k pf 贴片 电感 59
-__label__贴片电感 , 贴片 电感 1005l c lqg15hs2n7b02d 2.7 nh 2.7 nh ± 0.3 nh q 8 dcr 0.12 idc 850ma srf 6g 1.0 100.0
-__label__贴片电感 , 贴片 电感 ind2sm 2r5x2r0 lqh2hpnr47njrl 0.47 uh 0.47 uh ± 30% 3.5 a 1.65 adcr 0.031 srf 190m 1.0 100.0
-__label__贴片电感 , 贴片 电感 ind2sm 2r5x2r0 lqh2hpn2r2mjrl 2.2 uh 2.2 uh ± 20% 1.7 a 0.99 adcr 0.092 srf 50m 1.0 100.0
-__label__贴片电感 , 贴片 电感 ind2sm 12r5x12r5 1 fda1055 h 2r2m p3 2.2 uh 2.2 uh ± 20% 15.5 a 13.6 adcr 0.0048 srf 0.1 m 1.0 20.0
-__label__贴片电感 , 贴片 电感 2.2 uh 贴片 电感 4 4 3 l6 l7 l8
-__label__贴片电感 , 贴片 电感 10uh 5 5 3030000006002 贴片 1 l1
-__label__贴片电感 , 36 贴片 电感 3631c470l ind12127 11
-__label__贴片电感 , 44.0 电感 4.7 uh 74479775247 27.0
-__label__贴片电感 , 10nh l0201 l3 1 3000
-__label__贴片电感 , 62 贴片 电感 sdrh0845nt330 vkiing 50.0 0.0 smt 33uh 2a
-__label__贴片电感 , 1 lc lb3218t470k00 电感 47uh lb3218t470k 1210 505 y
+__label__贴片电感 , 贴片 电感 10uh 2a 4020 smd l 4020 smd l2
+__label__贴片电感 , elnp04n7k0201ct trj 4.7 nh 0201 贴片 电感 l2 1 3000
+__label__贴片电感 , 63 表贴 电感 10uh 8x8x4.5 mm 8x8x4.5 mm 1.0 l18 800
+__label__贴片电感 , 贴片 电感 3.9 nh 0402 1200
+__label__贴片电感 , ind 1.5 uh irat 3500ma 60mohm 40 ° c 85 ° c 2520 dfe252012p 1r5m p2 l4 l5 l6 3.0 135000.0 135020.0
 __label__贴片电感 , smd inductor 4u7h 1.2 a wurth 74438333047 ind 4.7 uh isat 1.2 a 136mohm 40 � c � 125 � c 3.00 mm x 3.00 mm x 1.50 mm smt l3 1.0 45000.0 45020.0
+__label__贴片电解电容 , 197 1 3500 cap elt smd 100 uf 35v 20% ece v1va101xp
+__label__贴片电解电容 , 31 贴片 yc0220692w 贴片 电解电容 63 mm 54 mm 220 uf ± 20% 10v sd 20 e1 e2 600000 00 01364 02728
 __label__贴片电解电容 , 241.0 11003123 贴片 电解电容 470 uf 35v 10 10 30000.0
 __label__贴片电解电容 , 245.0 11003151 贴片 电解电容 2.2 uf 50v 30000.0
 __label__贴片电解电容 , 246.0 11003155 贴片 电解电容 470u 25v 20% 10x10 30000.0
-__label__贴片电解电容 , 1 40 c29 贴片 电解电容 100 uf 35v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10mm lelon vua101m1vtr 1010
-__label__贴片电解电容 , 9 贴片 电解电容 47 uf 16v 10% 105 ° 5 5.4 c4 10000
-__label__贴片电解电容 , 34 电解电容 ccap al 560 uf ± 20% 16v cesu80x117h120 nichicon fp 016me561m hsr smt nichicon fp 016me561m hsr 2 80
-__label__贴片电解电容 , 19 贴片 电解电容 22 uf 50v f6.3 xh5.3 cap smd f6.3 xh5.3 2 ec1 ec2 4200
-__label__贴片电阻 , 31 5103 30 2000 res 10k 1 16w 5% 0603 smd wr06x103 jtl
-__label__贴片电阻 , 75 301006500 1 70000 res array 33 ohm 8trm 4res smd yc124 jr 0733rl
-__label__贴片电阻 , 79 301007400 1 21000 res 1k 5% 0402 wr04x102 jtl
-__label__贴片电阻 , 101 301013390 1 3500 res 3.3 m 1% 0402 rc0402fr 073m3l
-__label__贴片电阻 , 158 301013200 1 3500 res 56k 1% 0603 rc0603fr 0756kl
-__label__贴片电阻 , 16 smd 贴片 电阻 r1 1206 0.2 r 1.0 2000.0
-__label__贴片电阻 , 24 smd 贴片 电阻 r4 r5 r14 r15 r0603 1m 4.0 20000.0
+__label__贴片电解电容 , 贴片 电解 电容器 ф 6.3 5.5 100 μ f 16v 6000
+__label__贴片电解电容 , 16v 10 uf cap e smd4 2.0 贴片 电解电容 1000.0
+__label__贴片电阻 , 11 301006200 1 80000 res 49.9 r 1% 0603 erj 3ekf49r9v
+__label__贴片电阻 , 84 301012900 1 49000 res 100k 5% 1 16w 0402 rc0402jr 07100kl
+__label__贴片电阻 , 85 301013330 2 3500 res 100k 1% 0603 erj 3ekf1003v
+__label__贴片电阻 , 88 301010800 3 10500 res 4.7 m 1% 0603 crcw06034m70fkea
+__label__贴片电阻 , 124 301013310 2 3500 res 5.9 k 1% 10w 0603 crcw06035k90fkea
+__label__贴片电阻 , 194 1 3500 res smd 0603 470r 5% era v15j471v
+__label__贴片电阻 , 11 resistor 100k ± 5% 0201 0201j0104tce 10000
+__label__贴片电阻 , cre0017 resistor 680r 5% 1 8w smd 0805 r2 1 rc2012j681cs sim 5000.0 0.0039 0.0461 0.0476
 __label__贴片电阻 , cre0033 resistor 100r 5% 1 4w smd 0805 r13 1 rpc0805jt100r sim 5000.0 0.0039 0.2121 0.2203
-__label__贴片电阻 , 110101502409x 贴片 电阻 chip res 2010 100k ω 3 4w 士 1% 20000
-__label__贴片电阻 , 145.0 1.0 r3m6 29.4 k r0402 res smd 29.4 k 1% 1 16w 0402 lt lf 20
-__label__贴片电阻 , 148.0 1.0 r37 1.6 k 0402 cc res mf 1.6 k 1 16w 1% 0402 20
-__label__贴片电阻 , 155.0 3.0 r43 r55 r73 200r 0402 cc res mf 200 ohm 1 16w 1% 0402 60
-__label__贴片电阻 , 160.0 1.0 r57 191r 1% r0603 res mf 191.0 ohm 1 10w 1% 0603 20
-__label__贴片电阻 , 173.0 2.0 r82 r150 100r 0402 cc res mf 100 ohm 1 16w 1% 0402 40
-__label__贴片电阻 , 177.0 2.0 r14m2 r17m2 10k r0402 res mf 10.0 k 1 16w 5% 0402 40
+__label__贴片电阻 , cre0128 resistor 0r ohms smd 0805 r12 1 erj 6gey0r00v sim 5000.0 0.0039 0.0748 0.0571 0.11
+__label__贴片电阻 , 110101500484x 贴片 电阻 chip res 0805 68k ω 1 10w 士 5% 11270172 10000
+__label__贴片电阻 , 110101501006x 贴片 电阻 chip res 0603 10 ω 1 16w 土 1% 11279106 70000
+__label__贴片电阻 , 贴片 电阻 r2 r3 r6 r01 r1 r4 0603 1k 5% 6
+__label__贴片电阻 , 贴片 电阻 r20 0603 330r 5% 1
+__label__贴片电阻 , 贴片 电阻 r8 r01 0603 1k 5% 2
+__label__贴片电阻 , 342 贴片 yr400164w 贴片 电阻 0603 1m ± 1% 20 r2 r17 600000 00 0003 0006
+__label__贴片电阻 , 131.0 1.0 r1m6 75k r0402 res smd 75k 5% 1 16w 0402 lt lf 20
+__label__贴片电阻 , 149.0 2.0 r38 r56 6.04 k 0402 cc res mf 6.04 k 1 16w 1% 0402 40
+__label__贴片电阻 , 156.0 4.0 r5m1 r8m1 r12m1 r429 0r r0603 res smd 0ohm 5% 1 10w 0603 lt lf 80
+__label__贴片电阻 , 167.0 44.0 r7m1 r217 r218 r219 r220 r243 r267 r317 r329 r331 r334 r366 r367 r381 r382 r391 r401 r402 r408 r409 r412 r413 r424 r440 r443 r446 r448 r449 r450 r451 r452 r456 r471 r472 r473 r474 r475 r476 r477 r478 r479 r480 r496 r530 0r r0402 res mf zero ohm 1 10w 0402 880
+__label__贴片电阻 , 181.0 1.0 r16m2 1k r0402 res smd 1kohm 5% 1 16w 0402 lt lf 20
+__label__贴片电阻 , 185.0 6.0 r202 r203 r204 r205 r207 r208 10k 0402 cc res mf 10.0 k 1 16w 5% 0402 120
 __label__贴片电阻 , 196.0 1.0 r27m2 0r 0402 cc res mf zero ohm 1 10w 0402 20
-__label__贴片电阻 , 209.0 1.0 r457 100r r0402 res mf 100 ohm 1 16w 1% 0402 20
-__label__贴片电阻 , 210.0 1.0 r485 5.1 k r0603 res smd 5.1 k ohm 1% 1 10w 0603 lt lf 20
-__label__贴片电阻 , 110101500627x 贴片 电阻 chip res 0805 243k ω 1 10w 士 1% 11276386 10000
-__label__贴片电阻 , 110101500691x 贴片 电阻 chip res 0603 15 ω 1 10w 士 1% 11277022 10000
+__label__贴片电阻 , 199.0 2.0 r309 r316 26.7 k 1% r0603 res smd 26.7 kohm 1% 1 16w 0603 lt lf 40
+__label__贴片电阻 , 34.0 10906007 贴片 电阻 5000 10906014 10k 0805 30000.0
+__label__贴片电阻 , 35.0 10906009 贴片 电阻 20k 0805 30000.0
 __label__贴片电阻 , 41.0 10906019 贴片 电阻 473 1206 30000.0
-__label__贴片电阻 , 76.0 10906097 贴片 电阻 5000 30 ω 1206 30000.0
-__label__贴片电阻 , 94.0 10906122 贴片 电阻 1k 0805 电阻 1% 30000.0
+__label__贴片电阻 , 45.0 10906026 贴片 电阻 33k 0805 30000.0
+__label__贴片电阻 , 49.0 10906030 贴片 电阻 5000 2k 0805 30000.0
+__label__贴片电阻 , 57.0 10906040 贴片 电阻 62 1w 2512 30000.0
+__label__贴片电阻 , 73.0 10906073 贴片 电阻 4000 150 1w 2512 30000.0
+__label__贴片电阻 , 74.0 10906076 贴片 电阻 120 1w 2512 30000.0
+__label__贴片电阻 , 87.0 10906111 贴片 电阻 2k 1w 2512 30000.0
 __label__贴片电阻 , 97.0 10906126 51k 贴片 电阻 51k 0805 1% 30000.0
-__label__贴片电阻 , 100.0 10906129 贴片 电阻 24k 1206 30000.0
-__label__贴片电阻 , 102.0 10906131 贴片 电阻 300k 1206 30000.0
-__label__贴片电阻 , 118.0 10906157 贴片 电阻 510 1w 2512 30000.0
-__label__贴片电阻 , 129.0 10906177 贴片 电阻 10k 1w 2512 30000.0
-__label__贴片电阻 , 130.0 10906178 贴片 电阻 0 ω 2010 30000.0
-__label__贴片电阻 , 131.0 10906179 贴片 电阻 4k7 2512 5000 30000.0
+__label__贴片电阻 , 114.0 10906149 贴片 电阻 1k 1w 2512 30000.0
+__label__贴片电阻 , 122.0 10906165 贴片 电阻 4.7 k 0603 30000.0
 __label__贴片电阻 , 142.0 10906203 贴片 电阻 560k 1% 0603 30000.0
-__label__贴片电阻 , 145.0 10906211 贴片 电阻 33 0603 30000.0
-__label__贴片电阻 , 1 300 r10 贴片 电阻 13k ω ± 1% 0603 贴片 电阻 13k ω ± 1%
-__label__贴片电阻 , 4 300 r12 r15 r25 r37 贴片 电阻 10k ω ± 1% 0402 贴片 电阻 10k ω ± 1%
-__label__贴片电阻 , 2 300 r31 r32 贴片 电阻 75 ω ± 1% 0603 贴片 电阻 75 ω 75r0 ± 1%
+__label__贴片电阻 , 160.0 10906369 贴片 电阻 300k 1% 0603 30000.0
+__label__贴片电阻 , 164.0 10906373 贴片 电阻 62k 1% 0603 30000.0
+__label__贴片电阻 , 166.0 10906375 贴片 电阻 200 5% 0603 30000.0
+__label__贴片电阻 , 172.0 10907022 贴片 电阻 0 ω 0805 5000 30000.0
+__label__贴片电阻 , 1 300 r1 贴片 电阻 0 ω 0r00 ± 1% 0805 贴片 电阻 0 ω 0r00 ± 1%
+__label__贴片电阻 , 1 300 r14 贴片 电阻 187k ω 187k ± 1% 0402 贴片 电阻 187k ω 187k ± 1%
+__label__贴片电阻 , 9 300 r26 r27 r28 r29 r33 r36 r38 r54 r56 贴片 电阻 0 ω 000 ± 5% 0603 贴片 电阻 0 ω 000 ± 5%
+__label__贴片电阻 , 1 ac1206jr 072k2l resistor 2.2 kohm toleranc 5% 1206 automotive 8weeks 200000 0.0034 680
+__label__贴片电阻 , 8 ac0603jr 0710kl resistor 10kohm toleranc 5% 0603 automotive 8weeks 40000 0.00125 50
+__label__贴片电阻 , 14 ac0603jr 0733kl resistor 33kohm toleranc 5% 0603 automotive 8weeks 10000 0.00125 12.5
+__label__贴片电阻 , 1 ac1206jr 072k2l resistor 2.2 kohm toleranc 5% 1206 automotive 8weeks 200000 0.0034 680
 __label__贴片电阻 , 2 ac0603jr 073k3l resistor 3.3 kohm toleranc 5% 0603 automotive 8weeks 50000 0.00125 62.5
-__label__贴片电阻 , 2 ac0603jr 073k3l resistor 3.3 kohm toleranc 5% 0603 automotive 8weeks 50000 0.00125 62.5
+__label__贴片电阻 , 3 ac1206jr 072k7l resistor 2.7 kohm toleranc 5% 1206 automotive 8weeks 30000 0.0034 102
 __label__贴片电阻 , 4 ac0603jr 07200kl resistor 200kohm toleranc 5% 0603 automotive 8weeks 100000 0.00125 125
-__label__贴片电阻 , 3 贴片 电阻 2k 5% 0805 r5 r7 20000
-__label__贴片电阻 , 110101500740x 贴片 电阻 chip res.0603 100k ω 1 10w 士 5% 560000
-__label__贴片电阻 , 110101500919x 贴片 电阻 chip res.0603 47 ω 1 10w 士 5% 80000
-__label__贴片电阻 , 110101501109x cd 贴片 电阻 chip res.0603 301 ω 1 16w 土 0.1% 15000
-__label__贴片电阻 , 110101501498x cd 贴片 电阻 chip res 0603 120k ω 1 10w 士 1% 30000
-__label__贴片电阻 , 110101501731x 贴片 电阻 chip res.0603 1m ω 1 10w 士 1% 10000
-__label__贴片电阻 , 电阻 d12 crcw0603 200 4k3 5% et1 e3 2 4020 crcw06034k30jnea 4020 a 0.03038 7 12d
-__label__贴片电阻 , 电阻 d12 crcw0805 200 3k 5% et1 e3 1 2010 crcw08053k00jnea 2010 a 0.0588 7 12d
+__label__贴片电阻 , 13 ac0603jr 07220rl resistor 220ohm toleranc 5% 0603 automotive 8weeks 10000 0.00125 12.5
+__label__贴片电阻 , 16 ac1206jr 071k2l resistor 1.2 kohm toleranc 5% 1206 automotive 8weeks 40000 0.00125 50
+__label__贴片电阻 , 110101500691x 贴片 电阻 chip res 0603 15 ω 1 10w 士 1% 11277022 10000
+__label__贴片电阻 , 110101501001x cd 贴片 电阻 chip res.0603 1.5 k ω 1 16w 土 1% 30000
 __label__贴片电阻 , 电阻 d12 crcw0805 200 7k68 5% et1 e3 1 2010 crcw08057k68fkea 5000 a 0.03528 7 12d 1% moq 5k
-__label__贴片电阻 , 46 贴片 薄膜 电阻 r smd 470r ± 5% ac0402jr 07470rl 38262
 __label__贴片电阻 , 47 贴片 薄膜 电阻 r smd 1k 1% ± 1% ac0402fr 071k00l 127540
-__label__贴片电阻 , 65 贴片 薄膜 电阻 r smd 1m ± 5% ac0402jr 071m00l 12754
-__label__贴片电阻 , 1.0 1000.0 200r 0805 r117 resistor rc0805fr 07200rl chip res 0805 200r 1%
-__label__贴片电阻 , 6 75k 0603 5% 753 1 r2 3000
-__label__贴片电阻 , ldr77 usrr v0.1 电阻 4.7 k 4.7 k ω ± 1% 1 16w 0402 3 r0706 r1002 r1004 3000
-__label__贴片电阻 , ldr77 usrr v0.1 电阻 15k 15k ω ± 1% 1 16w 0402 1 r0218 1000
-__label__贴片电阻 , ldr77 usrr v0.1 电阻 47k 47k ω ± 1% 1 16w 0402 2 r0701 r0602 2000
-__label__贴片电阻 , 10000 0011 贴片 电阻 rc0603fr 072kl 片状 电阻器 1 10w 2k ω 1% 0603 r1 r40 r53 r55 r57 r71 r74 7 42 国
-__label__贴片电阻 , 10000 0043 贴片 电阻 rc0603fr 07100rl 片状 电阻器 1 10w 100r ± 1% 0603 r20 1 6
-__label__贴片电阻 , 10000 0038 贴片 电阻 rc0603fr 073k3l 片状 电阻器 1 10w 33 k ω 1% 0603 r59 r60 r61 r76 4 24 国
+__label__贴片电阻 , 1.0 1000.0 47r 0603 arv rn1 resistor array chip tc164 jr 0747rl res array 47r 4x0603 5%
+__label__贴片电阻 , 5 75k 0603 1% 85c 1 r1 3000
+__label__贴片电阻 , 8 0.022 r 1206 1% r022 2 r5 6 6000
+__label__贴片电阻 , ldr77 usrr v0.1 电阻 1k 1k ω ± 1% 1 16w 0402 4 r0208 r0410 r0504 r0506 4000
+__label__贴片电阻 , ldr77 usrr v0.1 电阻 10k 10k ω ± 1% 1 16w 0402 30 r0201 r0210 r0211 r0212 r0213 r0214 r0215 r0217 r0220 r0221 r0277 r0402 r0407 r0408 r0409 r0411 r0505 r0507 r0601 r0603 r0707 r1105 r1106 r1109 r1110 r1001 r1003 r1009 r1010 r1011 30000
+__label__贴片电阻 , 10000 0036 贴片 电阻 rc0603fr 07220rl 片状 电阻器 1 10w 220r ± 1% 0603 r16 r17 2 12
+__label__贴片电阻 , 电阻 18 0402wgf3904tce uniohm 3.9 m ohms â ± 1% 0.063 mw 1 16w chip resistor 0402 1005 metric thick film 1 200000
 __label__贴片电阻 , 18 6103 0402034j 贴片 电阻 mcr01mzpj103 0402 10k 5% rohm mcr01mzpj103 4020 rohm 1920 quad
-__label__贴片电阻 , 28 6103 0402221j 贴片 电阻 mcr01mzpj220 0402 22r 5% rohm mcr01mzpj220 rohm 320 quad
-__label__贴片电阻 , 35 6103 0402435f 贴片 电阻 mcr01mzpf4303 0402 430k 1% rohm mcr01mzpf4303 4020 rohm 80 quad
-__label__贴片电阻 , 41 6103 0402477f 贴片 电阻 mcr01mzpf4703 0402 470k 1% rohm mcr01mzpf4703 4020 rohm 80 quad
-__label__贴片电阻 , 27 贴片 电阻 10k ω 0805 0805 10k ω 103 ± 5%
+__label__贴片电阻 , 38 6103 0402475f 贴片 电阻 mcr01mzpf4701 0402 47 k 1% rohm mcr01mzpf4701 4020 rohm 80 quad
+__label__贴片电阻 , 40 6103 0402476j 贴片 电阻 mcr01mzpj473 0402 47k 5% rohm mcr01mzpj473 4020 rohm 80 quad
+__label__贴片电阻 , 高精度 贴片 电阻器 0805 100k ω ± 0.5 ％ 15000
+__label__贴片电阻 , 13 贴片 电阻 2.2 k ω 0603 0603 2.2 k ω 222 ± 5%
+__label__贴片电阻 , 15 贴片 电阻 4.7 k ω 0805 0805 4.7 k ω 472 ± 1%
+__label__贴片电阻 , 23 10k 0.01 0603r r2 r7 r29 r30 r31 r32 r33 r42 r43 r45 r47 r48 r49 r50 r51 r52 r53 r54 r56 r66 r77 r78 r79 r84 r95 r97 r98 r100 r101 r102 r103 r104 r105 r113 r120 r139 r140 r141 r142 r143 r144 r145 r153 r158 r172 r173 r175 r176 r177 r190 r191 r192 r193 r194 r195 r205 r207 r208 r211 59 885
 __label__贴片电阻 , 29 3k 0.01 0805r r9 1 15
-__label__贴片电阻 , 30 61.9 k 0.01 0805r r10 1 15
-__label__贴片电阻 , 31 100k 0.01 0603r r11 1 15
-__label__贴片电阻 , 32 10r 0.01 0805r r14 1 15
-__label__贴片电阻 , 39 10k 0.01 1206r r28 1 15
-__label__贴片电阻 , 101 贴片 电阻 res 0ohm ± 1% 1 16w 0402 smt 147 5880
-__label__贴片电阻 , 102 贴片 电阻 res 220ohm ± 1% 1 16w 0402 smt 6 240
-__label__贴片电阻 , 111 贴片 电阻 res 200ohm ± 1% 1 16w 0402 smt 9 360
-__label__贴片电阻 , 118 贴片 电阻 res 475ohm ± 1% 1 16w 0402 smt 1 40
+__label__贴片电阻 , 33 0.05 r 0.01 1210r r16 r19 r20 3 45
+__label__贴片电阻 , 45 12k 0.01 0603r r74 r75 r76 r99 r118 r119 6 90
+__label__贴片电阻 , 52 200k 0.01 1206r r216 r217 r220 r221 r222 5 75
+__label__贴片电阻 , 122 贴片 电阻 res 113ohm ± 1% 1 16w 0402 smt 1 40
 __label__贴片电阻 , 134 贴片 电阻 res 3.3 kohm ± 1% 1 16w 0402 smt 6 240
-__label__贴片电阻 , 139 贴片 电阻 res 49.9 kohm ± 1% 1 16w 0402 smt 3 120
-__label__贴片电阻 , 148 贴片 电阻 res 1kohm ± 5% 1 16w 0402 smt 4 160
-__label__贴片电阻 , 173 贴片 电阻 res 5.36 kohm ± 1% 1 16w 0402 smt 1 40
-__label__贴片电阻 , 192 贴片 电阻 res 4.42 kohm ± 1% 1 16w 0402 smt 2 80
-__label__贴片电阻 , 60 贴片 电阻 res 1.2 kohm ± 1% 1 16w 0402 smt 3 120
-__label__贴片电阻 , 63 贴片 电阻 res 1.78 kohm ± 1% 1 16w 0402 smt 2 80
-__label__贴片电阻 , 67 贴片 电阻 res 0ohm ± 5% 1 8w 0805 smt 2 80
-__label__贴片电阻 , 75 贴片 电阻 res 1kohm ± 1% 1 16w 0402 smt 2 80
-__label__贴片电阻 , 76 贴片 电阻 res 82.5 kohm ± 1% 1 16w 0402 smt 2 80
-__label__贴片电阻 , 77 贴片 电阻 res 0ohm ± 1% 1 16w 0402 smt 52 2080
-__label__贴片电阻 , 84 贴片 电阻 res 100ohm ± 1% 1 16w 0402 smt 12 480
-__label__贴片电阻 , 21 贴片 电阻 res 0ohm ± 1% 1 16w 0402 smt 9 360
-__label__贴片电阻 , 23 贴片 电阻 res 2.2 ohm ± 1% 1 8w 0805 smt 8 320
-__label__贴片电阻 , 29 贴片 电阻 res 20kohm ± 1% 1 16w 0402 smt 1 40
-__label__贴片电阻 , 35 贴片 电阻 res 0ohm ± 1% 1 4w 1206 smt 1 40
-__label__贴片电阻 , 39 贴片 电阻 res 39.2 kohm ± 1% 1 16w 0402 smt 1 40
-__label__贴片电阻 , 28 贴片 电阻 res 330ohm ± 1% 1 10w 0603 smt 34 1360
-__label__贴片电阻 , 3.0 贴片 电阻 smd 10 ω 1 8w ± 5 ﹪ 0805 0805 贴片 6 r2 r7 30000.0
-__label__贴片电阻 , 4.0 smd 100 ω 1 8w ± 5 ﹪ 0805 0805 贴片 1 r8 5000.0
-__label__贴片电阻 , 6.0 smd 100 ω 1 10w ± 5 ﹪ 0603 0603 贴片 1 r25 5000.0
-__label__贴片电阻 , 16.0 smd 333 1 10w ± 5 ﹪ 0603 0603 贴片 4 r19 r20 r32 r33 20000.0
-__label__贴片电阻 , 1 resistor thick film r1 24k smt 0402 rc0402jr 0724kl 600
-__label__贴片电阻 , 700 2001010061 电阻 smd rc0603jr 072kl 0603 2k 5% 1 10w r54 1 20 b 20
-__label__贴片电阻 , 740 2001010034 电阻 smd rs 03k101jt 0603 100r 5% 1 10w r90 r109 2 20 0.3 b 40
-__label__贴片电阻 , r88 0603 表贴 电阻 5.62 k 1% 0603r 1 5
-__label__贴片电阻 , r159 0603 表贴 电阻 120r 0603r 1 5
-__label__贴片电阻 , r35 r36 r85 r87 r161 r162 r232 r233 r268 r269 r309 r310 r343 r344 0603 表贴 电阻 1k 1% 0603r 14 210
-__label__贴片电阻 , r39 r43 r44 r48 r49 r52 r53 r54 r57 r59 r61 r62 r90 r91 r95 r96 r99 r100 r104 r105 r110 r111 r112 r117 r165 r166 r168 r169 r170 r171 r172 r173 r177 r178 r179 r180 r235 r236 r237 r238 r239 r240 r241 r242 r245 r247 r248 r249 r271 r272 r273 r274 r275 r276 r277 r278 r281 r282 r283 r284 r312 r313 r314 r315 r316 r317 r318 r319 r322 r323 r324 r325 r347 r348 r349 r350 r351 r352 r353 r354 r357 r358 r359 r360 0603 表贴 电阻 10r 1% 0603r 84 1260
-__label__贴片电阻 , r45 r78 r86 r101 r103 r107 r115 r122 r196 r200 r212 r215 r298 r302 r305 0603 表贴 电阻 4.7 k 0603r 15 225
-__label__贴片电阻 , r55 r56 r108 r109 r174 r176 r243 r244 r279 r280 r320 r321 r355 r356 2512 表贴 电阻 75mr 1% 2512 14 210
-__label__贴片电阻 , r63 r64 r69 r70 r71 r118 r124 r131 r133 r134 r139 r146 r149 r154 r163 r181 r182 r185 r186 r187 r199 r203 r206 r250 r251 r254 r255 r256 r285 r286 r289 r290 r291 r326 r327 r330 r331 r332 r361 r362 r365 r366 r367 r376 r377 r378 r379 0603 表贴 电阻 1k 0603r 47 705
-__label__贴片电阻 , r219 0603 表贴 电阻 20k 1% 0603r 1 15
-__label__贴片电阻 , r257 0603 表贴 电阻 110k 1% 0603r 1 15
-__label__贴片电阻 , 1 460 2001010112 电阻 smd rc0603jr 070rl 0603 0r 5% 1 10w r614 r617 r631 r632 r633 r635 r677 r679 r701 r703 r852 r864 r1013 r1014 14 20 0.3 b 280
-__label__贴片电阻 , 1 540 2001010117 电阻 smd rt0603dre0710k 0603 10k 0.5% 1 10w r1024 r1035 rk74 rk75 rk76 rk77 rk79 rk80 rk81 rk82 10 20 0.3 b 200
-__label__贴片电阻 , 1 560 2001010123 电阻 smd rt0603dre0722k1 0603 22.1 k 0.5% 1 10w rk04 1 20 0.3 b 20
-__label__贴片电阻 , 4 贴片 10k ± 5% 3 0805 贴片 电阻
-__label__贴片电阻 , 19 r2 r5 r47 r51 r82 r86 r113 r117 r148 r152 r179 r183 r214 r218 r245 r249 499 k thick film 25w 1% smd 1206 3216 matric 160 2444
-__label__贴片电阻 , 2 贴片 电阻 1k ± 1% 1 0603 贴片 电阻
-__label__贴片电阻 , 9 1k r5 r6 r7 r8 r9 r10 r11 r12 r13 0603 resistor 0.1 w 1% 0603 smd 0603waf1001t5e uni royal 180.0
-__label__贴片电阻 , 24 100r r25 r26 r28 r29 r32 r33 r37 r38 r39 r40 r41 r44 r47 r48 r49 r50 r51 r52 r53 r57 r58 r59 r60 r61 0603 resistor 0.1 w 1% 0603 smd 0603waf1000t5e uni royal 480.0
-__label__贴片电阻 , 1 0r008 inc cra2512 fz r080elf r85 2512 resistor 1w 1% 2512 smd cra2512 fz r080elf 20.0
-__label__贴片电阻 , 39 10k r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 r13 r14 r15 r16 r17 r18 r19 r20 r21 r22 r23 r24 r25 r28 r30 r32 r34 r36 r40 r42 r44 r46 r47 r74 r75 r76 r77 0603 resistor 0.1 w 1% 0603 smd 0603waf1002t5e uni royal 780.0
-__label__贴片电阻 , 2.15 k ± 5% 贴片 r40 r 1206 res2 1 mcr18ezpf2151 rohm 25
-__label__贴片电阻 , 42 resistor 1m 1% r0402 1 r2 2100
-__label__贴片电阻 , 52 resistor 44.2 k 1% r0402 1 r14 2100
-__label__贴片电阻 , 12 11 0101 014 043 电阻 0402 smd 0402 1 16w 330k ± 1% lc 0402 r r21 1 10000.0
-__label__贴片电阻 , 3 11 0101 014 010 贴片 电阻 0402 smd 0402 1 16w 10k ± 5% 0402 r r1 1 10000.0
-__label__贴片电阻 , 2 11 0101 012 003 0603 电阻 smd0603 10k ± 5% 0603 r6 1 10000.0
-__label__贴片电阻 , 2 hiqco000000000311 resistor 1.8 k ± 1% smd res 0402 10
-__label__贴片电阻 , 20 hiqco000000000296 resistor 16.2 k ± 1% smd res 0402 15
+__label__贴片电阻 , 162 贴片 电阻 res 5.1 kohm ± 1% 1 16w 0402 smt 3 120
+__label__贴片电阻 , 168 贴片 电阻 res 2.67 kohm ± 1% 1 16w 0402 smt 4 160
+__label__贴片电阻 , 170 贴片 电阻 res 0ohm ± 1% 1 10w 0603 smt 15 600
+__label__贴片电阻 , 178 贴片 电阻 res 7.5 kohm ± 1% 1 16w 0402 smt 9 360
+__label__贴片电阻 , 198 贴片 电阻 res 3ohm ± 5% 1w 2512 smt 1 40
+__label__贴片电阻 , 54 贴片 电阻 res 4.7 kohm ± 5% 1 16w 0402 smt 261 10440
+__label__贴片电阻 , 57 贴片 电阻 res 470ohm ± 1% 1 16w 0402 smt 18 720
+__label__贴片电阻 , 62 贴片 电阻 res 0ohm ± 1% 1 10w 0603 smt 6 240
+__label__贴片电阻 , 64 贴片 电阻 res 49.9 ohm ± 1% 1 16w 0402 smt 2 80
+__label__贴片电阻 , 4 贴片 电阻 res 4.7 kohm ± 5% 1 16w 0402 smt 2 80
+__label__贴片电阻 , 24 贴片 电阻 res 330ohm ± 1% 1 10w 0603 smt 28 1120
+__label__贴片电阻 , 27 贴片 电阻 res 10kohm ± 1% 1 16w 0402 smt 8 320
+__label__贴片电阻 , 36 贴片 电阻 res 2.2 ohm ± 1% 1 10w 0603 smt 1 40
+__label__贴片电阻 , 27 贴片 电阻 res 2.2 ohm ± 1% 1 8w 0805 smt 10 400
+__label__贴片电阻 , 29 贴片 电阻 res 22ohm ± 1% 1 16w 0402 smt 40 1600
+__label__贴片电阻 , 31 贴片 电阻 res 10kohm ± 1% 1 16w 0402 smt 11 440
+__label__贴片电阻 , 33 贴片 电阻 res 20kohm ± 1% 1 16w 0402 smt 1 40
+__label__贴片电阻 , 5.0 smd 3 ω 3 1 10w ± 5 ﹪ 0603 0603 贴片 2 r43 r44 10000.0
+__label__贴片电阻 , 9.0 smd 472 1 10w ± 5 ﹪ 0603 0603 贴片 2 r34 r35 10000.0
+__label__贴片电阻 , 1 resistor thick film r6 470k smt 0402 rc0402jr 07470kl 600
+__label__贴片电阻 , 贴片 电阻 r67 603 47k 5% 1 10000
+__label__贴片电阻 , r156 0603 表贴 电阻 100k 1% 0603r 1 5
+__label__贴片电阻 , r30 r90 0603 表贴 电阻 510r 1% 0603r 2 10
+__label__贴片电阻 , 1 410 2001010159 电阻 smd rt0603dre07499r 0603 499r 0.5% 1 10w r125 r138 r142 r153 r164 r176 r187 r257 r293 9 20 0.3 b 180
+__label__贴片电阻 , 1 450 2001010072 电阻 smd rs 03k472jt 0603 4.7 k 5% 1 10w r163 r194 r676 r700 r847 r859 r882 r883 r884 r885 r886 r887 r888 r889 r890 r891 r892 r893 r912 r915 r921 r1010 r1019 r1027 r1030 r1038 26 20 0.3 b 520
+__label__贴片电阻 , 1 500 2001010135 电阻 smd rc0603fr 078k45 0603 8.45 k 1% 1 10w r913 r916 2 20 0.3 b 40
+__label__贴片电阻 , 13 r25 r65 r68 r131 r134 r197 r200 r263 330k thick film 25w 1% smd 1206 3216 matric 80 1232
+__label__贴片电阻 , 20 r6 r7 r48 r49 r84 r85 r114 r115 r150 r151 r180 r181 r216 r217 r246 r247 1k thick film 25w 1% smd 1206 3216 matric 160 2444
+__label__贴片电阻 , 15 电阻 碳膜 电阻 100 ohm 5% 0603 表贴 5000
+__label__贴片电阻 , 19 电阻 碳膜 电阻 330 ohm 5% 1 10w 0603 表贴 5000
+__label__贴片电阻 , 1 12k r10 0603 resistor 0.1 w 1% 0603 smd 0603waf1202t5e uni royal 20.0
+__label__贴片电阻 , 9000.0 3.0 贴片 0603 5% 22r
+__label__贴片电阻 , 44 resistor 10k 1% r0402 35 r4 r10 r11 r16 r17 r18 r20 r26 r29 r32 r35 r36 r37 r39 r42 r43 r44 r45 r46 r50 r59 r60 r62 r65 r66 r84 r85 r86 r87 r98 r102 r104 r105 r106 r107 73500
+__label__贴片电阻 , 47 resistor 41.2 k 1% r0402 1 r7 2100
+__label__贴片电阻 , 55 resistor 0r 1% r0402 11 r23 r33 r34 r81 r82 r83 r88 r89 r90 r91 r108 23100
+__label__贴片电阻 , 65 resistor 47r 1% r0402 1 r69 2100
+__label__贴片电阻 , rc0603jr 072k2l 0603waj0222t5e 1000000 5
+__label__贴片电阻 , rc1206fr 071kl 200000 1
+__label__贴片电阻 , rc0805fr 072k2l rc0805jr 072k2l0805w8f2201t5e0805w8j0222t5e 400000 2
+__label__贴片电阻 , rc0603jr 07220kl 800000 4
+__label__贴片电阻 , rc0603jr 072k7l 0603waj0272t5e 200000 3
+__label__贴片电阻 , 6 11 0101 014 007 电阻 0402 smd 0402 1 16w 1k ± 5% lc 0402 r r14 r16 r33 r34 4 40000.0
+__label__贴片电阻 , 2 11 0101 014 032 电阻 0402 smd 0402 1 16w 220r ± 5% 0402 r r2 1 10000.0
 __label__贴片电阻 , 21 hiqco000000000301 resistor 932k ± 1% smd res 0402 15
-__label__贴片电阻 , 103 ± 5 ％ 电阻 r41 r56 r58 1206 30 3
-__label__贴片电阻 , 43 贴片 电阻 473 47k 0402 ± 5% 47k o402 7 140 14000 210000
-__label__贴片电阻 , 63 贴片 电阻 333 33k 0402 ± 5% 33k o402 5 100 10000 150000
-__label__贴片电阻 , 68 贴片 电阻 101 100 ω 0402 ± 5% 100r o402 2 40 4000 60000
-__label__贴片电阻 , 0603 片阻 6.8 k ω ± 5% r0603 1
-__label__贴片电阻 , 0r 0805 8.0 贴片 电阻 1% 4000.0
-__label__贴片电阻 , 470r 0805 18.0 贴片 电阻 1% 9000.0
-__label__贴片电阻 , 15 贴片 电阻 rc1206fr 072kl 2k 1% rc1206fr 072kl 1206 7200
-__label__贴片电阻 , 36 3 rd1 rd2 rd3 240r 1% r0402
-__label__贴片电阻 , 1% 30k r21 0603
-__label__贴片电阻 , 6.0 贴片 电阻 rr1608 0603 l122jtx 5% 1.2 k r49 r50 r53 r55 0603 sup 4.0 4000
-__label__贴片电阻 , 9.0 贴片 电阻 rr1608 0603 l104jtx 5% 100k r54 0603 sup 1.0 1000
-__label__贴片电阻 , 000250 r1 r2 r3 r4 r8 r9 r10 r11 r13 r14 r15 r16 r17 r18 r19 r20 r21 r22 r23 r24 r25 r26 r27 r28 r29 r33 r34 r55 贴片 电阻 10k res sm thik 0603 1 10w 5% 10k ohm 28 rsmr 00s05 0103 31360
-__label__贴片电阻 , 4 r5 1.0 resistor 22k 1% res 22k ohm 1% 1206 1206 uniroyal 1206w4f2202t5e
-__label__贴片电阻 , 13 r26 r28 r29 r30 r31 5.0 resistor 680r 5% res 680 ohm 5% 1206 1206 uniroyal 1206w4j0681t5e
+__label__贴片电阻 , 221 ± 5 ％ 电阻 r55 r57 r67 r68 r69 r70 1206 60 6
+__label__贴片电阻 , 46 贴片 电阻 191 190 ω 0402 ± 1% 191r 1% 192r o402 1 20 2000 30000
+__label__贴片电阻 , 48 贴片 电阻 204 200k 0402 ± 1% 200k 1% o402 2 40 4000 60000
+__label__贴片电阻 , 50 c2811010009 贴片 电阻 220 22 ω 0402 ± 5% 22r o402 2 40 4000 60000
+__label__贴片电阻 , 57 贴片 电阻 510 51 ω 0402 ± 5% 51r o402 4 80 8000 120000
+__label__贴片电阻 , 76 贴片 电阻 121 120 ω 0402 ± 5% 120r o402 1 20 2000 30000
+__label__贴片电阻 , 92 贴片 电阻 471 470 ω 0402 ± 5% 470r o402 1 20 2000 30000
+__label__贴片电阻 , 0402 片阻 43k ω ± 5% r0402 1
+__label__贴片电阻 , 0603 片阻 1.69 k ω ± 1% r0603 1
+__label__贴片电阻 , 1210 片阻 0.22 ω ± 5% r1210 1
+__label__贴片电阻 , 10k 0805 124.0 贴片 电阻 1% 62000.0
+__label__贴片电阻 , 33k 0805 7.0 贴片 电阻 1% 3500.0
+__label__贴片电阻 , 3 0101 00995 贴片 电阻 rc0402jr 07430rl smd 430 ω 1 16w j 0402 rc0402jr 07430rl 4220
+__label__贴片电阻 , 1 贴片 电阻 rc1206fr 0712kl 12k 1% rc1206fr 0712kl 1206 1800
+__label__贴片电阻 , 14 贴片 电阻 rc1206fr 0724rl 24 1% rc1206fr 0724rl 1206 2100
+__label__贴片电阻 , 37 1 rd4 100r r0402
+__label__贴片电阻 , 6.0 贴片 电阻 5% 3.3 k rr1608 0603 l332jtx r2 0603 sup 1.0 1000
+__label__贴片电阻 , 8.0 贴片 电阻 5% 12k rr1608 0603 l123jtx r14 0603 sup 1.0 1000
+__label__贴片电阻 , 5% 4.7 k r7 0603
+__label__贴片电阻 , 4.0 贴片 电阻 rr1608 0603 l101jtx 5% 100r r43 r44 r47 r48 0603 sup 4.0 4000
+__label__贴片电阻 , 10.0 贴片 电阻 rr1608 0603 l106jtx 5% 10m r33 0603 sup 1.0 1000
+__label__贴片电阻 , 000260 r5 贴片 电阻 4.7 k res sm thik 0603 1 10w 5% 4.7 k ohm 1 rsmr 00s05 0472 1120
 __label__贴片电阻 , 14 r34 r35 r36 3.0 resistor 100k 5% res 100k ohm 5% 1206 1206 uniroyal 1206w4j0104t5e
-__label__贴片电阻 , 16 6 r29 r114 r115 r120 r129 r133 0r r0402 200 贴片 电阻 r0402 0r 5% 0.0625 w 0402wgj0000tce uni royal 200 3 0.0038 0.76
-__label__贴片电阻 , 22 1 r62 240r 1% r0201 200 贴片 电阻 r0201 240r 1% 0.05 w 0201wmf1002tce uni royal 200 3 0.0047 0.94
-__label__贴片电阻 , r 0000jbz rc0603jr 070rl r54 r63 r223 r239 r241 42 0603 0 ω ± 5% 8400
-__label__贴片电阻 , r 0101faz rc0402fr 07100rl r6 r224 2 0402 100 ω ± 1% 400
-__label__贴片电阻 , r 0301jbz r216 1 0603 510 ω ± 5% 200
-__label__贴片电阻 , r 5112faz r13 r229 2 0402 51.1 k ω ± 1% 400
+__label__贴片电阻 , 31 1 r144 1.5 k r0201 200 贴片 电阻 r0201 1.5 k ω 1501 ± 1% 0201wmf1501tee uni royal 200 3 0.00795 1.59
+__label__贴片电阻 , r 0102jbz r61 r56 57 3 0603 1k ω ± 5% 600
+__label__贴片电阻 , r 0201jaz r220 r356 2 0402 200 ω ± 5% 400
+__label__贴片电阻 , r 0300jbz r213 r247 r256 r270 r284 r303 r317 r331 8 0603 30 ω ± 5% 1600
+__label__贴片电阻 , r52 1 0603 200 ω ± 1% 200
+__label__贴片电阻 , po20190026 贴片 电阻 0805 ± 100ppm ℃ 0 ω ± 1% 100v 1 8w 3800
+__label__贴片电阻 , po20190026 贴片 电阻 0805 ± 100ppm ℃ 3k ω ± 1% 100v 1 10w 5240
+__label__贴片电阻 , po20190026 贴片 电阻 0805 ± 25ppm ℃ 4.99 k ω ± 0.5% 100v 1 8w 920
+__label__贴片电阻 , po20190026 贴片 电阻 1206 ± 100ppm ℃ 51 ω ± 1% 100v 1 10w 1640
+__label__贴片电阻 , po20190026 贴片 电阻 2010 ± 100ppm ℃ 680 ω ± 5% 100v 1 2w 1640
 __label__贴片电阻 , 2001010128 电阻 100 rt0603dre0749k9
-__label__贴片电阻 , 2001010346 贴片 电阻 100 rs 03k3653ft
-__label__贴片电阻 , r2 10 ω 0805 0.1 w ± 5% 容差 resistor 10.0
-__label__贴片电阻 , r6 100k ω 1210 0.5 w ± 5% 容差 resistor 10.0
-__label__贴片电阻 , r13 750k ω 0805 0.1 w ± 1% 容差 resistor 10.0
-__label__贴片电阻 , r21 100k ω 1210 0.5 w ± 5% 容差 resistor 10.0
+__label__贴片电阻 , 2001010348 贴片 电阻 100 wslp1206r0100fea
+__label__贴片电阻 , r16 10 ω 0805 0.1 w ± 5% 容差 resistor 10.0
 __label__贴片电阻 , r23 100k ω 1210 0.5 w ± 5% 容差 resistor 10.0
-__label__贴片电阻 , 0r 603 r0 1 30
-__label__贴片电阻 , 262 036w147260001 701591701301 电阻 smd 4.7 k ohm 5% 0402 rc0402jr 074k7l 85 8500 mbs 5330 lio 53303 76.0 9.0
-__label__贴片电阻 , 275 039w510004003 701502000707 电阻 smd 1k ohm 1% 0402 rc0402fr 071kl 66 6600 mbs 5330 lio 53303 65.0 1.0
-__label__贴片电阻 , 306 039w522604104 701502000516 电阻 smd 2.26 k ohm 1% 0603 rc0603fr 072k26l 1 100 mbs 5330 1.0
-__label__贴片电阻 , 311 039w524904103 701513501014 电阻 smd 249 ohm 1% 0603 rc0603fr 07249rl 2 200 mbs 5330 2.0
+__label__贴片电阻 , 11.0 贴片 电阻 300k 0805 r2 1.0 30.0
+__label__贴片电阻 , 12.0 贴片 电阻 330k 0805 r01 r02 r08 3.0 50.0
+__label__贴片电阻 , 2.0 贴片 电阻 36k axial0.4 rs1 rs2 2.0 20.0
+__label__贴片电阻 , 4.0 贴片 电阻 10k 805 r4 1.0 30.0 10k
+__label__贴片电阻 , 6.0 贴片 电阻 1k 805 rh4 1.0 30.0
+__label__贴片电阻 , 167 039w000112000 电阻 res 0.5 ohm 1% 1206 smd 1 2w cs06fteur500 2 200 lio 53303 2.0
+__label__贴片电阻 , 174 039w547501101 701502000532 电阻 smd 4.75 k ohm 0.1% 0603 wf06q4751btl 1 100 mbs 5330 1.0
+__label__贴片电阻 , 233 036w110260001 701561701021 电阻 smd 1k ohm 5% 0402 rc0402jr 071kl 40 4000 mbs 5330 40.0
+__label__贴片电阻 , 240 036w110660001 701591701123 电阻 smd 10m ohm 5% 0402 rc0402jr 0710ml 1 100 mbs 5330 1.0
+__label__贴片电阻 , 255 036w133060001 701591701129 电阻 smd 33 ohm 5% 0402 rc0402jr 0733rl 4 400 mbs 5330 4.0
+__label__贴片电阻 , 278 039w510004101 701502000502 电阻 smd 10k ohm 1% 0603 rc0603fr 0710kl 26 2600 mbs 5330 26.0
+__label__贴片电阻 , 281 039w510204102 701502000505 电阻 smd 1.02 k ohm 1% 0603 rc0603fr 071k02l 3 300 mbs 5330 3.0
+__label__贴片电阻 , 288 039w512004002 701502000709 电阻 smd 120 ohm 1% 0402 rc0402fr 07120rl 48 4800 mbs 5330 48.0
+__label__贴片电阻 , 292 039w515004001 701502000034 电阻 smd 1.5 k ohm 1% 0402 rc0402fr 071k5l 11 1100 mbs 5330 11.0
+__label__贴片电阻 , 300 039w518004002 701502000712 电阻 smd 1.8 k ohm 1% 0402 rc0402fr 071k8l 5 500 mbs 5330 5.0
+__label__贴片电阻 , 302 039w520004002 701502000714 电阻 smd 200 ohm 1% 0402 rc0402fr 07200rl 14 1400 mbs 5330 14.0
+__label__贴片电阻 , 315 039w527004103 701514527k10 电阻 smd 2.7 k ohm 1% 0603 rc0603fr 072k7l 1 100 mbs 5330 1.0
 __label__贴片电阻 , 317 039w527404106 701502000522 电阻 smd 27.4 k ohm 1% 0603 rc0603fr 0727k4l 2 200 mbs 5330 2.0
-__label__贴片电阻 , 319 039w530104001 701502000718 电阻 smd 301 ohm 1% 0402 rc0402fr 07301rl 2 200 mbs 5330 2.0
-__label__贴片电阻 , 320 039w530104003 701502000719 电阻 smd 30.1 k ohm 1% 0402 rc0402fr 0730k1l 1 100 mbs 5330 1.0
-__label__贴片电阻 , 329 039w537404101 701502000528 电阻 smd 37.4 k ohm 1% 0603 rc0603fr 0737k4l 1 100 mbs 5330 1.0
-__label__贴片电阻 , 338 039w547004001 701502000726 电阻 smd 47k ohm 1% 0402 rc0402fr 0747kl 5 500 mbs 5330 5.0
-__label__贴片电阻 , 347 039w556004104 701591701035 电阻 smd 5.6 k ohm 1% 0603 rc0603fr 075k6l 1 100 mbs 5330 1.0
+__label__贴片电阻 , 318 039w530004001 701502000717 电阻 smd 30 ohm 1% 0402 rc0402fr 0730rl 2 200 mbs 5330 lio 53303 1.0 1.0
+__label__贴片电阻 , 327 039w534004102 701502000526 电阻 smd 3.4 k ohm 1% 0603 rc0603fr 073k4l 3 300 mbs 5330 3.0
+__label__贴片电阻 , 330 039w539204001 701502000723 电阻 smd 3.92 k ohm 1% 0402 rc0402fr 073k92l 2 200 mbs 5330 2.0
+__label__贴片电阻 , 333 039w540204001 701502000093 电阻 smd 4.02 k ohm 1% 0402 rc0402fr 074k02l 11 1100 mbs 5330 11.0
+__label__贴片电阻 , 334 039w540204002 701502000724 电阻 smd 40.2 k ohm 1% 0402 rc0402fr 0740k2l 2 200 mbs 5330 lio 53303 1.0 1.0
+__label__贴片电阻 , 345 039w549904104 701502000533 电阻 smd 49.9 k ohm 1% 0603 rc0603fr 0749k9l 3 300 mbs 5330 3.0
+__label__贴片电阻 , 350 039w560404001 701502000728 电阻 smd 60.4 ohm 1% 0402 rc0402fr 0760r4l 2 200 mbs 5330 2.0
 __label__贴片电阻 , 358 039w569804001 701502000731 电阻 smd 6.98 k ohm 1% 0402 rc0402fr 076k98l 1 100 mbs 5330 1.0
-__label__贴片电阻 , 365 039w582004101 701591701037 电阻 smd 8.2 k ohm 1% 0603 rc0603fr 078k2l 1 100 mbs 5330 1.0
-__label__贴片电阻 , 4.7 k resistor 3d res 0805 r12 r19 r20 r21 r22 r51 r52 r53 r54 r83 r84 r85 r86 r115 r116 r117 r118 r147 r148 r149 r150 r222 r223 r224 r226 r228 r229 r230 r232 r235 r236 r237 r238 r240 r241 r243 r244 r274 r277 r278 r279 r286 r289 r290 r291 r317 r319 r320 r324 r376 r381 r396 r398 r400 r401 r403 r404 r405 r406 r407 r409 2.0 21500.0
-__label__贴片电阻 , 10k resistor 3d res 0805 r10 r14 r15 r16 r18 r23 r24 r25 r26 r27 r28 r29 r46 r47 r48 r50 r55 r56 r57 r58 r59 r60 r61 r78 r79 r80 r82 r87 r88 r89 r90 r91 r92 r93 r110 r111 r112 r114 r119 r120 r121 r122 r123 r124 r125 r142 r143 r144 r146 r151 r152 r153 r154 r155 r156 r157 r173 r211 r219 r225 r231 r239 r242 r247 r248 r249 r250 r251 r256 r261 r267 r293 r294 r295 r296 r297 r298 r299 r312 r313 r314 r332 r344 r345 r360 r361 r362 r363 r364 r365 r366 r367 r410 r411 r412 r413 r414 r415 r416 r417 r426 r427 r428 r429 r430 r431 2.0 37500.0
-__label__贴片电阻 , 11k resistor 3d res 0805 r321 2.0 500.0
-__label__贴片电阻 , 13.3 k resistor 3d res 0805 r386 2.0 500.0
-__label__贴片电阻 , 33k resistor 3d res 0805 r322 2.0 500.0
-__label__贴片电阻 , wi res 0060 r8 2.2 k 1 10w 1 res smd 2.2 k ohm 5% 1 10w 0603 ac0603jr 072k2l yag3657ct nd 0603 780
+__label__贴片电阻 , 360 039w569804103 701502000542 电阻 smd 6.98 k ohm 1% 0603 rc0603fr 076k98l 1 100 mbs 5330 1.0
+__label__贴片电阻 , 368 039w597604102 701502000545 电阻 smd 9.76 k ohm 1% 0603 rc0603fr 079k76l 1 100 mbs 5330 1.0
+__label__贴片电阻 , 375 036w120260101 电阻 smd 2k ohm 5% 0603 rc0603jr 072kl 2 200 lio 53303 2.0
+__label__贴片电阻 , 377 039w561904001 电阻 green smd 6.19 k ohm 1% 0402 rc0402fr 076k19l 1 100 lio 53303 1.0
+__label__贴片电阻 , wi res 0028 r3 68k 1 4w 1 res smd 68k ohm 1% 1 4w 1206 rc1206fr 0768kl 311 68.0 kfrct nd 1206 780
 __label__贴片电阻 , wi res 0073 r9 r11 200k 1 8w 2 res smd 200k ohm 5% 1 8w 0805 rc0805jr 07200kl 311 200kardkr nd 0805 1560
-__label__贴片电阻 , wi res 0084 r22 r24 r73 r74 r75 r76 r77 560 1 10w 7 res smd 560 ohm 5% 1 10w 0402 erj 2gej561x p560jdkr nd 0402 5460
-__label__贴片电阻 , wi res 0066 r88 4.7 k 1 res smd 4.7 k ohm 5% 1 10w 0603 erj 3geyj472v p4.7 kgdkr nd 0603 780
-__label__贴片电阻 , 44 05004 00516 贴片 电阻 resistor thick film 100 1% 1 16w eia 0603 17 r1 r2 r3 r4 r31 r65 r86 r87 r89 r90 r91 r92 r93 r98 r99 r100 r101 400
-__label__贴片电阻 , 54 05004 00518 贴片 电阻 resistor thick film 100 k 1% 1 16w eia 0603 14 r9 r63 r66 r181 r182 r186 r187 r188 r189 r190 r192 r193 r194 r195 320
-__label__贴片电阻 , 47 电阻 23.7 k 0603 5% r0603 ws030002 1 9200
+__label__贴片电阻 , wi res 0074 r10 r12 1m 2 res smd 1m ohm 5% 1 8w 0805 erj 6geyj105v p1.0 madkr nd 0805 1560
+__label__贴片电阻 , wi res 0112 r32 r34 r35 r36 r48 r50 r51 r52 220 1 2w 8 res smd 220 ohm 5% 1 2w 0805 erj p6wf2200v p16877dkr nd 0805 6240
+__label__贴片电阻 , wi res 0071 r62 r63 r64 r65 r69 r70 r71 r72 1k 1 10w 8 res smd 1k ohm 5% 1 10w 0402 erj 2gej102x p1.0 kjct nd 0402 6240
+__label__贴片电阻 , 49 电阻 250r 0805 1% r0805 ws030004 1 9200
 __label__贴片电阻 , 50 电阻 178k 0603 5% r0603 ws030005 1 9200
-__label__贴片电阻 , 61 电阻 470r 0603 5% r0603 ws030010 1 9200
-__label__贴片电阻 , 65 电阻 4.7 k 0603 5% r0603 ws030012 4 36800
-__label__贴片电阻 , 66 电阻 47k 0603 5% r0603 es010040 2 18400
+__label__贴片电阻 , 54 电阻 82k 0603 1% r0603 ws030049 1 9200
 __label__贴片电阻 , 67 电阻 22r 0603 5% r0603 ws030013 5 46000
-__label__贴片电阻 , 25 top 470r 0402 fh 0402 470r j 1 16w rc02w471jt r1 r28 r29 r41 r42 5 50
-__label__贴片电阻 , a44 r01 s000868 res smd 100 ohm 1% 1 10w 0603 erj 3ekf1000v 芯片 电阻 30
-__label__贴片电阻 , a44 r01 s005855 res smd 806 ohm 1% 1 10w 0603 erj 3ekf8060v 芯片 电阻 30
-__label__贴片电阻 , y13 r01 s005865 res smd 4.7 k ohm 1% 1 10w 0603 ac0603fr 074k7l 芯片 电阻 240
-__label__贴片电阻 , y13 r01 s005871 res smd 3k ohm 1% 1 8w 0805 ac0805fr 073kl 芯片 电阻 120
-__label__贴片电阻 , 0603 2.7 k 1% 2000.0
-__label__贴片电阻 , 26 0402 电阻 202 2k 1% 0402 1
+__label__贴片电阻 , 13 bot 270k 0402 fh 0402 270k f 1 16w 200ppm k rc02w274ft r2 r5 2 240
+__label__贴片电阻 , a44 r01 s005847 res smd 6.8 k ohm 1% 1 10w 0603 erj 3ekf6801v 芯片 电阻 30
 __label__贴片电阻 , 29 0402 电阻 4.7 k 1% 0402 1
-__label__贴片电阻 , 34 0402 电阻 20k 1% 0402 1
+__label__贴片电阻 , 33 0402 电阻 13k 1% 0402 1
 __label__贴片电阻 , 35 0402 电阻 22k 1% 0402 1
-__label__贴片电阻 , 66 0603 电阻 33k 1% 0603 1
-__label__贴片电阻 , 77 0805 电阻 680k 1% 0805 1
-__label__贴片电阻 , 92 1206 电阻 240k 1% 1206 1
-__label__贴片电阻 , 贴片 电阻 0402r s crcw0402562kfked 562k 562k ± 1% 1 16w 50v 1.0 100.0
-__label__贴片电阻 , 23 0402 电阻 1k 1% 0402 1
-__label__贴片电阻 , 63 0603 电阻 2.2 k 1% 0603 1
+__label__贴片电阻 , 42 0402 电阻 59k 1% 0402 1
+__label__贴片电阻 , 68 0603 电阻 220k 1% 0603 1
 __label__贴片电阻 , 76 0805 电阻 2.2 k 1% 0805 1
-__label__贴片电阻 , 贴片 电阻 4.87 k 0.5% 0603 1608 1 r49
-__label__贴片电阻 , 贴片 电阻 54.9 k 0.5% 0603 1608 1 r96
-__label__贴片电阻 , 22071 排阻 33r ± 5% r0402s4 30 3000
-__label__贴片电阻 , 22075 10k ± 1% r0402 38 3800
-__label__贴片电阻 , 22084 10r ± 1% r0402 6 600
-__label__贴片电阻 , 22085 0r ± 1% r0402 60 6000
-__label__贴片电阻 , 22087 0r ± 1% r1206 1 100
-__label__贴片电阻 , 贴片 电阻 rk73h1jttd22r0f 22r0 0603 0.1 w 22 ω ± 1% rc0603fr 0722rl 22 ω 1 ± 1% 1 10w sr0603 贴片 r6 2000
-__label__贴片电阻 , 贴片 电阻 0r 0603 1% 3010100001002 0603 6 r6 r8 r11 r16 r17 r23
-__label__贴片电阻 , 19.0 贴片 电阻 1242 0805
-__label__贴片电阻 , 4.7 k r17 r0805 1 5
-__label__贴片电阻 , 52 6p7901b0 r01 s005877 res smd 12 ohm 1% 3 4w 1210 crcw121012r0fkeahp 芯片 电阻 73
-__label__贴片电阻 , 13.0 贴片 电阻 1m 5% 0402 smd 1.0 r15 3000
-__label__贴片电阻 , 17.0 贴片 电阻 4.7 k 5% 0402 smd 3.0 r20 r21 r51 9000
-__label__贴片电阻 , 21.0 贴片 电阻 2.2 k 5% 0402 smd 1.0 r30 3000
-__label__贴片电阻 , 33.0 贴片 电阻 200r 5% 0603 smd 1.0 r48 3000
-__label__贴片电阻 , 36.0 贴片 电阻 220k 1% 0402 smd 2.0 r53 r73 6000
-__label__贴片电阻 , 38.0 贴片 电阻 nc 5% 0402 smd 0.0 r59 3000
+__label__贴片电阻 , 77 0805 电阻 680k 1% 0805 1
+__label__贴片电阻 , 87 1206 电阻 10r 1% 1206 1
+__label__贴片电阻 , 88 1206 电阻 1.5 k 1% 1206 1
+__label__贴片电阻 , 13 0402 电阻 0r 1% 0402 1
+__label__贴片电阻 , 24 0402 电阻 1.1 k 1% 0402 1
+__label__贴片电阻 , 28 0402 电阻 3.3 k 1% 0402 1
+__label__贴片电阻 , 29 0402 电阻 4.7 k 1% 0402 1
+__label__贴片电阻 , 49 0402 电阻 1m 1% 0402 1
+__label__贴片电阻 , 64 0603 电阻 3.9 k 0.1% 25ppm 0603 1000psc
+__label__贴片电阻 , 70 0603 电阻 2.2 m 1% 0603 1
+__label__贴片电阻 , 贴片 电阻 0.068 0.5% 2512 6432 1 r63
+__label__贴片电阻 , 贴片 电阻 6.8 0805 2012 4 r83 r84 r85 r86
+__label__贴片电阻 , 贴片 电阻 0 0603 1608 3 r5 r8 r13
+__label__贴片电阻 , 贴片 电阻 49.9 0603 1608 4 r50 r51 r52 r53
+__label__贴片电阻 , 贴片 电阻 100 0603 1608 2 r90 r91
+__label__贴片电阻 , 22055 24.9 k ± 1% sr0402 3 300
+__label__贴片电阻 , 22069 576k ± 5% sr0603 12 1200
+__label__贴片电阻 , 22079 200k ± 1% r0402 4 400
+__label__贴片电阻 , 22088 470r ± 1% r0402 2 200
+__label__贴片电阻 , 贴片 电阻 rk73z1jttd 000 0603 1a 0 ω rc0603jr 7w0rl 0 ω 3 ± 1% 1 10wr10 背光 电阻 sr0603 贴片 r1 r8 r13 6000
+__label__贴片电阻 , 0 ω 1 1a 0 ω sr0603 贴片 r9 2000
+__label__贴片电阻 , 13.0 贴片 电阻 2152 0603
+__label__贴片电阻 , 51k 0805 1% 1
+__label__贴片电阻 , 100k 0805 1% 1
+__label__贴片电阻 , 1m r1 r0805 1 5
+__label__贴片电阻 , 33 6p7901b0 r01 s005601 res smd 39 ohm 1% 1 10w 0603 erj s03f39r0v 芯片 电阻 29
+__label__贴片电阻 , 15.0 贴片 电阻 220r 5% 0603 smd 1.0 r6 3000
+__label__贴片电阻 , 20.0 贴片 电阻 100r 1% 0603 smd 2.0 r29 r44 6000
+__label__贴片电阻 , 32.0 贴片 电阻 22r 5% 0603 smd 1.0 r46 3000
+__label__贴片电阻 , 34.0 贴片 电阻 47r 5% 0402 smd 1.0 r49 3000
 __label__贴片电阻 , 200r r 0603 1608metric 1 era 3aeb201v 0.001 resistor us symbol 100
-__label__贴片电阻 , 8 p20301000009 r0603 rc0603fr 0722rl 22r 1% 贴片 电阻 1
-__label__贴片电阻 , 贴片类 2.4 k r0603 1 r184 8570
-__label__贴片电阻 , 贴片类 3.9 k r0603 2 r119 r120 17140
-__label__贴片电阻 , 贴片类 12k f r0402 1 r40 8570
+__label__贴片电阻 , 1 贴片 电阻 33k ω 3302 ± 1% rs 05k3302ft fh 0805 5000
+__label__贴片电阻 , 贴片类 33r r0603 8 r129 r130 r149 r150 r143 r144 r189 r190 68560
+__label__贴片电阻 , 贴片类 68r r0402 3 r178 r179 r180 25710
 __label__贴片电阻 , 贴片类 100k r0402 2 r6 r161 17140
-__label__贴片电阻 , 贴片类 1m r0603 4 r159 r160 r166 r170 34280
-__label__贴片电阻 , res smd 10k ohm 5% 1 4w 1206 rc1206jr 0710kl 芯片 电阻 815
-__label__贴片线绕电感 , 11 030055 电感 swpa4018s4r7mt 40
-__label__贴片高精密-低温漂电阻 , 电阻 4.99 k 0.1% 1 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
-__label__贴片高精密-低温漂电阻 , 电阻 1k ohm 0.1% 1 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
+__label__贴片电阻 , 贴片类 200k f r0402 1 r72 8570
+__label__贴片精密电阻 , 片状 抗 硫化 电阻器 rk73h1erttp1001d rms04dt1001 sf04h1001dtla rhc 02k1001dt 额定功率 1 16w 阻值 1k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+__label__贴片精密电阻 , 片状 抗 硫化 电阻器 rk73h1erttp3012d sf04t3012dtla rms04dt3012 rhc 02k3012dt 额定功率 1 16w 阻值 30.1 k ω 阻值 ± 0.5% 温度 系数 ± 100ppm ℃ 温度 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+__label__贴片精密电阻 , n1020103068 无铅 表贴 功率 采样 电阻 psr100ktqfh1l00 rohm 0.001 ω ± 1% 2512 3w 6.35 mmx3.05 mmx0.9 mm 55 170 ℃ ± 100ppm ° c rohm semiconductor 300
+__label__贴片线绕电感 , 2.0 2000.0 srn6045 150m srn6045 l12 l13 inductors srn6045 150m 15uh 1.9 a 98.5 mohm 6x6mm
+__label__贴片线绕电感 , 42 电感 srn6045 330m srn6045 ws040001 1 9200
+__label__贴片线绕电感 , 23 top 贴片 电感 5.6 nh 0402 5.6 nh 0402 电感 l2 l3 2 20
+__label__贴片高精密-低温漂电阻 , 12.0 10901045 电阻 5.1 k 1 4w 30000.0
+__label__贴片高精密-低温漂电阻 , 电阻 10k 0.1% 1 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
 __label__贴片高精密-低温漂电阻 , 电阻 0402 499r 0.1% 1 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
-__label__贴片高精密-低温漂电阻 , res 430 ohm 0.1% 1 10w 0402 tnpw0402430rbeed dale 2
-__label__贴片高精密-低温漂电阻 , res smd 50 ohm 0.1% 1 20w 0402 fc0402e50r0btbst1 dale thin film 8
-__label__贴片高精密-低温漂电阻 , 26 电阻 0603 5.6 k ω b ± 10ppm 4 40
-__label__超级电容 , 43 法拉 电容 c17 1f 5.5 v f 20mm 1.0
-__label__超级电容器 , 1.0 1000.0 eec s0hd224hn rg 105x50 v c10 capacitor super cap eec rg0v224h cap 0.22 f 3.6 v
-__label__超级电容器 , 15 0108 00100 超级 电容 dx 5r5v224u cap 220mf 20% 80% 55 v t h elna dx 5r5v224u elna 1050
-__label__超级电容器 , cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
-__label__超级电容器 , 17.0 08090004 eecf5r5h104 1 50 超级 电容 b super capacitor 5.5 v 0.1 f 80% 20% 150 ω 14.5 15.5 5mm 85 ℃ 40 ℃
+__label__贴片高精密-低温漂电阻 , 26 电阻 0603 5.6 k ω b ± 10ppm 4 2000
 __label__超级电容器 , c1 1 283 2811 nd eaton bussmann kr 5r5c155 r cap 1.5 f 20% 80% 5.5 v t h 5000
-__label__超级电容器 , 法拉 电容 1.5 f 5.5 v 法拉 电容 ￠ 19 c 1 c1
-__label__通孔电阻器 , 9.0 10901027 电阻 1 盒 1000 16k 1 4w 30000.0
+__label__通孔电阻器 , 4.0 10901009 电阻 1 盒 1000 330 ω 1 4w 30000.0
+__label__通孔电阻器 , 5.0 10901016 电阻 1 盒 1000 2k 1 4w 30000.0
 __label__通孔电阻器 , 23.0 10904010 电阻 2k 2w 30000.0
-__label__金属膜电阻 , 15.359999999999994 直插 电阻 7.5 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 3 12 rss03j7501a640nh
-__label__金属膜电阻 , 15.389999999999993 直插 电阻 2.4 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 2 8 rss03j2401a640nh
-__label__金属薄膜电阻器 , 1m 1w 五色 环 金属膜 电阻 r20 插件 10 1
-__label__金属薄膜电阻器 , 42.0 直插 金属膜 电阻 mfr50s t 52 0r 1 2w ra1 ra2 rb1 rb2 rc1 rc2 axial 6.0 6000
-__label__金属薄膜电阻器 , 9 r18 r21 2.0 resistor 470r 1% res 470 ohm 1% 1 4w axial uniroyal mfr0w4f4700a50
+__label__金属氧化膜电阻 , 2 r2 1.0 resistor 47r 5% res 47 ohm 5% 5w axial chian chia elec cr l5w47 ω j
+__label__金属玻璃釉电阻 , 10m ri40 高压 玻璃 釉膜 电阻 r6 r13 插件 5 29mm 20 2
+__label__金属膜电阻 , 15.379999999999994 直插 电阻 3.3 k 3w 金属膜 5% 操作 电压 110dc 短接 220vdc 正常 3 12 rss03j3301a640nh
+__label__金属膜电阻 , 3w 27k r31 1 3 4.5 x17mm 金属膜 电阻
+__label__金属薄膜电阻器 , 插件 电阻 r49 1w 100r 1
+__label__金属薄膜电阻器 , 金属膜 电阻 200k 1w ± 1% 2000 0.06
+__label__金属薄膜电阻器 , 直插 功率 金属膜 电阻 470r 0.5 w ± 1% 直插 dip 5000 0.035
 __label__金属薄膜电阻器 , 15 r39 r40 2.0 resistor 10k 1% res 10k ohm 1% 1 4w axial uniroyal mfr0w4f1002a50
-__label__金属薄膜电阻器 , 3w 27k r31 1 3
 __label__金属薄膜电阻器 , mrs25000c1001frp00 120 resistor axial metal film 1k 0 6w 1% 0603
-__label__金属薄膜电阻器 , pr02000202701ja100 20 resistor axial metal film 2k7 2w 5% 1206
-__label__金属薄膜电阻器 , mrs25000c5101fct01 20 resistor axial metal film 5k1 0 6w 1% 28ssop
+__label__金属薄膜电阻器 , mrs25000c4704frp00 10 resistor axial metal film 4m7 0 6w 1% 8hsop
+__label__金属薄膜电阻器 , mrs25000c5491fct00 10 resistor axial metal film 5k49 0 6w 1% 28ssop
 __label__金属薄膜电阻器 , mrs25000c7501fct01 20 resistor axial metal film 7k5 0 6w 1% sot 363
-__label__金属薄膜电阻器 , mrs25000c1502fct00 30 resistor axial metal film 15k 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c1202fct00 20 resistor axial metal film 12k 0 6w 1% 64qfn
 __label__金属薄膜电阻器 , mrs25000c4701fct00 10 resistor axial metal film 4k7 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c4302fct00 10 resistor axial metal film 43k 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c5602fct00 30 resistor axial metal film 56k 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c1100fct00 10 resistor axial metal film 110r 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c1500fct00 20 resistor axial metal film 150r 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c2153fct00 10 resistor axial metal film 215k 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c4703fct00 10 resistor axial metal film 470k 0 6w 1%
-__label__金属薄膜电阻器 , mrs25000c6800fct00 10 resistor axial metal film 680r 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c3002fct00 10 resistor axial metal film 30k 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c3322fct00 10 resistor axial metal film 33k2 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c5102fct00 10 resistor axial metal film 51k 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c2700fct00 10 resistor axial metal film 270r 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c6803fct00 10 resistor axial metal film 680k 0 6w 1%
+__label__金属薄膜电阻器 , mrs25000c8203fct00 10 resistor axial metal film 820k 0 6w 1%
+__label__钽质电容器-固体SMD钽电容器 , 145 310008300 3 3500 cap 100 uf 10v 20% low esr tantalum tpsd107k016r0125
+__label__钽质电容器-固体SMD钽电容器 , 182.0 11001032 钽 电解电容 10 uf 35v 6032 100.0
 __label__钽质电容器-固体SMD钽电容器 , 209.0 11003050 贴片 钽电容 47 uf 25v 7243 233.0
+__label__钽质电容器-固体SMD钽电容器 , 226.0 11003083 贴片 钽电容 10 uf 35v 7343 0.0
 __label__钽质电容器-固体SMD钽电容器 , capacitor tantal d 220 uf 10v c26 tantal d 293d227x9010d2te3 1 15000
-__label__钽质电容器-固体SMD钽电容器 , 183.0 11001033 钽 电解电容 22 uf 25v 6032 30000.0
-__label__钽质电容器-固体SMD钽电容器 , 229.0 11003087 贴片 钽电容 10 uf 16v sma 30000.0
+__label__钽质电容器-固体SMD钽电容器 , 181.0 11001030 钽 电解电容 10 uf 16v 3216 30000.0
+__label__钽质电容器-固体SMD钽电容器 , 182.0 11001032 钽 电解电容 10 uf 35v 6032 30000.0
+__label__钽质电容器-固体SMD钽电容器 , 227.0 11003084 贴片 钽电容 470 uf 7343 30000.0
 __label__钽质电容器-固体SMD钽电容器 , 8 贴片 钽电容 2.2 uf 16v 10% 105 ° 1206 10000 c3
-__label__钽质电容器-固体SMD钽电容器 , 16.1 钽电容 25v 226k d 1 4
+__label__钽质电容器-固体SMD钽电容器 , 20 tajd476m025tnjv capasitor 47 uf toleranc 20% 2917 automotive 16weeks 10000 0.45 4500
+__label__钽质电容器-固体SMD钽电容器 , 钽质 电容器 固体 smd tajd336k020rnj 1
 __label__钽质电容器-固体SMD钽电容器 , 16.2 钽电容 16v 107k d 1 4
 __label__钽质电容器-固体SMD钽电容器 , 16.299999999999997 钽电容 25v 476k d 3 12 kemet
+__label__钽质电容器-固体SMD钽电容器 , 16.399999999999995 钽电容 16v 106k b 11 44
 __label__钽质电容器-固体SMD钽电容器 , 16.69999999999999 钽电容 35v 226k d 2 8 kemet
 __label__钽质电容器-固体SMD钽电容器 , 1 贴片 坦质 电容 ccap 330 uf ± 20% 6.3 v d2 sanyo 6tpc330ma smt sanyo 6tpc330ma 18 720
+__label__钽质电容器-固体SMD钽电容器 , 35 贴片 坦质 电容 ctcap b 2.2 uf ± 10% 16v tajr225k016rnj smt tajr225k016rnj 2 80
+__label__钽质电容器-固体SMD钽电容器 , 2002020012 钽电容 tan tpsc476k010r0350 6032 47 uf 10% 10v 5 20 0.03 b 100
 __label__钽质电容器-固体SMD钽电容器 , c5 钽电容 4.7 uf 16v 3216 a 1 5
 __label__钽质电容器-固体SMD钽电容器 , c70 钽电容 100 uf 107 ± 10% 6.3 v lc case b 3528 1 5
 __label__钽质电容器-固体SMD钽电容器 , c28 c29 钽电容 2.2 uf 16v 3216 a 2 30
 __label__钽质电容器-固体SMD钽电容器 , 2 100 uf 16v c23 c24 d 7343 tantilum 16v ± 10% smd d 7343 tajd107k016rnj 40.0
-__label__钽质电容器-固体SMD钽电容器 , t491b226k010atautotrjb226k010rrjtpsb226k010t0700tcqb226m006r0070f971a226mbaf970j226mba 3528 1210 英制 smd 3.5 mm 2.8 mm kemet ce5 ce6 贴片 钽电容 22 uf 10v low esr 3.5 mm 2.8 mm 2.0 8.0
+__label__钽质电容器-固体SMD钽电容器 , 120 034w000005000 701801007600 电容 330 uf 2.5 v ± 20% smd 11mr 2700ma h 1.9 mm etpe330mbjb 26 2600 mbs 5330 26.0
+__label__钽质电容器-固体SMD钽电容器 , 122 034w133793171 701801005203 电容 smd 330 uf 2v ± 20% b type tpe 2tpe330ma9rg 24 2400 mbs 5330 24.0
 __label__钽质电容器-固体SMD钽电容器 , 39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
-__label__钽质电容器-固体SMD钽电容器 , 39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
-__label__钽质电容器-固体SMD钽电容器 , 39 05004 00507 贴片 钽电容 22 uf 25v cap d 7343 2 c26 c91 44
-__label__钽质电容器-固体SMD钽电容器 , d 钽电容 22u 25v 20% e4 d 1.0 100.0 top
-__label__钽质电容器-固体SMD钽电容器 , b 钽电容 22u 10v 20% e1 e5 e6 e7 e8 e9 e10 e11 e12 e13 b 10.0 1000.0 top
-__label__钽质电容器-固体SMD钽电容器 , 10 uf 1% 钽电容 钽电容 c48 c49 case d 7343 2 10
-__label__钽质电容器-固体SMD钽电容器 , 0.1 uf 钽电容 钽电容 c63 case b 3528 1 5
-__label__钽质电容器-固体SMD钽电容器 , capc 102 3 091802 145901 贴片 钽电容 贴片 钽电容 3528 25v 10 uf tajb106k025rnj 3528 100
+__label__钽质电容器-固体SMD钽电容器 , tpse476k035t02 50v tantalum capacitors solid smd 35v 47 uf dry pack esr 250ohms aec q200 3d cap 7343 c30 c43 c56 c69 c82 c134 c146 c167 c171 c191 c194 c201 c204 c214 c219 2.0 700.0
+__label__钽质电容器-固体SMD钽电容器 , 11 贴片 钽电容 22 uf 16v c3528 b 2 c15 c16 2000 2000 0 2000 tajb226k016rnj 2000.0 贴片 钽电容 22 uf 16v c3528 b 2.0 c15 c16
+__label__钽质电容器-固体SMD钽电容器 , capc 102 3 091802 146001 贴片 钽电容 25v 4.7 uf tajb475k025rnj ctb3528 3528 30
 __label__钽质电容器-固体SMD钽电容器 , capc 102 3 贴片 钽电容 25v 47 uf ctb3528 3528 30
-__label__钽质电容器-固体SMD钽电容器 , 100 10 capacitor tantalum 100 uf 10v 1206 20% c3 c4 478 6251 1 nd tlnk107m010r2500 each
 __label__钽质电容器-固体SMD钽电容器 , 7 rfoa02 03 087 capacitor tant 22 uf 63 v 10% case a taja226k006r taja226k006r 2 230
-__label__钽质电容器-固体SMD钽电容器 , 60202000950 taje227k016rnj 钽电容 16v 220 uf ± 10% 7343 e 2pin smd 160
+__label__钽质电容器-固体SMD钽电容器 , 4 贴片 钽 电解电容 7343 16v 100 uf ± 10% d 7343 6 500 3000 c159 c171 c185 c187 c192 c194
+__label__钽质电容器-固体SMD钽电容器 , 12 钽电容 10 uf c1206 9 18
 __label__钽质电容器-固体SMD钽电容器 , 13 钽电容 47 uf c3528 5 10
-__label__钽质电容器-固体SMD钽电容器 , 14 钽电容 330 uf ca45 d 1 2
-__label__钽质电容器-固体SMD钽电容器 , 25 钽电容 t491a225k016at t491a225k016at 2.2 uf ± 10% 16v c225 kemet 400
-__label__钽质电容器-固体SMD钽电容器 , 1 钽电容 ca45b106kc ca45b106kc 10 uf ± 10% 16v 106c 莆田 华达 3350
-__label__钽质电容器-固体SMD钽电容器 , a44 c06 s000330 cap tant 47 uf 10% 6.3 v 1206 t491a476k006at kemet 钽电容 42
-__label__钽质电容器-固体SMD钽电容器 , a44 c06 s000331 钽质 电容器 固体 smd 10v olts 47 uf 20% esr 1500 1206 tljg476m010r1500 钽电容 11
-__label__钽质电容器-固体SMD钽电容器 , 63.0 铝 电容 100 uf 10v 80% 20% smd 1.0 c38 3000
-__label__钽质电容器-固体SMD钽电容器 , 64.0 铝 电容 220 uf 10v 80% 20% smd 3.0 c57 c62 c64 9000
-__label__钽质电容器-固体SMD钽电容器 , 4 p20302000027 b case tajb106k016rnj 10 uf 16v 10% 贴片 钽电容 1
-__label__钽质电容器-固体SMD钽电容器 , 15 钽电容 22 uf 20% 16v case b 11
-__label__钽质电容器-固体SMD钽电容器 , cap tant 470 uf 10% 10v 2917 293d477x9010e2te3 sprague 1
-__label__钽质电容器-固体SMD钽电容器 , 12 表贴 钽电容 22 uf 20v b 1.0 c59 电气 性能 最优 耐压 800
-__label__钽质电容器-固体SMD钽电容器 , 41 贴片 钽电容 6032 10 uf k 25v 5 2500
+__label__钽质电容器-固体SMD钽电容器 , a44 c06 s000329 cap tant 10 uf 20% 10v 1206 t491a106m010atauto kemet 钽电容 11
+__label__钽质电容器-固体SMD钽电容器 , 54 铝 电容 47u 16v 80% 20% smd 1 c110 3000
+__label__钽质电容器-固体SMD钽电容器 , 2 贴片 钽电容 taja106k010rnj 10 uf 10v 10% 55 ℃ 105 ℃ cd a 3216 64
+__label__钽质电容器-固体SMD钽电容器 , 9 表贴 钽电容 10 uf 16v a 7.0 c17 c91 c130 c154 c164 c194 c199 5600
+__label__钽质电容器-固体SMD钽电容器 , 11 表贴 钽电容 10 uf 25v b 1.0 c51 电气 性能 最优 耐压 800
+__label__钽质电容器-固体SMD钽电容器 , 23 表贴 钽电容 2.2 uf 10v a 1.0 c131 电气 性能 最优 耐压 800
+__label__钽质电容器-固体SMD钽电容器 , 33 表贴 钽电容 100 uf 50v d 1.0 c219 电气 性能 最优 耐压 800
+__label__钽质电容器-固体SMD钽电容器 , 40 贴片 钽电容 3216 10 uf k 16v 3 1500
+__label__钽质电容器-固体SMD钽电容器 , 钽 电解 电容器 钽电容 e 35v 226 k e 35v 226 k c50 c68 2 10
+__label__钽质电容器-固体SMD钽电容器 , 59 钽电容 tca1a106m8r rohm 50.0 0.0 smt 10 uf 10v 20%
 __label__钽质电容器-固体SMD钽电容器 , 60 钽电容 f931a106maa ninchion 50.0 0.0 smt 10 uf 10v 20%
-__label__钽质电容器-固体铅钽电容器 , tap105k035crw 20 capacitor t â ntalo 1 uf 35v 10% radial
-__label__铝电解电容器-带引线 , cca0018 capacitor eletrol í tico 1000 uf 25v c37 1 b41821a5108m000 ou b41827a5108m000 sim 5000.0
-__label__铝电解电容器-带引线 , 插件 铝 电解电容 16px470mefc8x11.5 极性 470 µ f 20% 16v 105 ° c 1000 8.00 mm 13.00 mm 3.50 mm 105 ° c 16px470mefc8x11.5 90
-__label__铝电解电容器-带引线 , 插件 铝 电解电容 25yxf220mefc8x11.5 极性 220 uf 20% 25v 105 ℃ 7000 8 13 3.5 25yxf220mefc8x11.5 180
+__label__钽质电容器-固体铅钽电容器 , 86 插件 钽电容 2.2 uf 2.5 v 2.5 5mm sip 2 1000 s1
 __label__铝电解电容器-带引线 , 插件 铝 电解电容 50px470mefc10x20 极性 470 uf 20% 50v 105 ℃ 2000 10 20 5.0 105 ℃ 50px470mefc10x20 178
-__label__铝电解电容器-带引线 , 插件 铝 电解电容 50yxj220m10x16 极性 220 µ f 20% 50v 105 ° c 10000 10.00 mm 17.50 mm 5.00 mm 105 ° c 50yxj220m10x16 354
-__label__铝电解电容器-带引线 , 180.0 11001010 电解电容 100vf 25v 直插 30000.0
+__label__铝电解电容器-带引线 , 插件 铝 电解电容 50yxf100mefc8x11.5 极性 100 uf 20% 50v 105 ° c 7000 8 13 3.5 105 ° c 50yxf100mefc8x11.5 90
+__label__铝电解电容器-带引线 , 184.0 11001034 电解电容 直插 13 20 470 μ f 63v 0.0
+__label__铝电解电容器-带引线 , 185.0 11001035 电解电容 直插 8 11 470 μ f 16v 0.0
+__label__铝电解电容器-带引线 , 插件 电容 c14 c19 c9 c118 c2 100 uf 25v 6 7mm 5
 __label__铝电解电容器-带引线 , 17 220 uf 25v 插件 电容 6.3 7.9 1 ec2 dip 3000
+__label__铝电解电容器-带引线 , 5 电解电容 ccap al 560 uf ± 20% 6.3 v 6.3 8mm ce25d63h80 nichicon fp 6r3re561m s8cg dip nichicon fp 6r3re561m s8cg 4 160
 __label__铝电解电容器-带引线 , 21.0 电解电容 cd 2200 uf 25v ± 20 ﹪ 13.5 17 13.5 17 插件 1 ec1 5000.0
-__label__铝电解电容器-带引线 , 22.0 cd 100 uf 25v ± 20 ﹪ 6 12 6 12 插件 5 ec2 ec6 25000.0
-__label__铝电解电容器-带引线 , 15 插件 10v 470 uf 1 电解电容 6 12
-__label__铝电解电容器-带引线 , 16 插件 16v 220 uf 1 电解电容 6 12
 __label__铝电解电容器-带引线 , 50v 470 uf cappr5 10x20 2.0 插件 电解电容 chang 1000.0
+__label__铝电解电容器-带引线 , 21 c3 c9 2.0 capacitor 100 uf 35v 20% cap alum 100 uf 20% 35v radial 6.3 11mm samyoung nxa 35v100 6.3 11
 __label__铝电解电容器-带引线 , 31 05004 00505 直插 电解电容 470 uf 35v 10 高频 阻抗 电解电容 1 c16 22
-__label__铝电解电容器-带引线 , wi cap 0047 c4 c11 18 uf 400v 2 cap alum 18 uf 20% 400v t h aishi ehs2gm180g16ot radial 1280
+__label__铝电解电容器-带引线 , 22 c4 1.0 capacitor 1000 uf 10v 20% cap alum 1000 uf 20% 10v radial 10 16mm samyoung 10000 samyoung 三莹 100 2 4working days 0.56298 56.3
+__label__铝电解电容器-带引线 , 70201000650 50yxf100mefc8x11.5 铝 电解电容 50v 100 uf ± 20% 8 11.5 105 ℃ 7000h 2pin dip 20
+__label__铝电解电容器-带引线 , 电解电容 直插 400v680 uf c42 c64 2 6
+__label__铝电解电容器-带引线 , 直插 35v220 uf c72 c77 c5 3 9
 __label__铝电解电容器-带引线 , 直插 50v 10 uf c21 1 3
-__label__铝电解电容器-带引线 , sh100m4r70a2f 0511 20 cap electr rad 4 7 uf 100v 5mm 20% 105 ° c
-__label__铝电解电容器-带引线 , b41252a6159m000 20 cap el 15000 uf 50v 35x52 20% 105 º snap
 __label__铝电解电容器-带引线 , capc 117 2 091802 147501 电解电容 cd263 100 uf 50v 50v 100 uf rb3 6 40
-__label__铝电解电容器-带引线 , 6 rfoa02 03 197 capacitor elect 330 uf 25v 20% rad d 10mm h 125 mm p 5mm rga331m1ebk 1012g lelon 1 110
-__label__铝电解电容器-带引线 , 直插 16v 1000 uf c45 c9 2 6 10.2 x17 rga105 °
-__label__铝电解电容器-带引线 , 18 插件 电容 470 uf 25v ￠ 8 1 c11 500
-__label__铝电解电容器-带引线 , 17 电解电容 100 uf 25v 6 11 3 4 16000
-__label__铝电解电容器-带引线 , 78 直插 铝 电解电容 10 uf 50v ce5x11 2p54d 10 uf 50v 900
-__label__铝电解电容器-带引线 , 19 直插 电解电容 25me220hc 220 uf e c 25v 10 12.5 mm 220 uf 25v sanyo 300
-__label__铝电解电容器-带引线 , cap2 capacitor c5 c13 rb2 5 cap2 2 50v 10 uf 直插 电解电容
-__label__铝电解电容器-带引线 , polarized capacitor radial c10 rb1 3 cap pol1 1 10 uf 50v 直插 电解电容
+__label__铝电解电容器-带引线 , capc 117 2 091802 147401 电解电容 10 uf 25v cd263 10 uf 25v rb1 2 5 11 rb1 2 330
+__label__铝电解电容器-带引线 , n1020501382 无铅 插装 铝电解 电容器 ekyb101ell471mk40s ncc 贵弥功 470 uf ± 20 ％ 100v ф d l 12.5 mm 40mm 6mm 55 105 ℃ 10000 极化 united chemi con 200
+__label__铝电解电容器-带引线 , 直插 35v220 uf c72 c77 c5 3 9 8.2 x12 rga105 °
+__label__铝电解电容器-带引线 , 直插 50v 47 uf c20 1 3 6.5 x12.5 40 105 °
+__label__铝电解电容器-带引线 , 直插 50v 10 uf c21 1 3 5x12 rga105 °
+__label__铝电解电容器-带引线 , 20 插件 电容 100 uf 16v ￠ 5 1 c23 500
+__label__铝电解电容器-带引线 , 5 插件 电解电容 8mm 15mm 10 uf 2 50v ± 10% 8mm 15mm 2 500 1000 c175 c176
+__label__铝电解电容器-带引线 , 16 电解电容 22 uf 25v 4 7 2 1 4000
+__label__铝电解电容器-带引线 , 18 电解电容 470 uf 25v 8 12 3 1 4000
+__label__铝电解电容器-带引线 , 4 电解电容 100 uf 50v 8 11 脚 5.0 mm 8 11 脚 5.0 mm 1000 c9 c10 插装
+__label__铝电解电容器-带引线 , 79 直插 铝 电解电容 470 uf 25v ce10x12 5p08d 470 uf 25v 300
 __label__铝电解电容器-带引线 , 28 vea 16v 470me55 r lelon smd capacitor 47 uf 16v 2 2000 0
-__label__铝电解电容器-带引线 , 9 p20302000032 cap 10x16mm 35yxj470m 10x16 470 uf 35v 20% 电解电容 600
+__label__铝电解电容器-带引线 , 13 直插 电解电容 22 uf 35v nichicon radial 5 10
 __label__铝电解电容器-带引线 , 22 electrolytic capacitors 100 uf 16v 5 11mm 105 ℃ low 3.5 mm short legs 10000
 __label__铝电解电容器-带引线 , 24 electrolytic capacitors 33 uf 50v 6.3 11mm 105 ℃ low esr short legs 3.5 mm 10000
-__label__铝电解电容器-带引线 , 25 electrolytic capacitors 3300 uf 35v 16 25mm 105 ℃ low esr short legs 3.5 mm 10000
+__label__铝电解电容器-带引线 , 26 electrolytic capacitors 680 uf 35v 10 20mm 105 ℃ low esr short legs 3.5 mm 10000
 __label__铝电解电容器-带引线 , 3.0 电解电容 100 uf 50v dip 50yxf100m8x11.5 5.0
-__label__铝电解电容器-带引线 , 1 电解电容 插 c1 100 uf 160v dip eeu ee2c101 1 20
-__label__铝电解电容器-带引线 , 7 电解电容 插 c10 220 uf 50v dip 50yxf220m10 16 1 20
-__label__铝电解电容器-带引线 , 高频 低阻 电解 gf 220 uf 10v m 105 ℃ 6.3 12 脚距 2.5 mm 1 0 c7 8 kt 50.0
-__label__铝电解电容器-带引线 , 电解 4.7 uf 50v m 105 ℃ 5 11 脚距 2.5 mm 1 0 c3 9 50.0
+__label__铝电解电容器-带引线 , 8 电解电容 c11 100 uf 50v dip 50yxf100m8x11.5 1 20
+__label__铝电解电容器-带引线 , 高频 低阻 电解 gf 220 uf 10v m 105 ℃ 6.3 11 tg0.19 345ma 脚距 2.5 mm 1 0 c7 8 50.0
 __label__铝电解电容器-带引线 , 26 电解电容 eca1hm101b 100 uf 50v 插装 1 1000
-__label__铝电解电容器-带引线 , 电解电容 电解电容 4.7 μ f 400v ± 20% chengx 耐温 105 ℃ 10 13mm 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 220 μ f 25v ± 20% chengx 耐温 105 ℃ 8 12mm ec d8.0 f3.5 d0.5 c25 c26 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 10 μ f 400v ± 20% chengx 耐温 105 ℃ 10 17mm ec d10.0 f5.0 d0.6 c3 c4 5.0 15000.0
+__label__铝电解电容器-带引线 , 电解电容 4.7 uf 50v 高频 黑体 金字 m 40 105 ℃ 5 11 3000 ec103 5 12 pin 距 2.0 mm 1.0 3000.0
+__label__铝电解电容器-带引线 , 电解电容 220 uf 25v 高频 黑体 金字 m 40 105 ℃ 8 12 3000 ec104 ec105 8 12 pin 距 3.5 mm 2.0 6000.0
+__label__铝电解电容器-带引线 , 电解电容 47 μ f 25v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 ec9 1.0 3000.0
 __label__铝电解电容器-带引线 , 电解电容 10 μ f 400v ± 20% chengx 耐温 105 ℃ 10 17mm ec d10.0 f5.0 d0.6 c16 c17
-__label__铝电解电容器-带引线 , 电解电容 47 μ f 25v ± 20% chengx 105 ℃ 5 11mm ec10 ec12 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 100 μ f 25v ± 20% chengx 105 ℃ 5 11mm ec3 1.0 3000.0
-__label__铝电解电容器-带引线 , 电解电容 470 μ f 25v ± 20% chengx 105 ℃ 8 14mm ec4 ec5 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 10 μ f 400v ± 20% chengx 105 ℃ 10 17mm ec1 ec2 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 220 uf 4 50v chengx ls m 105 ℃ 22 35 22 46 pin 距 10.0 mm ec6 ec7 2.0 6000.0
-__label__铝电解电容器-带引线 , 电解电容 100 μ f 16v ± 20% chengx 耐温 105 ℃ 5 11mm ec d5.0 f2.0 d0.5 c18 1.0 3000.0
-__label__铝电解电容器-带引线 , 58 直插 铝 电解电容 2200 uf 25v rb12.5 25 2 20
-__label__铝电解电容器-带引线 , 91 电解电容 rga102m1ebk1020p lelon 2.0 50.0 100.0 p hi 1000 uf 25v
+__label__铝电解电容器-带引线 , 电解电容 470 μ f 25v ± 20% chengx 耐温 105 ℃ 8 14mm ec d8.0 f3.5 d0.5 c19 c20
+__label__铝电解电容器-带引线 , c11 capacitor 1000 uf 35v ± 20% cap 1000 uf 35v ± 20% through hole p 5mm through hole p 5mm corporation 35px1000mefc10x20
+__label__铝质电解电容器-SMD , 贴片 铝 电解电容 25tzv100m6.3 x8 极性 100 µ f 20% 25v 105 ° c 2000 6.30 mm 8.00 mm 105 ° c 25tzv100m6.3 x8 180
+__label__铝质电解电容器-SMD , 铝 电解电容 10 uf 106 ± 20 % 16v smd10 3000
 __label__铝质电解电容器-SMD , 246.0 11003155 贴片 电解电容 470u 25v 20% 10x10 472.0
-__label__铝质电解电容器-SMD , 247.0 11003156 贴片 电解电容 47u 25v 20% 6x6 0.0
-__label__铝质电解电容器-SMD , 14 贴片 电解电容 10 uf 10v ± 20% 8x6.5 表贴 3 c43 c45 c47
-__label__铝质电解电容器-SMD , 4 贴片 电解电容 470 uf 10v ± 20% 8x11 表贴 1 c2
+__label__铝质电解电容器-SMD , 16 贴片 电解电容 100 uf 10v ± 20% 8x6.5 表贴 3 c59 c62 c63
+__label__铝质电解电容器-SMD , 3 贴片 电解电容 100 uf 35v ± 20% 8x10 表贴 1 c1
 __label__铝质电解电容器-SMD , 9 eee fc1v221p cap alum smd 35v 220 uf 20% d10 l10 50000 0.2 10000
 __label__铝质电解电容器-SMD , 22 mal215099601e3 capasitor 330 uf toleranc 20% h10 d10mm automotive 12weeks 10000 0.6 6000
-__label__铝质电解电容器-SMD , 33 铝 电解电容 ves101m1vtr 0607 100 uf 35v 6.3 7.7 105 度 lelon ves101m1vtr 0607 6377
 __label__铝质电解电容器-SMD , 15 6102 ft1v3900 贴片 铝 电解电容 贴片 铝 电解电容 eeeft1v391up 390 uf 35v 8 102 mm eeeft1v391up 160 quad
-__label__铝质电解电容器-SMD , c1 c3 c5 c8 c10 c13 贴片 铝 电解电容 220 uf 25v 8x7 ct8x8 6.0 180.0 8 7
+__label__铝质电解电容器-SMD , 11 铝 电解电容 ccap 270 uf ± 20% 8.0 6.9 e7 16svpf270m smt 16svpf270m 1 40
+__label__铝质电解电容器-SMD , c1 c14 c49 c59 c60 c61 c62 贴片 铝 电解电容 220 uf 50v 10% capcmd g 7 35
 __label__铝质电解电容器-SMD , c40 c105 贴片 铝 电解电容 100 uf 16v capcmd d 2 30
-__label__铝质电解电容器-SMD , c46 c74 c106 c120 c166 c194 c222 c250 贴片 铝 电解电容 220 uf 50v capcmd f 8 120
-__label__铝质电解电容器-SMD , 000020 c5 c6 贴片 电容 220 uf cap sm 220 uf eee fk1v221gp 2 elec comp 2240
-__label__铝质电解电容器-SMD , 000090 c73 贴片 电容 47 uf cap sm alum poly sm 47 uf 875105142001 1 wurth 1120
-__label__铝质电解电容器-SMD , po20190026 贴片 铝 电解电容 8mm 10mm 贴片 35v 100 uf 8x10 p9.2 105 ℃ 2000h 2 ω 20 ℃ 120hz 2910
-__label__铝质电解电容器-SMD , po20190026 贴片 铝 电解电容 8mm 10.5 mm 贴片 16v 470 uf 8mm 10.5 p8.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
-__label__铝质电解电容器-SMD , 121 034w000021000 701801007401 电容 270 uf 16v ± 20% 6.3 x9.9 smd esr 8mr 5800ma 16svpg270m 12 1200 mbs 5330 12.0
+__label__铝质电解电容器-SMD , 1 90 2002030017 电解电容 alu nichicon ucl1c471mcl6gs 10 7.7 470 uf 20% 16v c108 c208 2 20 b 40 dlk
+__label__铝质电解电容器-SMD , 43.0 铝 电解电容 rxw151m1cbk 0611 150 uf 16v ec1 6 11mm 1.0 1000
+__label__铝质电解电容器-SMD , 30 05035 00619 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
+__label__铝质电解电容器-SMD , 28 05035 01396 贴片 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 22
+__label__铝质电解电容器-SMD , 30 05035 00619 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
+__label__铝质电解电容器-SMD , wi cap 0053 c16 c24 2.2 uf 400v 2 cap alum 2.2 uf 20% 400v smd nichicon uux2g2r2mnl1gs 493 9987 1 nd aluminum 1280
+__label__铝质电解电容器-SMD , wi cap 0056 c17 10 uf 25v 1 cap alum 10 uf 20% 25v smd eee fk1e100r pce3795ct nd radial 650
 __label__铝质电解电容器-SMD , wi cap 0092 c36 220 uf 16v 1 cap alum 220 uf 20% 16v smd nichicon uwt1c221mcl1gs 493 2179 6 nd radial 650
 __label__铝质电解电容器-SMD , 28 05035 01396 贴片 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 22
-__label__铝质电解电容器-SMD , 13 10 capacitor cap 100 uf alum 50v 20% smd c7 493 2226 1 nd nichicon uwt1h101mnl1gs each
-__label__铝质电解电容器-SMD , 片式 高分子 铝 电解电容 eefhx1d560r 额定 电压 20v 容量 56 μ f 容 ± 20% 漏 电流 ≤ 336 μ a 2 分 20 ℃ 损耗 角 ≤ 0.1 120hz 20 ℃ 允许 纹波 电流 ≤ 3.2 arms 100khz 45 ℃ 阻抗 ≤ 40m ω 100khz 20 ℃ 温度 － 55 ℃ 125 ℃ 1000h 125 ℃ 7.3 4.3 1.9 300 90000
-__label__铝质电解电容器-SMD , 100 uf 16v cap alum 100 uf 20% 25v smd 25trv100m6.3 x8 wurth 865060343005 300 9920 7000 1000
-__label__铝质电解电容器-SMD , c1 c2 c3 c98 c99 c100 100 uf 100v al 10 uf 100v 铝电解 ± 20% 45 ℃ 105 ℃ smd 6.3 x7.7 mm 6 60
+__label__铝质电解电容器-SMD , 30 05035 00619 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
+__label__铝质电解电容器-SMD , 17 电容 100 uf 16v 贴片 电解电容 6.3 mm ± 20% lelon ec s 6 6x6 3x5 7 bn2 ws020015 1 9200 vej101m1ctr 0605
+__label__铝质电解电容器-SMD , 23 电容 1000u 10v 贴片 电解电容 10mm ± 20% lelon vej102m1atr 1010 ws020041 2 18400 vej102m1atr 1010
+__label__铝质电解电容器-SMD , c11 100 uf 25v cpol us153clv 0605 153clv 0605 polarized capacitor 20
 __label__铝质电解电容器-SMD , c51 c53 220 uf 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 2 2400 emzr250ada221mf80g
-__label__铝质电解电容器-SMD , 60201002480 eev fk1v152m 铝 电解电容 35v 1500 uf ± 20% 16 17mm 105 ℃ 5000h 2pin smd 20
-__label__铝质电解电容器-SMD , 60201002490 eee fk1v221p 铝 电解电容 35v 220 uf ± 20% 8 10.5 mm 105 ℃ 2000h 2pin smd 80
 __label__铝质电解电容器-SMD , 16 铝 电解电容 100 uf 35v 6 7.5 mm smd 2 2 c1 c2
-__label__铝质电解电容器-SMD , 18 铝 电解电容 22 uf 16v 3.8 5.3 mm smd 2 5 c9 c10 c11 c23 c24
-__label__铝质电解电容器-SMD , 1.0 1.0 c2 47u 50v mcvvt050m470ea6l cap al size d 300.0
-__label__铝质电解电容器-SMD , 1 20 c57 c74 eee ft1c102ap 667 eee ft1c102ap aluminum electrolytic capacitors smd 1000 uf 16v olts 10x10.2 mm smd 1000 uf 16v cap alum 10.3 x10.3
-__label__铝质电解电容器-SMD , 21001 10 uf 16v 贴片 铝 电解电容 capae530x550l 2 200 c542 c544
-__label__铝质电解电容器-SMD , c1 1 pce3921tr nd eee 1ha221p cap alum std esr 220 uf 20% 50v 10mm 5000
+__label__铝质电解电容器-SMD , 17 铝 电解电容 220 uf 35v 7.8 10.2 mm smd 2 3 c8 c3 c6
+__label__铝质电解电容器-SMD , vzt101m1vtr 0607 vzt101m1vtr 0607 c43 c57 cap6.3 7.7 3d 2 20
+__label__铝质电解电容器-SMD , 8 贴片 电解电容 10 uf 35v vej100m1vtr 0506 c44 c47 c54 3 30
+__label__铝质电解电容器-SMD , t520a107m006ate045 25.0 kemet molded tantalum capacitors 100 uf 6 3v 20% size code a 1206 3216 metric
+__label__铝质电解电容器-SMD , y13 c05 s000314 贴片 电解电容 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
 __label__铝质电解电容器-SMD , 贴片 铝 电解电容 5 6.5 eee ft1c680ar 68 uf 68 uf ± 20% 16v 2.0 20.0
+__label__铝质电解电容器-SMD , 贴片 钽电容 10 uf 16v 3216 10% 3024200006002 3216 3 c1 c6 c17
+__label__铝质电解电容器-SMD , 220 uf cp elec 8x10 1 pcr1v221mcl1gs polarized capacitor 100
+__label__铝质电解电容器-SMD , 贴片类 贴片 铝 电容 10 uf 50v 6.3 x5.5 mm 1 c135 8570
 __label__铝质电解电容器-SMD , 贴片类 贴片 铝 电容 470 uf 35v 10x10.5 mm 5 c83 c84 c86 c94 c99 42850
 __label__铝质电解电容器-SMD , 17 贴片 电解电容 ck1c101m cre54 100 uf 16v 20% 55 ℃ 105 ℃ cm d 6.3 7.7 11
-__label__铝质电解电容器-SMD , 4 贴片 电解电容 220 uf 35v bxj h10 21
+__label__铝质电解电容器-SMD , 26 贴片 电解电容 ck1h220m cre54 22 uf 50v 20% 55 ℃ 105 ℃ cm d 6.3 5.4 41
+__label__铝质电解电容器-SMD , 5 贴片 电解电容 220 uf 16v bxj f80 11
 __label__铝质电解电容器-SMD , cap alum 330 uf 20% 25v smd 8mm 10mm uwt1e331mnl1gs nichicon 贴片 铝 电解电容 798
-__label__铝质电解电容器-SMD , 56 贴片 电解 ve 221m1ctr 0607 lelon 50.0 0.0 smt 220 uf 16v
-__label__铝质电解电容器-SMD , 9 c2 1 e capacitor 22 uf ± 10% cap 22 uf ± 20% 35v automotive radial can smd eee 1va220sp 50000
-__label__陶瓷谐振器 , 40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c ztt 400 mg
-__label__陶瓷谐振器 , 73 贴片 晶振 cstce20m0v53c r0 y1 ceralock 1 20
-__label__高频电感 , 33 26058 sdcl1608c15njtdf 15nh l0603 70 100
+__label__铝质电解电容器-SMD , capacitor pth 10x10 5x10 2mm 470 uf 25v 20% eee 1ea471p 2 405
+__label__陶瓷谐振器 , 43 1777 0 43 ecs resonator thd resonators sip 3 cer res 4.0 mh dip 3pin ztt 4.00 mg 1.0 10000
+__label__陶瓷谐振器 , 62502000540 cstne16m0vh3c000r0 晶体 谐振器 16mhz 15pf 3.2 x1.3 x1.0 2pin smd 410
+__label__高频电感 , 3.32 贴片 yn5001082 贴片 电感 0805 1uh ± 5% fh 1.0 l1 30000.0 0.0 0.26 0.26
+__label__高频电感 , 电感 11 sdcl1005c2n0stdf sunlord hf inductors 2nh â ± 0.3 nh 300ma 0402 1 200000
+__label__高频电感 , 242 电感 inducrot 2.2 uh 600ma 0805 mlp2012s2r2tt smt mlp2012s2r2tt 2 80
 __label__高频电感 , 111 053w222203211 703110001312 电感 inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100 mbs 5330 1.0
+__label__高频电感 , 44 电感 27nh 320ma 0603 sdwl1608c27njstf sunlord fb0603 ws040006 1 9200 sdwl1608c27njstf
 __label__高频电感 , 高频 贴片 电感 高频 贴片 电感 2.2 nh ± 0.2 nh 290ma 0.25 ω 13 24 40 10ghz 0201 0.25 mm sdcl0603q2n2ct02b01 sunlord 4 4000 c3269 c3274 c3414 l3221
 __label__高频电感 , 高频 贴片 电感 高频 贴片 电感 3.6 nh ± 0.2 nh 240ma 0.38 ω 13 23 35 7.7 ghz 0201 0.35 mm sdcl0603q3n6ct02b01 sunlord 2 2000 c3234 l3413
 __label__高频电感 , 高频 贴片 电感 高频 贴片 电感 4.3 nh ± 0.3 nh 300ma 0.2 ω 8 28 47 4ghz 0201 0.65 mm sdcl0603q4n3st02b01 sunlord 1 1000 l3216
-__label__高频电感 , 高频 贴片 电感 高频 贴片 电感 9.1 nh ± 5% 170ma 0.72 ω 13 20 31 4.1 ghz 0201 0.35 mm sdcl0603q9n1jt02b01 sunlord 2 2000 r3214 r3816
-__label__高频电感 , 高频 贴片 电感 高频 贴片 电感 18nh ± 5% 140ma 1 ω 13 19 24 2.3 ghz 0201 0.35 mm sdcl0603q18njt02b01 sunlord 1 1000 l3336
+__label__高频电感 , 高频 贴片 电感 高频 贴片 电感 6.8 nh ± 5% 200ma 0.5 ω 13 22 33 5.5 ghz 0201 0.35 mm sdcl0603q6n8jt02b01 sunlord 5 5000 c3209 c3259 l1321 l3407 l3806
+__label__高频电感 , 高频 贴片 电感 高频 贴片 电感 10nh ± 5% 160ma 0.8 ω 13 20 29 3.8 ghz 0.3 mm sdcl0603q10njt02b01 sunlord 4 4000 l3332 l3405 l3408 l5003
 __label__高频电感 , 高频 贴片 电感 高频 贴片 电感 27nh ± 5% 120ma 1.6 ω 15 19 13 1.8 ghz 0201 3.5 mm sdcl0603q27njt02b01 sunlord 1 1000 l5012
-__label__高频电感 , 33 rfoa02 08 002 inductor 2.2 uh 10% 100ma 0805 scw2012f2r2kst sunltech tech 1 150
+__label__高频电感 , lqp03tn1n1b02d fixed inductor 1.1 nh ± 0.1 nh 750ma 15000
