@@ -1,1 +1,13 @@
+r88 r110 mor 2w 10 5% dip 2 abco
+res 0.12 ohm 1 4 5% axial stackpole rsmf12jtr120 1 600
+直插 电阻 1 r12 1 47k axial0.8 2w
+金属 氧化 膜 电阻 50r 3w 插件 r1 r5 1000
+金属 氧化 膜 电阻 300k 3w 插件 r2 r3 1000
+resistor res smt ruthenium oxide 49.9 k ohms 50wv 1% tol 100 100ppm tc 0603 case ta i 3 each 0603 49.9 k 1% 5k 0.0025 8 10weeks
+resistor res ruthenium oxide 10kohms 50wv 1 % tol 100 100ppm tc 0402 case ta i 3 each 0402 10k 1% 10k 0.0018 8 10weeks
+15 保险丝 电阻 1r 1 2w ± 1% 金属 氧化 膜 电阻 1 fr1 200000
+88 3 插件 电阻 插件 金属 氧化 膜 电阻 430r ± 5% 1w 155 ℃ 1 r47 r48 r49 200
 2 r2 1.0 resistor 47r 5% res 47 ohm 5% 5w axial chian chia elec cr l5w47 ω j
+金属 氧化 膜 电阻 2w 2k ω 脚距 80mm ± 5% 3 90102 1500
+金属 氧化 膜 电阻 3w 100k ω 脚距 80mm ± 5% 1 90103 500
+金属 氧化 膜 电阻 5w 68k ω 脚距 80mm ± 5% 1 90104 500

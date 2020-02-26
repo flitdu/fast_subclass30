@@ -1,39 +1,90 @@
+31 c0602040 inductor 33nh 200ma lqg15hs33nj02d 0402 smd 1 l7 lqg15hn33ng02 l0402 5.0
+l9 2.2 uh fixed ind 2.2 uh 750ma 375 mohm lqm18pn2r2mfrl digi key 490 10764 1 nd smd 0603 l0603 yes 40 ° c 85 ° c
+l10 3.3 nh fixed ind 3.3 nh 500ma 170 mohm lqp03hq3n3c02d digi key 490 13922 1 nd smd 0201 l0201 yes 55 ° c 125 ° c
+电感 39nh ± 5% 0402l 高频 l 5
+smd 高频 电感 10nh film type rf ind 10nh ± 0.1 nh 0402 l0402 lqg15hs10nj02 l300 l301 2.0 10
+smd 高频 电感 2.7 nh film type rf ind 2.7 nh ± 0.1 nh 0402 l0402 lqg15hs2n7s02 l302 l307 2.0 10
+smd 高频 电感 2nh film type rf ind 2nh ± 0.1 nh 0402 l0402 lqg15hs2n0s02 l303 l305 l306 3.0 15
+smd 高频 电感 1.2 nh film type rf ind 1.2 nh ± 0.1 nh 0402 l0402 lqg15hs1n2s02 l304 1.0 5
+5.0 lqp15mn5n1b02 fixed ind 5.1 nh 140ma 700 mohm 10500.0 lqp15mn5n1b02 9500 10000.0 0.091 lc
+lqg15hs10nj02d inducteurs fixes 10nh 5% hi freq 2 60 240 200000 lqg15hs10nj02d 0.03 0.03 0.022 10000.0 22 24wks moq 100 lc lc
+62 1 l12 ind0402 10nh 高频 电感 smd0402 10nh
+63 1 l15 ind0402 6 nh 高频 叠层 电感 smd0402 6 nh
+64 1 l4 ind0805 3 nh 5% 高频 电感 l0805 3 nh
+65 1 l8 ind0805 5.6 nh 5% 高频 电感 l0805 5.6 nh
+66 1 l9 ind0805 5.6 nh 5% 高频 电感 l0805 5.6 nh
+67 1 l3 ind1008 33nh 5% 高频 电感 l1008 33nh
 7 inductor 3.3 nh ± 0.3 nh 0201 sunlord sdcl0603q3n3st02b01 6000
-3.32 贴片 yn5001082 贴片 电感 0805 1uh ± 5% fh 1.0 l1 30000.0 0.0 0.26 0.26
-1 300 l7 高频 贴片 电感 10nh ± 5% 0402 高频 贴片 电感 10nh ± 5%
-1 300 l8 高频 贴片 电感 8.2 nh ± 5% 0603 高频 贴片 电感 8.2 nh ± 5%
-1 300 l9 高频 贴片 电感 8.2 nh ± 5% 0402 高频 贴片 电感 8.2 nh ± 5%
+1 300 l7 高频 电感 10nh ± 5% 0402 高频 电感 10nh ± 5%
+1 300 l8 高频 电感 8.2 nh ± 5% 0603 高频 电感 8.2 nh ± 5%
+1 300 l9 高频 电感 8.2 nh ± 5% 0402 高频 电感 8.2 nh ± 5%
+sxfc30000212 4iz inductive high frequency inductor lqw18an5n6c00d 5.6 nh 0.2 nh idc 750ma dcr 0.082 ohm smd 1.6 x0.8 x0.8 lqw18an5n6c00d 1 500 2000
+电感 0402 10nh ± 2% high frequency lqp15mn10ng02d 0402 1 l1 490 6743 2 nd search co jp ceramy image img p02 jelf243c 0007 pdf 7
+电感 0402 4.7 nh ± 0.1 nh high frequency lqp15mn4n7b02d 0402 1 l2 490 1132 2 nd 7
+电感 0402 3.3 nh ± 0.1 nh high frequency lqp15mn3n3b02d 0402 1 l3 490 1130 2 nd 7
+电感 0402 1.8 nh ± 0.1 nh high frequency d lqp15mn1n8b02 0402 l4 490 1127 2 nd 0
+fastron 0603as r56j 01 603.0 560n 5% 0603 1 150mhz 0.15 a of stock 150
 电感 11 sdcl1005c2n0stdf sunlord hf inductors 2nh â ± 0.3 nh 300ma 0402 1 200000
 242 电感 inducrot 2.2 uh 600ma 0805 mlp2012s2r2tt smt mlp2012s2r2tt 2 80
 33 26058 sdcl1608c15njtdf 15nh l0603 70 100
 111 053w222203211 703110001312 电感 inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100 mbs 5330 1.0
 44 电感 27nh 320ma 0603 sdwl1608c27njstf sunlord fb0603 ws040006 1 9200 sdwl1608c27njstf
-高频 贴片 电感 高频 贴片 电感 1nh ± 0.1 nh 520ma 0.08 ω 13 32 57 9.76 ghz 0201 0.3 mm sdcl0603q1n0bt02b01 sunlord 8 8000 c3286 c3409 l1 l736 l3207 l3210 l3418 c802
-高频 贴片 电感 高频 贴片 电感 1.2 nh ± 0.2 nh 420ma 0.12 ω 13 25 44 1 ghz 0201 0.35 mm sdcl0603q1n2ct02b01 sunlord 1 1000 c3415
-高频 贴片 电感 高频 贴片 电感 1.5 nh ± 0.2 nh 420 ma 0.12 ω 13 41 24 10 ghz 0201 0.35 mm sdcl0603q1n5ct02b01 sunlord 4 4000 c3406 c3410 l2 l3316
-高频 贴片 电感 高频 贴片 电感 1.8 nh ± 0.2 nh 380ma 0.15 ω 13 24 41 10ghz 0201 0.35 mm sdcl0603q1n8ct02b01 sunlord 3 3000 l3315 l3424 r5014
-高频 贴片 电感 高频 贴片 电感 2nh ± 0.2 nh 300ma 0.23 ω 13 24 39 10ghz 0201 0.35 mm sdcl0603q2n0ct02b01 sunlord 1 1000 l3321
-高频 贴片 电感 高频 贴片 电感 2.2 nh ± 0.2 nh 290ma 0.25 ω 13 24 40 10ghz 0201 0.25 mm sdcl0603q2n2ct02b01 sunlord 4 4000 c3269 c3274 c3414 l3221
-高频 贴片 电感 高频 贴片 电感 2.4 nh ± 0.2 nh 310ma 0.22 ω 13 23 38 10ghz 0201 0.35 mm sdcl0603q2n4ct02b01 sunlord 5 5000 l503 l3242 l3244 l3301 l3416
-高频 贴片 电感 高频 贴片 电感 2.7 nh ± 0.2 nh 310ma 0.22 ω 13 22 35 9.2 ghz 0201 0.35 mm sdcl0603q2n7ct02b01 sunlord 1 1000 c3362
-高频 贴片 电感 高频 贴片 电感 3nh ± 0.2 nh 280ma 0.26 ω 13 22 35 8.6 ghz 0201 0.35 mm sdcl0603q3n0ct02b01 sunlord 2 2000 l3311 l3406
-高频 贴片 电感 高频 贴片 电感 3.3 nh ± 0.2 nh 270ma 0.3 ω 8.1 g 0201 0.3 mm 13 23 36 sdcl0603q3n3ct02b01 sunlord 7 7000 c3276 l710 l3304 l3346 l3410 l3419 r3230
-高频 贴片 电感 高频 贴片 电感 3.6 nh ± 0.2 nh 240ma 0.38 ω 13 23 35 7.7 ghz 0201 0.35 mm sdcl0603q3n6ct02b01 sunlord 2 2000 c3234 l3413
-高频 贴片 电感 高频 贴片 电感 4.3 nh ± 0.3 nh 300ma 0.2 ω 8 28 47 4ghz 0201 0.65 mm sdcl0603q4n3st02b01 sunlord 1 1000 l3216
-高频 贴片 电感 高频 贴片 电感 5.1 nh ± 0.3 nh 210ma 0.46 ω 5.9 g 0201 0.3 mm 17 22 36 sdcl0603q5n1st02b01 sunlord 3 3000 c3314 l3305 l3314
-高频 贴片 电感 高频 贴片 电感 5.6 nh ± 0.3 nh 210ma 0.46 ω 16 21 34 10 ghz 0201 0.35 mm sdcl0603q5n6st02b01 sunlord 1 1000 l3338
-高频 贴片 电感 高频 贴片 电感 6.2 nh ± 0.3 nh 210ma 0.48 ω 13 23 35 5.1 ghz 0201 0.35 mm sdcl0603q6n2st02b01 sunlord 4 4000 c3326 c3328 l3335 l3337
-高频 贴片 电感 高频 贴片 电感 6.8 nh ± 5% 200ma 0.5 ω 13 22 33 5.5 ghz 0201 0.35 mm sdcl0603q6n8jt02b01 sunlord 5 5000 c3209 c3259 l1321 l3407 l3806
-高频 贴片 电感 高频 叠层 电感 8.2 nh ± 5% 190ma 0.7 ω 0 18 24 3.6 ghz 0201 0.5 mm sdcl0603q8n2jt02b01 sunlord 1 1000 l3331
-高频 贴片 电感 高频 贴片 电感 9.1 nh ± 5% 170ma 0.72 ω 13 20 31 4.1 ghz 0201 0.35 mm sdcl0603q9n1jt02b01 sunlord 2 2000 r3214 r3816
-高频 贴片 电感 高频 贴片 电感 10nh ± 5% 160ma 0.8 ω 13 20 29 3.8 ghz 0.3 mm sdcl0603q10njt02b01 sunlord 4 4000 l3332 l3405 l3408 l5003
-高频 贴片 电感 高频 贴片 电感 12nh ± 5% 160ma 0.8 ω 13 20 28 3.4 ghz 0201 0.35 mm sdcl0603q12njt02b01 sunlord 4 4000 c3807 c3808 l3307 l3402
-高频 贴片 电感 高频 贴片 电感 15nh ± 5% 160ma 0.85 ω 13 19 24 2.6 ghz 0201 0.35 mm sdcl0603q15njt02b01 sunlord 3 3000 l708 l3328 c41
-高频 贴片 电感 高频 贴片 电感 18nh ± 5% 140ma 1 ω 13 19 24 2.3 ghz 0201 0.35 mm sdcl0603q18njt02b01 sunlord 1 1000 l3336
-高频 贴片 电感 高频 贴片 电感 22nh ± 5% 130ma 1.2 ω 13 19 23 1.9 ghz 0201 0.35 mm sdcl0603q22njt02b01 sunlord 1 1000 c3210
-高频 贴片 电感 高频 贴片 电感 27nh ± 5% 120ma 1.6 ω 15 19 13 1.8 ghz 0201 3.5 mm sdcl0603q27njt02b01 sunlord 1 1000 l5012
-高频 贴片 电感 高频 贴片 电感 47nh ± 5% 100 ma 2.6 ω 14 15 1.5 ghz 0201 0.35 mm sdcl0603q47njt02b01 sunlord 1 1000 l3820
+高频 电感 高频 电感 1nh ± 0.1 nh 520ma 0.08 ω 13 32 57 9.76 ghz 0201 0.3 mm sdcl0603q1n0bt02b01 sunlord 8 8000 c3286 c3409 l1 l736 l3207 l3210 l3418 c802
+高频 电感 高频 电感 1.2 nh ± 0.2 nh 420ma 0.12 ω 13 25 44 1 ghz 0201 0.35 mm sdcl0603q1n2ct02b01 sunlord 1 1000 c3415
+高频 电感 高频 电感 1.5 nh ± 0.2 nh 420 ma 0.12 ω 13 41 24 10 ghz 0201 0.35 mm sdcl0603q1n5ct02b01 sunlord 4 4000 c3406 c3410 l2 l3316
+高频 电感 高频 电感 1.8 nh ± 0.2 nh 380ma 0.15 ω 13 24 41 10ghz 0201 0.35 mm sdcl0603q1n8ct02b01 sunlord 3 3000 l3315 l3424 r5014
+高频 电感 高频 电感 2nh ± 0.2 nh 300ma 0.23 ω 13 24 39 10ghz 0201 0.35 mm sdcl0603q2n0ct02b01 sunlord 1 1000 l3321
+高频 电感 高频 电感 2.2 nh ± 0.2 nh 290ma 0.25 ω 13 24 40 10ghz 0201 0.25 mm sdcl0603q2n2ct02b01 sunlord 4 4000 c3269 c3274 c3414 l3221
+高频 电感 高频 电感 2.4 nh ± 0.2 nh 310ma 0.22 ω 13 23 38 10ghz 0201 0.35 mm sdcl0603q2n4ct02b01 sunlord 5 5000 l503 l3242 l3244 l3301 l3416
+高频 电感 高频 电感 2.7 nh ± 0.2 nh 310ma 0.22 ω 13 22 35 9.2 ghz 0201 0.35 mm sdcl0603q2n7ct02b01 sunlord 1 1000 c3362
+高频 电感 高频 电感 3nh ± 0.2 nh 280ma 0.26 ω 13 22 35 8.6 ghz 0201 0.35 mm sdcl0603q3n0ct02b01 sunlord 2 2000 l3311 l3406
+高频 电感 高频 电感 3.3 nh ± 0.2 nh 270ma 0.3 ω 8.1 g 0201 0.3 mm 13 23 36 sdcl0603q3n3ct02b01 sunlord 7 7000 c3276 l710 l3304 l3346 l3410 l3419 r3230
+高频 电感 高频 电感 3.6 nh ± 0.2 nh 240ma 0.38 ω 13 23 35 7.7 ghz 0201 0.35 mm sdcl0603q3n6ct02b01 sunlord 2 2000 c3234 l3413
+高频 电感 高频 电感 4.3 nh ± 0.3 nh 300ma 0.2 ω 8 28 47 4ghz 0201 0.65 mm sdcl0603q4n3st02b01 sunlord 1 1000 l3216
+高频 电感 高频 电感 5.1 nh ± 0.3 nh 210ma 0.46 ω 5.9 g 0201 0.3 mm 17 22 36 sdcl0603q5n1st02b01 sunlord 3 3000 c3314 l3305 l3314
+高频 电感 高频 电感 5.6 nh ± 0.3 nh 210ma 0.46 ω 16 21 34 10 ghz 0201 0.35 mm sdcl0603q5n6st02b01 sunlord 1 1000 l3338
+高频 电感 高频 电感 6.2 nh ± 0.3 nh 210ma 0.48 ω 13 23 35 5.1 ghz 0201 0.35 mm sdcl0603q6n2st02b01 sunlord 4 4000 c3326 c3328 l3335 l3337
+高频 电感 高频 电感 6.8 nh ± 5% 200ma 0.5 ω 13 22 33 5.5 ghz 0201 0.35 mm sdcl0603q6n8jt02b01 sunlord 5 5000 c3209 c3259 l1321 l3407 l3806
+高频 电感 高频 叠层 电感 8.2 nh ± 5% 190ma 0.7 ω 0 18 24 3.6 ghz 0201 0.5 mm sdcl0603q8n2jt02b01 sunlord 1 1000 l3331
+高频 电感 高频 电感 9.1 nh ± 5% 170ma 0.72 ω 13 20 31 4.1 ghz 0201 0.35 mm sdcl0603q9n1jt02b01 sunlord 2 2000 r3214 r3816
+高频 电感 高频 电感 10nh ± 5% 160ma 0.8 ω 13 20 29 3.8 ghz 0.3 mm sdcl0603q10njt02b01 sunlord 4 4000 l3332 l3405 l3408 l5003
+高频 电感 高频 电感 12nh ± 5% 160ma 0.8 ω 13 20 28 3.4 ghz 0201 0.35 mm sdcl0603q12njt02b01 sunlord 4 4000 c3807 c3808 l3307 l3402
+高频 电感 高频 电感 15nh ± 5% 160ma 0.85 ω 13 19 24 2.6 ghz 0201 0.35 mm sdcl0603q15njt02b01 sunlord 3 3000 l708 l3328 c41
+高频 电感 高频 电感 18nh ± 5% 140ma 1 ω 13 19 24 2.3 ghz 0201 0.35 mm sdcl0603q18njt02b01 sunlord 1 1000 l3336
+高频 电感 高频 电感 22nh ± 5% 130ma 1.2 ω 13 19 23 1.9 ghz 0201 0.35 mm sdcl0603q22njt02b01 sunlord 1 1000 c3210
+高频 电感 高频 电感 27nh ± 5% 120ma 1.6 ω 15 19 13 1.8 ghz 0201 3.5 mm sdcl0603q27njt02b01 sunlord 1 1000 l5012
+高频 电感 高频 电感 47nh ± 5% 100 ma 2.6 ω 14 15 1.5 ghz 0201 0.35 mm sdcl0603q47njt02b01 sunlord 1 1000 l3820
 33 rfoa02 08 002 inductor 2.2 uh 10% 100ma 0805 scw2012f2r2kst sunltech tech 1 150
-a44 l12 s000414 固定 电感器 33000nh 5% 0805 aisc 0805f 330j t abracon 固定 电感器 20
 lqp03tn1n1b02d fixed inductor 1.1 nh ± 0.1 nh 750ma 15000
 cih05t6n2snc fixed inductor 6.2 nh ± 0.3 nh 300ma 10000
+10 l401 sdcl0603q1n2ct02b03 0201 1.2 nh 高频 电感 1 0 1000
+16.0 lqg15hs2n0s02d inductor 2nh unshielded multilayer 900ma 100mohm 2 l5 l6
+17.0 lqg15hs1n0s02d inductor 1nh unshielded multilayer 1a 70mohm 1 l7
+18.0 lqg15hs3n0s02d inductor 3nh unshielded multilayer 800ma 125mohm 1 l8
+3.3 n ind lqg15hs3n3s02d 0402 l2 datasheet 800ma 0.17 r 490 2616 1 nd 0402 lqg15hs3n3s02d 81 lqg15hs3n3s02d 792 6344 0.3 nh 3.3 n
+33n ind lqg15hn33nh02d 0402 l1 datasheet 300ma 0.67 r 490 15080 1 nd 0402 lqg15hn33nh02d 81 lqg15hn33nh02d 124 8156 3% 33n
+3.3 n ind lqg15hs3n3s02d 0402 l2 datasheet 800ma 0.17 r 490 2616 1 nd 0402 lqg15hs3n3s02d 81 lqg15hs3n3s02d 792 6344 0.3 nh 3.3 n
+33n ind lqg15hn33nh02d 0402 l1 datasheet 300ma 0.67 r 490 15080 1 nd 0402 lqg15hn33nh02d 81 lqg15hn33nh02d 124 8156 3% 33n
+31 l1 l2 fixed ind 2nh 900ma 100 mohm smd lqg15hs2n0s02d 2000 lqg15hs2n0s02d 2000 0.0214 7 10days lc 2 2000
+32 l3 fixed ind 1nh 1a 70 mohm smd lqg15hs1n0s02d 1000 lqg15hs1n0s02d 1000 0.0158 7 12days 1 1000
+33 l4 fixed ind 3nh 800ma 170 mohm smd lqg15hs3n0s02d 1000 lqg15hs3n0s02d 1000 0.0226 7 10days lc 1 1000
+52 1 l2 ind 12nh 5% 高频 叠层 电感 l0603r 12nh vhf160808h12nj 12nh ± 5% 叠层 高频 电感 0.0294 50.0
+53 1 l13 ind 12 nh 5% 高频 电感 l0603r 12nh vhf160808h12nj 12nh ± 5% 叠层 高频 电感 0.0294 50.0
+54 1 l16 ind 120 nh 5% 高频 叠层 电感 l0603r 120 nh vhf160808hr12jt 120nh ± 5% 高频 电感 0.0474 50.0
+55 1 l10 ind 2.7 nh 0603 高频 叠层 电感 l0603 2.7 nh 0603 vhf160808h2n7st 2.7 nh ± 0.3 nh 高频 电感 0.037 50.0
+56 1 l11 ind 33nh 高频 叠层 电感 l0603 33nh vhf160808h33njt 33nh ± 5% 高频 电感 0.0372 50.0
+57 1 l6 ind 5.1 nh 5% 高频 电感 l0603r 5.1 nh 1
+58 1 l14 ind 5.1 nh 5% 高频 电感 l0603r 5.1 nh 1
+62 1 l12 ind0402 10nh 高频 电感 smd0402 10nh vhf100505h10njt 10nh ± 5% 高频 电感 0.0174 100.0
+63 1 l15 ind0402 6 nh 高频 叠层 电感 smd0402 6 nh vhf100505h5n6st 5.6 nh ± 0.3 nh 高频 电感 0.0174 100.0
+64 1 l4 ind0805 3 nh 5% 高频 电感 l0805 3 nh vhf201209h3n3s 3.3 nh ± 0.3 nh 高频 电感 0.0558 50.0
+65 1 l8 ind0805 5.6 nh 5% 高频 电感 l0805 5.6 nh vhf201209h5n6s 5.6 nh ± 0.3 nh 高频 电感 0.0558 50.0
+66 1 l9 ind0805 5.6 nh 5% 高频 电感 l0805 5.6 nh vhf201209h5n6s 5.6 nh ± 0.3 nh 高频 电感 0.0558 50.0
+67 1 l3 ind1008 33nh 5% 高频 电感 l1008 33nh 1
+电感 2.4 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd l1 l5 lqg15hn2n4s02d
+电感 2.2 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd l3 lqg15hs2n2s02d
+电感 5.1 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd r5 lqg15hn5n1s02d
+电感 6.2 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd l2 lqg15hn6n2s02d
+l7 l8 8.2 nh 0402 2 高频 电感 sdcl1005c8n2jtdf 10000 0.0118 10000 5% lc
+l11 l12 7.5 nh 0402 2 高频 电感 sdcl1005c7n5jtdfm01 10000 0.0118 10000 5% lc
+l10 l9 12nh 0402 4 高频 电感 sdcl1005c12njtdf 10000 0.0118 10000 5% lc

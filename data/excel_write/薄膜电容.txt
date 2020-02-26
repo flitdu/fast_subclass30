@@ -1,0 +1,104 @@
+r82ec3220aa70j cap film 0.22 uf 5% 100vdc radial kemet 426 0.0917 8 12days arrow
+b32529c3102j cap film 1000pf 5% 2 50v dc radial 102 0.1137 8 12days arrow
+b32529c3103j cap film 10000pf 5% 2 50v dc radial 102 0.129 8 14days
+r463f210050n0k cap film 10000pf 10% 3 10v radial 244 0.1684 8 12days arrow
+b32922c3474m cap film 0.47 uf 20% 305v radial 547 0.2448 8 12days
+phe844rd6470mr06l2 cap film 0.47 uf 20% 440v radial 183 1.14 8 14days
+r76pr3470se30j cap film 0.47 uf 5% 630v radial 123 1.43 8 14days
+r75pr41504030j cap film 1.5 uf 5% 630v radial 426 1.7837 9 16days dgk
+r413i21000000m cap film 10000pf 20% 300v radial 183 0.222 8 14days
+phe450mk3470jr05 cap film 470pf 5% 300v radial 183 0.346 8 14days
+pe0.47 uf 50v c4 1 capacitor metallized polyester film mdd21h474k5 nitsuko
+pe0.47 uf 50v c5 1 capacitor metallized polyester film mdd21h474k5 nitsuko
+pe0.47 uf 50v c6 1 capacitor metallized polyester film mdd21h474k5 nitsuko
+pe0.47 uf 50v c7 1 capacitor metallized polyester film mdd21h474k5 nitsuko
+pe0.47 uf 50v c4 c5 c6 c7 4 capacitor metallized polyester film mdd21h474k5 nitsuko
+0.47 uf 275vac c1 c2 2 noise suppression capacitor ecqu2a474ml
+0.1 uf 275vac c5 1 noise suppression capacitor ecqu2a104ml
+直插 dip 涤纶 电容 100nf 100v 脚距 8mm 11 2200
+capacitor capa 104 j100 mkt p 5mm jimson capa 104 j100 mkt p 5mm c25 c32 c28 x x 5
+capacitor capa 103j 63v p 10 jimson capa 103j 63v p 10 1
+cap film pet 100nf 2 50v ac radial ecq u2a104ml 1 600
+cap multi layer ceramic 0.1 uf 50v 10% radial k104k10x7rf5uh5 1 600
+capacitor film type 0.47 uf 275v ecqe4474jf 1 600
+1 c49 2a104j
+b32652a4104j189 0.1 uf 400v polypropylene film capacitor c25 0.1 uf 400v 0.1 uf 400v 1 200
+wima mkp1t014703f00kssd 4700pf 10mm film 1600v c10 4700pf 10% 1600v 4700pf 1 50
+kemet phe426dj6100jr05 0.047 uf 5mm film 630v c35 c36 c37 c38 c39 c40 0.1 uf 5% 100v
+2 c7 c8 220nf film capacitor 305v polypropylene radial 0.709 l x 0.276 w 18.00 mm x 7.00 mm b32922c3224m 2000
+1 c4 330nf ± 10% film capacitor 2 50v 520v polypropylene metallized radial r71vi33304030k 1000
+2 c34 c37 cap film 220nf 20% 305vac rad b32922c3224m000 2000.0
+cap film 2.2 nf 20% 1kvdc radial pme271y422mr19t0 pme271y422mr19t0
+cap film 220nf 20% 305vac rad b32922c3224m000 b32922c3224m
+10000 c1140 c1255 capacitor cap radial 2.2 nf 300vac 20% x7r y2 rifa evox phe850ea4220ma01r17 b32021a3222m surge c43q1222m4sc000
+5000 c101 capacitor cap radial 2.2 uf 305vac 20% 26.5 x12 b32923c3225m surge cmppac3 10v 225k22.5 s6
+c3 c4 c104 c106 c110 c111 capacitor cap radial 01 uf 3 10v ac 20% x2 4x10 10mm lead spacing kemet f861ae103m310 b32921c3103m surge cmppac3 10v 103k10s5
+c107 c108 capacitor cap radial 4.7 nf 300vac 20% y2 6x10.5 10 mm lead spacing kemet f881ak472m300 b32021a3472m surge c43q1472m40c000
+c1140 c1255 capacitor cap radial 2.2 nf 300vac 20% x7r y2 rifa evox phe850ea4220ma01r17 b32021a3222m surge c43q1222m4sc000
+c101 capacitor cap radial 2.2 uf 305vac 20% 26.5 x12 b32923c3225m surge cmppac3 10v 225k22.5 s6
+金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
+260 capacitor film mpet 100v 0015 uf 10% thd cl23b 100v 153k j xiamen faratronic co ltd 20000
+319 capacitor film mpet 100v 33nf 5% thd cl23b 100v 333j xiamen faratronic co ltd 5000
+288 capacitor film mpet 2000v 22 nf 5% thd mmkp82 2kv 222j xiamen faratronic co ltd 2500
+321 capacitor film mpet 400v 100nf 5% thd cl25 104j400v xiamen faratronic co ltd 1500
+229 capacitor film mpet 63v 001 uf 10% thd cl23b 63v 103k j xiamen faratronic co ltd 32500
+216 capacitor film mpet 63v 0022 uf 20% thd cl23b 63v 223m j xiamen faratronic co ltd 60000
+214 capacitor film mpet 63v 01 uf 10% thd cl23b 63v 104k j xiamen faratronic co ltd 37500
+70 capacitor film mpet 63v 22 uf 10% thd cl23 63v 225k j xiamen faratronic co ltd 48000
+228 capacitor film mpet 63v 220nf 20% thd cl23b 63v 224j mr xiamen faratronic co ltd 22100
+287 capacitor film mpet 63v 220nf 5% thd cl23b 63v 224j xiamen faratronic co ltd 5100
+mmk10104k400a03l16.5 tr18 kemet evox rifa cap film mkt rdl 100nf 20% 400vdc mmk10104k400a03l16.5 tr18 kemet evox rifa 700.0 1.0
+3 b32529c105k189 he011024 cap mkt rd 1 uf 63v 10t p5 c150 c151 c152 c153 c154 5 pc 1000 1000 0 0 b32529c105k189 2 3w 0 0 0 0
+mcecapno20003 7.0 1.0 ea capacitor film 22nf 3 10v 10% capacitor x flex std bfc233921223 flex std 1000.0
+mcecapno20623 4.0 1.0 ea capacitor film 470nf 275 vac 20% capacitor x ecq u2a474ml 1000.0
+mcecapno20247 8.0 2.0 ea capacitor film 0.1 uf 3 10v 20% capacitor x flex std f861ap104m310c flex std 2000.0
+mcecapno205a2 cap film 3300pf 5% 1kvdc radial b32621a332j 22 100000
+mcecapno2078e film capacitors film cap mkp pfc 1.0 f 10% 630vdc ls b32673p6105k 52 100000
+mcecapno20001 film capacitor 0.33 uf 4 50v 10% pur 16 100000
+mcecapno20002 film capacitor 1 uf 4 50v 10% pur 16 100000
+mcecapno20004 film capacitor 0.22 uf 4 50v 10% pur 16 100000
+mcecapno20011 film capacitors 47nf 305v class x2 bfc233921473 40 100000
+а р capacitor kd1 470pf x 630v 10% dip 2 1.0
+а р capacitor kd1 1500pf x 1000v 1kv dip 2 1.0
+а р capacitor 0 47 ф х 400v 10% dip 2 b32523q6474k000 500.0 0.5372 7 10days
+а р capacitor 0 47 ф х 630v 10% dip 2 b32524q8474k000 500.0 1.02 7 10days
+r82ec3220aa70j cap film 0.22 uf 5% 100vdc radial kemet 426 0.0917 8 12days arrow
+b32529c3102j cap film 1000pf 5% 2 50v dc radial 102 0.1137 8 12days arrow
+b32529c3103j cap film 10000pf 5% 2 50v dc radial 102 0.129 8 14days
+b32922c3474m cap film 0.47 uf 20% 305v radial 547 0.2448 8 12days
+phe844rd6470mr06l2 cap film 0.47 uf 20% 440v radial 183 1.14 8 14days
+r76pr3470se30j cap film 0.47 uf 5% 630v radial 123 1.43 8 14days
+r75pr41504030j cap film 1.5 uf 5% 630v radial 426 1.7837 9 16days dgk
+r413i21000000m cap film 10000pf 20% 300v radial 183 0.222 8 14days
+phe450mk3470jr05 cap film 470pf 5% 300v radial 183 0.346 8 14days
+capacitor dip metallized polyester film capacitors 0.47 uf 2 50v 6 12 18 pitch 15 r60ii3470ck30k 2 cx2
+c1 c2 capacitor cap film 2200pf 5% 1.6 kvdc rad 2200pf film capacitor 4 50v 1600v 1.6 kv polypropylene metallized radial through hole p 10mm b32671l1222j000
+c3 capacitor cap film 0.047 uf 5% 100vdc rad 0.047 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1473j289
+c4 capacitor cap film 1000pf 5% 100vdc radial 1000pf film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1102k289
+c10 capacitor cap film 3300pf 5% 1kvdc radial 3300pf film capacitor 500v 1000v 1kv polypropylene metallized stacked radial through hole p 7.5 mm b32620a0332j000
+c12 capacitor cap film 0.33 uf 10% 100vdc rad 0.33 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1334k289
+32 3 薄膜 电容 金属化 聚酯薄膜 电容 cl21 47nf ± 10% 2 50v 脚距 5mm 105 ℃ 3 c13 c14 c54 金裕 600
+b32692a1222 20 metallized polypropylene film capacitors 2 2nf 1600v 5%
+b32529c3222j000 10 capacitor pol met 2 2nf 2 50v 5%
+b32529c1223j000 20 capacitor pol met 22nf 100v 5%
+b32529c1473j189 40 capacitor pol met 47nf 100v 5%
+b32529c1224j189 10 capacitor pol met 220nf 63v 5%
+capc 114 1 091802 147301 电容 105 63v 1 uf c241j105j2sa201 20
+0.1 uf capacitor c9 c72 rad0.2 cap 2 0.1 uf 薄膜 电容 直插
+c1 c2 capacitor cap film 2200pf 5% 1.6 kvdc rad 2200pf film capacitor 4 50v 1600v 1.6 kv polypropylene metallized radial through hole p 10mm b32671l1222j000
+c3 capacitor cap film 0.047 uf 5% 100vdc rad 0.047 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1473j289
+c4 capacitor cap film 1000pf 5% 100vdc radial 1000pf film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1102k289
+c10 capacitor cap film 3300pf 5% 1kvdc radial 3300pf film capacitor 500v 1000v 1kv polypropylene metallized stacked radial through hole p 7.5 mm b32620a0332j000
+c12 capacitor cap film 0.33 uf 10% 100vdc rad 0.33 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1334k289
+capacitor pth 13mm 0 1 uf 630v 10% b32612a6104k189 1 c312j104k6sf600 faratronic 710
+2.0 c10 c15 cap film 1 uf 100v 5mm ls wima mks2d041001k00ki00 505 mks2d041001kki00 0.53 1.06
+20 c2 c20 cap film 100pf 63v 5mm ls wima fkp2c001001d00kssd 505 fkp2c001001d00ks 015 03
+40 c3 c5 c22 c24 cap film 022 uf 63v 5mm ls wima mks2 22 63 10 505 mks2022 63 10 031 124
+c15 0 1 uf 10% 630vdc 400vac 1 radial capacitor thru hole body 8.0 x 16.0 x18.0 mm wxhxl pin spacing 15.0 mm 10% mpb mkp10 manual radial
+c16 6 8nf 10% 1600vdc 6 50v ac 1 radial capacitor thru hole body 6.0 x 12.0 x18.0 mm wxhxl pin spacing 15.0 mm 5% mp5 mkp10 manual radial
+cap film pet 100nf 2 50v ac radial ecq u2a104ml
+capacitor film type 0.47 uf 275v ecqe4474jf
+capa 104 j100 mkt p 5mm capa 104 j100 mkt p 5mm c25 c32 c28 x x
+capa 103j 63v p 10 capa 103j 63v p 10
+46 met 电容 102pf j c28 c29 1 0.1700 1
+47 met 电容 104pf100v j c15 c18 c79 3 0.1700 1

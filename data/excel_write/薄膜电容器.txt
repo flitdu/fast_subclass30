@@ -1,5 +1,0 @@
-b32692a1222 20 metallized polypropylene film capacitors 2 2nf 1600v 5%
-b32529c3222j000 10 capacitor pol met 2 2nf 2 50v 5%
-b32529c1223j000 20 capacitor pol met 22nf 100v 5%
-b32529c1473j189 40 capacitor pol met 47nf 100v 5%
-b32529c1224j189 10 capacitor pol met 220nf 63v 5%

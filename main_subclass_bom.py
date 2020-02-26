@@ -21,7 +21,7 @@ from data_selection import merge_txts
 from data_split import train_datas_split
 import pandas as pd
 import time
-from func import load_stop_word_list, string_split_combine, txt_write_line, standard
+from func import load_stop_word_list, string_split_combine, txt_write_line, standard, label_new
 import os
 
 
@@ -38,10 +38,11 @@ class FastTextModel:
         '''
         依据训练数据不断更新权重
         '''
-        for i in range(2, self.epoch):  # 迭代轮数
-            for w in range(1, 2):  # 连词数，取1、2
+        for i in range(1, self.epoch):  # 迭代轮数
+            for w in range(2, 3):  # 连词数，取1、2
                 start_time = time.time()            # loss = softmax or hs
                 classifier = ff.train_supervised(train_file_path, epoch=i, loss=self.loss, lr=self.lr, wordNgrams=w)
+                # print(classifier.)
                 print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
                 classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
@@ -71,28 +72,12 @@ class FastTextModel:
                 classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
                 # print("Model/model_w" + str(w) + "_e" + str(i))
                 # 预测
+                classifier.get_word_vector()
                 predict_labels = classifier.predict(texts)[0]
+                # print(dir(classifier),';;;;;;;')
                 print('测试集predict_labels 为：', predict_labels, type(predict_labels))
                 print(confusion_matrix(correct_labels, predict_labels,
-                                       labels=['__label__CBB电容', '__label__MELF电阻', '__label__MLCC-SMDSMT', '__label__MLCC-含引线',
-                                               '__label__NTC热敏电阻', '__label__PTC热敏电阻', '__label__TO封装平面功率电阻', '__label__云母电容器',
-                                               '__label__保险电阻', '__label__功率电感', '__label__压敏电阻', '__label__厚膜电阻器',
-                                               '__label__变阻器', '__label__可调电感', '__label__固定电感', '__label__固态电解电容',
-                                               '__label__圆柱体晶振', '__label__圆柱体电感', '__label__安规X电容', '__label__安规Y电容',
-                                               '__label__安规电容直插', '__label__工字电感', '__label__晶振直插', '__label__晶振贴片',
-                                               '__label__标准时钟振荡器', '__label__水泥电阻', '__label__电位器-其他可调电阻', '__label__电位计',
-                                               '__label__电容器阵列与网络', '__label__电解电容', '__label__电阻器网络与阵列', '__label__直插低阻值采样电阻',
-                                               '__label__直插压敏电阻', '__label__直插晶体振荡器(有源)', '__label__直插晶体谐振器(无源)', '__label__直插独石电容',
-                                               '__label__直插瓷片电容', '__label__碳膜电阻器', '__label__碳质电阻器', '__label__精密可调电阻',
-                                               '__label__线绕电阻器-透孔', '__label__线绕电阻器', '__label__聚酯薄膜电容', '__label__色环电感',
-                                               '__label__薄膜电容器', '__label__贴片低阻值采样电阻', '__label__贴片功率电阻', '__label__贴片压敏电阻',
-                                               '__label__贴片排阻', '__label__贴片晶体振荡器(无源)', '__label__贴片晶体振荡器(有源)', '__label__贴片晶体谐振器(无源)',
-                                               '__label__贴片晶体谐振器(有源)', '__label__贴片电容', '__label__贴片电感', '__label__贴片电解电容',
-                                               '__label__贴片电阻', '__label__贴片精密电阻', '__label__贴片线绕电感', '__label__贴片高精密-低温漂电阻',
-                                               '__label__超级电容', '__label__超级电容器', '__label__通孔电阻器', '__label__金属氧化膜电阻',
-                                               '__label__金属玻璃釉电阻', '__label__金属膜电阻', '__label__金属薄膜电阻器', '__label__钽质电容器-固体SMD钽电容器',
-                                               '__label__钽质电容器-固体铅钽电容器', '__label__铝电解电容器-带引线', '__label__铝质电解电容器-SMD', '__label__陶瓷谐振器',
-                                               '__label__高频电感']))
+                                       labels=['__label__CBB电容', '__label__MELF晶圆电阻', '__label__NTC', '__label__PTC', '__label__云母电容', '__label__保险电阻', '__label__光敏电阻', '__label__功率电感', '__label__压敏电阻', '__label__可变电感器套件配件', '__label__可调电容', '__label__可调电阻电位器', '__label__固定电感', '__label__圆柱体晶振', '__label__安装型大容量电容', '__label__安规电容', '__label__工字电感', '__label__排阻', '__label__无源晶体振荡器', '__label__有源晶体振荡器', '__label__标准时钟振荡器', '__label__校正电容', '__label__氧化铌电容', '__label__水泥电阻', '__label__电容器阵列与网络', '__label__直插独石电容', '__label__直插瓷片电容', '__label__直插电解电容', '__label__直插通孔电阻', '__label__碳膜电阻', '__label__精密可调电阻', '__label__绕线电阻', '__label__色环电感', '__label__薄膜电容', '__label__谐振器', '__label__贴片电容', '__label__贴片电感', '__label__贴片电解电容', '__label__贴片电阻', '__label__贴片超低阻值电阻', '__label__贴片高精密-低温漂电阻', '__label__超级电容器', '__label__采样电阻', '__label__金属氧化膜电阻', '__label__金属膜电阻', '__label__钽电容', '__label__高压电阻', '__label__高频电感']))
                 f1_score = metrics.f1_score(correct_labels, predict_labels,
                                             average='weighted')
                 print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
@@ -102,6 +87,7 @@ class FastTextModel:
                 accuracy_num = 0
                 for j in range(len(texts)):
                     if predict_labels[j][0] == correct_labels[j]:
+                        # print(predict_labels[j][0], correct_labels[j], '===~~~~~~~')
                         accuracy_num += 1
 
                 accuracy = accuracy_num / len(texts)
@@ -122,9 +108,13 @@ class FastTextModel:
         # with open("train_split_data.txt", "r", encoding="utf-8") as ft_train:
         with open(train_file_path, "r", encoding="utf-8") as ft_train:
             for line in ft_train:
-                # print(line)
-                correct_labels_train.append(line.strip().split(" , ")[0])
-                texts1.append(line.strip().split(" , ")[1])
+                # print(line, '--------------------')
+                # print(line.strip().split(" , ")[0], '--------------------')
+                try:
+                    correct_labels_train.append(line.strip().split(" , ")[0])
+                    texts1.append(line.strip().split(" , ")[1])
+                except:
+                    continue
         print('correct_labels 为：{}'.format(correct_labels_train))
         # 加载分类模型
         for w in range(1, 2):
@@ -196,12 +186,21 @@ def predict_line_label_out(file_path_combine):
                 zonhe = zonhe + str(ss.loc[h].ix[l]).strip().replace('\n', '') + ' '
                 true_label = ss.loc[h].ix[0]
                 true_label = str(true_label).replace('/', '').strip()
-                if true_label == '电阻贴片':
-                    true_label = '贴片电阻'
-                if true_label == 'MLCC-SMDSMT':
-                    true_label = '贴片电容'
-                if true_label == '厚膜电阻器':
-                    true_label = '贴片电阻'
+
+                temp_label = ['(含税RMB)', '晶振贴片', '晶振直插', '圆柱体电感',
+                              '磁环电感', '共模电感/滤波器', '通用电感',
+                              '耦合电感', '多层陶瓷电容', '特种陶瓷电容器',
+                              '电解电容', '硅电容器', '馈通电容器',
+                              '氧化膜电阻', 'LED灯条电阻', '平面电阻器',
+                              '专用电阻', '分流器', '3', '6', '160', '1.', '2.', '3.',
+                              '电话：0755-83551135', '其他说明Other', '产品型号Model',
+                              '镀金;-40°C']
+                if true_label in temp_label:
+                    continue
+                # if true_label == '(含税RMB)' or true_label == '晶振贴片' or true_label == '晶振直插'or true_label == '圆柱体电感' or true_label == '通孔电阻器':
+                #     continue
+                true_label = label_new(true_label)
+
 
             if len(zonhe.strip()) == 0:
                 continue
@@ -242,13 +241,13 @@ if __name__ == '__main__':
     #
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
-    # #
-    merge_txts(1000)  ## 读取行数
-    # # #
-    # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
-    # # # '''''''''''''''''data_split.py
-    # #
-    train_datas_split()
+    # # # # #
+    # merge_txts(1000)  ## 读取行数
+    # # # # # # #
+    # # # # # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
+    # # # # # # # '''''''''''''''''data_split.py
+    # # # # # #
+    # train_datas_split()
 
     # 4 训练-调参
     # 初始化
@@ -257,20 +256,27 @@ if __name__ == '__main__':
         epoch_begin = 2
         epoch_ = 100
         loss_name = 'softmax'
-        learn_rate = 0.8  # 0.5
+        learn_rate = 0.5  # 0.5, 0.8
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate)
         ft_.fit('train_split_data.txt')  # 训练
         ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
 
     # ########## 5 测试
+    # classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e70")
+    # aa = ['v', 'p2sd0301000026']
+    # for i in aa:
+    #     print(classifier.get_word_vector(i),'=======')
     #
-    tag = 1000
+    # print(dir(classifier))
+    # print(help(classifier.ge))
+    #
+    tag = 1
     if tag == 1:
-        # excel_path = r'D:\dufy\code\ft_BOM\data\bom_test'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00\2.12标注'
         # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\JY_0119_1'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\BOM标注0221-mike'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.24标注-Elena'
 
         # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
         txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试

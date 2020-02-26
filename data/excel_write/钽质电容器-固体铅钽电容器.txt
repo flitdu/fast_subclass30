@@ -1,3 +1,0 @@
-tap105k035crw 20 capacitor t â ntalo 1 uf 35v 10% radial
-39 插件 钽电容 2.2 uf 2.5 v 2.5 5mm sip 2 10 s1
-86 插件 钽电容 2.2 uf 2.5 v 2.5 5mm sip 2 1000 s1

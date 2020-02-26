@@ -1,8 +1,0 @@
-capc 114 1 091802 147301 电容 105 63v 1 uf c241j105j2sa201 20
-0.1 uf capacitor c9 c72 rad0.2 cap 2 0.1 uf 薄膜 电容 直插
-c1 c2 capacitor cap film 2200pf 5% 1.6 kvdc rad 2200pf film capacitor 4 50v 1600v 1.6 kv polypropylene metallized radial through hole p 10mm b32671l1222j000
-c3 capacitor cap film 0.047 uf 5% 100vdc rad 0.047 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1473j289
-c4 capacitor cap film 1000pf 5% 100vdc radial 1000pf film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1102k289
-c10 capacitor cap film 3300pf 5% 1kvdc radial 3300pf film capacitor 500v 1000v 1kv polypropylene metallized stacked radial through hole p 7.5 mm b32620a0332j000
-c12 capacitor cap film 0.33 uf 10% 100vdc rad 0.33 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1334k289
-capacitor pth 13mm 0 1 uf 630v 10% b32612a6104k189 1 c312j104k6sf600 faratronic 710

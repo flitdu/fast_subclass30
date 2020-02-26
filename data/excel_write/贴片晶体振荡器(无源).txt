@@ -1,6 +1,0 @@
-703514000100.0 晶振 green 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20y d 1.0 100.0
-703514000300.0 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1.0 100.0
-703514000200.0 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30y 4.0 400.0
-091809 013501 晶振 dsx321g 8m 3225 117
-36 晶振 19.660 mhz gpx 53gb smd 2 1 x6
-45 1 x1 smd 3215 2p32.768 khz12.5 pf10ppm 30

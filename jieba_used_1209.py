@@ -12,7 +12,7 @@ import os
 import jieba
 jieba.load_userdict('dict_boom.txt')
 import pandas as pd
-from func import string_split_combine, load_stop_word_list
+from func import string_split_combine, load_stop_word_list, label_new
 stop_words = load_stop_word_list("stopwords.txt")
 
 class Operate_excel:
@@ -140,26 +140,18 @@ class Operate_excel:
                 # print(aa, '小写--停用词结果')  #移到后面
                 aa_label = aa.split()[0].replace('/', '')  # 替换标签里面 '/'
                 # aa_label = aa.split()[0] # 替换标签里面 '/'
-                if aa_label == '贴片电容;':
-                    aa_label = '贴片电容'
-                if aa_label == '铝质电解电容器-SMD：':
-                    aa_label = '铝质电解电容器-SMD'
-                if aa_label == '电阻贴片':
-                    aa_label = '贴片电阻'
-                if aa_label == '(含税RMB)':
+                temp_label = ['(含税RMB)', '晶振贴片', '晶振直插', '圆柱体电感',
+                              '磁环电感', '共模电感/滤波器', '通用电感',
+                              '耦合电感','多层陶瓷电容','特种陶瓷电容器',
+                              '电解电容', '硅电容器','馈通电容器',
+                              '氧化膜电阻','LED灯条电阻','平面电阻器',
+                              '专用电阻','分流器', '3','6','160','1.','2.','3.',
+                              '电话：0755-83551135','序号NO.','序号','fpc座']
+                if aa_label in temp_label:
                     continue
-                if aa_label == '直插电解电容':
-                    aa_label = '铝电解电容器-带引线'
-                # if aa_label == '光耦':
-                #     aa_label = '光电器件'
-                # if aa_label == '处理器和控制器':
-                #     aa_label = '处理器和微控制器'
-                # if aa_label == '险丝座':
-                #     aa_label = '保险丝'
-                # if aa_label == '模拟开关':
-                #     aa_label = '模拟芯片'
-                # if aa_label == '逻辑器件':
-                #     aa_label = '逻辑芯片'
+                # print(aa_label, '-----1?????')
+                aa_label = label_new(aa_label)
+                # print(aa_label, '-----2!!!!!!')
 
                 if aa_label != 'nan':
                     # print(aa_label, '~~~~~~~')
