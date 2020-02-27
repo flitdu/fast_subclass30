@@ -16,12 +16,12 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 import jieba                         # 组合使用】
 jieba.load_userdict('dict_boom.txt') # 组合使用】
-from jieba_used_1209 import excel_read2txt
-from data_selection import merge_txts
+from bom_read import excel_read2txt
+from data_selection import merge_txt_files
 from data_split import train_datas_split
 import pandas as pd
 import time
-from func import load_stop_word_list, string_split_combine, txt_write_line, standard, label_new
+from data_operation.function import load_stop_word_list, standard, label_new
 import os
 
 
@@ -235,14 +235,17 @@ def predict_line_label_out(file_path_combine):
 if __name__ == '__main__':
     # 1 读取excel写入不同的标签txt
     # 读取txt路径：ft_BOM\data\bom_subclass30'，  写入r'D:\dufy\code\ft_BOM\data\excel_write'
-    # '''''''''''''''''jieba_used.py
+    # '''''''''''''''''bom_read.py
 
     # excel_read2txt()
-    #
+
+
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
     # # # # #
-    # merge_txts(1000)  ## 读取行数
+    merge_txt_files(1000)  ## 选取行数
+
+
     # # # # # # #
     # # # # # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
     # # # # # # # '''''''''''''''''data_split.py
@@ -271,9 +274,9 @@ if __name__ == '__main__':
     # print(dir(classifier))
     # print(help(classifier.ge))
     #
-    tag = 1
+    tag = 10
     if tag == 1:
-        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00\2.12标注'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
         # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
         # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\BOM标注0221-mike'
         # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.24标注-Elena'

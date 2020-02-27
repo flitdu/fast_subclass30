@@ -1,0 +1,123 @@
+2200pf2 50v ac c3 c4 2 disk ceramic capacitors with lead safety standard approved cd12 e2ga222myns
+1 c7 0.1 uf 275ac40 15mm
+电容 mkp62 x2 105k 脚距 22mm 法拉 cx1 1000
+电容 102 2kv 脚距 10mm cy1 cy7 1000
+电容 2.2 nf ac400v y1 脚距 10mm cy2 cy3 cy5 cy6 cy8 cy9 cy10 1000
+30000 c3 c4 c104 c106 c110 c111 capacitor cap radial 01 uf 3 10v ac 20% x2 4x10 10mm lead spacing kemet f861ae103m310 b32921c3103m surge cmppac3 10v 103k10s5
+10000 c107 c108 capacitor cap radial 4.7 nf 300vac 20% y2 6x10.5 10 mm lead spacing kemet f881ak472m300 b32021a3472m surge c43q1472m40c000
+10000 c47 c48 capacitor cap radial 1 uf 3 10v ac 20% x2 5x13 kemet f861ak104m310 b32921c3104m surge cmppac3 10v 104k10s5
+5000 c109 capacitor cap radial 1nf 300vac 20% y2 3x10 10mm lead spacing kemet f881ae102m300 b32021a3102m230 surge c43q1102m4sc000
+c47 c48 capacitor cap radial 1 uf 3 10v ac 20% x2 5x13 kemet f861ak104m310 b32921c3104m surge cmppac3 10v 104k10s5
+c109 capacitor cap radial 1nf 300vac 20% y2 3x10 10mm lead spacing kemet f881ae102m300 b32021a3102m230 surge c43q1102m4sc000
+0.1 uf 275v 0.1 uf 275v p 15mm x2 2.0 cx1 cx2
+2.2 nf 300v 2.2 nf 300v p 7.5 mm y1 4.0 cy1 cy2 cy3 cy4
+x2 电容 1 uf 275v 误差 ± 10 ％ 直插 脚距 22.5 1 标准件
+电容 1.0 0.1 uf 275v x2 p 10mm mex104k275a41 6061.0 法拉
+法拉 x 型安规 电容 1nf 275v 10mm 500 5600 4800
+法拉 x 型安规 电容 mp2104kgd1r00 100nf 275v 15mm 500 5600 5100
+y 型安规 电容 2.2 nf 2 50v de1e3kx222mn5aa01 10mm 900 11200 9700
+cd90zu2ga222mynka cap x1y1 oth rdl 2.2 nf 20% 999vdc cd90zu2ga222mynka 1000.0 1000.0 0.96 8 12days ickey
+b32921c3104m289 cap x2 mkp rdl 100nf 20% 560vdc b32921c3104m289 680.0 680.0 1.225 10 17days dgk 1 1
+22 直插 电容 0.1 uf 275vac 5.5 12.5 2 20000 1
+mcecapno20003 capacitor film 22nf 3 10v 10% x2 bfc233921223 17 100000
+mcecapno2000d capacitor disc 2.2 nf 500v 20% y1 vy1222m47y5uq63v0 52 100000
+mcecapno20247 capacitor film 0.1 uf 3 10v 20% x2 kemet f861ap104m310c 26 100000
+mcecapno20623 capacitor film 470nf x2 275 vac ± 20% ecq u2a474ml 18 100000
+16.799999999999986 直插 电容 jy12f472ml72n y2 472m 2 50v 8 32 p 7.5 jnc 蓝色
+16.899999999999984 直插 电容 jy16f103m02n y2 103m 2 50v 3 12 p 7.5 jnc 蓝色
+29 c0200178 电容 y1 22 100pf 400v dip 角 10.5 mm dip 2 1000
+31 c0200180 电容 y1 4700pf 400v ± 20% 脚 10mm dip dip 2 1000
+150.0 2002050006 电容 2.0 0.05 b 168 电容 de1b3kx101ka4bn01f 外径 7 10 100pf 0.1 2 50v ac
+11.0 电容 cap 0.22 uf x2 275vac dip 2 dip mp2224kgc3xlc x2 电容 x2 电容 220nf ± 10% 275v 210
+方块 电容 22nf 10% 2 50v 蓝色 西门子 sip 2 1 5 c11
+方块 电容 0.1 uf 5% 100v 蓝色 西门子 sip 2 2 10 c3 c13
+27 7807 27.0 电容 0.47 uf k x2 275vac p 15 长宽 18 7.2 13 脚距 15.0 mm cx101 cx102 3 9000
+28 7807 28.0 电容 jec jy 472m x1 400vac y2 300vac ± 20% p 7.5 mm d 8.5 mmp 7.0 mm cy101 cy102 2 6000
+29 7807 29.0 电容 0.1 uf k x2 275vac 长宽 13 5.8 12.0 脚距 10.0 mm c301 1 3000
+129 7823 500 电容 01 uf k x2 275vac p 10mm 长宽 130 60 120 tenta electric industrialco ltd dain co ltd tenta electric industrialco ltd dain co ltd 1 3000
+130 7823 510 电容 047 uf k x2 275vac p 15 长宽 18 100 16 tenta electric industrialco ltd dain co ltd tenta electric industrialco ltd dain co ltd 2 6000
+131 7823 52.0 电容 ce 472m y2 2 50v ac ± 20% p 7.5 mm songtian songtian 2 6000
+196 7825 31.0 电容 0.1 uf k x2 275vac p 10 cb1 songtian songtian 2 6000
+253 lw7825p 2 22.0 电容 0.68 uf k x2 275vac p 15 cx1 songtian 1 3000
+520 sz7 59.0 电容 0.47 uf k x2 275vac 18 9.0 15mm p 15 cx1 1 3000
+521 sz7 60.0 电容 0.1 uf k x2 275vac 18 6.0 12mm p 15 cx2 1 3000
+522 sz7 61.0 电容 222m y2 2 50v ac ± 20% p 7.5 mm cy1 cy2 2 6000
+523 sz7 62.0 电容 222m y1 400vac ± 20% p 10mm cy3 cy4 2 6000
+电容 0.1 uf 275v x2 p 10mm mex104k275a41 mp2104kgc3xlc 500 mex104k275a41 mp2104kgc3xlc 8682.54 9000
+30 3 x 电容 x 电容 0.22 uf ± 10% 305v 13 12 6mm 脚距 p 10mm 105 ℃ 2 c8 c9 金裕 jbx224k305p10 400
+31 3 y 电容 y 电容 2.2 nf ± 20% y2 y5u 脚距 p 7.5 mm 125 ℃ 4 c7 c26 c27 c51 金裕 800
+32.0 直插 电容 蓝色 102 1kv ± 20% dyg 10a 102 1kv 脚距 10mm 1.0 10 cy1
+33.0 直插 电容 蓝色 102 1kv ± 20% dyg 6a 102 1kv 脚距 6mm 1.0 10 cy2
+电容 10nf dip 直插 c 103c ± 20% x1 ac400v 3.0 60.0 c c7 c8 c17
+32 电容 0.1 uf 275v x2 p 10mm mex104k275a41 mp1104krc3rlc mex104k275a41 mp1104krc3rlc 1 60
+37 y 型安规 电容 1nf 2000v 1210 c87 c88 2 128
+22 插件 0.1 uf mpx 40 100 21 c 1 1cm 电容 0.1 uf
+23 插件 68k 275v x2 carl1 mpx40 100 56 1 1.5 cm 电容 0.68 uf
+22 插件 0.1 uf mpx 40 100 21 c 1 1000000 1cm 电容 0.1 uf
+23 插件 68k 275v x2 carl1 mpx40 100 56 1 1000000 1.5 cm 电容 0.68 uf
+6 11 0102 005 002 y1 电容 222m 400vac p 10 插件 c7 1 10000.0
+7 11 0102 005 001 x2 电容 104k 3 10v ac p 7.5 w10 h11 t4.8 mm 插件 cx1 1 10000.0
+21 1777 0 21 weidy capacitor thd capacitor non polarity 22 nf 3 10v mkp x10 و 20% dip 18x5x11 mm w41q3223 km8l jfz0a9223k150000b jb 1.0 10000
+22 1777 0 22 weidy capacitor thd capacitor non polarity 1.2 uf 3 10v mkp x2 dip 31.4 x10.5 x20.5 mm w41q3125 ks8l jfz0a9125k150000b jb 1.0 10000
+23 1777 0 23 weidy capacitor thd capacitor non polarity 470 nf 3 10v mkp x2 dip 26.5 x7x11 mm w41q3474 kp8l jfz0a9474k150000b jb 1.0 10000
+6 薄膜 电容 b32922c3104m 100nf 插件 b32922c3104m dip 900
+46.0 x 电容 mpx mkp104kc3xxa 0.1 uf 275vac cx 10mm 脚距 jurcc 薄膜 1.0 1000
+po20190026 高压 瓷片 电容 y1 y5u 103m ac400v 750
+po20190026 电容 天泰 tc x2 0.0047 uf ± 20% ac275v pcm7.5 mm 750
+po20190026 3000004235 电容 金属化 聚丙烯 薄膜 电容 mkp x2 275vac 0.1 uf ± 20% p7.5 160
+41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
+41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
+wi cap 0077 c1 0.1 uf 275v 1 0.1 uf 275v film capacitor kemet r46kf3100ckm1m 399 11735 2 nd radial 650
+wi cap 0082 c10 0.047 uf 3 10v 1 cap film 0.047 uf 20% 3 10v dc rad kemet r463f247000n0m radial 650
+41 05035 00633 电容 c941u332mywdba7317 陶瓷 抗干扰 电容器 碟型 3300pf 900 ± 20% x1 y2 400v 2 50v 2 cy1 cy2 kemet 44
+电容 直插 0.1 uf 275v c94 1 3
+104 275vac 电容 c32 rad0.4 1.0 100.0 top
+dk1e3ea152m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea152m86rah01 1800 9920 7000 0988
+dk1e3ea102m86rah01 dk1e3ea102m86rah01 safety cap y1 1.0 nf 2 50v dk1e3ea102m86rah01 1800 9920 7000 0988
+4700pf 2 50v ac cap 5px10x5 y cap 4700pf 2 50v ac 20% 25 85 de2e3ky472ma2bm01 1200 9920 7000 0988
+0.22 uf 275vac cap le224mx x cap capacitor 1 uf 275vac 10 55 110 ° c okaya le224 mx 1200 9920 7000 0988
+1000pf 2 50v ac cap 5px10x5 y cap 1000pf 2 50v ac 20% 25 85 y cap 1000pf 2 50v ac 20% 25 85 de2e3ky102ma2bm01 160 9920 7000 0916
+0.22 uf 3 10v ac cap le224mx x cap capacitor 0.22 uf 3 10v ac 10 55 110 ° c okaya le224 mx 160 9920 7000 0916
+电容 直插 0.1 uf 275v c94 1 3 40 110 21 c 长宽 12.8 x6x12.3 两脚 10mm
+19 x 型安规 电容 0.1 uf 275v p 15mm 2 df 8000
+20 y 型安规 电容 4.7 nf 2 50v 2 jec 8000
+1 电容 x1 hje 102m 1000 c1 c2 电装
+5.0 08030358 b32922c3474k 2 100 电容 b metalized film capacitor 275vac 0.47 μ f ± 10% metallized polypropylene film plastic case filled resin 11 19 18mm p15 x2 ul eu cn
+27 safety x2 capacitor x2 0.1 uf 3 10v ac 13 12 6 p 10mm 3.5 mm short legs 10000
+2.0 电解电容 100pf 2 50v ac vy1101k31y5sq63v0 7.0
+2 电容 y c2 c6 4.7 nf 2 50v vy1472m63y5uq63v0 2 40
+3 电容 x2 c3 22nf 3 10v r463f222000n0k 1 20 kemet
+5 电容 x2 c5 2.2 uf 3 10v r463r422000m2m 1 20 kemet
+6 陶瓷 电容 c7 c8 c9 c12 nc vy1102m35y5uq63v0 4 80
+电容 0.1 uf k x2 275vac p 10 songtian cb1 songtian 2.0 6000.0
+电容 0.1 uf k x2 275vac p 10 cx 104 13 6 p10 c14
+电容 0.47 uf k x2 275vac p 15 cx101 cx102 长宽 18 7.2 13 脚距 15.0 mm 3.0 9000.0
+电容 0.47 uf k x2 275vac p 15 songtian cx2
+电容 jec jy 472m x1 400vac y2 300vac ± 20% p 7.5 mm cy101 cy102 d 8.5 mmp 7.0 mm 2.0 6000.0
+电容 0.1 uf k x2 275vac c301 长宽 13 5.8 12.0 脚距 10.0 mm 1.0 3000.0
+电容 01 uf k x2 275vac p 10mm 长宽 130 60 120 tenta electric industrialco ltd dain co ltd tenta electric industrialco ltd dain co ltd 10 30000
+电容 047 uf k x2 275vac p 15 长宽 18 100 16 tenta electric industrialco ltd dain co ltd tenta electric industrialco ltd dain co ltd 20 60000
+电容 ce 472m y2 2 50v ac ± 20% p 7.5 mm songtian songtian 2.0 6000.0
+电容 0.68 uf k x2 275vac p 15 songtian cx1 1.0 3000.0
+陶瓷 电容 ce 222m y2 2 50v ac ± 20% p 7.5 mm songtian cy1 cy2 2.0 6000.0
+电容 0.47 uf k x2 275vac 18 9.0 15mm p 15 cx1 1.0 3000.0
+电容 0.1 uf k x2 275vac 18 6.0 12mm p 15 cx2 1.0 3000.0
+电容 222m y2 2 50v ac ± 20% p 7.5 mm cy1 cy2 2.0 6000.0
+电容 222m y1 400vac ± 20% p 10mm cy3 cy4 2.0 6000.0
+陶瓷 电容 cd 222m y1 400vac ± 20% p 10mm songtian c23 c24 4.0 12000.0
+电容 cd 222m y1 400vac ± 20% p 10mm cy 222m p10 c29 c30
+直插 y 电容 2.2 nf ± 20% p 7.5 mm 205
+直插 电容 x2 220nf 3 10v ac ± 10% 脚距 10mm 205
+x2 电容 104 ± 10% 275v 脚距 10mm 丰明 2.0 短脚 备用 104 275v 脚距 10mm c2 c5 2000
+电容 c353914 dersonic 创 cy1222me1ief46x0a2 leaded ceramic disc capacitor 2 50v ac 2200pf 20% e p10 x1y1 125t 10000 c29
+电容 c263261 1 cy2472md1ief48f0a8 capsafety y2 300v 4.7 nf 20% p k 10mm l 4mm 0.5 30000 c19 c29 c51
+电容 c216459 wqc 威庆 c50q3334kd3l230210 mkp capacitor 275v 330n 20% x2 20000 c21 c22
+25 x2 电容 275vac 0.22 uf 脚距 10 dip 1 1000.0
+26 y2 电容 jnc 102m 400vac dip 2 1000.0
+32phk4201 12 c9902 065g306k4712mr 996590004773 cap y1 470pf 10% 2 50v y5p de1b3kx471kre 452378
+32phk4201 12 c9903 065g306k4712mr 996590004773 cap y1 470pf 10% 2 50v y5p de1b3kx471kre 452378
+32phk4201 12 c9907 065g306k1012wr 996590006622 cap y1 100pf 10% 2 50v y5p ct7 y1 2 50v 06 452378
+32phk4201 12 c9910 065g306k1012wr 996590006622 cap y1 100pf 10% 2 50v y5p ct7 y1 2 50v 06 452378
+32phk4201 12 c9801 367g215s820pky 996590022337 ec 82 uf 20% 4 50v 16x36 2000 hr 800ma sw 452378
+cy 22 nf 400vac y1 1 radial capacitor thru hole disk body pin spacing 75 mm capacitor y1 class manual radial
+26 电容 102pf 1kv 蓝色 c57 c61 2 01300 1

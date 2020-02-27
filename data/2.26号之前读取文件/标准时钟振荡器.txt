@@ -1,0 +1,7 @@
+crystal osc 25mhz osc 10.0 lfspxo025165 iqd frequency products
+y3 32.768 khz osc xo 32.768 khz cmos smd diodes incorporated kx2013d0032.768000 digi key kx2013d0032.768000 nd 4 smd 2016 xtal200x160x85 4n yes 40 ° c 85 ° c
+hx7011c0025.000000 standard clock oscillators 3.3 v cmos xo 25.000000 mhz 25ppm osc 4sm 2r5x2r0 x1 x3 4.0 700.0
+coc 113 091806 033501 晶振 fn5000118 50m 160
+coc 113 091806 033501 晶振 晶振 fn5000118 50m 10
+coc 113 091806 033401 晶振 fn3000041 30m 10
+coc 113 091806 033401 晶振 晶振 fn3000041 30m 20

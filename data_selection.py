@@ -8,6 +8,7 @@ Description :
        ‘train_split_data.txt'
 Remark:   记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
 """
+from data_operation import OperateExcel, function
 import os
 import random
 import linecache
@@ -133,38 +134,13 @@ class Operate_txt:
                 fs.close()
         print('操作完成!')
 
-    # def txt_print(self):
-    #     i = 0
-    #     with open(self.url, mode='r', encoding='utf-8') as f:
-    #         for line in f:
-    #             print(line, end='')  # end=' '意思是末尾不换行，加空格。
-    #             # time.sleep(0.1)
-    #             i += 1
-    #     print()
-    #     print('\033[1;32m txt行数：{}\033[0m'.format(i))
-    #     with open(self.url, 'r', encoding='utf-8') as r:
-    #         lines = r.readlines()
-    #     with open(self.url, 'w+', encoding='utf-8') as w:
-    #         for aa in lines:
-    #             aa = aa.lower()
-    #             for word in aa:
-    #                 # print(word)
-    #                 if str(word) in stop_words:
-    #                     aa = aa.replace(word, '')
-    #             # aa.strip()
-    #             # for i in aa:
-    #             #     print(i)
-    #             w.write(aa)
 
+def merge_txt_files(line_select_number):
+    f_1 = open('selection_data.txt', 'w')   # 先清空 txt
+    f_1.truncate()
+    f_1.close()
 
-def merge_txts(line_select_number):
-    f_all1 = open('selection_data.txt', 'w')
-    f_all1.truncate()
-    f_all1.close()
     a = Operate_txt(r'D:\dufy\code\2019-11-29\data\方案验证板.txt')  # 添加需要操作的文件路径
-    # a.txt_print()
-    # a.txt_write(r'data\AA.txt')   # 写入文件路径
-
     # a.txt_split(0.5)  # 测试比例
     # a.txt_change(r'D:\dufy\code\ft_BOM\data\initial')  # 待融合txt 合剂路径
     a.txt_change(r'D:\dufy\code\fast_subclass30\data\excel_write')  # 待融合txt 合剂路径

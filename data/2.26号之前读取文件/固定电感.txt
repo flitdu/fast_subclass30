@@ -1,0 +1,17 @@
+l5 fixed inductors 50uh 35% 1.4 ma 250ohm elt3kn028c 1000 1 1000
+13r105c 1000uh 330ma inductor l1 13r105c 1000uh 1 200
+inductance 线绕 电感 磁芯 铁硅 铝 磁芯 100uh 6a 13mm dip 1 l1
+0 l1 680 µ h unshielded wirewound inductor 3a 135 mohm max nonstandard 60b684c 0
+0 l4 23 µ h unshielded wirewound inductor 8.4 a 12 mohm max nonstandard 60a233c 0
+l 1 2mh 0 36a rm5 d l myrra 1 2mh l myrra dc1014 0
+indutor pth 680uh 800ma emg0915 154
+indutor radial pth 68uh 10% 2a lhl13tb680k 720
+44.0 电感 sds606045 15 μ h 1.0 lqh44pn150mj0 1.0 lqh44pn150mj0l 1000.0 1.4042 7 11days
+45.0 电感 sdrh0420 2.2 uh 2.0 lqh44pn2r2mj0 1.0 lqh44pn2r2mj0l 1000.0 0.5703 5 7days ickey 剩 1000
+46 灌装 电感 4204 1901 00150 smd inductors 6.8 uh sgc74 6r8m 1 l1 a 5000 10000
+47 灌装 电感 4204 1901 00160 smd inductors 2.2 uh sgc74 2r2m 1 l2 a 5000 10000
+48 一体 成型 电感 4204 1901 00190 smd inductors 2.2 uh 10 10mm 2r2m 1 l3 a 5000 10000
+lqh1n100k34m00 fixed inductors 1206 10uh 10% 1206 l19 l20 l21 2.0 1050.0
+inductor ind ihlp 4040dz 01 inductor dale ihlp4040dzer4r7m01 80 9920 7000 0916
+35 l5 fixed inductors 50uh 35% 1.4 ma 250ohm elt3kn028c 1000 elt3kn028c 1000 0.724 7 12days 1 1000
+ind smd fixo 1mh 250ma 2.4 r 1mh

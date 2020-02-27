@@ -1,0 +1,307 @@
+b59641a0115a062 495 4306 1 nd thermistor ptc 470 ohm 50% 0603
+tfpt0805l1001fv 541 1172 1 nd ptc thermistor 1 kohms 0805 2125 metric
+b59109j0130a020 495 4089 nd thermistor ptc 100 ohm radial
+sts110003chip 317 1587 nd ptc thermistor axial
+prf18bc471qs5rb 490 13398 2 nd thermistor ptc 470 ohm 50% 0603
+tfpt0805l5001fv 541 1201 1 nd ptc thermistor 5 kohms 0805 2125 metric
+prf18bb471qb5rb 490 8499 2 nd thermistor ptc 470 ohm 50% 0603
+tfpt1206l1002fv 541 1189 1 nd thermistor ptc 10k ohm 1% 1206
+tfpt0805l1001fv 541 1172 6 nd thermistor ptc 1k ohm 1% 0805
+tfpt0805l1001fv 541 1172 2 nd ptc thermistor 1 kohms 0805 2125 metric
+b59641a0115a062 495 4306 2 nd thermistor ptc 470 ohm 50% 0603
+tfpt0805l5001fv 541 1201 6 nd thermistor ptc 5k ohm 1% 0805
+tfpt1206l1002fv 541 1189 2 nd thermistor ptc 10k ohm 1% 1206
+b59641a0085a062 495 4303 6 nd thermistor ptc 470 ohm 50% 0603
+kty236 kty236inct nd thermistor ptc 1k ohm 3% sot23 3
+ptft0805l4700jv ptft0805l4700jv nd thermistor ptc 470 ohm 5% 0805
+kty82 122 215 kty82 122 215 nd thermistor ptc 1.1 k ohm to236ab
+ptft1206l1502jw ptft1206l1502jw nd thermistor ptc 15k ohm 5% 1206
+b59300m1145a70 b59300m1145a70 nd thermistor ptc 300 ohm radial
+ygm1 c513 317 1115 nd thermistor ptc 250 ohm 10% rad
+ygm1 c512 317 1114 nd thermistor ptc 250 ohm 10% rad
+kty82 250 215 kty82 250 215 nd thermistor ptc 2k ohm to236ab
+ygm1 c518 317 1122 nd thermistor ptc 250 ohm 10% rad
+tfpt1206l6801fv 541 1196 1 nd thermistor ptc 6.8 k ohm 1% 1206
+tfpt1206l6801fv 541 1196 6 nd thermistor ptc 6.8 k ohm 1% 1206
+tfptl15l5001fl2b 541 1425 nd thermistor ptc 5k ohm 1% radial
+ptcsl03t121dt1e bc2968tr nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+b59901d0090a040 495 7085 nd thermistor ptc 100 ohm radial
+tfptl10l1000fl2b 541 1424 nd thermistor ptc 100 ohm 1% radial
+ptcsl03t151dt1e bc2971tr nd thermistor ptc radial lead disc
+kty81 220 112 568 3251 nd thermistor ptc 2k ohm pbcyt2
+ptcsl03t141dt1e bc2970tr nd thermistor ptc radial lead disc
+ptcsl03t131dt1e bc2969ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+prf18bc471qb5rb 490 8500 1 nd thermistor ptc 470 ohm 50% 0603
+prf18bd471qb5rb 490 8501 1 nd thermistor ptc 470 ohm 50% 0603
+prf18ba471qb5rb 490 8498 6 nd thermistor ptc 470 ohm 50% 0603
+prf18bf471qb5rb 490 8503 1 nd thermistor ptc 470 ohm 50% 0603
+b59721a0110a062 495 4314 6 nd thermistor ptc 680 ohm 50% 0805
+kty82 110 215 568 11219 2 nd thermistor ptc 1k ohm to236ab
+prf18bf471qb5rb 490 8503 6 nd thermistor ptc 470 ohm 50% 0603
+b59721a0110a062 495 4314 1 nd ptc thermistor 680 ohms 0805 2012 metric
+tfpt0603l4700kv tfpt0603l4700kv nd thermistor ptc 470 ohm 10% 0603
+tfpt0805l4701fv 541 1186 6 nd thermistor ptc 4.7 k ohm 1% 0805
+ptcsl20t151dbe 238167191114 nd thermistor ptc 100 ohm radial
+b59060a0040a010 495 76328 nd thermistor ptc 9 ohm 30% disc
+lt7330002a2k0jte lt7330002a2k0jte nd thermistor ptc 2k ohm 5% 0805
+b59881c0135a070 b59881c0135a070 nd thermistor ptc 70 ohm 25% disc
+tfpt1206l3800jv tfpt1206l3800jv nd thermistor ptc 380 ohm 5% 1206
+tfpt0805l1201fv 541 1174 2 nd thermistor ptc 1.2 k ohm 1% 0805
+prf18bc471rs5rb prf18bc471rs5rb nd thermistor ptc 470 ohm 50% 0603
+b59701a0110a062 495 2610 6 nd thermistor ptc 680 ohm 50% 0805
+b59701a0110a062 495 2610 1 nd thermistor ptc 680 ohm 50% 0805
+b59119c1080a070 495 76346 nd thermistor ptc 150 ohm 25% disc
+b59601a0105a062 495 2411 1 nd thermistor ptc 470 ohm 50% 0603
+b59641a0095a062 495 4304 6 nd thermistor ptc 470 ohm 50% 0603
+b59641a0095a062 495 4304 2 nd thermistor ptc 470 ohm 50% 0603
+prf21bd471qb5ra 490 11861 1 nd thermistor ptc 470 ohm 50% 0805
+prf18ba471qs5rb 490 16936 6 nd thermistor ptc 470 ohm 50% 0603
+b59701a0100a062 495 2609 6 nd thermistor ptc 680 ohm 50% 0805
+prf18bf471rb5rb 490 14738 2 nd thermistor ptc 470 ohm 50% 0603
+b59825t1120a62 b59825t1120a62 nd thermistor ptc 25 ohm 20% 4smd
+b59810t1120a62 b59810t1120a62 nd thermistor ptc 10 ohm 20% 4smd
+b59084g1120a161 b59084g1120a161 nd thermistor ptc 50 ohm 15% smd
+b59118c1120a51 b59118c1120a51 nd thermistor ptc 25% disc
+b59805t1080a62 b59805t1080a62 nd thermistor ptc 4.75 ohm 15% 4smd
+tfpt1206l1000jm tfpt1206l1000jm nd thermistor ptc 100 ohm 5% 1206
+tfpt1206l1002jm tfpt1206l1002jm nd thermistor ptc 10k ohm 5% 1206
+tfpt0805l6800jm tfpt0805l6800jm nd thermistor ptc 680 ohm 5% 0805
+b59100m1120a070 495 2617 nd thermistor ptc 100 ohm radial
+tfpt0603l1001jv 541 1198 2 nd thermistor ptc 1k ohm 5% 0603
+tfpt0805l4700fv 541 1185 1 nd ptc thermistor 470 ohms 0805 2125 metric
+lt7330002a1k0jte a106102dkr nd thermistor ptc 1k ohm 5% 0805
+tfpt1206l2200fv 541 1191 1 nd thermistor ptc 220 ohm 1% 1206
+tfpt0805l1801fv 541 1176 6 nd thermistor ptc 1.8 k ohm 1% 0805
+prf21be471qb5ra 490 8504 6 nd thermistor ptc 470 ohm 50% 0805
+tfpt0805l1001jv 541 1173 2 nd ptc thermistor 1 kohms 0805 2125 metric
+b59721a0100a062 495 4313 6 nd thermistor ptc 680 ohm 50% 0805
+ptcsc17t155dbe ptcsc17t155dbe nd thermistor ptc 5% rectangular
+b59970c0160a051 b59970c0160a051 nd thermistor ptc disc
+ptcsl20t111dbe 238167191106 nd thermistor ptc 100 ohm radial
+tfpt0603l5600fm tfpt0603l5600fm nd thermistor ptc 560 ohm 1% 0603
+ptctl3mr100gte ptctl3mr100gte nd thermistor ptc 10 ohm 20% radial
+b59100c80a54 b59100c80a54 nd thermistor ptc 100 ohm
+b59871c0135a070 b59871c0135a070 nd thermistor ptc 25 ohm 25% disc
+b59840c0160a070 495 75881 nd thermistor ptc 6 ohm 25% disc
+b59100c0130a070 495 76337 nd thermistor ptc 100 ohm radial
+ptft0805l2200jv ptft0805l2200jv nd thermistor ptc 220 ohm 5% 0805
+kty23 7 kty23 7 nd thermistor ptc 1.015 k ohm sot23
+b59885c0120a051 b59885c0120a051 nd thermistor ptc 1.2 k ohm 25% rad
+b59901d0110a040 495 76394 nd thermistor ptc 100 ohm radial
+lt7339002a3k0jtg lt7339002a3k0jtg nd thermistor ptc 3k ohm 5% 0805
+tfpt0805l3901jz tfpt0805l3901jz nd thermistor ptc 3.9 k ohm 5% 0805
+tfpt0805l3301jz tfpt0805l3301jz nd thermistor ptc 3.3 k ohm 5% 0805
+tfpt0805l3901kz tfpt0805l3901kz nd thermistor ptc 3.9 k ohm 10% 0805
+tfpt1206l1000jv tfpt1206l1000jv nd thermistor ptc 100 ohm 5% 1206
+tfpt1206l1501jz tfpt1206l1501jz nd thermistor ptc 1.5 k ohm 5% 1206
+tfpt0805l4701jz tfpt0805l4701jz nd thermistor ptc 4.7 k ohm 5% 0805
+b59891c0135a070 b59891c0135a070 nd thermistor ptc 150 ohm 25% disc
+b59008c0090a040 b59008c0090a040 nd thermistor ptc 250 ohm radial
+b59008c0140a040 b59008c0140a040 nd thermistor ptc 250 ohm radial
+b59550a0135a020 b59550a0135a020 nd thermistor ptc 33 ohm 20% disc
+b59102r0220a0100v60 495 76345 nd thermistor ptc 1k ohm 50% rect
+b59875c0120a570 495 76389 nd thermistor ptc 65 ohm 25% radial
+b59041r0180a010 495 76324 nd thermistor ptc 3.2 ohm 50% rect
+tfpt0603l1000fv 541 3526 6 nd thermistor ptc 100 ohm 1% 0603
+tfpt1206l1001dv 541 1709 6 nd thermistor ptc 1k ohm 0.5% 1206
+b59315p1080a062 495 76359 1 nd thermistor ptc 25% 4032
+ptfl04bd471q2n34b0 490 7076 nd thermistor ptc 470 ohm disc
+ptfl04bf471q2n34b0 490 7078 nd thermistor ptc 470 ohm disc
+tfpt0603l2200fz tfpt0603l2200fz nd thermistor ptc 220 ohm 1% 0603
+tfpt0805l1000ky tfpt0805l1000ky nd thermistor ptc 100 ohm 10% 0805
+tfpt0603l8200ky tfpt0603l8200ky nd thermistor ptc 820 ohm 10% 0603
+tfpt0603l6800jv tfpt0603l6800jv nd thermistor ptc 680 ohm 5% 0603
+b59053a0130a010 b59053a0130a010 nd thermistor ptc 4.2 k ohm 35% disc
+b59601a0095b062 b59601a0095b062 nd thermistor ptc 470 ohm 50% 0603
+tfpt0805l6801fz tfpt0805l6801fz nd thermistor ptc 6.8 k ohm 1% 0805
+tfpt1206l1001fz tfpt1206l1001fz nd thermistor ptc 1k ohm 1% 1206
+tfpt0805l6800fy tfpt0805l6800fy nd thermistor ptc 680 ohm 1% 0805
+tfpt1206l1000fy tfpt1206l1000fy nd thermistor ptc 100 ohm 1% 1206
+tfpt0603l4700fv 541 1171 6 nd thermistor ptc 470 ohm 1% 0603
+tfpt0603l1001fm 541 3527 6 nd thermistor ptc 1k ohm 1% 0603
+ptft1206l4701jv ptft1206l4701jv nd thermistor ptc 4.7 k ohm 5% 1206
+ptft1206l0030jw ptft1206l0030jw nd thermistor ptc 3 ohm 5% 1206
+prf15bf102rb6rc prf15bf102rb6rc nd thermistor ptc 1k ohm 5% 0402
+ptccl21h421hbe ptccl21h421hbe nd thermistor ptc
+b59044a1120b162 b59044a1120b162 nd thermistor ptc 35 ohm 15% coin
+tfpt1206l8201km tfpt1206l8201km nd thermistor ptc 8.2 k ohm 10% 1206
+prf18bc471qb1rb 490 2464 1 nd thermistor ptc 470 ohm 50% 0603
+b59053a0110a010 b59053a0110a010 nd thermistor ptc 4.2 k ohm 35% coin
+prf18bc471qb1rb 490 2464 2 nd thermistor ptc 470 ohm 50% 0603
+prf21ba471qb5ra 490 12119 2 nd thermistor ptc 470 ohm 50% 0805
+prf15be103rb6rc 490 14735 2 nd thermistor ptc 10k ohm 0402
+b59725t1120a062 495 76371 2 nd thermistor ptc 25 ohm 20% 4smd
+b59082s1080b40 b59082s1080b40 nd thermistor ptc
+tfpt1206l5601fy tfpt1206l5601fy nd thermistor ptc 5.6 k ohm 1% 1206
+tfpt0805l1800fv tfpt0805l1800fv nd thermistor ptc 180 ohm 1% 0805
+tfpt0805l1001dv 541 1710 6 nd thermistor ptc 1k ohm 0.5% 0805
+tfpt0603l3900fv tfpt0603l3900fv nd thermistor ptc 390 ohm 1% 0603
+tfpt0805l1201dv tfpt0805l1201dv nd thermistor ptc 1.2 kohm 0.5% 0805
+tfpt0805l1001dv 541 1710 1 nd thermistor ptc 1k ohm 0.5% 0805
+tfpt0805l2200fm tfpt0805l2200fm nd thermistor ptc 220 ohm 1% 0805
+tfpt1206l4700fm tfpt1206l4700fm nd thermistor ptc 470 ohm 1% 1206
+tfpt0805l2201fm tfpt0805l2201fm nd thermistor ptc 2.2 k ohm 1% 0805
+tfpt0805l1201fm tfpt0805l1201fm nd thermistor ptc 1.2 k ohm 1% 0805
+b59008c155a40 b59008c155a40 nd thermistor ptc 250 ohm radial
+tfpt0805l1501fz tfpt0805l1501fz nd thermistor ptc 1.5 k ohm 1% 0805
+tfpt0805l2200fz tfpt0805l2200fz nd thermistor ptc 220 ohm 1% 0805
+tfpt0805l4701fy tfpt0805l4701fy nd thermistor ptc 4.7 k ohm 1% 0805
+tfpt0805l5001fy tfpt0805l5001fy nd thermistor ptc 5k ohm 1% 0805
+tfpt0805l5601fz tfpt0805l5601fz nd thermistor ptc 5.6 k ohm 1% 0805
+tfpt0805l1501fy tfpt0805l1501fy nd thermistor ptc 1.5 k ohm 1% 0805
+tfpt0805l2000fm tfpt0805l2000fm nd thermistor ptc 200 ohm 1% 0805
+tfpt0805l2201fz tfpt0805l2201fz nd thermistor ptc 2.2 k ohm 1% 0805
+tfpt1206l1002fm 541 3533 2 nd thermistor ptc 10k ohm 1% 1206
+b59701a0120a062 495 2611 2 nd thermistor ptc 680 ohm 50% 0805
+tfpt1206l1002fm 541 3533 6 nd thermistor ptc 10k ohm 1% 1206
+kty82 222 215 568 11920 1 nd thermistor ptc 2.02 k ohm to236ab
+b59076b1120b153 495 76332 2 nd thermistor ptc 10 ohm 20% disc
+ptft0805l1000jw ptft0805l1000jw nd thermistor ptc 100 ohm 5% 0805
+kty81 150 112 kty81 150 112 nd thermistor ptc 1k ohm pbcyt2
+ptft0805l0470jw ptft0805l0470jw nd thermistor ptc 47 ohm 5% 0805
+ptft1206l2201jw ptft1206l2201jw nd thermistor ptc 2.2 k ohm 5% 1206
+ptft1206l4701jw ptft1206l4701jw nd thermistor ptc 4.7 k ohm 5% 1206
+ptft0805l2200jw ptft0805l2200jw nd thermistor ptc 220 ohm 5% 0805
+kty84 150 153 kty84 150 153 nd thermistor ptc 603 ohm do34
+ygm1 c545 317 1117 nd thermistor ptc 250 ohm 10% rad
+ptcsl03t111dt1e bc2967tr nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+ptcsl03t121dt1e bc2968ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+ptcsl03t131dt1e bc2969tr nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+prf18bb471qb5rb 490 8499 1 nd thermistor ptc 470 ohm 50% 0603
+kt230 kt230intr nd thermistor ptc 1k ohm 3% sot23 3
+ptft0805l1500jv ptft0805l1500jv nd thermistor ptc 150 ohm 5% 0805
+kty81 210 116 kty81 210 116 nd thermistor ptc 2k ohm pbcyt2
+kty82 251 215 kty82 251 215 nd thermistor ptc 1.95 k ohm to236ab
+ptft0805l0680jw ptft0805l0680jw nd thermistor ptc 68 ohm 5% 0805
+ptft0805l1501jv ptft0805l1501jv nd thermistor ptc 1.5 k ohm 5% 0805
+kty216 kty216in nd thermistor ptc 1k ohm 3% to92
+ptft0805l0220jv ptft0805l0220jv nd thermistor ptc 22 ohm 5% 0805
+kty81 250 112 kty81 250 112 nd thermistor ptc 2k ohm pbcyt2
+kty82 120 dg b2 21 kty82 120 dg b2 21 nd thermistor ptc 1k ohm to236ab
+ptft0805l0030jw ptft0805l0030jw nd thermistor ptc 3 ohm 5% 0805
+ptft0805l1001jw ptft0805l1001jw nd thermistor ptc 1k ohm 5% 0805
+ptft1206l1501jw ptft1206l1501jw nd thermistor ptc 1.5 k ohm 5% 1206
+kty82 252 215 kty82 252 215 nd thermistor ptc 2.05 k ohm to236ab
+rl2006 100 120 30 pta rl2006 100 120 30 pta nd thermistor ptc 150 ohm 5% to220
+kty82 151 215 kty82 151 215 nd thermistor ptc 975 ohm to236ab
+rl2006 100 60 30 pte rl2006 1006030pte nd thermistor ptc 150 ohm 5% to220
+b59300m1190a70 b59300m1190a70 nd thermistor ptc 300 ohm radial
+kty135 kty135intr nd thermistor ptc 1.97 k ohm sot23 3
+rl2006 100 50 30 pte rl2006 1005030pte nd thermistor ptc 150 ohm 5% to220
+ygm1 c509 317 1111 nd thermistor ptc 250 ohm 10% rad
+kty136 kty136intr nd thermistor ptc 2k ohm 3% sot23 3
+kty81 121 112 568 3249 nd thermistor ptc 990 ohm pbcyt2
+ptfl04be471q2n34b0 490 7077 nd thermistor ptc 100 ohm disc
+b59300m1090a70 b59300m1090a70 nd thermistor ptc 300 ohm radial
+kty136 kty136inct nd thermistor ptc 2k ohm 3% sot23 3
+b59339a1202p020 495 7088 nd thermistor ptc 2k ohm 25% disc
+sts210101l360500g918 sts210101l360500g918 nd thermistor ptc 1.01 k ohm 1% axl
+ptcsl03t111dt1e bc2967ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+ygm1 c510 317 1112 nd thermistor ptc 250 ohm 10% rad
+ygm1 c515 317 1118 nd thermistor ptc 250 ohm 10% rad
+prf18bd471qb5rb 490 8501 2 nd thermistor ptc 470 ohm 50% 0603
+prf18bb471qb5rb 490 8499 6 nd thermistor ptc 470 ohm 50% 0603
+rl2006 100 90 30 pte rl2006 1009030pte nd thermistor ptc 150 ohm 5% to220
+prf18bf471qb5rb 490 8503 2 nd thermistor ptc 470 ohm 50% 0603
+ygm1 c516 317 1120 nd thermistor ptc 250 ohm 10% rad
+ptcsl03t151dt1e bc2971ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+kty82 150 215 kty82 150 215 nd thermistor ptc 1k ohm to236ab
+kty236 kty236intr nd thermistor ptc 1k ohm 3% sot23 3
+kty81 120 112 568 12506 nd thermistor ptc 1k ohm pbcyt2
+sts210101l360500u129 sts210101l360500u129 nd thermistor ptc 1.01 k ohm 1% axl
+b59721a0130a062 495 4316 6 nd thermistor ptc 680 ohm 50% 0805
+prf18bc471qb5rb 490 8500 2 nd thermistor ptc 470 ohm 50% 0603
+b59721a0130a062 495 4316 1 nd thermistor ptc 680 ohm 50% 0805
+kty82 110 215 568 11219 6 nd thermistor ptc 1k ohm to236ab
+prf15bb102rb6rc 490 13397 2 nd thermistor ptc 1k ohm 50% 0402
+kty81 210 112 568 3250 nd thermistor ptc 2k ohm pbcyt2
+b59339a1501p020 495 7089 nd thermistor ptc 500 ohm 25% rad
+kty82 110 215 568 11219 1 nd thermistor ptc 1k ohm to236ab
+tfpt0603l1001fm 541 3527 2 nd ptc thermistor 1 kohms 0603 1608 metric
+ptft0805l0220jw ptft0805l0220jw nd thermistor ptc 22 ohm 5% 0805
+ptft0805l1500jw ptft0805l1500jw nd thermistor ptc 150 ohm 5% 0805
+kty82 110 235 kty82 110 235 nd thermistor ptc 1k ohm to236ab
+kty135 kty135inct nd thermistor ptc 1.97 k ohm sot23 3
+ptft0805l0030jv ptft0805l0030jv nd thermistor ptc 3 ohm 5% 0805
+prf18bd471qb5rb 490 8501 6 nd thermistor ptc 470 ohm 50% 0603
+b59721a0110a062 495 4314 2 nd thermistor ptc 680 ohm 50% 0805
+b59721a0130a062 495 4316 2 nd thermistor ptc 680 ohm 50% 0805
+b59901d0080a040 495 7084 nd thermistor ptc 100 ohm radial
+ptcsl03t141dt1e bc2970ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+rl2006 100 30 30 pte rl2006 1003030pte nd thermistor ptc 150 ohm 5% to220
+prf18bc471qb5rb 490 8500 6 nd thermistor ptc 470 ohm 50% 0603
+b59346a1502p20 b59346a1502p20 nd thermistor ptc 1.5 k ohm 25% rad
+tfpt0805l1801fv 541 1176 2 nd ptc thermistor 1.8 kohms 0805 2125 metric
+b59965c160a51 b59965c160a51 nd thermistor ptc
+lt7339002a680rjte lt7339002a680rjte nd thermistor ptc 680 ohm 5% 0805
+tfpt0805l3900jv tfpt0805l3900jv nd thermistor ptc 390 ohm 5% 0805
+ptcsl03t081db1e bc3382 nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+b59701a0130a062 495 2612 2 nd thermistor ptc 680 ohm 50% 0805
+b59041r0120a010 495 76322 nd thermistor ptc 3.2 ohm 50% rect
+b59601a0125a062 495 2413 2 nd thermistor ptc 470 ohm 50% 0603
+b59041r0160a010 495 76323 nd thermistor ptc 3.2 ohm 50% rect
+b59601a75b62 b59601a75b62 nd thermistor ptc 470 ohm 50% 0603
+b59601a0075a062 495 2408 2 nd thermistor ptc 470 ohm 50% 0603
+tfpt0805l1200fv 541 3530 2 nd thermistor ptc 120 ohm 1% 0805
+tfpt1206l1801km tfpt1206l1801km nd thermistor ptc 1.8 k ohm 10% 1206
+tfpt0805l1000fv 541 3529 1 nd ptc thermistor 100 ohms 0805 2125 metric
+usp14579 usp14579 nd thermistor ptc 1k ohm 2% cylind
+b59811c0135a070 495 76375 nd thermistor ptc 2.6 ohm 25% disc
+b59173c1130a151 495 76347 2 nd thermistor ptc 55 ohm 15% disc
+lt7330002a3k0jte a106103ct nd thermistor ptc 3k ohm 5% 0805
+tfpt0805l3301fv 541 1181 1 nd ptc thermistor 3.3 kohms 0805 2125 metric
+tfpt1206l6801jv 541 1197 6 nd thermistor ptc 6.8 k ohm 5% 1206
+sts110003l360500g918 317 1588 nd ptc thermistor radial
+lt7330002a3k0jte a106103dkr nd thermistor ptc 3k ohm 5% 0805
+tfpt1206l6801jv 541 1197 1 nd thermistor ptc 6.8 k ohm 5% 1206
+tfpt0805l4700fv 541 1185 2 nd ptc thermistor 470 ohms 0805 2125 metric
+prf21ar471qb5ra prf21ar471qb5ra nd thermistor ptc 470 ohm 50% 0805
+b59102r0270a010 b59102r0270a010 nd thermistor ptc 1.3 k ohm 50% rect
+b59880c0120a570 b59880c0120a570 nd thermistor ptc 70 ohm 25% radial
+b59060a0060a010 495 76329 nd thermistor ptc 9 ohm 30% disc
+b59721a0070a062 495 4310 6 nd thermistor ptc 680 ohm 50% 0805
+ptft0805l6800jv ptft0805l6800jv nd thermistor ptc 680 ohm 5% 0805
+ptft0805l1000jv ptft0805l1000jv nd thermistor ptc 100 ohm 5% 0805
+tfpt1206l3900jf tfpt1206l3900jf nd thermistor ptc 390 ohm 5% 1206
+tfpt1206l6800jf tfpt1206l6800jf nd thermistor ptc 680 ohm 5% 1206
+tfpt0805l3900jy tfpt0805l3900jy nd thermistor ptc 390 ohm 5% 0805
+tfpt0805l2200jv tfpt0805l2200jv nd thermistor ptc 220 ohm 5% 0805
+tfpt0805l5600jz tfpt0805l5600jz nd thermistor ptc 560 ohm 5% 0805
+tfpt1206l1500fv tfpt1206l1500fv nd thermistor ptc 150 ohm 1% 1206
+b59050d1100b040 b59050d1100b040 nd thermistor ptc 60 ohm 30% cylind
+b59060a0000a010 495 76327 nd thermistor ptc disc
+tfpt0603l4700jm tfpt0603l4700jm nd thermistor ptc 470 ohm 5% 0603
+b59641a0105a062 495 4305 2 nd thermistor ptc 470 ohm 50% 0603
+b59010d1135b040 495 75872 nd thermistor ptc 150 ohm 30% cylin
+b59641a0095a062 495 4304 1 nd thermistor ptc 470 ohm 50% 0603
+tfpt1206l1200fv tfpt1206l1200fv nd thermistor ptc 120 ohm 1% 1206
+b59184b1120a151 b59184b1120a151 nd thermistor ptc 50 ohm 15% disc
+ptcsl03t091dt1e bc2965tr nd thermistor ptc radial lead disc
+b59601a135b62 b59601a135b62 nd thermistor ptc 470 ohm 50% 0603
+b59850t1120a62 b59850t1120a62 nd thermistor ptc 50 ohm 15% 4smd
+prf18be471qb5rb 490 8502 2 nd thermistor ptc 470 ohm 50% 0603
+tfpt1206l6201jm tfpt1206l6201jm nd thermistor ptc 6.2 k ohm 5% 1206
+b59100c150a51 b59100c150a51 nd thermistor ptc 100 ohm radial
+prf18bf471rb5rb 490 14738 1 nd thermistor ptc 470 ohm 50% 0603
+ptcsl03t081dt1e bc2964ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+tfpt1206l1001kz tfpt1206l1001kz nd thermistor ptc 1k ohm 10% 1206
+b59701a0090a062 495 2608 2 nd thermistor ptc 680 ohm 50% 0805
+b59601a0115a062 495 2412 1 nd thermistor ptc 470 ohm 50% 0603
+b59721a0070a062 495 4310 1 nd thermistor ptc 680 ohm 50% 0805
+tfpt1206l4701km tfpt1206l4701km nd thermistor ptc 4.7 k ohm 10% 1206
+b59603a0055a062 495 76367 1 nd thermistor ptc 470 ohm 50% 0603
+b59641a0105a062 495 4305 1 nd thermistor ptc 470 ohm 50% 0603
+ptft1206l1001jw ptft1206l1001jw nd thermistor ptc 1k ohm 5% 1206
+tfpt0603l4700jv tfpt0603l4700jv nd thermistor ptc 470 ohm 5% 0603
+prf18be471qs5rb 490 14736 1 nd thermistor ptc 470 ohm 50% 0603
+ptcsl20t091dbe 238167191104 nd thermistor ptc 100 ohm radial
+b59604a85a62 b59604a85a62 nd thermistor ptc 470 ohm 50% 0603
+40.0 prg18bb471mb1rb thermistor ptc 470 ohm smd 2520.0 prg18bb471mb1rb 2520 16 1.6108 8 12days arrow
+18.2 ptc 热敏电阻 smd1812p050tf jk msmd050 4 16
+17 c0200168 ptc 电阻 wmz12a 120sl4510 g8d 45 ω ± 20% dip 90ma 15mm 脚 10mm dip 1 500
+83.0 12090010 ptc 30v imax 2.5 a 0.09 ohm h 18.5 mm gr30 250 3600 gr30 250 ruef250 1
+18 热敏电阻 b59755b0115a070 500 b59755b0115a070 900
+res thermal 470 thermistor ptc ptcsgm3t081dbe ptcsgm3 ptcsgm3t081dbe 600 9920 7000 1000
+热敏电阻 ptc 126a 1 90080 500
+热敏电阻 ptc 101 ω sy15p 1 90081 500
+118 2 f2 f3 0zcd0150ff2c ptc resttble 33v 1.50 a chip 2920 bel fuse inc 0zcd0150ff2c fuse 0zcd0150ff2c 507 1369 1 nd tbd

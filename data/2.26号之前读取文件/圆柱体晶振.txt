@@ -1,0 +1,126 @@
+vt 200 f32.768 vt 200 f 32.768 插件
+dt 26 32.768 k 6pf 20ppm 32.768 khz 6pf 20ppm 直插
+xbmczlndnd 32.768 m 32.768 mhz 12.5 pf 20ppm 40 85 ℃ 圆柱 插件 2 6
+x30805msd2sc yt 38m 5mhz 20pf 20ppm 圆柱 插件 3 8
+ab26trb 32.768 khz t 20ppm 32.768 khz 12.5 pf radial 2x6mm
+cmj206t32768kdzf ut 12.5 pf 32.768 khz 20ppm radial 2x6mm
+xamchcndnd 32.768 m 32.768 mhz 12.5 pf 20ppm 20 70 ℃ 圆柱 插件 3x8
+ab38t 32.768 khz 32.768 khz 12.5 pf ¡ à 20pp through hole
+tdxlf 20611.0592 mhz20pf 20ppm tdxlf 206 20pf 11.0592 mhz 20ppm radial 2x6mm
+tdxlf 2066mhz20pf 20ppm tdxlf 206 6mhz 20pf 20ppm radial 2x6mm
+tmxli 206f32.768 khz12pf10ppm 12.5 pf 32.768 khz 10ppm tmxli 206f cylindrical can radial
+xamczlndnd 32.768 k 圆柱体 晶振 32.768 khz 12.5 pf 20ppm 40 85 ℃ 圆柱 插件 3x8
+xbmczlndnd 32.768 k 圆柱体 晶振 32.768 khz 12.5 pf 20ppm 40 85 ℃ 圆柱 插件 2 6
+6k832768f12ub 12.5 pf 32.768 khz ¡ à 20pp radial 3x8mm
+6k632768f12ub 12.5 pf 32.768 khz ¡ à 20pp radial 2x6mm
+x20601431818msd2sc yt 26m 14.31818 mhz 20pf 20ppm 圆柱 插件 2 6
+dt 26 32.768 khz 20ppm 32.768 khz 12.5 pf radial 2x6mm
+dt 38 32.768 khz 20ppm 32.768 khz 12.5 pf 6pf radial 3x8mm
+1td060dhns009 dt 26 32.768 k 20ppm radial 2x6mm
+1td125ahns018 12.5 pf 32.768 khz 5ppm radial 2.1 x6mm
+1td125bfns001 10ppm dt 26 12.5 pf 32.768 k radial 2x6mm
+1td125ahns004 dt 26 32.768 k 5ppm 12.5 pf radial 2x6mm
+1td125dhns004 dt 26 32.768 k 20ppm 12.5 pf radial 2x6mm
+1tc125bfns008 dt 38 32.768 k 10ppm 12.5 pf radial 3x8mm
+1tc125dfns019 dt 38 12.5 pf 32.768 k 20ppm radial 3x8mm
+q11c02rx1001300 32.768 khz ¡ à 20ppm pb c 002rx free 6p radial 2x6mm
+vt 200 f 32.768 khz 5ppm 12.5 pf vt 200 f 12.5 pf 32.768 khz 5ppm radial 2x6mm
+x206027msd2sc yt 26m 20pf 27mhz 20ppm radial 2x6mm
+x308032768kgb2sc yt 38 12.5 pf 32.768 khz 10ppm radial 3x8mm
+x206025msd2sc 25mhz yt 26m 20pf 20ppm radial 2x6mm
+x2060221184msd2sc 22.1184 mhz yt 26m 20pf 20ppm radial 2x6mm
+x308024msd2sc 20pf 24mhz yt 38m 20ppm radial 3x8mm
+x206017734475msd2sc 17.734475 mhz yt 26m 20pf 20ppm radial 2x6mm
+x20608msd2sc yt 26m 20pf 8mhz 20ppm radial 2x6mm
+x308012288msd2sc 20pf yt 38m 12.288 mhz 20ppm radial 3x8mm
+x206016msd2sc 16mhz yt 26m 20pf 20ppm radial 2x6mm
+x308012msd2sc 20pf 12mhz yt 38m 20ppm radial 3x8mm
+x308032768kgi2sc yt 38 10ppm 12.5 pf 32.768 khz radial 3x8mm
+x206024mpd2sc yt 26m 15pf 24mhz 20ppm radial 2x6mm
+x308036msd2sc 20pf yt 38m 36mhz 20ppm radial 3x8mm
+x206012msd2sc yt 26m 20pf 12mhz 20ppm radial 2x6mm
+x206032768kgb2sc 32.768 khz 12.5 pf 10ppm crystal round 2x ...
+x206032768kga2sc 12.5 pf 32.768 khz 5ppm yt 26 radial 2x6mm
+x30804msd2sc 20pf yt 38m 4mhz 20ppm radial 3x8mm
+x20606msd2sc yt 26m 20pf 6mhz 20ppm radial 2x6mm
+x206026msd2sc yt 26m 20pf 26mhz 20ppm radial 2x6mm
+x2060110592msd2sc yt 26m 11.0592 mhz 20pf 20ppm radial 3x8mm
+x206024msd2sc yt 26m 20pf 24mhz 20ppm radial 2x6mm
+tdxlf 206 32.768 khz 12.5 pf 20ppm tdxlf radial 2x6mm
+32.768 khz ¡ à 20ppm 12.5 p 3 ¡ á
+cmj206t32768dzbt 6pf 32.768 khz ¡ à 20pp radial 2x6mm
+cfs 20632768ezbb 32.768 khz ¡ à 10ppm 6pf 包
+cfv20632000azfb 6pf ¡ à 30ppm 32.000 kh radial 2x6mm
+cmr200t32768dzbt 6pf 32.768 khz ¡ à 20pp radial 2x6mm
+cmr200t32768dzft 12.5 pf 32.768 khz ¡ à 20pp radial 2x6mm
+cmr200t32768dzyt 32.768 khz 7pf ¡ à 20pp radial 2x6mm
+cfs 20632768dzfb 12.5 pf 32.768 khz 20ppm radial 2x6mm
+1tg100dhns001r 40.003 khz 10pf through hole
+1tc125afns027 32.768 khz 12.5 pf through hole
+1tg100dhns003r 77.503 khz 10pf through hole
+1tg100dhns002r 60.003 khz 10pf through hole
+1tm255n00y 50ppm dt 14 圆柱 插件 1x4 12.5 pf 32.768 k though hole
+cfs 20632768dzbb 32.768 khz ¡ à 20ppm 6pf 圆柱 插件 2 6
+xamczlndnd 32.768 k 12.5 pf 20ppm 40 85 ℃ 圆柱体 晶振 32.768 khz radial 3x8mm
+x206032768kgb2sc 12.5 pf 10ppm 32.768 khz yt 26 radial 2x6mm
+xbmczlndnd 32.768 k 12.5 pf 20ppm 40 85 ℃ 圆柱体 晶振 32.768 khz radial 2x6mm
+cfv 20677503dzfb 12.5 pf 77.503 khz ¡ à 20pp through hole
+cfv 20640000dzfb 12.5 pf 40khz ¡ à 20pp through hole
+cfv 20632000azfb 32khz 12.5 pf ¡ à 30pp through hole
+cfs 20632768ezfb 32.768 khz 12.5 pf ¡ à 10ppm 袋
+cfv 20640003dzfb 40.003 khz 12.5 pf ¡ à 20pp through hole
+cfv 20660000dzfb 60khz 12.5 pf ¡ à 20pp through hole
+cfv 20660003dzfb 60.003 khz 12.5 pf 20ppm through hole
+tdxlf 308 32.768 khz 12.5 pf 20ppm radial 3x8mm
+tmxli 206f 32.768 khz 12.5 pf 20ppm cylindrical can radial
+ab308 10.000 mhz 18 r60 3 8mm
+txd12m0002206ldbeo00s 12m at206 20pf 20ppm radial 2x6mm
+k26250002020 20pf 25.000 mhz 20ppm radial 2x6mm
+k26674582020 20pf 6.7458 mhz 20ppm radial 2x6mm
+k26240002020 20pf 24.000 mhz 20ppm radial 2x6mm
+k26240001520 10ppm 24.000 mhz 15pf radial 2x6mm
+k2614318182020 20pf 14.31818 mhz 20ppm radial 2x6mm
+k263276812520 12.5 pf 32.768 khz 20ppm radial 2x6mm
+k26270002020 20pf 27.000 mhz 20ppm radial 2x6mm
+k26120002020 20pf 12.000 mhz 20ppm radial 2x6mm
+k26135602020 13.560 mhz 20pf 20ppm radial 2x6mm
+k26160001210 16.000 mhz 10ppm 12pf radial 2x6mm
+k153276812520 12.5 pf 32.768 khz 20ppm radial 1x5mm
+k383276812520 12.5 pf 32.768 khz 20ppm radial 3x8mm
+txd12m0002206fdbeo00s 12m at206 12pf 20ppm through hole
+dt 26 32.768 k 6pf 20ppm 32.768 khz 6pf 20ppm through hole
+y206327681252075 12.5 pf 32.768 khz 2 6 20ppm radial 2x6mm
+y308327681252075 12.5 pf 32.768 khz 3 8 20ppm radial 3x8mm
+cfv206 60.003 kdzf 60.003 khz 12.5 pf radial 2x6mm
+cfs20632768ezb radial 2x6mm
+cfv206 77.503 kdzf 12.5 pf 77.503 khz radial 2x6mm
+cfs20632768dzv 8pf 32.768 khz radial 2x6mm
+cfs20632768hzf 12.5 pf 32.768 khz radial 2x6mm
+cfs20632768ezf 12.5 pf 32.768 khz radial 2x6mm
+cfv206 40.003 kdzf 40.003 khz 12.5 pf radial 2x6mm
+cfv206 40.000 kdzf 12.5 pf 40khz radial 2x6mm
+cfs20632768dzb 6pf 32.768 khz radial 2x6mm
+cfs20632768dzf 12.5 pf 32.768 khz radial 2x6mm
+518 3276k1320 32.768 k12.5 pf ± 20ppm 30k ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+506 12a2020 12.0 m20pf ± 20ppm 60 ω 圆柱 晶体 圆柱体 晶振 ju2 6 ju2 6
+508 12a2020 12.0 m20pf ± 20ppm 40 ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+508 06a2010 6.0 m20pf ± 10ppm 80 ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+508 1893a2010 18.9375 m20pf ± 10ppm 40 ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+508 2863a2010 圆柱 晶体 圆柱体 晶振 ju3 8 28.63636 m20pf ± 10ppm 30 ω ju3 8
+509 04a2020 圆柱 晶体 圆柱体 晶振 ju3 9 4.0 m20pf ± 20ppm 120 ω radial 3x9mm
+508 24a2020 24.0 m20pf ± 20ppm 30 ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+508 08a1810 8.0 m18pf ± 10ppm 60 ω 圆柱 晶体 圆柱体 晶振 ju3 8 ju3 8
+506 24a2020 圆柱 晶体 圆柱体 晶振 ju2 6 24.0 m20pf ± 20ppm 40 ω ju2 6
+508 0983a2020 圆柱 晶体 圆柱体 晶振 ju3 8 9.8304 m20pf ± 20ppm 60 ω ju3 8
+vt 200 f 32.768 khz 20ppm 12.5 pf radial 2x6mm
+vt 200 f 32.768 khz 20ppm 6pf radial 2x6mm
+49 322000800 1 10500 crystal 32.768 khz 12.5 pf 3.2 x1.5 mm 20500327618 yoke
+cxt0004 cristal 32.768 khz cylindrico 12.5 pf abracon ab38t 32.768 khz q1 1 abracon ab38t sim 5000.0
+2 晶振 32.768 khz ± 20ppm 圆形 双脚 直插 2 6mm 1 y1
+晶振 x1 32678 2 6 15pf 1
+359 开 主机 按键 25.0 插件 晶振 32.768 khz 晶振 ɸ 3 8 xtl 3x8 y1 1 3000
+95 1 citizen 晶体 谐振器 y3 cmr200t32768dzft cry2 6r90x1r40x1r30 32.768 k 12pf 20ppm
+32.768 khz 6pf 5ppm 圆柱 2x6 y5 xtal32khz 1.0 100.0 top
+69 石英 晶振 32.768 2 6mm dip 1 y3 3000
+插件 晶振 32.768 khz 晶振 ɸ 3 8 xtl 3x8 y1 1.0 3000.0
+32768 khz ab abs06 32768 khz 9 t 2x12 x1 2 pin 32768 khz crystal oscillator 535 10246 1 nd 2x12 abracon abs06 32768 khz 9 t 815 abs06 327 khz9 t 171 2757 32768 khz

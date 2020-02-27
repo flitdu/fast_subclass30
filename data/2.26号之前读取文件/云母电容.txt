@@ -1,0 +1,175 @@
+cd15fd221jo3 338 1046 nd cap mica 220pf 5% 500v radial
+cdv16ff221jo3f 338 3988 nd 220pf mica capacitor 1kv radial
+cd15ed300jo3f 338 2625 nd cap mica 30pf 5% 500v radial
+cdv16ff102jo3f 338 2624 nd 1000pf mica capacitor 1kv radial
+cd15ed220jo3 338 1049 nd 22pf mica capacitor 500v radial
+cd15fd221fo3f 338 2626 nd cap mica 220pf 1% 500v radial
+cd19fd332jo3f 338 2652 nd cap mica 3300pf 5% 500v radial
+cd5ec470jo3f 338 2643 nd cap mica 47pf 5% 300v radial
+mc22ff152j f 338 1353 nd cap mica 1500pf 5% 1kv 2220
+mc12fd101j f 338 1116 nd 100pf mica capacitor 500v 1210 3225 metric
+cd19fd472jo3f 338 2635 nd cap mica 4700pf 5% 500v radial
+cd15cd050do3 338 2818 nd 5pf mica capacitor 500v radial
+cdv19ff101jo3f 338 3132 nd cap mica 100pf 5% 1kv radial
+cdv16ff681jo3 338 3114 nd 680pf mica capacitor 1kv radial
+cd19fd102jo3 338 1044 nd cap mica 1000pf 5% 500v radial
+min02 002cc150j f 338 1286 nd 15pf mica capacitor 300v nonstandard smd
+mc18fa471j f 338 1121 nd cap mica 470pf 5% 100v 1812
+cd15ed680fo3f 338 2961 nd 68pf mica capacitor 500v radial
+cd15fd471jo3f 338 2591 nd cap mica 470pf 5% 500v radial
+cdv16ff102jo3 338 3095 nd 1000pf mica capacitor 1kv radial
+cd19fd102jo3f 338 2597 nd cap mica 1000pf 5% 500v radial
+cd16fd101jo3 cd16fd101jo3 nd cap mica 100pf 5% 500v radial
+mc12cd030d tf mc12cd030d tf nd cap mica 3pf 0.5 pf 500v 1210
+mc12fa181f f mc12fa181f f nd cap mica 180pf 1% 100v 1210
+cd19fd501jo3f 338 2609 nd cap mica 500pf 5% 500v radial
+cd16fd132jo3 338 2794 nd cap mica 1300pf 5% 500v radial
+mc12cf100d f 338 1347 nd cap mica 10pf 0.5 pf 1kv 1210
+cd10fa331jo3f 338 2932 nd cap mica 330pf 5% 100v radial
+mc08ea220j tf mc08ea220j tf nd cap mica 22pf 5% 100v 0805
+cd15fd331jo3 338 1045 nd cap mica 330pf 5% 500v radial
+mc22ff821j f 338 4122 nd cap mica 820pf 5% 1kv 2220
+mc08ca060d f mc08ca060d f nd cap mica 6pf 0.5 pf 100v 0805
+mc08ca040d f mc08ca040d f nd cap mica 4pf 0.5 pf 100v 0805
+mc08ea300j tf mc08ea300j tf nd cap mica 30pf 5% 100v 0805
+cd10fd131jo3f cd10fd131jo3f nd cap mica 130pf 5% 500v radial
+cd5ec620jo3 cd5ec620jo3 nd cap mica 62pf 5% 300v radial
+min02 002cc070d f min02 002cc070d f nd cap mica 7pf 0.5 pf 300v smd
+cd10ed430go3 cd10ed430go3 nd cap mica 43pf 2% 500v radial
+cd5cc150do3 cd5cc150do3 nd cap mica 15pf 0.5 pf 300v radial
+cd19fd112go3 cd19fd112go3 nd cap mica 1100pf 2% 500v radial
+cd10ed620go3f cd10ed620go3f nd cap mica 62pf 2% 500v radial
+cd10fd121go3 cd10fd121go3 nd cap mica 120pf 2% 500v radial
+cd15fa911jo3 cd15fa911jo3 nd cap mica 910pf 5% 100v radial
+cm04ed360go3 cm04ed360go3 nd cap mica 36pf 500v radial
+cm04fd201go3 cm04fd201go3 nd cap mica 200pf 500v radial
+cd15fc621fo3 cd15fc621fo3 nd cap mica 620pf 1% 300v radial
+cds15fa122jo3 cds15fa122jo3 nd cap mica 1200pf 5% 100v radial
+mc12cd100c f mc12cd100c f nd cap mica 10pf 0.25 pf 500v 1210
+min02 002ec201j tf min02 002ec201j tf nd cap mica 200pf 5% 300v smd
+cdv19ff751jo3f cdv19ff751jo3f nd cap mica 750pf 5% 1kv radial
+cd7fc241jo3 cd7fc241jo3 nd cap mica 240pf 5% 300v radial
+cd6ed390go3 cd6ed390go3 nd cap mica 39pf 2% 500v radial
+mcm01 001ed102j f mcm01 001ed102j f nd cap mica 1000pf 5% 500v smd
+mc18fd101f f mc18fd101f f nd cap mica 100pf 1% 500v 1812
+cmr03c1r0docm cmr03c1r0docm nd cap mica 1pf 300v radial
+cd7fa391go3 cd7fa391go3 nd cap mica 390pf 2% 100v radial
+cd5fa151go3 cd5fa151go3 nd cap mica 150pf 2% 100v radial
+cd7fa471go3 cd7fa471go3 nd cap mica 470pf 2% 100v radial
+cmr03e470joym cmr03e470joym nd cap mica 47pf 50v radial
+cmr06f362gpdp cmr06f362gpdp nd cmr mica
+cmr04e510jodr cmr04e510jodr nd cap mica 51pf 500v radial
+cmr06f751godr cmr06f751godr nd cap mica 750pf 500v radial
+cmr05f121fodp cmr05f121fodp nd cap mica 120pf 500v radial
+cd5fy361go3f cd5fy361go3f nd cap mica 360pf 2% 50v radial
+cd30fd272fo3 cd30fd272fo3 nd cap mica 2700pf 1% 500v radial
+cmr04e470godr cmr04e470godr nd cap mica 47pf 500v radial
+cmr06f112jodr cmr06f112jodr nd cap mica 1100pf 500v radial
+cmr04f331foam cmr04f331foam nd cap mica 330pf 100v radial
+cmr03e430gocp cmr03e430gocp nd 43pf mica capacitor 300v radial
+cmr04f181godr cmr04f181godr nd cap mica 180pf 500v radial
+cmr06f122fodr cmr06f122fodr nd cap mica 1200pf 500v radial
+cmr04e820fodp cmr04e820fodp nd cap mica 82pf 500v radial
+cd30fc303jo3 cd30fc303jo3 nd cap mica 0.03 uf 5% 300v radial
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 220pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.461 x0.201 11.70 mmx5.10 mm 0.382 9.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 220pf ± 5% 1kv 云母 55 ° c 150 ° c 通孔 引线 0.234 5.94 mm rf q 0.429 x0.150 10.90 mmx3.80 mm 度 最大 0.461 11.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 30pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.449 x0.169 11.40 mmx4.30 mm 0.358 9.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1000pf ± 5% 1kv 云母 55 ° c 150 ° c 通孔 引线 0.234 5.94 mm rf q 0.461 x0.173 11.70 mmx4.40 mm 度 最大 0.500 12.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 22pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.449 x0.169 11.40 mmx4.30 mm 0.358 9.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 220pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.461 x0.201 11.70 mmx5.10 mm 0.382 9.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 3300pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.681 x0.291 17.30 mmx7.40 mm 0.551 14.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 47pf ± 5% 300v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.142 6.90 mmx3.60 mm 0.209 5.30 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1500pf ± 5% 1kv 云母 55 ° c 125 ° c 贴装型 2220 5750 引线 rf q 0.224 x0.197 5.70 mmx5.00 mm 度 最大 0.157 4.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 100pf ± 5% 500v 云母 55 ° c 125 ° c 贴装型 1210 3225 引线 rf q 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 4700pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.701 x0.350 17.80 mmx8.90 mm 0.579 14.70 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd15 电容 5pf ± 0.5 pf 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.449 x0.169 11.40 mmx4.30 mm 0.358 9.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 100pf ± 5% 1kv 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.642 x0.189 16.30 mmx4.80 mm 0.500 12.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 680pf ± 5% 1kv 云母 55 ° c 150 ° c 通孔 引线 0.232 5.90 mm rf q 0.461 x0.173 11.70 mmx4.40 mm 度 最大 0.500 12.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1000pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.650 x0.220 16.50 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde min 电容 15pf ± 5% 300v 云母 55 ° c 200 ° c 贴装 smd 引线 射频 0.218 x0.400 5.54 mmx10.16 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 470pf ± 5% 100v 云母 55 ° c 125 ° c 贴装型 1812 4532 引线 rf q 0.177 x0.126 4.50 mmx3.20 mm 度 最大 0.079 2.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 68pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.449 x0.181 11.40 mmx4.60 mm 0.358 9.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 470pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.469 x0.220 11.90 mmx5.60 mm 0.402 10.20 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1000pf ± 5% 1kv 云母 55 ° c 150 ° c 通孔 引线 0.232 5.90 mm rf q 0.461 x0.173 11.70 mmx4.40 mm 度 最大 0.500 12.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1000pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.650 x0.220 16.50 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd16 电容 100pf ± 5% 500v 云母 55 ° c 150 ° c 通孔 引线 0.234 5.94 mm rf q 0.429 x0.150 10.90 mmx3.80 mm 度 最大 0.461 11.70 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 带卷 tr 电容 3pf ± 0.5 pf 500v 云母 55 ° c 125 ° c 贴装 1210 3225 引线 rf q 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 180pf ± 1% 100v 云母 55 ° c 125 ° c 贴装 1210 3225 引线 rf q 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 500pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.642 x0.201 16.30 mmx5.10 mm 0.512 13.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1300pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm rf q 度 最大
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 10pf ± 0.5 pf 1kv 云母 55 ° c 125 ° c 贴装型 1210 3225 引线 rf q 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 330pf ± 5% 100v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.390 x0.220 9.90 mmx5.60 mm 0.370 9.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 22pf ± 5% 100v 云母 55 ° c 125 ° c 贴装型 0805 2012 引线 rf q 0.079 x0.049 2.00 mmx1.25 mm 度 最大 0.055 1.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 330pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.469 x0.209 11.90 mmx5.30 mm 0.390 9.90 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 820pf ± 5% 1kv 云母 55 ° c 125 ° c 贴装型 2220 5750 引线 rf q 0.224 x0.197 5.70 mmx5.00 mm 度 最大 0.157 4.00 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 6pf ± 0.5 pf 100v 云母 55 ° c 125 ° c 贴装 0805 2012 引线 rf q 0.079 x0.049 2.00 mmx1.25 mm 度 最大 0.055 1.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 4pf ± 0.5 pf 100v 云母 55 ° c 125 ° c 贴装 0805 2012 引线 rf q 0.079 x0.049 2.00 mmx1.25 mm 度 最大 0.055 1.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 30pf ± 5% 100v 云母 55 ° c 125 ° c 贴装型 0805 2012 引线 rf q 0.079 x0.049 2.00 mmx1.25 mm 度 最大 0.055 1.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 130pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.382 x0.201 9.70 mmx5.10 mm 0.358 9.10 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd5 电容 62pf ± 5% 300v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.150 6.90 mmx3.80 mm 0.220 5.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde min 带卷 tr 电容 7pf ± 0.5 pf 300v 云母 55 ° c 200 ° c 贴装 smd 引线 射频 0.218 x0.400 5.54 mmx10.16 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 43pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd5 电容 15pf ± 0.5 pf 300v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.118 6.90 mmx3.00 mm 0.189 4.80 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd19 电容 1100pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.650 x0.220 16.50 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 62pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 120pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.382 x0.201 9.70 mmx5.10 mm 0.350 8.90 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 910pf ± 5% 100v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.469 x0.220 11.90 mmx5.60 mm 0.402 10.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 91pf ± 5% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cm04 电容 36pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cm04 电容 200pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.142 3.60 mm 0.390 x0.209 9.90 mmx5.30 mm 0.370 9.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd15 电容 620pf ± 1% 300v 云母 55 ° c 125 ° c 通孔 引线 0.232 5.90 mm 0.461 x0.209 11.70 mmx5.30 mm 0.382 9.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1200pf ± 5% 100v 云母 55 ° c 125 ° c 通孔 引线 0.234 5.90 mm 0.460 x0.180 11.70 mmx4.60 mm 0.311 7.90 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 10pf ± 0.25 pf 500v 云母 55 ° c 125 ° c 贴装 1210 3225 引线 rf q 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde min02 带卷 tr 电容 200pf ± 5% 300v 云母 55 ° c 200 ° c 贴装 smd 引线 射频 0.218 x0.207 5.54 mmx5.26 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 750pf ± 5% 1kv 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd7 有源 电容 240pf ± 5% 300v 云母 55 ° c 125 ° c 通孔 引线 0.173 4.40 mm 0.264 x0.110 6.70 mmx2.80 mm 0.260 6.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd6 电容 39pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.173 4.40 mm 0.276 x0.094 7.00 mmx2.40 mm 0.173 4.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mcm01 电容 1000pf ± 5% 500v 云母 55 ° c 200 ° c 贴装 smd 引线 射频 0.460 x0.400 11.68 mmx10.16 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 100pf ± 1% 500v 云母 55 ° c 125 ° c 贴装 1812 4532 引线 rf q 0.177 x0.126 4.50 mmx3.20 mm 度 最大 0.079 2.00 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 1pf ± 0.5 pf 300v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.110 6.90 mmx2.80 mm 0.189 4.80 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd7 有源 电容 390pf ± 2% 100v 云母 55 ° c 125 ° c 通孔 引线 0.173 4.40 mm 0.276 x0.126 7.00 mmx3.20 mm 0.260 6.60 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 150pf ± 2% 100v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.169 6.90 mmx4.30 mm 0.228 5.80 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 470pf ± 2% 100v 云母 55 ° c 125 ° c 通孔 引线 0.173 4.40 mm 0.276 x0.126 7.00 mmx3.20 mm 0.260 6.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cds19 电容 2200pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.343 8.70 mm 0.630 x0.189 16.00 mmx4.80 mm 0.461 11.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 33pf ± 5% 500v 云母 55 ° c 150 ° c 通孔 引线 0.224 5.70 mm 0.449 x0.169 11.40 mmx4.30 mm 0.358 9.10 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 47pf ± 5% 50v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.118 6.90 mmx3.00 mm 0.189 4.80 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 3600pf ± 2% 500v 云母 55 ° c 150 ° c 通孔 引线 0.350 8.90 mm 0.681 x0.299 17.30 mmx7.60 mm 0.559 14.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 240pf ± 5% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 51pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.150 3.80 mm 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 6pf ± 0.5 pf 500v 云母 55 ° c 150 ° c 通孔 引线 0.150 3.80 mm 0.358 x0.189 9.10 mmx4.80 mm 0.331 8.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 200pf ± 5% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 750pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.350 8.90 mm 0.650 x0.209 16.50 mmx5.30 mm 0.512 13.00 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 120pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.224 5.70 mm 0.461 x0.181 11.70 mmx4.60 mm 0.370 9.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 360pf ± 2% 50v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.189 6.90 mmx4.80 mm 0.240 6.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 2700pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.772 x0.252 19.60 mmx6.40 mm 0.850 21.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 47pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.150 3.80 mm 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 1100pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 引线 0.350 8.90 mm 0.650 x0.220 16.50 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv19 有源 电容 2500pf ± 1% 1kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 1800pf ± 5% 1kv 云母 55 ° c 125 ° c 通孔 引线
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 330pf ± 1% 100v 云母 55 ° c 125 ° c 通孔 引线 0.150 3.80 mm 0.390 x0.220 9.90 mmx5.60 mm 0.382 9.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1300pf ± 5% 500v 云母 55 ° c 150 ° c 通孔 引线 0.350 8.90 mm 0.661 x0.220 16.80 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 15pf ± 5% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 270pf ± 2% 2kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.772 x0.252 19.60 mmx6.40 mm 0.858 21.80 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 51pf ± 2% 1kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 43pf ± 2% 300v 云母 55 ° c 125 ° c 通孔 引线 0.118 3.00 mm 0.272 x0.118 6.90 mmx3.00 mm 0.201 5.10 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 2500pf ± 5% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 51pf ± 1% 1kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 180pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 引线 0.150 3.80 mm 0.382 x0.209 9.70 mmx5.30 mm 0.370 9.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 62pf ± 1% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 68pf ± 1% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.780 x0.252 19.80 mmx6.40 mm 0.858 21.80 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 1200pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.350 8.90 mm 0.661 x0.220 16.80 mmx5.60 mm 0.520 13.20 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 220pf ± 1% 500v 云母 55 ° c 150 ° c 通孔 引线 0.150 3.80 mm 0.390 x0.220 9.90 mmx5.60 mm 0.382 9.70 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 51pf ± 1% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 150pf ± 1% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 82pf ± 2% 1kv 云母 55 ° c 125 ° c 通孔 引线
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 82pf ± 1% 500v 云母 55 ° c 125 ° c 通孔 引线 0.150 3.80 mm 0.370 x0.201 9.40 mmx5.10 mm 0.350 8.90 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 有源 电容 4700pf ± 1% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.811 x0.382 20.60 mmx9.70 mm 0.902 22.90 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 0.03 µ f ± 5% 300v 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.831 x0.461 21.10 mmx11.70 mm 0.921 23.40 mm
+云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 4300pf ± 5% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 6200pf ± 5% 500v 云母 55 ° c 150 ° c 通孔 引线 0.425 10.80 mm 0.780 x0.291 19.80 mmx7.40 mm 0.870 22.10 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 2700pf ± 1% 2.5 kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.831 x0.449 21.10 mmx11.40 mm 0.921 23.40 mm
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 2500pf ± 1% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 2200pf ± 1% 1kv 云母 55 ° c 125 ° c 通孔 引线
+电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 3300pf ± 2% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.799 x0.350 20.30 mmx8.90 mm 0.890 22.60 mm
+132 7823 53.0 涤纶 电容 1nf 1kv 云母 电容 3a102jp 5.0 1 3000
+涤纶 电容 1nf 1kv 云母 电容 3a102jp 5.0 1.0 3000.0

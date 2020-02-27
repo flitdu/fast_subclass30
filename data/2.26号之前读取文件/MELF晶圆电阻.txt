@@ -1,0 +1,4 @@
+1.6 m melf mmu0204 res melf 1.6 m 1% 50ppm 1 4w 0204 2 2000 20000
+470k melf mmu0204 res melf 470k 1% 50ppm 1 4w 0204 2 2000 20000
+680k melf mmu0204 res melf 680k 1% 50ppm 1 4w 0204 2 2000 20000
+3m melf mmu0204 res melf 3m 1% 50ppm 1 4w 0204 1 1000 10000

@@ -1,0 +1,384 @@
+smd 高频 电感 10nh film type rf ind 10nh ± 0.1 nh 0402 l0402 lqg15hs10nj02 l300 l301 2.0 10
+smd 高频 电感 2.7 nh film type rf ind 2.7 nh ± 0.1 nh 0402 l0402 lqg15hs2n7s02 l302 l307 2.0 10
+smd 高频 电感 2nh film type rf ind 2nh ± 0.1 nh 0402 l0402 lqg15hs2n0s02 l303 l305 l306 3.0 15
+smd 高频 电感 1.2 nh film type rf ind 1.2 nh ± 0.1 nh 0402 l0402 lqg15hs1n2s02 l304 1.0 5
+电容 l0603 4.7 uh cig10w4r7mnc fixed ind 4.7 uh 620ma 500 mohm l1 1 10
+电感 100nh l0603 100k
+0805 10uh 50 0 uygun enduktans de ğ erli fb muadil
+0805 15uh 50 0 uygun enduktans de ğ erli fb muadil
+inductance 47nh 0805 coil 0.05 ce201210 47nj ce201210 47nj 0.026 4000 reel 12k 7 10days 60k 左右
+inductance 100nh 805 0.05 ce201210 r10j ce201210 r10j 0.027 4000 reel 8k 7 10days 90k 左右
+inductance 100uh 805 0.2 mlz2012n101lt000 mlz2012n101lt000 0.02 2000 reel 16k 3 5days
+电感 2.4 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 2 l1 l5
+电感 2.2 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 1 l3
+电感 5.1 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 1 r5
+电感 6.2 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 1 l2
+电感 10uh 叠层 0.55 a 1206 smd 1 l6 taiyo yuden
+电感 10uh 叠层 0.55 a 0805 smd 1 l8 taiyo yuden
+l1 l2 fixed ind 2nh 900ma 100 mohm smd lqg15hs2n0s02d 2000 2 2000
+l3 fixed ind 1nh 1a 70 mohm smd lqg15hs1n0s02d 1000 1 1000
+l4 fixed ind 3nh 800ma 170 mohm smd lqg15hs3n0s02d 1000 1 1000
+fixed ind 8.2 nh 5% q 7 300ma 240 mohm 0402 smd 1 8mm reel 5000 lqg15hs8n2j02d 0.001 0.001
+wire wound inductor 220nh 2% 120ma dcr 2.5 q 25 0603 smd 1 8mm reel 5000 sunlord lqw18anr22g00 sdwl1608cr22gstfm01 0.01 0.01
+wire wound inductor 300nh 2% 150ma dcr 2.5 q 30 0603 smd 2 8mm reel 10000 ceaiya sunlord wl03gtr30 wi0603ucr30jst lf sdwl1608cpr30gstf 0.01 0.02
+fixed inductors 10 nh 5% q 7 350ma dcr 0.42 0402 smd 1 8mm reel 5000 sunlord mlk1005s10njt000 sdhl1005c10njtdf 0.001 0.001
+l1 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805 805 2 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805
+电感 10uh lqm18fn100m00d 0603 6 fixed inductors 10uh power supply choke
+电感 22uh mlz1608m220wtd25 0603 20 fixed inductors 0603 22uh 2.4 ohms 55ma aec q200
+电感 220uh nrs4018t221mdgj nrs4018 2 taiyo yuden fixed ind 220uh 170ma 4.56 ohm
+100 uh 0.5 a shielded inductor sm package coilcraft mss6132 104ml farnell 2288665 994 mss6132 104mlc
+l1 fixed inductor smd 4018 4.7 uh 20% q 4.7 2mhz srn4018ta 4r7m srn4018ta 4r7m 3000 6000 0.133 6000 0.1728 10 15days moq 3000 dgk
+inductor 10uh 1206 1000 man uf acturer man uf acturers part no 7447918 inductance 10 μ h dc current 25ma nominal q at frequency 50 2mhz inductance tolerance 10% type chokes surface mount 1008 1206 technology multi layer material ferrite dimensions l x w x h 32 x 16 x 11 mm
+c1056 51 nh fixed ind 51 nh 300ma 260 mohm johanson technology inc l 07c5n1sv6t 712 1461 1 nd rc0402
+c1116 43 nh fixed ind 43 nh 300ma 240 mohm johanson technology inc l 07c4n3sv6t digi key 712 1460 2 nd rc0402
+l1 27nh fixed ind 27nh 300ma 460 mohm lqg15hs27nj02d digi key 490 2628 1 nd ind 0402
+l9 1nh fixed ind 1nh 300ma 120 mohm smd l0402
+10uh 1210 1 200
+6.8 uh 1210 1 200
+4.7 uh 1210 1 200
+电感 ihlp3232dz100m11 10uh 8.64 mm x 8.18 mm x4.00 mm 1 ihlp3232dzer100m11 1000 5.353 5353.0 5000 5.3448 26724.0 6500 5.3448 34741.2 剩下 6500 10 15days dgk 2000p 4500p
+smd inductor 0402 size 15nh pc 400 36501e15njtdg
+smd inductor 0603 size 1.6 nh pc 400 36501j1n6jtdg
+smd inductor 0603 size 3.9 nh pc 130 36501j3n9jtdg
+smd inductor 0603 size 7.5 nh pc 400 36501j7n5jtdg
+smd inductor 0603 size 15nh pc 400 36501j15njtdg
+smd inductor 0603 size 18nh pc 400 36501j18njtdg
+smd inductor 0603 size 47nh pc 400 36501j047jtdg
+smd inductor 0805 size 3.3 nh pc 800 36502a3n3jtdg
+smd inductor 0805 size 180nh pc 400 5 1624113 0
+smd inductor 0805 size 270nh pc 200 36502ar27jtdg
+smd inductor 0805 size 330nh pc 200 36502ar33jtdg
+smd inductor 23nh 1206 size lqw31hn23nj03l pc 500
+smd inductor 27nh 1206 size lqw31hn27nj03l pc 500
+smd inductor 33nh 1206 size lqw31hn33nj03l pc 200 mcft000143 multicomp
+smd inductor 64nh 1206 size lqw31hn64nj03l pc 400
+smd inductor 215nh 1206 size lqh31hnr21k03l pc 400
+smd inductor 1.2 uh 1206 size lqh31mn1r2k03l pc 400
+smd inductor 1210 size 2.2 uh pc 400 lqh32cn2r2m33l
+smd inductors 0805 size 4.7 uh pc 400 lqm21nn4r7k10l
+smd inductor 1210 size 4.7 uh pc 400 lqh32cn4r7m33l
+smd inductor 1210 size 10uh pc 400 lqh32cn100k33l
+chip inductor 1206cs series 680nh 1206cs 681xjbc pc 1200 1206cs 681xjbc coil craft
+chip inductor 1812ps series 4532 10uh 600 reel 1812ps 103mlc pc 200 1812ps 103mlc coil craft
+chip inductor 1812ps series 4532 22uh 600 reel 1812ps 223mlc pc 400 1812ps 223mlc coil craft
+induttanza 1.8 nh 0.3 a 14% 0402 l 07c1n8sv6t johanson technology smt 40 ° ..+ 100 ° fae smd ls 0402 40597 l 07c1n8sv6t johanson
+29.0 电感 xal5050 223mec 22uh 20% 5.28 5.48 5.1 mm coilcraft 28
+94 电感 100uh 0805 1 4
+5.6 uh inductor 5.6 uh dcr 23.5 mohm coilcraft xal5050 562meb 1010.0
+6.8 uh inductor 6.8 uh dcr 46.8 mohm ihlp2525czer6r8m11 2020.0
+12 tyco inductor 0603 15nh fn 126 5461 pc 20.0
+15 inductor 0603 27nh fn 126 5468 pc 10.0
+16 inductor 0603 47nh fn 126 5474 pc 40.0
+17 inductor 0603 68nh fn 126 5478 pc 40.0
+18 inductor 1206 84nh lqw31hn84nj03l fn 134 3229 pc 40.0
+19 tyco inductor 0603 180nh fn 126 5487 pc 20.0
+20 inductor 1206 215nh lqh31hnr21k03l fn 151 5416 pc 20.0
+21 inductor 0805 270nh fn 126 5534 pc 100.0
+22 inductor 1206 290nh lqh31hnr29k03l fn 151 5417 pc 80.0
+23 inductor 1206 390nh lqh31hnr39k03l fn 151 5418 pc 20.0
+24 inductor 1206 2.2 uh lqh31mn2r2k03l fn 151 5437 pc 20.0
+25 chip inductor 1812ps series 4532 10uh 600 reel 1812ps 103mlc coil craft pc 70.0
+inductor 3.3 nh multilayer ce201210 3n3j 100 nbsu
+inductor 3.3 nh wirewound aisc 0805 r0033j t 50 nbsu
+inductor 3.3 nh unshielded multilayer inductor 130 mohm max 0805 aimc 0805 3n3s t 100 nbsu
+inductor 3.3 nh unshielded multilayer inductor 130 mohm max 0805 aimc 0805 3n3s t 100 nbsu
+3.9 nh resc0402 n generic chip inductor l1
+15nh resc0402 n generic chip inductor l3
+indutor smd 100uh lqh55dn101m03l 41
+ind ind 10 µ h 300ma 572 mohm 1210 l1 1 lqh32cn100k23l
+29 电感 100nh l0603 100k
+23 1 l3 ind 39nh 200ma 1.06 ohm 0402 lqg15hn39nj02 0.0
+电容 l0603 4.7 uh cig10w4r7mnc fixed ind 4.7 uh 620ma 500 mohm l1 1 10
+电感 1 l3 820nh ± 5% 1206 smd
+2 l1 l2 10uh ± 10% 0805 smd
+l1 15nh smd 0603 0.1
+l2 10uh smd 0603 0.1
+9 l 100nh 0603 100nh 0603 电感 100 201711 15
+11 l 330u s6 6 330uh 6 6mm 电感 100 201711 15
+电容 l0603 4.7 uh cig10w4r7mnc fixed ind 4.7 uh 620ma 500 mohm l1 1 10
+4.7 uh l1 l2 l sop74 电感 2 20
+20 inductor 电感 hbls1005 6n8s 0402 dxd mhfl1005 6n8j 1
+smd indutors cm45 series 220nh cm453232 r22ml
+smd indutors cm45 series 330nh cm453232 r33ml
+smd indutors cm45 series 15uh
+smd inductors 0805 size 2.8 nh
+smd inductors 0603 size 3.9 nh 36501j3n9jtdg
+smd inductors 0603 size 5.6 nh 36501j5n6jtdg
+smd inductors 0603 size 7.5 nh 36501j7n5jtdg
+smd inductors 0603 size 8.2 nh 36501j8n2jtdg
+smd inductors 0603 size 9.5 nh
+smd inductors 0603 size 12nh 36501j012jtdg
+smd inductors 0603 size 15nh 36501j15njtdg
+smd inductors 0603 size 22nh 36501j022jtdg
+smd inductors 0603 size 47nh 36501j047jtdg
+inductor 680nh 1206cs 681xjbc 1206cs 681xjbc coil craft
+smd inductors 0806 size 1uh
+smd inductors 0805 size 4.7 uh lqm21nn4r7k10l
+smd inductors 1210 size 4.7 uh lqh32cn4r7m33l
+smd inductors 1210 size 10uh lqh32cn100k33l
+smd inductor 64nh 1206 size lqw31hr64nk03l lqw31hr64nk03l
+smd inductor 100nh 1206 size lqw31hr10k03l lqw31hr10k03l
+smd inductor 290nh 1206 size lqh31hnr29k03l lqh31hnr29k03l
+smd inductor 390nh 1206 size lqh31hnr39k03l lqh31hnr39k03l
+smd indutors lqh31mh series 1206 size 2.7 uh lqh31mn2r7k03l lqh31mn2r7k03l
+inductance 6.8 nh 0402 4 40000 0
+indutor 47nh 5% 380ma 290mohm dcr smd 0603 lqw18an47nj00d 72
+smd 101040 2.2 uh 20% 20000
+电感 33uh ± 10% rh104 33uh l10x10x4 inductor 2
+0805 10uh 50 0 uygun enduktans de ğ erli fb muadil
+0805 15uh 50 0 uygun enduktans de ğ erli fb muadil
+2.0 cdrh5d28 6.8 uh l10 l11 ind smd a6 7 2.0 4.0 0.0 40000.0
+lqw15an22ng00d 22nh 叠层 10000
+lqw15an27ng00d 27nh 叠层 10000
+lqg15hn68nj02d 68nh 10000
+1.0 el0057170 inductor smd 1206 inductor smd 1207 l19
+sdwl1005c68njstf 68nh 叠层 0402 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 10000.0 9500.0 10000.0
+12.0 电感 0.56 uh ± 5% 0603 6.0 1
+nlcv32t 100k pf ind storage 10uh 0.25 a smd eia1210 iec32 nlcv32t 100k pf 2000.0 2000.0 0.5377 11 15days verical 1 1
+744776333 ind storage 3mh 0.28 a smd d10.6 h6.9 mm 744776333 500.0 1.0
+tsl0808ra 472jr13 pf ind storage 4.7 mh 0.11 a rad5 d9h9mm tsl0808ra 472jr13 pf 1000.0 1.0
+mlz2012m4r7wt000 ind storage 4.7 uh 0.1 a smd eia0805 iec20 mlz2012m4r7wt000 4000.0 1400.0 0.5051 10 17days dgk
+7.0 lqm21pn4r7mgr fixed ind 4.7 uh 800ma 230 mohm 10500.0 lqm21pn4r7mgrd 10500 4000.0 0.276 d 仅 代表 纸袋 盘装 lc
+8.0 lqh32mn100j23l fixed ind 10uh 190ma 1.8 ohm smd 10500.0 lqh32mn100j23l 10000 2000.0 17 0.6567 10 14days verical
+9.0 lqh32mn120j23l fixed ind 12uh 180ma 2 ohm smd 10500.0 lqh32mn120j23l 8000 2000.0 0.9086 7 13days
+lqg15hs6n2s02d inducteurs fixes 6.2 nh 1 30 120 100000 lqg15hs6n2s02d 0.359 0.2774 0.022 10000.0 8 14days 22 24wks m m
+26 电感 4204 1901 00180 smd cfl2012b4r7mb 4.7 uh 0.2 a 0805 1 l1 a 5000 10000
+电感 nl453232t 221j pf 1812 2000
+电感 swrh1207b 680mt 12.0 12.0 7.0 mm 1000
+spoe 0120 l4 10uh 10uh 740ma 10uh 740ma we tpc series inductor p n 744031100 inductor2 1 744 031 100 digi key 732 1010 1 nd ja ja we tpc s 500 744031100 500.0 6.79 1000.0 6 14days e
+46 灌装 电感 4204 1901 00150 smd inductors 6.8 uh sgc74 6r8m 1 l1 a 5000 10000
+47 灌装 电感 4204 1901 00160 smd inductors 2.2 uh sgc74 2r2m 1 l2 a 5000 10000
+48 一体 成型 电感 4204 1901 00190 smd inductors 2.2 uh 10 10mm 2r2m 1 l3 a 5000 10000
+36.0 si122i1019x 001 電感 ind coil 22nh 0201 140ma 1.92 ω ± 3% 3.0 sunlord sdcl0603q22nh02b01 lqp03tg22nh02d 50 0.03 电感 阻值 说明 lc
+86.0 si110i1029x 001 電感 ind coil 10nh 0201 190ma 1.2 ω ± 3% 2.0 sunlord sdcl0603q10nh02b01 lqp03tg10nh02d 50 0.0302 电阻 说明 lc
+97.0 si4121206dx 001 電感 ind bead 120 ω 0402 500ma 0.20 ω ± 25% sunlord 1.0 sunlord upz1005u121 2r0tf 1
+160.0 si4601309dx 001 電感 fb 0.15 ohm 600ohm 100mhz 25% 1000ma smd0603 g sunlord 1.0 sunlord upz2012e102 1r5tf 1
+18.0 si110i1029x 001 電感 ind coil 10nh 0201 190ma 1.2 ω ± 3% 1.0 sunlord sdcl0603q10nh02b01 lqp03tg10nh02d 100 0.0302 10nh ± 3% 190ma 电阻 说明 lc
+75.0 si122g308bx 000 電 感器 貼 片式 ind m l 2.2 uh 0603 750ma 0.3 ω ± 20% sunlord 1.0 sunlord wpn201610h2r2mt wpn201610h2r2mt shunluo 50 0.284 lc
+24.0 lq g18hnr10j00d inductor 0603 smd 100nh 12000.0 lqg18hnr10j00d
+42 电感 10uh 505020 l4 6 l10 11 4 l4 l5 l10 l11 1.0 8000
+43 电感 47uh 505020 l8 9 l12 1 l8 1.0 2000
+45 电感 6.8 uh 10 10 l1 1 l1 1.0 2000
+4r7 cd43 电感 cd43np 4.7 uh 2.0 100.0
+111020a poreq2262 111020a p 片状 电感器 2.2 μ h ± 30% 8.19 m ω 16.5 a 13 13 7.7 车规 2017 08 15 120.0 clf12577nit 2r2n d
+31 5 10uh l0805 1550 1860 3410 0805 10uh ± 10% 15ma 0.053 3420 lc
+32 1 10uh nc l0805 310 310
+13 电感 4.7 nh l0201 l1 1
+14 电感 6.8 nh l0201 l2 l3 2
+15 电感 4.7 uh l0603 l12 1
+chip inductor 1210 100uh 10% 300
+inductor cw68 220uh 450ma 350
+电感 sdcl1005c33njtdf 0402 10 000 0 2017 09 21 2017 09 21 sdcl1005c33njtdf 10000 0.01 2
+rf 电感 fixed ind 12nh 750ma 71mohm 2% lqw18an12ng10d smd 2% 12 000 0 2017 09 21 2017 09 21 lqw18an12ng10d 12000 0.2328 8 14days
+rf 电感 fixed ind 10nh 750ma 71mohm 2% lqw18an10ng10d smd 2% 12 000 0 2017 09 21 2017 09 21 lqw18an10ng10d 12000 0.4684 7 12days
+电感 fixed ind 33nh 260ma 630 mohm 2% lqw15an33ng00d 0402 10 000 0 2017 09 21 2017 09 21 lqw15an33ng00d 10000 0.4325 7 10days
+线圈 电感 744045004 4.7 µ h ± 20% 1.24 a 150m ω 1812 744045004 100
+110103200030x cd 电感 0805 3.3 uh 50ma 3000
+0603 电感 2.2 uh 2r2 ± 20% 0.2 ω 1000ma smd 0603 1
+0603 电感 470nh 470n ± 5% 0.35 ω 150ma smd 0603 2
+0805 电感 0.47 uh r47 ± 5% 0.55 ω 150ma 0805 6000
+0603 电感 2.2 uh 2r2 ± 20% 0.2 ω 1000ma smd 0603 3000
+0603 电感 470nh 470n ± 5% 0.35 ω 150ma smd 0603 6000
+25 电感 30uh ± 20% 1.5 a 6x6x4.5 1 l1
+26 电感 100uh ± 20% 950ma 6x6x5.5 1 l2
+27 电感 33uh ± 20% 400ma 3x3x1.5 1 l3
+15 1.12 yn4010091 电感 0603 10uh ± 20% 1.0 l1 30000.0 0.0 0.085 0.085
+12 1.12 yn4010091 电感 0603 10uh ± 20% 1.0 l1 30000.0 0.0 0.085 0.085
+343.0 11802022 电感 22nh 22nh 0603 30000.0
+344.0 11802023 电感 30nh 30nh 0603 30000.0
+347.0 11802028 电感 10uh 12 12 7 30000.0
+348.0 11802039 电感 47uh 2a8 20% xln 30000.0
+349.0 11802040 电感 33u 3.2 a 20% l8080 30000.0
+350.0 11802041 电感 bead 180ohm 0805 30000.0
+351.0 11802042 电感 lpc5015ft 2r2m a lvs505040 30000.0
+343.0 11802022 电感 22nh 22nh 0603 30000.0
+344.0 11802023 电感 30nh 30nh 0603 30000.0
+1 300 l5 电感 15nh ± 5% 0402 电感 15nh ± 5%
+1 300 l6 电感 9.1 nh ± 5% 0402 电感 9.1 nh ± 5%
+2.0 2000.0 srn6045 150m srn6045 l12 l13 inductors srn6045 150m 15uh 1.9 a 98.5 mohm 6x6mm
+1.0 1000.0 ferrite bead 0805 l1 inductors taiyo yuden bk2125hs601 t 500ma 600ohms 0805
+12 c0200110 电感 6r8m 6d28 6.8 μ h m ± 20% 6.7 6.7 28 smd smd 1 500
+60503000860 电感 电感 2.2 uh ± 30% 6a 6x6x4.5 mm 2pin smd srn6045 2r2y 48
+60503002740 60503.0 电感 电感器 xal7070 1uh ± 20% 0.00281 r 25a 7.5 7.2 7mm 2pin smd coilcraft xal7070 102mec 6
+60503002750 60503.0 电感 电感器 ser1360 6uh ± 20% 0.00605 r 9.4 a 12.7 12.6 5.45 mm 3pin smd coilcraft ser1360 602kld 6
+电感 680nh j 0805 0805 1 400 l3
+neosid 29 8268 05 270nh 5% of stock 60
+neosid 29 8268 21 5.6 uh 5% of stock 60
+neosid 29 8268 26 15uh of stock 30
+186 7825 22.0 电感 68uh 2a l3 l 1040 smd 1 3000
+12 电感 swpa4026s220mt l4x4 2500
+电感 电感 10uh smd0630 smd0630 l101 1 5000
+10uh 1206 1206 1 l3 5000
+电感 1.5 uh ± 30% 12mr 5.4 a 6 6 4.5 mm 6045 2pin smd sunlord swpa6045s1r5nt 400
+l8 0x8 0 chilisin lvs808040 100k n 10uh 10% 1.0 l6 chilisin lvs808040 100k n 10uh 10% l8 0x8 0 电感 4 100
+电感 1uh 20% 2016 3.35 a 2.05 a wpn201610h1r0mt 等级 d wpn201610h1r0mt 20
+电感 33nh l0603 l8 l13 2 600
+电感 4.7 nh l0603 l10 1 300
+电感 560nh l0603 l3 l4 2 600
+电感 47uh 3a cd10 l3 1 300
+61 07 000449 电感 100uh 12 12 7.6 线径 0.35 mm 以上 210
+63 ea030100174 电感 68uh l13r13 600 电感 线径 大于 0.7 mm
+15 3 30370001 电感 bcihp0730 100m 10uh 3a max 2 l1 l5 诚阳 bcihp0730 100m 400
+11 3 30370001 电感 bcihp0730 100m 10uh 3a max 1 l5 诚阳 bcihp0730 100m 200
+60503001500 电感 电感 nr8040 22uh ± 20% 85.8 mr 2.2 a 8.0 8.0 4.0 mm 2pin smd taiyo yuden nr8040t220m 电感
+60503001230 电感 电感 10 μ h ± 20% 1.9 a 84.5 mohm 6028 2pin smd taiyo yuden nr6028t100m 30
+电感 12 mlz1608n100l 10uh â ± 20% shielded fixed inductor 300ma 600mohms max 0603 1608 metric 1 200000
+46 6104 2512125m 电感 电感 man uf acturing dfe252012f 1r0m 25 12 12 mm 1uh 20% 电流 5a dfe252012f 1r0m 80 quad
+29 电感 2nh 0402 0402 2nh ± 0.3 nh 900ma
+30 电感 3.6 nh 0402 0402 3.6 nh ± 0.3 nh 750ma
+78 电感 inducrot 22nh ± 10% 1.85 a 0805 mlh2012f22nk smt mlh2012f22nk 1 40
+11 030055 电感 swpa4018s4r7mt 40
+11 030016 电感 22 uh vls252012hbx 2r2m 1 40
+11 030055 电感 swpa4018s4r7mt 40
+电感 l1 smd 7.1 x6.6 x3mm 15uh sunltech 1 10000
+6 053w222203211 053 inductor 电感 green multayer chip inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100
+lqm21fn100m70l 0805 2012 metric l1 l4 l5 l7 l100 l101 l201 10uh 固定 电感器 7.0 28.0
+35 电感 1.0 nh 0.3 nh l0402 2 l10 l14 4200
+36 电感 24nh l0402 1 l13 2100
+14.0 电感 10uh cmfl1206 100kt l1 l2 1206 2.0 2000
+30.0 电感 cmfl0603 100kt 10uh l1 l2 l3 l4 l5 l6 l7 l8 0603 8.0 8000
+31.0 电感 cmfl1206 100kt l9 1206 1.0 1000
+2003010077 电感 30 lqm18pn2r2mfrl
+26.0 22uh 0603 ls1 1.0 30.0
+27.0 22uh 1206 l1 1.0 10.0
+22uh 603 l1 1 30
+6.0 15uh 1206 l1 l2 1.0 10.0
+28.0 22uh 603 ls1 1.0 30.0
+29.0 22uh 1206 l1 l2 2.0 20.0
+60 053w147a11c11 703110001311 电感 choke 4.7 uh ± 10% 1.22 a 3.5 x3x1.6 mm smd gotrend gotrend gsdr31p 4r7k 1 100 mbs 5330 1.0
+lqh1n100k34m00 fixed inductors 1206 10uh 10% 1206 l19 l20 l21 2.0 1050.0
+wi ind 0010 l1 l2 10mh 2 fixed ind 10mh 130ma 228 ohm inc 74404086103 732 10747 1 nd 1560
+wi ind 0017 l4 220uh 1 fixed ind 220uh 200ma 46 ohm power solutions inc 84224c 811 3636 6 nd 780
+42 电感 srn6045 330m srn6045 ws040001 1 9200
+27 电感 sru3028a 330y l1 1 20
+电感 100uh 12 12 7 l1 12 12 7 1 9
+电感 10uh l5 1206r 1.0 100.0 bottom
+23 top 电感 5.6 nh 0402 5.6 nh 0402 电感 l2 l3 2 20
+33 top 电感 2.4 nh 0402 2.4 nh 0402 电感 r36 r50 2 20
+2 bot 电感 5.6 nh 0402 5.6 nh 0402 电感 l3 1 120
+11 电感 47uh 1206 1 fh 4000
+swpa3012s100mt swpa3012s100mt l1 swpa3012s100mt inductor iron 1 10
+swpa6045s470mt swpa6045s470mt l6 swpa6045s470mt inductor 1 10
+0402 l 100nh 5% 0402 100nh 5% l1 电感 1 40 0402 100nh 5%
+11 电感 cmi322513x100kt cmi322513x100kt 10uh ± 10% 100 2900
+7 电感 cmp321609xd100k cmp321609xd100k 10uh ± 10% e 4800
+9 电感 pio54100kt 10uh ± 10% 100 1000
+55 电感 vlcf5020t 2r2n2r6 3 smd 2r2 300
+4 80 l1 l2 l3 l4 cm322522 470kl 652 cm322522 470kl fixed ind 47uh 75ma 7 ohm smd 1210 3225 metric cm322522 470kl l cm322522
+22.0 电感 l 2016 2.2 uh smt 3 l1 l2 l3 300
+l1 digi key srn3012ta 100mct nd inc srn3012ta 100m 10 µ h unshielded wirewound inductor 890ma 245 mohm 1212
+y13 l02 s000205 fixed ind 10uh 450ma 360 mohm nlcv32t 100k pf 电感 55
+y13 l02 s000205 fixed ind 10uh 450ma 360 mohm nlcv32t 100k pf 电感 59
+y13 l12 s000144 fixed ind 10uh 15ma 800 mohm smd 0805 mlf2012e100kt000 固定 电感器 120
+y13 l12 s000144 fixed ind 10uh 15ma 800 mohm smd 0805 mlf2012e100kt000 固定 电感器 70
+1210 3225 2.2 uh 5% 320ma nlv32t 2r2j pf 电感 2000.0
+95 0603 电感 100uh 0603 1
+电感 1005l c lqg15hs2n7b02d 2.7 nh 2.7 nh ± 0.3 nh q 8 dcr 0.12 idc 850ma srf 6g 1.0 100.0
+电感 ind2sm 2r5x2r0 lqh2hpnr47njrl 0.47 uh 0.47 uh ± 30% 3.5 a 1.65 adcr 0.031 srf 190m 1.0 100.0
+电感 ind2sm 2r5x2r0 lqh2hpn2r2mjrl 2.2 uh 2.2 uh ± 20% 1.7 a 0.99 adcr 0.092 srf 50m 1.0 100.0
+电感 ind2sm 12r5x12r5 1 fda1055 h 2r2m p3 2.2 uh 2.2 uh ± 20% 15.5 a 13.6 adcr 0.0048 srf 0.1 m 1.0 20.0
+95 0603 电感 100uh 0603 1
+电感 47uh 电感 12 12 1 l5
+电感 2.2 uh 电感 4 4 3 l6 l7 l8
+电感 10uh 5 5 工字 3030000006002 1 l1
+55.0 电感 744373460033 ss60 l 744373460033
+56.0 电感 la0r47 sr04 la0r47
+电感 10uh 5 5 工字 3030000006002 1 l1
+60503002850 电感器 10uh 20% 0.28 r 3 3 0.9 mm 2pin smd lqh3npz100mgrl 50
+67.0 电感 0r 0603 2.0 l1 l4 6000
+35 电感 3631c101l ind12127 11
+36 电感 3631c470l ind12127 11
+44.0 电感 4.7 uh 74479775247 27.0
+46.0 电感 47uh 0.47 a 74406042470 1.0
+电感 4.7 uh 0805 ± 10% 1 0 r1 50.0
+62 电感 mlf1608dr15jtd25 0603 0.15 uh ± 5% 603.0 3 3000
+lqw15an2n2c10d smd0402 2.2 uh 0402 10000
+电感 10uh 2a 4020 smd l2 l 4020 smd 1 2.0 6000.0
+电感 10uh 2a 4020 smd l 4020 smd l2
+elnp03n3k0201ct trj 3.3 nh 0201 电感 l1 1 3000
+elnp04n7k0201ct trj 4.7 nh 0201 电感 l2 1 3000
+10nh l0201 l3 1 3000
+fixed ind 4.7 uh 3a 40.3 mohm smd nr6028t4r7m taiyo yuden 1
+fixed ind 4.7 uh 1a 130 mohm smd mlp2520s4r7mt0s1 2
+63 表贴 电感 10uh 8x8x4.5 mm 8x8x4.5 mm 1.0 l18 800
+64 表贴 电感 5.3 uh 10x10x3.8 mm smd 10x10x3.8 mm smd 2pin 1.0 l21 800
+65 表贴 电感 4.1 uh 10x10x3.8 mm smd 10x10x3.8 mmsmd 2pin 1.0 l23 800
+60 电感 220uh 1.6 a 0.39 ω l1 l4 cdrm127 30
+电感 10uh ind0603 200
+电感 3.9 nh 0402 1200
+61 电感 ckrh8d43 330 yuechi chn 1.0 50.0 50.0 smt 33uh 2a
+62 电感 sdrh0845nt330 vkiing 50.0 0.0 smt 33uh 2a
+63 电感 cer8042b 330m r sagami 50.0 0.0 smt 33uh 2a
+1 lc lb3218t470k00 电感 47uh lb3218t470k 1210 505 y
+ind 1.5 uh irat 3500ma 60mohm 40 ° c 85 ° c 2520 dfe252012p 1r5m p2 l4 l5 l6 3.0 135000.0 135020.0
+smd inductor 4u7h 1.2 a 74438333047 ind 4.7 uh isat 1.2 a 136mohm 40 � c � 125 � c 3.00 mm x 3.00 mm x 1.50 mm smt l3 1.0 45000.0 45020.0
+lqm18fn100m00d fixed inductor 10uh ± 20% 50ma 8000
+147 e00105001e 1 50000 l4 inductor 10uh 10a 14.75 ohm 20% coilcraft xal1010 103me smd 10x11.3 x10mm 10uh 10a s ind xal6060 coilcraft xal1010 103me
+48 inductor slf0403 221mtt 220uh sunltech tech 1 l1 5 100 200
+49 inductor slf0403 470ktt 47uh sunltech tech 1 l2 5 100 200
+8 132912 132556 1 lc makk2016t1r0m 电感 makk2016t1r0m 10 uh 0806 8 y 0
+30 132912 132556 1 lc rp5015ta0220m 电感 srp5015ta 220m 22uh 52 52 15 mm 5 y 0
+10 132926 1 lc01209 t0r56k0n 电感 cl201209t r56k n 560nh 0805 162 y
+37 132926 1 lc lh1207s680mtt 电感 slh1207s680mtt 68uh 12 12 8mm 80 y
+7 132936 1 lc cb2518t220k00 电感 cb2518t220k 22uh 1007 电感 cb2518t220k 22uh 1008 y
+26 132936 1 lc cb2518t220k00 电感 cb2518t220k 22uh 1007 电感 cb2518t220k 22uh 1008 y
+27 132936 1 lc qm18fn100m00d 电感 lqm18fn100m00d 0603 10uh 电感 lqm18fn100m00d 0603 11uh y
+28 132936 1 lc hk100515nj0t0 电感 hk100515nj t 15nh 0402 电感 hk100515nj t 15nh 0403 y
+55 132936 1 lc sdr13070680kl 电感 sdr1307 680kl 68uh 13 13 73 mm 电感 sdr1307 680kl 68uh 13 13 74 mm y
+71 132936 1 lc cb2518t220k00 电感 cb2518t220k 22uh 1007 电感 cb2518t220k 22uh 1008 y
+72 132936 1 lc qm18fn100m00d 电感 lqm18fn100m00d 0603 10uh 电感 lqm18fn100m00d 0603 11uh y
+73 132936 1 lc hk100515nj0t0 电感 hk100515nj t 15nh 0402 电感 hk100515nj t 15nh 0403 y
+19 133048 1 lc rn6045ta06r8m 电感 srn6045ta 6r8m aec q200 68 uh 20% 33 a 63 y 0
+l 028 intertechnology inc ihlp2020bzerr68m01 068 uh 10a 20% 0216 x0204 x0078 575
+32phk4201 12 l1100 073g 6318910m 996590001004 chip inductor 1.8 uh 10% 0.95 r 25ma 452378
+p04 16024r ind 56 nh 0402 mco 05088 251 2 ea l11 l12 coilcraft 0402cs 5n6xjlw ind 56 nh 0402
+p04 16446r ind 39 nh 5% 0402 41796 254 1 ea l13 coilcraft 0402cs 3n9xjlx ind 39 nh 5% 0402
+22uh 电感 0805 1.0 6.0 0805 22uh 20.0 0.1095 moq 20 lc
+1 lc lb3218t470k00 电感 lb3218t470k 47uh 1210 505 507 y
+电感 100nh 5% 200ma 1 0402 lqg15hsr10j02d l7
+电感 82nh 5% 150ma 1 0402 lqg15hs82nj02d l8
+电感 150nh 5% 140ma 1 0402 lqg15hsr15j02d l9
+电感 22nh 3% 350ma 1 0402 lqg15hn22nh02d l10
+电感 22nh 1 l0402 lqg15hn22nh02d l1
+inductor chip 0805 rf 220nh ± 5% l2 l3 corporation lcwc0805jr22gtar 1800
+电感 10uh lqm18fn100m00d 0603 6 fixed inductors 10uh power supply choke
+电感 22uh mlz1608m220wtd25 0603 20 fixed inductors 0603 22uh 2.4 ohms 55ma aec q200
+l1 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805 805 2 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805
+l2 l3 l4 1.5 µ h shielded wirewound inductor 3a 82 mohm 1008 chip inductor 2520 low profile 1.5 uh 3
+l5 fixed ind 10uh 100ma 600 mohm chip inductor 0805 10.0 uh 1
+68uh ind b78108 s1683 j 68uh 10% 410ma 1.33 ohm 1.0
+39 l0603c10njrmst fixed ind 10nh 300ma 260 mohm kemet l0603c10njrmst 1 1000 0 l0603c10njrmst kemet 1000 0.063 8 14days
+100 uh 0.5 a shielded inductor sm package coilcraft mss6132 104ml
+电感 10uh 叠层 0.55 a 1206 smd l6 aiml 1206hc 100m t
+电感 10uh 叠层 0.55 a 0805 smd l8 aiml 0805hc 100m t
+42 电感 10uh 505020 l4 6 l10 11 4 l4 l5 l10 l11 1.0 8000
+43 电感 47uh 505020 l8 9 l12 1 l8 1.0 2000
+45 电感 6.8 uh 10 10 l1 1 l1 1.0 2000
+smd inductor 10uh 0603 1 meisongbeiabracon mc1608 100k or aiml 0603 100k t 200
+smd inductor 22uh special 1 meisongbei coilcraftabracon msrh4d22 220n or msrh4d28 220m ormss5121 223ml or aspi 0428s 220 200
+电感 磁珠 4.7 uhdi30g122m4u7 3012 sm3.0 3.0 1.2 mm 1 l26 di30g122m4u7 2017 03 17 3
+电感 磁珠 6.8 nhcm0603 6n8jt 0603 cc 4 l106 l108 l109 l110 cm0603 6n8jt 2017 03 17 2
+17 dj 6uh8 73 电感 sp06o301m6u8 sp06 1.0 l1 srp7030 6r8fm && srp7030 6r8fm sp06o301m6u8 2017 04 21 3.0
+19 dj 05 02 电感 10uh 0603ebls1608 1k 0603r 7.0 l5 l9 l10 l11 l12 l13 l14 hy 2.0
+电感 mgfi1608d100 10uh 3ma 0603 mgfi1608d100 10uh 3ma 0603
+4 inductor np04szb2r2n 2.2 uh inductor l1 4
+131 019 1.0 l1 inductor cdrh6d38 5r0nc 5.0 uh sumida cdrh6d38 5r0nc harvey king inc cdrh6d38 5r0nc
+131 020 1.0 l2 inductor cdrh8d43 150nc 15uh sumida cdrh8d43 150nc harvey king inc cdrh8d43 150nc
+131 029 1.0 l3 inductor 6.8 uh 20% 2525 dale ihlp2525czer6r8m01 70 ihlp2525czer6r8m1
+8 1 l2 corporation nlc453232t 150k 445 1165 1 nd inductor shield 15uh tssop smt
+24 1 l1 inductor rf 2.2 nh 600ma 2n2 lqp03tn2n2b02d ± 0.1 nh
+26 4 l3 l4 l6 l8 inductor ferrite 240 ohm 0.2 a cim03u241 cim03u241nc
+127 1 l1 15uh 20% 2.6 a inductor power 15uh 20% smd abracon corporation aspi 8040s 150m t ind aspi 8040s 150m t aspi 8040s 150m tct nd tbd
+130 1 l4 3.6 nh 300ma 0402 inductor 3.6 nh 300ma 0402 lqg15hn3n6s02d l0402 490 6562 1 nd tbd
+131 1 l5 0.082 uh 300ma 0603 inductor 82nh 300ma 0603 lqg18hn82nj00d indc1608x95n 490 6585 1 nd tbd
+1211002838 inductor 0.082 uh 5% 300ma smd 0603 hci1608f 82nj 西北 臺 慶 tai tech hci1608f 82nj
+1211004306 inductor 36 nh 03 nh 03 a smd 0402 lqg15hn3n6 台灣 taiwan co ltd lqg15hn3n6s02d
+24 电感 3 hcd54 101m cd75 lp1 lp2 lp3
+56 电感 3 电感 100uh slf7045 lp1 lp2 lp3
+电感 mgfi1608d100 10uh 3ma 0603 mgfi1608d100 10uh 3ma 0603 100 30000 1 l2 电感 l 10uh irate 3ma rdc 2.55 ω max q 35 55 ° c 125 ° c 0603 mgfi1608d100
+电感 lqw15an22ng00d 22nh 0402 10000.0
+lqw15an27ng00d 27nh 0402 10000.0
+lqw15an68nj00d 68nh 0402 10000.0
+sdwl1005c82njstf 82nh 0402 10000.0
+电感 nl453232t 221j pf 1812 2000 nl453232t 221j pf 0.87 8 12days 1500 纳 一川
+电感 swrh1207b 680mt 12.0 12.0 7.0 mm 1000 swrh1207b 680mt 1.04 lc
