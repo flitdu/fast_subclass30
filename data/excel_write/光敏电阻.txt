@@ -1,4 +1,4 @@
 m3se050012 5800b 光敏电阻 5800b 5mm 直插 chian
 光敏电阻 光敏电阻 5800b 5mm 直插 光敏电阻 5800b 5mm 直插 光电 器件 光敏电阻 spectrum 400nm to 1100nm peak spectral sensitivity 850nm iquite 0.1 µ a max vceo 12v max veco 5v max 25 ° c 80 ° c 5mm 直插 草帽 接收 头 5800b
-5800b 光敏电阻 5800b 5mm 直插 chian 光敏电阻 5800b 5mm 直插 2 ls01 ls1 crb1 2 r03 0001
-光敏电阻 光敏电阻 5800b 5mm 直插 光敏电阻 5800b 5mm 直插 100 30000 1 ls1 光电 器件 光敏电阻 spectrum 400nm to 1100nm peak spectral sensitivity 850nm iquite 0.1 µ a max vceo 12v max veco 5v max 25 ° c 80 ° c 5mm 直插 草帽 接收 头 5800b
+5800b 光敏电阻 5800b 5mm 直插 chian 光敏电阻 5800b 5mm 直插 2 ls01 ls1 crb1 2
+光敏电阻 光敏电阻 5800b 5mm 直插 光敏电阻 5800b 5mm 直插 100 30000 1 ls1 光电 器件 光敏电阻 spectrum 400nm to 1100nm peak spectral sensitivity 850nm iquite 0.1 µ a max vceo 12v max veco 5v max 25 ° c 80 ° c 5mm 直插 草帽 接收 头 5800b 光敏电阻 5800b 5mm 直插

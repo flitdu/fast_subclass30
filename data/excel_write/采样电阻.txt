@@ -1,3 +1,4 @@
+rc lr1206f0r009e041w 金屬 合金 微電阻 1206 1% 0.009 ohm ever 1w 4000
 57 r76 1 0.02 r res thick film 0.02 ohm 5% 1 16w smd1206 r1206 100 1206 1% 0.02 r 200 5000 0.077 lc
 59 r90 1 0.01 r res thick film 0.01 ohm 5% 1 16w smd1206 r1206 100 1206 0.01 r 1% 500 5000 0.0586 lc
 2 r72 r80 res smd 0.2 ohm 5% 1w 2512 73l7r20j 2000.0
@@ -16,17 +17,28 @@ resistor res 0.02 r 1 wsl0805r0200fea18 smd 0.01
 康铜 电阻 5m ω 3w 1% 插件 rs1 rs2 rs3 1000
 电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 8w 0805 r18 1 10
 电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 6w 0402 r36 r37 2 20
+电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 8w 0805 r18 1 10
+电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 6w 0402 r36 r37 2 20
 电阻 10m 2512 10m 1% 2w smd 2512 erj mp4pf10mu
+smd 1206 0.01 ω 1 2w 20000
 smd 1206 0.01 ω 1 2w 20000
 1.0 0.02 1% r174 0805 1.0 1.0 0.0 20000.0
 2.0 0.02 1% r176 r177 r0603 1.0 2.0 0.0 40000.0
 1.0 25mr 1% r324 r1206 1.0 1.0 0.0 20000.0
+20m res smd 0.02 ohm 1% 1w 2512 wslt2512r0200fea dale rc2512
+1206 91mr 80
+res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf product detail en cra2512 fz r010elf cra2512 fz r010elfct nd 1775054 10000 20000
+0.02 res mf 0.02 ohm 1 10w 1% 0603 intertechnology wsl0603r0200fea r14 rc0603 ov 20
+0805 0.03 欧姆 res 1% 200
 1.0 er0055650 res smd 2010 0.25 r rl2010fk 070r25l res smd 2010 0.25 r rl2010fk 070r26l r4 r5 r154 r155
 1.0 er0055660 res smd 2010 0.01 r rl2010fk 070r01l res smd 2010 0.01 r rl2010fk 070r02l r157
 23 电阻 4204 0206 00010 res smd 002 ω 1 4w 土 1% 1210 1 r11 a 5000 10000 1
 2.0 res smd 0.51 ohm 1% 1 10w 0201 rohm 0.51 r ucr006yvpflr510 100.0 ucr006yvpflr510 rohm 15000.0 0.826 6 13days moq 15000 e
 mceresno20a06 70.0 2.0 ea res smd 0.01 ohm 1w 1206 wide resistor x erj b2cfr01v erjb2cfr01v 2000.0
 mceresno2003c resistor 50mohm 500mw 1% wsl2010r0500fea 25 100000
+1.0 0.02 1% r174 0805 1.0 1.0 0.0 20000.0
+2.0 0.02 1% r176 r177 r0603 1.0 2.0 0.0 40000.0
+1.0 25mr 1% r324 r1206 1.0 1.0 0.0 20000.0
 金属膜 电阻 pe2010fke070r02l 20m ω ± 1% 1 2w 2010 贴装 pe2010fke070r02l 150
 电阻 tlr2bn 10l0 f k0a 1 2010 tlr2attd10l0f koa 2010 a 2.0678 7 12d
 3.0 3000.0 10mohms 2512 r55 r59 r61 resistor erj mp4pf10mu res 2512 0.01 r 2w 1%
@@ -59,14 +71,35 @@ smd1w 1206 0.03 r 1 1.1 1 r3 1000
 resistor shunt 4527 0 02 1% wsr3r0200feb 1 520
 resistor shunt 4527 0 02 1% wsr3r0200feb 1 220
 18 r41 r45 25m cra2512 fz r025elf current sense resistors smd 0.025 ohms 1% 3w 2 20000
+996510017225 25 03 2009 31 12 9999 r1501 resistor fixed others 20w rst r max 0r05 1 10w
+996510023466 25 03 2009 31 12 9999 r1622 resistor fixed others 20w rst r max 0r05 1 16w
 32phk4201 12 r139 061g0402000 jt 996510026837 rst 0402 0.05 r max 1 16w 452378
 p02 10702r res 03 ohm 1% 1 2w powermetal mco 325 52 10 ea r62 r66 r78 r169 r170 r269 r284 r325 r363 r364 wsl20103l0fea res 03 ohms 1% 1 2w powermetal strip resistor
 p02 16379r 01 1% 1watt sense resistor 2010 case 47139 65 1 ea r64 wsl20101l0fea18
 p02 17328r res 015 ohm 1w 1% 2512 smd 55701 124 2 ea r63 r65 erj m1wtf1m5u res 015 ohm 1w 1% 2512 smd
+1206 91mr 150
+60 y 3.0 r702 r711 r801 res thick film current sensing 1206 smd stackpole inc csr 1 2 0.5 1% i 0.5 r1206 2 1206 1 1 2w
+1 p02 17572r res 0.001 1% 1w sense resistor 1206 case 10 r94 r114 r135 r155 r169 r194 r202 r244 r522 r5521 wslp12061l000fea res 0.001 1% 1w sense resistor 1206 case
+1 p02 17071r res 000025 ohm 4w 1% 2725 smd 2 r258 r4252 sei stackpole inc css2725ftl250 res 000025 ohm 4w 1% 2725 smd
+1 p02 17603r res 001 ohm 1 3w 1% 0603 4 r316 r317 r524 r743 stackpole inc csm0603ft10l0 res 001 ohm 1 3w 1% 0603
+pn 20014 res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf product detail en cra2512 fz r010elf cra2512 fz r010elfct nd 1775054
 37 r32 res smd 0.05 ohm 1% 1 4w 1206 wsl1206r0500fea dale 465 wsl1206r0500fea dale 4000.0 500 0.4098 10 15days 拿 500p 1 450
 38 r39 res smd 0.039 ohm 1% 1 2w 1206 1 2176055 5 amp connectors 465 1 2176055 5 amp connectors 1000.0 500 0.1628 10 15days 拿 500p 1 450
+r108 43jr20e 3w ohmite 0r20 5% 3w
+r236 2512 r015f lrf2512 01 r015 f dale 15mr 2% 1w current sense
+r243 43jr20e 3w ohmite 0r20 5% 3w
+4 r9 resistor pmr03ezpfu 10l0 10mohm 0603 1 rohm
+resistor 0.001 ohm 1w 5% smt box 62 7 10
+resistor 0.075 ohm power film resistor rm 221 p538 60 mp9100
+resistor 0.1 ohm 1w smt 2512 footprint box 72 8 8 pt.10 ct nd
+resistor 0.22 ohm 1% 1w smt 2512 footprint rm 221 p12 100 pt.22 yct
+resistor 0.3 ohm 1% 1w smt 2512 footprint rm 221 p11 100 pt.30 yct nd
+resistor 0.51 ohm 1w smt resistor 2515 footprint rm 221 p18 90 pt.51 yct nd
+resistor 0.75 ohm smt box 65 24 60
 wsl2010r0100fea 0.01 ohm 1% 2010 1 res thin film 1206 0.01 ohm 1% 0.5 w 1 2w ± 75ppm c aec q200
 wsl2010r1600fea 0.16 ohm 1% 2010 1 res thin film 1206 0.16 ohm 1% 0.5 w 1 2w ± 75ppm c aec q200
+0.02 res mf 0.02 ohm 1 10w 1% 0603 intertechnology wsl0603r0200fea
+20m res smd 0.02 ohm 1% 1w 2512 wslt2512r0200fea dale
 r19 rl0603fr 070r01l 0.01 om 0603 1 rl0603fr 070r01l 5000 0.3525 5000 8 12days moq 5000 avnet
 101 094 20 r57 r64 resistor 0047 ohm 5% 1 10w 0603 ecg erj l03kj47mv digi key corp p47njct nd
 mceresno20a06 70.0 2.0 ea res smd 0.01 ohm 1w 1206 wide resistor x erj b2cfr01v erjb2cfr01v

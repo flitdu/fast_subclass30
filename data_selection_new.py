@@ -7,28 +7,33 @@ import linecache
 import matplotlib.pyplot as plt
 from data_operation.txt_operate import OperateTXT
 
+def shuffle(origin_txt, shuffle_txt):
+    out = open(shuffle_txt, 'w', encoding='utf-8')
+    lines = []
+    with open(origin_txt, 'r', encoding='utf-8') as infile:
+        for line in infile:
+            lines.append(line)
+    random.shuffle(lines)
+    for line in lines:
+        out.write(line)
+    infile.close()
+    out.close()
 
-def merge_txt_files(lines_number=0):
+
+def merge_txt_files(lines_number, shuffle_tag):
     f_1 = open('selection_data.txt', 'w')
     f_1.truncate()
     f_1.close()
+    PATH = r'D:\dufy\code\fast_subclass30\data\excel_write'
 
-
-    merge_path = r'D:\dufy\code\fast_subclass30\data\excel_write'  # 读取文件夹路径!!!!!!!!!!!!
-    file_names = os.listdir(merge_path)
-
-    for i, name0 in enumerate(file_names):  # 文件夹下文件循环
-        path = merge_path + '\\' + name0
-        print('读取txt： ', i+1, path)
-
-    file_names = tuple(os.listdir(merge_path))  # 转为tuple
+    file_names = tuple(os.listdir(PATH))  # 转为tuple
     fs_list = []
     label_number = {}
     for filename in file_names:
         fs_list.append(open(filename, 'w', encoding='utf-8'))
     # for i in range(len(file_names)):  # 遍历各txt
     for i, name0 in enumerate(file_names):  # 遍历各txt
-        txt_path = merge_path + '\\' + name0
+        txt_path = PATH + '\\' + name0
         print('读取', txt_path)
         txt = open(txt_path, 'rb')
 
@@ -49,16 +54,16 @@ def merge_txt_files(lines_number=0):
                 # print(linecache.getline(txt_path, i))
                 # if linecache.getline(txt_path, i):
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                # print(line)
+                # print(line.strip('\n'))
                 # if linecache.getline(txt_path, i):
                 if i in test_slice:  # 如果在随机取的值里
                     # print('test')
-                    OperateTXT.txt_write_line('selection_data.txt', line)
+                    OperateTXT().txt_write_line('selection_data.txt', line.strip('\n'))
         else:  # 直接全部写进去
             num.append(n)
             for i in num:
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                OperateTXT.txt_write_line('selection_data.txt', line)
+                OperateTXT().txt_write_line('selection_data.txt', line.strip('\n'))
     print(label_number)
     for i in label_number:
         #     print(i, a[i])
@@ -68,7 +73,8 @@ def merge_txt_files(lines_number=0):
     plt.show()
     print('txt_get_somelines: done!!!!')
 
-
+    if shuffle_tag == 1:
+        shuffle('selection_data.txt', 'selection_data_shuffle.txt')
 
 if __name__ == '__main__':
-    merge_txt_files()
+    merge_txt_files(12, 1)

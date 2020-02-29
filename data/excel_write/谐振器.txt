@@ -8,4 +8,13 @@
 73 晶振 cstce20m0v53c r0 y1 ceralock 1 20
 65 晶振 cstcr4m0g53 a0 1.0 50.0 50.0 smt 4mhz
 8m y1 xtal1 100
+crystals resonators cer res z091412 zta120 mt zta1200 mt 1200 mhz 2l ceramic res hosonic 1464
+crystals resonators cer res z092988 zta18430 df 18432 mhz 2l ceramic res hosonic 3000
+crystals resonators cer res z092536 cstce10m0g52 r0 cstce10m0g52 r0 1000 mhz 3l smt ceramic res 3000
+crystals resonators cer res z092992 cstcr4m00g53 r0 cstcr4m00g53 r0 mur 400 mhz 3l smt ceramic res 3000
+crystals resonators cer res z093483 csalf4m00g55 b0 csalf4m00g55 b0 4000 mhz 0 csalf4m00g55 b0 63
+crystals resonators cer res z093430 nrts400 dz2 ztt400 mg 400 mhz 3l ceramic resonator nsk 72
+crystals resonators cer res z093432 nrt1000 dz2 ztt1000 mt 1000 mhz 3l ceramic resonator nsk 6510
+crystals resonators cer res z092286 lt450ew lt450ew 450khz 75 khz cer filter waysun 199
 x1 resonator ceramic w caps 4.0 mhz digi key x902 nd 0.563
+谐振器 hc 49u s 8mhz 20pf 直插 1 标准件

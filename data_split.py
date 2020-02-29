@@ -51,7 +51,7 @@ class Operate_txt:
                 labels_name.append(name0)
                 print()
                 print('\033[1;32m {}读取结束,行数：{}\033[0m'.format(name0, i))
-            print(lines_nunber, labels_name)
+            # print(lines_nunber, labels_name)
             print("\033[1;31m 数据集共：{}条\033[0m".format(sum(lines_nunber)))
             for i in range(len(lines_nunber)):
                 print('\033[1;31m __{}__数量：{},占比{:.1f}%\033[0m'.format(labels_name[i], lines_nunber[i], 100*lines_nunber[i]/sum(lines_nunber)))
@@ -158,7 +158,7 @@ def train_datas_split():
     f_test.close()  # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\test.txt')  # 添加需要操作的文件路径
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\fasttext.test1125.txt')  # 添加需要操作的文件路径
-    a = Operate_txt(r'D:\dufy\code\fast_subclass30\selection_data.txt')  # 添加需要操作的文件路径
+    a = Operate_txt(r'D:\dufy\code\fast_subclass30\selection_data_shuffle.txt')  # 添加需要操作的文件路径
     a.txt_print()
     # a.txt_write('text_write_test.txt')   # 写入文件路径
 

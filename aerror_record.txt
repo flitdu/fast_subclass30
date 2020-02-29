@@ -521,3 +521,479 @@ __label__采样电阻 , p02 16379r 01 1% 1watt sense resistor 2010 case 47139 65
 __label__排阻 , p02 16648r resnet 51 ohm 5% 025 w 8 0402 resistors 38 x16 mm smd 53128 90 3 ea rn2 rn3 rn4 exb 2hv510jv resnet 0402 51 ohms 5%
 __label__电容器阵列与网络 , p03 11419r capnt 4caps cer 01 uf 1206 2 mco 12025 153 3 ea cn1 cn2 cn3 ecj rvb1c104m capnt 4caps cer 01 uf 1206 20%
 __label__功率电感 , p04 09435r ind 0805 15 amps 330 mco 387 253 1 ea l7 blm21pg331sn1 ind ferrite bead 0805 15 amps 330
+__label__标准时钟振荡器 , 45 oscillator sit8008 25mhz 5032 sit8008ac 31 33e 25.000000 y sitime xtal 0532 2
+__label__标准时钟振荡器 , 46 oscillator sit9102 125mhz 5032 sit9102ac 231n33e125.00000 y sitime xtal 0533 6 1
+__label__贴片电感 , 1 l1 srn4026 100m inductor 10uh 20% 4x4mm
+__label__直插电解电容 , c02063 capacitor pth ceramico 100nf 50v 50
+__label__功率电感 , c24016 indutor radial pth 68uh 10% 2a lhl13tb680k 720
+__label__CBB电容 , 金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
+__label__功率电感 , 1 l1 inductor 6.8 uh 4.0 a 30% smd taiyo yuden nr8040t6r8n
+__label__功率电感 , 6.8 uh inductor 6.8 uh 4.0 a 30% smd l1 taiyo yuden nr8040t6r8n 1
+__label__碳膜电阻 , carbon film resistor cr14w2k4jt 碳膜 電阻 1 4w 5% 2.4 k t 5000
+__label__碳膜电阻 , carbon film resistor cr14w820rjf 碳膜 電阻 1 4w 5% 820r f 50000
+__label__碳膜电阻 , carbon film resistor cr18w68kjm1010 碳膜 電阻 1 8w 5% 68k m 10 10 10 20000
+__label__贴片电解电容 , electrolytic capacit ecs47u 50v 6377hsw ec smd 47 uf 50v 6.3 7.7 mm 105 samwha rc1h476m6l07kvr 1800
+__label__贴片高精密-低温漂电阻 , rc tr0603b3k01p0525 0603 0.1% 3.01 k ohm ever 25ppm 60000
+__label__贴片高精密-低温漂电阻 , rc tr0805b3k01p0525 0805 0.1% 3.01 k ohm ever 25ppm 100000
+__label__安规电容 , y2 電容 y2681k2 50v x7r1808 y2 電容 1808 681p k% 2 50v x7r fk08x681k502efg 1970
+__label__薄膜电容 , 聚酯薄膜 電容 深紅 r mef104k2 50v 10g mef 104k 2 50v p 10mm 1000
+__label__薄膜电容 , 聚酯薄膜 電容 深紅 r mef105k2 50v 20u mef 105k 2 50v p 20mm 1500
+__label__薄膜电容 , 聚酯薄膜 電容 深紅 r mef474j2 50v 15g mef 474j 2 50v p 15mm 1000
+__label__碳膜电阻 , 4.3 r 1 4w 5% carbon film 0.097 2 0.114 291 4.3 rc xicon 291 4.3 rc quantity needed 2
+__label__碳膜电阻 , 1k1 1w 5% carbon film 0.158 1 0.114 294 1.1 k rc xicon 294 1.1 k rc quantity needed 1 294 1.1 k rc 1
+__label__金属膜电阻 , 200k 1 4w 1% metal film 0.114 1 0.228 271 200k rc xicon 271 200k quantity needed 1 271 200k rc 1
+__label__金属膜电阻 , 470k 1 4w 1% metal film 0.114 2 0.342 271 470k rc xicon 271 470k quantity needed 2 271 470k rc 2
+__label__碳膜电阻 , 2m2 1 4w 5% carbon film 0.114 2 0.097 291 2.2 m rc xicon 291 2.2 m rc quantity needed 2 291 2.2 m rc 2
+__label__碳膜电阻 , 3m9 1 4w 5% carbon film 0.097 1 0.493 291 3.9 m rc xicon 291 3.9 m quantity needed 1 291 3.9 m rc 1
+__label__碳膜电阻 , 10m 1 4w 5% carbon film 0.097 1 291 10m rc xicon 291 10m quantity needed 1 291 10m rc 1
+__label__金属氧化膜电阻 , 240r 5w 5% metal oxide 0.493 1 0.404 286 180 rc xicon 286 240 rc for vu meter lamp 12v 286 180 rc 1
+__label__直插电解电容 , 22u 35v 0.272 1 1.23 667 eeu fc1v220 ecg eeu fc1v220 fc series 667 eeu fc1v220 1
+__label__直插电解电容 , 100u 35v 0.388 6 1.23 647 upm1v101mpd nichicon upm1v101mpd pm series
+__label__直插电解电容 , 470u 35v 0.578 1 1.23 667 eeu fc1v471 ecg eeu fc1v471 fc series cap 667 eeu fc1v471 1
+__label__直插电解电容 , 1000u 35v 0.743 3 0.95 667 eca 1vhg102 ecg eca 1vhg102 nhg series
+__label__直插电解电容 , 1000u 50v 0.858 1 1.9 667 eca 1hhg102 ecg eca 1hhg102 nhg series ps cap
+__label__射频高频电阻 , 37 1 e016309 res high frequency chip 50 r0402 0.1 1 20w r1 fc0402e50r0bst1 rel
+__label__射频高频电阻 , 46 2 e012326 res high frequency chip 0402 50 r0402 1 1 20w r2 r98 fc0402e50r0fst1 rel
+__label__铝壳大功率电阻 , 56 1 e014206 res hi power thick film chip 0 r1206 1 2w r64 crcw12060000z0eahp rel
+__label__铝壳大功率电阻 , 64 1 e013784 res hi pwr hi prec mf 20k r0402 0.1 75v 1 8w r94 susumu rgh1005 2b p 203 b rel
+__label__可调电容 , capacitor trim capacitor trim3 10pf jaycar rv5714
+__label__可调电容 , capacitor trim cap trim 6.2 30pf jaycar rv5716
+__label__可调电容 , capacitor trim cap trim 6.8 40pf jaycar rv5718
+__label__可调电容 , capacitor trim cap trim 9.8 50pf jaycar rv5720
+__label__压敏电阻 , 2 varistor tvr14471ksy fbsn 0 thinking r05004 second source
+__label__压敏电阻 , 2 varistor 471kd14 fbsn 0 sas r05001 second sourse
+__label__直插电解电容 , 996510023483 25 03 2009 31 12 9999 c1603 capacitor fixed others ec 1000 uf 10v ed 10x16mm
+__label__直插电解电容 , 996510023347 25 03 2009 31 12 9999 c1603 capacitor fixed others ec 1000 uf 10v gf 10x16mm
+__label__直插电解电容 , 996510023497 26 03 2009 31 12 9999 c943 capacitor fixed others ec 1000 uf 35v gf 13x20mm
+__label__直插电解电容 , 996510013043 26 03 2009 31 12 9999 c943 capacitor fixed others ec 1000 uf 35v gf 13x25mm
+__label__直插电解电容 , 996510015014 26 03 2009 31 12 9999 c939 capacitor fixed others ec 10 uf 50v km 5 11mm
+__label__直插电解电容 , 996510015015 26 03 2009 31 12 9999 c939 capacitor fixed others ec 10 uf 50v pf 5 11mm
+__label__直插电解电容 , 996510012252 26 03 2009 31 12 9999 c907 capacitor fixed others ec 120 uf 4 50v pw 18x40mm
+__label__直插电解电容 , 996510012251 26 03 2009 31 12 9999 c907 capacitor fixed others ec 120 uf 4 50v rga 18x40mm
+__label__直插电解电容 , 996510023365 26 03 2009 31 12 9999 c946 capacitor fixed others ec 220 uf 25v m 8 12mm
+__label__直插电解电容 , 996510014797 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v km 6.3 x11mm
+__label__直插电解电容 , 996510014798 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v pf 6.3 x11mm
+__label__直插电解电容 , 996510023316 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v rga 6.3 x11 mm
+__label__直插电解电容 , 996510023319 25 03 2009 31 12 9999 c7147 capacitor fixed others ec 470 uf 10v gf 8x12mm
+__label__直插电解电容 , 996510016341 25 03 2009 31 12 9999 c7142 capacitor fixed others ec 470 uf 10v km 8 11.5 mm
+__label__直插电解电容 , 996510016342 25 03 2009 31 12 9999 c1507 capacitor fixed others ec 470 uf 10v pf 8 12mm
+__label__直插电解电容 , 996510023303 25 03 2009 31 12 9999 c6308 capacitor fixed others ec 470 uf 25v ed 10x12mm
+__label__直插电解电容 , 996510016328 25 03 2009 31 12 9999 c7108 capacitor fixed others ec 470 uf 25v gf 10x12mm
+__label__直插电解电容 , 996510023296 26 03 2009 31 12 9999 c950 capacitor fixed others ec 470 uf 35v ed 10 20mm
+__label__直插电解电容 , 996510023506 26 03 2009 31 12 9999 c950 capacitor fixed others ec 470 uf 35v gf 10 20mm
+__label__直插电解电容 , 996510016345 25 03 2009 31 12 9999 c7113 capacitor fixed others ec 470 uf 35v pf 10x16mm
+__label__直插电解电容 , 996510016344 25 03 2009 31 12 9999 c7113 capacitor fixed others ec 470 uf 35v rga 10x16mm
+__label__直插电解电容 , 996510015013 26 03 2009 31 12 9999 c947 capacitor fixed others ec 47 uf 25v km 5x11mm u
+__label__直插电解电容 , 996510012274 25 03 2009 31 12 9999 c7128 capacitor fixed others ec 47 uf 25v rga 5x11mm
+__label__直插电解电容 , 996510016346 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v km 5 11mm
+__label__直插电解电容 , 996510016347 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v pf 5 11mm
+__label__直插电解电容 , 996510017240 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v rga 5x11mm
+__label__直插电解电容 , 996510013044 26 03 2009 31 12 9999 c943 capacitor fixed others ec cap 1000 uf 35v 12.5 25mm
+__label__安规电容 , 996510014714 26 03 2009 31 12 9999 c906 capacitor fixed others y1 cap 1000pf 20% 2 50v
+__label__安规电容 , 996510014940 26 03 2009 31 12 9999 c906 capacitor fixed others y1 cap001 uf 2 50v ac
+__label__采样电阻 , 996510017225 25 03 2009 31 12 9999 r1501 resistor fixed others 20w rst r max 0r05 1 10w
+__label__采样电阻 , 996510023466 25 03 2009 31 12 9999 r1622 resistor fixed others 20w rst r max 0r05 1 16w
+__label__NTC , 996510023512 26 03 2009 31 12 9999 nr901 resistor fixed others 20w rst r ntcr 3 ohm 20% 5a
+__label__PTC , 996510017224 25 03 2009 31 12 9999 th1401 resistor non linear ptc chip 8v 0r4 kmc4s075ry
+__label__金属膜电阻 , metal film resistors through hole 1 4watt 56kohms 2% rated to 1 2watt 1
+__label__金属膜电阻 , metal film resistors through hole 1 4watt 47kohms 2% rated to 1 2watt 1
+__label__金属膜电阻 , metal film resistors through hole 1 4watt 10kohms 5% rated to 1 2watt 1
+__label__金属膜电阻 , metal film resistors through hole 1 4watt 300kohms 2% rated to 1 2watt 1
+__label__金属氧化膜电阻 , metal oxide resistors 60mohmns 1% 750watts 100ppm 2 current bom
+__label__可调电阻电位器 , trimmer resistors through hole 3 8 sq h adj 25k 1
+__label__直插独石电容 , multilayer ceramic capacitors mlcc leaded 200volts 51pf 5% c0g 2
+__label__金属膜电阻 , 2 r314 r414 6.81 k resistor 0402 6.81 k ohm 1% 100ppm 0.063 w metal film crcw04026k81fk dale
+__label__采样电阻 , 60 y 3.0 r702 r711 r801 res thick film current sensing 1206 smd stackpole inc csr 1 2 0.5 1% i 0.5 r1206 2 1206 1 1 2w
+__label__贴片高精密-低温漂电阻 , 76 y 1.0 r724 res high prec metal film chip 0603 susumu rr0816p 1962 d 29c 19.6 k r0603 603 0.5 1 16w
+__label__贴片电感 , fixed ind 3.9 nh 170ma 500 mohm lqp15mn3n9b02d 1.0 0.09602000000000001 0.09602000000000001 l6 1000.0
+__label__有源晶体振荡器 , osc xo 25.0000 mhz cmos smd kc2520k25.0000 c1ge00 1.0 1.089 1.089 corp kyocera corp y3 1000.0
+__label__贴片电解电容 , cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0 1000 10000
+__label__贴片电感 , l0402 39nh ± 5% lqg15hn39nj02
+__label__贴片电感 , l0402 39nh ± 5% lqg15hn39nj02
+__label__可调电容 , trimmer capacitor orange color 6pf 50pf fn 108 222 fn 952 8601 pc 550.0
+__label__碳膜电阻 , resistor 15r dip 15r fn 108 3055 pc 11000 yr1b15rcc
+__label__金属氧化膜电阻 , resistor 18r 3w dip 18r 3w fn 950 5962 pc 550.0
+__label__安装型大容量电容 , 150 uf 400v 150 uf 400v 25 30mm 105 ° c uhp2000h 2 ec1 ec2
+__label__金属氧化膜电阻 , 0.11 ω 3w 0.11 ω 2w 6 1 rcs1
+__label__贴片电感 , cd54 22uh cd54 22uh 5.28 x5.48 5.28 x5.48 xg 2.0 2.0 10
+__label__贴片电感 , 1uh l4 l5 1210 2.0 40
+__label__直插电解电容 , 1272 utwhm c 0x3 電解 電容 47 uf 200v 105 13x21mm tk 69
+__label__无源晶体振荡器 , 2830 lim55b 晶振 24.576 mhz 100
+__label__排阻 , 3538 y4c3n181k500lt uy4c3c181kct 排阻 180pf ± 10% 50v pb free poe 4000
+__label__钽电容 , 7413 鉭 電容 1 uf 35v dip 2 p 163
+__label__钽电容 , 7414 鉭 電容 10 uf 16v dip 2 p 387
+__label__钽电容 , 7417 鉭 電容 22 uf 16v dip 2 p 316
+__label__钽电容 , 7418 鉭 電容 1 uf 16v dip 2 p 255
+__label__钽电容 , 7419 鉭 電容 02 dip 2 p 22 uf 16v 611
+__label__钽电容 , 7420 鉭 電容 0.47 uf 16v 20% dip 2 p 410
+__label__钽电容 , 7421 鉭 電容 10 uf 16v dip 2 p 685
+__label__安装型大容量电容 , 8386 電解 電容 電容 2 pin 330 uf 400v 85 25x46mm tk 4
+__label__安装型大容量电容 , 8387 hp3 電解 電容 電容 2 pin 330 uf 400v 85 25x45mm 日立 hitachi 5
+__label__安装型大容量电容 , 8392 ls m 電解 電容 電容 2 pin 3900 uf 35v 85 22x26mm nichicon 16
+__label__安装型大容量电容 , 8396 ce m 電解 電容 電容 2 pin 330 uf 400v 105 25x45mm 4
+__label__安装型大容量电容 , 8398 ls m 電解 電容 電容 2 pin 3300 uf 80v 85 22x45mm nichicon 18
+__label__直插电解电容 , 11013 uhv1a681mpd 電解 電容 小型化 680 uf 10v ± 20% 13 8mm nichicon 100
+__label__安装型大容量电容 , 15431 電解 電容 電容 2 pin 220 uf 400v 105 25x40mm stone 418
+__label__安装型大容量电容 , 15501 電解 電容 電容 lp vent 2 pin 560 uf 220v 85 ° c 22x41mm capxon 87
+__label__安装型大容量电容 , 15506 電解 電容 電容 lp vent 2 pin 820 uf 200v 85 ° c 22x51mm capxon 45
+__label__安装型大容量电容 , 15507 電解 電容 電容 gn m 2 pin 330 uf 2 50v 105 ° c 20x35mm nichicon 19
+__label__安装型大容量电容 , 15508 電解 電容 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 35x26mm capxon 26
+__label__安装型大容量电容 , 15508 a 電解 電容 電容 hs vent 2 pin 220 uf 4 50v 105 ° c 35x27mm capxon 13
+__label__安装型大容量电容 , 15511 電解 電容 電容 lp vent 2 pin 150 uf 4 50v 85 ° c 25x41mm capxon 6
+__label__安装型大容量电容 , 15515 電解 電容 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 30x37mm capxon 9
+__label__安装型大容量电容 , 15516 電解 電容 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 5
+__label__安装型大容量电容 , 15517 電解 電容 電容 lp vent 2 pin 220 uf 4 50v 85 ° c 25x41mm capxon 7
+__label__安装型大容量电容 , 15518 電解 電容 電容 lp vent 2 pin 420 uf 420v 85 ° c 30x47mm capxon 50
+__label__安装型大容量电容 , 15519 電解 電容 電容 sph 2 pin 180 uf 4 50v 105 ° c 30x31mm ost 30
+__label__安装型大容量电容 , 15520 電解 電容 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 8
+__label__安装型大容量电容 , 15520 a 電解 電容 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 10
+__label__安装型大容量电容 , 15522 電解 電容 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 25x46mm capxon 11
+__label__安装型大容量电容 , 15523 電解 電容 電容 lp vent 2 pin 330 uf 2 50v 85 ° c 22x36mm capxon 10
+__label__安装型大容量电容 , 15524 電解 電容 電容 lp vent 2 pin 270 uf 420v 85 ° c 30x42mm capxon 8
+__label__安装型大容量电容 , 15525 電解 電容 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 4
+__label__安装型大容量电容 , 15526 電解 電容 電容 hp vent 2 pin 390 uf 420v 105 ° c 30x42mm capxon 10
+__label__安装型大容量电容 , 15527 電解 電容 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 30x32mm capxon 10
+__label__安装型大容量电容 , 15528 電解 電容 電容 hl vent 2 pin 330 uf 4 50v 105 ° c 25x56mm capxon 6
+__label__安装型大容量电容 , 15528 a 電解 電容 電容 lp vent 2 pin 330 uf 4 50v 85 ° c 30x42mm capxon 1
+__label__安装型大容量电容 , 15529 電解 電容 電容 sph 2 pin 150 uf 4 50v 105 ° c 22x41mm ost 28
+__label__安装型大容量电容 , 15530 電解 電容 電容 sph 2 pin 150 uf 420v 105 ° c 22x36mm ost 12
+__label__安装型大容量电容 , 15530 a 電解 電容 電容 sps 2 pin 150 uf 400v 85 ° c 22x36mm ost 16
+__label__安装型大容量电容 , 15530 b 電解 電容 電容 sps 2 pin 150 uf 420v 85 ° c 22x36mm ost 3
+__label__安装型大容量电容 , 15531 電解 電容 電容 lp vent 2 pin 220 uf 420v 85 ° c 25x46mm capxon 21
+__label__安装型大容量电容 , 15532 電解 電容 電容 hp vent 2 pin 420 uf 420v 105 ° c 30x57mm capxon 10
+__label__安装型大容量电容 , 15581 電解 電容 電容 2 pin 4700 uf 80v 85 30x39mm nippon 4
+__label__安装型大容量电容 , 15596 電解 電容 電容 2 pin 180 uf 4 50v 85 29x31mm ost 13
+__label__安装型大容量电容 , 15597 電解 電容 電容 2 pin 220 uf 400v 85 20x40mm ost 20
+__label__安装型大容量电容 , 15598 電解 電容 電容 2 pin 150 uf 4 50v 85 25x35mm capxon 6
+__label__薄膜电容 , 15807 金屬 化膜 電容 ppn dip 2pin 0.033 uf 400v ± 5% 207
+__label__直插电解电容 , 15829 電解 電容 2 pin 560 uf 200v 85 18x45mm teapo 19
+__label__安装型大容量电容 , 15831 電解 電容 電容 hp vent 2 pin 180 uf 4 50v 105 30x27mm capxon 10
+__label__直插电解电容 , 15832 電解 電容 gs vent 2 pin 470 uf 220v 85 18x46mm capxon 8
+__label__安装型大容量电容 , 15833 電解 電容 電容 hu 2 pin 220 uf 4 50v 105 22x50mm hitachi 4
+__label__安装型大容量电容 , 15834 電解 電容 電容 hu 2 pin 470 uf 420v 105 30x46mm hitachi 5
+__label__安装型大容量电容 , 15835 電解 電容 電容 lp vent 2 pin 330 uf 400v 85 25x52mm capxon 6
+__label__安装型大容量电容 , 15839 電解 電容 電容 hs vent 2 pin 180 uf 400v 105 25x36mm capxon 8
+__label__安装型大容量电容 , 15841 電解 電容 電容 sps 2 pin 220 uf 400v 85 25x41mm ost 12
+__label__薄膜电容 , 16420 2w474 薄膜 電容 0.47 uf 4 50v 1728
+__label__直插电解电容 , 16964 電解 電容 2.2 uf 160v 105 ℃ 6.3 11mm 280
+__label__钽电容 , 17775 f750j108mrc 鉭 電容 1000 uf 6.3 v 20% 年份 2002 nichicon 390
+__label__圆柱体晶振 , 18069 晶振 tuning fork 圓柱 dip 2p 8000 mhz 20pf 30ppm 3x8mm g f c 900
+__label__圆柱体晶振 , 18070 晶振 tuning fork 圓柱 dip 2p 20.000 mhz 3x8mm 283
+__label__安装型大容量电容 , 18102 cd138 4 50v 6800 uf 鋁電解電 容器 6800 uf 4 50v 90x157mm hicon 16
+__label__钽电容 , 18247 cs15e0j4r7k1s 1 鉭 電容 4.7 uf 6.3 v nec 14500
+__label__贴片电感 , 18283 nlv25t 3r3j pf 電感 fixed ind 3.3 uh 185ma 1.9 ohm smd1008 1742
+__label__贴片电感 , 18284 nl453232t 100j pf 電感 fixed ind 10uh 250ma 1.6 ohm smd1812 389
+__label__贴片电感 , 18356 sdrh8d28 3r3n 電感 smd inductor 3.3 uh 8.3 x8.3 x3mm 信德 sde 30
+__label__直插电解电容 , 18441 電解 電容 33 uf 10v 105 ° c 5x7mm nichicon 2576
+__label__安装型大容量电容 , 18674 ltz182m2dq50m 電解 電容 電容 2 pin 1800 uf 200v 20% 85 35x50mm jamicon 1
+__label__安装型大容量电容 , 18675 ltz222m2cq45m 電解 電容 電容 2 pin 2200 uf 160v 20% 85 35x45mm 腳距 10mm jamicon 4
+__label__安装型大容量电容 , 18677 lsw392m2cq60m 電解 電容 電容 2 pin 3900 uf 160v 20% 85 35x60mm jamicon 10
+__label__安装型大容量电容 , 18678 ltz472m2aq45m 電解 電容 電容 2 pin 4700 uf 100v 20% 85 35x45mm jamicon 8
+__label__安装型大容量电容 , 18681 ltx122m2gq90m 電解 電容 電容 3 pin 1200 uf 400v 20% 85 35x90mm 腳距 6mm jamicon 10
+__label__安装型大容量电容 , 18682 ltx951m2gq80m 電解 電容 電容 3 pin 950 uf 400v 20% 85 35x80mm jamicon 10
+__label__安装型大容量电容 , 18683 ltx781m2gq70m 電解 電容 電容 3 pin 780 uf 400v 20% 85 35x70mm jamicon 10
+__label__安装型大容量电容 , 18684 llz551m2gq50m 電解 電容 電容 2 pin 550 uf 400v 20% 85 35x50mm jamicon 10
+__label__安装型大容量电容 , 18685 llz391m2gp50m 電解 電容 電容 2 pin 390 uf 400v 20% 85 30x50mm jamicon 10
+__label__安装型大容量电容 , 18686 hmw181m2wo40m e 電解 電容 電容 2 pin 180 uf 4 50v 20% 105 25x40mm jamicon 20
+__label__安装型大容量电容 , 18687 hlw151m2wo40m 電解 電容 電容 2 pin 150 uf 4 50v 20% 105 25x40mm jamicon 20
+__label__安装型大容量电容 , 18689 lsw271m2eo25m 電解 電容 電容 2 pin 270 uf 2 50v 20% 85 25x25mm jamicon 12
+__label__安装型大容量电容 , 18690 lsw271m2wo40mub 電解 電容 電容 2 pin 270 uf 4 50v 20% 85 25x40mm jamicon 5
+__label__安装型大容量电容 , 18691 ltw472m1hn35m e 電解 電容 電容 2 pin 4700 uf 50v 20% 85 21x35mm jamicon 10
+__label__安装型大容量电容 , 18692 lsw332m2ao45m 電解 電容 電容 2 pin 3300 uf 100v 20% 85 25x45mm jamicon 4
+__label__安装型大容量电容 , 18694 電解 電容 電容 2 pin 2200 uf 160v 20% 105 35x45mm jamicon 3
+__label__安装型大容量电容 , 18695 電解 電容 電容 2 pin 1500 uf 200v 20% 85 35x40mm jamicon 7
+__label__安装型大容量电容 , 18696 hs u 電解 電容 電容 4 pin 470 uf 4 50v 20% 105 35x50mm jamicon 5
+__label__安装型大容量电容 , 18698 電解 電容 電容 2 pin 470 uf 4 50v 20% 85 35x45mm jamicon 5
+__label__安装型大容量电容 , 18699 電解 電容 電容 2 pin 820 uf 2 50v 20% 85 30x45mm jamicon 5
+__label__安装型大容量电容 , 18700 電解 電容 電容 2 pin 150 uf 400v 20% 85 20x40mm jamicon 7
+__label__安装型大容量电容 , 18701 電解 電容 電容 2 pin 270 uf 400v 20% 105 30x40mm jamicon 3
+__label__安装型大容量电容 , 18702 電解 電容 電容 2 pin 330 uf 400v 20% 85 30x40mm jamicon 4
+__label__安装型大容量电容 , 18704 電解 電容 電容 2 pin 10000 uf 35v 20% 85 25x35mm jamicon 1
+__label__安装型大容量电容 , 18705 電解 電容 電容 2 pin 150 uf 4 50v 20% 85 25x35mm jamicon 2
+__label__安装型大容量电容 , 18706 電解 電容 電容 2 pin 1000 uf 63v 20% 105 20x30mm jamicon 2
+__label__安装型大容量电容 , 18708 電解 電容 電容 2 pin 100 uf 4 50v 20% 85 20x35mm jamicon 5
+__label__安装型大容量电容 , 18709 電解 電容 電容 2 pin 220 uf 400v 20% 105 25x40mm jamicon 6
+__label__安装型大容量电容 , 18710 電解 電容 電容 2 pin 220 uf 400v 20% 85 25x40mm jamicon 3
+__label__安装型大容量电容 , 18712 電解 電容 電容 2 pin 390 uf 420v 85 30x45mm capxon 1
+__label__安装型大容量电容 , 18715 電解 電容 電容 2 pin 1000 uf 200v 20% 105 30x50mm jamicon 1
+__label__安装型大容量电容 , 18719 電解 電容 電容 2 pin 220 uf 400v 85 20x50mm jamicon 1
+__label__直插电解电容 , 18727 wlr182m1ci20r 電解 電容 1800 uf 16v 20% 105 12x20mm jamicon 100
+__label__直插电解电容 , 18728 wlr222m1cj21r 電解 電容 2200 uf 16v 20% 105 12x21mm jamicon 100
+__label__直插电解电容 , 18730 wlr272m1ai20r 電解 電容 2700 uf 10v 20% 105 12x20mm jamicon 100
+__label__直插电解电容 , 18731 wlr332m0jj21r 電解 電容 3300 uf 6.3 v 20% 105 12x21mm jamicon 100
+__label__直插电解电容 , 18734 wlr392m0jj26r 電解 電容 3900 uf 6.3 v 20% 105 12x26mm jamicon 100
+__label__直插电解电容 , 18736 wlr103m0jldbr 電解 電容 10000 uf 6.3 v 20% 105 18x30mm jamicon 100
+__label__安装型大容量电容 , 18796 電解 電容 電容 2 pin 220 uf 400v 20% 105 25x31mm nippon 12
+__label__安装型大容量电容 , 18797 電解 電容 電容 2 pin 220 uf 400v 20% 105 30x26mm nippon 4
+__label__安装型大容量电容 , 18798 ekmq401vsn271mr30s 電解 電容 電容 2 pin 270 uf 400v 20% 105 30x30mm nippon 14
+__label__安装型大容量电容 , 18799 ekmq401vsn331mr35s 電解 電容 電容 2 pin 330 uf 400v 20% 105 30x35mm nippon 9
+__label__安装型大容量电容 , 18800 電解 電容 電容 2 pin 390 uf 400v 20% 85 25x44mm nippon 27
+__label__安装型大容量电容 , 18802 電解 電容 電容 2 pin 220 uf 4 50v 20% 105 25x36mm nippon 1
+__label__安装型大容量电容 , 18804 電解 電容 電容 kmq 2 pin 270 uf 4 50v 20% 105 25x44mm nippon 5
+__label__安装型大容量电容 , 18805 ekmr451vsn271mr30s 電解 電容 電容 2 pin 270 uf 4 50v 20% 105 30x30mm nippon 20
+__label__安装型大容量电容 , 18806 電解 電容 電容 2 pin 330 uf 420v 20% 105 25x44mm nippon 16
+__label__安装型大容量电容 , 18808 電解 電容 電容 kmr 2 pin 390 uf 400v 20% 105 25x46mm nippon 8
+__label__直插电解电容 , 18848 電解 電容 螺絲型 電容 kps 10000 uf 2 50v 20% 85 75x120mm jamicon 1
+__label__直插电解电容 , 18849 電解 電容 螺絲型 電容 3300 uf 4 50v 20% 85 63x129mm jamicon 1
+__label__直插电解电容 , 18853 電解 電容 螺絲型 電容 kps 22000 uf 100v 20% 85 50x85mm 含腳架 jamicon 1
+__label__直插电解电容 , 18855 電解 電容 螺絲型 電容 kps 18000 uf 80v 20% 85 50x67mm jamicon 1
+__label__排阻 , 18867 yc158tjr 0710k 電阻 陣列 1206 10k ω ± 5% 5000
+__label__精密可调电阻 , 18954 vr50k l4ga 變 電阻 調式 電阻 potentiometer 3 pin 50k ω 2500
+__label__安装型大容量电容 , 19001 電解 電容 電容 2 pin 680 uf 200v 85 25x31mm tk 169
+__label__钽电容 , 19078 593d227x06r3e2t 鉭 電容 e case 220 uf 6.3 v 20% sprague 1150
+__label__直插电解电容 , 19095 lhk471m25v812tb3.5 電解 電容 470 uf 25v 20% 105 腳距 3.5 mm 8x12mm jackcon 4782
+__label__安装型大容量电容 , 19303 電解 電容 電容 3 種 混合 150 uf 420v 85c lp vent 150 uf 4 50v 105c ce 180 uf 420v 85c lp vent 22x36mm capxon 3
+__label__碳膜电阻 , 碳膜 电阻 1.5 m ω 1 4w smd 1206 1 r1
+__label__碳膜电阻 , 碳膜 电阻 200k ω 1 4w smd 1206 1 r2
+__label__碳膜电阻 , 碳膜 电阻 2.7 ω 1 4w smd 1206 1 r3
+__label__碳膜电阻 , 碳膜 电阻 5.35 k ω 1 8w smd 1% 0805 1 r4
+__label__碳膜电阻 , 碳膜 电阻 39k ω 1 8w smd 1% 0805 1 r5
+__label__碳膜电阻 , 碳膜 电阻 43k ω 1 8w smd 0805 1 r6
+__label__碳膜电阻 , 碳膜 电阻 75k ω 1 8w smd 0805 1 r7
+__label__碳膜电阻 , 碳膜 电阻 51k ω 1 8w smd 0805 2 r8 r9
+__label__碳膜电阻 , 碳膜 电阻 510 ω 1 4w smd 1206 1 r10
+__label__贴片电解电容 , 1 p03 17696r cap aluminum electrolytic capacitors smd 330 uf 25volts 10x10.2 mm 4 c63 c64 c65 c67 eeh za1e331p aluminum electrolytic capacitors smd 330 uf 25volts 10x10.2 mm
+__label__贴片电感 , 1 p04 16029r ind 1000nh 1% 1008 4 l17 l18 l19 l20 coilcraft 1008cs 102xflc inductor 1000nh 1% 1008
+__label__采样电阻 , 1 p02 17572r res 0.001 1% 1w sense resistor 1206 case 10 r94 r114 r135 r155 r169 r194 r202 r244 r522 r5521 wslp12061l000fea res 0.001 1% 1w sense resistor 1206 case
+__label__采样电阻 , 1 p02 17603r res 001 ohm 1 3w 1% 0603 4 r316 r317 r524 r743 stackpole inc csm0603ft10l0 res 001 ohm 1 3w 1% 0603
+__label__有源晶体振荡器 , 1 p07 19698r crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm 1 y5 crystek crystals corporation cvhd 950 122.88 crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm
+__label__贴片高精密-低温漂电阻 , 27 5 r9 r12 r18 e012477 res high pres high stability 33 r0402 0.5 50v 1 16w rt0402dre0733rl rel
+__label__有源晶体振荡器 , 82 y 1 y2 ic crystal resistance weld smd fox 278lf 24mhz 24.000 mhz ysml461w197h177 ysml461w197h177
+__label__贴片高精密-低温漂电阻 , 16.0 n r11 r13 r22 r26 r31 r32 r34 r35 r36 r37 r90 r91 r92 r94 r96 res ultra prec ultra reliability mf chip susumu rg1005p 102 b t5 1k r0402 r0402
+__label__金属膜电阻 , 90.0 y 1.0 r14 res metal film chip 0402 susumu rg1005n 3161 w t1 3.16 k r0402 r0402
+__label__有源晶体振荡器 , 68 y 1 y502 acmos lsttl compatible clk osc 80mhz xtalcb3lv h90 valpey fisher vfac3hl80 n y
+__label__贴片电感 , 79 n l201 l202 inductor sm 2.2 uh lsml291w264h118 toko fdv0630 2r2m n n
+__label__贴片电感 , 80 n l301 l302 l403 l404 l405 l406 l409 l410 l411 l412 l507 inductor sm 100nh l7144 coilcraft 0603cs r10xglu n n
+__label__贴片高精密-低温漂电阻 , 54 1 r27 res 316 k ohm 1 10w 01% 0805 0805 t e 1676324 2 a103428ct nd yes
+__label__贴片高精密-低温漂电阻 , 57 2 r30 r31 res 249 ohm 1 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd yes
+__label__贴片电感 , 8.0 l1 inductor 2.2 uh ind 2520 1
+__label__可调电容 , c094 6.5 30pf trimmer cap ctrim gkg 15 0g rcl sprague gkg30015 659 gkg30015 0.18
+__label__可调电容 , 1 40 pf 40 pf c18 trimmer capvar variable capacitor
+__label__色环电感 , 2 4.7 uh 4.7 uh l01 l03 radial 0.2 inductor1 tk4351 novalue
+__label__色环电感 , 1 47uh 47uh l10 radial 0.2 inductor1
+__label__精密可调电阻 , 49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.5971 0 0 0
+__label__精密可调电阻 , 49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.77 0
+__label__精密可调电阻 , 53 10k 3314g 1 103e 3314g 1 103e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 10k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.0573 0
+__label__功率电感 , ind 0603 22 µ h mbkk1608t2r2m l1 l2 inductor 0603 22 uh 345mohms 20% tol 52a 2 digi key 587 4150 1 nd 010443 2000 20886 taiyo yuden mbkk1608t2r2m
+__label__直插瓷片电容 , c100 b37986g1222j051 radial 2.2 nf 100v npo 5% cer
+__label__直插瓷片电容 , c101 b37986g1222j051 radial 2.2 nf 100v npo 5% cer
+__label__水泥电阻 , r 77 ac07000009108j 7w 9r1 7w 5% cement resistor
+__label__金属膜电阻 , r 87 rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__采样电阻 , r108 43jr20e 3w ohmite 0r20 5% 3w
+__label__水泥电阻 , r202 ac07000009108j 7w 9r1 7w 5% cement resistor
+__label__金属膜电阻 , r219 rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__金属膜电阻 , r220 rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__金属膜电阻 , r221 rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__采样电阻 , r236 2512 r015f lrf2512 01 r015 f dale 15mr 2% 1w current sense
+__label__采样电阻 , r243 43jr20e 3w ohmite 0r20 5% 3w
+__label__金属膜电阻 , r244 rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__金属膜电阻 , r245 1w 281 10 rc 10r 5% 1w mf
+__label__金属膜电阻 , r06 fb rsf100jb 22r 1w 281 22 rc xicon 22r 5% 1w mf
+__label__功率电感 , 19.0 l2 fixed ind 4.7 uh 1.6 a 55 mohm smd 4.7 uh taiyo yuden nrg4026t4r7m 1.0 smd digi key 587 2382 1 nd 963 nrg4026t4r7m nrg4026 yes yes yes 102.0
+__label__贴片电感 , fixed ind 150uh 330ma 2 ohm smd sdr0503 151kl sdr0503 151klct nd inc l7 l8 l9 l10
+__label__贴片电感 , 叠层 电感 3.3 nh ± 5% dcr0.3 r cmcc0603c3n3ssp l0603 l3 1 27000
+__label__薄膜电容 , cap poly radial 1.0 uf 2 50v 10% 15mm ls 105 ° c ecw f2w105ja ecw f2105jbq crimped lead 15mm or equiv c29 1 250
+__label__直插瓷片电容 , cap cer 2200pf 2 50v ac 20% x1y1 radial 0.394 dia 0.551 h 0.394 ls murta de1ekx222mn5aa01 or equiv c127 c128 2 500
+__label__薄膜电容 , cap film 4700pf 275vac 20% x2 radial 0.591 l x 0.197 w x 0.472 h ecq u2a472ml or equiv c129 1 250
+__label__贴片电解电容 , 33u 20v electrolytic capacitor c1 c20 c57 6032 electro1 15000
+__label__钽电容 , 47u 16v polarized capacitor axial c2 c4 c30 c28 c21 6032 cap pol2 钽电容 25000
+__label__贴片电解电容 , 10u 25v electrolytic capacitor c8 c25 c64 6032 electro1 15000
+__label__贴片电解电容 , 10u 16v electrolytic capacitor c9 6032 electro1 5000
+__label__贴片电解电容 , 10u 50v electrolytic capacitor c11 c62 7243 electro1 10000
+__label__贴片电解电容 , 10 uf 10v electrolytic capacitor c49 6032 electro1 5000
+__label__贴片电感 , 220uh 500ma l3 induct inductor1 方形 表贴 电感 4.3 mm cdrh74 5000
+__label__贴片电感 , 一体 成型 电感 vlcf5020t 100m1r1 1 spm5020t 100m lr pl0503 cdrh
+__label__色环电感 , 10uh inductor l1 1mh dip 1
+__label__超级电容器 , 1f cap pol1 c15 1f 5.5 v 1
+__label__贴片电解电容 , 220 uf 16v cap pol1 c35 c39 c52 7 7 16v 3 1000
+__label__贴片电解电容 , 470 uf 35v cap pol1 c34 c38 10 10 50v 2
+__label__钽电容 , 220 uf 6.3 v ± 10% case c 6032 500.0 4500.0
+__label__直插电解电容 , 470 uf 10v ± 20% 6.3 7.7 mm 500.0 1000.0
+__label__直插电解电容 , 10 uf 16v rvt 10
+__label__直插电解电容 , 22 uf 16v rvt 20
+__label__直插电解电容 , 100 uf 16v rvt 210
+__label__直插电解电容 , 1000 uf 16v 210
+__label__采样电阻 , 1206 91mr 80
+__label__直插电解电容 , 10 uf 16v rvt 110
+__label__采样电阻 , res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf product detail en cra2512 fz r010elf cra2512 fz r010elfct nd 1775054 10000 20000
+__label__采样电阻 , 0805 0.03 欧姆 res 1% 200
+__label__高频电感 , 25 电感 l1 0603 5% 电感 射频 33nh 2 1 100
+__label__高频电感 , 26 电感 l2 0603 5% 电感 射频 39nh 2 1 100
+__label__高频电感 , 27 电感 l3 0603 5% 电感 射频 22nh 2 1 100
+__label__高频电感 , 28 电感 l4 l5 0603 5% 电感 射频 15nh 2 2 200
+__label__高频电感 , 29 电感 l6 0603 5% 电感 射频 8.2 nh 2 1 100
+__label__薄膜电容 , film capacitors 068 uf 63volts 5% 68 uf b32520c0684j000 2 5000
+__label__贴片电解电容 , cap elect 47 uf 50v 0250 dia ha series sm pkg 105 ° c eee ha1h470xp or equiv c24 c47 c50 c58 c60 5
+__label__贴片电解电容 , cap elect 100 uf 35v 0250 dia ha series sm pkg 105 ° c eee ha1v101xp or equiv c45 c46 c54 c55 c66 c79 6
+__label__钽电容 , 220 uf 6.3 v ± 10% case c 6032 500.0 4500.0
+__label__直插电解电容 , 470 uf 10v ± 20% 6.3 7.7 mm 500.0 1000.0
+__label__贴片电感 , 电感 电感 4020 3 1uh 100khz 2.6 a 30% smt 6000 3000 swpa4020s1r0nt
+__label__直插瓷片电容 , 交流 高压 瓷片 电容 2.2 nf 400v 脚 10mm m 1.00 5k
+__label__工字电感 , 工字 电感 3.9 uh 1a 6 8 脚 3mm 1.00 5k
+__label__直插电解电容 , 电解电容 6.3 x12 2.5 10v 220 uf ± 20% 5.00 25k
+__label__直插电解电容 , 电解电容 6.3 x12 2.5 35v 100 uf ± 20% 1.00 5k ers1vm101e12ot
+__label__贴片电感 , 电感 0402 5.6 nh 1.00 5k lqg15hn5n6s02d
+__label__可调电阻电位器 , 微调 电位器 10k 10k 3224j 150 150
+__label__可调电阻电位器 , 微调 电位器 20k 20k 3224j 50 50
+__label__可调电阻电位器 , 微调 电位器 50k 50k 3224j 50 50
+__label__贴片电感 , 电感 10uh sdfl2012s100tf l3 1 5000
+__label__贴片电感 , 电感 10uh sdfl2012s100tf l3 1
+__label__直插电解电容 , 10 uf 16v rvt 10
+__label__直插电解电容 , 22 uf 16v rvt 20
+__label__采样电阻 , 1206 91mr 150
+__label__直插电解电容 , 100 uf 16v rvt 210
+__label__直插电解电容 , 10 uf 16v rvt 110
+__label__采样电阻 , pn 20014 res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf product detail en cra2512 fz r010elf cra2512 fz r010elfct nd 1775054
+__label__精密可调电阻 , pot 1k ohm 10% 1 turn 3 8 sq cermet top adj 3386 f 1 102lf or equiv r7 r23 r59 3
+__label__精密可调电阻 , pot 10k ohm 10% 1 turn 3 8 sq cermet top adj 3386f 1 103lf or equiv r13 1
+__label__精密可调电阻 , pot digital single 100k spi sm soic 8 mcp4131 104e sn or equiv u20 1
+__label__贴片电解电容 , cap elect 47 uf 50v 0250 dia ha series sm pkg 105 ° c eee ha1h470xp or equiv c24 c47 c50 c58 c60 5
+__label__贴片电解电容 , cap elect 100 uf 35v 0250 dia ha series sm pkg 105 ° c eee ha1v101xp or equiv c45 c46 c54 c55 c66 c79 6
+__label__安装型大容量电容 , cap elect 10 000 uf 80v radial 2 lead 10mm ls 35x50mm can 85c united chemi con esmh800vsn103ma50s cornell dubilier 380lx103m080a052 or equiv c2 c3 c4 c5 c51 5
+__label__排阻 , 1.39 r55 r56 r57 2k array resistor 2k 排阻 res smd array 2k ohm 5% 1 16w 1206 yc164 jr 072kl 3
+__label__贴片电感 , 4 fixed ind 150uh 330ma 2 ohm smd sdr0503 151kl sdr0503 151klct nd inc l7 l8 l9 l10
+__label__超级电容器 , 1f cap pol1 c15 1f 5.5 v 1
+__label__贴片电解电容 , 220 uf 16v cap pol1 c35 c39 c52 7 7 16v 3
+__label__贴片电解电容 , 470 uf 35v cap pol1 c34 c38 10 10 50v 2
+__label__直插电解电容 , 1c 2 10 uf c69 c71 cap electrolytic 56 uf 50v 20% see datasheet ecg eeu fm1h151 y p12395 nd 0.10948 0.21896 0.09775 0.1955
+__label__直插电解电容 , 7 1 56 uf c62 cap electrolytic 56 uf 50v 20% see datasheet ecg eeu fm1h151 y p12395 nd 0.10948 0.10948 0.09775 0.09775
+__label__碳膜电阻 , 2 1k r us 0204 5 r20 r23 1.0 kebk nd res 1.0 k ohm 1 6w 5% carbon film
+__label__碳膜电阻 , 18 100 r us 0204 5 r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 r13 r14 r15 r16 r17 r18 100ebk nd res 100 ohm 1 6w 5% carbon film
+__label__贴片电阻 , 1 22uh ind0805 l1 587 2046 1 nd inductor 22uh 100ma 10% smd
+__label__碳膜电阻 , 1 330 r us 0204 5 r19 330ebk nd res 330 ohm 1 6w 5% carbon film
+__label__钽电容 , 2 c2 tantalum cap radial bypass cap radial tap106k010ccs 10 uf 10v 478 9320 nd d k 0.45 0.9
+__label__采样电阻 , 4 r9 resistor pmr03ezpfu 10l0 10mohm 0603 1 rohm
+__label__直插瓷片电容 , capacitor 0.01 uf 500v 10% cer radial lead capacitor box 11 6 10 05hv20b103k nd
+__label__薄膜电容 , capacitor 0.033 uf poly rm 228 wire rack red bs 900 storage box on bookshelf aka 33 nf
+__label__薄膜电容 , capacitor 0.047 uf 50v polycarbonate box 46 2 10 axial lead white 44f2238
+__label__薄膜电容 , capacitor 0.1 uf polycarbonate box 2 10 200
+__label__薄膜电容 , capacitor 0.15 uf polycarbonate rm 214 210 500
+__label__薄膜电容 , capacitor 0.33 uf 50v polycarbonate box 46 4 10 axial lead white 44f2243
+__label__直插瓷片电容 , capacitor 0.47 uf radial lead monolithic ceramic drawers b41
+__label__薄膜电容 , capacitor 0.82 uf poly white axial lead box 59 7 100
+__label__薄膜电容 , capacitor 1 uf poly white axial lead 200v box 59 8 10
+__label__可调电容 , capacitor 1.5 10 pf trimmer box 13 12 100 value is uncertain
+__label__可调电容 , capacitor 1.5 10 pf trimmer box 21 23 130 95f0145
+__label__薄膜电容 , capacitor 1.8 nf polycarbonate black box 24 12 150 ecr182gf elcon 300 box on bookshelf
+__label__薄膜电容 , capacitor 10 uf 50v polyester rm 228 wire rack red bins white axial lead
+__label__钽电容 , capacitor 100 uf 10v tant drawers b32 radial leads
+__label__贴片电解电容 , capacitor 100 uf 35v electrolytic smt rm 221 p23 6 pce3373ct nd
+__label__云母电容 , capacitor 1500 pf 100v silver mica radial lead rm 214 13 111
+__label__云母电容 , capacitor 1500 pf 1500v silver mica radial lead rm 214 13 50
+__label__云母电容 , capacitor 1500 pf silver mica radial lead rm 214 14 50
+__label__薄膜电容 , capacitor 18 nf polycarbonate box 24 15 44 ecr183d 200 box on bookshelf
+__label__薄膜电容 , capacitor 2.2 nf polycarbonate rm 228 wire rack red bins 500 ecr222gf
+__label__云母电容 , capacitor 2200 pf silver mica radial lead rm 214 14 150
+__label__云母电容 , capacitor 2500 pf silver mica radial lead rm 214 13 40
+__label__云母电容 , capacitor 2500 pf silver mica radial lead rm 214 14 50
+__label__薄膜电容 , capacitor 27 nf polycarbonate black box 24 10 2 aka 0.027 uf
+__label__薄膜电容 , capacitor 3.3 uf poypropylene radial lead box 13 13 4 ef1335 nd
+__label__薄膜电容 , capacitor 3.9 nf polycarbonate rm 228 wire rack red bins 500 ecr392ff
+__label__可调电容 , capacitor 3 36 pf trimmer box 21 24 10 sg3005 nd
+__label__可调电容 , capacitor 3 40 pf trimmer box 21 18 10 sg3008 nd
+__label__薄膜电容 , capacitor 39 nf polycarbonate black box 24 5 78 ecr393bf 879 storage box on bookshelf
+__label__云母电容 , capacitor 390 pf silver mica radial lead rm 214 13 200
+__label__云母电容 , capacitor 390 pf silver mica radial lead rm 214 21 many
+__label__云母电容 , capacitor 430 pf silver mica radial lead rm 214 14 100
+__label__贴片电解电容 , capacitor 47 uf 35v electrolytic smt rm 221 p418 23 pce2050ct nd
+__label__贴片电解电容 , capacitor 470 uf smt electrolytic rm 228 wire rack blue bins 100 pce3464ct nd
+__label__云母电容 , capacitor 500 pf silver mica radial lead rm 214 13 15
+__label__云母电容 , capacitor 5000 pf silver mica radial lead rm 214 13 40
+__label__可调电容 , capacitor 5 40 pf trimmer smt box 13 8 40
+__label__可调电容 , capacitor 6.5 30 pf trimmer smt box 21 22 34
+__label__可调电容 , capacitor 6.5 30 pf trimmer smd box 13 15 50 green 490 1994 1 nd
+__label__云母电容 , capacitor 62 pf silver mica radial lead rm 214 14 100
+__label__薄膜电容 , capacitor 68 nf poly cap radial lead 1400 storage box on bookshelf ecr683bf
+__label__直插瓷片电容 , capacitor 6800 pf 50v ceramic radial lead box 62 9 25 p4946 nd
+__label__薄膜电容 , capacitor 8.2 nf polycarbonate rm 228 wire rack red bins 450 ecr822ef
+__label__可变电感器套件配件 , inductor 029 uh smt box 40 1 14 variable tks2706ct nd
+__label__可变电感器套件配件 , inductor 032 uh smt box 40 6 16 variable tks2700ct nd
+__label__可变电感器套件配件 , inductor 038 uh smt box 9 4 10 variable tks2713ct nd
+__label__可变电感器套件配件 , inductor 041 uh smt box 40 3 8 variable tks2707ct nd
+__label__可变电感器套件配件 , inductor 047 uh smt box 9 1 10 variable tks2701ct nd
+__label__可变电感器套件配件 , inductor 048 uh smt box 9 3 10 variable tks2714ct nd
+__label__可变电感器套件配件 , inductor 067 uh variable box 43 4 7
+__label__可变电感器套件配件 , inductor 068 uh smd box 17 10 17 variable tks2702ct nd
+__label__可变电感器套件配件 , inductor 073 uh smt box 40 2 13 variable tks2709ct nd
+__label__可变电感器套件配件 , inductor 084 uh smt box 9 2 10 variable tks2717ct nd
+__label__可变电感器套件配件 , inductor 090 uh smt box 40 4 13 variable tks2703ct nd
+__label__可变电感器套件配件 , inductor 112 uh smt box 40 5 14 variable tks2704ct nd
+__label__可变电感器套件配件 , inductor 142 uh smt box 40 7 11 variable tks2705ct nd
+__label__可变电感器套件配件 , inductor 164 uh variable box 42 18 10
+__label__可变电感器套件配件 , inductor 214 uh variable box 42 22 9
+__label__可变电感器套件配件 , inductor 338 uh variable box 42 19 10
+__label__可变电感器套件配件 , inductor 525 uh variable box 42 24 10
+__label__可变电感器套件配件 , inductor 75 uh variable box 42 23 10
+__label__可变电感器套件配件 , inductor 99 uh variable box 42 17 10
+__label__贴片电感 , inductor 0.082 uh smd box 17 12 101 pcd1048ct nd
+__label__贴片电感 , inductor 0.33 uh smd box 32 1 8
+__label__可变电感器套件配件 , inductor 1.15 uh variable box 42 21 10
+__label__可变电感器套件配件 , inductor 1.36 uh variable box 42 20 10
+__label__可变电感器套件配件 , inductor 1.8 uh variable smt box 36 18 9 tks2245ct nd
+__label__可变电感器套件配件 , inductor 180 nh variable smt box 36 23 6 tks2425ct nd
+__label__可变电感器套件配件 , inductor 2.2 uh adjustable inductor smt box 21 7 8 type 5ccd tks2246ct nd
+__label__贴片电感 , inductor 2.2 uh smd rm 221 p60 4 pcd1012ct nd
+__label__可变电感器套件配件 , inductor 220 nh smt variable box 37 22 6 tks2426ct nd 5cce type
+__label__色环电感 , inductor 3.3 mh radial lead drawers g56 10 tk4318 nd
+__label__色环电感 , inductor 3.3 uh hi current radial lead box 36 5 25 m6004 nd
+__label__可变电感器套件配件 , inductor 68 nh smt variable box 37 23 5 tks2420ct nd 5cce type
+__label__采样电阻 , resistor 0.001 ohm 1w 5% smt box 62 7 10
+__label__采样电阻 , resistor 0.075 ohm power film resistor rm 221 p538 60 mp9100
+__label__采样电阻 , resistor 0.1 ohm 1w smt 2512 footprint box 72 8 8 pt.10 ct nd
+__label__采样电阻 , resistor 0.22 ohm 1% 1w smt 2512 footprint rm 221 p12 100 pt.22 yct
+__label__采样电阻 , resistor 0.3 ohm 1% 1w smt 2512 footprint rm 221 p11 100 pt.30 yct nd
+__label__采样电阻 , resistor 0.51 ohm 1w smt resistor 2515 footprint rm 221 p18 90 pt.51 yct nd
+__label__贴片高精密-低温漂电阻 , resistor 1.00 k ohm 0.1% smt 1206 footprint rm 221 p347 500 daltnpw12061001br75
+__label__金属氧化膜电阻 , resistor 1.0 k ohm 10w metal dioxide 5% rm 221 p529 20 1.0 kw 10 nd
+__label__绕线电阻 , resistor 10 ohm 5w wirewound axial lead rm 221 p539 50 25j10r nd
+__label__贴片高精密-低温漂电阻 , resistor 10 ohm 0.1% smt box 71 15 35 tnpw120610r0been
+__label__贴片高精密-低温漂电阻 , resistor 10.0 k ohm smt 0.1% precision 1206 box 71 5 40 71 tnpw120610k0byty
+__label__贴片高精密-低温漂电阻 , resistor 100 ohm 0.1% smt 1206 footprint rm 221 p341 1500 daltnpw12061000br75
+__label__金属氧化膜电阻 , resistor 100 ohm 2w axial lead metal oxide box 59 9 40 p100w 2bk nd
+__label__贴片高精密-低温漂电阻 , resistor 100 ohm 0.1% 1 8w drawers e59 50 axial lead
+__label__碳膜电阻 , resistor 120k ohm axial lead drawers f50 200 carbon 1 4w 5% 120kqbk nd
+__label__绕线电阻 , resistor 12k ohm 5w wirewoundaxial lead rm 221 p541 300 25j12k nd
+__label__碳膜电阻 , resistor 130k ohm axial lead drawers f50 200 carbon 1 4w 5% 130kqbk nd
+__label__碳膜电阻 , resistor 2.0 k ohm axial lead drawers f28 200 carbon 1 4w 5% 2.0 kqbk nd
+__label__碳膜电阻 , resistor 2.4 k ohm axial lead drawers f29 200 carbon 1 4w 5% 2.4 kqbk nd
+__label__绕线电阻 , resistor 20 ohm 5w wirewound axial lead rm 221 p540 50 25j20r nd
+__label__绕线电阻 , resistor 200 ohm 1% wirewound drawers h18 15 axial lead
+__label__绕线电阻 , resistor 200k ohm 1% wirewound drawers h19 22 axial lead
+__label__碳膜电阻 , resistor 200k ohm axial lead drawers e50 200 carbon 1 4w 5% 200kqbk nd
+__label__绕线电阻 , resistor 20k ohm 1% wirewound axial lead box 58 7 16
+__label__碳膜电阻 , resistor 240 ohm axial lead drawers f17 200 carbon 1 4w 5% 240qbk nd
+__label__碳膜电阻 , resistor 240k ohm axial lead drawers f53 202 carbon 1 4w 5% 240kqbk nd
+__label__碳膜电阻 , resistor 270 ohm axial lead drawers f18 201 carbon 1 4w 5% 270qbk nd
+__label__碳膜电阻 , resistor 3.6 m ohm axial lead drawers h7 200 carbon 1 4w 5% 3.6 mqbk nd
+__label__绕线电阻 , resistor 30 ohm 5w wirewound axial lead rm 221 p542 50 25j30r nd
+__label__碳膜电阻 , resistor 330 ohm axial lead drawers f19 202 carbon 1 4w 5% 330qbk nd
+__label__碳膜电阻 , resistor 330k ohm axial lead drawers f55 200 carbon 1 4w 5% 330kqbk nd
+__label__碳膜电阻 , resistor 33k ohm axial lead drawers f43 200 carbon 1 4w 5% 33kqbk nd
+__label__碳膜电阻 , resistor 360 ohm axial lead drawers f19 200 carbon 1 4w 5% 360qbk nd
+__label__碳膜电阻 , resistor 36k ohm axial lead drawers f49 200 carbon 1 4w 5% 36kqbk nd
+__label__绕线电阻 , resistor 40 ohm 5w wirewound axial lead rm 221 p543 50 25j40r nd
+__label__绕线电阻 , resistor 40k ohm 1% wirewound axial lead box 59 2 16
+__label__碳膜电阻 , resistor 470 ohm axial lead drawers f21 200 carbon 1 4w 5% 470qbk nd
+__label__碳膜电阻 , resistor 470k ohm axial lead drawers f57 201 carbon 1 4w 5% 470kqbk nd
+__label__碳膜电阻 , resistor 510k ohm axial lead drawers f57 200 carbon 1 4w 5% 510kqbk nd
+__label__碳膜电阻 , resistor 56 ohm drawers f10 5 axial lead carbon resistor
+__label__碳膜电阻 , resistor 620 ohm axial lead drawers f22 200 carbon 1 4w 5% 620qbk nd
+__label__贴片高精密-低温漂电阻 , resistor 7.87 k ohm smt 0.1% box 73 2 50 71 tnpw12067k87been
+__label__碳膜电阻 , resistor 820k ohm axial lead drawers f60 200 carbon 1 4w 5% 820kqbk nd
+__label__碳膜电阻 , resistor 9.1 k ohm axial lead drawers f36 200 carbon 1 4w 5% 9.1 kqbk nd
+__label__碳膜电阻 , resistor 9.1 m ohm axial lead drawers h12 200 carbon 1 4w 5% 9.1 mqbk nd
+__label__碳膜电阻 , resistor 910 ohm axial lead drawers f24 202 carbon 1 4w 5% 910qbk nd
+__label__碳膜电阻 , resistor 910k ohm axial lead drawers f60 203 carbon 1 4w 5% 910kqbk nd
+__label__排阻 , 100 ohm dip16 1.0 17.0 100 ohm dip16 4116r 1 101 nd res net 16 dip isolated 100 ohm 0.6 dio
+__label__排阻 , 10k dip16 1.0 17.0 10k dip16 4116r 1 103 nd res net 16 dip isolated 10k ohm 0.6 dac
+__label__排阻 , 1k dip16 1.0 17.0 1k dip16 4116r 1 102 nd res net 16 dip isolated 1k ohm 0.6 adc
+__label__排阻 , 680 ohm sip10 1.0 17.0 680 ohm sip10 4310r 1 681 nd res net 10 sip bussed 330 ohm 0.65 led
+__label__碳膜电阻 , 3.3 k loose 1 8w 3.0 200.0 3.3 k resistor 1 8w 3.3 kebk res 3.3 k ohm 1 6w 5% carbon film 0.056 led
+__label__直插通孔电阻 , res 33k ohm 1 4w 0.1% xial 33kadct nd 0.46 6 2.76 phase iii pcb
+__label__直插通孔电阻 , res 75k ohm 1 4w 0.1% axial 75kadct nd 0.46 4 1.84 phase iii pcb
+__label__贴片高精密-低温漂电阻 , res smd 4.64 k ohm 0.1% 1 6w 0603 a110172ct nd 0.74 2 1.48 phase iii pcb
+__label__钽电容 , c101 c102 c121 c122 4ps 47 uf 63 v case a www2 productdetail sprague tr3a476k6r3c0800 qs % 2fha2pyfaduh30kji49uzo% 252btv3bqf7j% 2f% 252bobpoxp5pem7i1eakzdlp1bu% 2fdkpf0jdn
+__label__贴片电感 , l1 l16 16ps 10uh 0805 www2 productdetail lqm21fn100m80l qs % 2fha2pyfadujf8652d5f6fbme8mjcmolroh7pqwcvtl9ugyrcgrvgqw% 3d% 3d
+__label__贴片电感 , l18 l20 4ps 10uh 0603 www2 productdetail mlz1608n100ltd25 qs % 2fha2pyfaduhbkx0cgdb2nf02pvj6kt7% 2fg% 2faho6ece5osbvdnph4f% 252bq% 3d% 3d
+__label__电容器阵列与网络 , 24 capacitors corporation ckcl44x7r1h221m085aa 0805 2012 metric cap array 4ch 220pf 50v 0805 2 digi key 445 1830 1 nd 2000 43225 0.06 126.9
+__label__有源晶体振荡器 , 63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd no lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425

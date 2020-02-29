@@ -1,3 +1,9 @@
+18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen gz electron 100
+18750 3296w 1 101lf 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w 33
+18751 3296w 1 103lf 微調 電阻 可變 電阻 trimmer resistors 10kohm 05 w 14
+18752 3296w 1 201lf 微調 電阻 可變 電阻 trimmer resistors 200ohm 05 w 25
+18753 3296w 1 501lf 微調 電阻 可變 電阻 trimmer resistors 500ohm 05 w 27
+18954 vr50k l4ga 變 電阻 調式 電阻 potentiometer 3 pin 50k ω 2500
 trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1 1 ds 2 54 296 776415 pdf
 trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 ds 2 54 296 776415 pdf
 trimmer resistors trimmer resistors through hole sealed 3296x 1 202r rt1 1 ds 2 54 296 776415 pdf
@@ -25,6 +31,27 @@ vr 0104p 3296w 1 104 lf r19 r94 r145 r157 r167 r174 r182 183 r188 13 3296w 1 xxx
 微调 电阻 正调 20k ω 203 3 90083 1500
 微调 电阻 正调 100k ω 104 5 90084 2500
 2.0 r3 r21 trimpot 10k 0.25 square bi 64wr10klf 858 64wr10klf 1.62 3.24
+pot 1k ohm 10% 1 turn 3 8 sq cermet top adj 3386 f 1 102lf or equiv r7 r23 r59 3
+pot 10k ohm 10% 1 turn 3 8 sq cermet top adj 3386f 1 103lf or equiv r13 1
+pot digital single 100k spi sm soic 8 mcp4131 104e sn or equiv u20 1
+49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.5971 0 0 0
+50 500ohm 1804gsmd 500r 1804gsmd 500r poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.3402 0 0 0
+51 2k ts53yl202mr10 ts53yl202mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 2k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.29 0 0 0
+52 5k 3314g 1 502e 3314g 1 502e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 5k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.65 0 0 0
+53 10k 3314g 1 103e 3314g 1 103e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 10k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.7706 0 0 0
+54 50k 3314g 1 503e 3314g 1 503e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 50k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.74 0 0 0
+55 100k ts53yl104mr10 ts53yl104mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.07 0 0 ` 0
+56 500k 3314g 1 504e 3314g 1 504e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500k ω ± 10% 100ppm ° c 0.25 w tme rom â nia 4.6907 0 0 0
+49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.77 0
+50 500ohm 1804gsmd 500r 1804gsmd 500r poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.19 0
+51 2k ts53yl202mr10 ts53yl202mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 2k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.84 0
+52 5k 3314g 1 502e 3314g 1 502e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 5k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.45 0
+53 10k 3314g 1 103e 3314g 1 103e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 10k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.0573 0
+54 50k 3314g 1 503e 3314g 1 503e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 50k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.84 0
+55 100k ts53yl104mr10 ts53yl104mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.61 0
+56 500k 3314g 1 504e 3314g 1 504e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500k ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.8802 0
+1 5k trimpot 3266 r9 trimpot vertical 3266w type 5k 3266w 1 502lf 652 3266w 1 502lf 2.94 2.94
+1 100k trimpot 3266 r25 trimpot vertical 3266w type 100k 3266w 1 104lf 652 3266w 1 104lf 2.94 2.94
 trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1
 trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2
 trimmer resistors through hole sealed 3296x 1 202r rt1

@@ -1,1 +1,15 @@
+capacitor trim capacitor trim3 10pf jaycar rv5714
+capacitor trim cap trim 6.2 30pf jaycar rv5716
+capacitor trim cap trim 6.8 40pf jaycar rv5718
+capacitor trim cap trim 9.8 50pf jaycar rv5720
 4 8.5 pf cap trimmer 3 10pf 100v smd tzb4z100bb10 tzb4 tzb4 series b type 168
+c094 6.5 30pf trimmer cap ctrim gkg 15 0g rcl sprague gkg30015 659 gkg30015 0.18
+1 40 pf 40 pf c18 trimmer capvar variable capacitor
+capacitor 1.5 10 pf trimmer box 13 12 100 value is uncertain
+capacitor 1.5 10 pf trimmer box 21 23 130 95f0145
+capacitor 3 36 pf trimmer box 21 24 10 sg3005 nd
+capacitor 3 40 pf trimmer box 21 18 10 sg3008 nd
+capacitor 5 40 pf trimmer smt box 13 8 40
+capacitor 6.5 30 pf trimmer smt box 21 22 34
+capacitor 6.5 30 pf trimmer smd box 13 15 50 green 490 1994 1 nd
+trimmer capacitor orange color 6pf 50pf fn 108 222 fn 952 8601 pc 550.0

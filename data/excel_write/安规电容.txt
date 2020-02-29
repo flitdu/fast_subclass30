@@ -1,3 +1,18 @@
+6880 iec384 14 ⅱ x2 電容 進階 0.0047 uf 275v mpx 84
+7007 dj sh 112lmh x1 電容 進階 dip 4p 8a ac2 50v deg 8
+x1 安規 電容 x1473k300v15c x1 電容 473p k% 300v p 15mm 3000
+x1 安規 電容 x1474k3 10v 15l4ct x1 電容 474p k% 3 10v p 15mm 剪腳 4mm 17 19 11mm 1800
+x2 安規 電容 x2104k3 10v 15l4jf x2 電容 104p k% 3 10v p 15mm 剪腳 4mm 18 12 6mm 3000
+x2 安規 電容 x2105k330v15c x2 電容 105p k% 330v p 15mm 18 18.52 11.1 2000
+x2 安規 電容 x2224k3 10v 15l4jf x2 電容 224p k% 3 10v p 15mm 剪腳 4mm 18 14.5 8.5 mm 2000
+x2 安規 電容 x2333k3 10v 10jf x2 電容 333p k% 3 10v p 10mm 13 11 5mm 1000
+x2 安規 電容 x2474k3 10v 225l4jf x2 電容 474p k% 3 10v p 22.5 mm 剪腳 4mm 26.5 19 10 2000
+y1 電容 y1681k400vy5p75 y1 電容 680p k% 400v y5p p 7.5 mm 1000
+y1 電容 y1681k400vy5p95 y1 電容 680p k% 400v y5p p 9.5 mm 5000
+y2 電容 y2222m300vy5v95 y2 安規 陶瓷 電容 222p m% 300v y5v p 9.5 mm 1000
+y2 電容 y2222m400vy5v75l5 y2 安規 陶瓷 電容 222p m% 400v y5v p 7.5 mm 剪腳 5mm 2000
+y2 電容 y2472m300vy5v75 y2 安規 陶瓷 電容 472p m% 300v y5v p 7.5 mm 4000
+y2 電容 y2681k2 50v x7r1808 y2 電容 1808 681p k% 2 50v x7r fk08x681k502efg 1970
 2200pf2 50v ac c3 c4 2 disk ceramic capacitors with lead safety standard approved cd12 e2ga222myns
 1 c7 0.1 uf 275ac40 15mm
 电容 mkp62 x2 105k 脚距 22mm 法拉 cx1 1000
@@ -13,9 +28,12 @@ c109 capacitor cap radial 1nf 300vac 20% y2 3x10 10mm lead spacing kemet f881ae1
 2.2 nf 300v 2.2 nf 300v p 7.5 mm y1 4.0 cy1 cy2 cy3 cy4
 x2 电容 1 uf 275v 误差 ± 10 ％ 直插 脚距 22.5 1 标准件
 电容 1.0 0.1 uf 275v x2 p 10mm mex104k275a41 6061.0 法拉
+电容 1.0 0.1 uf 275v x2 p 10mm mex104k275a41 6061.0 法拉
+电容 1.0 0.1 uf 275v x2 p 10mm mex104k275a41 法拉
 法拉 x 型安规 电容 1nf 275v 10mm 500 5600 4800
 法拉 x 型安规 电容 mp2104kgd1r00 100nf 275v 15mm 500 5600 5100
 y 型安规 电容 2.2 nf 2 50v de1e3kx222mn5aa01 10mm 900 11200 9700
+电容 1.0 0.1 uf 275v x2 p 10mm mex104k275a41 法拉
 cd90zu2ga222mynka cap x1y1 oth rdl 2.2 nf 20% 999vdc cd90zu2ga222mynka 1000.0 1000.0 0.96 8 12days ickey
 b32921c3104m289 cap x2 mkp rdl 100nf 20% 560vdc b32921c3104m289 680.0 680.0 1.225 10 17days dgk 1 1
 22 直插 电容 0.1 uf 275vac 5.5 12.5 2 20000 1
@@ -23,6 +41,7 @@ mcecapno20003 capacitor film 22nf 3 10v 10% x2 bfc233921223 17 100000
 mcecapno2000d capacitor disc 2.2 nf 500v 20% y1 vy1222m47y5uq63v0 52 100000
 mcecapno20247 capacitor film 0.1 uf 3 10v 20% x2 kemet f861ap104m310c 26 100000
 mcecapno20623 capacitor film 470nf x2 275 vac ± 20% ecq u2a474ml 18 100000
+2 y2 cap p 7.5 mm cs85 b2ga331kyas fbln 4 r04029 2 3 cy1 2 3 4
 16.799999999999986 直插 电容 jy12f472ml72n y2 472m 2 50v 8 32 p 7.5 jnc 蓝色
 16.899999999999984 直插 电容 jy16f103m02n y2 103m 2 50v 3 12 p 7.5 jnc 蓝色
 29 c0200178 电容 y1 22 100pf 400v dip 角 10.5 mm dip 2 1000
@@ -114,6 +133,9 @@ x2 电容 104 ± 10% 275v 脚距 10mm 丰明 2.0 短脚 备用 104 275v 脚距 1
 电容 c216459 wqc 威庆 c50q3334kd3l230210 mkp capacitor 275v 330n 20% x2 20000 c21 c22
 25 x2 电容 275vac 0.22 uf 脚距 10 dip 1 1000.0
 26 y2 电容 jnc 102m 400vac dip 2 1000.0
+996510014714 26 03 2009 31 12 9999 c906 capacitor fixed others y1 cap 1000pf 20% 2 50v
+996500043824 26 03 2009 31 12 9999 c903 capacitor fixed others y1 cap 470pf 10% 2 50v ac cd
+996510014940 26 03 2009 31 12 9999 c906 capacitor fixed others y1 cap001 uf 2 50v ac
 32phk4201 12 c9902 065g306k4712mr 996590004773 cap y1 470pf 10% 2 50v y5p de1b3kx471kre 452378
 32phk4201 12 c9903 065g306k4712mr 996590004773 cap y1 470pf 10% 2 50v y5p de1b3kx471kre 452378
 32phk4201 12 c9907 065g306k1012wr 996590006622 cap y1 100pf 10% 2 50v y5p ct7 y1 2 50v 06 452378
@@ -121,3 +143,54 @@ x2 电容 104 ± 10% 275v 脚距 10mm 丰明 2.0 短脚 备用 104 275v 脚距 1
 32phk4201 12 c9801 367g215s820pky 996590022337 ec 82 uf 20% 4 50v 16x36 2000 hr 800ma sw 452378
 cy 22 nf 400vac y1 1 radial capacitor thru hole disk body pin spacing 75 mm capacitor y1 class manual radial
 26 电容 102pf 1kv 蓝色 c57 c61 2 01300 1
+capacitors film capacitors e752370 098812s 680nf 275v 27.5 mm x2 r46 mkp capacitor arcotronics 646
+capacitors film capacitors e753411 98304s 4n7 300v 10mm y2 x1 r41 mkp capacitor arcotronics 100
+capacitors film capacitors e752838 b81130c1103m 10nf 275v 10mm x2 mkp capacitor 36
+capacitors film capacitors e703850 pcx2 339j30684 680nf 275v 22.5 mm x2 mkp capacitor pcx2 339j30684 pilkor 7000
+capacitors film capacitors e703874 pcx2 337 11473 47nf 275v 10mm 10% x2 mkp cap pcx2 337 11473 pilkor 30
+capacitors film capacitors e704236 pcx2 337f60104 100nf 275v 15mm x2 mkp capacitor pcx2 337f60104 pilkor 7100
+capacitors film capacitors e742883 pcx2 335 mj473 47nf 275v 15mm x2 mkp capacitor pcx2 335 mj473 pilkor 23982
+capacitors film capacitors e742887 pcx2 335 mj333 33nf 275v 15mm x2 mkp capacitor pcx2 335 mj333 pilkor 19000
+capacitors film capacitors e742889 pcx2 335 mj683 68nf 275v 15mm x2 mkp capacitor pcx2 335 mj683 pilkor 1000
+capacitors film capacitors e742890 pcx2 335 mj104 100nf 275v 15mm x2 mkp capacitor pcx2 335 mj104 pilkor 47
+capacitors film capacitors e742891 pcx2 335 mj801 220nf 275v 22.5 mm x2 mkp capacitor pcx2 335 mj801 pilkor 206
+capacitors film capacitors e742896 pcx2 335 mj684 680nf 275v 27.5 mm x2 mkp capacitor pcx2 335 mj684 pilkor 1730
+capacitors film capacitors e742905 pcx2 337 10103 10nf 275v 10mm x2 mkp capacitor pcx2 337 10103 pilkor 1054
+capacitors film capacitors e742906 pcx2 337 10153 15nf 275v 10mm x2 mkp capacitor pcx2 337 10153 pilkor 1408
+capacitors film capacitors e742907 pcx2 337 10223 22nf 275v 10mm x2 mkp capacitor pcx2 337 10223 pilkor 1903
+capacitors film capacitors e742908 pcx2 337 10333 33nf 275v 10mm x2 mkp capacitor pcx2 337 10333 pilkor 1255
+capacitors film capacitors e742909 pcx2 337 10473 47nf 275v 10mm x2 20% mkp cap pcx2 337 10473 pilkor 54
+capacitors film capacitors e742910 pcx2 337 10683 68nf 275v 10mm x2 mkp capacitor pcx2 337 10683 pilkor 988
+capacitors film capacitors e742911 pcx2 337 10104 100nf 275v 10mm x2 mkp capacitor pcx2 337 10104 pilkor 2000
+capacitors film capacitors e742912 pcx2 337 10224 220nf 275v 15mm x2 mkp capacitor pcx2 337 10224 pilkor 6652
+capacitors film capacitors e742918 pcx2 337 10105 1 uf 275v 22.5 mm x2 mkp capacitor pcx2 337 10105 pilkor 10295
+capacitors film capacitors e742944 pcy2 130d30472 4n7 275v 10mm y2 mkt capacitor pcy2 130d30472 pilkor 6900
+capacitors film capacitors e743025 pcy2 130d31822 8n2 300v 10mm y2 mkp capacitor pcy2 130d31822 pilkor 3000
+capacitors film capacitors e741290 2222 330 40153 15nf 2 50v 15mm x2 mkt capacitor 2222 330 40153 2277
+capacitors film capacitors e741397 bfc233620224 220nf 275v 15mm x2 mkp capacitor bfc2 336 20224 35
+capacitors film capacitors e741440 bfc233629051 220nf 275v 22.5 mm x2 mkp capacitor 2222 336 29051 2400
+capacitors film capacitors e741442 bfc233629055 470nf 275v 27.5 mm x2 mkp capacitor 2222 336 29055 210
+capacitors film capacitors e741443 bfc233626684 680nf 275v 27.5 mm x2 mkp lng 2222 336 26684 4775
+capacitors film capacitors e741444 bfc233620104 100nf 275v 15mm x2 mkp capacitor 2222 336 20104 3
+capacitors film capacitors e741551 bfc233554224 220nf 275v 22.5 mm x2 mkp lg 2222 335 54224 734
+capacitors film capacitors e741623 bfc2 335 54334 330nf 275v 22.5 mm x2 mkp lg bfc2 335 54334 618
+capacitors film capacitors e742020 bfc233620153 15nf 275v 10mm x2 mkp capacitor 2222 336 20153 938
+c14 de2e3kh102m radial wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c16 de2e3kh102m radial wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c 63 de2e3kh102m radial wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c 64 de2e3kh102m radial wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c1 fb bfc2 336 26 474 box bc 470nf 275v saf x2 20% p27.5 w11
+c2 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c3 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c4 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c5 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c6 fb bfc2 336 26 474 box bc 470nf 275v saf x2 20% p27.5 w11
+c7 fb bfc2 336 26 474 box bc 470nf 275v saf x2 20% p27.5 w11
+c8 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c9 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c10 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c11 fb de2e3kh102m disc wkp102mcpejokr 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+c13 fb b32529c104k box 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
+0.1 uf 275v 0.1 uf 275v p 15mm x2 2 cx1 cx2
+2.2 nf 300v 2.2 nf 300v p 7.5 mm y1 4 cy1 cy2 cy3 cy4
+x2 电容 1 uf 275v 误差 ± 10 ％ 直插 脚距 22.5 1 标准件

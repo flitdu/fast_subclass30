@@ -79,5 +79,7 @@ sqp10ajb 1r0 r50 res50mm rs1 rs2 rs3 rs4 rs5 res 1 ohm 10w 5% axial sqp10ajb 1r0
 16 c0200167 水泥 电阻 3 ω 5w ± 5% 22 9.5 9.5 sqp sqp 1 500
 17 1777 0 17 taiwan resistor resistor thd wirewound resistor resistor 47 ω 5% 5w 3 50v tht sqp5wj47 1.0 10000
 水泥 电阻 5w0.22 ω j 片状 5.3 14.5 17.6 脚距 9mm 1 90101 500
+r 77 ac07000009108j 7w 9r1 7w 5% cement resistor
+r202 ac07000009108j 7w 9r1 7w 5% cement resistor
 水泥 电阻 5w 10 欧姆 j 档 50000
 水泥 电阻 5w 20 欧姆 j 档 50000

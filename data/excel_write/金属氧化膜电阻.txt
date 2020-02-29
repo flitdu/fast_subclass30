@@ -1,3 +1,4 @@
+240r 5w 5% metal oxide 0.493 1 0.404 286 180 rc xicon 286 240 rc for vu meter lamp 12v 286 180 rc 1
 r88 r110 mor 2w 10 5% dip 2 abco
 res 0.12 ohm 1 4 5% axial stackpole rsmf12jtr120 1 600
 直插 电阻 1 r12 1 47k axial0.8 2w
@@ -11,3 +12,8 @@ resistor res ruthenium oxide 10kohms 50wv 1 % tol 100 100ppm tc 0402 case ta i 3
 金属 氧化 膜 电阻 2w 2k ω 脚距 80mm ± 5% 3 90102 1500
 金属 氧化 膜 电阻 3w 100k ω 脚距 80mm ± 5% 1 90103 500
 金属 氧化 膜 电阻 5w 68k ω 脚距 80mm ± 5% 1 90104 500
+metal oxide resistors 60mohmns 1% 750watts 100ppm 2 current bom
+resistor 1.0 k ohm 10w metal dioxide 5% rm 221 p529 20 1.0 kw 10 nd
+resistor 100 ohm 2w axial lead metal oxide box 59 9 40 p100w 2bk nd
+resistor 18r 3w dip 18r 3w fn 950 5962 pc 550.0
+0.11 ω 3w 0.11 ω 2w 6 1 rcs1

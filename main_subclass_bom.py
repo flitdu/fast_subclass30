@@ -11,18 +11,24 @@ from pylab import *
 mpl.rcParams['font.sans-serif'] = ['SimHei']
 import time
 import fasttext as ff
+# # from fastText.bui
+# from fastText.build import fasttext as ff
 from sklearn.metrics import confusion_matrix
 from sklearn import metrics
 import matplotlib.pyplot as plt
-import jieba                         # 组合使用】
-jieba.load_userdict('dict_boom.txt') # 组合使用】
+
 from bom_read import excel_read2txt
-from data_selection import merge_txt_files
+from data_selection_new import merge_txt_files
 from data_split import train_datas_split
 import pandas as pd
+from data_operation import OperateExcel
 import time
 from data_operation.function import load_stop_word_list, standard, label_new
+from data_operation.txt_operate import OperateTXT
 import os
+from data_operation.constant import label_name_forbid
+stop_words = load_stop_word_list("stopwords_subclass.txt")
+from data_operation.constant import label_marked
 
 
 class FastTextModel:
@@ -34,14 +40,29 @@ class FastTextModel:
         self.loss = loss
         self.lr = learn_rate
         pass
+
     def fit(self, train_file_path):
         '''
         依据训练数据不断更新权重
         '''
         for i in range(1, self.epoch):  # 迭代轮数
-            for w in range(2, 3):  # 连词数，取1、2
+            for w in range(1, 2):  # 连词数，取1、2
                 start_time = time.time()            # loss = softmax or hs
-                classifier = ff.train_supervised(train_file_path, epoch=i, loss=self.loss, lr=self.lr, wordNgrams=w)
+                # classifier = ff.train_supervised(train_file_path,
+                #                                  epoch=i,
+                #                                  loss=self.loss,
+                #                                  lr=self.lr,
+                #                                  wordNgrams=w,
+                #                                  minCount=1,  # 词频阈值, 小于该值在初始化时会过滤掉
+                #                                  minn=1,
+                #                                  maxn=20)
+                # --------------------------------
+                classifier = ff.train_supervised(train_file_path,
+                                                 epoch=i,
+                                                 loss=self.loss,
+                                                 lr=self.lr,
+                                                 wordNgrams=w)
+
                 # print(classifier.)
                 print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
                 classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
@@ -62,22 +83,22 @@ class FastTextModel:
         test_f1 = []
         with open(test_file_path, "r", encoding="utf-8") as ft_test:
             for line in ft_test:
-                print(line)
+                # print(line)
                 correct_labels.append(line.strip().split(" , ")[0])
                 texts.append(line.strip().split(" , ")[1])
-        print('correct_labels 为：{}'.format(correct_labels))
+        # print('correct_labels 为：{}'.format(correct_labels))
         # 加载分类模型
         for w in range(1, 2):
             for i in range(2, self.epoch):
                 classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
                 # print("Model/model_w" + str(w) + "_e" + str(i))
                 # 预测
-                classifier.get_word_vector()
+                # classifier.get_word_vector()
                 predict_labels = classifier.predict(texts)[0]
                 # print(dir(classifier),';;;;;;;')
-                print('测试集predict_labels 为：', predict_labels, type(predict_labels))
+                # print('测试集predict_labels 为：', predict_labels, type(predict_labels))
                 print(confusion_matrix(correct_labels, predict_labels,
-                                       labels=['__label__CBB电容', '__label__MELF晶圆电阻', '__label__NTC', '__label__PTC', '__label__云母电容', '__label__保险电阻', '__label__光敏电阻', '__label__功率电感', '__label__压敏电阻', '__label__可变电感器套件配件', '__label__可调电容', '__label__可调电阻电位器', '__label__固定电感', '__label__圆柱体晶振', '__label__安装型大容量电容', '__label__安规电容', '__label__工字电感', '__label__排阻', '__label__无源晶体振荡器', '__label__有源晶体振荡器', '__label__标准时钟振荡器', '__label__校正电容', '__label__氧化铌电容', '__label__水泥电阻', '__label__电容器阵列与网络', '__label__直插独石电容', '__label__直插瓷片电容', '__label__直插电解电容', '__label__直插通孔电阻', '__label__碳膜电阻', '__label__精密可调电阻', '__label__绕线电阻', '__label__色环电感', '__label__薄膜电容', '__label__谐振器', '__label__贴片电容', '__label__贴片电感', '__label__贴片电解电容', '__label__贴片电阻', '__label__贴片超低阻值电阻', '__label__贴片高精密-低温漂电阻', '__label__超级电容器', '__label__采样电阻', '__label__金属氧化膜电阻', '__label__金属膜电阻', '__label__钽电容', '__label__高压电阻', '__label__高频电感']))
+                                       labels= label_marked))
                 f1_score = metrics.f1_score(correct_labels, predict_labels,
                                             average='weighted')
                 print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
@@ -115,7 +136,7 @@ class FastTextModel:
                     texts1.append(line.strip().split(" , ")[1])
                 except:
                     continue
-        print('correct_labels 为：{}'.format(correct_labels_train))
+        # print('correct_labels 为：{}'.format(correct_labels_train))
         # 加载分类模型
         for w in range(1, 2):
             for i in range(2, self.epoch):
@@ -155,81 +176,56 @@ class FastTextModel:
         plt.show()
         print('endddddd!!!!!!!!!!!!!!')
 
-def standard_qq(str1):
-    aa_description = standard(str1)
-    print('前3预测： ', classfier.predict([aa_description], k=3))
-    predict = classfier.predict([aa_description])
+
+def predict_output(str1):
+    print('前3预测： ', classfier.predict([str1], k=3))
+    predict = classfier.predict([str1])
     print(predict)
-    return predict, aa_description
+    return predict
 
 
-def predict_line_label_out(file_path_combine):
-    ss = pd.read_excel(file_path_combine)
-    ss_count = ss.shape
-    ss_han = ss_count[0]
-    ss_lie = ss_count[1]
-    true_false_list = []
-    # row_selection = row_return_list(file_path_combine)   # 添加列的选择
-    row_selection = list(range(1, ss_lie))   # 添加列的选择
-    if row_selection != []:
-        # 先遍历行再遍历列
-        for h in range(ss_han):
-            # 拼接一行所有内容
-            zonhe = ""
-            yuanlai = ""
-            shiti = ""
-            true_label = ''
-            # for l in range(1, ss_lie):  # 列全部选择
-            for l in row_selection:
-                if "nan" == str(ss.loc[h].ix[l]):
-                    continue                               # replace('\n', '') 去掉excel中的换行符
-                zonhe = zonhe + str(ss.loc[h].ix[l]).strip().replace('\n', '') + ' '
-                true_label = ss.loc[h].ix[0]
-                true_label = str(true_label).replace('/', '').strip()
+class TestExcel(OperateExcel):  # 重写函数
+    pass
 
-                temp_label = ['(含税RMB)', '晶振贴片', '晶振直插', '圆柱体电感',
-                              '磁环电感', '共模电感/滤波器', '通用电感',
-                              '耦合电感', '多层陶瓷电容', '特种陶瓷电容器',
-                              '电解电容', '硅电容器', '馈通电容器',
-                              '氧化膜电阻', 'LED灯条电阻', '平面电阻器',
-                              '专用电阻', '分流器', '3', '6', '160', '1.', '2.', '3.',
-                              '电话：0755-83551135', '其他说明Other', '产品型号Model',
-                              '镀金;-40°C']
-                if true_label in temp_label:
+    def predict_result(self): # 处理单个文件
+        true_false_list = []
+        _, row = self.excel_matrix() # 读取列
+        row = list(range(1,row))
+        if row != []:
+            for line_read in self.excel_content_all().splitlines():  # 先遍历行
+                true_label = line_read.split()[0].replace('/', '')  # 替换标签里面 '/'
+                if true_label in label_name_forbid:
                     continue
-                # if true_label == '(含税RMB)' or true_label == '晶振贴片' or true_label == '晶振直插'or true_label == '圆柱体电感' or true_label == '通孔电阻器':
-                #     continue
                 true_label = label_new(true_label)
 
-
-            if len(zonhe.strip()) == 0:
-                continue
-            print(true_label, '.....')
-            print('excel 列选取结果：{}{}'.format(zonhe, type(zonhe)))
-
-            try:
-                aa, line_process = standard_qq(zonhe)
-            except:
-                continue
-
-            shiti = aa[0][0][0].replace('__label__', '')
-            if true_label != 'nan':
-                if true_label == shiti:
-                    true_false_list.append(1)
+                if true_label != 'nan':
+                    print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(0, line_read))
+                    aa_description = " ".join(line_read.split()[1:])
+                    aa_description_standard = standard(aa_description, stop_words)  # 标准化处理
+                    predicted_label_name = predict_output(aa_description_standard)
                 else:
-                    print('\033[1;31m error!!【{}】\033[0m预测为\033[1;31m 【{}】\033[0m--{}]'.format(true_label, shiti, file_path_combine))
-                    error_infor = true_label+'     预测为     '+shiti
-                    txt_write_line(r'D:\dufy\code\fast_subclass30\aaa.txt', error_infor)
-                    txt_write_line(r'D:\dufy\code\fast_subclass30\bbb.txt', '__label__'+true_label+' , '+line_process)
-                    txt_write_line(r'D:\dufy\code\fast_subclass30\ccc.txt', '__label__'+true_label+' , '+ zonhe)
-                    true_false_list.append(0)
-            print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(h, zonhe))
-            print("预测实体为：\033[1;31m {}\033[0m".format(shiti))
-            print('========================')
+                    continue
 
-        return true_false_list
-    else:
-        return None
+                predicted_label = predicted_label_name[0][0][0].replace('__label__', '')
+                if true_label == predicted_label:
+                    true_false_list.append(1)
+                    print("预测实体为：\033[1;32m {} {}\033[0m".format(predicted_label, '√'))
+
+                else:
+                    print('\033[1;31m error!!【{}】\033[0m预测为\033[1;31m 【{}】\033[0m]'.format(
+                        true_label, predicted_label))
+                    print(self.file_path)
+                    error_infor = true_label + '     预测为     ' + predicted_label
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\aaa.txt', error_infor)
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\bbb.txt',
+                                   '__label__' + true_label + ' , ' + aa_description_standard)
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\ccc.txt', '__label__' + true_label + ' , ' + aa_description)
+                    true_false_list.append(0)
+                    print("预测实体为：\033[1;31m {} {}\033[0m".format(predicted_label, '×'))
+                print('========================')
+            return true_false_list
+        else:
+            return None
 
 
 if __name__ == '__main__':
@@ -242,15 +238,15 @@ if __name__ == '__main__':
 
     # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
     # # '''''''''''''''''data_selection.py
-    # # # # #
-    merge_txt_files(1000)  ## 选取行数
+
+    # merge_txt_files(1000, shuffle_tag = 1)  ## 选取行数
 
 
-    # # # # # # #
-    # # # # # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
-    # # # # # # # '''''''''''''''''data_split.py
-    # # # # # #
+    # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
+    # # # # # # # # '''''''''''''''''data_split.py
+
     # train_datas_split()
+
 
     # 4 训练-调参
     # 初始化
@@ -274,30 +270,19 @@ if __name__ == '__main__':
     # print(dir(classifier))
     # print(help(classifier.ge))
     #
-    tag = 10
+    tag = 1
     if tag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
         # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\BOM标注0221-mike'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.24标注-Elena'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-Elena'
+        #excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-mike'
 
-        # txt_filePath = r'D:\dufy\code\ft_BOM\model'  # 读取文件夹路径,
-        txt_filePath = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
-        print(txt_filePath)
-        txt_names = os.listdir(txt_filePath)
+        model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+        model_names = os.listdir(model_folder)
         # excel_test1(txt_names)
         dict_model_test = {}
-        for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
-
-            if str(txt_filePath).strip(r'D:\dufy\code\ft_BOM\\') == 'model':
-                modle_path = r'D:\dufy\code\ft_BOM\model' + '\\' + name0
-
-            else:
-                modle_path = r'D:\dufy\code\ft_BOM\model_1' + '\\' + name0
-                pass
-
-            # modle_path = 'model_' + '\\' + name0
-            # print(modle_path)
+        for i, name0 in enumerate(model_names):  # 文件夹下文件循环
+            modle_path = model_folder + '\\' + name0
             classfier = ff.load_model(modle_path)
 
             f_train = open(r'D:\dufy\code\fast_subclass30\aaa.txt', 'w')
@@ -309,20 +294,15 @@ if __name__ == '__main__':
             f_test1 = open(r'D:\dufy\code\fast_subclass30\ccc.txt', 'w')  # 增加原始信息输出
             f_test1.truncate()
             f_test1.close()
+
             all_record = 0
             right_record = 0
-            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6'
-            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\已标注bom1206\已标注\1206'
-            # folder_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'
-            folder_path = excel_path
-            file_names = os.listdir(folder_path)
+
+            file_names = os.listdir(excel_path)
             for i, name1 in enumerate(file_names):
-                file_path_combine = folder_path + '//' + name1
-                # ss = pd.read_excel(file_path_combine)
-                # r"C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-6\2c93ea3b6dfd8eaa016e0fd1bc90012f-U226.xlsx")
-                # predict_line_all(ss)  #预测 excel 一行所有数据
-                print(file_path_combine)
-                TF_record = predict_line_label_out(file_path_combine)  # 预测 excel 一行,除去标签
+                file_path_combine = excel_path + '\\' + name1
+                aa = TestExcel(file_path_combine)
+                TF_record = aa.predict_result()  # 预测 excel 一行,除去标签
                 print(TF_record)
                 # if TF_record != None and []:  # 之前这样写，不对！！！！
                 if TF_record:
@@ -348,14 +328,16 @@ if __name__ == '__main__':
         x = []
         y = []
         for key, value in dict_model_test.items():
-            print(key.strip('model_w1_e'), value)
-            x.append(int(key.strip('model_w1_e')))  # append() 方法用于在列表末尾添加新的对象。
+            print(value)
+            #     print(key.strip('model_w1_e'), value)
+            x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
             y.append(value)
-        print(x, y)
+
         plt.plot(x, y, "b-o", linewidth=2)
-        plt.xlabel("epoch")  # X轴标签
+        plt.xlabel("model")  # X轴标签
         plt.ylabel("accu")  # Y轴标签
         plt.title("Line plot")  # 图标题
+        plt.grid()
         plt.show()  # 显示图
 
 

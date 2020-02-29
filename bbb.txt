@@ -1,7 +1,51 @@
 __label__高频电感 , 电感 sdcl1005c33njtdf 0402 10 000 0 2017 09 21 2017 09 21 sdcl1005c33njtdf 10000 0.01 2
-__label__功率电感 , 电感 inductor 3.3 uh swpa5040s3r3nt 5.0 5.0 4.0 30% 15 000 0 2017 09 21 2017 09 21 swpa5040s3r3nt 15000 0.268 2
 __label__贴片电感 , ind smd fixo 1mh 250ma 2.4 r 1mh 2000 1
 __label__贴片电感 , sdr0403 681kl 680u 2000 sdr0403 681kl sdr0403 681kl 2000 0.1879 7 12days dgk
 __label__贴片电感 , mlp2520s2r2mt0s1 2u2 2000 mlp2520s2r2mt0s1 mlp2520s2r2mt0s1 2000 0.1538 10 15days arrow
+__label__水泥电阻 , 插件 电阻 r20 r21 水泥 电阻 5w 5 水泥 电阻
 __label__贴片电感 , l1 smd 7 7 3 100uh 100uh ± 20% 7032 slf7032t 101mr45 2pf 0.91 6 6 2.8 lc
 __label__贴片电感 , l2 smd 4 4 1.8 4.7 uh 4.7 uh ± 20% 4 4 1.8 chilisin 0.242 lc
+__label__薄膜电容 , capacitor ceramic 0.22 uf 3 10v kemet f861be224m310z 0.095 f861be224m310z 0.1815 38 40wks
+__label__直插瓷片电容 , capacitor disc 2.2 nf 500v 20% vy1222m47y5uq63v0 0.0539 vy1222m47y5uq63v0 0.0914 15 17wks
+__label__直插电解电容 , 铝 电解电容 100 uf 50v 10% rjl 50v 101m 10 20 c2 c4 c8 c12 c16 5 elna enb1hm101g13ot aishi 600 0.31 40 100 uf ± 20% 50v 10 13 lc joyce
+__label__薄膜电容 , cap fxd mplr 1 uf 10% 63v cp2 cp3 cp34 cp35 cp40 pte ltd b32529c0105k189 4500 b32529c0105k189 1500 4500 01785 10 15days dgk
+__label__贴片电感 , ind fxd 300nh.05 aferrite bead lp4 pulse magnetic power p71701045 900 p71701045 pulse 1
+__label__贴片电感 , ind fxd 300nh 2a ferrite bead lp2 pulse magnetic power p71701044 900 p71701044 pulse 1
+__label__固定电感 , 220uh smcc inductor l5 l6 2
+__label__安全电容 , 56 cap film 4700pf 1.5 kvdc radial b32021a3472m cap film 4700pf 1.5 kvdc radial c15 inc 3 495 4082 nd
+__label__安全电容 , 57 cap film 4700pf 1.5 kvdc radial b32021a3472m c16 inc 495 4082 nd
+__label__安全电容 , 58 cap film 4700pf 1.5 kvdc radial b32021a3472m c18 inc 495 4082 nd
+__label__安全电容 , 59 cap film 0.47 uf 3 10v ac radial b32922c3474m cap film 0.47 uf 3 10v ac radial c28 inc 2 495 2322 nd
+__label__安全电容 , 60 cap film 0.47 uf 3 10v ac radial b32922c3474m c64 inc 495 2322 nd
+__label__采样电阻 , 170 res 02 ohm 5w 5% radial mpr5jb20l0 res 02 ohm 5w 5% radial r12 stackpole inc 10 mpr5jb20l0 nd
+__label__采样电阻 , 171 res 02 ohm 5w 5% radial mpr5jb20l0 r13 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 172 res 02 ohm 5w 5% radial mpr5jb20l0 r14 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 173 res 02 ohm 5w 5% radial mpr5jb20l0 r15 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 174 res 02 ohm 5w 5% radial mpr5jb20l0 r37 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 175 res 02 ohm 5w 5% radial mpr5jb20l0 r38 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 176 res 02 ohm 5w 5% radial mpr5jb20l0 r39 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 177 res 02 ohm 5w 5% radial mpr5jb20l0 r40 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 178 res 02 ohm 5w 5% radial mpr5jb20l0 r41 stackpole inc mpr5jb20l0 nd
+__label__采样电阻 , 179 res 02 ohm 5w 5% radial mpr5jb20l0 r42 stackpole inc mpr5jb20l0 nd
+__label__可调电阻电位器 , 393 trimmer 10k ohm 0.25 w smd st4etb103 trimmer 10k ohm 0.25 w smd vr1 copal inc 3 st4etb103ct nd
+__label__可调电阻电位器 , 394 trimmer 10k ohm 0.25 w smd st4etb103 vr2 copal inc st4etb103ct nd
+__label__可调电阻电位器 , 395 trimmer 10k ohm 0.25 w smd st4etb103 vr3 copal inc st4etb103ct nd
+__label__可调电阻电位器 , 396 trimmer 10k ohm 0.25 w smd st4etb103 vr4 copal inc 1 st4etb103ct nd
+__label__排阻 , 27 6 266 100k rc res netwrk comm bus 10pin 100k 2% rp1 rp2 rp3 rp4 rp5 rp6 sip 10p largepad 266 100k rc xicon
+__label__贴片电感 , 1 130 0276 000 ind p8e8 smd 47 uh 20% 700ma 360mohm dcr max 20 x15 x17 mm 10 mag layers scientific technics co ltd msch 2015c 4r7m f rt l2d2
+__label__功率电感 , 35 1 1uh 3.7 a srn4018 1r0y inductor 4x4 smt l701 yes ferrite 30% 3.7 a 3.5 a inductor smps 0.20400000000000001 0.20400000000000001 20.4 0.0022310975184289747 newark
+__label__有源晶体振荡器 , 44 1 0 abracon achl 25000 mhz ek stall x5 250 mhz half cap 8 p dip 30 ppm 33 v with oe plug to x7 socket acol achl pdf
+__label__电容器阵列与网络 , 90 3 2 0805 a4 ecj tvb1c103m cp21 cp52 cp53 cp52 cp53 cap array 01 uf 16v x7r 0805 abk0000ce2 pdf
+__label__电容器阵列与网络 , 95 38 37 0805 a4 ckcl44x5r0j104m cp1 cp2 cp3 cp10 cp11 cp12 cp13 cp20 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp70 cp71 cp75 cp80 cp81 cp90 cp100 cp101 cp102 cp103 cp110 cp121 cp122 cp128 cp129 cp130 cp131 cp1 cp2 cp3 cp10 cp11 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp65 cp70 cp71 cp100 cp101 cp102 cp103 cp104 cp105 cp106 cp111 cp112 cp113 cp114 cp115 cp116 cp117 cp118 cp121 cap 4 array 10 uf 63 v x5r 0805 e4181 ckc pdf
+__label__采样电阻 , 235 1 res cur sense smt smv r4723 0.002 r r657 smv r0022 1.0 400
+__label__绕线电阻 , 17 allied ohmite 296 5449 resistors wirewound 25 ohms pwr rtg 3 8 106 848 alliedelec search productdetail aspx sku 2965449 purchased 11 16 10
+__label__贴片高精密-低温漂电阻 , r2 r13 r18 39855700 6 resistor 01% 0805 10k welwyn pcf0805r 10kbi
+__label__贴片高精密-低温漂电阻 , r3 r10 r15 39868220 6 resistor 01% 0805 200k welwyn pcf0805r 200kbi
+__label__可调电阻电位器 , r4 r9 r17 9353305.0 12 trimmer 25 turn 50k 3296w 1 503lf
+__label__贴片高精密-低温漂电阻 , 17 r7 1 33 rr1220q 220 d susumu co ltd res 22 ohm 0.5% 0.1 w 0805 0805
+__label__贴片电感 , 56 0.24 uh ind 252012 l2104 l2105 2.0
+__label__贴片电感 , 57 1uh ind 3x3 3015 l2102 l2103 2.0
+__label__贴片电感 , 58 2.2 uh ind 3x3 3015 l2100 l2101 2.0
+__label__贴片电感 , 59 4.7 uh ind 3x3 3015 l6300 1.0
+__label__贴片电感 , 60 3.3 uh ind 3x3 3015 l2106 l2107 2.0
+__label__贴片电感 , 61 3.3 uh ind 4x4 4018 l2000 l2001 2.0

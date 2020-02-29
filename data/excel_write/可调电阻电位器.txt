@@ -3,10 +3,79 @@ r269 r270 r275 3224w 1 103e smd 3 3224w 1 103e 3.0 5.5 lc
 10k % 1 r43 r45 res sm 变阻器 2 20
 电位器 pvm4a103c01 0603 500 9500 8500
 10k rv1 3306p f trim pot
+微调 电位器 10k 10k 3224j 150 150
+微调 电位器 20k 20k 3224j 50 50
+微调 电位器 50k 50k 3224j 50 50
 电位器 501 3362p 3362p 1 501lf 250 250.0 1.07 lc
 电位器 204 3362p 3362p 1 204lf 50 50.0 1.24 lc
 电位器 3296w 2k 2k ω 200
 电位器 3296w 10k 10k ω 100
+trimmer resistors through hole 3 8 sq h adj 25k 1
+resistors potentiometers t837056 rv16af 10 15r1 b10k 10k potentiometer linear alpha taiwan 4
+resistors potentiometers t837458 rv16af 20 15k a25k 3 25k 0.6 w 20% panel mount pot rv16af 20 15k a25k 3 alpha taiwan 1
+resistors potentiometers t833483 3309p 1 104 100k horizontal 9mm round open preset 3309p 1 104 100
+resistors potentiometers t833501 3386x 1 501 500r vert 9.5 mm preset potentiometer 3386x 1 501 98
+resistors potentiometers t833565 3386w 1 103 10k vert 9.5 mm preset potentiometer 3386w 1 103 50
+resistors potentiometers t833606 3362w 1 503lf 50k vert 6.6 mm preset potentiometer 3362w 1 503lf 100
+resistors potentiometers t833627 3386p 1 201 200r horiz 9.5 mm preset potentiometer 3386p 1 201 100
+resistors potentiometers t833654 3306p 1 103 10k horizontal 6mm round open preset p 3306p 1 103 200
+resistors potentiometers t834630 3306p 1 501 500r horizontal 6mm round open preset 3306p 1 501 100
+resistors potentiometers t837029 3214w 1 502e 5k smd multi turn potentiometer 20
+resistors potentiometers t837430 91a1a b24 b15l 10k 0.5 w 20% linear panel potentiometer 1
+resistors potentiometers t843560 3266x 1 103lf 10k vertical side adjust 12t 6.3 mm p 3266x 1 103lf 45
+resistors potentiometers t843584 3006p 1 502lf 5k0 end adjust 15t 19mm preset p 3006p 1 502lf 5
+resistors potentiometers t844325 3296y 1 103lf 10k vertical top adjust 25t 9.5 mm pr 3296y 1 103lf 1700
+resistors potentiometers t844523 3006p 1 202 2k0 end adjust 15t 19mm preset pot 3006p 1 202 50
+resistors potentiometers t833453 pvc6g104c01b00 100k vert 6mm preset potentiometer pvc6g104c01b00 6
+resistors potentiometers t834401 pvc6a203a01b00 20k horiz 6mm preset potentiometer pvc6a203a01b00 98
+resistors potentiometers t843455 pv36y103a01b00 10k vertical top adjust 25t 9.5 mm pv36y103a01b00 14
+resistors potentiometers t843456 pv36x503c01b00 50k vertical side adjust 25t 9.5 mm pv36x503c01b00 100
+resistors potentiometers t843512 pv23p102c01b00 1k0 end adjust 15t 19mm preset pv23p102c01b00 20
+resistors potentiometers t843589 pv36x103a01b00 10k vertical side adjust 25t 9.5 mm pv36x103a01b00 1287
+resistors potentiometers t843590 pv36w104c01b00 100k vertical top adjust 25t 9.5 mm pv36w104c01b00 150
+resistors potentiometers t843659 pv36w202c01b00 2k0 vertical top adjust 25t 9.5 mm pv36w202c01b00 300
+resistors potentiometers t843663 pv23p104c01b00 100k end adjust 15t 19mm preset pv23p104c01b00 41
+resistors potentiometers t843683 pv36x203c01b00 20k vertical side adjust 25t 9.5 mm pv36x203c01b00 650
+resistors potentiometers t843685 pv36w203c01b00 20k vertical top adjust 25t 9.5 mm p pv36w203c01b00 400
+resistors potentiometers t844560 pv37w501c01b00 500r vertical top adjust 12t 6.3 mm pv37w501c01b00 19
+resistors potentiometers t845593 pv36w101c01b00 100r vertical top adjust 25t 9.5 mm pv36w101c01b00 100
+resistors potentiometers t845965 pv36x202c01b00 2k0 vertical side adjust 25t 9.5 mm pv36x202c01b00 200
+resistors potentiometers t812475 2322 501 90002 1k0 linear panel potentiometer 2322 501 90002 649
+resistors potentiometers t812478 2322 501 90003 2k2 linear panel potentiometer 2322 501 90003 944
+resistors potentiometers t822640 ptc10mh05 103a2020e 10k vertical cermet preset ptc10mh05 103a2020e piher 214
+resistors potentiometers t822783 pt10lv10 103a2020s 10k horizontal preset potentiometer piher 2193
+resistors potentiometers t822784 pt10lv10 102a2020 1k0 horiz preset potentiometer pt10lv10 102a2020 piher 10002
+resistors potentiometers t822786 pt10lv10 471a2020 470r horiz preset potentiometer pt10lv10 471a2020 piher 13
+resistors potentiometers t822852 pt10mv10 221a2020 220r horiz preset pot hex pt10mv10 221a2020 piher 5
+resistors potentiometers t823006 pt10lv10 223a2020 22k horiz preset potentiometer pt10lv10 223a2020 piher 466
+resistors potentiometers t823007 pt10lh01 471a2020 470r vert preset potentiometer pt10lh01 471a2020 piher 536
+resistors potentiometers t823010 pt10lh01 104a2020 100k vert preset potentiometer pt10lh01 104a2020 piher 2500
+resistors potentiometers t823076 pt10mv10 471a2020 470r horiz preset pot hex pt10mv10 471a2020 piher 103
+resistors potentiometers t823523 pt10lv10 472a2020s 4k7 horiz preset potentiometer pt10lv10 472a2020s piher 510
+resistors potentiometers t823524 pt6kv 103a2020 10k horizontal preset potentiometer pt6kv 103a2020 piher 1482
+resistors potentiometers t823631 pt10mv10 104a2020 100k horiz preset pot hex pt10mv10 104a2020 piher 1044
+resistors potentiometers t823635 pt10lv10 105a2020 1m0 horiz preset potentiometer pt10lv10 105a2020 piher 1302
+resistors potentiometers t823640 5034ne pt10 11.5 mm black thumb piher 600
+resistors potentiometers t823876 pt10mv10 473a2020e 47k horiz preset pot hex pt10mv10 473a2020e piher 46
+resistors potentiometers t823934 pt10mh01 472a2020 4k7 vert preset pot hex pt10mh01 472a2020 piher 13997
+resistors potentiometers t824407 pt6kv 102a2020 1k0 horizontal preset potentiometer pt6kv 102a2020 piher 700
+resistors potentiometers t824415 pt10lh01 223a2020 22k vert preset potentiometer pt10lh01 223a2020 piher 299
+resistors potentiometers t824621 n6l25t0c 105 1m0 horiz 6mm preset potentiometer n6l25t0c 105 piher 99
+resistors potentiometers t824970 pt10lh01 473a2020 47k vert preset potentiometer pt10lh01 473a2020 piher 185
+resistors potentiometers t826354 32010 pt10 11.5 mm white thumb piher 1503
+resistors potentiometers t826799 pt10mh01 272a2020 2k7 vert preset pot hex pt10mh01 272a2020 piher 500
+resistors potentiometers t826865 5062 white pt10 21mm white thumb 5062 5062 white piher 163
+resistors potentiometers t837033 t21acm0713 103a2020 342 ta 10k 21mm carbon potentiometer w push pull sw piher 77
+resistors potentiometers t837528 pt15rvd15 104a2020epcf 100k vert preset pot pt15rvd15 104a2020epcf piher 5
+resistors potentiometers t837611 pt10mv10 252a2020 s 2.5 kohms horiz preset pot hex pt10mv10 252a2020 s piher 10
+resistors potentiometers t982699 sm 15h04 102 a1010 21 ta 1k0 lin panel pot sm 15h04 102 a1010 21 ta piher 1889
+resistors potentiometers t983359 pc 16sh101p06 103 a2020 ta 10k lin panel pot pc 16sh101p06 103 a2020 ta piher 65
+resistors potentiometers t983462 pc 16sh07ip04 103 a2020 ta 10k lin panel pot pc 16sh07ip04 103 a2020 ta piher 29
+resistors potentiometers t983510 pc 16sh07i 17865 1k0 linear panel potentiometer pc 16sh07i 17865 piher 16
+resistors potentiometers t837514 ra0901nox0k ha1 843 25k linear pcb mount pot ra0901nox0k ha1 843 soundwell 1
+resistors potentiometers t837515 ra0901nox0k ha1 844 30k linear pcb mount pot ra0901nox0k ha1 844 soundwell 1
+resistors potentiometers t837516 ra0901noc0a va1 003 500k linear pcb mount pot ra0901noc0a va1 003 soundwell 3
+resistors potentiometers t837563 rv110f 40e1 18b b100k a013 100k 6mm pot rv110f 40e1 18b b100k a013 taiwan alpha 1
 电位器 3296w 2k 2k ω 200
 电位器 3296w 10k 10k ω 100
 r8 cadpart res pot 5k 1 2w 20% 3352t production 3352t 1 502lf

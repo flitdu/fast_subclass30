@@ -16,8 +16,8 @@ from data_operation.function import load_stop_word_list, label_new, standard
 from data_operation.txt_operate import OperateTXT
 from data_operation.constant import label_name_forbid
 import os
-import jieba
-jieba.load_userdict('dict_boom.txt')
+import jieba                          # 组合使用】
+jieba.load_userdict('dict_boom.txt')  # 组合使用】
 stop_words = load_stop_word_list("stopwords_subclass.txt")
 
 

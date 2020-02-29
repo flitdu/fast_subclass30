@@ -1,0 +1,2 @@
+56 1 e014206 res hi power thick film chip 0 r1206 1 2w r64 crcw12060000z0eahp rel
+64 1 e013784 res hi pwr hi prec mf 20k r0402 0.1 75v 1 8w r94 susumu rgh1005 2b p 203 b rel

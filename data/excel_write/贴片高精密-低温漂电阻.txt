@@ -1,6 +1,14 @@
 э 540157 р 1 12 0.25 5.11 ± 0.1% 1206 2.03 101 205.5 101 205.5 р ы й 2007
 э 541209 р 1 12 0.25 511 ± 0.1% 1206 0.43 162 69.4 162 69.4 31.1 2009
 э 540452 р 1 12 0.25 6.42 ± 0.1% 1206 2.24 419 939.41 419 939.41 р 6 03 12 2009
+rc tr0603b1kp0525 0603 0.1% 1k ohm ever 25ppm 10000
+rc tr0603b3k01p0525 0603 0.1% 3.01 k ohm ever 25ppm 60000
+rc tr0805b10kp0525 0805 0.1% 10k ohm ever 25ppm 25000
+rc tr0805b1m3p0525 0805 0.1% 1.3 m ohm ever 25ppm 15000
+rc tr0805b200kp0525 0805 0.1% 200k ohm ever 25ppm 20000
+rc tr0805b3k01p0525 0805 0.1% 3.01 k ohm ever 25ppm 100000
+rc tr0805b3kp0525 0805 0.1% 3k ohm ever 25ppm 10000
+rc tr0805b7k5p0525 0805 0.1% 7.5 k ohm ever 25ppm 10000
 at0402br 0710kl ± 0.1% 1 16 0402 1
 resist smd 0 063w 0 1% 1k rl rh era 2aeb102x 2050 era 2aeb102x 2050.0 0.0657 7 12days dgk
 精密 电阻 精密 电阻 精密 电阻 10k 0805 1% 10ppm 20000 0.005 stock 6 8weeks
@@ -148,6 +156,59 @@ r5 18k 0805 resistor 0.1% tk25 1 n
 100k ohm 0.1% 1 16w rt0402brd07100kl 4 0402 r
 3 133048 1 rc08050000001 kb 电阻 0805 1 8w 1k ± 01% 70 n 0
 4 133048 1 rc080500012 r7kb 电阻 0805 1 8w 127 k ± 01% 70 n 0
+76 y 1.0 r724 res high prec metal film chip 0603 susumu rr0816p 1962 d 29c 19.6 k r0603 603 0.5 1 16w
+r18 res 57.6 k 0.001 r0805 yes top resistor 57k6 0805 0.1% 25ppm 0.1 w multicomp mctc0525b5762t5e fec 1575988
+r42 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r43 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r44 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r49 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r57 res 0r 820r 0.01 r0603 yes top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
+r58 res 0r 820r 0.01 r0603 yes top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
+27 5 r9 r12 r18 e012477 res high pres high stability 33 r0402 0.5 50v 1 16w rt0402dre0733rl rel
+16.0 n r11 r13 r22 r26 r31 r32 r34 r35 r36 r37 r90 r91 r92 r94 r96 res ultra prec ultra reliability mf chip susumu rg1005p 102 b t5 1k r0402 r0402
+54 1 r27 res 316 k ohm 1 10w 01% 0805 0805 t e 1676324 2 a103428ct nd yes
+57 2 r30 r31 res 249 ohm 1 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd yes
+resistor 1.00 k ohm 0.1% smt 1206 footprint rm 221 p347 500 daltnpw12061001br75
+resistor 1.00 m ohm 0.1% smt box 73 4 10 rn732bttd1004b25
+resistor 1.21 k ohm 0.1% smt box 73 6 9 tnpw12061k21been
+resistor 1.54 k ohm 0.1% smt box 71 18 50 tnpw12061k54bety
+resistor 1.74 k ohm 0.1% smt box 73 13 5 tnpw12061k74been
+resistor 10 ohm 0.1% smt box 71 15 35 tnpw120610r0been
+resistor 10.0 k ohm smt 0.1% precision 1206 box 71 5 40 71 tnpw120610k0byty
+resistor 10.5 k ohm smt thin film 0.1% box 71 7 30 dale p n tnpw12061052bt 9
+resistor 100 ohm 0.1% smt 1206 footprint rm 221 p341 1500 daltnpw12061000br75
+resistor 100 ohm smt 0.1% precision 1206 box 71 4 200 71 tnpw1206100rbety
+resistor 100 ohm 0.1% 1 8w drawers e59 50 axial lead
+resistor 12.1 k ohm smt thin film 0.1% box 71 8 30 dale p n tnpw12061212bt 9
+resistor 15.4 k ohm smt 0.1% box 73 3 50 71 tnpw120615k4been
+resistor 15.8 k ohm smt thin film 0.1% box 71 9 10 dale p n tnpw120615k8bebd
+resistor 150k ohm 0.1% smt box 71 11 18 71 tnpw1206150kbety
+resistor 16.2 k ohm 0.1% smt box 73 5 9 rn732bttdk1622b25
+resistor 160 ohm 0.1% smt box 73 7 5 tnpw1206160rbeen
+resistor 165 ohm 0.1% smt box 71 16 25 tnpw1206165rbeen
+resistor 19.6 k ohm 0.1% smt box 71 14 50 tnpw120619k6been
+resistor 1k ohm 0.1% smt rm 221 p243 150
+resistor 2.00 k ohm smt 0.1% precision 1206 box 71 2 0 71 tnpw12062k00bety
+resistor 2.21 k ohm 0.1% smt box 71 17 50 tnpw12062k21been
+resistor 20 ohm 0.1% smt box 73 11 4 tnpw120620r0been
+resistor 3.32 k ohm 0.1% smt box 73 9 15 tnpw12063k32been
+resistor 332 ohm 0.1% smt box 73 8 5 tnpw1206332rbeen
+resistor 357 ohm 0.1% smt box 73 12 4 66 pfc12lf357 b
+resistor 4.02 k ohm smt 0.1% box 73 1 50 71 tnpw12064k02been
+resistor 4.99 k ohm 0.1% smt box 71 13 120 tnpw12064k99been
+resistor 475 ohm 0.1% smt box 73 10 5 rn732bttdk4750b25
+resistor 499 ohm smt 0.1% precision 1206 box 71 1 100 71 tnpw1206499rbety
+resistor 7.87 k ohm smt 0.1% box 73 2 50 71 tnpw12067k87been
+resistor 787 ohm smt thin film 0.1% box 71 10 20 dale p n tnpw1206787rbety
+res smd 1.5 k ohm 0.1% 1 16w 0603 a103057ct nd 0.27 4 1.08 phase iii pcb
+res smd 100k ohm 0.1% 1 16w 0603 a103257ct nd 0.27 6 1.62 phase iii pcb
+res smd 10k ohm 0.1% 1 16w 0603 a119886ct nd 0.19 4 0.76 phase iii pcb
+res smd 16k ohm 0.1% 1 10w 0603 yag1546ct nd 0.39 2 0.78 phase iii pcb
+res smd 22k ohm 0.1% 1 16w 0603 a103066ct nd 0.23 6 1.38 phase iii pcb
+res smd 2k ohm 0.1% 1 16w 0603 a103076ct nd 0.2 2 0.4 phase iii pcb
+res smd 33k ohm 0.1% 1 16w 0603 a103086ct nd 0.14 14 1.96 phase iii pcb
+res smd 4.64 k ohm 0.1% 1 6w 0603 a110172ct nd 0.74 2 1.48 phase iii pcb
+res smd 75k ohm 0.1% 1 16w 0603 a103127ct nd 0.21 6 1.26 phase iii pcb
 60.4 k 7 era 2aeb6042x p60.4 kdctr nd 60.4 k 0.1% 0.060480000000000006 402 resistor resistor rd4 7 rd1 3
 105a700009 01 cr 0 5% 1 10w smd 0603 rm06jtn0 ta i technolongy co ltd rm06jtn0
 105a700009 02 cr 0 5% 1 10w smd 0603 0603waj0000t5e uniroyal industry co ltd 0603waj0000t5e

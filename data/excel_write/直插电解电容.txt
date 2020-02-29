@@ -1,5 +1,109 @@
 电解电容 220 uf 16v e cap 220 uf 16v 6.3 x11mm ± 20% lesr 2000h 55c ° 105 c ° ce2 5x6 egw1cm221e11c35c c900 c904 c1000 c1004 c1206 c1212 c1213 c1215 c1218 c1224 c1227 11.0 55
 电解电容 220 uf 35v e cap 220 uf 35v 8x12mm ± 20% lesr 2000h 55 c ° 105 c ° ecap can 8x3 5 egw1vm221f12c35c c1201 1.0 5
+1272 utwhm c 0x3 電解 電容 47 uf 200v 105 13x21mm tk 69
+11013 uhv1a681mpd 電解 電容 小型化 680 uf 10v ± 20% 13 8mm nichicon 100
+15829 電解 電容 2 pin 560 uf 200v 85 18x45mm teapo 19
+15832 電解 電容 gs vent 2 pin 470 uf 220v 85 18x46mm capxon 8
+15836 電解 電容 2 pin 2200 uf 16v 105 10x25mm 短腳 aishi 48
+15837 電解 電容 gs vent 2 pin 82 uf 400v 85 18x26mm capxon 11
+16678 電解 電容 1000 uf 6.3 v 105 ° c 8 11mm 500
+16679 電解 電容 470 uf 16v 105 ° c 8 11.5 mm 200
+16697 電解 電容 470 uf 16v 105 ° c 8 11mm 1000
+16699 電解 電容 3.3 uf 50v 105 ° c 5 11mm 1000
+16702 電解 電容 3.3 uf 50v 105 ° c 5 11mm 2690
+16704 電解 電容 470 uf 16v 105 ° c 8 11mm 255
+16705 電解 電容 220 uf 25v 105 ° c 8 11mm 1000
+16706 電解 電容 10 uf 35v 105 ° c 5 11mm 655
+16707 電解 電容 220 uf 25v 105 ° c 8 11mm 500
+16710 電解 電容 220 uf 25v 105 ° c 8 12mm 419
+16711 電解 電容 220 uf 25v 105 ° c 8 11mm 290
+16712 電解 電容 47 uf 25v 105 ° c 5 11mm 500
+16714 電解 電容 10 uf 35v 105 ° c 5 11mm 400
+16964 電解 電容 2.2 uf 160v 105 ℃ 6.3 11mm 280
+16965 電解 電容 4.7 uf 50v 105 ℃ 5 11mm 240
+16966 電解 電容 22 uf 25v 105 ℃ 5 11mm 2000
+16967 電解 電容 1 uf 160v 105 ℃ 6.3 11mm 4000
+16970 電解 電容 220 uf 50v 105 ℃ 10 16mm 800
+18440 電解 電容 47 uf 16v 105 ° c 5x11mm nichicon 3132
+18441 電解 電容 33 uf 10v 105 ° c 5x7mm nichicon 2576
+18673 tkr222m1ej26m 電解 電容 2200 uf 25v 20% 105 13x26mm jamicon 1733
+18723 wlr331m1ji20r 電解 電容 330 uf 63v 20% 105 12x20mm jamicon 100
+18724 wlr471m1ji25r 電解 電容 470 uf 63v 20% 105 12x25mm jamicon 100
+18726 wlr152m1vk25r 電解 電容 1500 uf 35v 20% 105 16x25mm jamicon 100
+18727 wlr182m1ci20r 電解 電容 1800 uf 16v 20% 105 12x20mm jamicon 100
+18728 wlr222m1cj21r 電解 電容 2200 uf 16v 20% 105 12x21mm jamicon 100
+18729 wlr222m1ek25r 電解 電容 2200 uf 25v 20% 105 16x25mm jamicon 50
+18730 wlr272m1ai20r 電解 電容 2700 uf 10v 20% 105 12x20mm jamicon 100
+18731 wlr332m0jj21r 電解 電容 3300 uf 6.3 v 20% 105 12x21mm jamicon 100
+18734 wlr392m0jj26r 電解 電容 3900 uf 6.3 v 20% 105 12x26mm jamicon 100
+18735 wlr472m0jk20r 電解 電容 4700 uf 6.3 v 20% 105 16x20mm jamicon 100
+18736 wlr103m0jldbr 電解 電容 10000 uf 6.3 v 20% 105 18x30mm jamicon 100
+18846 電解 電容 螺絲型 電容 eps 5600 uf 400v 20% 105 75x143mm jamicon 1
+18847 電解 電容 螺絲型 電容 bps 4700 uf 400v 20% 105 76x129mm jamicon 1
+18848 電解 電容 螺絲型 電容 kps 10000 uf 2 50v 20% 85 75x120mm jamicon 1
+18849 電解 電容 螺絲型 電容 3300 uf 4 50v 20% 85 63x129mm jamicon 1
+18853 電解 電容 螺絲型 電容 kps 22000 uf 100v 20% 85 50x85mm 含腳架 jamicon 1
+18854 電解 電容 螺絲型 電容 rps 4700 uf 100v 20% 105 50x76mm jamicon 1
+18855 電解 電容 螺絲型 電容 kps 18000 uf 80v 20% 85 50x67mm jamicon 1
+19091 lhk221m200v1831 電解 電容 220 uf 200v 20% 105 18x31mm jackcon 500
+19092 lhk470m25v511tb2.5 電解 電容 47 uf 25v 20% 105 腳距 2.5 mm 5x11mm jackcon 2000
+19093 lek101m25v611tb2.5 電解 電容 100 uf 25v 20% 105 腳距 2.5 mm 6x11mm jackcon 2735
+19094 lhk331m 10v 611tb2.5 電解 電容 330 uf 10v 20% 105 腳距 2.5 mm 6x11mm jackcon 626
+19095 lhk471m25v812tb3.5 電解 電容 470 uf 25v 20% 105 腳距 3.5 mm 8x12mm jackcon 4782
+electrolytic capacit ecd1000u 16v 1015j ec dip 1000 uf 16v 10 15mm lhk102m 16v v1015 1500
+electrolytic capacit ecd1000u25v1015a ec dip 1000 uf 25v 10 15mm gr1022515 3000
+electrolytic capacit ecd1000u25v1017j ec dip 1000 uf 25v 10 17mm lhk102m25vv1017 7000
+electrolytic capacit ecd1000u25v1017lesrj ec dip 1000 uf 25v 10 17mm lek102m25vv1017 low e s r 500
+electrolytic capacit ecd100u 10v 0507j ec dip 100 uf 10v 5 7mm lmk101m 10v v57 1000
+electrolytic capacit ecd100u 16v 0511j ec dip 100 uf 16v 5 11mm lhk101m 16v v511 1000
+electrolytic capacit ecd100u 16v 0611l4j ec dip 100 uf 16v 6 11mm 剪腳 4mm lhk101m 16v v611c4 3000
+electrolytic capacit ecd100u25v0611a ec dip 100 uf 25v 6 11mm gr10125 2000
+electrolytic capacit ecd100u25v0611j ec dip 100 uf 25v 6 11mm lhk101m25vv611 10000
+electrolytic capacit ecd100u35v0611a ec dip 100 uf 35v 6 11mm gr101356 1000
+electrolytic capacit ecd100u35v0611lesrj ec dip 100 uf 35v 6 11mm lek101m35vv611 low e s r 1000
+electrolytic capacit ecd100u 50v 0811j ec dip 100 uf 50v 8 11mm lhk101m 50v v811 3000
+electrolytic capacit ecd10u25v0407j ec dip 10 uf 25v 4 7mm lmk100m25vv47 2000
+electrolytic capacit ecd10u25v0511j ec dip 10 uf 25v 5 11mm lhk100m25vv511 10000
+electrolytic capacit ecd10u35v0511j ec dip 10 uf 35v 5 11mm lhk100m35vv511 1000
+electrolytic capacit ecd10u400v1017j ec dip 10 uf 400v 10 17mm lhk100m400vv1017 500
+electrolytic capacit ecd10u 50v 0507j ec dip 10 uf 50v 5 7mm lmk100m 50v v57 3000
+electrolytic capacit ecd10u 50v 0511j ec dip 10 uf 50v 5 11mm lhk100m 50v v511 2000
+electrolytic capacit ecd1u 50v 0407j ec dip 1 uf 50v 4 7 lmk010m 50v v47 4000
+electrolytic capacit ecd1u 50v 0511j ec dip 1 uf 50v 5 11mm lhk010m 50v v511 1000
+electrolytic capacit ecd220u 16v 0611j ec dip 220 uf 16v 6 11mm lhk221m 16v v611 1000
+electrolytic capacit ecd220u25v0811j ec dip 220 uf 25v 8 11mm lhk221m25vv811 5000
+electrolytic capacit ecd220u35v0811j ec dip 220 uf 35v 8 11mm lhk221m35vv811 1000
+electrolytic capacit ecd220u 50v 1017j ec dip 220 uf 50v 10 17 lhk221m 50v v1017 2000
+electrolytic capacit ecd22u100v0611j ec dip 22 uf 100v 6 11mm lhk220m100vv611 3000
+electrolytic capacit ecd22u 50v 0511j ec dip 22 uf 50v 5 11mm lhk220m 50v v511 3000
+electrolytic capacit ecd33u 16v 0511a ec dip 33 uf 16v 5 11mm gr33016 4000
+electrolytic capacit ecd33u35v0607j ec dip 33 uf 35v 6 7mm lmk330m35vv67 1000
+electrolytic capacit ecd470u 10v 0611jpet ec dip 470 uf 10v 6 11mm pet lhk471m 10v e611 2000
+electrolytic capacit ecd470u 16v 0811a ec dip 470 uf 16v 8 11mm gr47116 6000
+electrolytic capacit ecd470u 16v 0811j ec dip 470 uf 16v 8 11mm lhk471m 16v v811 4000
+electrolytic capacit ecd470u25v0814a ec dip 470 uf 25v 8 14mm gr47125 6000
+electrolytic capacit ecd470u25v0814j ec dip 470 uf 25v 8 14mm lhk471m25vv814 15000
+electrolytic capacit ecd470u63v1321j ec dip 470 uf 63v 13 21mm lhk471m63v1321 400
+electrolytic capacit ecd47u 16v 0511j ec dip 47 uf 16v 5 11mm lhk470m 16v v511 4000
+electrolytic capacit ecd47u25v0511a ec dip 47 uf 25v 5 11mm gr47025 5000
+electrolytic capacit ecd47u25v0511j ec dip 47 uf 25v 5 11mm lhk470m25vv511 1000
+electrolytic capacit ecd47u 50v 0611j ec dip 47 uf 50v 6 11 lhk470m 50v v611 2000
+electrolytic capacit ecd4u7 50v 0405j ec dip 4.7 uf 50v 4 5mm lsm4r7m 50v v45 10000
+electrolytic capacit ecd4u7 50v 0407j ec dip 4.7 uf 50v 4 7mm lmk4r7m 50v v47 2000
+electrolytic capacit ecd4u7 50v 0511j ec dip 4.7 uf 50v 5 11mm lhk4r7m 50v v511 17000
+electrolytic capacit ecduhv1e681mpd ec dip 680 uf 25v 10 16mm 105 nichicon uhv1e681mpd 10000
+electrolytic capacit ecduhv1v221mpd1td ec dip 220 uf 35v 8 11.5 mm 105 nichicon uhv1v221mpd1td 5000
+10u 35v 0.091 1 647 upw1v100mdd nichicon upw1v100mdd pw series 647 upw1v100mdd 1
+22u 35v 0.272 1 1.23 667 eeu fc1v220 ecg eeu fc1v220 fc series 667 eeu fc1v220 1
+47u 35v 0.19 3 1.23 667 eca 1vhg470 ecg eca 1vhg470 nhg series
+100u 35v 0.388 6 1.23 647 upm1v101mpd nichicon upm1v101mpd pm series
+470u 35v 0.578 1 1.23 667 eeu fc1v471 ecg eeu fc1v471 fc series cap 667 eeu fc1v471 1
+1000u 35v 0.743 3 0.95 667 eca 1vhg102 ecg eca 1vhg102 nhg series
+1000u 50v 0.858 1 1.9 667 eca 1hhg102 ecg eca 1hhg102 nhg series ps cap
+470 uf 10v ± 20% 6.3 7.7 mm 500.0 1000.0
+电解电容 ec 10 uf 50v 4 6mm 1 c2
+电解电容 ec 4.7 uf 400v 8 12mm 1 c1
+电解电容 ec 470 uf 10v 6.5 12mm 1 c4
 а р capacitor 220 ф х 400v 20% max d 30 105 50 35 р а а ы й radial dip 2 400 4 50v 220 uf 25 40 400.0 2.5 天顺 德
 а р capacitor100 ф х 25v 20% max d 10 105 50 35 р а а ы й radial dip 2 200 25v100 uf 5 11 200.0 0.06 lc
 а р capacitor kd1 470pf x 630v 10% ceramic disk capacitor ы й disk dip 2 200 1.0
@@ -80,7 +184,7 @@ cap alum 82 uf 20% 400v radial upt2g820mhd upt2g820mhd
 电解电容 1 uf 50v 810 1000
 电解电容 2200 uf 25v rad 810 1000
 电解电容 1 uf 50v rad 810 1000
-电解电容 330 uf 400v 25 45 牛角 脚距 11mm c2 c3 c4 c5 2000
+电解电容 330 uf 400v 25 45 脚距 11mm c2 c3 c4 c5 2000
 电解电容 470 uf 100v 16 25 剪脚 c6 c7 1000
 kf471m063i250 capacitor elet 470 uf 63v 105 ° c ir 1a62 0r053 13x20 electrolictic capacitor 470 uf 63v 105 ° c ir 1a62 0r053 13x20 6000
 capacitor eletrolitico 470 uf 63v 105 º 13x20 electrolictic capacitor 470 uf 63v 105 º 13x20 20000
@@ -107,7 +211,11 @@ aluminium electrolytic capacitor radial 3.6 mm pitch 470 uf 25v mcrh25v477m10x16
 capacitor pth eletrolitico 100 uf 35v 20% 6x11mm uvr1v101med 20
 capacitor pth eletrolitico 220 uf 35v 8x12mm 50
 capacitor pth eletrolitico 470 uf 25v 10x13mm b41821b5477m000 50
+c02004 capacitor pth eletrolitico 100 uf 35v 20% 6x11mm uvr1v101med 20
+c02044 capacitor pth eletrolitico 470 uf 25v 10x13mm b41821b5477m000 50
+c02063 capacitor pth ceramico 100nf 50v 50
 电解电容 330 uf 35v 0.2 c211 1 10mm 12mm 50331e3 70
+dip 220 uf 25v 11 6mm 20000
 dip 220 uf 25v 11 6mm 20000
 电解电容 120 uf 16v 误差 ± 10 ％ 直插 6.3 1 标准件 化工 ky 阻抗 105 ℃ 10000h
 电解电容 470 uf 50v 误差 ± 10 ％ 直插 12.5 3 标准件 化工 ky 阻抗 105 ℃ 10000h
@@ -126,12 +234,56 @@ gsk 直插 铝 电解电容 1000 uf 35v 12.5 200 550 350
 插件 电解 47 uf 63v 6x12 铝 电解电容 6x12 c61 l8 2 420
 220 uf 35v ± 20% 8 10.5 mm 6000
 470 uf 16v ± 20% 8mm 10.5 mm 3000 syk
+22u 50v electrolytic capacitor c3 c6 c59 dr33u 50v electro1 电解电容 直插 5x11 mm 卧式 15000
+100u 50v electrolytic capacitor c36 c41 c42 c50 dr 50v 100 uf electro1 电解电容 直插 8x11.5 mm 卧式 20000
+470 uf 10v ± 20% 6.3 7.7 mm 500.0 1000.0
+330 uf 25v rvt 20
+1000 uf 16v rvt 30
+10 uf 16v rvt 10
+22 uf 16v rvt 20
+220 uf 16v rvt 80
+100 uf 100v 10 17 230
+10 17 470 uf 35v 230
+100 uf 16v rvt 210
+1000 uf 16v 210
+100 uf 100v 10 17 150
+470 uf 35v 10 17 155
+220 uf 25v rvt 60
+100 uf 35v rvt 20
+100 uf 35v rvt 300
+1000 uf 25v 10 17 150
+100 uf 25v rvt 205
+220 uf 16v rvt 505
+220 uf 16v rvt 710
+330 uf 35v rvt 110
+1000 uf 16v rvt 110
+10 uf 16v rvt 110
+470 uf 25v rvt 410
+1000 uf 35v 10 20 110
+cap elect 10 000 uf 80v radial 2 lead 10mm ls 35x50mm can 85c united chemi con esmh800vsn103ma50s cornell dubilier 380lx103m080a052 or equiv c2 c3 c4 c5 c51 5
+cap elect 10 000 uf 80v radial 2 lead 10mm ls 35x50mm can 85c united chemi con esmh800vsn103ma50s cornell dubilier 380lx103m080a052 or equiv c74 1
+cap elect 470 uf 50v radial 5mm ls 85c 10 x 20mm can eca1hm471 or equiv c75 c76 2
+高频 低阻 电解电容 10x12 5 10v 1000 uf ± 20% 1.00 5k
+高频 低阻 电解电容 6.3 x12 2.5 10v 470 uf ± 20% 1.00 5k
+高频 低阻 电解电容 6.3 x12 2.5 35v 100 uf ± 20% 2.00 10k
+高频 低阻 电解电容 5x11 2.5 35v 22 uf ± 20% 1.00 5k
+高频 低阻 电解电容 10x20 5 4 50v 10 uf ± 20% 1.00 5k
+电解电容 6.3 x12 2.5 10v 220 uf ± 20% 5.00 25k
+电解电容 6.3 x12 2.5 10v 470 uf ± 20% 1.00 5k
+电解电容 6.3 x12 2.5 35v 100 uf ± 20% 1.00 5k ers1vm101e12ot
+cap elect 2.2 u 50v through hole 25 to 105 ± 20% eeueb1j2r2 or eeu eb1j221 cap47 35 10 n m s u
+cap elect 47u 35v through hole 25 to 105 ± 20% 35yxf47mefc6.3 x11 cap47 35 10 n m s u
+cap elect 47u 50v through hole 25 to 105 ± 20% eeueb1j470s cap8x11 10 n m s u
+cap elect 220 uf 16v through hole 25 to 105 ± 20% 16yxf220mefc8x11.5 cap8x11 10 n m s u
+cap elect 2.2 uf 100v through hole 25 to 106 ± 20% nichicon upj2a2r2mdd1td cap47 35 10 n m s u
+cap elect 220 uf 35v through hole 25 to 105 ± 20% 35zlh220mefc8x11.5 cap10x12 10 n m s u
 10v 220 uf 电解电容 5 12mm 20% 1
 10 ec0012490 cap ele t h 10x16 47 uf cap ele t h 10x16 48 uf c2 c3 c4 c8 c10
 10 ec0023350 cap ele t h 33 uf 8x17 cap ele t h 33 uf 8x18 c12
 10 ec0055580 cap ele t h 100 uf ecr101m63b cap ele t h 100 uf ecr101m64b c6 c13
 10 ec0055940 cap ele t h 330 uf ecr331m100b cap ele t h 330 uf ecr331m101b c7
 10 ec0057180 cap ele t h 100 uf 16v cap ele t h 100 uf 17v c297
+60 5 c227 c234 c241 c250 c259 radial cap alum 180 uf 25v 20% radial eeu fc1e181 capprd350w60d820h1170p p11217 nd 0.48 2.4 0.2 1
 11 uhd1e102mhd e cap 25v 1000 uf uhd1e102mhd nichicon 铝 电容 1000
 12 uhd1e471mpd e cap 25v 470 uf uhd1e471mpd nichicon 铝 电容 800
 13 ekxj401ell680ml25s e cap 400v 68 uf ekxj401ell680ml25s 232618 ni chemi 铝 电容 1000
@@ -486,6 +638,39 @@ capacitor electrolitic radial 100 uf x 35v b41821 1 c35 100
 32 黑金刚 电解电容 47 uf 25v 5 11 dip 黑金刚 1 1000.0
 33 黑金刚 电解电容 100 uf 50v 8 12 dip 黑金刚 2 1000.0
 34 黑金刚 电解电容 330 uf 25v 8 15 dip 黑金刚 1
+996510016330 25 03 2009 31 12 9999 c4209 capacitor electrolytic alu ec 100 uf 10v km 5x11mm
+996510016329 26 03 2009 31 12 9999 c939 capacitor electrolytic alu ec 10 uf 50v rga 5x11 mm
+996510014927 26 03 2009 31 12 9999 c907 capacitor electrolytic alu ec 120 uf 4 50v km 18x41mm
+996510021785 26 03 2009 31 12 9999 c946 capacitor electrolytic alu ec 220 uf 25v gf 8 115 mm
+996510016343 25 03 2009 31 12 9999 c6320 capacitor electrolytic alu ec 470 uf 35v km 10x16mm
+996510023483 25 03 2009 31 12 9999 c1603 capacitor fixed others ec 1000 uf 10v ed 10x16mm
+996510023347 25 03 2009 31 12 9999 c1603 capacitor fixed others ec 1000 uf 10v gf 10x16mm
+996510023497 26 03 2009 31 12 9999 c943 capacitor fixed others ec 1000 uf 35v gf 13x20mm
+996510013043 26 03 2009 31 12 9999 c943 capacitor fixed others ec 1000 uf 35v gf 13x25mm
+996510015014 26 03 2009 31 12 9999 c939 capacitor fixed others ec 10 uf 50v km 5 11mm
+996510015015 26 03 2009 31 12 9999 c939 capacitor fixed others ec 10 uf 50v pf 5 11mm
+996510012252 26 03 2009 31 12 9999 c907 capacitor fixed others ec 120 uf 4 50v pw 18x40mm
+996510012251 26 03 2009 31 12 9999 c907 capacitor fixed others ec 120 uf 4 50v rga 18x40mm
+996510023365 26 03 2009 31 12 9999 c946 capacitor fixed others ec 220 uf 25v m 8 12mm
+996510014797 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v km 6.3 x11mm
+996510014798 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v pf 6.3 x11mm
+996510023316 26 03 2009 31 12 9999 c981 capacitor fixed others ec 33 uf 50v rga 6.3 x11 mm
+996510023319 25 03 2009 31 12 9999 c7147 capacitor fixed others ec 470 uf 10v gf 8x12mm
+996510016341 25 03 2009 31 12 9999 c7142 capacitor fixed others ec 470 uf 10v km 8 11.5 mm
+996510016342 25 03 2009 31 12 9999 c1507 capacitor fixed others ec 470 uf 10v pf 8 12mm
+996510023303 25 03 2009 31 12 9999 c6308 capacitor fixed others ec 470 uf 25v ed 10x12mm
+996510016328 25 03 2009 31 12 9999 c7108 capacitor fixed others ec 470 uf 25v gf 10x12mm
+996510023296 26 03 2009 31 12 9999 c950 capacitor fixed others ec 470 uf 35v ed 10 20mm
+996510023506 26 03 2009 31 12 9999 c950 capacitor fixed others ec 470 uf 35v gf 10 20mm
+996510016345 25 03 2009 31 12 9999 c7113 capacitor fixed others ec 470 uf 35v pf 10x16mm
+996510016344 25 03 2009 31 12 9999 c7113 capacitor fixed others ec 470 uf 35v rga 10x16mm
+996510015013 26 03 2009 31 12 9999 c947 capacitor fixed others ec 47 uf 25v km 5x11mm u
+996510012275 25 03 2009 31 12 9999 c7158 capacitor fixed others ec 47 uf 25v pf 5x11mm
+996510012274 25 03 2009 31 12 9999 c7128 capacitor fixed others ec 47 uf 25v rga 5x11mm
+996510016346 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v km 5 11mm
+996510016347 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v pf 5 11mm
+996510017240 26 03 2009 31 12 9999 c934 capacitor fixed others ec 4u7 50v rga 5x11mm
+996510013044 26 03 2009 31 12 9999 c943 capacitor fixed others ec cap 1000 uf 35v 12.5 25mm
 32phk4201 12 c9121 367g515x471fkt000s 996590009328 ec 470 uf 20% 25 10 12 5000 hr 1.6 a ev1e 452378
 32phk4201 12 c9109 367g515x471fkt000s 996590009328 ec 470 uf 20% 25 10 12 5000 hr 1.6 a ev1e 452378
 32phk4201 12 c8612 367g515x221hkt 996590020012 ec 220 uf 20% 50v 10 12 5000 hr ev 452378
@@ -500,16 +685,201 @@ capacitor electrolitic radial 100 uf x 35v b41821 1 c35 100
 2.0 c17 c18 cap elect 4700 uf 10v 16mm nichicon uhw1a472mhd6 647 uhw1a472mhd6 1.82 3.64
 6.0 c6 c7 c8 c9 c12 c14 c19 cap elect 100 uf 100v 10.5 mm nichicon uvz2a101mpd 647 uvz2a101mpd 0.46 2.76
 c3 22 mkf x 450 v 1 radial capacitor thru hole body 13.0 x 25.0 mm dxh pin spacing 5.0 mm 10% aluminum electrolytic capacitor manual radial
+aluminum electrolytic capacitors leaded 35volts 4.7 uf 4x7 20% 1.5 ls 1
+aluminum electrolytic capacitors leaded 6.3 volts 22 uf 4x5 20% 1.5 ls 1
+aluminum electrolytic capacitors leaded 2.2 uf 63volts 20% 2
+aluminum electrolytic capacitors leaded 63volts 10 uf 5x12 20% 1
+aluminum electrolytic capacitors leaded 1.0 uf 50v olts 20% 1
 22 电解电容 220 uf 16v 6 11 c1 1 0.2800 220 uf 16v 6 11 1200 2000 0.158 lc
 23 电解电容 100 uf 25v 6 12 c52 1 0.0450 100 uf 25v 6.3 11 aishi 1000 1000 0.133 lc
 24 电解电容 470 uf 35v 10 20 c110 1 470 uf ± 20% 35v 10 20 aishi 200 200 0.414 20% lc
 25 电解电容 47 uf 50v 6 11 c58 1 0.0520 47 uf 50v 6.3 11 1000 1000 0.195 lc
+330 uf 25v rvt 20
+1000 uf 16v rvt 30
+10 uf 16v rvt 10
+22 uf 16v rvt 20
+220 uf 16v rvt 80
+1000 uf 35v 10 20 30
+470 uf 25v 8 12 10
+100 uf 100v 10 17 230
+10 17 470 uf 35v 230
+100 uf 16v rvt 210
+220 uf 25v rvt 60
+100 uf 35v rvt 20
+100 uf 25v rvt 205
+220 uf 16v rvt 505
+220 uf 16v rvt 710
+330 uf 35v rvt 110
+1000 uf 16v rvt 110
+10 uf 16v rvt 110
+470 uf 25v rvt 410
+1000 uf 35v 10 20 110
+插件 电解 47 uf 63v 6x12 铝 电解电容 6x12 c61 l8 2
+cap elect 47 uf 100v radial 5mm ls 105c nichicon uvz2a470mph united chemicon kmgi00vb47rm10x12ll eca2ahg470 c74 1
+cap elect 470 uf 50v radial 5mm ls 85c 10 x 20mm can eca1hm471 or equiv c75 c76 2
+capacitors al electrolytic z814602 b43041a5226m000 22 uf 4 50v 12.5 x25 al el capacitor 4
+capacitors al electrolytic e574517 ehp222m2cba 2200 uf 160v 105c 2khr 30x50 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574518 efl101m2wbx 100 uf 4 50v 105c 10khr 18x40 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574519 efl330m2wb 33 uf 4 50v 105c 10khr 16x25 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574520 ehr102m35ba 1000 uf 35v 105c 2khr 13x20 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574521 ehr102m50b 1000 uf 50v 105c 2khr 16x26 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574522 efl4r7m2wbx 4u7 4 50v 105c 10khr 10x16 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574523 efl101m2ebx 100 uf 2 50v 105c 10khr 16x25 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574524 ehr101m50b 100 uf 50v 105c 2khr 8x12 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574525 efl470m2eb 47 uf 2 50v 105c 10khr 13x20 al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e574526 ehr102m0jb 1000 uf 6.3 v 105c 2khr 10x13mm al el capacitor hitano enterprise corp 5
+capacitors al electrolytic e603297 mcumr6v3337m8x5 330 uf 6.3 v 3.5 mm 8x5 al el capacitor multicomp 419
+capacitors al electrolytic e573846 upw1e221mpd 220 uf 25v 8x11.5 al el capacitor nichicon 1573
+capacitors al electrolytic e574170 uf w1v101med 100 uf 35v 20% 6.3 x11 al el capacitor uf w1v101med nichicon 25
+capacitors al electrolytic e574422 lgj2g101melb 100 uf 400v 20% al el capacitor lgj2g101melb nichicon 4
+capacitors al electrolytic z814603 ucs2w6r8mpd ucs2w6r8mpd low z el cap 4 50v 6.8 uf 10x20 20% nichicon 4
+capacitors al electrolytic e072313 56024 47 uf 16v 2.5 mm 6.3 x7 al el capacitor r7 56024 nover 100
+capacitors al electrolytic e573768 53080 47 uf 100v 5mm 10x16 al el capacitor nover 80
+capacitors al electrolytic e601852 53030 100 uf 25v 2.5 mm 6x11 al el capacitor re 53030 nover 400
+capacitors al electrolytic e601953 53182 47 uf 2 50v 7.5 mm 18x36 al el capacitor re 53182 nover 998
+capacitors al electrolytic e601991 53042 220 uf 40v 5mm 10x12.5 al el capacitor re 53042 nover 44
+capacitors al electrolytic e601993 53061 1 uf 63v 2mm 5x11 al el capacitor re 53061 nover 3
+capacitors al electrolytic e602000 53034 1000 uf 25v 5mm 12.5 x20 al el capacitor re 53034 nover 55
+capacitors al electrolytic e602349 53025 2200 uf 16v 5mm 12.5 x25 al el capacitor re 53025 nover 200
+capacitors al electrolytic e602433 53226 4700 uf 16v 7.5 mm 16x31 al el capacitor re 53226 nover 200
+capacitors al electrolytic e602566 53220 1000 uf 63v 7.5 mm 16x31.5 el capacitor re 53220 nover 50
+capacitors al electrolytic e603081 re1v221mcdt 220 uf 35v 3.5 mm 8x12 el capacitor t b re1v221mcdt nover 5000
+capacitors al electrolytic e612116 61088 470 uf 16v 5mm 10x12 105c lesr rx 61088 nover 200
+capacitors al electrolytic e612212 52220 1000 uf 63v 7.5 mm 16x32 105c el rh 52220 nover 15
+capacitors al electrolytic e612215 61067 100 uf 63v 5mm 10x13 105c lesr rx 61067 nover 1
+capacitors al electrolytic e612226 52465 10 uf 63v 2mm 5x11 105c el rh 52465 nover 1
+capacitors al electrolytic e612426 52235 3300 uf 25v 7.5 mm 16x32 105c rh 52235 nover 400
+capacitors al electrolytic e612701 52520 470 uf 63v 5mm 12.5 x25 105c el 52520 nover 22
+capacitors al electrolytic e613108 57035t 10 uf 35v 5mm 6.3 x7 105c el rj tape 57035t nover 7386
+capacitors al electrolytic e632666 51046 1000 uf 40v axial 34x16 al el capacitor 51046 nover 50
+capacitors al electrolytic e633189 51125 10 uf 4 50v axial 13x20 al el capacitor 51125 nover 50
+capacitors al electrolytic e573878 eeu ee2v101 100 uf 3 50v electrolytic ee radial capacitor 88
+capacitors al electrolytic e574087 eev fc1e101p 100 uf 25v 8mm al el capacitor eev fc1e101p 500
+capacitors al electrolytic e574088 eev fc1c331p 330 uf 16v 10mm al el capacitor eev fc1331p 500
+capacitors al electrolytic e574239 eea ga1h4r7h 4u7 50v 20% 2.5 mm 4x7mm 105c el cap eea ga1h4r7h 5
+capacitors al electrolytic e602087 eca 1vm471 470 uf 35v 5mm 10x16 al el capacitor eca 1vm471 296
+capacitors al electrolytic e602634 eca1vm221b 220 uf 35v 5mm 8x12 al el capacitor t b eca1vm221b 355
+capacitors al electrolytic e611907 eca2ghg3r3 3u3 400v 5mm 10x13 105c al el cap eca2ghg3r3 45
+capacitors al electrolytic e611948 ee uf c1h330 33 uf 50v 2.5 mm 6.3 x11 105c lesr ee uf c1h330 65
+capacitors al electrolytic e612194 eca2dhg220 22 uf 200v 5mm 10x20 105c el capacitor eca2dhg220 450
+capacitors al electrolytic e612200 eca2dhg101 100 uf 200v 7.5 mm 16x25 105c el eca2dhg101 10
+capacitors al electrolytic e612283 ee uf c1v102 1000 uf 35v 5mm 13x25 105c el capacitor ee uf c1v102 9
+capacitors al electrolytic e612685 eca1hhg100 10 uf 50v 2mm 5x11 105c al el capacitor eca1hhg100 200
+capacitors al electrolytic e613154 ee uf c1h102 1000 uf 50v 7.5 mm 16x25 105c lesr ee uf c1h102 150
+capacitors al electrolytic e573619 ekm477m1cf12rr 470 uf 16v 3.5 mm 8x12 105c al el capacitor ekm samxon 74
+capacitors al electrolytic e573620 ekm108m1cg16rr 1000 uf 16v 5mm 10x16 105c al el capacitor ekm samxon 1910
+capacitors al electrolytic e573621 ekm478m1ck25rr 4700 uf 16v 7.5 mm 16x25 105c al el capacitor ekm samxon 1500
+capacitors al electrolytic e573622 ekm476m1ed11rr 47 uf 25v 2mm 5x11 105c al el capacitor ekm samxon 3120
+capacitors al electrolytic e573623 ekm107m1ee11rr 100 uf 25v 2.5 mm 6.3 x11 105c al el capacitor ekm samxon 9165
+capacitors al electrolytic e573624 ekm227m1ef12rr 220 uf 25v 3.5 mm 8x12 105c al el capacitor ekm samxon 2500
+capacitors al electrolytic e573625 ekm108m1eg20rr 1000 uf 25v 5mm 10x20 105c al el capacitor ekm samxon 1200
+capacitors al electrolytic e573626 ekm107m1ve11rr 100 uf 35v 2.5 mm 6.3 x11 105c al el capacitor ekm samxon 1285
+capacitors al electrolytic e573628 ekm477m1vg16rr 470 uf 35v 5mm 10x16 105c al el capacitor ekm samxon 1355
+capacitors al electrolytic e573631 ekm225m1hd11rr 2u2 50v 2mm 5x11 105c al el capacitor ekm samxon 1000
+capacitors al electrolytic e573632 ekm106m1hd11rr 10 uf 50v 2mm 5x11 105c al el capacitor ekm samxon 4162
+capacitors al electrolytic e573633 ekm476m1he11rr 47 uf 50v 2.5 mm 6.3 x11 105c al el capacitor ekm samxon 5200
+capacitors al electrolytic e573635 ekm107m1hf12rr 100 uf 50v 3.5 mm 8x12 105c al el capacitor ekm samxon 695
+capacitors al electrolytic e573636 ekm477m1hg20rr 470 uf 50v 5mm 10x20 105c al el capacitor ekm samxon 13790
+capacitors al electrolytic e573637 ekm108m1hi25rr 1000 uf 50v 5mm 12.5 x25 105c al el capacitor ekm samxon 1550
+capacitors al electrolytic e573639 ekm106m1jd11rr 10 uf 63v 2mm 5x11 105c al el capacitor ekm samxon 6480
+capacitors al electrolytic e573640 ekm226m1jd11rr 22 uf 63v 2mm 5x11 105c al el capacitor ekm samxon 165
+capacitors al electrolytic e573641 ekm476m1je11rr 47 uf 63v 2.5 mm 6.3 x11 105c al el capacitor ekm samxon 1315
+capacitors al electrolytic e573642 ekm107m1jg1brr 100 uf 63v 5mm 10x12.5 105c al el capacitor ekm samxon 1972
+capacitors al electrolytic e573644 ekm105m2ad11rr 1 uf 100v 2mm 5x11 105c al el capacitor ekm samxon 1132
+capacitors al electrolytic e573645 ekm225m2ad11rr 2u2 100v 2mm 5x11 105c al el capacitor ekm samxon 1000
+capacitors al electrolytic e573646 ekm106m2ae11rr 10 uf 100v 2.5 mm 6.3 x11 105c al el capacitor ekm samxon 397
+capacitors al electrolytic e573835 ekm475m2ad11rr 4u7 100v 2mm 5x11 105c al el capacitor ekm samxon 15000
+capacitors al electrolytic e583604 eks106m1cc07rr 10 uf 16v 1.5 mm 4x7105c al el capacitor eks samxon 7000
+capacitors al electrolytic e583605 eks226m1cc07rr 22 uf 16v 1.5 mm 4x7 105c al el capacitor eks samxon 13790
+capacitors al electrolytic e583606 eks476m1cd07rr 47 uf 16v 2mm 5x7 105c al el capacitor eks samxon 460
+capacitors al electrolytic e583607 eks107m1ce07rr 100 uf 16v 2.5 mm 6.3 x7 105c al el capacitor eks samxon 13840
+capacitors al electrolytic e583608 eks106m1vd07rr 10 uf 35v 2mm 5x7 105c al el capacitor eks samxon 4000
+capacitors al electrolytic e593610 egf107m1ee11rr 100 uf 25v 2.5 mm 6.3 x11 105c low z el capacitor e samxon 10310
+capacitors al electrolytic e593611 egf107m1vf12rr 100 uf 35v 3.5 mm 8x12 105c low z el capacitor egf samxon 1500
+capacitors al electrolytic e593612 egf227m1vg1brr 220 uf 35v 5mm 10x12.5 105c low z el capacitor eg samxon 2215
+capacitors al electrolytic e593613 egf337m1vg16rr 330 uf 35v 5mm 10x16 105c low z el capacitor egf samxon 1797
+capacitors al electrolytic e593614 egf477m1vg16rr 470 uf 35v 5mm 10x16 105c low z el capacitor egf samxon 1800
+capacitors al electrolytic e593616 egf108m1vi25rr 1000 uf 35v 5mm 12.5 x25 105c low z el capacitor e samxon 114
+capacitors al electrolytic e593617 egf336m1hd11rr 3u3 50v 2mm 5x11 105c low z al el capacitor egf samxon 1000
+capacitors al electrolytic e593618 egf107m1jg1brr 100 uf 63v 5mm 10x12.5 105c low z el capacitor eg samxon 907
+capacitors al electrolytic e653815 vss106m1cc54trs3 10 uf 16v 4x5.4 mm vss al el capacitor samxon 10000
+capacitors al electrolytic e574219 cs025m100c5ar 10 uf 25v 4x5.4 20% al el capacitor cs025m100c5ar suscon 6000
+capacitors al electrolytic e131054 mal201355339e3 33 uf 16v 2.5 mm 5x11 al el cap 2222 013 55339 2
+capacitors al electrolytic e131055 mal201354479e3 47 uf 10v 2.5 mm 5x11 al el cap 2222 013 54479 850
+capacitors al electrolytic e301158 mal203026229e3 22 uf 25v axial 5x10 al el cap 2222 030 26229 88
+capacitors al electrolytic e301160 mal203125471e3 470 uf 16v axial 10x25 el capacitor 2222 031 25471 4
+capacitors al electrolytic e301161 mal203026479e3 47 uf 25v axial 6x10 al el cap 2222 030 26479 316
+capacitors al electrolytic e301162 mal203128479e3 47 uf 63v axial 8x18 al el cap 2222 031 28479 380
+capacitors al electrolytic e301163 mal203028478e3 4u7 63v axial 5x10 al el capacitor 2222 030 28478 3380
+capacitors al electrolytic e301457 mal203134471e3 470 uf 10v axial 10x18 el capacitor 2222 031 34471 154
+capacitors al electrolytic e341169 2222 134 55479 47 uf 16v 2.5 mm 6x5 al el capacitor 2222 134 55479 5100
+capacitors al electrolytic e361180 mal203658479e3 47 uf 63v 5mm 8x11 al el capacitor 2222 036 58479 4
+capacitors al electrolytic e361641 mal203638479e3 47 uf 63v 5mm 8x11 el capacitor t b 2222 036 38479 93
+capacitors al electrolytic e371182 2222 037 54102 1000 uf 10v 5mm 10x16 el capacitor 2222 037 54102 1182
+capacitors al electrolytic e371183 2222 037 55102 1000 uf 16v 5mm 10x20 el capacitor 2222 037 55102 3
+capacitors al electrolytic e371184 2222 037 56102 1000 uf 25v 5mm 13x20 el capacitor 2222 037 56102 3
+capacitors al electrolytic e371190 2222 037 59108 1 uf 100v 2mm 5x11 al el capacitor 2222 037 59108 4301
+capacitors al electrolytic e371192 2222 037 55222 2200 uf 16v 5mm 13x25 el capacitor 2222 037 55222 174
+capacitors al electrolytic e371203 2222 037 58479 47 uf 63v 3.5 mm 8x12 al el cap 2222 037 58479 15
+capacitors al electrolytic e371459 2222 037 31221 220 uf 50v 5mm 13x20 al el cap 2222 037 31221 16
+capacitors al electrolytic e371763 2222 037 38228 2u2 63v 5mm 5x11 el capacitor t b 2222 037 38228 1572
+capacitors al electrolytic e371764 2222 037 38108 1 uf 63v 5mm 5x11 el capacitor t b 2222 037 38108 12
+capacitors al electrolytic e372017 2222 037 38338 3u3 63v 5mm 5x11 el capacitor t b 2222 037 38338 552
+capacitors al electrolytic e372018 2222 037 54479 47 uf 10v 2mm 5x11 al el capacitor 2222 037 54479 2197
+capacitors al electrolytic e381677 mal203858229e3 22 uf 63v 2mm 5x11 al el capacitor 2222 038 58229 1727
+capacitors al electrolytic e381713 mal203858228e3 2u2 63v 2mm 5x11 al el capacitor 2222 038 58228 46
+capacitors al electrolytic e383342 mal203851479e3 47 uf 50v 2.5 mm 6x11 al el cap mal203851479e3 24985
+capacitors al electrolytic e401212 mal213668471e3 470 uf 63v 7.5 mm 16x25 el capacitor 2222 136 68471 42
+capacitors al electrolytic e471213 mal204750102e3 1000 uf 35v 5mm 13x25 el capacitor 2222 047 50102 1500
+capacitors al electrolytic e521222 mal212856109e3 10 uf 25v 5mm solid al capacitor 2222 128 56109 328
+capacitors al electrolytic e521227 mal212856338e3 3u3 25v 5mm solid al capacitor 2222 128 56338 194
+capacitors al electrolytic e521364 mal212855159e3 15 uf 16v 5mm solid al capacitor 2222 128 55159 1295
+capacitors al electrolytic e521537 mal212836228e3 2u2 25v 5mm solid al capacitor 2222 128 36228 1430
+capacitors al electrolytic e561790 mal205748471e3 470 uf 385v snap 35x40 capacitor 2222 057 48471 8
+capacitors al electrolytic z853087 tva1402 4 uf 1 50v tva axial electrolytic capacitor sprague 1
+21 y 2 c46 c52 cap electrolytic fm radial ee uf m1c471l 470 uf cplrad138d315h650ld24 cplrad138d315h650ld24
+40.0 y 2.0 c185 c188 cap alum electrolytic ee uf m1c471 470 uf cplrad197d394h492ld24 cplrad197d394h492ld24
+电解电容 2 c66 c67 470 uf 10v 6 12mm cap d6 l12 dip capxon
+2 c61 c65 470 uf 50v 10 20mm cap 10x20 dip capxon
+2 c59 c63 1000 uf 25v 10 20mm cap 10x20 dip capxon
+10 c46 c47 c48 c49 c50 c51 c52 c53 c54 c55 2200 uf 35v 16 25mm cap 16x25 dip capxon
 2 electrolytic capacitor 470 uf 50v 20% radial ee uf c1h471b 3 2400 ee uf c1h471b 500.0 2500 0.3814 7 12days moq 500
 3 electrolytic capacitor 100 uf 50v 20% radial eca1hhg101b 1 700 eca1hhg101b 1000.0 700 0.1485 7 13days
 4 electrolytic capacitor 10 uf 63v 20% radial eca 1jm100b 5 3500 dp83848cvvx nopb 1000.0 3500 0.0384 7 13days
 6 electrolytic capacitor 470 uf 50v 20% radial ee uf c1h471b 1 700 ee uf c1h471b 500.0 700 0.4464 7 13days
 8 electrolytic capacitor 0.1 uf 50v 20% radial eeaga1hr10b 1 700 eeaga1hr10b 6000.0 500 0.2808 10 15days
 cap fxd al el 10 uf 160v cp28 cp29 cp30 dale ekb00dc210m00 2700
+2 470 uf 16v 470 uf 16v c26 c27 radial 0.2 capacitor capacitor
+2 470 uf 35v 470 uf 35v c12 c13 radial 0.2 capacitor capacitor
+c 52 lguw6471melc alum nichicon 470mf 420v aluminum electrolytic cap d35xh45
+c 58 uhe1e471mpd6 alum nichicon 470mf 25v aluminum electrolytic cap d10xh20
+c 67 upw1j220med alum nichicon 22mf 50v aluminum electrolytic d6.3 xh11
+c 88 uhe1v222mhd alum nichicon 2200mf 35v aluminum electrolytic d16xh35.5
+c104 eeu eb1hr47s alum 4.7 mf 50v aluminum electrolytic d4xh11.5
+c105 uvz1h101mpd alum nichicon 100mf 35v aluminum electrolytic d8xh12
+c106 uhe1v222mhd alum nichicon 2200mf 35v aluminum electrolytic d16xh35.5
+c126 uhe1e471mpd6 alum nichicon 470mf 25v aluminum electrolytic cap d10xh20
+c127 uhe1e471mpd6 alum nichicon 470mf 25v aluminum electrolytic cap d10xh20
+4 330 uf 35v cpol eue5 10.5 c7 c8 c13 c18 cap 330 uf 35v electrolytic 5mm ls 10mm dia nichicon upw1v331mpd 647 upw1v331mpd 0.48 1.92 value critical 100 uf 25v
+2 470 uf 16v cpol eue5 10.5 c11 c22 cap 470 uf 16v electrolytic 5mm ls 10mm dia nichicon upw1c471mpd 647 upw1c471mpd 0.31 0.62 value critical 100 uf 10v
+1c 2 10 uf c69 c71 cap electrolytic 56 uf 50v 20% see datasheet ecg eeu fm1h151 y p12395 nd 0.10948 0.21896 0.09775 0.1955
+7 1 56 uf c62 cap electrolytic 56 uf 50v 20% see datasheet ecg eeu fm1h151 y p12395 nd 0.10948 0.10948 0.09775 0.09775
+15 1 1000 uf c66 cap electrolytic 1000 uf 35v 20% see datasheet nichicon uvr1v102mhd1to y 647 uvr1v102mhd1to 0.216 0.216 number n a at 0.2 0.2
+capacitor 10 uf 20v elec axial lead drawers c20 30 65f2343
+capacitor 100 uf 35v elec axial box 31 4 50 67f2303
+capacitor 100 uf 35v elec radial box 31 6 201 electrolytic p1231 nd p10294 nd slightly smaller
+capacitor 100 uf 50v elec axial lead rm 228 wire rack red bins p6377 nd 16f2285
+capacitor 100 uf 25v elec axial lead drawers c19 6
+capacitor 270 uf electrolytic axial lead box 58 3 4
+capacitor 470 uf electrolytic radial lead 50v box 31 2 9 p1287 nd
+cap alum 10 uf 20% 25v radial p1176 nd 0.3 4 1.2 phase iii pcb
+220 uf electrolytic capacitor nichicon 493 2292 1 nd 0.65 1 0.65 phase iv
+cap elect 2.2 u 50v 4 through hole 25 to 105 ± 20% eeueb1j2r2 or eeu eb1j221 cap47 35 10 n m s u
+cap elect 47u 35v 3 through hole 25 to 105 ± 20% 35yxf47mefc6.3 x11 cap47 35 10 n m s u
+cap elect 47u 50v 4 through hole 25 to 105 ± 20% eeueb1j470s cap8x11 10 n m s u
+cap elect 220 uf 16v 2 through hole 25 to 105 ± 20% 16yxf220mefc8x11.5 cap8x11 10 n m s u
+cap elect 2.2 uf 100v 4 through hole 25 to 106 ± 20% nichicon upj2a2r2mdd1td cap47 35 10 n m s u
+cap elect 220 uf 35v 1 through hole 25 to 105 ± 20% 35zlh220mefc8x11.5 cap10x12 10 n m s u
 cap elal low esr 150mf 16v 20% rad c64 94sa157x0016fbp
 cap el al rad 63v 20% 10mfd c2 c68
 cap fxd alel 470 µ f ± 20% 63v c62 sa4711jmdkbo
@@ -518,6 +888,8 @@ cap fxd al electrolytic 470 uf ± 20% 63v c62 lhk series 470 uf ± 20% 63v size1
 铝 电解电容 100 uf 50v 10% rjl 50v 101m 10 20 c2 c4 c8 c12 c16 5
 铝 电解电容 220 uf 35v 10% rjl 35v 221m 10 25 c6 c10 2
 铝 电解电容 470 uf 16v 10% rjl 16v 471m 10 25 c14 c15 2
+c 220 uf 35v 直插 220 uf 25v 10 125 直插 电解电容 100 201711 15
+c 47u 50v 直插 dj s63 11 47 uf 50v 63 11 直插 电解电容 100 201711 15
 electrolytic capacitor 100 uf 400v 20% radial ecos2gb101ca
 electrolytic capacitor 2200 uf 50v 20% radial eca1ham222x
 electrolytic capacitor 1000 uf 50v 20% radial eca 1hm102b
@@ -527,29 +899,40 @@ electrolytic capacitor 47 uf 63v 20% radial ee uf c1j470b
 electrolytic capacitor 220 uf 50v 20% radial eca 1hm221b
 electrolytic capacitor 4.7 uf 63v 20% radial ee uf c1h4r7b
 electrolytic capacitor 22 uf 63v electrolytic eeueb1j220b
-680 uf cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0
 008 1005207200 p0901012 1037 conventional capacitor electrolytic 10 uf 63v 5x11 20% 85c mcgpr63v106m5x11 multico 12.0 4.0 1530.0 allchips multico 1530.0 2.0 0.0218 e
 88 插件 电解电容 1000 uf 16v 10x13 cd10 1 cd10 2000
 89 插件 电解电容 100 uf 63v 10x13 cd5 1 cd5 2000
 90 插件 电解电容 220 uf 63v 10x13 cd3 cd6 2 cd3 cd6 4000
 91 插件 电解电容 22 uf 20% 50v 6 7 cd2 cd4 cd7 cd9 4 cd2 cd4 cd7 cd9 8000
+aluminium electrolytic capacitor radial 2.5 mm pitch 47 uf 50v fn 945 1404 pc 1600.0 mcgpr 50v 476m6.3 x11 multicomp
+aluminium electrolytic capacitor radial 2.5 mm pitch 100 uf 25v fn 945 1188 pc 1100.0 mcgpr25v107m6.3 x11 multicomp
+aluminium electrolytic capacitor radial 3.6 mm pitch 470 uf 25v fn 945 1862 pc 1100.0 mcrh25v477m10x16 multicomp
 capacitor 1000 uf 35v 105c p 5mm ksh108m035s1a1l20 c22
+电解电容 25v 1000 uf ± 20% 105 ° 10.5 mm c25 c26 c27 c28 c29 c30 c31 c32 8 耐温 105 °
+eca 1vm470i cap alum 47 uf 35v 20% radial 19290
+uvr1v100mdd1ta cap alum 10 uf 35v 20% radial 19780
 1 electrolytic capacitor 22 µ f 25 v 21000 ecea1eks220 ecea1eks220 3000.0 0.0488 6 10days 3000p arrow
 2 electrolytic capacitor 68 µ f 25 v 7000 eeaga1e680 eeaga1e680 7000.0 0.113 6 12days
 3 electrolytic capacitor 47 µ f 25 v 7000 ecea1eka470 ecea1eka470 3500.0 0.052 6 12days 3500
 4 electrolytic capacitor 0.47 µ f 25 v 14000
 5 electrolytic capacitor 33 µ f 25 v 7000 ecea1eks330 ecea1eks330 7000.0 0.057 6 12days
 6 electrolytic capacitor 4.7 µ f 25 v 7000 ecea1eks4r7 ecea1eks4r7 3400.0 0.051 6 12days 3400
+电解电容 330 uf 35v 0.2 c211 1 10mm 12mm 50331e3 70
 电解电容 470 uf 16v ccap5.0 10x13 1 e1 35v 16v 20170317 4 100 300
 6 dd y0 470u 16 插件 电解电容 470 uf 16v 8mm 11.5 mm 3.5 mm 1.0 e9 lc
 mcecapno209fc 3.0 2.0 ea cap alum 180 uf 20% 2 50v radial cap elect x capxon kf181m250k315a kf181m250k315a capxon
 mcecapno20a1a 17.0 1.0 ea cap alum 820 uf 20% 16v th cap elect x capxon gh821m016g160a004 gh821m016g160a004 capxon
 c8 cap electrolytic radial 10 uf 400v digi key p5939 nd 1.32
+47 uf 50v 47 uf 50v 6.3 12mm 105 ° c cd288h 1 ec3
+100 uf 35v 100 uf 35v 6.3 12mm 105 ° c cd288h 1 ec4
+2200 uf 16v 2200 uf 16v 10 20mm 105 ° c cd288h 4 ec5 ec6 ec7 ec8
 0000752 cap al el 100 uf 20% 16v rad 2.0 a00 c260 c361 capacitor
 电解电容 elcap 470 μ f 25v 20% 8 12mm 高频 低阻 5 350.0
+电解电容 120 uf 16v 误差 ± 10 ％ 直插 6.3 1 标准件 化工 ky 阻抗 105 ℃ 10000h
+电解电容 470 uf 50v 误差 ± 10 ％ 直插 12.5 3 标准件 化工 ky 阻抗 105 ℃ 10000h
+220 uf 35v c56 c57 电解电容 8 12mm 电解电容 2
 67 电解电容 3 100 uf 50v 8 12 cd1 cd2 cd10
 57 电解电容 4 100 uf 50v 8 12 cd1 cd2 cd10 cd11
-1 电解电容 4.7 uf 400v 10 16 高频 低阻 c2 c3 2
 43 电解电容 10 uf 50v 5 11 c14 1 10 uf 50v 5 11 1000 1000 0.0324 lc
 44 电解电容 100 uf 50v 8 12 c19 1 100 uf 50v 8 12 lc 500 500 0.09 lc
 45 电解电容 10000 uf 35v 30 36 c36 c38 c39 c40 4 1
@@ -565,3 +948,5 @@ c8 cap electrolytic radial 10 uf 400v digi key p5939 nd 1.32
 60 电解电容 47 uf 16v 5 11 c20 1 0.030 47 uf 16v 5 11 lc 1000 1000 0.031 lc
 61 电解电容 47 uf 50v 6.5 12 c2 1 0.0520 47 uf 50v 6.3 11 aishi 490 1000 0.16 lc
 62 电解电容 47 uf 50v 6.5 12 c1 c56 2 0.0520 47 uf 50v 6.3 11 aishi 490 1000 0.16 lc
+220 uf 35v ± 20% 8 10.5 mm 6000
+470 uf 16v ± 20% 8mm 10.5 mm 3000 syk

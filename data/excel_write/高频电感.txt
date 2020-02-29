@@ -6,6 +6,11 @@ smd 高频 电感 10nh film type rf ind 10nh ± 0.1 nh 0402 l0402 lqg15hs10nj02 
 smd 高频 电感 2.7 nh film type rf ind 2.7 nh ± 0.1 nh 0402 l0402 lqg15hs2n7s02 l302 l307 2.0 10
 smd 高频 电感 2nh film type rf ind 2nh ± 0.1 nh 0402 l0402 lqg15hs2n0s02 l303 l305 l306 3.0 15
 smd 高频 电感 1.2 nh film type rf ind 1.2 nh ± 0.1 nh 0402 l0402 lqg15hs1n2s02 l304 1.0 5
+25 电感 l1 0603 5% 电感 射频 33nh 2 1 100
+26 电感 l2 0603 5% 电感 射频 39nh 2 1 100
+27 电感 l3 0603 5% 电感 射频 22nh 2 1 100
+28 电感 l4 l5 0603 5% 电感 射频 15nh 2 2 200
+29 电感 l6 0603 5% 电感 射频 8.2 nh 2 1 100
 5.0 lqp15mn5n1b02 fixed ind 5.1 nh 140ma 700 mohm 10500.0 lqp15mn5n1b02 9500 10000.0 0.091 lc
 lqg15hs10nj02d inducteurs fixes 10nh 5% hi freq 2 60 240 200000 lqg15hs10nj02d 0.03 0.03 0.022 10000.0 22 24wks moq 100 lc lc
 62 1 l12 ind0402 10nh 高频 电感 smd0402 10nh
@@ -88,3 +93,4 @@ cih05t6n2snc fixed inductor 6.2 nh ± 0.3 nh 300ma 10000
 l7 l8 8.2 nh 0402 2 高频 电感 sdcl1005c8n2jtdf 10000 0.0118 10000 5% lc
 l11 l12 7.5 nh 0402 2 高频 电感 sdcl1005c7n5jtdfm01 10000 0.0118 10000 5% lc
 l10 l9 12nh 0402 4 高频 电感 sdcl1005c12njtdf 10000 0.0118 10000 5% lc
+电感 39nh ± 5% 0402l 高频 l 5

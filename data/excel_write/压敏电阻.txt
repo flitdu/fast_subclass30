@@ -1,3 +1,22 @@
+varistor cnr101kd07 突波 吸收器 100v 7 ψ cnr 240
+varistor cnr180kd07 突波 吸收器 18v 7 ψ cnr 2000
+varistor cnr221kd07 突波 吸收器 220v 7 ψ cnr 6000
+varistor cnr241kd07l4 突波 吸收器 240v 7 ψ cnr 剪腳 4mm 2000
+varistor cnr270kd10 突波 吸收器 27v 10 ψ cnr 1000
+varistor cnr271kd07 突波 吸收器 270v 7 ψ cnr 1000
+varistor cnr330kd07 突波 吸收器 33v 7 ψ cnr 7000
+varistor cnr391kd14 突波 吸收器 390v 14 ψ cnr 500
+varistor cnr431kd07l7 突波 吸收器 430v 7 ψ cnr 剪腳 7mm 53000
+varistor cnr431kd14 突波 吸收器 430v 14 ψ cnr 500
+varistor cnr471kd07 突波 吸收器 470v 7 ψ cnr 1000
+varistor cnr471kd07l4 突波 吸收器 470v 7 ψ cnr 剪腳 4mm 2000
+varistor cnr471kd10 突波 吸收器 470v 10 ψ cnr 4000
+varistor cnr471kd10l7 突波 吸收器 470v 10 ψ cnr 剪腳 7mm 4000
+varistor cnr471kd14 突波 吸收器 470v 14 ψ cnr 8300
+varistor cnr820kd07 突波 吸收器 82v 7 ψ cnr 3000
+varistor cnr821kd14 突波 吸收器 820v 14 ψ cnr 11500
+varistor mov471kd14sbnl 突波 吸收器 470v 14 ψ mov 1000
+varistor varsfi1210ml080clf 突波 吸收器 sfi1210ml080c lf 4000
 а р р varistor 压敏 电阻 10k361 7 5x1 6 12x4 2 dip 2 200 1.0
 10d560k 压敏 电阻 vr1 vr2 vr3 ax 7.5 p 10d 3.0
 10d560k 压敏 电阻 vr1 vr2 vr3 ax 7.5 p 10d 3
@@ -11,11 +30,17 @@ vr1 压敏 电阻 1.0 10d471k 220v 10d471k 袋 10d471k ruilon 510.0
 r vdr 275v rm5 d 7mm 275vac rm5 ung r vdr 275v rm5 ungesch siov s07k275 0
 171 压敏 电阻 10d391k 直插 3 12
 压敏 电阻 myg20k621 插件 zv1 1000
+7.0 压敏 电阻 10d471k 10d471k 610
 61 压敏 电阻 20d471 rv1 rv2 2
 压敏 电阻 10d180k 10 zov
+压敏 电阻 10d180k 10 zov
 压敏 电阻 1.0 10d471k 10d471k 1520.0 ruilon
+压敏 电阻 1.0 10d471k 10d471k 1520.0 ruilon
+压敏 电阻 1.0 10d471k 10d471k ruilon
 0 压敏 电阻 fnr 10k680 d10 500 1000 320 1000.0
 压敏 电阻 fnr 07k431b 0 1k 17950 17700
+压敏 电阻 1.0 10d471k 10d471k ruilon
+压敏 电阻 10d471k 1.00 5k
 13 20d470k 20mm 脚距 压敏 电阻 20 50 1
 1108 电阻 电阻 压敏 20d 470k d 20mm 50 50 50
 31.0 1000106.0 电阻 压敏 20d 470k d 20mm 50 1
@@ -25,6 +50,10 @@ r vdr 275v rm5 d 7mm 275vac rm5 ung r vdr 275v rm5 ungesch siov s07k275 0
 18 压敏 电阻 561kd20 p10 1 10000 1
 76 cga0603mlc 24e varistor 47v 80a 0805 corporation vc080538c770dp 1 1000 0
 а р р varistor 压敏 电阻 10k361 7 5x1 6 12x4 2 dip 2 1.0
+压敏 电阻 sc1812ml560k 1812 mov 1812 4532 metric v1ma 56v vdc 42v vac 30v krvv1812g560nxt grace 1
+2 varistor cnr 14d471k cp fbsn 1 cnr r05002 mov1
+2 varistor tvr14471ksy fbsn 0 thinking r05004 second source
+2 varistor 471kd14 fbsn 0 sas r05001 second sourse
 14.0 10901070 压敏 电阻 470kd10j sip 0.0
 14.0 10901070 压敏 电阻 470kd10j sip 30000.0
 85 a04 024001 003 压敏 电阻 820kd10j dc65v 10% 40 85 ℃ 820kd10j 9000 d3 d4 d8 插件
@@ -101,5 +130,7 @@ rv1 vdr 4v mm vdr 1206 1 n
 17 ste 压敏 电阻 7d201k dip 1 1000.0
 ru1 erz v05d471 1 radial varistor thru hole disk body pin spacing 75 mm varistor manual radial
 ct0805s14bautog 压敏 电阻 b72510e1140s262 r185 r187 6 0805 n 2
+r08 fb varistor 151j 275v
+压敏 电阻 20d471 rv1 rv2 2
 压敏 电阻 fnr 10k271hs 剪脚 后脚 3.5 mm ± 0.5 51 3570.0
 压敏 电阻 10d390k 7mm 7000 10d390k 0.212 扬杰 lc

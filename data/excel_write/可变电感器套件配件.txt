@@ -7,3 +7,30 @@
 68 variable inductor 17nh 165 01a06l coil craft pc 1600.0
 69 variable inductor 28nh 165 02a06l coil craft pc 1600.0
 70 variable inductor 40nh 165 03a06l coil craft pc 1100.0
+inductor 029 uh smt box 40 1 14 variable tks2706ct nd
+inductor 032 uh smt box 40 6 16 variable tks2700ct nd
+inductor 038 uh smt box 9 4 10 variable tks2713ct nd
+inductor 041 uh smt box 40 3 8 variable tks2707ct nd
+inductor 047 uh smt box 9 1 10 variable tks2701ct nd
+inductor 048 uh smt box 9 3 10 variable tks2714ct nd
+inductor 067 uh variable box 43 4 7
+inductor 068 uh smd box 17 10 17 variable tks2702ct nd
+inductor 073 uh smt box 40 2 13 variable tks2709ct nd
+inductor 084 uh smt box 9 2 10 variable tks2717ct nd
+inductor 090 uh smt box 40 4 13 variable tks2703ct nd
+inductor 112 uh smt box 40 5 14 variable tks2704ct nd
+inductor 142 uh smt box 40 7 11 variable tks2705ct nd
+inductor 164 uh variable box 42 18 10
+inductor 214 uh variable box 42 22 9
+inductor 338 uh variable box 42 19 10
+inductor 525 uh variable box 42 24 10
+inductor 75 uh variable box 42 23 10
+inductor 99 uh variable box 42 17 10
+inductor 0.47 uh variable drawers g52 21 tk5006 nd
+inductor 1.15 uh variable box 42 21 10
+inductor 1.36 uh variable box 42 20 10
+inductor 1.8 uh variable smt box 36 18 9 tks2245ct nd
+inductor 180 nh variable smt box 36 23 6 tks2425ct nd
+inductor 2.2 uh adjustable inductor smt box 21 7 8 type 5ccd tks2246ct nd
+inductor 220 nh smt variable box 37 22 6 tks2426ct nd 5cce type
+inductor 68 nh smt variable box 37 23 5 tks2420ct nd 5cce type

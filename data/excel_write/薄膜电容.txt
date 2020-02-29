@@ -1,3 +1,15 @@
+15766 24 2134 104j1g 金屬 化膜 電容 pei dip 2pin 0.1 uf 100v ± 5% camel 800
+15806 ca4hxb684k 金屬 化膜 電容 ppn dip 2pin 0.68 uf mfd 400v ± 10% 191
+15807 金屬 化膜 電容 ppn dip 2pin 0.033 uf 400v ± 5% 207
+16420 2w474 薄膜 電容 0.47 uf 4 50v 1728
+16969 金屬 膜 電容 pps 104pf 1000v ± 5% 1400
+18104 cbb65 400vac 50 uf 薄膜 電 容器 50 uf 400v 60x100mm xiamen faratronic 18
+聚酯薄膜 電容 深紅 r mef104k2 50v 10g mef 104k 2 50v p 10mm 1000
+聚酯薄膜 電容 深紅 r mef105k100v75u mef 105k 100v p 7.5 mm 彎腳 120
+聚酯薄膜 電容 深紅 r mef105k2 50v 20u mef 105k 2 50v p 20mm 1500
+聚酯薄膜 電容 深紅 r mef474j2 50v 15g mef 474j 2 50v p 15mm 1000
+聚酯薄膜 電容 深紅 r mer104k400vp10ad mer 0.1 uf ± 10% 400vdc p 10mm 15000
+film capacitors 068 uf 63volts 5% 68 uf b32520c0684j000
 r82ec3220aa70j cap film 0.22 uf 5% 100vdc radial kemet 426 0.0917 8 12days arrow
 b32529c3102j cap film 1000pf 5% 2 50v dc radial 102 0.1137 8 12days arrow
 b32529c3103j cap film 10000pf 5% 2 50v dc radial 102 0.129 8 14days
@@ -37,6 +49,11 @@ c107 c108 capacitor cap radial 4.7 nf 300vac 20% y2 6x10.5 10 mm lead spacing ke
 c1140 c1255 capacitor cap radial 2.2 nf 300vac 20% x7r y2 rifa evox phe850ea4220ma01r17 b32021a3222m surge c43q1222m4sc000
 c101 capacitor cap radial 2.2 uf 305vac 20% 26.5 x12 b32923c3225m surge cmppac3 10v 225k22.5 s6
 金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
+金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 法拉
+金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 法拉
+cap poly radial 1.0 uf 2 50v 10% 15mm ls 105 ° c ecw f2w105ja ecw f2105jbq crimped lead 15mm or equiv c29 1 250
+cap film 4700pf 275vac 20% x2 radial 0.591 l x 0.197 w x 0.472 h ecq u2a472ml or equiv c129 1 250
+film capacitors 068 uf 63volts 5% 68 uf b32520c0684j000 2 5000
 260 capacitor film mpet 100v 0015 uf 10% thd cl23b 100v 153k j xiamen faratronic co ltd 20000
 319 capacitor film mpet 100v 33nf 5% thd cl23b 100v 333j xiamen faratronic co ltd 5000
 288 capacitor film mpet 2000v 22 nf 5% thd mmkp82 2kv 222j xiamen faratronic co ltd 2500
@@ -96,6 +113,152 @@ capacitor pth 13mm 0 1 uf 630v 10% b32612a6104k189 1 c312j104k6sf600 faratronic 
 40 c3 c5 c22 c24 cap film 022 uf 63v 5mm ls wima mks2 22 63 10 505 mks2022 63 10 031 124
 c15 0 1 uf 10% 630vdc 400vac 1 radial capacitor thru hole body 8.0 x 16.0 x18.0 mm wxhxl pin spacing 15.0 mm 10% mpb mkp10 manual radial
 c16 6 8nf 10% 1600vdc 6 50v ac 1 radial capacitor thru hole body 6.0 x 12.0 x18.0 mm wxhxl pin spacing 15.0 mm 5% mp5 mkp10 manual radial
+capacitors film capacitors e722055 72315 220nf 2 50v 7.5 mm 10% mkp capacitor arcotronics 101
+capacitors film capacitors e722386 74116 330nf 100v 15mm 10% mkp capacitor arcotronics 39
+capacitors film capacitors z815279 dme6s47k f dme6s47k f polyester film capacitors dme 630v.047 cornell dubilier 54
+capacitors film capacitors e703926 b33364a5405j050 4 uf 440v film capacitor 30
+capacitors film capacitors e722414 71313 100nf 2 50v 5mm 10% mkt capacitor 45
+capacitors film capacitors e722557 71103 2n2 100v 5mm 10% mkt capacitor 16
+capacitors film capacitors e723077 71109j 22nf 100v 5mm 5% mkt capacitor 100
+capacitors film capacitors e702057 80426 100nf 400v 15mm mkt capacitor e68 epoc 221
+capacitors film capacitors e702259 80120 2u2 100v 23mm mkt capacitor e68 epoc 30
+capacitors film capacitors e702381 80418 22nf 400v 10mm mkt capacitor e68 epoc 2699
+capacitors film capacitors e704095 c512e104k1s2220 100nf 2 50v 10% 2220 met film capacitor faratronic 3750
+capacitors film capacitors e703841 mmk5332k100j01l4bulk 3300pf 100v 5mm polyester film capacitor kemet 800
+capacitors film capacitors z816113 r82dc4100dq60j 1 uf 63v 5mm mkt cap r82dc4100dq60j kemet 13931
+capacitors film capacitors e702927 pcmt 365 75473 47nf 63v 5mm 10% mkt capacitor pcmt 365 75473 pilkor 800
+capacitors film capacitors e702928 pcmt 365 75104 100nf 63v 5mm 10% mkt capacitor pcmt 365 75104 pilkor 8932
+capacitors film capacitors e702931 pcmt 365 75224 220nf 63v 5mm 10% mkt capacitor pcmt 365 75224 pilkor 1502
+capacitors film capacitors e702932 pcmt 365 75334 330nf 63v 5mm 10% mkt capacitor pcmt 365 75334 pilkor 8107
+capacitors film capacitors e702934 pcmt 365 75684 680nf 63v 5mm 10% mkt capacitor pcmt 365 75684 pilkor 644
+capacitors film capacitors e702935 pcmt 365 75105 1 uf 63v 5mm 10% mkt capacitor pcmt 365 75105 pilkor 1796
+capacitors film capacitors e702936 pcmt 365 85103 10nf 100v 5mm 10% mkt capacitor pcmt 365 85103 pilkor 42
+capacitors film capacitors e702937 pcmt 365 85223 22nf 100v 5mm 10% mkt capacitor pcmt 365 85223 pilkor 453
+capacitors film capacitors e702938 pcmt 365 85333 33nf 100v 5mm 10% mkt capacitor pcmt 365 85333 pilkor 2700
+capacitors film capacitors e702939 pcmt 365 85473 47nf 100v 5mm 10% mkt capacitor pcmt 365 85473 pilkor 1117
+capacitors film capacitors e702940 pcmt 365 85104 100nf 100v 5mm 10% mkt capacitor pcmt 365 85104 pilkor 10250
+capacitors film capacitors e702941 pcmt 368 21105 1 uf 100v 15mm 10% mkt capacitor pcmt 368 21105 pilkor 1169
+capacitors film capacitors e702943 pcmt 368 53104 100nf 400v 15mm 10% mkt capacitor pcmt 368 53104 pilkor 118
+capacitors film capacitors e703076 pcmt 368 c3104 100nf 630v 15mm 10% mkt capacitor pcmt 368 c3104 pilkor 5000
+capacitors film capacitors e703139 pcmt 468 43224 220nf 2 50v 15mm 10% mkt capacitor pcmt 468 43224 pilkor 1500
+capacitors film capacitors e703832 pcmt 369f23105 1 uf 100v 15mm 10% mkt capacitor pcmt 369f23105 pilkor 2000
+capacitors film capacitors e703861 pcmt 369d2t105 1 uf 100v 15mm 10% mkt capacitor pcmt 369d2t105 pilkor 1000
+capacitors film capacitors e704207 pcmt 365 76105 1 uf 63v 5mm 5% mkt capacitor pcmt 365 76105 pilkor 9000
+capacitors film capacitors e391530 2222 390 28332 3n3 25v 10% 1206 mkps capacitor 2222 390 28332 6000
+capacitors film capacitors e701230 bfc236821104 100nf 100v 10mm mkt capacitor 2222 368 21104 4998
+capacitors film capacitors e701237 bfc236575154 150nf 63v 5mm mkt capacitor 2222 365 75154 1372
+capacitors film capacitors e701240 bfc236851152 1n5 400v 10mm mkt capacitor 2222 368 51152 996
+capacitors film capacitors e701241 bfc236851102 1nf 400v 10mm mkt capacitor 2222 368 51102 747
+capacitors film capacitors e701244 bfc236851105 1 uf 400v 28mm mkt capacitor 2222 368 51105 3249
+capacitors film capacitors e701246 bfc236821224 220nf 100v 10mm mkt long leg 2222 368 21224 7
+capacitors film capacitors e701251 bfc236851222 2n2 400v 10mm mkt capacitor 2222 368 51222 4726
+capacitors film capacitors e701252 bfc236841225 2u2 2 50v 28mm mkt capacitor 2222 368 41225 449
+capacitors film capacitors e701256 bfc236841333 33nf 2 50v 10mm mkt capacitor 2222 368 41333 1161
+capacitors film capacitors e701257 bfc236851332 3n3 400v 10mm mkt capacitor 2222 368 51332 550
+capacitors film capacitors e701264 bfc236851473 47nf 400v 15mm mkt capacitor 2222 368 51473 2649
+capacitors film capacitors e701267 bfc236821475 4u7 100v 28mm mkt capacitor 2222 368 21475 2061
+capacitors film capacitors e701268 bfc236821684 680nf 100v 15mm mkt capacitor 2222 368 21684 803
+capacitors film capacitors e701271 bfc236851682 6n8 400v 10mm mkt capacitor 2222 368 51682 1550
+capacitors film capacitors e701411 bfc236821155 1u5 100v 23mm mkt capacitor 2222 368 21155 1875
+capacitors film capacitors e701435 bfc236853223 22nf 400v 10mm mkt capacitor 3mml 2222 368 53223 4786
+capacitors film capacitors e701578 bfc236855684 680nf 400v 28mm mkt capacitor 2222 368 55684 3466
+capacitors film capacitors e701753 bfc236581223 22nf 100v 5mm mkt capacitor t r 2222 365 81223 57
+capacitors film capacitors e721283 bfc237011474 470nf 63v 5mm mkt capacitor 2222 370 11474 360
+capacitors film capacitors e721543 bfc237035103 10nf 2 50v 5mm mkt capacitor t r 2222 370 35103 384
+capacitors film capacitors e721548 bfc237341335 3u3 2 50v 27.5 mm mkt capacitor 2222 373 41335 335
+capacitors film capacitors e721568 bfc237347475 4u7 2 50v 28mm mkt capacitor 2222 373 47475 415
+capacitors film capacitors e721873 bfc238340223 22nf 1400v 22.5 kp capacitor 2222 383 40223 400
+capacitors film capacitors e723224 bfc2 370 11105 1 uf 63v 5mm mkt capacitor bfc2 370 11105 188
+capacitors film capacitors e761322 bfc246343901 390pf 400v 1% axial kp capacitor 2222 463 43901 1160
+capacitors film capacitors e762022 bfc246241802 1n8 2 50v 1% axial kp capacitor 2222 462 41802 2345
+capacitors film capacitors e762023 bfc246345301 560pf 400v 1% axial kp capacitor 2222 463 45301 500
+capacitors film capacitors e762025 bfc246341501 150pf 400v 1% axial kp capacitor 2222 463 41501 160
+capacitors film capacitors e703934 715p472516ld3 4n7 1600v polypropylene film capacitor sprague 3
+capacitors film capacitors e703837 mks2c042201k00jssd 2u2f 63v 5mm 5% mkt capacitor wima 69
+capacitors film capacitors e703939 mkp1t012203c00kssd 2n2 1.6 kv 10% film capacitor wima 2000
+capacitors film capacitors e704073 mkp2d031001f00jssd 100nf 100v 5mm 5% mkp cap mkp2d031001f00jssd wima 1450
+capacitors film capacitors e723834 mks2c032201b00jssd 220nf 63v 5mm 5% mkt capacitor mks2 22 63 5 wima 200
+c 61 b32621a6223j radial 1429 6223 22nf 630v mkp 5% p10mm
+c118 b32621a6223j radial 1429 6223 22nf 630v mkp 5% p10mm
+c125 b32620a6472j box 4.7 nf 630v mkp 20% p7.5 mm
+c15 fb b32529c104k box 100nf 63v mkt 10% p5
+capacitor 0036 uf polypropylene radial lead box 72 2 45 p3837 nd aka 36 nf
+capacitor 016 uf polypropylene radial lead box 72 4 50 p3853 nd aka 16 nf
+capacitor 022 uf polypropylene radial lead box 72 3 50 p3856 nd aka 22 nf
+capacitor 022 uf polypropylene radial lead 50v rm 228 wire rack blue bins 25 p3223 nd aka 22 nf ecq p1h223gz
+capacitor 0.00033 uf polypropylene radial lead box 43 17 25 p3895 nd
+capacitor 0.00056 uf polypro 50v radial lead rm 228 wire rack blue bins 40 p3898 nd aka 0.56 nf
+capacitor 0.00082 uf polypro 50v radial lead rm 228 wire rack blue bins 130 p3900 aka 0.82 nf
+capacitor 0.001 uf 12 50v metal polypro box 45 5 10 p10470 nd
+capacitor 0.001 uf polypropylene radial lead rm 228 wire rack blue bins 30 p3824 nd man pn ecq p1h102fzw aka 1 nf
+capacitor 0.0011 uf polypro 50v radial lead rm 228 wire rack blue bins 40 p3825 aka 1.1 nf
+capacitor 0.0022 uf 63v metal poly radial lead blue rm 228 wire rack red bins 15 495 2518 3 nd
+capacitor 0.0033 uf 12 50v polypro box 45 3 10 p10476 nd
+capacitor 0.0033 uf polypro 50v radial lead rm 228 wire rack blue bins 110 p3836 aka 3.3 nf
+capacitor 0.0051 uf polypropylene aka 5.1 nf rm 228 wire rack blue bins 200 p3841 nd
+capacitor 0.0051 uf metalized polypropylene film box 62 4 40 aka 5.1 nf bc2269 nd blue radial lead
+capacitor 0.01 uf 12 50v metal polypro box 45 4 10 p10482 nd
+capacitor 0.01 uf metal film cabinet e clear box 3007ph nd
+capacitor 0.01 uf polypropylene radial lead rm 228 wire rack blue bins 24 p3103 nd p3848 nd
+capacitor 0.022 uf metal polyester film 100v box 41 6 400 ef1223 nd
+capacitor 0.022 uf polycarbonate black rm 228 wire rack red bins ecr223cf aka 22 nf
+capacitor 0.024 uf polypropylene aka 24 nf rm 228 wire rack blue bins 200 p3857 nd p12061 nd for 400v 3%
+capacitor 0.024 uf metalized polypropylene film box 62 5 30 aka 24 nf bc2254 nd 630v blue radial lead bc2196 nd 400v
+capacitor 0.027 uf polypropylene radial lead box 72 13 40 p3858 nd aka 27 nf
+capacitor 0.033 uf 12 50v polypro box 45 6 10 p10488 nd
+capacitor 0.033 uf poly rm 228 wire rack red bs 900 storage box on bookshelf aka 33 nf
+capacitor 0.047 uf 50v polycarbonate box 46 2 10 axial lead white 44f2238
+capacitor 0.047 uf poly radial lead rm 228 wire rack red bs 800 storage box bookshelf aka 47 nf
+capacitor 0.1 uf 100v metal film radial lead box 65 17 25 3013ph nd
+capacitor 0.1 uf 12 50v metal polyprop box 45 7 4
+capacitor 0.1 uf 50v polypropylene radial lead rm 228 wire rack blue bins 150 p4593 nd
+capacitor 0.1 uf polycarbonate box 2 10 200
+capacitor 0.12 uf polycarbonate rm 228 wire rack red bins 45 ecr124bf
+capacitor 0.12 uf polypropylene radial lead rm 228 wire rack blue bins 115 p3874 nd
+capacitor 0.15 uf polycarbonate rm 214 210 500
+capacitor 0.22 uf 50v polycarbonate box 46 1 10 axial lead white 44f2242
+capacitor 0.22 uf polycarbonate radial lead rm 214 34 1100 elcon p n ecr224bf
+capacitor 0.22 uf polypropylene radial lead rm 228 wire rack blue bins 45 p3880 nd
+capacitor 0.33 uf 50v polycarbonate box 46 4 10 axial lead white 44f2243
+capacitor 0.47 uf 100v metal poly radial lead box 24 6 6 495 1163 nd
+capacitor 0.47 uf 100v radial lead polyester box 33 14 4 newark p n 25m8106
+capacitor 0.47 uf 2 50v metal poly radial lead rm 228 wire rack red bins 24 p10975 nd
+capacitor 0.82 uf poly white axial lead box 59 7 100
+capacitor 1 uf 2 50v metal polyester radial rm 221 p566 40 p10979 nd
+capacitor 1 uf 400v metal polypro radial lead rm 228 wire rack blue bins 30 pf4105 nd man uf ac pn ecw f4105jb
+capacitor 1 uf poly white axial lead 200v box 59 8 10
+capacitor 1.6 nf polypropylene radial lead rm 228 wire rack blue bins 40 aka 0.0016 uf p3829 nd
+capacitor 1.8 nf polycarbonate black box 24 12 150 ecr182gf elcon 300 box on bookshelf
+capacitor 10 uf 100v metal poly radial lead rm 228 wire rack blue bins 1 e1106 nd and ef1106 nd
+capacitor 10 uf 50v polyester rm 228 wire rack red bins white axial lead
+capacitor 10 uf polyester radial lead box 4 3 4 5 50 mkt1820610065
+capacitor 12 nf polycarbonate radial lead rm 228 wire rack blue bin 500 ecr123df
+capacitor 12 nf polypropylene radial lead box 7 13 109 p3850 nd aka 0.012 uf
+capacitor 15 nf polypropylene radial lead box 24 4 100 p3852 nd
+capacitor 18 nf polycarbonate box 24 15 44 ecr183d 200 box on bookshelf
+capacitor 18 nf polypropylene radial lead rm 228 wire rack blue bins 260 p3854 nd
+capacitor 2.2 nf polycarbonate rm 228 wire rack red bins 500 ecr222gf
+capacitor 27 nf polycarbonate black box 24 10 2 aka 0.027 uf
+capacitor 3.3 uf poypropylene radial lead box 13 13 4 ef1335 nd
+capacitor 3.9 nf polycarbonate rm 228 wire rack red bins 500 ecr392ff
+capacitor 3.9 nf polypropylene radial lead box 24 13 115 p3838 nd
+capacitor 39 nf polycarbonate black box 24 5 78 ecr393bf 879 storage box on bookshelf
+capacitor 39 nf polypropylene radial lead box 72 1 45 p3896 nd aka 00039 uf
+capacitor 39 nf polypropylene radial lead rm 228 wire rack blue bins 225 p3862 nd
+capacitor 4.7 nf polycarbonate rm 228 wire rack red bins 200 ecr472ff
+capacitor 4.7 nf polypro 2 50v radial box 24 8 30 495 1281 nd
+capacitor 4.7 uf 2 50v metal poly radial lead rm 228 wire rack blue bins 13 ef2475 nd
+capacitor 4.7 uf 63v polyester radial lead box 33 9 6 newark p n 20c9994
+capacitor 4.7 uf metalized polypropylene radial lead box 43 23 7 blue type 495 1131 nd
+capacitor 4.7 uf polypropylene red radial lead box 45 15 10 e1475 nd 100vdc
+capacitor 5.6 uf polypropylene radial lead 100vdc cabinet c plasctic bag 200 e1565 nd
+capacitor 6.8 nf polypro radial lead 50v 1% box 43 21 100 p3844 nd aka 0.0068 uf
+capacitor 6.8 nf polypro radial lead 50v 2% rm 228 wire rack blue bins 140 p3911 nd aka 0.0068 uf
+capacitor 68 nf poly cap radial lead 1400 storage box on bookshelf ecr683bf
+capacitor 8.2 nf polycarbonate rm 228 wire rack red bins 450 ecr822ef
+capacitor 8.2 nf polypropylene radial lead rm 228 wire rack blue bins 260 p3846 nd
+capacitor 82 nf radial lead film cap 400v 2% box 43 9 136 aka 0082 uf bc2220 nd
+capacitor 8.2 uf 100v metal poly radial lead cap rm 228 wire rack blue bins 120
 cap film pet 100nf 2 50v ac radial ecq u2a104ml
 capacitor film type 0.47 uf 275v ecqe4474jf
 capa 104 j100 mkt p 5mm capa 104 j100 mkt p 5mm c25 c32 c28 x x

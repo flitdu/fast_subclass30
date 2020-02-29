@@ -1,3 +1,5 @@
+18069 晶振 tuning fork 圓柱 dip 2p 8000 mhz 20pf 30ppm 3x8mm g f c 900
+18070 晶振 tuning fork 圓柱 dip 2p 20.000 mhz 3x8mm 283
 vt 200 f32.768 vt 200 f 32.768 插件
 dt 26 32.768 k 6pf 20ppm 32.768 khz 6pf 20ppm 直插
 xbmczlndnd 32.768 m 32.768 mhz 12.5 pf 20ppm 40 85 ℃ 圆柱 插件 2 6

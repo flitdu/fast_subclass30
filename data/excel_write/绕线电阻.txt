@@ -309,3 +309,133 @@ knp1wsft 52 0r8 res wirewound 0.4 ohm 1% 1w knp1wsft 52 0r8 1.0 1
 透孔 线绕 电阻 10r 1w 线绕 电阻 ± 5% 1.0 3000.0
 透孔 线绕 电阻 100r 2w 5% r 2w l r35 1.0 3000.0
 透孔 线绕 电阻器 电阻器 1w 0.1 ω 1% r250 r251 2 10
+resistors wire wound t747076 nhs50 180r 1% 180r 50w 5% alum clad resistor hs50 arcol 199
+resistors wire wound t674742 011220e 22r 2.5 w 5% wr250 wirewound resistor eurohm 2336
+resistors wire wound t677143 b20j75re 75r 20w 5% power wirewound resistor ohmite 1
+resistors wire wound t301122 prw02wjw15jb00 1r5 2w 5% prw wirewound resistor royal ohm 1805
+resistors wire wound t301184 prw02wjp561b00 560r 2w 5% prw power film resistor royal ohm 1027
+resistors wire wound t301209 knp02sj033kaa0 0r33 2w 5% knp s wirewound resistor royal ohm 450
+resistors wire wound t301301 knp02sj022ka10 0r22 2w 5% knp s wirewound resistor royal ohm 700
+resistors wire wound t301303 knp02sj047ka10 0r47 2w 5% knp s wirewound resistor royal ohm 391
+resistors wire wound t301304 knp02sj056ka10 0r56 2w 5% knp s wirewound resistor royal ohm 400
+resistors wire wound t301396 knp02sj027ka10 0r27 2w 5% knp s wirewound resistor royal ohm 190
+resistors wire wound t301469 knp02sj012kaa0 0r12 2w 5% knp s wirewound resistor royal ohm 500
+resistors wire wound t302608 knp02sj0220aa0 22r 2w 5% knp s wirewound resistor royal ohm 500
+resistors wire wound t371097 prw05wjw15kb00 0r15 5w 5% prw wirewound resistor royal ohm 3350
+resistors wire wound t371100 prw05wjw18kb00 0r18 5w 5% prw wirewound resistor royal ohm 5450
+resistors wire wound t371104 prw05wjw27kb00 0r27 5w 5% prw wirewound resistor royal ohm 490
+resistors wire wound t371105 prw05wjw33kb00 0r33 5w 5% prw wirewound resistor royal ohm 124
+resistors wire wound t371107 prm05wjw33kb00 0r33 5w 5% prm radial wirewound resistor royal ohm 440
+resistors wire wound t371109 prw05wjw39kb00 0r39 5w 5% prw wirewound resistor royal ohm 340
+resistors wire wound t371112 prw05wjw56kb00 0r56 5w 5% prw wirewound resistor royal ohm 49
+resistors wire wound t371114 prw05wjw68kb00 0r68 5w 5% prw wirewound resistor royal ohm 680
+resistors wire wound t371116 prw05wjw82kb00 0r82 5w 5% prw wirewound resistor royal ohm 210
+resistors wire wound t371118 prw05wjw10jb00 1r0 5w 5% prw wirewound resistor royal ohm 370
+resistors wire wound t371124 prw05wjw18jb00 1r8 5w 5% prw wirewound resistor royal ohm 300
+resistors wire wound t371127 prw05wjw27jb00 2r7 5w 5% prw wirewound resistor royal ohm 404
+resistors wire wound t371135 prw05wjw56jb00 5r6 5w 5% prw wirewound resistor royal ohm 50
+resistors wire wound t371137 prw05wjw68jb00 6r8 5w 5% prw wirewound resistor royal ohm 420
+resistors wire wound t371139 prw05wjw82jb00 8r2 5w 5% prw wirewound resistor royal ohm 300
+resistors wire wound t371143 prw05wjw120b00 12r 5w 5% prw wirewound resistor royal ohm 490
+resistors wire wound t371144 prw05wjw150b00 15r 5w 5% prw wirewound resistor royal ohm 340
+resistors wire wound t371146 prw05wjw180b00 18r 5w 5% prw wirewound resistor royal ohm 320
+resistors wire wound t371149 prw05wjw270b00 27r 5w 5% prw wirewound resistor royal ohm 160
+resistors wire wound t371151 prw05wjw330b00 33r 5w 5% prw wirewound resistor royal ohm 5080
+resistors wire wound t371153 prw05wjw390b00 39r 5w 5% prw wirewound resistor royal ohm 22090
+resistors wire wound t371154 prw05wjw470b00 47r 5w 5% prw wirewound resistor royal ohm 300
+resistors wire wound t371157 prw05wjw560b00 56r 5w 5% prw wirewound resistor royal ohm 240
+resistors wire wound t371159 prw05wjw680b00 68r 5w 5% prw wirewound resistor royal ohm 1080
+resistors wire wound t371163 prw05wjw101b00 100r 5w 5% prw wirewound resistor royal ohm 500
+resistors wire wound t371165 prw05wjp121b00 120r 5w 5% prw power film resistor royal ohm 942
+resistors wire wound t371171 prw05wjp181b00 180r 5w 5% prw power film resistor royal ohm 800
+resistors wire wound t371174 prw05wjp271b00 270r 5w 5% prw power film resistor royal ohm 210
+resistors wire wound t371179 prm05wjp331b00 330r 5w 5% prm radial power film resistor royal ohm 368
+resistors wire wound t371185 prw05wjp561b00 560r 5w 5% prw power film resistor royal ohm 336
+resistors wire wound t371187 prw05wjp681b00 680r 5w 5% prw power film resistor royal ohm 250
+resistors wire wound t371189 prw05wjp821b00 820r 5w 5% prw power film resistor royal ohm 499
+resistors wire wound t371194 prw05wjp392b00 3k9 5w 5% prw power film resistor royal ohm 2756
+resistors wire wound t371195 prw05wjp472b00 4k7 5w 5% prw power film resistor royal ohm 120
+resistors wire wound t371198 prw05wjp103b00 10k 5w 5% prw power film resistor royal ohm 550
+resistors wire wound t371202 prw05wjp223b00 22k 5w 5% prw power film resistor royal ohm 864
+resistors wire wound t371204 prw05wjp273b00 27k 5w 5% prw power film resistor royal ohm 1234
+resistors wire wound t371296 prw05wjp331b00 330r 5w 5% prw power film resistor royal ohm 350
+resistors wire wound t371408 prw05wjp333b00 33k 5w 5% prw power film resistor royal ohm 817
+resistors wire wound t371472 prw05wjp101b00 100r 5w 5% prw power film resistor royal ohm 355
+resistors wire wound t371480 prw05wjp183b00 18k 5w 5% prw power film resistor royal ohm 80
+resistors wire wound t371504 prw05wjp272b00 2k7 5w 5% prw power film resistor royal ohm 400
+resistors wire wound t371582 prw05wjp122b00 1k2 5w 5% prw power film resistor royal ohm 400
+resistors wire wound t372705 prm05wjw47jb00 4r7 5w 5% prm radial wirewound resistor royal ohm 580
+resistors wire wound t471096 prw07wjw12kb00 0r12 7w 5% prw wirewound resistor royal ohm 313
+resistors wire wound t471103 prw07wjw22kb00 0r22 7w 5% prw wirewound resistor royal ohm 2400
+resistors wire wound t471404 prm07wjw82jb00 8r2 7w 5% prm radial wirewound resistor royal ohm 127
+resistors wire wound t541098 prw0awjw15kb00 0r15 10w 5% prw wirewound resistor royal ohm 227
+resistors wire wound t541113 prw0awjw56kb00 0r56 10w 5% prw wirewound resistor royal ohm 384
+resistors wire wound t541119 prw0awjw10jb00 1r0 10w 5% prw wirewound resistor royal ohm 4500
+resistors wire wound t541126 prw0awjw22jb00 2r2 10w 5% prw wirewound resistor royal ohm 170
+resistors wire wound t541128 prw0awjw27jb00 2r7 10w 5% prw wirewound resistor royal ohm 1870
+resistors wire wound t541130 prw0awjw33jb00 3r3 10w 5% prw wirewound resistor royal ohm 118
+resistors wire wound t541132 prw0awjw39jb00 3r9 10w 5% prw wirewound resistor royal ohm 230
+resistors wire wound t541134 prw0awjw47jb00 4r7 10w 5% prw wirewound resistor royal ohm 390
+resistors wire wound t541138 prw0awjw68jb00 6r8 10w 5% prw wirewound resistor royal ohm 198
+resistors wire wound t541140 prw0awjw82jb00 8r2 10w 5% prw wirewound resistor royal ohm 170
+resistors wire wound t541145 prw0awjw150b00 15r 10w 5% prw wirewound resistor royal ohm 345
+resistors wire wound t541148 prw0awjw220b00 22r 10w 5% prw wirewound resistor royal ohm 256
+resistors wire wound t541150 prw0awjw270b00 27r 10w 5% prw wirewound resistor royal ohm 277
+resistors wire wound t541152 prw0awjw330b00 33r 10w 5% prw wirewound resistor royal ohm 182
+resistors wire wound t541158 prw0awjw560b00 56r 10w 5% prw wirewound resistor royal ohm 179
+resistors wire wound t541160 prw0awjw680b00 68r 10w 5% prw wirewound resistor royal ohm 250
+resistors wire wound t541166 prw0awjw121b00 120r 10w 5% prw wirewound resistor royal ohm 39
+resistors wire wound t541178 prw0awjw331b00 330r 10w 5% prw wirewound resistor royal ohm 305
+resistors wire wound t541188 prw0awjw681b00 680r 10w 5% prw wirewound resistor royal ohm 2500
+resistors wire wound t541191 prw0awjw102b00 1k0 10w 5% prw wirewound resistor royal ohm 630
+resistors wire wound t541192 prw0awjw152b00 1k5 10w 5% prw wirewound resistor royal ohm 500
+resistors wire wound t541206 prw0awjw821b00 820r 10w 5% prw wirewound resistor royal ohm 680
+resistors wire wound t541407 prw0awjp153b00 15k 10w 5% prw power film resistor royal ohm 121
+resistors wire wound t541455 prw0awjp273b00 27k 10w 5% prw power film resistor royal ohm 4380
+resistors wire wound t541465 prw0awjw820b00 82r 10w 5% prw wirewound resistor royal ohm 250
+resistors wire wound t541473 prw0awjp222b00 2k2 10w 5% prw power film resistor royal ohm 183
+resistors wire wound t541474 prw0awjp472b00 4k7 10w 5% prw power film resistor royal ohm 1287
+resistors wire wound t541486 prw0awjp332b00 3k3 10w 5% prw power film resistor royal ohm 105
+resistors wire wound t541489 prw0awjp473b00 47k 10w 5% prw power film resistor royal ohm 1050
+resistors wire wound t541494 prw0awjw561b00 560r 10w 5% prw wirewound resistor royal ohm 1
+resistors wire wound t541498 prw0awjw271b00 270r 10w 5% prw wirewound resistor royal ohm 140
+resistors wire wound t541499 prw0awjw181b00 180r 10w 5% prw wirewound resistor royal ohm 40
+resistors wire wound t541500 prw0awjw221b00 220r 10w 5% prw wirewound resistor royal ohm 270
+resistors wire wound t541505 prw0awjw47kb00 0r47 10w 5% prw wirewound resistor royal ohm 200
+resistors wire wound t541506 prw0awjw12jb00 1r2 10w 5% prw wirewound resistor royal ohm 176
+resistors wire wound t541507 prw0awjw15jb00 1r5 10w 5% prw wirewound resistor royal ohm 3
+resistors wire wound t541585 prw0awjw122b00 1k2 10w 5% prw wirewound resistor royal ohm 417
+resistors wire wound t541729 prwaawjw150b00 15r 10w 5% prwa wirewound resistor royal ohm 750
+resistors wire wound t541730 prwaawjw220b00 22r 10w 5% prwa wirewound resistor royal ohm 240
+resistors wire wound t541731 prwaawjw100b00 10r 10w 5% prwa wirewound resistor royal ohm 6182
+resistors wire wound t651175 prt020jw271b00 270r 20w 5% prt wirewound resistor royal ohm 10
+resistors wire wound t652686 prw020wjw270b00 27r 20w 5% prw wirewound resistor royal ohm 239
+resistors wire wound t677194 prm05wjw470b00 47r 5w 5% prm radial wirewound resistor royal ohm 200
+resistors wire wound t741583 prt040jw122b00 1k2 40w 5% prt wirewound resistor royal ohm 650
+resistors wire wound t672744 ac03000001009jac00 10r 2.5 w 5% ac03 wirewound resistor 2322 329 03109 400
+resistors wire wound t673503 ac03000004708jac00 4r7 2.5 w 5% ac03 wirewound resistor 2322 329 03478 400
+resistors wire wound t682444 2322 329 35477 0r47 5w 10% ac05 wirewound resistor 2322 329 35477 44
+resistors wire wound t682447 ac05000001009jac00 10r 5w 5% ac05 wirewound resistor 2322 329 05109 905
+resistors wire wound t682452 ac05000002209jac00 22r 5w 5% ac05 wirewound resistor 2322 329 05229 1
+resistors wire wound t682453 ac05000002201jac00 2k2 5w 5% ac05 wirewound resistor 2322 329 05222 212
+resistors wire wound t682457 ac05000004709jac00 47r 5w 5% ac05 wirewound resistor 2322 329 05479 145
+resistors wire wound t682500 ac05000001500jac00 150r 5w 5% ac05 wirewound resistor 2322 329 05151 781
+resistors wire wound t682842 ac05000006808jac00 6r8 5w 5% ac05 wirewound resistor 2322 329 05688 39
+resistors wire wound t683050 ac05000003308jac00 3r3 5w 5% aco5 wirewound resistor 2322 329 05338 5
+resistors wire wound t683225 ac05000005600jac00 560r 5w 5% ac05 wirewound resistor 2322 329 05561 970
+resistors wire wound t684512 ac05000002208jac00 2r2 5w 5% ac05 wirewound resistor 2322 329 05228 1
+resistors wire wound t723435 ac01000001008ja100 1r0 1w 5% ac01 wirewound resistor 2306 328 33108 1000
+resistors wire wound t677152 ca0001r1100jr88 0r11 1w 5% power wirewound resistor dale 2
+resistors wire wound t374564 905478 0r47 5w kwv radial wirewound resistor vtm 45
+resistors wire wound t475449 907473 47k 7w kwv radial power film resistor vtm 50
+resistors wire wound t476881 907109 1r0 7w kwv radial power film resistor vtm 40
+resistors wire wound t677161 hs50 18j 18r 50w 5% chassis mount wirewound resistor 198
+resistor 10 ohm 5w wirewound axial lead rm 221 p539 50 25j10r nd
+resistor 12k ohm 5w wirewoundaxial lead rm 221 p541 300 25j12k nd
+resistor 20 ohm 5w wirewound axial lead rm 221 p540 50 25j20r nd
+resistor 200 ohm 1% wirewound drawers h18 15 axial lead
+resistor 200k ohm 1% wirewound drawers h19 22 axial lead
+resistor 20k ohm 1% wirewound axial lead box 58 7 16
+resistor 30 ohm 5w wirewound axial lead rm 221 p542 50 25j30r nd
+resistor 40 ohm 5w wirewound axial lead rm 221 p543 50 25j40r nd
+resistor 40k ohm 1% wirewound axial lead box 59 2 16

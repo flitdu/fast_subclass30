@@ -173,3 +173,24 @@ cd30fc303jo3 cd30fc303jo3 nd cap mica 0.03 uf 5% 300v radial
 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 3300pf ± 2% 1.5 kv 云母 55 ° c 125 ° c 通孔 引线 0.437 11.10 mm 0.799 x0.350 20.30 mmx8.90 mm 0.890 22.60 mm
 132 7823 53.0 涤纶 电容 1nf 1kv 云母 电容 3a102jp 5.0 1 3000
 涤纶 电容 1nf 1kv 云母 电容 3a102jp 5.0 1.0 3000.0
+capacitor 1500 pf 100v silver mica radial lead rm 214 13 111
+capacitor 1500 pf 1500v silver mica radial lead rm 214 13 50
+capacitor 1500 pf silver mica radial lead rm 214 14 50
+capacitor 2200 pf silver mica radial lead rm 214 14 150
+capacitor 2500 pf silver mica radial lead rm 214 13 40
+capacitor 2500 pf silver mica radial lead rm 214 14 50
+capacitor 390 pf silver mica radial lead rm 214 13 200
+capacitor 390 pf silver mica radial lead rm 214 21 many
+capacitor 430 pf silver mica radial lead rm 214 14 100
+capacitor 500 pf silver mica radial lead rm 214 13 15
+capacitor 5000 pf silver mica radial lead rm 214 13 40
+capacitor 62 pf silver mica radial lead rm 214 14 100
+c03 1200pf silver mica cd19 cd19 0g passives cornell dubilier fd122j03 5982 19 500v1200 1.8 silver mica
+c04 2200pf silver mica cd19 cd19 0g passives cornell dubilier fd222j03 5982 19 500v2200 2.64 silver mica
+c05 1000pf silver mica cd19 cd19 0g passives cornell dubilier fd102j03 5982 19 500v1000 1.6 silver mica
+c10 560pf silver mica cd19 cd19 0g passives cornell dubilier fd561j03 5982 19 500v560 1.28 silver mica
+c11 1000pf silver mica cd19 cd19 0g passives cornell dubilier fd102j03 5982 19 500v1000 1.6 silver mica
+c13 470pf silver mica cd19 cd19 0g passives cornell dubilier fd471j03 5982 19 500v470 1.28 silver mica
+c26 390pf silver mica cd15 cd15 0g passives cornell dubilier fd391j03 5982 15 500v390 1.22 silver mica
+c27 680pf silver mica cd19 cd19 0g passives cornell dubilier fd681j03 5982 19 500v680 1.5 silver mica
+c28 330pf silver mica cd15 cd15 0g passives cornell dubilier fd331j03 5982 15 500v330 1.79 silver mica

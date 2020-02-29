@@ -296,6 +296,7 @@ tfpt0603l4700jv tfpt0603l4700jv nd thermistor ptc 470 ohm 5% 0603
 prf18be471qs5rb 490 14736 1 nd thermistor ptc 470 ohm 50% 0603
 ptcsl20t091dbe 238167191104 nd thermistor ptc 100 ohm radial
 b59604a85a62 b59604a85a62 nd thermistor ptc 470 ohm 50% 0603
+thermistor rtfpl13s2032200xv220 dip ptc 熱敏 電阻 130 ℃ 19.5 d 20r ± 25% 220v fpl13s2032 200xv220 810
 40.0 prg18bb471mb1rb thermistor ptc 470 ohm smd 2520.0 prg18bb471mb1rb 2520 16 1.6108 8 12days arrow
 18.2 ptc 热敏电阻 smd1812p050tf jk msmd050 4 16
 17 c0200168 ptc 电阻 wmz12a 120sl4510 g8d 45 ω ± 20% dip 90ma 15mm 脚 10mm dip 1 500
@@ -304,4 +305,5 @@ b59604a85a62 b59604a85a62 nd thermistor ptc 470 ohm 50% 0603
 res thermal 470 thermistor ptc ptcsgm3t081dbe ptcsgm3 ptcsgm3t081dbe 600 9920 7000 1000
 热敏电阻 ptc 126a 1 90080 500
 热敏电阻 ptc 101 ω sy15p 1 90081 500
+996510017224 25 03 2009 31 12 9999 th1401 resistor non linear ptc chip 8v 0r4 kmc4s075ry
 118 2 f2 f3 0zcd0150ff2c ptc resttble 33v 1.50 a chip 2920 bel fuse inc 0zcd0150ff2c fuse 0zcd0150ff2c 507 1369 1 nd tbd

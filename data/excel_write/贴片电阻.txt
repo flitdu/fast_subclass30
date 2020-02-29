@@ -2241,3 +2241,4 @@ y13 r01 s005883 smd 1210 1k ohms 1% tol aec q200 ac1210fr 071kl 芯片 电阻 11
 res smd 100k ohm 5% 1 4w 1206 rc1206jr 07100kl 芯片 电阻 1210
 res smd 10k ohm 5% 1 4w 1206 rc1206jr 0710kl 芯片 电阻 815
 res smd 5.23 k ohm 1% 1 4w 1206 rc1206fr 075k23l 芯片 电阻 415
+1 22uh ind0805 l1 587 2046 1 nd inductor 22uh 100ma 10% smd

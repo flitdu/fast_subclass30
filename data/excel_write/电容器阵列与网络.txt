@@ -301,3 +301,7 @@ ckcl22x7r1a224m085aa ckcl22x7r1a224m085aa 电容器 阵列 网络 0805 10v 0.22 
 171 035w118112511 701801005310 电容 smd 180p npo 50v k 1206 8p4c 0603x4 y4c3n181k500ct 6 600 mbs 5330 6.0
 32phk4201 12 c9901 363g107k474bec 996590008525 cap x2 470nf 10% 275v 18 9 13.5 b32922l 452378
 p03 11419r capnt 4caps cer 01 uf 1206 2 mco 12025 153 3 ea cn1 cn2 cn3 ecj rvb1c104m capnt 4caps cer 01 uf 1206 20%
+capacitors cap networks e201024 csa091hz104mf 100nf 9p8c capacitor network csa091hz104mf hosonic 5
+18 4 cn1 cn4 e007353 cap idc low inductance array x7r 47000pf c0508idc 20 6.3 v w2l16c473mat1s rel a004 0022 004
+24 排容 4d03 10%
+24 capacitors corporation ckcl44x7r1h221m085aa 0805 2012 metric cap array 4ch 220pf 50v 0805 2 digi key 445 1830 1 nd 2000 43225 0.06 126.9

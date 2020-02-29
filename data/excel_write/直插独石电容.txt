@@ -26,6 +26,7 @@ sr211c104kaa 280 cap cer 100nf 100v 10% x7r
 sr301c474kaa 10 cap cer 0 47 uf 100v 10% x7r
 sr305c105kaa 50 cap cer 1 uf 50v 10% x7r
 1 2p8901a0 c01 d000035 插件 独石 电容 220pf 50v x7r 10% p 2.5 mm cc1h221kc4pdb44b30mf dersonic 陶瓷 电容 2853
+multilayer ceramic capacitors mlcc leaded 200volts 51pf 5% c0g 2
 63 独石 电容 220pf c9 1 47 uf 50v 6.3 11 aishi 490 1000 0.16 lc
 64 独石 电容 47pf c5 c10 2 1
 65 独石 电容 82pf c11 1 1

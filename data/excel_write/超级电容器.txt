@@ -5,6 +5,10 @@ capacitor eletrolitico conv 0 1f x 5 5v
 1000 capacitor eletrolitico conv 0 1f x 5 5v
 supercap pth 1f 3v6 20% 80% 19x6 5mm 40 a 85 º c eec rg0v105h 5
 supercap pth vertical 330mf 5v5 20% 80% 11 5x4 3mm 25 a 85 º c kr 5r5v334 r 700
+c02104 supercap pth 1f 3v6 20% 80% 19x6 5mm 40 a 85 º c eec rg0v105h 5
+c02114 supercap pth vertical 330mf 5v5 20% 80% 11 5x4 3mm 25 a 85 º c kr 5r5v334 r 700
+0.33 f cap 330mf 20% 80% 5.5 v t h kr 5r5v334 r eaton cap kr 5r5v334 r
+1f cap pol1 c15 1f 5.5 v 1
 142 cap super 0.1 f 5.5 v thd eecf5r5u104 matsushita 6000
 118 cap super 0.47 f 5.5 vdc thd eecs5r5h474 matsushita 4000
 63 capacitor super 1.16 f 16v thd scpm160105 bainacap 1150
@@ -28,4 +32,5 @@ cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
 c1 1 283 2811 nd eaton bussmann kr 5r5c155 r cap 1.5 f 20% 80% 5.5 v t h 5000
 法拉 电容 1.5 f 5.5 v 法拉 电容 ￠ 19 c 1 c1
 42 132912 132556 2 cp dgh105q5r5000 插件 超级 电容 17 85 mm 1f 10% 30% 55 v dgh105q5r5 3 y 0
+1f cap pol1 c15 1f 5.5 v 1
 电解电容 elcap 固态 电容 470 μ f 25v 20% 8 12mm 高频 低阻 12 840.0

@@ -1,3 +1,20 @@
+carbon film resistor cr14w2k4jt 碳膜 電阻 1 4w 5% 2.4 k t 5000
+carbon film resistor cr14w820rjf 碳膜 電阻 1 4w 5% 820r f 50000
+carbon film resistor cr18w68kjm1010 碳膜 電阻 1 8w 5% 68k m 10 10 10 20000
+4.3 r 1 4w 5% carbon film 0.097 2 0.114 291 4.3 rc xicon 291 4.3 rc quantity needed 2
+1k1 1w 5% carbon film 0.158 1 0.114 294 1.1 k rc xicon 294 1.1 k rc quantity needed 1 294 1.1 k rc 1
+2m2 1 4w 5% carbon film 0.114 2 0.097 291 2.2 m rc xicon 291 2.2 m rc quantity needed 2 291 2.2 m rc 2
+3m9 1 4w 5% carbon film 0.097 1 0.493 291 3.9 m rc xicon 291 3.9 m quantity needed 1 291 3.9 m rc 1
+10m 1 4w 5% carbon film 0.097 1 291 10m rc xicon 291 10m quantity needed 1 291 10m rc 1
+碳膜 电阻 1.5 m ω 1 4w smd 1206 1 r1
+碳膜 电阻 200k ω 1 4w smd 1206 1 r2
+碳膜 电阻 2.7 ω 1 4w smd 1206 1 r3
+碳膜 电阻 5.35 k ω 1 8w smd 1% 0805 1 r4
+碳膜 电阻 39k ω 1 8w smd 1% 0805 1 r5
+碳膜 电阻 43k ω 1 8w smd 0805 1 r6
+碳膜 电阻 75k ω 1 8w smd 0805 1 r7
+碳膜 电阻 51k ω 1 8w smd 0805 2 r8 r9
+碳膜 电阻 510 ω 1 4w smd 1206 1 r10
 res 100k ohm 1w 5% axial multi comp mcf 1w 100k 1 600
 res 22k ohm 1 4w 5% axial erd s2tj223v 1 600
 res 10k ohm 1 4w 5% axial erd s2tj103v 1 600
@@ -24,6 +41,43 @@ res carb 33k 2w 5% 6491
 插件 色环 电阻 10m 5% 1 4w 1 5 r32
 1m 0.5 w 5% r40 axial0.5 1.0 100.0 top
 12754053 碳膜 电阻 cfr0w4j0103a50 10k ω ± 5% 1 4w 6.5 2.2 mm m01014 913
+resistors carbon film t133762 cfr0w4j0224a10 220k 0.25 w 5% cfr25 carbon film resistor royal ohm 32000
+2 1k r us 0204 5 r20 r23 1.0 kebk nd res 1.0 k ohm 1 6w 5% carbon film
+18 100 r us 0204 5 r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 r13 r14 r15 r16 r17 r18 100ebk nd res 100 ohm 1 6w 5% carbon film
+1 330 r us 0204 5 r19 330ebk nd res 330 ohm 1 6w 5% carbon film
+resistor 11 ohm axial lead drawers f1 200 carbon 1 4w 5% 11qbk nd
+resistor 120k ohm axial lead drawers f50 200 carbon 1 4w 5% 120kqbk nd
+resistor 130k ohm axial lead drawers f50 200 carbon 1 4w 5% 130kqbk nd
+resistor 160 ohm axial lead drawers f15 200 carbon 1 4w 5% 160qbk nd
+resistor 18k ohm axial lead drawers f40 203 carbon 1 4w 5% 18kqbk nd
+resistor 2.0 k ohm axial lead drawers f28 200 carbon 1 4w 5% 2.0 kqbk nd
+resistor 2.4 k ohm axial lead drawers f29 200 carbon 1 4w 5% 2.4 kqbk nd
+resistor 20 ohm axial lead drawers e2 200 carbon 1 4w 5% 20qbk nd
+resistor 200k ohm axial lead drawers e50 200 carbon 1 4w 5% 200kqbk nd
+resistor 20m ohm axial lead drawers h16 10 1 2w carbon comp of206j nd
+resistor 240 ohm axial lead drawers f17 200 carbon 1 4w 5% 240qbk nd
+resistor 240k ohm axial lead drawers f53 202 carbon 1 4w 5% 240kqbk nd
+resistor 270 ohm axial lead drawers f18 201 carbon 1 4w 5% 270qbk nd
+resistor 3.6 m ohm axial lead drawers h7 200 carbon 1 4w 5% 3.6 mqbk nd
+resistor 330 ohm axial lead drawers f19 202 carbon 1 4w 5% 330qbk nd
+resistor 330k ohm axial lead drawers f55 200 carbon 1 4w 5% 330kqbk nd
+resistor 33k ohm axial lead drawers f43 200 carbon 1 4w 5% 33kqbk nd
+resistor 360 ohm axial lead drawers f19 200 carbon 1 4w 5% 360qbk nd
+resistor 36k ohm axial lead drawers f49 200 carbon 1 4w 5% 36kqbk nd
+resistor 39 ohm axial lead drawers f8 200 carbon 1 4w 5% 39qbk nd
+resistor 470 ohm axial lead drawers f21 200 carbon 1 4w 5% 470qbk nd
+resistor 470k ohm axial lead drawers f57 201 carbon 1 4w 5% 470kqbk nd
+resistor 510k ohm axial lead drawers f57 200 carbon 1 4w 5% 510kqbk nd
+resistor 56 ohm drawers f10 5 axial lead carbon resistor
+resistor 620 ohm axial lead drawers f22 200 carbon 1 4w 5% 620qbk nd
+resistor 680 ohm axial lead drawers f23 200 carbon 1 4w 5% 680qbk nd
+resistor 82 ohm axial lead drawers f12 200 carbon 1 4w 5% 82qbk nd
+resistor 820k ohm axial lead drawers f60 200 carbon 1 4w 5% 820kqbk nd
+resistor 9.1 k ohm axial lead drawers f36 200 carbon 1 4w 5% 9.1 kqbk nd
+resistor 9.1 m ohm axial lead drawers h12 200 carbon 1 4w 5% 9.1 mqbk nd
+resistor 910 ohm axial lead drawers f24 202 carbon 1 4w 5% 910qbk nd
+resistor 910k ohm axial lead drawers f60 203 carbon 1 4w 5% 910kqbk nd
+3.3 k loose 1 8w 3.0 200.0 3.3 k resistor 1 8w 3.3 kebk res 3.3 k ohm 1 6w 5% carbon film 0.056 led
 res 22k ohm 1 4w 5% axial erd s2tj223v
 res 10k ohm 1 4w 5% axial erd s2tj103v
 resistor through hole 620e 0.25 w axial through hole erd s2tj621v
@@ -34,3 +88,4 @@ res 470 ohm 1 4w 5% axial erd s2tj471v
 res 6.8 ohm 1 4w 5% axial erd s2tj6r8v
 res 0.12 ohm 1 4 5% axial rsmf12jtr120
 res 270 ohm 1 4w 5% axial erd s2tj271v
+resistor 15r dip 15r fn 108 3055 pc 11000 yr1b15rcc

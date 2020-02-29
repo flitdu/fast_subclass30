@@ -1,3 +1,4 @@
+osc1 mems osc cmems 50mhz 50ppm 3.3 v 2520 asemb 50.000 mhz lc t abracon 1 5 ct
 tcxo 16.384 mhz pc 30 lftvxo009915 iqd frequency products
 50 crystal osc 25mhz osc fn 127 6647 pc 10.0 lfspxo025165 iqd frequency products
 ecs 3963 270 bn tr 1 oscillator standard 27mhz 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
@@ -9,6 +10,8 @@ sit9121ai 2c2 33e125.000000 sitime osc 125mhz 有源 晶振 lvds 3.3 v smt 5.0 m
 sit9121ai 2c2 33e200.000000 sitime osc 200mhz osc lvds 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 4
 20mhz tcxo 2.5 ppm 3.3 v 1 ic41 smd 5x3.2 mm fox924b 20 fox 924b 20.000 fox 718 20.000 mhz
 crystal osc 16.384 mhz lf vcxo021634
+有源 晶振 1 2520 50mhz 3.3 v 1000
+晶振 40.000 mhz 有源 7050 40.000 mhz 有源 7050 ± 2ppm smd 4 txc 50 50
 st25yy32r768k1v8 32.768 khz 1.8 v 3225 晶振 32.768 khz 1.8 v 3225 3225 1.0 x1602 pdi 整 1.0
 st25yy33r33m3r3v 33.33 mhz 3.3 v 3225 晶振 33.33 mhz 3.3 v ± 20ppm 15pf 3225 3225 1.0 osc1 pdi 整 1.0
 1185 晶振 晶振 32.768 khz 3215 60 60 60
@@ -88,12 +91,31 @@ a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mh
 63 132936 1 tx ecs03225mv050 晶振 ecs 3225mv 500 bn tr 50mhz 晶振 ecs 3225mv 500 bn tr 51mhz y
 p07 19189r crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm 50ppm 41118 302 1 ea x1 eg 2121ca 125 m lgpnl3 crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm 50ppm
 p07 19194r crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm 50ppm 01 56401 306 1 ea x5 sg 310sdf 250000 m b3 crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm 50ppm
+有源 晶振 1 2520 50mhz 3.3 v 1000
 有源 晶振 33.333 mhz 3.3 v 1 abracon asdmb 33.333 mhz cl t y1
 有源 晶振 25mhz 3.3 v 2 ecs ecs 3225mv 250 cn tr y2 y3
 有源 晶振 ecs 3225mv 100 cn tr 1 x4 3225 ecs ecs 3225mv 100 cn tr y1
 有源 晶振 ecs 3225mv 250 cn tr 2 x4 3225 ecs ecs 3225mv 250 cn tr y3 y4
+73 y 1.0 y200 xtal 2.5 and 3.3 v lvpecl osc vectron vcc6 qcd 25m000 25meghz xtalvivcc6qc xtalvivcc6qc
+1 p07 19194r crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm 50ppm 3 u6 u7 u72 sg 310sdf 25.0000 m b3 crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm 50ppm
+1 p13 26930r osc 50mhz 50ppm 18 v clock oscillator smd 5 x 32 mm 1 u51 ecs inc ecs 3518 500 b xx osc 50mhz 50ppm 18 v clock oscillator smd 5 x 32 mm
+1 p13 27220r osc vcxo fs1 148.50 m fs0 148.35 m temp 20ppm tunning slope 90ppm v vdd 2.5 v 5x7mm 1 u54 silicon 516fha000132aag osc vcxo fs1 148.50 m fs0 148.35 m temp 20ppm tunning slope 90ppm v vdd 2.5 v 5x7mm
+1 p07 19698r crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm 1 y5 crystek crystals corporation cvhd 950 122.88 crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm
+1 p13 27150r osc 33.000 mhz 2.5 v cmos 3.2 x 2.5 1 y7 abracon corporation ase2 33.000 mhz et osc 33.000 mhz 2.5 v cmos 3.2 x 2.5
+crystals resonators xtal osc z124631 kc7050a100.000 c30e00 100.00 mhz 3.3 v 7x5mm smd xtal kc7050a100.000 c30e00 584
+116 y 1.0 y301 ic vcxo ultra low phase noise oscillator sine crystek corporation cvss 945 122.880 122.88 meghz lcc4h210 lcc4
+117 y 1.0 y401 ic xtal vcfo volt ctrl osc crystek corporation cvco33cx 2500 2500 2.5 ghz lcc16 b
+10 n y1 ic oscillator voltage controlled osc toyocom tco 2111 60 800mhz osctco2100 osctco2100
+82 y 1 y2 ic crystal resistance weld smd fox 278lf 24mhz 24.000 mhz ysml461w197h177 ysml461w197h177
+78 1 u25 vco 245.76 mhz na oscvectron vs50 toyocomm tco 2111
+68 y 1 y502 acmos lsttl compatible clk osc 80mhz xtalcb3lv h90 valpey fisher vfac3hl80 n y
+99 n y501 ic oscillator voltage controlled osc 60 800mhz osctco2100 toyocom tco 2111 n y
 68 abracon achl 50.000 mhz ek abracon corporation achl 50.000 mhz ek 1 700 achl 50.000 mhz ek abracon 40.0 700 1.26 7 12days
+63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd no lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425
 crystal 有源 晶振 smdxtal3225 7.3728 m 1.0 50.0 1.0
+osc xo 25.0000 mhz cmos smd kc2520k25.0000 c1ge00 1.0 1.089 1.089 corp kyocera corp y3 1000.0
+8m 5070 33 v 8mhz 5070 33 v 有源 晶振 20 201711 15
+8m 5070 33 v 110592 mhz 5070 33 v 有源 晶振 20 201711 15
 crystal oscillator 100mhz o100m000000l434
 有源 单端 晶振 27mhz 有源 晶振 5032 smd5032 1 y3 力天 3
 有源 单端 晶振 50mhz 有源 晶振 5032 smd5032 1 y4 力天 3

@@ -1,3 +1,64 @@
+3538 y4c3n181k500lt uy4c3c181kct 排阻 180pf ± 10% 50v pb free poe 4000
+16708 ra 03104j 排阻 2800
+18867 yc158tjr 0710k 電阻 陣列 1206 10k ω ± 5% 5000
+r13 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 65.25 55.25 180
+r14 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 67.75 55.25 180
+r16 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 70.25 55.25 180
+r17 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 72.75 55.25 180
+r19 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 75.25 55.25 180
+r20 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 77.75 55.25 180
+r21 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 49.75 90
+r23 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 44.75 90
+r24 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 42.25 90
+r25 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 39.75 90
+r26 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 37.25 90
+r27 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 34.75 90
+r28 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 32.25 90
+rm1 yc164 jr 0710kl 1 3216 resistor array 10k f x4 yaego
+排列 電阻 ar10p9rg100r 排阻 10p9r 2% 100r 8000
+排列 電阻 ar10p9rg10k 排阻 10p9r 2% 10k 8200
+排列 電阻 ar10p9rg1k 排阻 10p9r 2% 1k 17000
+排列 電阻 ar10p9rg220r 排阻 10p9r 2% 220r 12000
+排列 電阻 ar10p9rg2k 排阻 10p9r 2% 2k 6800
+排列 電阻 ar10p9rg3k3 排阻 10p9r 2% 3.3 k 5000
+排列 電阻 ar10p9rg470r 排阻 10p9r 2% 470r 6000
+排列 電阻 ar4p3rg22k 排阻 4p3r 2% 22k 1000
+排列 電阻 ar5p4rg10k 排阻 5p4r 2% 10k 4000
+排列 電阻 ar5p4rg330k 排阻 5p4r 2% 330k 1400 1000
+排列 電阻 ar6p3rg100k 排阻 6p3r 2% 100k 11000
+排列 電阻 ar6p3rg10k 排阻 6p3r 2% 10k 9000
+排列 電阻 ar6p3rg1k 排阻 6p3r 2% 1k 15000
+排列 電阻 ar6p3rg2k 排阻 6p3r 2% 2k 5000
+排列 電阻 ar6p3rg3k3 排阻 6p3r 2% 3.3 k 10000
+排列 電阻 ar6p3rg470r 排阻 6p3r 2% 470r 13000
+排列 電阻 ar6p5rg1k 排阻 6p5r 2% 1k 1000
+排列 電阻 ar6p5rg2k2 排阻 6p5r 2% 2.2 k 2000
+排列 電阻 ar7p6rg10k 排阻 7p6r 2% 10k 1000
+排列 電阻 ar8p4rg100r 排阻 8p4r 2% 100r 2000
+排列 電阻 ar8p4rg10k 排阻 8p4r 2% 10k 1000
+排列 電阻 ar8p4rg510r 排阻 8p4r 2% 510r 1000
+排列 電阻 ar8p7rg2k2 排阻 8p7r 2% 2.2 k 2000
+排列 電阻 ar9p8rg10k 排阻 9p8r 2% 10k 8600
+排列 電阻 ar9p8rg1k 排阻 9p8r 2% 1k 2000
+排列 電阻 ar9p8rg220r 排阻 9p8r 2% 220r 4000
+排列 電阻 ar9p8rg2k2 排阻 9p8r 2% 2.2 k 2000
+排列 電阻 ar9p8rg330k 排阻 9p8r 2% 330k 3000
+排列 電阻 ar9p8rg4k7 排阻 9p8r 2% 4.7 k 4800
+排列 電阻 cra024rj39rq10 smd 排阻 0402 4 8p4r 5% 39r 30000
+排列 電阻 cra034rf100kp05 smd 排阻 0603 4 8p4r 1% 100k 5000
+排列 電阻 cra034rf22rp05 smd 排阻 0603 4 8p4r 1% 22r 30000
+排列 電阻 cra034rf56rp05 smd 排阻 0603 4 8p4r 1% 56r 5000
+排列 電阻 cra034rj0rp05 smd 排阻 0603 4 8p4r 5% 0r 5000
+排列 電阻 cra034rj100rp05 smd 排阻 0603 4 8p4r 5% 100r 15000
+排列 電阻 cra034rj10kp05 smd 排阻 0603 4 8p4r 5% 10k 10000
+排列 電阻 cra034rj330rp05 smd 排阻 0603 4 8p4r 5% 330r 15000
+排列 電阻 cra034rj33rp05 smd 排阻 0603 4 8p4r 5% 33r 115000
+排列 電阻 cra034rj39rp05 smd 排阻 0603 4 8p4r 5% 39r 20000
+排列 電阻 yc164fr0751r1l smd 排阻 0603 4 8p4r 1% 51.1 r 5000
+排列 電阻 yc164fr0751rl smd 排阻 0603 4 8p4r 1% 51r 25000
+排列 電阻 yc164jr0710kl smd 排阻 0603 4 8p4r 5% 10k 5000
+排列 電阻 yc164jr071kl smd 排阻 0603 4 8p4r 5% 1k 5000
+rm1 resistor array 10k j 1 16w 1608x4 tc164 jr 0710kl yaego 1 5 ct
 电阻 排 330 ω ± 1% yc164 50 8p4r 0603 0603 4 330r 5%
 电阻 排 470 ω ± 1% yc164 50 8p4r 0603 0603 4 470r 5%
 电阻 排 1k ω ± 1% yc164 50 8p4r 0603 0603 4 1k 1%
@@ -10,6 +71,7 @@
 10 er0000040 res net smd 1206 4x 1k res net smd 1206 4x 2k rn8 rn9 rn10 rn23 rn24 rn25
 10 er0012300 res net smd 1206 4x 0r res net smd 1206 4x 1r rn6
 1.0 er0014530 smd net res 0603 220r 1% smd net res 0603 220r 2% r180 r187 r229 r245 r276 r281 rc0603fr 07220r
+y4100ct nd ecg va exb v8v100jv res array 10 ohm 5% 4 res smd 504 y4100ct nd res array 10 ohm 5% 4 res smd 0.074
 18 742c083221jptr cts resistor networks arrays 220ohms 50v 5% 315 742c083221jptr cts 315 315 0.14 7 10days
 w array 4x10k 0.2% tft3i014 conform 17600 1760 jane
 1019 电阻 排阻 4.7 k 0402 8p 50 50 1
@@ -82,12 +144,80 @@ res array 8 res 10k ohm 2512 yc358tjk 0710kl 排阻 1200
 4.0 rp1 rp2 rp3.1 rp3.2 10k r array 4d03 10k 1% 0.062 w 50v 4d03 tc164 fr 0710kl
 1 133048 1 nr cn1j4kttd101j 排阻 0603x4 100r ± 5% cn1j4kttd101j 63 n 0
 2 133048 1 nr2 d0300004r7kj 排阻 2d03 47 k ± 5% 63 n 0
+996510023435 25 03 2009 31 12 9999 rp5118 resistor fixed others 20w rst r ar 8p4r 22 ohm 5% 1 16w
+996510023449 25 03 2009 31 12 9999 rp5117 resistor fixed others 20w rst r array 150r 1 16w 5% 8p4r
 32phk4201 12 rp201 061g 1262208jt 996590000113 rst net 22r 5% 1 16w 452378
 32phk4201 12 rp202 061g 1262208jt 996590000113 rst net 22r 5% 1 16w 452378
 p02 16648r resnet 51 ohm 5% 025 w 8 0402 resistors 38 x16 mm smd 53128 90 3 ea rn2 rn3 rn4 exb 2hv510jv resnet 0402 51 ohms 5%
+rn1 rn3 exb v4v103jv resistor array 10k0 1% 606
+rn1 rn3 exb v4v103jv resistor array 10k0 1% 606
+resistors resistor networks t784634 cat16 221j4 220r 8p4r 5% 1206 resistor network cat16 221j4 5000
+resistors resistor networks t787063 cay16 151j4lf 150r 8p4r 5% 1206 resistor network cay16 151j4lf 5000
+resistors resistor networks t787110 cat16 151j4lf 150r 8p4r 5% 1206 resistor network 10000
+resistors resistor networks t795646 4608x 102 103lf 10k 8p4r sil resistor network 4608x 102 103lf 300
+resistors resistor networks t795649 4608x 102 472lf 4k7 8p4 sil resistor network 4608x 102 472lf 300
+resistors resistor networks t796137 4608x 102 470lf 47r 8p4r sil resistor network 4608x 102 470lf 1100
+resistors resistor networks t797155 cay17 103jalf 10k 5% 10pin dual ground resistor network 420
+resistors resistor networks t797658 4114r 1 272lf 2k7 14p7r resistor network 40
+resistors resistor networks t797665 744c083681jp 680r 5% resistor network cts 4000
+resistors resistor networks t794748 8223 22k 8p7r rna sil resistor network eurohm 400
+resistors resistor networks t796125 9331 330r 9p8r 2% rnla sil resistor network eurohm 300
+resistors resistor networks t791634 raa07473g 47k 7p6r 5% rna sil resistor network hosonic 884
+resistors resistor networks t793100 raa06102g 1k0 6p5r 5% rna sil resistor network hosonic 348
+resistors resistor networks t791592 rnla09g0471b0e 470r 9p8r 2% rnla sil resistor network royal ohm 833
+resistors resistor networks t791593 rnla09g0102b0e 1k0 9p8r 2% rnla sil resistor network royal ohm 4201
+resistors resistor networks t791594 rnla09g0472b0e 4k7 9p8r 2% rnla sil resistor network royal ohm 205
+resistors resistor networks t791595 rnla09g0103b0e 10k 9p8r 2% rnla sil resistor network royal ohm 15
+resistors resistor networks t791596 rnla09g0473b0e 47k 9p8r 2% rnla sil resistor network royal ohm 1745
+resistors resistor networks t791597 rnla09g0104b0e 100k 9p8r 2% rnla sil resistor network royal ohm 333
+resistors resistor networks t791599 rnla09g0105b0e 1m0 9p8r 2% rnla sil resistor network royal ohm 1393
+resistors resistor networks t791600 rnla05g0101b0e 100r 5p4r 2% rnla sil resistor network royal ohm 2583
+resistors resistor networks t791601 rnla05g0471b0e 470r 5p4r 2% rnla sil resistor network royal ohm 202
+resistors resistor networks t791602 rnla05g0102b0e 1k0 5p4r 2% rnla sil resistor network royal ohm 1600
+resistors resistor networks t791603 rnla05g0472b0e 4k7 5p4r 2% rnla sil resistor network royal ohm 1000
+resistors resistor networks t791604 rnla05g0103b0e 10k 5p4r 2% rnla sil resistor network royal ohm 4375
+resistors resistor networks t791605 rnla05g0473b0e 47k 5p4r 2% rnla sil resistor network royal ohm 1000
+resistors resistor networks t791606 rnla05g0104b0e 100k 5p4r 2% rnla sil resistor network royal ohm 516
+resistors resistor networks t791609 rnlb08g0101b0e 100r 8p4r 2% rnlb sil resistor network royal ohm 200
+resistors resistor networks t791612 rnlb08g0102b0e 1k0 8p4r 2% rnlb sil resistor network royal ohm 2570
+resistors resistor networks t791613 rnlb08g0472b0e 4k7 8p4r 2% rnlb sil resistor network royal ohm 2550
+resistors resistor networks t791614 rnlb08g0103b0e 10k 8p4r 2% rnlb sil resistor network royal ohm 453
+resistors resistor networks t791616 rnlb08g0104b0e 100k 8p4r 2% rnlb sil resistor network royal ohm 2208
+resistors resistor networks t791639 rnla08g0103b0e 10k 8p7r 2% rnla sil resistor network royal ohm 950
+resistors resistor networks t791643 rnla09g0223b0e 22k 9p8r 2% rnla sil resistor network royal ohm 1900
+resistors resistor networks t791647 rnlb08f4702b0e 47k 8p4r 1% rnlb sil resistor network royal ohm 25
+resistors resistor networks t791661 rnla09g0222b0e 2k2 9p8r 2% rnla sil resistor network royal ohm 1753
+resistors resistor networks t791685 rnla09g0331b0e 330r 9p8r 2% rnla sil resistor network royal ohm 1631
+resistors resistor networks t791687 rnlb08g0331b0e 330r 8p4r 2% rnlb sil resistor network royal ohm 2572
+resistors resistor networks t791847 rnla06f4701b0e 4k7 6p5r 1% rnla sil resistor network royal ohm 1115
+resistors resistor networks t792575 rnlb08g0154b0e 150k 8p4r 2% rnlb sil resistor network royal ohm 1000
+resistors resistor networks t792645 rnla09g0561b0e 560r 9p8r 2% rnla sil resistor network royal ohm 1342
+resistors resistor networks t792877 rnla11f1003b0e 100k 11p10r 1% rnla resistor network royal ohm 1750
+resistors resistor networks t792878 rnla04f1003b0e 100k 4p3r 1% rnla sil resistor network royal ohm 1314
+resistors resistor networks t792879 rnla08f1003b0e 100k 8p7r 1% rnla sil resistor network royal ohm 710
+resistors resistor networks t793026 rnlb08g0221b0e 220r 8p4r 2% rnlb sil resistor network royal ohm 250
+resistors resistor networks t793607 rnla05g0152b0e 1k5 5p4r 2% rnla sil resistor network royal ohm 1000
+resistors resistor networks t793609 rnlb08g0152b0e 1k5 8p4r 2% rnlb sil resistor network royal ohm 2450
+resistors resistor networks t783583 2350 033 10102 1k0 8p4r 5% arv341 0805 rsn 2350 033 10102 phycomp 5000
+resistors resistor networks t785182 2350 034 10183 18k 8p4r 5% arc241 1206 rsn 2350 034 10183 phycomp 5000
+32 5 r57 r59 r60 r61 r62 resistor array 22 ohm 16 pin 8 resistors 22 ohm r 742 cts 742c163220jptr
+33 1 r58 resistor array 8 pin 4 resistors 22 ohm 22 ohm res arry cts 742c083220jptr
 14 电阻 排 330 ω ± 1% yc164 50 8p4r 0603 0603 4 330r 5% 4d03wgj0331t5e 5000 50 0.0112 公差 5% lc
 15 电阻 排 470 ω ± 1% yc164 50 8p4r 0603 0603 4 470r 5% 4d03wgj0471t5e 5000 100 0.0163 凸 电极 lc
 16 电阻 排 1k ω ± 1% yc164 50 8p4r 0603 0603 4 1k 1% rta03 4d1001ftp 5000 50 0.0334 凸 电极 lc
+1.39 r55 r56 r57 2k array resistor 2k 排阻 res smd array 2k ohm 5% 1 16w 1206 yc164 jr 072kl 3
+7 排阻 4d03 5%
+resistor 1 k ohm network box 15 24 90
+resistor 10k ohm network box 65 13 43
+resistor 10k ohm res network smt box 30 10 40 752 091 10kbk nd
+resistor 2.7 k ohm resistor network box 65 1 22
+1k sip10 1.0 17.0 1k sip10 4310r 1 102 nd res net 10 sip bussed 1k ohm 0.65 adc
+100 ohm dip16 1.0 17.0 100 ohm dip16 4116r 1 101 nd res net 16 dip isolated 100 ohm 0.6 dio
+3.3 k sip10 3.0 51.0 3.3 k sip10 4310r 1 332 nd res net 10 sip bussed 2.7 k ohm 0.65 pullup
+1k sip8 iso quad 1.0 17.0 1k sip8 iso quad 4308r 2 102 nd res net 8 sip isolated 1k ohm 0.54 dac
+10k dip16 1.0 17.0 10k dip16 4116r 1 103 nd res net 16 dip isolated 10k ohm 0.6 dac
+1k dip16 1.0 17.0 1k dip16 4116r 1 102 nd res net 16 dip isolated 1k ohm 0.6 adc
+680 ohm sip10 1.0 17.0 680 ohm sip10 4310r 1 681 nd res net 10 sip bussed 330 ohm 0.65 led
 48 yc164 jr 0751rl res array 4 res 51 ohm 1206 yc164 jr 0751rl 1 1000 0 yc164 jr 0751rl 1000 0.0068 9 16days dgk
 排阻 4.7 k 9 直插 1000
 rr1 rr4 1k ohm sip 6 pin 5 resistors 2 2 652 4606x 1lf 1k 0.44 r pack5

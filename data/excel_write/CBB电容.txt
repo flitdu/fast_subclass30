@@ -9,6 +9,7 @@ cbb22 105j 400v capacitance 1 µ frated voltage 400vtolerance 5% 10.0 c1
 cbb22 334j 400v capacitance 0.33 µ frated voltage 400vtolerance 5% 10.0 c8
 cbb 电容 cbb22 105 630v 25mm 脚距 25mm 法拉 c1 cy4 1000
 cbb 电容 cbb22 104 4 50v 10mm cbb10mm 法拉 cbb1 1000
+金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
 12.0 1000057.0 电容 0.47 uf 100v cbb 电容 直插 脚距 5mm rad 0.2 100 1
 rad 200mil cbb 电容 1 uf 200v 10% 5mm 1 uf 0.1 discrete 1 50 c30 直插 1
 聚丙烯 电容 cbb63v 104 rad 3000

@@ -1,9 +1,17 @@
 smd 功率 电感 2.2 uh 1.8 a power inductor 25x20x12 2.2 uh ± 20% 0.166 ω 1.8 a l2520 swpa252012s2r2mt l800 1.0 5
 smd 功率 电感 3.3 uh 6a power inductor 8065 3.3 uh ± 30% 6a 0.018 8.0 8.0 6.5 mm lc 12x12 swpa8065s3r3mt l1200 1.0 5
+17386 vlc5045t 2r2n 固定 電感 fixed inductor 2.2 uh 5a 22 mohms 1500 reel 3250
+18332 sd3316dhp 2r2m 電感 smd inductor 2.2 uh 7.8 a 13.2 x9.9 x6.35 mm 信德 sde 886
+1 l1 inductor 6.8 uh 4.0 a 30% smd taiyo yuden nr8040t6r8n
+6.8 uh inductor 6.8 uh 2.3 a 20% smd5030 l1 taiyo yuden nrs5030t6r8mmgj 1
+6.8 uh inductor 6.8 uh 4.0 a 30% smd l1 taiyo yuden nr8040t6r8n 1
 46 l14 l13 48 功率 电感 4.7 uh cd4x4 l4d16 2
 47 l18 49 功率 电感 2.2 uh 0.7 a 3x3 ind 3x3 1
 48 l2 l12 46 功率 电感 4.7 uh cd4x4 l4d16 2
 49 l3 47 功率 电感 10uh 4a 7x7mm gcda0630 100m cd7x7 1
+smrh74 220mt 22uh 功率 电感 smrh74 1000.0 2650.0
+31 1 e020167 inductor shielded power 0.22 uh l1008 a 20 l3 coilcraft pfl2510 221meb rel
+32 1 e019591 inductor power 2.2 uh lsml75w79h39 20 l4 coilcraft xpl2010 222mlb rel
 indutor smd 10uh 6a 20% rl rh mk srr1280 100m 5600 srr1280 100m 4400.0 0.3837 10 12days 4400 verical
 71 power chip inductor 1812ps series 22uh 600 reel 1812ps 223mc coil craft reel 22.0
 72 power chip inductor 1812ps series 4532 100uh 600 reel 1812ps 104mlc coil craft reel 3.0
@@ -84,6 +92,11 @@ l3 功率 电感 220uh cd43 1
 l2 l4 功率 电感 47uh cd43 2
 功率 电感 功率 电感 lqh5bpb4r7nt0 ind5.0 x5.0 x2.0 ind5x5 1
 24 2 l1 2 ind 3.3 uh 5.6 a 21 mohm smd srn8040 3r3y 0.0
+81 power inductor 2.2 uh 1.5 a 2512 sph252012h2r2mt swpa252012s2r2mt lqm2hpn2r2mg0l 3 l2 l4 l20 hsl1008
+82 power inductor 1uh 6a 7x6.5 mm swpa6045s1r0nt pcmc063t 1r0mn mpt730 r10m1 2 l17 l18 ind2 72x65
+83 power inductor 4.7 uh 4a 7x6.5 mm swpa6045s4r7mt pcmc063t 4r7mn fepi0603h 4r7m k01 3 l44 l57 l58 ind2 72x65
+11 inductor 5.2 x 5.2 x 2.8 mm 2.8 a 3.3 uh sru5028 3r3y fn 136 2085 pc 100.0 sru5028 3r3y
+12 inductor 5.2 x 5.2 x 2.8 mm 2.2 a 4.7 uh sru5028 4r7y fn 136 2087 pc 200.0 sru5028 4r7y
 11 inductor 5.2 x 5.2 x 2.8 mm 2.8 a 3.3 uh sru5028 3r3y fn 136 2085 pc 100.0 sru5028 3r3y
 12 inductor 5.2 x 5.2 x 2.8 mm 2.2 a 4.7 uh sru5028 4r7y fn 136 2087 pc 200.0 sru5028 4r7y
 2 l4 l5 47uh 3a l smd 12 smd
@@ -94,23 +107,57 @@ l5 chip inductor 3a mpz2012 0805 l corporation mpz2012s221atd25
 电感 100uh 100uh ± 20% 5a 17.2 17.2 7mm smt ihlp6767gzer101m11
 电感 15uh 15uh ± 20% 6.4 a 12.3 12.3 10mm smt coilcraft mss1210 153meb
 电感 6.8 uh 6.8 uh ± 20% 8a 10.9 10.3 4mm smt ihlp4040dzer6r8m01
+电感 100uh 100uh ± 20% 5a 17.2 17.2 7mm smt ihlp6767gzer101m11
+电感 15uh 15uh ± 20% 6.4 a 12.3 12.3 10mm smt coilcraft mss1210 153meb
+电感 6.8 uh 6.8 uh ± 20% 8a 10.9 10.3 4mm smt ihlp4040dzer6r8m01
 l1 srn4026 100m inductor 10uh 20% 4x4mm
 indutor pth 68uh 1a emg0580 599
 indutor pth 2.2 uh 2a azul emg0818 2
 indutor smd ferrite blindado 2 2uh 20% 10 9a dr125 2r2 r 19
+c24001 indutor pth 68uh 1a emg0580 599
+c24012 indutor pth 2.2 uh 2a azul emg0818 2
+c24016 indutor radial pth 68uh 10% 2a lhl13tb680k 720
+c24021 indutor smd ferrite blindado 2 2uh 20% 10 9a dr125 2r2 r 19
+电感 do3316p 103mld 10uh 39a 20 梅县 线艺
 电感 do3316p 103mld 10uh 39a 20 梅县 线艺
 功率 电感 22uh 3a 表贴 cdrh127 1 标准件
 lps4018 103mrb fixed inductors 10 uh 1.25 a 20% smd shielded 17310
 srn8040 150m 15uh 2.4 a fixed ind 15uh 2.4 a 70 mohm smd 6760
 xal5050 223mec 22uh 20% 5.28 5.48 5.1 mm coilcraft 3 51.0
 slf12575t 470m2r7 pf l 47u 20% 3a 12.5 x12.5 x7.5 smd12.5 x12.5 x7.5 1.0 1.0 5
-cd54 22uh cd54 22uh 5.28 x5.48 power 5.28 x5.48 台产 xg 2.0 2.0 10
+cd54 22uh cd54 22uh 5.28 x5.48 power 5.28 x5.48 xg 2.0 2.0 10
 lqw18an10nj8z 10nh 1600ma ± 5% 0.052 ω 4750mhz 0603 1.0 1.0 5
 sumida 47uh 2a cdrh104r 470 10 10 0 2200 1950
 sumida 100uh 2a cdrh127 101 12 12 0 1000 500
 smd 功率 电感 2.2 uh 1.8 a power inductor 25x20x12 2.2 uh ± 20% 0.166 ω 1.8 a l2520 swpa252012s2r2mt l800 1.0 5
 smd 功率 电感 3.3 uh 6a power inductor 8065 3.3 uh ± 30% 6a 0.018 8.0 8.0 6.5 mm lc 12x12 swpa8065s3r3mt l1200 1.0 5
+l1 ind shielded 2.2 uh 3.5 a 4x4x2mm smt xfl4020 222mec coilcraft 0 10 100
+fixed ind 22uh 23 a 55 mohm th 744772220 732 3766 nd inc
+fixed ind 22uh 3a 50 mohm smd 7447714220 732 2992 1 nd inc l1
+2.2 uh fixed ind 2.2 uh 4.2 a 50.1 mohm ihlp2020bzer2r2m01 dale ind ihlp2020bzer2r2m01
+4.7 uh fixed ind 4.7 uh 5.5 a 40 mohm smd ihlp2525czer4r7m01 dale ind ihlp2525cz 01
+功率 电感 10uh ± 20% dcr0.05 r idc3.2 a 10 10 5mm l 5x5 l8 1 27000
+smrh74 220mt 22uh 功率 电感 smrh74 1000.0 2650.0
+10 10 4.5 100uh 2a 230
+10 10 4.5 100uh 2a 155
+10 10 4.5 100uh 2a 105
+10 10 4.5 100uh 2a 310
+10 10 4.5 100uh 2a 100
+ind 22uh 60 a 23mohm l2 1 coilcraft ser1390 223mlb productdetail coilcraft ser1390 223mlb qs mbwmfv9clf0eqfhvnffpja% 3d% 3d 5000 10000
+ind 22 uh 15 a 72mohm l7 1 taiyo yuden nr3015t2r2m product detail en taiyo yuden nr3015t2r2m 587 1648 1 nd 1008263 5000 10000
+ind 33 uh 92 a 177 mohm l8 1 ihlp3232dzer3r3m01 product detail en dale ihlp3232dzer3r3m01 541 1373 1 nd 2657482 5000 10000
+28 l1 l2 ind 3.3 uh shielded 5.5 a smt 7.6 x7.6 mm dr74 3r3 r cooper bussmann smd 4 8 2 200 200
+4.7 uh ind pwr 4.7 uh 100khz 1.2 a 20% smt coilcraft lps3015 472ml l1 ind coilcraft 3x3mm 20
+fixed ind 4.7 uh 800ma 180 mohm lqm2hpn4r7mgcl 7050
+电感 1 2512 2.2 uh 2.3 a 1000
+电感 4 1210 1uh 1.8 a 4000
+功率 电感 cd43 2.2 uh 1a 1.00 5k
 29.0 电感 xal5050 223mec 22uh 20% 5.28 5.48 5.1 mm coilcraft 28
+495 1783 1 nd inc va b82442h1103k inductor 10uh 1000ma 2220 10% 48 495 1783 1 nd inductor 10uh 1000ma 2220 10% 1.476
+445 1752 1 nd corporation va nlcv25t 1r0m pf inductor power 1uh 1008 96 445 1752 1 nd inductor power 1uh 1008 0.1998
+16 10 l1 l2 l3 l4 l5 l6 l8 l10 l11 l12 1uh inductor ww pwr 1.0 uh 1050ma 10% nlc453232t 1r0k pf indm4532x340n 445 1944 6 nd 0.47 4.699999999999999 0.3105 3.105
+17 2 l7 l9 15uh inductor ww pwr 15uh 450ma 10% nlc453232t 150k pf indm4532x340n 445 1958 6 nd 0.47 0.94 0.3105 0.621
+18 4 l24 l25 l26 l27 inductor 4.7 uh 3.2 a smd dale ihlp2020bzer4r7m11 indm5551x200n 541 1222 1 nd 2.4 9.6 1.66 6.64
 96 inductor 100uh 25 a smd 7447709101 w ü gmbh co kg 14000 jane
 65 inductor pw 4.7 uh 20% 2.1 a smd smtdrs0745 4r7m 3l croporation 46000
 66 inductor emi 100uh x2 15 a thd 744841210 w ü gmbh co kg 15600 jane
@@ -168,6 +215,7 @@ nr6028t220m fixed ind 22uh 1.4 a 175.5 mohm taiyo 424 0.1718 8 12days arrow
 2100ht 680 v rc fixed ind 68uh 5.1 a 44 mohm th 102 1.499 8 12days arrow
 srn3015 100m fixed ind 10uh 1a 276 mohm smd 350 0.2683 8 14days master
 电感 inductor 3.3 uh swpa5040s3r3nt 5.0 5.0 4.0 30% 15 000 0 2017 09 21 2017 09 21 swpa5040s3r3nt 15000 0.268 2
+电感 56uh indc7.8 x7.8 l1 power inductor smd 56uh 0.68 a ± 20% 7.3 x7.3 x3mm ms73 560mt 1
 71 320001210 2 3500 power inductor 6.8 uh 20% rdc 0.176 ohm idc 0.96 a smd nr3015t6r8m tayo yuden
 电感 10uh 100 ± 20% 0.38 ω 1.4 a smd 40 40mm 1
 电感 10uh 100 ± 20% 0.38 ω 1.4 a smd 40 40mm 3000
@@ -398,9 +446,16 @@ l1 inductor power smd cdrh104rnp 220nc 22uh cdrh104rnp 220nc 50 l 10 sumida
 l 043 coilcraft 0603hp r22xglu 220nh 280ma 0603 5520
 l 044 coilcraft mss1260 333mlb 33uh 4a 20% 12.3 x12.3 x6mm 230
 32phk4201 12 l704 373g0806229cmc 996595005944 chip ind 2.2 uh 20% 1.2 a 0.12 r cpi2016pf 452378
+1 l202 1uh inductor smt 1uh tol 20% 11.5 a 744316100 inc
+1 l501 15uh inductor smt shielded 15uh tol 20% 2a 74404054150 inc
+1 l701 33uh inductor smt magnetically shielded 33uh tol 20% 1.2 a 74404054330 inc
 p04 09435r ind 0805 15 amps 330 mco 387 253 1 ea l7 blm21pg331sn1 ind ferrite bead 0805 15 amps 330
 p04 16985r ind power 20 uh 20% 115 a 7mohm smd 7x69 x48 mm 55422 259 1 ea l2 7443142 ind power 20 uh 20% 115 a 7mohm smd 7x69 x48 mm
 p04 17025r ind power 033 uh 7% 30a 037 mohm smd 10x7x7 mm mco 11749 261 2 ea l3 l4 744308033 ind power 033 uh 7% 30a 037 mohm smd 10x7x7 mm
+10 10 4.5 100uh 2a 230
+10 10 4.5 100uh 2a 105
+电感 1 2512 2.2 uh 2.3 a 1000
+电感 4 1210 1uh 1.8 a 4000
 电感 3.3 uh 30% 4.3 a 4 pl2 5 0x5 0 74404054033 l16 l18 l25 l26
 电感 2.2 uh 20% 16.5 a 1 pl2 8 4x7 9 7443340220 l17
 电感 22uh 20% 3a 1 pl2 10 0x11 2 sdr1105 220ml l24
@@ -409,28 +464,96 @@ p04 17025r ind power 033 uh 7% 30a 037 mohm smd 10x7x7 mm mco 11749 261 2 ea l3 
 电感 1uh 5a 1 eisos 74437324010 l1
 电感 4.7 uh 5a 1 coilcraft xal5030 472meb l2
 电感 6.9 uh 3 pl2 9 1x8 4 toko fdv0840 6r9m l2 l3 l4
+38 y 1.0 l702 inductor shielded power coilcraft xfl4020 332meb 3.3 uh lsmsq157h83 lsmsq157h83 20
+39 y 1.0 l703 inductors shielded power coilcraft pfl3215 222meb 2.2 uh lsmsq116h59 lsmsq116h59 20
+40 y 1.0 l705 inductor shielded power coilcraft xfl4020 102meb 1uh lsml126w90h59 20
+41 y 1.0 l706 inductor shielded power coilcraft lps4012 331ml 0.33 uh lsmsq154h47 20
+42 y 1.0 l802 inductor shielded power coilcraft xfl4020 222meb 2.2 uh lsmsq157h83 20
+43 y 1.0 l803 inductor shielded power coilcraft lps4018 102nlb 1uh lsmsq154h71 30
+pn 30005 ind 22uh 60 a 23mohm l2 1 coilcraft ser1390 223mlb productdetail coilcraft ser1390 223mlb qs mbwmfv9clf0eqfhvnffpja% 3d% 3d
+pn 30004 ind 22 uh 15 a 72mohm l7 1 taiyo yuden nr3015t2r2m product detail en taiyo yuden nr3015t2r2m 587 1648 1 nd 1008263
+pn 30000 ind 33 uh 92 a 177 mohm l8 1 ihlp3232dzer3r3m01 product detail en dale ihlp3232dzer3r3m01 541 1373 1 nd 2657482
+28 l1 l2 ind 3.3 uh shielded 5.5 a smt 7.6 x7.6 mm dr74 3r3 r cooper bussmann smd 4 8 2 200 200
+24 2 l1 2 ind 3.3 uh 5.6 a 21 mohm smd srn8040 3r3y 0.0
+22 l1 ind shielded 2.2 uh 3.5 a 4x4x2mm smt xfl4020 222mec coilcraft 0 10 100
+36 l2 l5 ind 1.0 uh 1.0 a pk 1210 nlcv32t 1r0m pf 0 4 100
+inductors ferrites inductors z211123 rb09144r7kla 4.7 uh 3.2 a 10% 5mm 8.7 x12 ind rb09144r7kla abc taiwan 2100
+inductors ferrites inductors z521296 aa0307r47msa 0.47 uh 1a 20% 3x7.5 ind aa0307r47msa abc taiwan 985
+inductors ferrites inductors z521441 rb09123r3mla 3.3 uh 3.6 a 20% 5mm 8.7 x10 ind rb09123r3mla abc taiwan 895
+inductors ferrites inductors z522633 pv1823251kla 250uh 2a 10% 9mm 18x23 ind pv1823251kla abc taiwan 645
+inductors ferrites inductors z532387 sr1006470ksb 47uh 1.25 a 10% smt ind sr1006470ksb abc taiwan 800
+inductors ferrites inductors z532921 ss1005100mlb 10uh 2.27 a 20% smt ind ss1005100mlb abc taiwan 1200
+inductors ferrites inductors z541882 tr1714131ysa tr1714131ysa 125uh 2a filter coil abc taiwan 2806
+inductors ferrites inductors z541905 tr1711460yla tr1711460yla 46uh 2a filter coil abc taiwan 1064
+inductors ferrites inductors z522954 elc09d150f 15uh 2.1 a 20% 5mm 8.9 x9.7 ind elc09d150f 2599
+inductors ferrites inductors z523205 rn102 1 02 3mh 1a 30% 14x9x4 ind schaffner 206
+65 y 1.0 l501 inductor shielded power coilcraft xfl4020 222meb 2.2 uh lsmsq157h83 20
+66 y 10 l502 inductor shielded power dcr 0522ohm 27 a coilcraft xfl4020 472meb 47 uh lsmsq157h83 20
+l2 ind 4.7 µ h ind lps3015 yes top primary power inductor 3 mm 3 mm 1.5 mm coilcraft lps3015 472mlb coilcraft lps3015 472mlb
+37 y 2 l1 l3 inductor smt power coilcraft mss6132 333mlb 33uh lsmsq256h126 lsmsq256h126
+38 y 13 l2 l4 l5 l6 l7 l8 l9 l10 l11 l12 l13 l14 l15 inductor smt power coilcraft me3220 102mlb 1uh lsml126w110h95 lsml126w110h95
+12.0 n l17 l19 inductor smt power coilcraft mss6132 333mlb 33uh lsmsq256h126 lsmsq256h126
+70.0 y 5.0 l9 l10 l11 l12 l18 inductor smt power coilcraft me3220 102mlb 1uh lsml126w110h95 lsml126w110h95
+30 y 6 l501 l502 l503 l504 l505 l506 inductor smt power 1uh lsml126w110h95 coilcraft me3220 102mlb y n
+36 1 l1 inductor power 47uh 2550ma 1210 1210 lqh32pnr47nn0l 490 5333 1 nd yes
+37 1 l2 power ind 1.0 uh 20% coilcraft xfl4020 102meb yes
+38 1 l3 power ind 0.33 uh 20 30% coilcraft lps4012 331mlb yes
+39 1 l4 power ind 6.8 uh 20% coilcraft xfl3012 682mec yes
+40 1 l5 power ind 0.22 uh 20% coilcraft pfl2510 221meb yes
+2 l4 l5 47uh 3a l smd 12 smd
 25 inductor 100uh 3a smd sds127h 101m lf coilmaster sds127h 101m lf 1 800 sds127h 101m lf coilmaster 1
 20 l2 fixed ind 10uh 25 a 586 mohm srn6045 100m inc 65 srn6045 100m 10000 650 0298 7 12days 1 65
 34 l6 fixed ind 22 uh 25 a 80 mohm smd 74437321022 inc 1000 74437321022 1000 152 7 12days 1 1000
 ind fxd 1uh 3.5 a drum lp1 lp5 pulse magnetic power p71701050 1800
 ind fxd 300nh.05 aferrite bead lp4 pulse magnetic power p71701045 900
 ind fxd 300nh 2a ferrite bead lp2 pulse magnetic power p71701044 900
+13 l1 l2 2 coiltronics dr127 150 r inductor shield pwr 15uh smd smd smd
+ind 0603 22 µ h mbkk1608t2r2m l1 l2 inductor 0603 22 uh 345mohms 20% tol 52a 2 digi key 587 4150 1 nd 010443 2000 20886 taiyo yuden mbkk1608t2r2m
+19.0 l2 fixed ind 4.7 uh 1.6 a 55 mohm smd 4.7 uh taiyo yuden nrg4026t4r7m 1.0 smd digi key 587 2382 1 nd 963 nrg4026t4r7m nrg4026 yes yes yes 102.0
+2 l1 l2 l3 l4 l5 inductor dfe201612e r47m 0.47 uh 4.5 a 0806 5 toko
+3 l6 inductor dfe201612e 2r2m 2.2 uh 1.8 a 0806 1 toko
+12 0 l3 18uh dni ind390smd 472sq inductor power 18uh 3.2 a smd 7447715180
+13 1 l4 10uh ind185smd 236sq inductor power 10uh 2.5 a smd vlc6045t 100m
+inductor 1 uh power smt box 16 9 20
+inductor 1.0 mh 1000 uh power inductor rm 221 p442 103 308 1332 1 nd old pn 308 1101 1 nd
+inductor 10 uh power smd box 25 10 20 m3100ct nd
+inductor 1000 uh 1 mh power inductor smt box 32 12 26 p n dn3296ct nd
+inductor 12 uh power smd box 22 11 50
+inductor 12 uh 1.55 a smt power inductor rm 221 p528 5 308 1225 1 nd
+inductor 330 uh power inductor rm 221 p439 95 dn2231ct nd
+inductor 47 uh 0.8 a power inductor smt rm 221 p533 24 308 1232 1 nd
+inductor 470 uh power inductor rm 221 p445 50 308 1097 1 nd
+inductor 560 uh power inductor rm 221 p448 50 308 1098 1 nd
+inductor 820 uh power inductor smt rm 221 p37 30 dn3295ct nd
 电感 22uh spd74r 223m spd74 2 api delevan fixed ind 22uh 2a 110mohm
 电感 47uh spd74r 473m spd74 2 api delevan 47 μ h shielded wirewound inductor 1.3 a 260mohm
 电感 220uh nrs4018t221mdgj nrs4018 2 taiyo yuden fixed ind 220uh 170ma 4.56 ohm
+30 l2 l4 2 id 2078 sumida cdrh3d14np 2r2nc inductor power smt 4 x 4 x 1.5 mm shielded 2.2 uh 25% 1.6 a
+4.7 uh ind pwr 4.7 uh 100khz 1.2 a 20% smt coilcraft lps3015 472ml
+fixed ind 22 uh 16 a 94 mohm smd cdrh2d14np 2r2nc 30 0579 17369999999999999 sumida inc l2 l1 l3 30000
 电感 22uh 4a slf12575t 220m4r0 12.5 12.5 7.5 l1 l2 2
 电感 15uh 4.7 a slf12575t 150m4r7 12.5 12.5 7.5 l3 1
+l 10u 15 a s6 6 10uh 15 a 6 6mm 电感 100 201711 15
 l5 l6 74405042100 we lqsh smd semi shielded high saturation power inductor size 4020 10 uh 4020 2 74405042100 fixed ind 10uh 17 a 216 mohm max inc
 l1 fixed ind 10uh 4a 68 mohm smd chip inductor aspi 0630lr 100m t15 10.0 uh 1
 inductor 3.3 uh 5.5 a radial lead rf choke rl622 3r3k rc 5a
 shieled power inductor 10uh 3.1 a xal4040 xal4040 103
-18uh smd power inductors 18uh 1.0
 37 nr3015t2r2m fixed ind 2.2 uh 1.5 a 72 mohm smd taiyo yuden nr3015t2r2m 4 4000 0 nr3015t2r2m taiyo yuden 4000 0.102 8 14days
 38 ihlp1616bzer4r7m11 fixed ind 4.7 uh 1.7 a 105 mohm dale ihlp1616bzer4r7m11 1 1000 0 ihlp1616bzer4r7m11 dale 1000 1.2656 9 16days dgk
 35 功率 电感 cdrh6d28np 100nc 10uh 1 3000 1
 ind smd fixo 2.2 uh 3.7 a 26m 2 2uh
+0 fixed ind 22uh 23 a 55 mohm th 744772220 732 3766 nd inc
+1 fixed ind 22uh 3a 50 mohm smd 7447714220 732 2992 1 nd inc l1
+power chip inductor 3.3 uh 500 reel nlc453232t 3r3k pf reel 3.0 nlc453232t 3r3k pf
+power chip inductor 10uh 500 reel nlc453232t 100k pf reel 14.0 nlc453232t 100k pf
+power chip inductor 22uh 500 reel nlc453232t 220k pf reel 7.0 nlc453232t 220k pf
+power chip inductor 47uh 500 reel nlc453232t 470k pf reel 8.0 nlc453232t 470k pf
+power chip inductor 100uh 500 reel nlc453232t 101k pf reel 14.0 nlc453232t 101k pf
+power chip inductor 1000uh 500 reel nlc453232t 102k pf reel 5.0 nlc453232t 102k pf
+24 306 103004 功率 电感 10uh ± 20% dcr005 r idc32 a 10 10 5mm l 5x5 l8 1 27000
+lps4018 103mrb fixed inductors 10 uh 1.25 a 20% smd shielded 17310
+srn8040 150m 15uh 2.4 a fixed ind 15uh 2.4 a 70 mohm smd 6760
 电感 47uhpt07x401m47u l7 7 4mm 1 l2 2017 04 19 2 1 3
-电感 gdcd1054 6r8mt 6.8 uh 10mm 9mm 5.4 mm 4.5 a gdcd1054 6r8mt
 26 mss1048 103mlb l4 l6 l7 inductor power 10uh 4.0 a smd 26mohm coilcraft mss1048 103mlb 10uh ind mss1048 coilcraft
 27 srr1260 120m l5 inductor power 12uh 5.0 a smd 23mohm arrow srr1260 120m 12uh ind srr1260
 28 srr6603 1r5ml l8 inductor power 1.5 uh 2.8 a smd 45mohm digi key srr6603 1r5mlct nd 1.5 uh ind srr6603
@@ -450,8 +573,12 @@ mceindno20a16 39.0 1.0 ea fixed ind 300nh 20.5 a 1.4 mohm inductor x 7443340030 
 135 1 l10 2.2 uh 20% 1a inductor 2.2 uh lqm2hpn2r2mj0l ind1008 490 6700 1 nd 04 00407 01
 0006874 ind 4.7 uh 4.8 a smt 2.0 a01 l3 l7 inductor
 0006876 ind 2.5 uh 11.4 a pe 53681 smt 1.0 a00 l4 inductor
+lqw18an10nj8z 10nh 1600ma ± 5% 0.052 ω 4750mhz 0603 1.0 1.0 5
 1211002818 inductor 22uh 20% 28 a smd 2p ihlm2525czer220m11 台灣 intertechnology inc ihlm2525czer220m11
 1211004304 inductor 15 uh 20% 6a smd 2p pcmb053t 1r5ms 乾坤 cyntec co ltd pcmb053t 1r5ms
+10uh 2a l1 cdrh74 1.0 20
 功率 电感器 4.7 μ h 16a 线径 1.2 mm bstc 6018 4r7m 打 蓝点 1 70.0
-电感 gdcd4532 4r7mt 4.7 uh 4.5 mm 4.0 mm 3.2 mm 1.7 a gdcd4532 4r7mt 100 30000 1 l1 电感 l 4.7 uh ± 20% ir 1.70 a dcr 0.094 ω max 4.5 mm 4.0 mm 3.2 mm gdcd4532 4r7mt 固电
+功率 电感 22uh 3a 表贴 cdrh127 1 标准件
+电感 gdcd4532 4r7mt 4.7 uh 4.5 mm 4.0 mm 3.2 mm 1.7 a gdcd4532 4r7mt 100 30000 1 l1 电感 l 4.7 uh ± 20% ir 1.70 a dcr 0.094 ω max 4.5 mm 4.0 mm 3.2 mm gdcd4532 4r7mt 固电 gdcd4532 4r7mt
 smrh74 220mt 22uh 功率 电感 smrh74 1000.0
+功率 电感 功率 电感 lqh5bpb4r7nt0 ind5.0 x5.0 x2.0 ind5x5 1
