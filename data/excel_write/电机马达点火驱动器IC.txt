@@ -1,0 +1,4 @@
+u3 l293d h bridge 296 9518 5 nd 1 1 100 110
+ic1 a3967 driver chip a3967slbtr t 59p3273 newark 2.75 1.71
+ic1 ic2 a3967 driver chip a3967slbtr t 620 1140 1 nd 2.75 1.7
+l298p powerso 20 ic driver full dual

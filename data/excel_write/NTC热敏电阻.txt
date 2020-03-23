@@ -322,6 +322,7 @@ ntc thermistor 100k ohm 1% 0402 ncp15wf104f03rcmurata 7050
 30271 poreq2279 30271 p 片状 电阻器 0.15 w 10k ω 3435k ± 1% ntc 0603 2017 08 17 12.0 nhqmm103s4664 amphenlo
 mceresno2050d thermistor ntc 220k 0.100 w 3% r0402 man uf acturing co ltd ncp15wm224e03rc 16 weeks 100000
 ntc dip ntc power thermistor 5 ø series 10 ohm 3a p 4 ± 06 mm disc ø 5mm sck 05103lsa 1 fth1 datasheetspdf pdf ttc 103 768609 2
+9 resistor thd ntc thermistor 10k % 1 b25 100 3944 bead thd nxft15xv103fa2b030
 13 c0200164 ntc 电阻 wmf21 50d9xmpup6bb20 50 ω ± 20% 1a dip 10.5 mm 脚 5mm dip 1 500
 sxfc30000082 4r resister thermistor 10kohm 0603 1% mitsubishi th11 3h103ft smd 0.3 w mitsubishi th11 3h103ft 2 1000 4000
 0101 030012 插件 热敏电阻 500 ppl12140ya2b2yb1 d8h13
@@ -330,7 +331,6 @@ ntc 热敏电阻 mf58 103f3950 3950 10k 8949.54 9100
 26 ea010106231 电阻 ntc sdnt1608x103f3380ftf 420
 53 3 热敏电阻 插件 ntc sck03510035mfy 3r 5a 2.4 w 1 r28 thinking sck03510035mfy 200
 ntc 热敏电阻 mf58 103f3950 3950 10k 1 60
-9 resistor thd ntc thermistor 10k % 1 b25 100 3944 bead thd nxft15xv103fa2b030 2000 11
 2 11 0215 002 004 ntc ntc 100k ± 1% b 3950 引线 50mm 引线 50mm r47 1 10000.0 焊 组装 bom
 24 11 0215 002 002 ntc 电阻 smd 0402 100k ± 1% b 4100 lc 0402 r r52 1 10000.0
 25 hiqco000000000326 rl0503 5820 97 ms temperature sensors ntc10k amphenol advanced sensors 15
@@ -357,12 +357,19 @@ ntc 0603 4 7k 5% b57301v2472j60 1 205
 996510023512 26 03 2009 31 12 9999 nr901 resistor fixed others 20w rst r ntcr 3 ohm 20% 5a
 ntc thermistor 100k ohm 1% 0402 ncp15wf104f03rcmurata 7050 1.0 7000.0
 ntc 插件 rt1 传感器 带 导线 ntc mt 13e103fd28t 43 10k ω ± 1% b ＝ 3435 ± 1% 60mm
-1.41 rtd1 ntc 热敏电阻 ntc thermistor 10k ohm 5% bead ntcle100e3103jb0 1
+1.41 rtd1 ntc 热敏电阻 ntc thermistor 10k ohm 5% bead ntcle100e3103jb0
 20 rt1 thermister ntcg163jf103ft1s 10k 0603 1
 53 r60 1 rs 3081 ert jzeg103ja res 0201 ntc thermistor 5% 10k b25 50 3380
+热敏电阻 热敏电阻 ntcg104ef104ft1x 100k 0402 1.0 u4
+26 2 rt1 rt2 10.0 k ntc 0603 100mw 10.0 k 1% ir ntc0603 ncp18xh103f03rb
+27 1 rt3 47k ntc 0603 100mw 47k ir ntc0603 ncp18wb473j03rb
+r30 thermistor dnp 0.05 805 thermistor ntc smd bc 238161513103 10kohms place
+r101 thermistor thermistor 10k 0.05 r1206 yes sig top l1 thermistor ntc 1206 bc nths1206n02n1002je fec 1458570
 004 1000000005 p0901012 conventional thermistor 103at 103at 2 semitec 12.0 1.0 612.0 allchips semitec 612.0 2.0 0.587
 004 0020900003 p0901016 1017 conventional ntc thermistors 10kohm 3% 103nt 4 r025h41g atc semitec 8.0 2.0 153.0 allchips atc semitec 153.0 2.0 2.22
 004 0020900004 p0901016 1017 conventional ntc thermistor 10kohm radial leaded ntcle100e3103jb0 13.0 2.0 153.0 allchips 153.0 2.0 0.218
 r27 r28 thermistor ntc 10k ω ± 1% 0805 2 热敏电阻 cmfb103f3950fant 8000 0.252 8000 lc
 smd crystal 8mhz 10ppm hc 49us smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
+r6 ntc 33 k 25 ° c 0.01 0603 nb 21 m 0 0333 yes
 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1 热敏 器件 r 25 ° c 10k accuracy 1% b constant 25 50 ° c k 3380 ± 1% i 25 ° c 0.31 ma prate 25 ° c 100mw 40 ° c 125 ° c 0603 ncp18xh103f03rb
+热敏电阻 10d 9 1.00 5k

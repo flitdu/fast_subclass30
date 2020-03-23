@@ -1,0 +1,17 @@
+49 1 57a.08 60200001 稳压 二极管 1sma5919bt3g 稳压 二极管 5.6 v 1.5 w 65 150 ℃ sma 1 214ac on 1sma5919bt3g d2 12
+31 1 57a.08 60200001 稳压 二极管 1sma5919bt3g 稳压 二极管 5.6 v 1.5 w 65 150 ℃ sma 1 sma on 1sma5919bt3g d2 12
+34 1 57a.08 40200001 稳压 二极管 1sma5914bt3g 稳压 二极管 3.6 v 1.5 w 65 150 ℃ sma 1 214ac on 1sma5914bt3g d5 12
+1 zener mini melf d11 sod80 mini melf 3v3 bzv55 b3v3 bzv55 b3v3 25 100
+1 zener mini melf d6 sod80 mini melf 5v1 bzv55 b5v1 bzv55 b5v1 25 100
+1 zener mini melf d7 sod80 mini melf 15v bzv55 b15 bzv55 b15 25 100
+q06 20020001 17 60404000750 齐纳 二极管 5v 43.5 a 400w do214ac 2pin smd smaj5.0 ca 600
+d20 4.3 v 1smb5916bt3g 4.3 v diode zener 4.3 v 3w smb on semiconductor 1smb5916bt3g digi key 1smb5916bt3gosct nd 0.54
+d26 27 130v 1smb5952bt3g 130v diode zener 130v 3w smb on semiconductor 1smb5952bt3g digi key 1smb5952bt3gosct nd 0.54
+d22 23 6v smbj5340b tp 6v diode zener 5w 6v smb micro commercial co smbj5340b tp digi key smbj5340b tpmsct nd 0.9
+d24 25 16v smbj5353b tp 16v diode zener 5w 16v smb micro commercial co smbj5353b tp digi key smbj5353b tpmsct nd 0.9
+4.7 v 稳压 二极管 1206 1
+稽納二極體 33v1wd014729101 motorola 1039 dip
+稽納二極體 rd20fb2 nec 7313 dip 35
+稽納二極體 rd 5.1 f 1w hitachi 1015 dip 35
+d4 zeer diode 5.1 v 150 mw bournes cd0603 z5v1
+dbst zener diode 5.1 v 150 mw inc cd0603 z5v1

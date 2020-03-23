@@ -1,0 +1,5 @@
+470 2d2436a0 z01 s000012 audio magnetic xdcr 4 7v smd wst 1310s 2 soberton inc 蜂鸣器 10000
+42 4b3901b0 z01 d000031 audio piezo transducer 30v th pkm13epyh4000 a0 蜂鸣器 50
+1 buzzer 12v bz1 buzzer 12mm r open open supply 25 100
+13 蜂鸣器 压电式 lumex rs511 7620 12v 7ma 80db 14mm 直插 mk1 1 3
+q06 20020001 132 72401000070 蜂鸣器 tmb12a03 12.0 h9.5 3v hxd 2pin dip hxd 华讯达 tmb12a03 1600

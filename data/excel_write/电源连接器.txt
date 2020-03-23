@@ -1,0 +1,12 @@
+电源插座 powerjack dip 1
+jack a c 2.1 mm id 5.5 mm od pcb dc jack for a c adapt above 163 179ph ex 163 7620 e must match a c adapter plug
+jack a c opt 2.1 mm id 5.5 mm panel mount dc jack for a c adapt above 163 4304 e used if usg longer enclosure
+j2 dc power jack 2.1 mm male pc mount switchcraft rapc722 sc1153 nd 1 1 100 105
+conn power jack 2.1 mm pcb pj 202a cp 202a nd 0.38 0.254
+電源 插座 單組 3 孔輸出 213 dip
+電源 插座 112 dip
+connector power jack dc 044 a lower height
+conn power jack 2.1 mm arduino uno alike
+power jack rapc722x con swc rapc722x con swc rapc722x
+j103 203 power jack 2.1 mm male thru hole pj 037ah cp 037ah nd 0.52 y
+j1 pj 102ah conn pwr jack 2x5.5 mm solder pwr jack

@@ -1,0 +1,5 @@
+ic7 ft232rl usb to serial uart interface ssop28 65p780x200 28n
+communicaton ft232 28 ssop ic usb fs serial uart
+ft231xs r ft231xs ssop20 l u2 ftdi ft231x full speed usb to full handshake uart ft231xs r
+u3 ft231xs r ic usb serial basic uart 16ssop usb interface
+usb 转 串口 usb 转 串口 3.3 v 5.5 v msop 10 10pin ht42b534 holtek 1 u156

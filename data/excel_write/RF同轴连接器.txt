@@ -1,0 +1,15 @@
+71 1 95a20 zi 31001 01 rf 连接器 pcb mmcx f jack ht rf 连接器 female 50ohm 6ghz 1 con5 2 54 mmcx taoglas pcb mmcx f jack ht u14 12
+72 1 95a20 zi 31001 01 rf 连接器 pcb mmcx f jack ht rf 连接器 female 50ohm 6ghz 1 con5 2 54 mmcx taoglas pcb mmcx f jack ht u22 否 12
+113 95a20 zi 31001 01 mmcx 连接器 pcb mmcx f jack ht rf 连接器 female 50ohm 6ghz 1 con5 2 54 mmcx taoglas pcb mmcx f jack ht j4 55
+j9 11 5 1634503 1 conn socket bnc str 50 ohm pcb tyco 5 1634503 1 digi key a97581 nd 1.8
+j3 5 5227677 1 conn jack bnc r a 50 ohm pcb au tyco 5227677 1 digi key a32268 nd 3.45
+j1 j2 227161 3 conn jack bnc r a 50ohm pcb au tyco 227161 3 digi key a24488 nd 1.69902
+a97593 nd conn socket sma r a die cast pcb con sma con sma
+x2 sma smd sma smd consma001 smd g yes yes
+p2 u fl u fl r smt 1
+j11 j12 j15 mmcx connector jack 734152063
+j11 mmcx jack smd 50 ω 734152063
+射频 同轴 连接器 rf connector 3 3 125 mm u fl r smt hirose 1 j7
+rf connector 3 3 1.25 mm rf0016a 骏祥
+rf connector 3 3 1.25 mm spec0606 d 宣德
+rf connector 3 3 1.25 mm anb02001 124 科信成

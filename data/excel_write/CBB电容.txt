@@ -29,7 +29,6 @@ cbb 电容 0.1 uf 10% 100v 0.1 k 100 sip 2 6 126
 5 uf 4 50v ac 电机 电容 0.2 c404 cbb 1 15 15
 金属化 聚酯 膜 c22 电容 10nf 630vdc p 7.5 mm mpp103j6130508lc 500 mpp103j6130508lc 8632.39 9000
 33 3 薄膜 电容 金属化 聚丙烯 薄膜 电容 cbb21 100nf ± 10% 4 50v 脚距 10mm 105 ℃ 2 c20 c39 金裕 400
-25.0 cbb 直插 电容 cbb 105j 63v ± 5 ﹪ 脚距 5mm ф 7 6mm ф 7 6mm 插件 2 c1 c2 10000.0
 104j 400v ccb 电容 c34 脚距 10mm 10 1
 cbb223j630v rad 0.4 4.0 cbb 电容 2000.0
 19 c1 1.0 capacitor 470nf 3 10v cbb capacitors 470nf 3 10v through hole p 22.5 mm through hole p 22.5 mm nissei mp10310k47400000000

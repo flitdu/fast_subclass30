@@ -1,3 +1,4 @@
+l1 1 1.0 mh 色环 电感 1w
 68uh axial leads ind b78108 s1683 j 68uh 10% 410ma 1.33 ohm 1.0 1000 10000
 68uh axial leads ind b78108 s1683 j 68uh 10% 410ma 1.33 ohm
 68uh axial leads ind b78108 s1683 j 68uh 10% 410ma 1.33 ohm 1 1000 10000
@@ -17,3 +18,50 @@
 1 47uh 47uh l10 radial 0.2 inductor1
 inductor 3.3 mh radial lead drawers g56 10 tk4318 nd
 inductor 3.3 uh hi current radial lead box 36 5 25 m6004 nd
+100uh l1012 axial0.4 inductor bpf
+100uh l1011 axial0.4 inductor bpf
+100uh l1010 axial0.4 inductor bpf
+100uh l805 axial0.4 inductor dds filter
+100uh l309 axial0.4 inductor butler
+100uh l1003 axial0.4 inductor bpf
+100uh rfc609 axial0.5 inductor if
+100uh l1002 axial0.4 inductor bpf
+100uh rfc1001 axial0.4 inductor bpf
+100uh l1001 axial0.4 inductor bpf
+100uh rfc604 axial0.5 inductor if
+100uh rfc605 axial0.5 inductor if
+100uh rfc610 axial0.5 inductor if
+100uh l1004 axial0.4 inductor bpf
+100uh l1006 axial0.4 inductor bpf
+100uh l1005 axial0.4 inductor bpf
+100uh rfc510 axial0.5 inductor magic roundabout
+100uh l1016 axial0.4 inductor bpf
+100uh l1007 axial0.4 inductor bpf
+100uh l1009 axial0.4 inductor bpf
+100uh l1008 axial0.4 inductor bpf
+100uh l1017 axial0.4 inductor bpf
+100uh l1013 axial0.4 inductor bpf
+100uh rfc1002 axial0.4 inductor bpf
+100uh l1014 axial0.4 inductor bpf
+100uh l1018 axial0.4 inductor bpf
+100uh l1015 axial0.4 inductor bpf
+100uh l199 axial0.4 inductor dsp mb
+100uh l198 axial0.4 inductor dsp mb
+10uh lt1 axial0.5 inductor trxavrb
+t25 2 core 190nh 7 turns on t25 2 core l3301 axial0.4 inductor butler
+1mh rfc602 axial0.5 inductor if
+1mh rfc601 axial0.5 inductor if
+1mh rfc606 res trimpot inductor if
+1mh rfc607 axial0.5 inductor if
+1mh choke fb601 axial0.4 inductor if
+22t on t50 2 core l601 ind t2 inductor if
+t25 2 core 230nh 8 turns on t25 2 core l3302 axial0.4 inductor butler
+bn43 2402 2 turns optional if using mmic for dds amplifier lmmic1 ind 250 inductor butler optional amp
+330uh eg farnell 608579 lb1 axial0.3 inductor if
+660nh 14t on t25 2 refer to schematic ! 12 turns practice l501 d 250 ductor magic roundabout
+660nh 14t on t25 2 refer to schematic ! 12 turns practice l502 d 250 ductor magic roundabout
+680nh 5% l801 axial0.4 inductor dds filter
+680nh 5% l803 axial0.4 inductor dds filter
+680nh 5% l804 axial0.4 inductor dds filter
+680nh 5% l802 axial0.4 inductor dds filter
+680uh 5% eg farnell 608592 rfc612 axial0.3 inductor if

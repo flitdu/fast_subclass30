@@ -1,0 +1,15 @@
+53 16p8301a0 u03 s000683 ic trnsltr bidirectional 16tssop sn74avc4t245pwr sop 12
+57 16p8301a0 u03 s000837 ic trnsltr bidireconal sc70 6 sn74lvc1t45dckr sop 17
+59 16p8301a0 u03 s000839 ic trnsltr bidireconal 48tssop sn74lvc16t245dggr sop 12
+60 16p8301a0 u03 s000840 ic trnsltr bidireconal 14tssop lsf0204pwr sop 12
+90 1 56a.45 lsf01001 集成电路 lsf0102dctr 电平 转换 驱动器 200 mb s 64 ma 40 125 ℃ sm 8 1 ssop8 0 65 2 9 lsf0102dctr u42 12
+138 56a.45 sn74lv01 电平 转换 sn74lv1t126dbvr 电平 转换 sot 23 40 125 ℃ 单通道 4 sot 23 sn74lv1t126dbvr u4 u54 u55 u76 220
+151 56a.45 txs02601 电平 转换 txs02612rtwr 电平 转换 qfn 40 85 ℃ sdio 1.1 v to 3.6 v 1 qfn txs02612rtwr u48 55
+68 16p8302b0 u03 s000683 ic trnsltr bidirectional 16tssop sn74avc4t245pwr sop 30 9 270
+72 16p8302b0 u03 s000837 ic trnsltr bidireconal sc70 6 sn74lvc1t45dckr sop 80 9 720
+74 16p8302b0 u03 s000839 ic trnsltr bidireconal 48tssop sn74lvc16t245dggr sop 10 9 90
+75 16p8302b0 u03 s000840 ic trnsltr bidireconal 14tssop lsf0204pwr sop 20 9 180
+68 16p8302b0 u03 s000683 ic trnsltr bidirectional 16tssop sn74avc4t245pwr sop 270
+72 16p8302b0 u03 s000837 ic trnsltr bidireconal sc70 6 sn74lvc1t45dckr sop 720
+74 16p8302b0 u03 s000839 ic trnsltr bidireconal 48tssop sn74lvc16t245dggr sop 90
+75 16p8302b0 u03 s000840 ic trnsltr bidireconal 14tssop lsf0204pwr sop 180

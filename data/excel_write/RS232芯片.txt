@@ -1,0 +1,8 @@
+45 1 56a.07 sp323201 集成电路 sp3232eey l tr rs232 电平 转换 芯片 tssop16 40 85 ℃ 1 tssop16 0 65 4 5 maxlinear sp3232eey l tr u5 12
+73 16p8302b0 u03 s000838 ic txrx rs 232 lp 16 tssop max3232eeue t sop 10 9 90
+73 16p8302b0 u03 s000838 ic txrx rs 232 lp 16 tssop max3232eeue t sop 90
+q06 20020001 84 63202000690 数据通讯 芯片 max3232 rs 232interface so16 16pin smd max3232ese 1850
+max232aese dual rs232 driver receiver soic16 farnell 9724397 yes 3.42 8.0 0.0
+max3232ecae dual rs232 3.3 v transceiver ssop16 farnell 9725512 5.17 2.0
+u1 icl3226eca ic txrx rs 232 3 5.5 v esd 16ssop icl3226eca icl3226eca nd 3.03
+max3223idbr instrument ic drvr rcvr multch rs232 20ssop 20 ssop 2

@@ -1,0 +1,2 @@
+4 16 bit bus transceiver idt74alvc162245pa idt arrow 3 2 40 350 400 0.84 336 140
+5 16 bit b uf fer driver idt74alvc162244pa idt arrow 2 2 30 280 300 0.84 252 140

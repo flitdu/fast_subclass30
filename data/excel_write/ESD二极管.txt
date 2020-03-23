@@ -1,0 +1,8 @@
+167 56a.72 tpd4e001 esd 保护 tpd4e05u06qdqarq1 esd 保护 uson 10 40 125 ℃ 4channel 15kv 2 uson 10 tpd4e05u06qdqarq1 u73 u74 110
+q06 20020001 19 60405000460 esd 保护 二极管 nup4202 5v 0.1 a 500w sc88 6pin smd on nup4202w1t2g 140
+管 esd5b5.0 st1g 工作电压 5v 50w esd ± 30kv air ± 16kv 32pf sod 523 esd5b5.0 st1g sod 523 on 13 13000.0
+ip4220cz6 semiconductors ip4220cz6 125
+tpdxeusb30 2 4 channel esd protection tpd2eusb30drtr tpd2eusb30drtr tpd2eusb30drtr
+bidirectional esd protection smaj30ca d smaj30ca schottky d smaj30ca schottky
+d1 diode esd r0603 yes sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
+d2 diode esd r0603 yes sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr

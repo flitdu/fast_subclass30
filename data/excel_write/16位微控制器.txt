@@ -1,0 +1,3 @@
+mcu 23 6c1721b0 u06 s000024 ic mcu 16bit 128kb flash 80tqfp pic24fj128ga308 i pt qfp 150
+mcu msp430f149ipm instrument ic 16bit mcu 60kb flash 64 lqfp bulk 1
+mcu u1 m9s12xf 112lqfp 112lqfp ic mcu 16 bit automotive 112lqfp yes yes freescale semiconductor pc9s12xf512mlm

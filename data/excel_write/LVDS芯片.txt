@@ -1,0 +1,3 @@
+sn65lvds179d high speed lvds line driver receiver soic8 farnell 8452458 yes 1.45 6.0 0.0
+eg2121ca100.0000 lhpn low jitter lvds 100mhz clock oscillator smt 7.5 x5.0 cpphv7 a7bc nd 20.88 0.0
+chl bp 200 0ts low jitter lvds 200mhz clock oscillator smt 7.5 x5.0 cardinal 28.78 29.0 0.0

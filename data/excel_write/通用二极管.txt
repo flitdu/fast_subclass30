@@ -1,0 +1,8 @@
+in5822 diode sma 1
+sk34 diode sma 2
+ssm14 diode sma 1
+bat54c diode sot 23 1
+bat54s diode sot 23 2
+1n4007 smd2010
+d1 d2 es3a 13 diode 50 3a smc tssop smd
+d103 203 204 diode flyback 214aa s1ab 13 f s1ab fdict nd 0.38 y

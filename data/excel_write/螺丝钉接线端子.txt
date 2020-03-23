@@ -1,0 +1,22 @@
+term block 4pos side ent 3.5 mm 1776275 4 a98038 nd
+sl1 term block 10pos side ent 3.5 mm 1 1776275 0 a98042 nd 1.43 1.14
+4p 插頭 gammate 797 dip
+1 4p 插座 ek381v 04p 130 dip
+1 4p 單邊 插座 1068 dip
+1 4p 單邊 插座 1727 dip
+1 5p 單邊 插座 1021 dip
+1 6p 單邊 插座 555 dip
+1 9p 單邊 插座 1238 dip
+1 10p 單邊 插座 相當品 1069 dip
+1 15p 單邊 插座 1255 dip
+1 16p 單邊 插座 446 dip
+1 3p 單邊 插座 1036 dip
+2 16p 插座 1927 dip
+2 20p 插座 1882 dip
+1 45p 插座 827 smd
+1 30p 插座 1357 smd
+1 45p 插座 aces 899 smd
+1 30p 插座 aces 900 smd
+2 pin screw small jst 3.36
+2 pin screw large jst 5.0
+3 pin screw large jst 5.0

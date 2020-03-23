@@ -1,0 +1,6 @@
+84 1 56a.01 88e15101 集成电路 88e1512 a0 nnp2i000 phy 通信 芯片 40 85 ℃ qfn56 2 qfn56 0 50 0808h marvell 88e1512 a0 nnp2i000 u29 u31 24
+88 1 56a.01 88e63901 集成电路 88e6390xao buk2i000 11 口 阻塞 交换 芯片 8 集成 ge phy 2 10g 口 40 85 ℃ bga361 1 bga361 0 80 17 0x17 0 h1 53 marvell 88e6390xao buk2i000 u40 12
+q06 20020001 85 63207000030 lan 网络 芯片 dp83848 1transceiver wqfn40 40pin smd dp83848ksq 70
+q06 20020001 86 63207000100 lan 网络 芯片 dp83849ivs 以太网 收发器 3.0 3.3 v 100mbps tqfp80 80pin smd dp83849ivs 180
+hx1198nl soic16 9.53 10 100base t single portsurface mount magnetics
+w5200 qfn48 tcp ip ethernet controller

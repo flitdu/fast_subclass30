@@ -1,0 +1,2 @@
+78 16p8302b0 u03 s000843 ic adc 24bit sigma delta 28ssop ltc2418ign pbf linear technology analog devices sop 90
+14 12 位 d a 转换器 tlv5638qd 扩展 40 125 ℃ so8 n1 1 3

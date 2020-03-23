@@ -1,0 +1,13 @@
+100 1 33a.05050 80001 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 公头 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbp05 80c 1.0 h con1a con1b 24
+101 1 33a.04050 80001 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 母头 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbs05 80c 4.0 h con1c con1d 24
+102 1 33a.04050 80002 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 55 85 ℃ 区分 插头 插座 1 con400 btb som tl5728 16d2 samtec lshm 140 02.5 l dv a n k tr con1e 12
+h1 h3 h5 header 1x2 1x2 conn hdr brkway 100 80pos vert tyco 4 103783 0 digi key a26524 40 nd 346
+h2 h4 h6 8 header 2x2 2x2 conn hdr brkway 100 80pos vert tyco 4 103783 0 digi key a26524 40 nd 346
+h9 header 6x1 6x1 conn hdr brkway 100 40pos vert tyco 4 103239 0 digi key a26512 40 nd 242
+1 64 pin cmc plug 120527 1 tyco amp arrow 2 2 70 280 210 2.63 552.3 140 minimum order required
+j1 rcpt assy r a champ 050 100 p tyco amp 1 1734037 0 a33470 nd
+fx10a 80s 8 sv hirose conn recept 80pos w post smd smt vert 2
+j2 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j3 header14 dnp header14 no sig top l1 14 pin header remove pin 3 for keying inserted
+j4 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j6 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd

@@ -1,0 +1,12 @@
+22 16p8301a0 j25 d000579 4p 弯脚 90 插 板式 接头 gx12 4p 插头 公座 gx12 4p 90 优联康 连接器 12
+27 16p8302b0 j01 d000245 conn header vert 3pos 100 tin 脚距 254 mm 3pin 直插 座子 1 挡墙 640456 3 公 插座 20 9 180
+28 16p8302b0 j25 d000579 4p 弯脚 90 插 板式 接头 gx12 4p 插头 公座 gx12 4p 90 优联康 连接器 10 9 90
+power 2pin 2mm right angle connector hirose co ltd df3 2p 2ds h2105 nd 018 j1 1
+serial2 3pin 2mm right angle connector hirose co ltd df3 3p 2ds h2106 nd 016 j2 1
+serial3 3pin 2mm right angle connector hirose co ltd df3 3p 2ds h2106 nd 016 j3 1
+serial4 3pin 2mm right angle connector hirose co ltd df3 3p 2ds h2106 nd 016 j4 1
+serial1 8pin 2mm right angle connector hirose co ltd df3 8p 2ds h2111 nd 031 j5 1
+jtag 10pin 0.1 right angle dual row pin header amp tyco 104354 5 104354 5 nd 0.97 u17 1
+p200 p201 socket 2x20 1.27 mm smd samtec sfc 120 t2 l d a k tr
+p200 p201 socket 2x20 1.27 mm smd sfc 120 t2 l d a k tr conn socket strip 1.27 mm
+3 or 4 pin 2.54

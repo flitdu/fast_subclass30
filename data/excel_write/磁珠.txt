@@ -1,0 +1,39 @@
+14 133726 1 be lm18eg221sn1d 磁珠 blm18eg221sn1d 220r 0603 50 n
+133687 1 be i0805k400r010 磁珠 mi0805k400r 10 40 ω 0805 301 y
+20 4b3901b0 l01 s000002 ferrite bead 1.5 kohm 0603 1ln blm18he152sn1d 磁珠 180
+32 2c6806a0 l01 s000006 indutor bead 60r ohm 0805 25% 100mhz 3a 2 leads bkp2125hs600 t taiyo 磁珠 200
+33 2c6806a0 l01 s000342 ferrite bead 2 kohm 1812 1ln fbmh4532hm202 t taiyo 磁珠 70
+21.0 2d2436a0 l01 s000276 ferrite bead 120 ohm 0805 1ln blm21bd121sn1d 磁珠 2040.0
+26 16p8301a0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 39
+27 16p8301a0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 12
+28 16p8301a0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 13
+12 1a1026j0 l01 s000027 ferrite bead 30 ohm 0805 1ln mpz2012s300a 磁珠 3815
+57 1 68a.0603 600001 磁珠 blm18ag601sn1d 磁珠 600r 0603 3 fb0603 blm18ag601sn1d fb2 fb4 fb6 36
+58 1 68a.0603 120001 磁珠 blm18kg121tn1d 磁珠 120r 0603 4 fb0603 blm18kg121tn1d fb3 fb5 fb7 fb10 48
+59 1 68a.1206 120001 磁珠 blm31pg121sn1d 磁珠 120r 1206 4 fb1206 blm31pg121sn1d fb1 fb8 fb9 fb11 48
+98 68a.0603 220001 磁珠 mpz1608s221ata00 220r 3 0603 mpz1608s221ata00 l1 l2 l22 165
+99 68a.0603 120001 磁珠 blm18kg121tn1d 120r 4 0603 blm18kg121tn1d l3 l6 l11 l23 220
+100 68a.0603 600001 磁珠 blm18ag601sn1d 600r 2 0603 blm18ag601sn1d l4 l5 110
+32 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 220 9 1980
+33 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 30 9 270
+34 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 50 9 450
+30 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 270
+31 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 450
+12 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 1977
+1 bead 0805 b1 0805 value blm21pg221sn1d blm21pg221sn1d 25 100
+磁珠 100mhz 220ohm 0603 k 1 1000.0
+l1 13 blm31pg500sn1l ferrite chip 50 ohm 3000ma 1206 blm31pg500sn1l digi key 490 1055 1 nd 0.2
+inductor bead blm18ag121sn1d 120 ohm 100mhz
+220r 100mhz 2a emi filter 220r 100mhz l 220r 100mhz 2a 25% 0603 l 220r 100mhz 2a 25% 0603
+common mode choke high speed 90r 330ma 90r 100mhz l dlw21sn900sq2 90r 100mhz 330ma 25% l dlw21sn900sq2 90r 100mhz 330ma 25%
+39r 100mhz 4a emi filter 39r 100mhz l exc ml20a390u 39r 100mhz 4a 25% 0805 l exc ml20a390u 39r 100mhz 4a 25% 0805
+l mmz1608s400a 40r 100mhz 600ma 25% 0603 40r 100mhz 40r 100mhz 600ma emi filter 40r 100mhz 600ma emi filter
+power supply fb 10a 36r 100mhz l laird 35f0121 0sr 10 10a 25% l laird 35f0121 0sr 10 10a 25%
+l1 ferrite bead 180 ω 0603 1ln blm18pg181sn1d
+l2 ferrite bead 180 ω 0603 1ln blm18pg181sn1d
+l2 ferrite bead 1800 ohm 0402 402 yes top 402 bkh1005lm182 t 1515786
+l3 ferrite bead 1800 ohm 0402 402 yes top 402 bkh1005lm182 t 1515786
+l5 600ohm 100mhz 0.25 402 yes top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
+l6 molded inductor 0.5 pin spacing 600ohm 100mhz 0.25 402 yes top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
+l1 bead 600 ohms 100mhz 1206 yes sig top l1 ferrite bead blm31aj601sn1l fec 952 6862
+l2 l3 acm3225 102 2p no standard see reference choke common mode 1000 ohm smd 0.6472 yes yes acm3225 102 2p

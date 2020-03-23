@@ -1,0 +1,1 @@
+u104 204 mcp6024 quad op amp rail to rail 14 soic mcp6024 i sl mcp6024 i sl nd 2.08 y

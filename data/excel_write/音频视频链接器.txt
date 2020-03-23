@@ -1,0 +1,5 @@
+108 1 33a.04050 19001 hdmi 连接器 插座 19pin 0.5 mm 40 105 ℃ fhd22 fsb300k6m 1 hdmi19smt a txga fhd22 fsb300k6m j2 12
+耳机 插座 earphone dip 1
+av 插座 opt stereo dip 1
+j11 j12 er 106 20 conn rca audiophonics fr en rca sockets elecaudio er 106 inlet rca for ic gold plated pair p 8156 html
+j107 jack stereo 3.5 mm thru hole sj1 3523n cp1 3523n nd 0.44 y

@@ -2,7 +2,6 @@ r269 r270 r275 3224w 1 103e smd 3 3224w 1 103e 3.0 5.5 lc
 20k % 1 r42 res sm 变阻器 1 10
 10k % 1 r43 r45 res sm 变阻器 2 20
 电位器 pvm4a103c01 0603 500 9500 8500
-10k rv1 3306p f trim pot
 微调 电位器 10k 10k 3224j 150 150
 微调 电位器 20k 20k 3224j 50 50
 微调 电位器 50k 50k 3224j 50 50
@@ -10,6 +9,14 @@ r269 r270 r275 3224w 1 103e smd 3 3224w 1 103e 3.0 5.5 lc
 电位器 204 3362p 3362p 1 204lf 50 50.0 1.24 lc
 电位器 3296w 2k 2k ω 200
 电位器 3296w 10k 10k ω 100
+26.0 10905019 电位器 旋钮 a 04 0.0
+27.0 10905020 电位器 白色 10k 0.0
+28.0 10905021 tocos 电位器 rv24yn 20s b202 0.0
+29.0 10905024 bochen 电位器 wxd3 13 2w 5k ω ± 5% ± 0.3% 0.0
+20k ω 1% 滑动 电阻 滑动 电阻 r26 r37 r79 r90 rdc506002a 4 20
+10k ω 1% 滑动 电阻 滑动 电阻 r30 r38 rdc506002a 2 10
+2k 1% 滑动 电阻 滑动 电阻 r57 r110 rdc506002a 2 10
+35 电位计 on 电位计 vr1 vr2 1 3
 trimmer resistors through hole 3 8 sq h adj 25k 1
 resistors potentiometers t837056 rv16af 10 15r1 b10k 10k potentiometer linear alpha taiwan 4
 resistors potentiometers t837458 rv16af 20 15k a25k 3 25k 0.6 w 20% panel mount pot rv16af 20 15k a25k 3 alpha taiwan 1
@@ -76,8 +83,25 @@ resistors potentiometers t837514 ra0901nox0k ha1 843 25k linear pcb mount pot ra
 resistors potentiometers t837515 ra0901nox0k ha1 844 30k linear pcb mount pot ra0901nox0k ha1 844 soundwell 1
 resistors potentiometers t837516 ra0901noc0a va1 003 500k linear pcb mount pot ra0901noc0a va1 003 soundwell 3
 resistors potentiometers t837563 rv110f 40e1 18b b100k a013 100k 6mm pot rv110f 40e1 18b b100k a013 taiwan alpha 1
+potentiom è tre ajustable piher horizontal 2 2k 570
+tsm4yl 20k smt potentiometer eaj yes 2.17 0.0
+3204 series 500k smt potentiometer eaj yes 2.17 0.0
+p36s106 rotary smt hex switch smt farnell 1082475 yes 5.87 6.0 0.0
+tsm4yl 50k 10% 50k smt potentiometer farnell 1141365 18.0
+r73 10k 3314g 1 103e 10k pot 10k ohm 4mm sq cermet smd inc 3314g 1 103e digi key 3314g 103ect nd 195
+可调 电阻 tmc3k 50k smd 2
+pot small need knob dual 50k audio a d taper check pcb clearance 688 rk097111020n p2g1203 nd 15mm x 15mm approx max rk097 preferred evj alternate
+pot large need knob dual 50k audio a d taper requires 6.3 l case amb rk27112a alps rk27 requires 6.3 l case
+resistor 10k potentiometer cermet 1 turn 3362p
+pot trim 100ohm 1 turn 20% smd tra 3313j 1 101e 无源 器件 10.78 5.355
+3318p 1 502 inc variable resistor 5.0 k ohm 6mm carbon 6mm squared 1
+3318g 1 103a inc variable resistor 10k ohm 6mm carbon 6mm squared 1
+p1 p2 trimmer 1 k ω 1 4 w pv37w102c01b00
+r106 206 trimmer resistor 50k smd 4mm 3314g 1 503e 652 3314g 1 503e 1.5 y
 电位器 3296w 2k 2k ω 200
 电位器 3296w 10k 10k ω 100
+vr2 10k 9mm snap pot eurorack 652 ptd901 2015kb103 9mm snap pot horizontal horizontal
+vr1 1m 9mm snap pot eurorack 652 ptd9012015fa105 9mm snap pot horizontal horizontal
 r8 cadpart res pot 5k 1 2w 20% 3352t production 3352t 1 502lf
 r16 trim pot 500 ohm 10 turn top adjust digi key ct94w501 nd 1.32
 10k trimpot copal ct6ew103 ct6ew103 nd 1 0.263 0.263 was d4aa14 nd part matches footprint

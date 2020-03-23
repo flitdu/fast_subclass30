@@ -7,6 +7,8 @@
 68 variable inductor 17nh 165 01a06l coil craft pc 1600.0
 69 variable inductor 28nh 165 02a06l coil craft pc 1600.0
 70 variable inductor 40nh 165 03a06l coil craft pc 1100.0
+9 b82464p4 473m adjustable inductor l7 b82464p4473m inductor adj 10 b82464p4 473m
+l1001 l1002 coil 23mh adj
 inductor 029 uh smt box 40 1 14 variable tks2706ct nd
 inductor 032 uh smt box 40 6 16 variable tks2700ct nd
 inductor 038 uh smt box 9 4 10 variable tks2713ct nd

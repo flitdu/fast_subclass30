@@ -1,51 +1,37 @@
-__label__高频电感 , 电感 sdcl1005c33njtdf 0402 10 000 0 2017 09 21 2017 09 21 sdcl1005c33njtdf 10000 0.01 2
-__label__贴片电感 , ind smd fixo 1mh 250ma 2.4 r 1mh 2000 1
-__label__贴片电感 , sdr0403 681kl 680u 2000 sdr0403 681kl sdr0403 681kl 2000 0.1879 7 12days dgk
-__label__贴片电感 , mlp2520s2r2mt0s1 2u2 2000 mlp2520s2r2mt0s1 mlp2520s2r2mt0s1 2000 0.1538 10 15days arrow
-__label__水泥电阻 , 插件 电阻 r20 r21 水泥 电阻 5w 5 水泥 电阻
-__label__贴片电感 , l1 smd 7 7 3 100uh 100uh ± 20% 7032 slf7032t 101mr45 2pf 0.91 6 6 2.8 lc
-__label__贴片电感 , l2 smd 4 4 1.8 4.7 uh 4.7 uh ± 20% 4 4 1.8 chilisin 0.242 lc
-__label__薄膜电容 , capacitor ceramic 0.22 uf 3 10v kemet f861be224m310z 0.095 f861be224m310z 0.1815 38 40wks
-__label__直插瓷片电容 , capacitor disc 2.2 nf 500v 20% vy1222m47y5uq63v0 0.0539 vy1222m47y5uq63v0 0.0914 15 17wks
-__label__直插电解电容 , 铝 电解电容 100 uf 50v 10% rjl 50v 101m 10 20 c2 c4 c8 c12 c16 5 elna enb1hm101g13ot aishi 600 0.31 40 100 uf ± 20% 50v 10 13 lc joyce
-__label__薄膜电容 , cap fxd mplr 1 uf 10% 63v cp2 cp3 cp34 cp35 cp40 pte ltd b32529c0105k189 4500 b32529c0105k189 1500 4500 01785 10 15days dgk
-__label__贴片电感 , ind fxd 300nh.05 aferrite bead lp4 pulse magnetic power p71701045 900 p71701045 pulse 1
-__label__贴片电感 , ind fxd 300nh 2a ferrite bead lp2 pulse magnetic power p71701044 900 p71701044 pulse 1
-__label__固定电感 , 220uh smcc inductor l5 l6 2
-__label__安全电容 , 56 cap film 4700pf 1.5 kvdc radial b32021a3472m cap film 4700pf 1.5 kvdc radial c15 inc 3 495 4082 nd
-__label__安全电容 , 57 cap film 4700pf 1.5 kvdc radial b32021a3472m c16 inc 495 4082 nd
-__label__安全电容 , 58 cap film 4700pf 1.5 kvdc radial b32021a3472m c18 inc 495 4082 nd
-__label__安全电容 , 59 cap film 0.47 uf 3 10v ac radial b32922c3474m cap film 0.47 uf 3 10v ac radial c28 inc 2 495 2322 nd
-__label__安全电容 , 60 cap film 0.47 uf 3 10v ac radial b32922c3474m c64 inc 495 2322 nd
-__label__采样电阻 , 170 res 02 ohm 5w 5% radial mpr5jb20l0 res 02 ohm 5w 5% radial r12 stackpole inc 10 mpr5jb20l0 nd
-__label__采样电阻 , 171 res 02 ohm 5w 5% radial mpr5jb20l0 r13 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 172 res 02 ohm 5w 5% radial mpr5jb20l0 r14 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 173 res 02 ohm 5w 5% radial mpr5jb20l0 r15 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 174 res 02 ohm 5w 5% radial mpr5jb20l0 r37 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 175 res 02 ohm 5w 5% radial mpr5jb20l0 r38 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 176 res 02 ohm 5w 5% radial mpr5jb20l0 r39 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 177 res 02 ohm 5w 5% radial mpr5jb20l0 r40 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 178 res 02 ohm 5w 5% radial mpr5jb20l0 r41 stackpole inc mpr5jb20l0 nd
-__label__采样电阻 , 179 res 02 ohm 5w 5% radial mpr5jb20l0 r42 stackpole inc mpr5jb20l0 nd
-__label__可调电阻电位器 , 393 trimmer 10k ohm 0.25 w smd st4etb103 trimmer 10k ohm 0.25 w smd vr1 copal inc 3 st4etb103ct nd
-__label__可调电阻电位器 , 394 trimmer 10k ohm 0.25 w smd st4etb103 vr2 copal inc st4etb103ct nd
-__label__可调电阻电位器 , 395 trimmer 10k ohm 0.25 w smd st4etb103 vr3 copal inc st4etb103ct nd
-__label__可调电阻电位器 , 396 trimmer 10k ohm 0.25 w smd st4etb103 vr4 copal inc 1 st4etb103ct nd
-__label__排阻 , 27 6 266 100k rc res netwrk comm bus 10pin 100k 2% rp1 rp2 rp3 rp4 rp5 rp6 sip 10p largepad 266 100k rc xicon
-__label__贴片电感 , 1 130 0276 000 ind p8e8 smd 47 uh 20% 700ma 360mohm dcr max 20 x15 x17 mm 10 mag layers scientific technics co ltd msch 2015c 4r7m f rt l2d2
-__label__功率电感 , 35 1 1uh 3.7 a srn4018 1r0y inductor 4x4 smt l701 yes ferrite 30% 3.7 a 3.5 a inductor smps 0.20400000000000001 0.20400000000000001 20.4 0.0022310975184289747 newark
-__label__有源晶体振荡器 , 44 1 0 abracon achl 25000 mhz ek stall x5 250 mhz half cap 8 p dip 30 ppm 33 v with oe plug to x7 socket acol achl pdf
-__label__电容器阵列与网络 , 90 3 2 0805 a4 ecj tvb1c103m cp21 cp52 cp53 cp52 cp53 cap array 01 uf 16v x7r 0805 abk0000ce2 pdf
-__label__电容器阵列与网络 , 95 38 37 0805 a4 ckcl44x5r0j104m cp1 cp2 cp3 cp10 cp11 cp12 cp13 cp20 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp70 cp71 cp75 cp80 cp81 cp90 cp100 cp101 cp102 cp103 cp110 cp121 cp122 cp128 cp129 cp130 cp131 cp1 cp2 cp3 cp10 cp11 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp65 cp70 cp71 cp100 cp101 cp102 cp103 cp104 cp105 cp106 cp111 cp112 cp113 cp114 cp115 cp116 cp117 cp118 cp121 cap 4 array 10 uf 63 v x5r 0805 e4181 ckc pdf
-__label__采样电阻 , 235 1 res cur sense smt smv r4723 0.002 r r657 smv r0022 1.0 400
-__label__绕线电阻 , 17 allied ohmite 296 5449 resistors wirewound 25 ohms pwr rtg 3 8 106 848 alliedelec search productdetail aspx sku 2965449 purchased 11 16 10
-__label__贴片高精密-低温漂电阻 , r2 r13 r18 39855700 6 resistor 01% 0805 10k welwyn pcf0805r 10kbi
-__label__贴片高精密-低温漂电阻 , r3 r10 r15 39868220 6 resistor 01% 0805 200k welwyn pcf0805r 200kbi
-__label__可调电阻电位器 , r4 r9 r17 9353305.0 12 trimmer 25 turn 50k 3296w 1 503lf
-__label__贴片高精密-低温漂电阻 , 17 r7 1 33 rr1220q 220 d susumu co ltd res 22 ohm 0.5% 0.1 w 0805 0805
-__label__贴片电感 , 56 0.24 uh ind 252012 l2104 l2105 2.0
-__label__贴片电感 , 57 1uh ind 3x3 3015 l2102 l2103 2.0
-__label__贴片电感 , 58 2.2 uh ind 3x3 3015 l2100 l2101 2.0
-__label__贴片电感 , 59 4.7 uh ind 3x3 3015 l6300 1.0
-__label__贴片电感 , 60 3.3 uh ind 3x3 3015 l2106 l2107 2.0
-__label__贴片电感 , 61 3.3 uh ind 4x4 4018 l2000 l2001 2.0
+__label__板对板连接器 , j1 amp t mt utmi + ulpi combo 1 1734037 0
+__label__贴片电阻 , r23 resistor 20k ohm 1 10w 0.1% 0603 smd era 3yeb203v
+__label__开关电源芯片 , u2 ic sw dual usb autoreset 10 umax max1823 max1823beub
+__label__贴片超低阻值电阻 , r8 r10 resistor 0.020 1% 1 4w 0805 erj 6bwjr020v
+__label__功率电感 , l1 l3 inductor 4.7 uh multi layer shielded 1100ma 0805 lqm2mpn4r7ng0l 9vout
+__label__排针排母 , j32 header 2 x 5 0.1 inch right angle th htsw 1 05 25 l d ra
+__label__连接器附件套件 , j12 j13 j14 j15 j27 j29 receptacle coax u fl smt vertical u fl r smt 1 uf l
+__label__电源连接器 , j36 connector power jack 2.5 mm x 5.5 mm 12 v 4 a right angle th pj 002bh
+__label__74系列逻辑芯片 , u1 u7 u8 u16 u18 u19 ic 74lvc1g14 inverter shottky dck sn74lvc1g14dckr
+__label__MCU监控芯片 , u2 ic tc1270atvct mpu supervisor 3.08 v trip push pull sot23 5 tc1270atvct
+__label__特殊功能放大器 , u3 u5 ic current sense amplifier sot23 5 max9934faua
+__label__USB芯片 , u11 ic usb4624 usb 2.0 and w hsic 4 port qfn48 usb4624 qfn48
+__label__FLASH存储器 , u17 ic 25vf640c 64mb 8m x 8 spi serial flash 2.5 v 3.6 v 75 80mhz dual read so8 sst25vf064c 80 4i s3ae spi
+__label__电子线材连接线 , jmp1 j5 pins 3 4 jmp2 j7 pins 3 4 wire jumper 30 awg or larger evb
+__label__开关二极管 , d13 d21 diode mmbd914lt fast switching 100vdc 200ma sot 23 mmbd914lt1g mmbd914lt1gosdkr nd
+__label__开关二极管 , d26 diode switching 75v 0.2 a sot 23 mmbd914 7 f 621 mmbd914 7 f
+__label__排针排母 , j8 hdr 10pos 100 sgl gold tsw 105 07 g d sam1028 05 nd
+__label__电源连接器 , j10 conn pwr jack 2.5 x6.5 mm 8a pj 063bh 490 pj 063bh
+__label__拨码开关 , sw1 sw2 switch sip spst 6pos vertical unshielded 20v spa06b 611 spa06b
+__label__连接器附件套件 , tp1 test point pc mini 040 d yellow 5004 5004k nd
+__label__连接器附件套件 , tp2 test point pc mini 040 d orange 5003 5003k nd
+__label__连接器附件套件 , tp3 tp4 tp10 test point pc mini 040 d red 5000 5000k nd
+__label__连接器附件套件 , tp5 tp6 tp7 tp8 test point pc mini 040 d black 5001 5001k nd
+__label__连接器附件套件 , tp9 test point pc miniature t h blue 5117 5117k nd
+__label__模拟开关芯片 , u5 quad 2 1 mux demux fet busswitch pi3b3257qe 729 pi3b3257qe
+__label__门极反相器 , u14 u15 u18 u19 ic b uf f 74lvc1g14se 7 sngl sot 553 74lvc1g14se 7 621 74lvc1g14se 7
+__label__MOSFET , q2 mchp analog mosfet n ch 25v 100a 0.0026 r mcp87022t u mf pdfn 8 mcp87022t u mf mcp87022t u mf
+__label__FLASH存储器 , u2 flash serial spi 2.7 3.6 v x1 x2 x4 soic8 sst26vf016b 104i sm 579 st26vf016b104ism
+__label__DC-DC芯片 , u16 ic 2.7 v to 5.5 v 2a synchronous 2mhz buck regulator with adjustable power good signal mic23201yml 998 mic23201ymlt5
+__label__DC-DC芯片 , u17 ic 4.5 v to 30v 20a 600khz buck controller power good signal mcp19035baabe mf 579 mcp19035baabe mf
+__label__拨动开关 , sw1 sw slide dp3t 12vdc 100ma smt ayz0203agrlc
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn utc2000
+__label__USB芯片 , u4 ic usb3.0 usb2.0 switch 32tqfn pi3usb3102zle
+__label__开关二极管 , d7 dio rectarr bav99 1.25 v 200ma 70v sot 23 3 bav99
+__label__USB连接器 , j2 con usb 3.0 std a rcpt th r a inc 692121030100
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn technology utc2000
+__label__USB芯片 , u3 ic usb3.0 usb2.0 switch 32tqfn pericom pi3usb3102zle

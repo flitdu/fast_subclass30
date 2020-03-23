@@ -12,8 +12,6 @@
 7420 鉭 電容 0.47 uf 16v 20% dip 2 p 410
 7421 鉭 電容 10 uf 16v dip 2 p 685
 7422 鉭 電容 2.2 uf 16v dip 2 p 1100
-47 c0200144 钽质 电容 t491b226k016at 22 μ f 16v ± 10% b 卷装 3528 kemet 2 1000
-c2 1 rcd tse 477 k010tw cap tant 470 uf 6.3 v 10% 2917 5000
 14982 tpsd336k020r0200 鉭 電容 ta d 33 uf 20v ± 10% 440
 14991 tpsd226m025r0200 鉭 電容 smd 22 uf 25v ± 20% d case 434
 17775 f750j108mrc 鉭 電容 1000 uf 6.3 v 20% 年份 2002 nichicon 390
@@ -30,6 +28,8 @@ c2 1 rcd tse 477 k010tw cap tant 470 uf 6.3 v 10% 2917 5000
 19236 tpse107m016r0100 鉭 電容 e case 100 uf 16v ± 20% kyocera 700
 19622 tsm0j476tssr 鉭 電容 b2 case 47 uf 6.3 v ± 20% partsnic 1338
 19651 12 10700 460 ta d 鉭 電容 d case 100 uf 6.3 v adc 227
+t491a106m020at 10 uf 3216 18 eia kemet 399 5152 2 nd
+taja105k025rnj 1 uf 3216 18 eia 478 2363 1 nd
 c14 captaja 4 7 uf 4.7 uf ± 10% rtaj a yes top capacitor case a 4.7 uf 10v tantalum taja475k010r fec 498658 yes 105 88.5 0
 c18 captajb 33 uf 33 uf ± 10% rtaj b yes bottom capacitor case b 33 uf 6.3 v tantalum tajb336k006r fec 197040 yes 18 80.75 180
 c20 captajb 33 uf 33 uf ± 10% rtaj b yes bottom capacitor case b 33 uf 6.3 v tantalum tajb336k006r fec 197040 yes 32.5 80.75 180
@@ -192,15 +192,13 @@ cap tant 1u 50v smd 55 to 125 ± 20% taja105m050rnj cap3216 18 10 n m s u
 cap tant 47 uf 35v smd 55 to 125 ± 20% kemet t495x476m035ate200 cap7343 43 10 n m s u
 cap tant 22 uf 35v smd 55 to 125 ± 10% kemet t495d226k035ate200 cap7343 43 10 n m s u
 cap tant 22 uf 35v smd 55 to 125 ± 10% kemet t495d226k035ate200 cap7343 43 10 n m s u
-10 ec0010280 cap tan smd a 10 uf 10v 293d106x9010a2t scs1a106kaar tcsc1a106kaar tcscs1a106kaar cap tan smd a 10 uf 10v 293d106x9010a2t scs1a106kaar tcsc1a106kaar tcscs1a107kaar c35 c63 c78 c105 c168 c292
-10 ec0010780 cap tan smd d 100 uf 16v cap tan smd d 100 uf 17v c40 c50
-1.0 ec0020220 cap tan smd d 330 uf 10v cap tan smd d 330 uf 11v c5 c9 c11 c14 c169 c295 tpsd337k010r0100
-10 ec0020230 cap tan smd a 1 uf 16v scn1c105kaar tcscn1c105kaar cap tan smd a 1 uf 16v scn1c105kaar tcscn1c106kaar c108
-1.0 ec0020440 cap tan smd a 1.5 uf 16v cap tan smd a 1.5 uf 17v c119 taja155k016r
-10 ec0055770 cap tan b 33 uf 25v tcsvs1e335kbar b45196h5335k209 b45196h5335m209 cap tan b 33 uf 25v tcsvs1e335kbar b45196h5335k209 b45196h5335m210 c114
 399 4009 1 nd kemet va t520b107m006ate070 capacitor tant 100 uf 6.3 v 20% smd 48 399 4009 1 nd capacitor tant 100 uf 6.3 v 20% smd 0.972
+c206 c207 330 uf tant 2.5 v capacitor kemet t520v337m2r5ate025 capmp7343x180n alt1 399 4105 1 nd 3.69 2.56
+c233 c240 c247 c249 c256 c258 c265 c267 330 uf low esr cap tant 330 uf 10v 10% 2917 kemet b45197a2337k409 capmp7343x310n alt1 495 1535 1 nd 2.43 1.41
 58 1 c137 33 uf cap tant 33 uf 25v 10% 2917 kemet t495d336k025zte230 capmp7343x310n alt1 495 1569 6 nd 1.69 1.69 0.9825 0.9825
 61 8 c233 c240 c247 c249 c256 c258 c265 c267 330 uf low esr cap tant 330 uf 10v 10% 2917 kemet b45197a2337k409 capmp7343x310n alt1 495 1535 1 nd 2.43 19.44 1.41 11.28
+c137 33 uf cap tant 33 uf 25v 10% 2917 kemet t495d336k025zte230 capmp7343x310n alt1 495 1569 6 nd 1.69 0.9825
+c233 c240 c247 c249 c256 c258 c265 c267 330 uf low esr cap tant 330 uf 10v 10% 2917 kemet b45197a2337k409 capmp7343x310n alt1 495 1535 1 nd 2.43 1.41
 钽电容 10 uf 25v 10 uf 25v ± 10 c 200 200
 钽电容 1 uf 50v 1 uf 50v c 100 100
 钽电容 3.3 uf 35v 3.3 uf 35v b 100 100
@@ -353,23 +351,8 @@ ele0901 1 1 tp1206000047 uma 钽电容 1206 a 47 uf ± 20% 10v 605 n
 9 131981 1 tp225 x9025a2te3 钽电容 293d225x9025a2te3 22 uf 10% 25v 1206 钽电容 293d225x9025a2te3 1206 8 y
 10 131981 1 tp475 x0063d2te3 钽电容 293d475x0063d2te3 47 uf 63v 20% d 钽电容 293d475x0063d2te3 8 y
 14 131981 1 tp aja105m020rnj 钽电容 taja105m020rnj 1 uf 20% 20v 1206 钽电容 taja105m020rnj 1206 8 y
-钽电容 3528 22 uf 16v 2000
-93 坦质 电容 ccap 470 uf ± 20% 2.5 v 7.3 4.3 2.0 mm kemet t520v477m2r5ate009 smt kemet t520v477m2r5ate009 52 2080
-1 坦质 电容 ccap 330 uf ± 20% 6.3 v d2 sanyo 6tpc330ma smt sanyo 6tpc330ma 18 720
-35 坦质 电容 ctcap b 2.2 uf ± 10% 16v tajr225k016rnj smt tajr225k016rnj 2 80
-2002020012 钽电容 tan tpsc476k010r0350 6032 47 uf 10% 10v 5 20 0.03 b 100
-c5 钽电容 4.7 uf 16v 3216 a 1 5
-c70 钽电容 100 uf 107 ± 10% 6.3 v lc case b 3528 1 5
-c76 c82 c84 c108 c111 c113 钽电容 taja106k016rnj taja106k016rnj 3528 b 6 corporation 16 uf 16v 30
-c28 c29 钽电容 taja225k016rnj taja225k016rnj 3216 a 2 corporation 2.2 uf 16v 12
-c28 c29 钽电容 2.2 uf 16v 3216 a 2 30
-c34 钽电容 10v 100 uf 7343 de 1 15
-c154 c156 钽电容 10 uf 35v 6032 c 2 30
 1 130 2002020001 钽电容 tan tajd107k016rnj 7343 100 uf 10% 16v c147 c149 c891 c996 c999 ck08 ck09 ck11 8 20 b 160 dlk
 1 180 2002020005 钽电容 tan tajb106k020rnj 3528 10 uf 10% 20v c836 c846 2 20 b 40 dlk
-2 100 uf 16v c23 c24 d 7343 tantilum 16v ± 10% smd d 7343 tajd107k016rnj 40.0
-1 680 uf 6.3 v tantalum c26 eia7343 tantilum 6.3 v ± 10% smd taje687k006rnj 20.0
-t491b226k010atautotrjb226k010rrjtpsb226k010t0700tcqb226m006r0070f971a226mbaf970j226mba 3528 1210 英制 smd 3.5 mm 2.8 mm kemet ce5 ce6 钽电容 22 uf 10v low esr 3.5 mm 2.8 mm 2.0 8.0
 47 uf 10v 胆 电容 c40 b 10 1
 po20190026 3000027858 钽电容 钽电容 16v 47 uf ± 20% b 1210 870
 120 034w000005000 701801007600 电容 330 uf 2.5 v ± 20% smd 11mr 2700ma h 1.9 mm etpe330mbjb 26 2600 mbs 5330 26.0
@@ -493,6 +476,27 @@ c43 22 uf 16v b tantal b 20% 16v 1 n
 19 132861 1 tp b685k016r1200 钽电容 tpsb685k016r1200 16v 10 20% 68 u 104 y
 20 132861 1 tp491 b106k016at 钽电容 t491b106k016at 16v 10 20% 10u 104 y
 21 132861 1 tp491 b226k016at 钽电容 t491b226k016at b case tantal 16v 22u 204 y
+5 133726 1 tp12060004 r7ukc 钽电容 1206 a 47 uf ± 10% 16v 5 n
+1 2k2301a0 c06 s000306 cap tant 220 uf 16v 2917 ± 10% t491d227k016at kemet 钽电容 1
+15 16p8301a0 c06 s000315 cap tant poly 680 uf 6.3 v 2917 6tpe680mi 钽电容 12
+18 1 66a.7343 107e2k 钽电容 ct 107 7343 10% 25v tan 1 tc7343 tan tpme107k025r0060 c228 12
+19 1 66a.7343 337ecm 钽电容 ct 337 7343 20% 10v tan 2 tc7343 tan tpme337m010r0023 c241 c269 24
+13 1 66a.7343 475g2m 钽电容 ct 475 7343 20% 50v tan 2 tc7343 tan tpsd475m050r0300 c11 c12 24
+14 1 66a.3528 107b2m 钽电容 ct 107 3528 20% 6.3 v tan 1 tc3528 tan tpsb107m006r0250 c8 12
+44 66a.7343 107e2k 钽电容 ct 107 7343 10% 25v tan 2 7343 tpme107k025r0060 c420 c421 110
+21 16p8302b0 c06 s000315 cap tant poly 680 uf 6.3 v 2917 6tpe680mi 钽电容 60 9 540
+17 16p8302b0 c06 s000315 cap tant poly 680 uf 6.3 v 2917 6tpe680mi 钽电容 540
+2 cap case b c5 case b 10 uf 16v b 10 uf 16v tantalum case b 10 uf 16v tantalum case b 25 100
+cap case b c46 case b 10 uf 16v b 10 uf 16v tantalum case b 10 uf 16v tantalum case b 25 100
+1 cap case b c13 case b 100 uf 6v3 b 10 uf 16v tantalum case b 10 uf 16v tantalum case b 25 100
+1 cap case d c36 case d 100 uf 6v3 esr 0.7 r 100 uf 6v3 tant case d esr 0.7 r 100 uf 6v3 tant case d esr 0.7 r 25 100
+2 钽 电解 电容器 kemet 钽电容 e 35v 226 c2 c5 c11 3 9
+8 钽 电解 电容器 nichicon 钽电容 e 25v 106 c223 c243 c245 c247 4 12
+钽电容 100 uf 6.3 v b size m 1 1000.0
+c14 22u tantalum axial 74 173d226x9020xwe3
+c104 c105 cap 47 mfd tantalum 10%
+cap tant 47 uf 20v 10% 2413 kemet t491c476k020at
+smcap 100 uf 6.3 v 20% tantalum rohm semiconductor tct al 0j 107 m8r 2 c1 c9
 tantalum capacitors solid leaded 4.70 uf 35.0 v10% 1
 tantalum capacitors solid leaded 6.3 volts 22 uf 10% 1
 tantalum capacitors solid leaded 35volts 1 uf 10% 1
@@ -540,6 +544,12 @@ capacitors tantalum caps z815126 293d226x96r3c2te3 22 uf 6.3 v 10% case c smt ta
 47 1 xc4 e000690 cap tant 10 uf c3216 10 10v taja106k010rnj rel a004 0007 053
 5 y 6 c201 c232 c234 c236 c238 c240 cap tant 10 uf c3216 taja106k010rnj y n
 9 1 c201 cap tant 10 uf 10v 10% 1206 1206 taja106k010rnj 478 1654 1 nd yes
+c1 c2 c3 pcap 6032 28 100 uf 10v b45197a2107k309 495 1528 1 nd
+c15 c16 tajc tajc 10 uf 16v taj 0.1 tajc106k016r digi key 478 1698 1 nd any pb free mfr ok yes
+c141 c142 cap taja taja 4.7 uf 10v taja 0.1 taja475k010r digi key 478 2350 1 nd any compliant mfr ok yes
+c143 cap taja tajd 47 uf 16v tajd 0.1 tajd476k016r digi key 478 1739 1 nd any compliant mfr ok yes
+cap 150 uf d tant 150 uf d 10 volt tantalum capacitor smd mount case size d kemet t520d157m010ase025 6
+cap 10 uf d tant 10 uf d 16 volt tantalum capacitor smd mount case size b kemet t491b106k016as 68
 11 tantalum capacitor smd 10 uf 25v smd kemet t491a106m025at 1 700 t491a106m025at kemet 1
 ch tantalum cap 6032 10 uf 16v dca17 corporation tpsc106k016r0500 900
 ch tantalum cap 20v 1 uf 3216 c31 c32 c33 c34 corporation tpsa105k020r3000 3600
@@ -549,6 +559,10 @@ ch tantalum 4.7 uf 25v 3528 cap cp23 cp31 corporation tpsb475k025r0700 1800
 ch tantalum cap 68 uf 10v cp6 cp32 corporation tpsc686k010r0100 1800
 ch tantalum cap 100 uf 6.3 v 3528 cp27 corporation tpsb107k006r0400 900
 ch tantalum 22 uf 10v 3528 cp18 corporation tpsb226k010r0700 900
+c13 c41 42 capsmttant4.7 uf 20v 4.7 uf smt tantalum capacitor 4.7 uf 20v
+c14 c60 61 capsmttant4.7 uf 20v 33 uf smt tantalum capacitor 4.7 uf 20v
+c62 63 capsmttant33 uf 20v 33 uf cap tantalum smt 33 uf 20v
+100u 6v3 t520 kemet t520b107m006ate070 caseb esr 0 07 ir 0 4a 1 c120
 1 1 uf 35v ta cpol eutt2d5 c21 cap 1 uf 25v dip tant 2.5 mm ls tap105k025scs 581 tap105k025scs 0.4 0.4 20v 35v ok
 2 2.2 uf 25v ta cpol eutt2d5 c10 c12 cap 2.2 uf 25v dip tant 2.5 mm ls tap225k025srw 581 tap225k025scs 0.5 1 20v 35v ok
 1 c1 tantalum cap axial kemet t322b106k010at 10 uf 10v 399 4545 d k 0.98 0.98
@@ -581,19 +595,177 @@ cap tant 1u 50v 2 smd 55 to 125 ± 20% taja105m050rnj cap3216 18 10 n m s u
 cap tant 47 uf 35v 4 smd 55 to 125 ± 20% kemet t495x476m035ate200 cap7343 43 10 n m s u
 cap tant 22 uf 35v 4 smd 55 to 125 ± 10% kemet t495d226k035ate200 cap7343 43 10 n m s u
 cap tant 22 uf 35v 4 smd 55 to 125 ± 10% kemet t495d226k035ate200 cap7343 43 10 n m s u
+17 c2 10 µ smd b cap 10 uf 10v tant series pcs2106ct nd
+t520l337m2r5ate025 c12 c15 330 uf c6032 cap tant 330 uf 2.5 v 20% smd kemet
+t520l337m2r5ate025 c16 c17 330 uf c6032 cap tant 330 uf 2.5 v 20% smd kemet
+t495d477m006ate045 c153 470 uf c7343 31 cap tantalum 470 uf 6.3 v 0.045 ohm esr smd kemet
+c746 c747 c755 c756 470 uf 7343
+ta cap 47 uf d 10v 20% 40 85 kemet t491d476m020as 1 1.00 c58
+b45196 h1336 m209 1
+2 2 c3 c4 220 uf tantalum cap 63 v smd eefcx0j221r
+4 c107 c108 c109 c110 4 size b condensatore 1 uf 25v tantalio ntc l smd prime
+5 c9 1 size a condensatore 2u2f 6v3 tantalio ntc t kemet smd prime
+6 c11 c25 c48 c53 c68 5 size b condensatore 10 uf 16v tantalio ntc l smd prime
+7 c71 c91 c92 c97 4 size b condensatore 22 uf 16v tantalio ntc l kemet smd prime
+8 c4 c87 2 size c condensatore 33 uf 6v3 tantalio ntc l kemet smd prime
+9 c96 1 size d condensatore 100 uf 16v tantalio smd ni nm prime
+21 et22 16b tantal b 22 uf 10v 2.0 maritex 2.0 c24 c47
+22 et10 35c tantal c 10 uf 35v 2.0 maritex 2.0 c21 c22
+cap 1.5 mf 6.3 v 20% tantalum 7.2 x6.3 x2mm capacitor kyocera f720j158mmc 592d158x06r3r2t20h
+1.0 150 75055 cap tant 10 uf 16v 10% 3216 18 c2 taja106k016r
+1 uf 35v 0.1 tantalum 0.2 2 c8 c9
+10 uf 10v or 47 uf 0.1 tantalum 0.2 1 c12
+capacitor 22 uf 25v tantalum tr3c226k025c0250 718 1514 1 nd 6032 28 c10 lucas 28 10 17
+c105 c106 polarized capacitor 4.7 uf 6.3 v 2 taja475m010rnj digi key 478 3869 1 nd 0.38 0.289 0.76 0.578
+10 uf 16v c case cz11 6032 polarized cap surfacemount cap if
+2 1 uf 10v ct22 a case polarized cap surface mount type a case trxavrb
+2 1 uf 10v ct21 a case polarized cap surface mount type a case trxavrb
+2 1 uf 10v ct24 a case polarized cap surface mount type a case trxavrb
+2 1 uf 10v ct25 a case polarized cap surface mount type a case trxavrb
+2 1 uf 10v ct23 a case polarized cap surface mount type a case trxavrb
+2 1 uf 10v ct20 acase polarized cap surface mount type a case trxavrb
+17.0 1.0 c133 100 uf cap tant 100 uf 6.3 v 3528 21 kemet b45196h1107m309
+c5 t4735 capacitor tantalum 47 uf 35v 1ls 1 1
+1 1 ct1 100 uf kemet t520b107m006ate018 cap tant 100 uf 6.3 v 20% smd 3528 21 ct3528 yes 399 5308 1 nd
+3 1 ct3 470 uf kemet t520d477m004ate018 capacitor tant 470 uf 4v 20% smd 7343 31 ct7343 yes 399 4059 1 nd
+4 4 ct4 ct7 ct10 ct12 330 uf kemet t495x337k010ate060 capacitor tant 330 uf 10v 10% smd 7343 43 ct7343 yes 399 3903 1 nd
+5 2 ct5 ct6 220 uf kemet t520b227m2r5ate015 cap tant 220 uf 2.5 v 20% smd 3528 21 ct3528 yes 399 5304 1 nd
+6 1 ct9 680 uf corporation t520d687m003ate015 capacitor tant 680 uf 3v 20% smd 7343 31 ct7343 yes 399 4063 1 nd
+7 1 ct11 100 uf kemet t491x107k025zt cap tant 100 uf 25v 10% smd 7343 ct7343 yes 399 5175 1 nd
+1 2 ct1 ct3 33 uf cap tant 33 uf 10v 10% smd kemet t491a336k010at 3216 18 ct3216 yes 399 5279 1 nd
+2 1 ct2 470 uf cap tantalum 470 uf 6.3 v 10% smd corporation tajd477k006rnj 7343 31 ct7343 yes 478 1741 1 nd
+3 1 ct4 100 uf cap tantalum 100 uf 16v 20% smd kemet b45196h3107m409 7343 31 ct7343 yes 495 2256 1 nd
+4 2 ct5 ct6 100 uf cap tantalum 100 uf 6.3 v 20% smd corporation tajb107m006rnj 3528 21 ct3528 yes 478 3877 1 nd
+2 1 ct3 680 uf capacitor tant 680 uf 3v 20% smd kemet t520d687m003ate015 7343 31 ct7343 31 yes 399 4063 1 nd
+4 1 ct5 1000 uf 2.5 v cap tant 1000 uf 2.5 v 20% smd kemet t530y108m2r5ate005 7343 40 ct7343 40 yes 399 4749 1 nd
+5 1 ct6 100 uf cap tant 100 uf 25v 10% smd kemet t491x107k025zt 7343 ct7343 yes 399 5175 1 nd
+6 2 ct7 ct8 100 uf cap tant 100 uf 6.3 v 20% smd kemet t520b107m006ate018 3528 21 ct3528 yes 399 5308 1 nd
+ct6 100 uf kemet t491x107k025zt cap tant 100 uf 25v 10% smd 7343 ct7343 yes 399 5175 1 nd 03 00301 01
+3 t491e107k020at 399 4629 2 nd 100 uf 10% tantalum 125c 20v 6.171 ebig capacitor polarized capacitor cf1 3
+1 t520v337m2r5ate025 399 4105 1 nd 32k7146 newark 330 uf 20% tantalum 105c 2.5 v 2.565 e capacitor polarized capacitor cf4
+smcap tant 100 uf 6.3 v 20% 1206 5 rohm tctal0j107m8r c1 c9 c34 c35 c36
+10 uf 16v c case cz11 6032 polarized cap if
+10 uf 25v c1014a 3528 polarized cap bpf
+1 uf c129 1206 polarized cap a case ok codec
+1 uf c118 1206 polarized cap a case ok dsp mb
+1 uf c133 1206 or 1210 polarized cap a case ok dsp mb
+1 uf c130 1206 polarized cap a case ok codec
+1 uf c119 1206 polarized cap a case ok dsp mb
+1 uf c126 1206 polarized cap a case ok codec
+1 uf c117 1206 polarized cap a case ok dsp mb
+1 uf c127 1206 polarized cap a case ok codec
+1 uf c116 1206 polarized cap a case ok dsp mb
+1 uf c115 1206 polarized cap a case ok dsp mb
+1 uf dipped tantalum cap 1 10 uf also ok c902 rb1 2 polarized cap must be dipped tantalum type ! opto af amp
+1 uf 10v ct21 a case polarized cap trxavrb
+1 uf 10v ct22 a case polarized cap trxavrb
+1 uf 10v ct20 a case polarized cap trxavrb
+1 uf 10v ct25 a case polarized cap trxavrb
+1 uf 10v ct23 a case polarized cap trxavrb
+1 uf 10v ct24 a case polarized cap trxavrb
+4u7 10v ct17 acase polarized cap trxavrb
+4u7 10v ct18 acase polarized cap trxavrb
+4u7 10v ct28 acase polarized cap trxavrb
+4u7 10v c633 acase polarized cap if
+4u7 10v cc5 acase polarized cap dds
+4u7 10v cc2 acase polarized cap dds
+4u7 10v cc3 acase polarized cap dds
+4u7 10v cz3 acase polarized cap if
+4u7 10v cc4 acase polarized cap dds
+4u7 10v cc6 acase polarized cap dds
+4u7 10v cc1 acase polarized cap dds
+4u7 10v ct19 acase polarized cap trxavrb
+4u7 10v cc7 acase polarized cap dds
+4u7 16v c131 rb1 2 polarized cap dsp mb
+4u7 16v c122 rb1 2 polarized cap dsp
+4u7 16v cz12 rb1 2 polarized cap if
+4u7 16v cz12a acase polarized cap if
+c1 399 3695 1 nd capacitor tant 47 uf 25v 10% smd 1
+c2 399 3746 1 nd capacitor tant 22 uf 25v 10% smd 1
+c3 478 1701 1 nd cap tantalum 10 uf 35v 10% smd 5
+c10 478 1701 1 nd cap tantalum 10 uf 35v 10% smd 0
+c15 478 1701 1 nd cap tantalum 10 uf 35v 10% smd 0
+c4 478 1701 1 nd cap tantalum 10 uf 35v 10% smd 0
+c7 478 1701 1 nd cap tantalum 10 uf 35v 10% smd 0
+b45197a3227k509 smt tantalium capacitor 220 uf 16v size e size e farnell 9751203 4.6 15.0
+taje687k006r smt tantalium capacitor 680 uf 6.3 v size e size e farnell 1432414 13.28 12.0
+t510e108m004ate010 smt tantalium capacitor 1000 uf 4.0 v size e size e farnell 9229450 8.23 13.0
+t520v337m006ate015 smt tantalium capacitor 330 uf 6.3 v size v size v farnell 1358521 9.06 11.0
+smt tantalium capacitor 15 uf 10v size a size a 0.0
+smt tantalium capacitor 10 uf 20v size c size c farnell 1288223 yes 2.34 0.0
+smt tantalium capacitor 47 uf 20v size d size d farnell 9229353 yes 4.47 0.0
+smt tantalium capacitor 100 uf 6.3 v size d size d farnell 1135180 yes 0.9 0.0
+smt tantalium capacitor 220 uf 6.3 v size d size d farnell 1135183 yes 1.23 0.0
+t520x157m016ate040 smt tantalium capacitor 150 uf 16v size x sizex farnell 1358528 15.59 14.0
+c72 76 10 uf b45197a5106k309 10 uf ± 10% cap tant 10 uf 25v 10% loesr smd kemet b45197a5106k309 digi key 495 1565 1 nd 0.69
+c7 c8 capacitor 10 uf smd 10 uf sparkfun prt 11244 3216 smd 10 uf 0
+capacitor aluminum solid 220 uf 6.3 v smd capae d sanyo 6svpc220mv 3 tc2 tc3 tc4 220u 6.3 v
+capacitor aluminum solid 39 uf 16v smd capae c sanyo 16svpc39m 1 tc1 39u 16v
 钽电容 chip tantalum capacitor 100 uf ± 10% 10v e d 元器件 竖条 阴极 pcb 缺口 阴极 1 ea1
 钽电容 chip tantalum capacitor 100 uf ± 10% 16v e d 元器件 竖条 阴极 pcb 缺口 阴极 2 ea2 ea3
 c 10 uf 10v 3216 ta 10 uf 10v 3216 a 钽电容 100 201711 15
 c 100 uf 10v 3528 ta 100 uf 10v 3528 钽电容 100 201711 15
+47 uf 6.3 v tantalum capacitor smd batt backup circuit corporation tajb476k006r 478 1692 1 nd 0.65 c2 1
 c3 c89 c90 47 uf 35v capacitor case c 5x5.8 mm 47 uf 35v 105 ° 5% case c eee ft1v470ar cap alum 47 uf 20% 35v smd
+c28 c40 c22 c23 c24 c25 c26 c27 c29 c34 c35 c36 c37 c38 c39 c41 cp eia 3528 21 kemet b 160 100 uf 63 v www2 productdetail kemet t520b107m006ahe040 qs sgaepimzzmtz1n0r9vr22twiob9sbw% 2fvgy6lrodrpt0% 3d
+smd tantalum 10 uf a 16v 10%
+22 uf b 10v 10%
+22 uf c 25v 10%
+47 uf b 10v 10%
+100 uf b 10v 10%
+470 uf d 6.3 v 10%
+chip cap tant 47 uf 16v 7343 e 7343 e
+chip cap tant 1 uf 16v tantalum tantalum
+capacitor ta 100 uf 10v 10% 6032 100 uf 10v c ta 100 uf 10v 10% 6032 c ta 100 uf 10v 10% 6032
+chip cap tant 47 uf 50v 3528 b 3528 b
+chip cap tant 100 uf 16v e 7343 e 7343 e
+chip cap tant 10 uf 35v 3528 b 3528 b
+chip cap tant 022 uf 50v b 3528 b 3528 b
+capacitor ta 47 uf 6.3 v 20% 3216 47 uf 6.3 v c ta 47 uf 6.3 v 20% 3216 c ta 47 uf 6.3 v 20% 3216
+capacitor ta 150 uf 10v 20% 7343 150 uf 10v c ta 150 uf 10v 10% 7343 c ta 150 uf 10v 10% 7343
+capacitor ta 22 uf 10v 20% 3528 22 uf 10v c ta 22 uf 10v 20% 3528 c ta 22 uf 10v 20% 3528
+tantalum capacitor capacitor type low e tpsd227k010r0150 无源 器件 15.4 8.245
+capacitor tant 22 uf 16v 1.6 ohm 2312 tajc226m016r 无源 器件 2.09 1.9125
+tantalum capacitor capacitance 33 µ f ca tpsd336m020r0200 无源 器件 18.7 4.3775
+capacitor tant 0.22 uf 50v 17ohm radia tap224k050scs 无源 器件 1.43 1.3175
+tantalum capacitor tantalum cap type so t491x107k020at kemet 无源 器件 7.2 3.7399999999999993
+tantalum capacitor capacitance 15 µ f ca tpsd156m035r0300 无源 器件 9.35 6.1625
+tantalum capacitor capacitor type low e tpse337k010r0040 无源 器件 1491 952
+capacitor tant 33 uf 35v 0.3 ohm 2917 tpsd336m035r0300 无源 器件 46.8 12.1125
+tantalum capacitor capacitor type solid tap475k016srw 无源 器件 0.98 0.6375000000000001
+tantalum capacitor capacitance 10 µ f ca tr3b106k020c1000 sprague 无源 器件 2.333 1.105
+capacitor case d 330 uf 10v tpsd337k010r0100 无源 器件 21.46 14.0675
+capacitor tant 100 uf 10v 0.025 ohm 7343 2 t520v107m010ate025 kemet 无源 器件 14.6 11.6025
+capacitor case e 1500 uf 4v tpme158k004r0015 无源 器件 72.1 24.054999999999996
+capacitor case e 33 uf 25v tpse336k025r0300 无源 器件 34.2 10.2425
+capacitor 2.2 uf 35v case c thjc225k035rjn 无源 器件 6.6 2.5075
+capacitor 6.8 uf 35v case d thjd685k035rjn 无源 器件 14.07 5.3125
+capacitor 47 uf 25v case e trje476k025rrj 无源 器件 28.7 10.965
+t491c106k020at kemet capacitor tant 10 uf 20v 10% smd 6032 28 eia 5
+tpsc686k016r0200 corporation cap tant lowesr 68 uf 16v 10% smd 6032 28 eia 3
+t530d227m010ate010 kemet capacitor tant 220 uf 10v 20% smd 7343 31 eia 6
+c8 t495c227k006ate225 cap tant 220 uf 6.3 v 10% 2312 220 uf
+c2 10 uf cap taj c yes top kemet t491c106k016at cap tant 10 uf 16v case c kemet t491c106k016at fec 1457461
+c10 10 uf cap taj c yes top kemet t491c106k016at cap tant 10 uf 16v case c kemet t491c106k016at fec 1457461
+c20 10 uf cap taj c yes top kemet t491c106k016at cap tant 10 uf 16v case c kemet t491c106k016at fec 1457461
+c201 c217 c219 c221 c223 c225 c505 c525 capacitor tantalum 10 uf 10v 10% smd taja106k010rnj
+c11 capacitor low esr 10 uf 16vdc 10% tantalum eia b kemet b45190e3106k209
+c12 c14 c16 c18 c20 10 uf 6032 28 eia cap tantalum 10 uf 25v 10% smd 0.191 yes yes tajc106k025r
+c37 47 uf 6032 28 eia cap tantalum 47 uf 10v 20% smd 0.3344 yes yes kemet b45196h2476m309
+10 uf 10v smd tantalum capacitor precision molded chip esr 3 5 c93
 cap tant 4.7 uf 20% 25v c 2.0 2000 20000 cap tant 4.7 uf 10% 25v c 0.082 0.076 2
 cap tant 10 uf 20% 16v a 6.0 6000 60000 cap tant 10 uf 20% 16v a 0.13 0.11 2
 cap tant 1 uf 20% 20v a 2.0 2000 20000 cap tant 1 uf 20% 20v a taja105k020rnj 0.0538 0.0538 2
 cap tant 1.5 uf 20% 50v c 2.0 2000 20000
+1 c1 47u 3216 generic 3216 1 30 30 10 秋月 p 06040
+2 c2 10u 3216 generic 3216 1 12.5 12.5 10 秋月 p 06462
+3 c3 4 5 6 7 0.1 u 1608 generic 1608 4 0.325 1.3 4000 秋月 p 01299
 7 293d107x5010d2te3 cap tant 100 uf 10v 5% 2917 sprague 293d107x5010d2te3 1 1000 0 293d107x5010d2te3 sprague 1000 0.5735 9 16days dgk
 32 钽电容 47 uf ± 10% 6.3 v 1 3000 47 uf ± 10% 6.3 v case a 3216 3000 0.48 a 钽电容
 33 钽电容 100 uf ± 10% 16v 2 6000 100 uf ± 10% 16v case d 7343 6000 1.46 d 钽电容
 cap smd alum poly 330 uf 20% 6.3 v 330u tan r1608
+cap poly tan 470 uf 2v lowesr 7343 smd 470 uf 2 5v eef gx0d471r 9 c140 c152 c624 c629 c642 c643 c665 c744 c825
+cap poly tan 10 uf 6 3v lowesr 3216 smd 10 uf 6 3v kemet t491a106k006at7280 1 c833
 钽电容 10 uf 20% 10v a 14 ct5 e1 e2 e3 e4 e5 e6 e7 e12 e21 e8 e29 e10 e9 28000
 40 钽电容 47 uf 10% 10v b ct6 7 2 ct6 ct7 1.0 4000
 41 钽电容 220 uf 10% 10v d ct2 3 ct4 4 ct2 ct3 ct4 ct8 1.0 8000
@@ -608,8 +780,32 @@ tantalum capacitor case size c esr 1.8 10 uf 25v fn 197 518 pc 4500.0 tajc106k02
 tantalum capacitor case size c esr 0.15 22 uf 20v fn 113 5209 pc 1500.0 tpsc226k020r0150
 tantalum capacitor case size y esr 0.1 68 uf 10v tpsy686k0100r0100 fn 143 2665 pc 5000.0 tpsy686k0100r0100
 tantalum capacitor case size c esr 0.075 100 uf 6.3 v esr tpsc107k006r0075 fn 113 5101 pc 7500.0 tpsc107k006r0075
+10 uf capacitor tantalum 16vdc p2038 nd 0.498 cap100p ok
+2.2 uf capacitor tantalum 25vdc active 335x9025 0.16125 cap100p ok
+3.3 uf capacitor tantalum 25vdc active 335x9035 0.2475 cap100p ok
+c17 tantalum capacitor 220 µ f t520y227m010ate040 no yes
+c18 tantalum capacitor 220 µ f t520y227m010ate040 no yes
+c19 tantalum capacitor 220 µ f t520y227m010ate040 no yes
+c20 tantalum capacitor 220 µ f t520y227m010ate040 no yes
+c21 tantalum capacitor 220 µ f t520y227m010ate040 no yes
+c42 10 uf case a 3216 kemet t494a106m010at cap tant 10 uf 10v 20% 1206 case a 399 8432 1 nd
+10u kemet t491c106k020at 11220 024 digi key 399 3733 1 nd c eia 6032 28 capacitor tant 10 uf 20v 10% smd lead free compliant cap tant 10u 20v 0
+capacitor 10 uf 6v tantalum capacitor jam 1.0 0
+capacitor 2.2 uf 6v tantalum capacitor jam 2.0 0
+capacitor 1 uf 6v tantalum capacitor jam 1.0 0
+capacitor 10 uf 6v tantalum capacitor jam 1.0 0 0 0 0 0
+capacitor 1 uf 35v tantalum capacitor jam 4.0 0
+capacitor 47 uf 6v tantalum capacitor jam 2.0 0
+capacitor 47 uf 6v tantalum capacitor jam 1.0 0 0 0 0 0
+capacitor 47 uf 6v tantalum capacitor jam 1.0 0 0 0 0 0
+c5p022ta020 capacitor tant 2.2 mfd 20 vdc axial 715 183 100.0 pc 0.35 0.25 0.2 0.17 64.05 cap
+c6p010ta015 capacitor tant 10 mfd 15 vdc shelf 57 40.0 pc 0.6 0.35 0.28 0.25 51.87 cap
+c6p015ta020x capacitor tant 15 mfd 20 vdc axial box 7 248 150.0 pc 1.19 0.5 0.4 0.32 148.8 cap
+c6p015ta035 capacitor tant 15 mfd 35 vdc dip box 7 25 0.0 pc 1.88 0.75 0.6 0.5 17.5 cap
+c6p039ta010 capacitor tant axial 39 uf 10 v 715 1200 1000.0 pc 1.23 0.75 0.5 0.4 cap
 8 tantulum capacitor 220 uf 25v 7000
 钽电容 22 uf 16v 0.2 c212 1 c th3c226m016e1000 70
+c285 c295 t495b106m016ate650 kemet tantalum capacitors solid smd 16v olts 10 uf 20% 3528 10 uf 80 t495b106m16ate650
 胆 电容 10 uf 16v capt6032c 8 e2 e3 e4 e6 e7 e8 e10 e11 2 800 2400
 胆 电容 47 uf 16v capt6032c 2 e5 e9 47 uf 16v 20170317 2 200 600
 钽电容 100 uf 10v capt6032c 1 c742 3
@@ -620,18 +816,52 @@ tantalum capacitor case size c esr 0.075 100 uf 6.3 v esr tpsc107k006r0075 fn 11
 4 c 钽电容 47 uf 16v c 1 e5
 3 df d0 2u20 60 c 钽电容 2.2 uf 16v 6032 capt6032c 2 e5 e6
 4 dd d0 10 uf 04 b 钽电容 10 uf 10v 3528 b 1 e1
+电容 钽电容 1206 47 uf 6.3 v m 符合 4
 c1 c2 c5 c6 1 uf 25 volt ± 10% radial tantalum 4 4 545588 0.35 jameco c1v5
 c27 10 uf 25 volt ± 10% radial tantalum 1 1 545641 0.59 jameco c1v5
 c4 22 uf 16 volt ± 10% radial tantalum 1 1 545852 0.69 jameco c1v5
 c26 33 uf 25 volt ± 10% radial tantalum 1 1 33785 1.75 jameco c1v5
+c1 33 uf 35 volt tantalum capacitor 1 33523 029 jameco c1v5
+c3 1 uf 10 volt tantalum capacitor 1 33486 035 jameco c1v5
+c19 28 c43 47 1.0 uf 25 volt tantalum capacitor 15 545588 0.35 jameco c1v5
+c3 1 uf 35 volt tantalum capacitor 1 1 33486 039 jameco c1v5
+c1 33 uf 35 volt tantalum capacitor 1 1 33523 039 jameco c1v5
+c43 c47 c48 10 uf 35 volt tantalum capacitor 3 3 33689 1.19 jameco c1v5
 111 000 100 c51 c59 c103 c115 c127 c139 c157 c175 c185 c189 capacitor 10 uf tantalum 10% 16v b size inc b45190e3106k209 digi key corp 495 2238 1 nd
 111 082 4.0 c53 c61 c64 c69 capacitor 100 uf tantalum 10% 6.3 v 6032 28 c size 75 milliohms esr corporation tpsc107k006r0075 tti tpsc107k006r0075
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+10 uf low esr tantalum capacitor 10v tpsa106k010r1800 a
+22 uf low esr tantalum capacitor 16v tpsb226k016r0400 b
+22 uf low esr tantalum capacitor 16v tpsb226k016r0401 b
+100 uf tan 6.3 v low esr tantalum capacitor 6v tpsb107k006r0400 b
+220 uf tan 6.3 v low esr tantalum capacitor 6v tpsc227k006r0250 c
+220 uf tan 6.3 v low esr tantalum capacitor 6v tpsc227k006r0250 c
+c113 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c117 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c126 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c127 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c132 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c144 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c146 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
+c148 10 uf tantalum capacitor tcap 10 uf 10% 10v smd1206 a taja106k010rnj 9g45 stc3216 18 a
 2 t520l337m2r5ate025 c12 c15 cap tant 330 uf 2.5 v 20% smd digi key 399 5134 1 nd 330 uf c6032 kemet
 3 t520l337m2r5ate025 dni c16 c17 cap tant 330 uf 2.5 v 20% smd digi key 399 5134 1 nd 330 uf c6032 kemet
 12 t495d477m006ate045 c153 cap tantalum 470 uf 6.3 v 0.045 ohm esr smd digi key 399 5220 1 nd 470 uf c7343 31 kemet
 100 uf 3 t491e107k020at 100 uf tantalum 125c 20v 3.0232 ebig capacitor polarized capacitor cr1 3
 680 uf 2 tpme687m006r0023 75m2892 newark 680 uf 20% tantalum 125c 6.3 v 3.75 e capacitor polarized capacitor cs1 2
+taja475k016rnj smd cap tantalum 47 uf 16v a capacitor a 01125 20 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302020006
+taja226k010rnj smd cap tantalum 22 uf 10v capacitor a 009765625 20 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302020008
+tajb226k016rnj smd cap tantalum 22 uf 16v capacitor b 01796875 20 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302020013
+tajb107m010rnj smd cap tantalum 100 uf 10v capacitor b 03515625 10 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302020015
+c13 10 uf tant 2.5 r esr low esr tantalum you can try a less expensive one 80 t350e106k025at cpol use2.5 6
+c137 33 uf cap tant 33 uf 25v 10% 2917 kemet t495d336k025zte230 capmp7343x310n alt1 495 1569 6 nd 1.69 0.9825
+c233 c240 c247 c249 c256 c258 c265 c267 330 uf low esr cap tant 330 uf 10v 10% 2917 kemet b45197a2337k409 capmp7343x310n alt1 495 1535 1 nd 2.43 1.41
 c6 c7 capacitor 10 uf 35v dipped tantalum jameco 33689 0.49
+ecs t1cx106r tantalum 10 uf 16v b 6
 17 7 ct1 ct3 ct5 ct6 ct9 ct10 c90 100 uf cap tant 100 uf 20v 10% 2917 dale tr3d107k020c0080 ct7343 718 1774 1 nd 03 00602 01
 18 2 ct2 ct7 1000 uf 2.5 v cap tant 1000 uf 2.5 v 20% 2917 kemet t530y108m2r5ate005 ct7343 399 4749 1 nd 03 00287 01
 19 1 ct4 680 uf 2.5 v cap tant 680 uf 2.5 v 20% 2917 ecg 2r5tpf680ml ct7343 p16221ct nd tbd
@@ -642,6 +872,11 @@ taja105k016rnj tc 1u 10% 16v 3216 1.0 1.0 5
 taja226k010rnj tc 22u 10% 10v 3216 3.0 3.0 15
 taja475k016rnj tc 4.7 uf 10% 16v 3216 3.0 3.0 15
 taja106k016rnj tc 10u 10% 16v 3216 2.0 2.0 10
+c1 c2 c6 c8 c10 c12 c57 10 uf 20v tantalum cap low esr 6032 digi key p11292ct nd 23
+c3 c14 47 uf 10v 10% tantalum cap low esr 6032 kemet digi key 399 1776 1 nd 8
+1100003905 sc 220 uf 20% 4v smd 35 x28 x19 mm 4tpe220mazb 三洋 電機株 氏會社 sanyo electric co ltd 4tpe220mazb c428 c431 c831 c833 c834 5
+47u 16v polarized capacitor axial c2 c4 c30 c28 c21 6032 cap pol2 钽电容 25000
+10 uf 10v polarized capacitor axial c49 6032 electro1 钽电容 5000
 表贴 钽电容 10 uf 16v 误差 ± 10 ％ b 3528 1 标准件
 表贴 钽电容 1 uf 50v 误差 ± 10 ％ b 3528 1 标准件
 100 uf 10v ± 10% case c 6032 3000

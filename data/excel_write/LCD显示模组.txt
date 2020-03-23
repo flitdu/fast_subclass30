@@ -1,0 +1,2 @@
+29 6c1721b0 v04 d000001 lcd display 5 digit segmented with small 1 2 3 4 beq0776 15 a0 百泽 lcd 屏 150
+7 寸屏 lcd 1

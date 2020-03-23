@@ -142,6 +142,7 @@ c172966 金属膜 电阻 100 ω 1000 ± 1% axial 50.0
 17 2p8901a0 r03 d000150 680r 2w 金属膜 电阻 1% mf2w 680rf t52 金属膜 电阻 2878
 2p8911a0 575
 r03 d000151 金属膜 电阻 2k 1 4w 2k 0.02% 0.25 w 5ppm 2p8902a0 575 575
+23 金属膜 电阻器 rj25 1 2w 100k ω r206 1 3
 metal film resistors through hole 1 4watt 2.2 kohms 1% 10
 metal film resistors through hole 1 4watt 56kohms 2% rated to 1 2watt 1
 metal film resistors through hole 1 4watt 47kohms 2% rated to 1 2watt 1
@@ -154,6 +155,15 @@ metal film resistors through hole 1 4watt 300kohms 2% rated to 1 2watt 1
 metal film resistors through hole 1 4watt 150kohms 1% 3
 2 r314 r414 6.81 k resistor 0402 6.81 k ohm 1% 100ppm 0.063 w metal film crcw04026k81fk dale
 1 r411 11.8 k resistor 0402 11.8 k ohm 1% 100ppm 0.063 w metal film crcw040211k8fk dale
+r101 r102 res axial metal film 121 ohm 1 4w 1% t h xicon 271 121 rc yes
+r103 res axial metal film 200 ohm 1 4w 1% t h xicon 271 200 rc yes
+r104 res axial metal film 365 ohm 1 4w 1% t h xicon 271 365 rc yes
+r105 r107 res axial metal film 750 ohm 1 4w 1% t h xicon 271 750 rc yes
+r106 res axial metal film 104 k ohm 1 4w 1% t h xicon 271 105 k rc 105 k yes
+r201 res axial metal film 13 k ohm 1 4w 1% t h xicon 271 13 k rc yes
+r202 res axial metal film 82 k ohm 1 4w 1% t h xicon 271 82 k rc yes
+r203 res axial metal film 953 ohm 1 4w 1% t h xicon 271 953 rc yes
+r204 res axial wirewound 033 ohm 1 2w 1% t h phoenix passive 5065fm0r330j12afx yes
 resistors metal film t454659 002242k 2k4 0.6 w 1% mf60 metal film resistor eurohm 2000
 resistors metal film t454679 002333k 33k 0.6 w 1% mf60 metal film resistor eurohm 10000
 resistors metal film t454774 002274k 270k 0.6 w 1% mf60 resistor eurohm 3000
@@ -687,8 +697,8 @@ resistors metal film t496956 262 3.3 rc 3r3 2w resistor xicon 10
 resistors metal film t497120 271 33 rc 33r 0.25 w 1% metal film resistor xicon 10
 resistors metal film t996959 271 330 rc 330r 0.25 w 1% metal film resistor xicon 10
 90.0 y 1.0 r14 res metal film chip 0402 susumu rg1005n 3161 w t1 3.16 k r0402 r0402
-1.17 r1 220 ω resistor 220 ω 插件 电阻 res 220 ohm 1 4w 1% axial through hole stackpole rnmf14ftc220r 1
-1.52 r1 100 ω resistor 100 ω 插件 电阻 res 100r 1 4w 1% axial stackpole rnmf14ftc100r 1
+1.17 r1 220 ω resistor 220 ω 插件 电阻 res 220 ohm 1 4w 1% axial through hole rnmf14ftc220r
+1.52 r1 100 ω resistor 100 ω 插件 电阻 res 100r 1 4w 1% axial rnmf14ftc100r
 r01 1 2w 220k 1 2w 1% mf
 r 23 1 2w 220k 1 2w 1% mf
 r 82 1 2w 33r 1 2w 1% mf
@@ -746,6 +756,20 @@ resistor 5.1 k ohm 3w metal film smt box 24 14 91 ppc5.1 kzw 3 nd
 resistor 510 ohm 3w metal film smt box 24 9 80 ppc510zw 3 nd
 resistor 511 ohm axial lead drawers e14 200 metal film 1 4w 1% 511xbk nd
 resistor 60.4 k ohm axial lead drawers e43 200 metal film 1 4w 1% 60.4 kxbk nd
+1 r4 210 ω 210 ω 1 % 0.125 w metal film generic
+1 r6 43.2 k ω 43.2 k ω 1 % 0.125 w metal film generic
+1 r7 11.3 k ω 11.3 k ω 1 % 0.125 w metal film generic
+r7 r8 r12 r4 r5 r6 r9 r11 r14 r10 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 220
+r2 r13 r3 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 10k
+r1 r16 r17 r18 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1k
+r15 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1.8 k
+r é sistance rabohm mfr 1 4w 2 68 k 300
+r é sistance rabohm mfr 1 4w 5 k 500
+r é sistance s ind mfr 3k01 1 4w 1000
+r é sistance s ind mfr 3k01 1 4w 1000
+r é sistance s ind mfr 1 4w 5k11 1000
+r é sistance mf25 1 4w 6.19 k 1% 1600
+r é sistance mfr35 6.19 k 1% 3000
 003 1000205011 p0901008 1012 1037 conventional metal film resistor 0.25 w 1k 1% mf25 1k multico 12.0 7.0 2815.2 allchips 1.0
 003 1001225010 p0901037 conventional metal film resistor 0.6 w 1% 1k mrs25000c1001fct00 15.0 1.0 153.0 allchips 153.0 2.0 0.1077 e
 003 1002205011 p0901008 1012 1037 conventional metal film resistor 0.25 w 10k 1% mf25 10k multico 12.0 14.0 4987.8 allchips multico 5000.0 2.0 0.0105 e

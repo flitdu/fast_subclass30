@@ -436,193 +436,13 @@ ldr77 usrr v0.1 电容 10 uf 10 uf ± 10% 25v x7r 1206 2 c0201 c0203 2000
 ldr77 usrr v0.1 电容 10 uf 10 uf ± 10% 35v x7r 1210 1 c0101 1000
 ldr77 usrr v0.1 电容 22 uf 22 uf ± 10% 25v x7r 0805 11 c0209 c0210 c0215 c0216 c0222 c0223 c0224 c0225 c0226 c0232 c0235 11000
 ldr77 usrr v0.1 电容 47 uf 47 uf ± 10% 16v x7r 1210 1 c0208 1000
-0402b104k160nt 25000 100nf 16v x7r 0402 10% 0402
-tmcma0j106mtrf 10000 10 µ f 6 3v 1206 20% 1206
-cc0402krx7r7bb103 5000 10nf 16v x7r 0402 10% 0402
-10103 0060 电容 cc0603krx7r8bb104 片状 电容器 25v 01 uf ± 10% x7r 0603 c1 c3 c9 c11 c13 c14 c15 c19 c20 c21 c22 c23 c24 c25 c26 c29 c30 c31 c32 c33 c36 c38 c40 c41 c42 c43 c45 c47 c48 c49 c50 c51 c52 c53 34 204 国
-10103 0016 电容 cc0805kkx5r6bb226 片状 电容器 10v 22 uf ± 10% x7r 0805 c2 c4 c5 c6 c7 c8 c10 c12 c37 c39 c44 c46 12 72 国
-10103 0015 电容 cc0603jrnp09bn200 片状 电容器 25v 20pf ± 10% x7r 0603 c27 c28 c34 c35 4 24
-电容 1 cl05c120jb5nnnc 12pf â ± 5% 50v ceramic capacitor c0g np0 0402 1005 metric 1 200000
-电容 2 cl21a106kqclrnc 10 â µ f â ± 10% 6.3 v ceramic capacitor x5r 0805 2012 metric 4 800000
-电容 3 cl21a475kbqnnne 4.7 â µ f â ± 10% 50v ceramic capacitor x5r 0805 2012 metric 1 200000
-电容 4 cl05c1r2cb5nnnc 12 pf â ± 25pf 50v ceramic capacitor c0g np0 0402 1005 metric 2 400000
-电容 5 cl05a225mq5nnnc 2.2 uf â ± 20% 6.3 v ceramic capacitor x5r 0402 1005 metric 1 200000
-电容 6 cl05a104ka5nnnc 0.1 uf â ± 10% 25v ceramic capacitor x5r 0402 1005 metric 12 2400000
-电容 7 cl05a105kq5nnnc 1 â µ f â ± 10% 6.3 v ceramic capacitor x5r 0402 1005 metric 1 200000
-3 6102 0402100k 电容 c 1005 102 25 x 0402 1nf 25v ± 10% 0402 1nf 25v ± 10% 4020 ok 160 quad
-4 6102 0402120k 电容 c 1005 104 25 x 0402 100nf 25v ± 10% 0402 100nf 25v ± 10% 4020 ok 1760 quad
-5 6102 0402130k 电容 c 1005 105 25 x 0402 1 uf 25v ± 10% 0402 1 uf 25v ± 10% 4020 ok 800 quad
-6 6102 0402232k 电容 c 1005 224 25 x 0402 220nf 25v ± 10% 0402 220nf 25v ± 10% 4020 ok 320 quad
-7 6102 0402233k 电容 c 1005 225 25 x 0402 22 uf 25v ± 10% 0402 22 uf 25v ± 10% 4020 ok 160 quad
-8 6102 0402472k 电容 c 1005 473 50 x 0402 47nf 50v ± 10% 0402 47nf 50v ± 10% 4020 ok 240 quad
-9 6102 0603100k 电容 c 1608 104 50 x 0603 100nf 50v ± 10% 0603 100nf 50v ± 10% 6030 ok 160 quad
-10 6102 0603101k 电容 c 1608 106 25 x 0603 10 uf 25v ± 10% 0603 10 uf 25v ± 10% 6030 ok 640 quad
-11 6102 0603227k 电容 c 2012 226 25 x 0805 22 uf 25v ± 20% 0805 22 uf 25v ± 20% 8050 ok 160 quad
-12 6102 0603228k 电容 c 2012 226 50 x 0805 22 uf 50v ± 20% 0805 22 uf 50v ± 20% 8050 ok 160 quad
-13 6102 0603477k 电容 c 1608 475 25 x 0603 47 uf 25v ± 10% 0603 47 uf 25v ± 10% 6030 ok 160 quad
-14 6102 0603680k 电容 c 1608 684 50 x 0603 680nf 50v ± 10% 0603 680nf 50v ± 10% 6030 ok 160 quad
-电容器 0805 0.01 μ f ± 10% 50v 16000
-电容器 0805 0.1 μ f ± 10% 50v 28000
-2 c1 c2 cap cer 1000pf 50v x7r 0603 2561 311 1080 1 nd capc0603 1n 50v cc0603krx7r9bb102 yes ok 1040.0
-5 c7 c8 c9 c10 c18 cap mlcc 100nf 50v x7r 0603 reel capacitance 100nf capacitance tolerance ± 10% dielectric characteristic x7r voltage rating 50v capacitor case style 0603 1608 metric operating temperature min 55 ° c operating temperature max 125 ° c packaging 628 1759122 capc0603 100n 50v multicomp mc0603b104k500ct yes ok 2600.0
-2 电容 1.5 pf 0402 0402 1.5 pf 1r5 ± 0.1 pf 50v
-3 电容 1.8 pf 0402 0402 1.8 pf 1r8 ± 0.25 pf 50v
-4 电容 9pf 0402 0402 9pf 9r0 ± 0.25 pf 50v
-5 电容 0.1 uf 0603 0603 0.1 uf 104 ± 20% 50v
-6 电容 4.7 uf 0603 0603 4.7 uf 475 ± 10% 16v
-7 电容 10pf 0603 0603 10pf 101 ± 5% 100v
-8 电容 1 uf 0603 0603 1 uf 105 ± 10% 50v
-9 电容 10 uf 0805 0805 10 uf 106 ± 10% 25v
-10 电容 1nf 0805 0805 1nf 102 ± 10% 500v
-11 电容 1nf 1206 1206 1nf 102 ± 10% 2kv
-12 电容 10 uf 0603 0603 10 uf 106 ± 20% 16v
-1 100pf 50v ceramic capacitor 0603c c1 c135 c136 c137 c138 c181 6 90
-2 100pf 50v ceramic capacitor 0805c c2 1 15
-3 1 uf 10v ceramic capacitor 0603c c3 c10 2 30
-4 33nf 50v ceramic capacitor 0603c c4 1 15
-5 22 uf 16v ceramic capacitor 1210c c6 c19 c20 c40 c42 c45 6 90
-6 100nf 50v ceramic capacitor 0603c c7 c9 c21 c22 c31 c32 c33 c34 c35 c39 c41 c44 c47 c50 c51 c52 c53 c54 c55 c56 c57 c58 c59 c60 c61 c63 c64 c65 c66 c67 c68 c69 c70 c71 c72 c73 c74 c76 c77 c78 c79 c80 c82 c83 c85 c86 c87 c88 c89 c90 c91 c92 c93 c94 c95 c96 c97 c98 c99 c102 c103 c104 c105 c106 c107 c108 c109 c110 c111 c112 c113 c116 c117 c118 c119 c120 c122 c123 c124 c125 c126 c127 c128 c133 c134 c139 c142 c143 c149 c150 c152 c153 c154 c155 c156 c157 c162 c163 c164 c169 c170 c171 c172 c175 c176 c179 c182 c183 c185 c188 110 1650
-7 220pf 50v ceramic capacitor 0603c c8 1 15
-8 4u7 100v ceramic capacitor 1210c c11 c16 c27 c37 4 60
-9 10 uf 25v ceramic capacitor 1210c c12 1 15
-10 100nf 50v ceramic capacitor 0805c c13 c30 2 30
-11 22nf 50v ceramic capacitor 1210c c14 1 15
-12 22nf 100v ceramic capacitor 1206c c15 c17 c23 c28 4 60
-13 100nf 100v ceramic capacitor 1206c c18 c29 c38 3 45
-14 1nf 50v ceramic capacitor 1206c c24 c25 c26 3 45
-15 10 uf 25v ceramic capacitor 1206c c36 c46 2 30
-16 10 uf 10v ceramic capacitor 0603c c43 c144 c151 3 45
-17 2.2 uf 10v ceramic capacitor 0603c c48 c49 2 30
-18 10nf 50v ceramic capacitor 0603c c62 c158 c165 c166 c167 c168 c177 c178 8 120
-19 15pf 50v ceramic capacitor 0603c c75 c81 c129 c130 c131 c132 c140 c141 8 120
-20 1nf 50v ceramic capacitor 0603c c84 c100 c101 c114 c115 c121 c145 c146 c148 c159 c160 c161 c173 c174 c180 c184 c186 c187 18 270
-21 2.2 nf 50v ceramic capacitor 0603c c147 1 15
-c7 100nf capacitors smd c 0402 equivalent part acceptable cap cer 0.1 uf 25v x7r 0402 cl05b104ka5nnnc 6000
-c5 c6 100pf capacitors smd c 0402 equivalent part acceptable cap cer 100pf 50v c0g np0 0402 cl05c101jb5nnnc 6000
-c4 10pf capacitors smd c 0603 equivalent part acceptable cap cer 10pf 50v c0g np0 0603 cl10c100db8nnnc 4000
-c3 100pf capacitors smd c 0603 equivalent part acceptable cap cer 100pf 50v c0g np0 0603 cl10c101jb8nnnc 4000
-c2 39pf capacitors smd c 0603 equivalent part acceptable cap cer 39pf 50v c0g np0 0603 cl10c390jb8nnnc 600
-c1 3.3 pf capacitors smd c 0603 equivalent part acceptable cap cer 3.3 pf 50v c0g np0 0603 cl10c3r3bb8nnnc 600
-c3 47pf capacitors smd c 0603 equivalent part acceptable cap cer 47pf 50v c0g np0 0603 cl10c470fb8nnnc 1100
-c1 68pf capacitors smd c 0603 equivalent part acceptable cap cer 68pf 50v c0g np0 0603 cl10c680jb8nfnc 5500
-c1 82pf capacitors smd c 0603 equivalent part acceptable cap cer 82pf 50v c0g np0 0603 cl10c820jb8nnnc 4000
-c3 8.2 pf capacitors smd c 0603 equivalent part acceptable cap cer 8.2 pf 50v c0g np0 0603 cl10c8r2db8nnnc 2200
-3 电容 ccap 0.22 uf ± 10% 16v x7r 0402 smt 256 10240
-4 电容 ccap 10 uf ± 10% 10v x7r 0603 smt 92 3680
-5 电容 ccap 22 uf ± 20% 6.3 v x6s 0805 smt 80 3200
-6 电容 ccap 0.01 uf ± 10% 25v x7r 0402 smt 115 4600
-7 电容 ccap 1 uf ± 10% 6.3 v x7r 0402 smt 156 6240
-8 电容 ccap 0.1 uf ± 10% 10v x7r 0402 smt 12 480
-9 电容 ccap 10pf ± 5% 50v npo 0402 smt 电容 2 80
-10 电容 ccap 12pf ± 5% 50v npo 0402 smt 2 80
-11 电容 ccap 33pf ± 5% 50v npo 0402 smt 3 120
-12 电容 ccap 0.1 uf ± 10% 16v x7r 0402 smt 265 10600
-13 电容 ccap 10 uf ± 20% 6.3 v x7r 0603 smt 164 6560
-14 电容 ccap 22 uf ± 20% 6.3 v x6s 0603 smt 电容 95 3800
-15 电容 ccap 47 uf ± 20% 6.3 v x5r 0805 smt 25 1000
-16 电容 ccap 0.01 uf ± 10% 50v x7r 0402 smt 20 800
-17 电容 ccap 100pf ± 5% 50v npo cog 0402 smt 电容 8 320
-18 电容 ccap 4.7 uf ± 10% 6.3 v x7r 0603 smt 5 200
-19 电容 ccap 22pf ± 5% 50v npo 0402 smt 电容 1 40
-20 电容 ccap 20pf ± 5% 50v npo cog 0402 smt 电容 2 80
-21 电容 ccap 10 uf ± 20% 6.3 v x5r 0402 smt 11 440
-22 电容 ccap 5pf ± 0.25 pf 50v npo 0402 smt 电容 6 240
-23 电容 ccap 4.7 uf ± 10% 16v x7r 0805 smt 6 240
-24 电容 ccap 22 uf ± 20% 16v x6s 0805 smt 11 440
-25 电容 ccap 220pf ± 5% 50v cog 0402 smt 电容 30 1200
-26 电容 ccap 10 uf ± 10% 25v x7r 0805 smt 253 10120
-27 电容 ccap 220pf ± 10% 50v x7r 0402 smt 电容 6 240
-28 电容 ccap 0.001 uf ± 10% 50v x7r 0402 smt 21 840
-29 电容 ccap 10 uf ± 20% 10v x5r 0603 smt 电容 4 160
-30 电容 ccap 1 uf ± 10% 25v x6s 0402 smt 129 5160
-31 电容 ccap 0.1 uf ± 10% 25v x7r 0402 smt 86 3440
-32 电容 ccap 0.22 uf ± 10% 25v x5r 0402 smt 电容 37 1480
-33 电容 ccap 22 uf ± 20% 4v x6s 0805 smt 298 11920
-36 电容 ccap 1 uf ± 10% 16v x7r 0402 smt 电容 8 320
-37 电容 ccap 2.2 uf ± 10% 16v x7r 0603 smt 11 440
-38 电容 ccap 270pf ± 10% 50v x7r 0402 smt 4 160
-39 电容 ccap 0.0022 uf ± 10% 50v x7r 0402 smt 11 440
-40 电容 ccap 0.0039 uf ± 10% 50v x7r 0402 smt 4 160
-41 电容 ccap 10 uf ± 10% 25v x6s 0805 smt 6 240
-42 电容 ccap 4.7 uf ± 10% 25v x7r 0805 smt 2 80
-43 电容 ccap 0.0068 uf ± 10% 50v x7r 0402 smt 4 160
-44 电容 ccap 220pf ± 5% 50v npo 0402 smt 2 80
-45 电容 ccap 68pf ± 10% 50v npo 0402 smt 2 80
-47 电容 ccap 120pf ± 5% 50v npo 0402 smt 电容 2 80
-48 电容 ccap 100pf ± 10% 50v x7r 0402 smt 3 120
-49 电容 ccap 0.0082 uf ± 10% 50v x7r 0402 smt 3 120
-50 电容 ccap 0.0047 uf ± 10% 50v x7r 0402 smt 10 400
-51 电容 ccap 0.047 uf ± 10% 25v x7r 0402 smt 6 240
-52 电容 ccap 1 uf ± 10% 25v x5r 0603 smt 8 320
-53 电容 ccap 10pf ± 5% 50v npo cog 0402 smt 电容 3 120
-2 电容 ccap 0.1 uf ± 10% 16v x7r 0402 smt 96 3840
-3 电容 ccap 0.1 uf ± 10% 6.3 v x5r 0201 smt 电容 162 6480
-4 电容 ccap 0.01 uf ± 10% 50v x7r 0402 smt 19 760
-5 电容 ccap 0.01 uf ± 10% 10v x7r 0201 smt 电容 164 6560
-6 电容 ccap 1 uf ± 10% 16v x5r 0402 smt 101 4040
-7 电容 ccap 22 uf ± 20% 6.3 v x5r 0603 smt 58 2320
-8 电容 ccap 2.2 uf ± 20% 6.3 v x5r 0402 smt 16 640
-9 电容 ccap 0.1 uf ± 10% 25v x5r 0402 smt 102 4080
-10 电容 ccap 10 uf ± 10% 25v x5r 1206 smt 48 1920
-11 电容 ccap 10 uf ± 20% 6.3 v x5r 0603 smt 18 720
-12 电容 ccap 0.22 uf ± 10% 16v x7r 0402 smt 384 15360
-13 电容 ccap 1 uf ± 10% 25v x7r 0603 smt 13 520
-14 电容 ccap 100 uf ± 20% 6.3 v x5r 1206 smt 电容 6 240
-15 电容 ccap 0.001 uf ± 5% 50v x7r 0402 smt 4 160
-16 电容 ccap 4.7 uf ± 10% 25v x5r 0603 smt 电容 4 160
-17 电容 ccap 2.2 uf ± 10% 25v x7r 0805 smt 2 80
-18 电容 ccap 0.047 uf ± 10% 16v x7r 0402 smt 4 160
-19 电容 ccap 47 uf ± 20% 10v x5r 1206 smt 8 320
-20 电容 ccap 0.0022 uf ± 10% 50v x5r 0402 smt 电容 6 240
-21 电容 ccap 0.0033 uf ± 10% 50v x7r 0402 smt 4 160
-22 电容 ccap 220pf ± 5% 50v npo 0402 smt 4 160
-23 电容 ccap 150pf ± 10% 50v x7r 0402 smt 2 80
-24 电容 ccap 100pf ± 5% 50v npo cog 0402 smt 电容 6 240
-25 电容 ccap 10 uf ± 20% 25v x5r 0603 smt 4 160
-26 电容 ccap 0.22 uf ± 10% 25v x7r 0603 smt 4 160
-27 电容 ccap 0.1 uf ± 10% 25v x7r 0402 smt 8 320
-28 电容 ccap 22 uf ± 20% 10v x5r 0805 smt 44 1760
-29 电容 ccap 0.001 uf ± 10% 50v x7r 0402 smt 1 40
-30 电容 ccap 1 uf ± 10% 25v x5r 0402 smt 2 80
-31 电容 ccap 10 uf ± 10% 25v x5r 0805 smt 12 480
-32 电容 ccap 2.2 uf ± 10% 16v x7r 0603 smt 2 80
-33 电容 ccap 470pf ± 10% 50v x7r 0402 smt 2 80
-34 电容 ccap 2.2 uf ± 10% 16v x5r 0603 smt 2 80
-36 电容 ccap 22 uf ± 20% 25v x5r 0805 smt 2 80
-37 电容 ccap 1 uf ± 10% 6.3 v x7r 0402 smt 4 160
-1 电容 ccap 0.1 uf ± 10% 16v x5r 0402 smt 3 120
-1 电容 ccap 10 uf ± 10% 25v x7r 0805 smt 37 1480
-2 电容 ccap 0.1 uf ± 10% 25v x7r 0402 smt 49 1960
-3 电容 ccap 22 uf ± 20% 6.3 v x6s 0603 smt 电容 8 320
-4 电容 ccap 22 uf ± 20% 16v x6s 0805 smt 2 80
-5 电容 ccap 15pf ± 5% 50v npo 0402 smt 1 40
-6 电容 ccap 1 uf ± 10% 25v x7r 0603 smt 1 40
-8 电容 ccap 0.0068 uf ± 10% 50v x7r 0402 smt 1 40
-9 电容 ccap 0.0022 uf ± 10% 50v x7r 0402 smt 1 40
-10 电容 ccap 120pf ± 10% 50v x7r 0402 smt 1 40
-3 电容 ccap 10 uf ± 10% 25v x7r 0805 smt 45 1800
-4 电容 ccap 0.1 uf ± 10% 25v x7r 0402 smt 57 2280
-5 电容 ccap 22 uf ± 20% 6.3 v x6s 0603 smt 电容 8 320
-6 电容 ccap 22 uf ± 20% 16v x6s 0805 smt 2 80
-7 电容 ccap 15pf ± 5% 50v npo 0402 smt 1 40
-8 电容 ccap 1 uf ± 10% 25v x7r 0603 smt 1 40
-10 电容 ccap 0.0068 uf ± 10% 50v x7r 0402 smt 1 40
-11 电容 ccap 0.0022 uf ± 10% 50v x7r 0402 smt 1 40
-12 电容 ccap 120pf ± 10% 50v x7r 0402 smt 1 40
-26.0 电容 npo 22pf 50v ± 5 ﹪ 0603 0603 2 c22 c23 10000.0
-27.0 npo 331 50v ± 5 ﹪ 0603 0603 6 c25 c30 30000.0
-28.0 npo 102 50v ± 5 ﹪ 0603 0603 6 c48 c54 c58 30000.0
-29.0 x7r 103 50v ± 10 ﹪ 0603 0603 2 c50 c51 10000.0
-30.0 x7r 104 25v ± 10 ﹪ 0603 0603 9 c31 c37 c46 c47 45000.0
-31.0 x7r 224 25v ± 10 ﹪ 0603 0603 10 c12 19 c52 c53 50000.0
-x7r 220nf 25v ± 10 ﹪ 0603 0603 2 c20 c21 10000.0
-32.0 x7r 684 25v ± 10 ﹪ 0603 0603 3 c44 c45 c49 15000.0
-33.0 x7r 105 25v ± 10 ﹪ 0603 0603 6 c38 c43 30000.0
-34.0 x7r 103 50v ± 10 ﹪ 0805 0805 2 c3 c4 10000.0
-35.0 npo 102 50v ± 5 ﹪ 0805 0805 7 c5 c11 35000.0
-c2 c14 103 25v 0603 c0603 2.0 60.0
-c4 c6 c9 c11 103 0603 25v c0603 4.0 120.0
-c7 c12 c15 nc c0603 3.0 90.0
+1 uf 25v 10% 0805 1 150 c38
+22 uf 10v 10% 0805 2 300 c1 c21
+100nf 1000v 10% 1812 3 450 c36 c37 c39
+0.1 uf 50v 10% 0603 7 1050 c3 c4 c6 c9 c11 c12 c13
+10 uf 25v 10% 0603 6 900 c2 c5 c8 c10 c17 c18
+c0603 100nf 50v 10% 5 750 c1 2 c46 48
+c0603 10 uf 25v 10% 4 600 c34 37
 4 capacitor ceramic c2 c3 c4 c10 4.7 uf eia 3216 18 case a lmk107bj475ka t taiyo yuden 2100
 2 capacitor ceramic c7 c8 0.10 uf smt 0402 lmk105bj104kv f taiyo yuden 1100
 电容 c1 c7 c9 c11 c12 c16 c17 c18 c19 c20 c21 c25 c26 c32 603 0.1 uf 16v 14 140000
@@ -632,44 +452,6 @@ c7 c12 c15 nc c0603 3.0 90.0
 电容 c8 case e 7343 220 uf 16v 1 10000
 电容 c10 603 10 uf 16v 1 10000
 电容 c34 c35 c36 603 30pf 16v 3 30000
-30 2002010029 电容 mlcc 0603b104k500nt 0603 0.1 uf 10% 50v x7r c1 c3 c8 c13 c15 c16 c18 c25 c28 c30 c31 c34 c35 c38 c48 c49 c51 c54 c60 c65 c66 c72 c75 c79 c80 c81 c82 c83 c84 c85 c86 c87 c89 c90 c91 c94 c95 c96 c101 c102 c108 c109 c111 c114 c115 c116 c119 c121 c122 c123 c127 c128 c130 c131 c133 c134 c137 c138 c139 c140 c142 61 20 0.3 b 1220
-40 2002010143 电容 mlcc c3216x5r1e106kt 1206 10 uf 10% 25v x5r c2 c4 c5 c9 c10 c19 c23 c26 c27 c29 c36 c37 c39 c41 c50 c52 c53 c67 c68 c69 c70 21 20 0.3 b 420
-50 2002010036 电容 mlcc c1608x7r1h222kt 0603 2200pf 10% 50v x7r c6 1 20 0.3 b 20
-70 2002010063 电容 mlcc c1608x7r1e105kt 0603 1 uf 10% 25v x7r c11 c14 c17 c24 c93 c97 c118 c129 c141 9 20 0.3 b 180
-90 2002010185 电容 mlcc c1608x7r1h473k 0603 0.047 uf 10% 50v x7r c21 1 20 0.3 b 20
-100 2002010049 电容 mlcc grm1882c1h471ja01d 0603 470pf 5% 50v ch c32 1 20 0.3 b 20
-110 2002010060 电容 mlcc 0603b103k500nt 0603 0.01 uf 10% 50v x7r c33 c100 2 20 0.3 b 40
-120 2002010064 电容 mlcc 0603cg270j500nt 0603 27pf 5% 50v cog c43 c61 2 20 0.3 b 40
-150 2002010046 电容 mlcc grm1885c1h150ja01d 0603 15pf 5% 50v cog c46 c64 2 20 0.3 b 40
-2002010129 电容 mlcc 0805b106k100nt 0805 10 uf 10% 10v x7r 9 20 b 180
-200 2002010199 电容 mlcc cc0603krx7r7bb474 0603 0.47 uf 10% 16v x7r c124 c125 c126 3 20 b 60
-2002010058 电容 mlcc 0603b474k160nt 0603 0.47 uf 10% 16v x7r 3 20 b 60
-c65 0603 表贴 电容 0.15 uf 50v 10% 0603c 1 5
-c10 c46 c56 1206 表贴 电容 0.68 uf 50v 10% 1206 c 3 15
-c71 1206 表贴 电容 2.2 uf 1206c 1 5
-c6 c18 c52 0805 表贴 电容 4.7 uf 50v 10% 0805c 3 15
-c25 c44 c75 c88 c103 c117 0603 表贴 电容 10nf 50v 10% 0603c 6 30
-c21 c22 0603 表贴 电容 20pf 50v 10% 0603c 2 10
-c9 c45 c55 1206 表贴 电容 47 uf 50v 10% 1210 3 15
-c19 c23 c24 c26 c27 c30 c31 c32 c33 c34 c35 c36 c37 c38 c39 c40 c63 c64 c91 c92 c95 c100 c125 c148 c149 c150 c3 c11 c16 c41 c42 c67 c68 c72 c73 c87 c98 c74 c77 c78 c79 c80 c83 c85 c86 c89 c90 c94 c96 c97 c99 c101 c102 c104 c105 c106 c107 c109 c112 c114 c116 c118 c120 c122 c123 c126 c127 c129 c131 c137 c141 c143 c145 c146 c93 c110 c130 0603 表贴 电容 100nf 50v 10% 0603c 77 385
-c69 c81 c115 0603 表贴 电容 100pf 50v 10% 0603c 3 15
-c4 c7 c17 c20 c51 c53 0603 表贴 电容 220nf 50v 10% 0603c 6 30
-c2 c15 c50 0603 表贴 电容 220pf 50v 10% 0603c 3 15
-c43 c47 c54 c57 0603 表贴 电容 1800nf 50v 1% 0603c 4 20
-c66 1210 表贴 电容 47 uf 50v 10% 47 uf 50v 10% 1210 1 5
-c1 c3 c6 c13 c14 c15 c16 c17 c18 c19 c20 c21 c22 c23 c24 c26 c35 c42 c45 c49 c50 c52 c62 c63 c72 c76 c77 c79 c80 c81 c83 c85 c87 c88 c91 c92 c98 c107 c108 c111 c118 c123 c124 c126 c137 c144 c145 c153 c155 c161 c164 c169 c170 c172 c182 c183 c192 c197 c198 c200 c210 c211 c220 c225 c226 c228 c238 c239 c248 c253 c254 c256 c266 c267 c2 c4 c5 c8 c9 c10 c11 c12 c27 c36 c38 c43 c61 c68 c89 c99 c103 c114 c143 c150 c162 c181 c188 c209 c216 c237 c244 c265 c272 0603 表贴 电容 100nf 50v 10% 0603c 103 1545
-c7 c41 c44 c133 c134 c136 c138 c139 c140 c157 c159 c160 0603 表贴 电容 10nf 50v 10% 0603c 12 180
-c25 c37 c39 c135 c158 0603 表贴 电容 100pf 50v 10% 0603c 5 75
-c30 c47 c73 c75 c119 c121 c165 c167 c193 c195 c221 c223 c249 c251 0603 表贴 电容 2u2 50v 10% 0603c 14 210
-c31 0603 表贴 电容 10nf 50v 10% 0805c 1 15
-c32 c33 0603 表贴 电容 20pf 50v 10% 0603c 2 30
-c48 c55 c56 c57 c58 c78 c94 c95 c96 c97 c122 c129 c130 c131 c132 c168 c175 c176 c177 c178 c196 c203 c204 c205 c206 c224 c231 c232 c233 c234 c252 c259 c260 c261 c262 0603 表贴 电容 470nf 50v 10% 0603c 35 525
-c51 c54 c82 c93 c125 c128 c171 c174 c199 c202 c227 c230 c255 c258 1206 表贴 电容 10 uf 50v 10% 1206c 14 210
-c53 c84 c127 c173 c201 c229 c257 0603 表贴 电容 22nf 50v 10% 0603c 7 105
-c59 c60 c100 c101 c141 c142 c179 c180 c207 c208 c235 c236 c263 c264 0603 表贴 电容 470nf 50v 10% 0603c 14 210
-c64 c65 c66 c109 c110 c112 c146 c147 c148 c184 c185 c186 c212 c213 c214 c240 c241 c242 c268 c269 c270 0603 表贴 电容 10pf 50v 10% 0603c 21 315
-c86 0805 表贴 电容 4.7 uf 50v 10% 0805c 1 15
-c90 c104 0805 表贴 电容 0.1 uf 50v 10% 0805c 2 30
 1 50 2002010157 瓷片 电容 mlcc 0603cg101j500nt 0603 100pf 5% 50v cog c67 c286 c993 c995 c1006 c1008 6 20 0.3 b 120
 1 60 2002010191 电容 mlcc kemet c0603c911j5gactu 0603 910pf 5% 50v c0g c102 c116 c117 c202 4 20 0.3 b 80
 2002010024 电容 mlcc 0603cg911j500nt 0603 910pf 5% 50v cog 4 20 0.3 b 80
@@ -699,35 +481,6 @@ c90 c104 0805 表贴 电容 0.1 uf 50v 10% 0805c 2 30
 1 20.0 2002010063 电容 mlcc 1 uf 10% 25v x7r c1608x7r1e105kt 603 c2 1 20 0.3 b 21
 1 30.0 2002010029 电容 mlcc 0.1 uf 10% 50v x7r 0603b104k500nt 603 c3 c5 c6 3 20 0.3 b 61
 5 电容 0.1 uf 10v 7 0603 电容
-26 电容 陶瓷 电容 33pf 50v 5% c0g 0603 表贴 2000
-27 电容 陶瓷 电容 0.1 uf 50v 10% x7r 0603 表贴 2000
-28 电容 陶瓷 电容 15pf 25v 5% c0g 0603 表贴 2000
-29 电容 陶瓷 电容 8200pf 50v 10% x7r 0603 表贴 2000
-30 电容 陶瓷 电容 20pf 50v 5% c0g 0603 表贴 2000
-31 电容 陶瓷 电容 68nf 50v 5% c0g 0603 表贴 2000
-18 100nf c1 c2 c5 c10 c12 c13 c14 c15 c16 c17 c19 c20 c21 c25 c27 c28 c29 c30 0603 ceramic 50v ± 10% smd 0603 cl10b104kb8nnnc 360.0
-2 4.7 µ f c3 c4 0805 ceramic 50v ± 10% smd 0805 cl21a475kbqnnne 40.0
-2 27pf c6 c9 0603 ceramic 50v ± 10% smd 0603 cl10c270jb8nnnc 40.0
-2 10 uf c7 c8 0805 ceramic 50v ± 10% smd 0805 cl21a106kaynnne 40.0
-1 1 uf 25v c11 0603 ceramic 50v ± 10% smd 0603 cl10b105ka8nnnc 20.0
-1 3.3 µ f c18 0805 ceramic 50v ± 10% smd 0805 20.0
-1 10nf c22 0603 ceramic 50v ± 10% smd 0603 cl10b103kb8nnnc 20.0
-1 1 uf 6.3 v c31 0603 ceramic 6.3 v ± 10% smd 0603 cl10b105kq8nnnc 20.0
-2 100nf c1 c2 0603 ceramic 50v ± 10% smd 0603 cl10b104kb8nnnc 40.0
-1 1 uf c3 0603 ceramic 6.3 v ± 10% smd 0603 cl10b105kq8nnnc 20.0
-3 capacitor 0.1 uf 50v c0603 5 c1 c2 c3 c4 c8 10500
-4 capacitor 22 uf 10v c0805 7 c5 c6 c10 c12 c14 c15 c47 14700
-5 capacitor 0.1 uf 10v c0402 45 c7 c18 c19 c22 c23 c28 c29 c30 c31 c32 c33 c34 c35 c36 c37 c38 c39 c40 c41 c42 c44 c46 c50 c51 c52 c53 c54 c55 c56 c57 c58 c60 c61 c62 c63 c64 c65 c68 c71 c72 c73 c75 c76 c80 c90 94500
-6 capacitor 10 uf 10v c0603 11 c9 c11 c16 c17 c43 c45 c59 c69 c70 c74 c77 23100
-7 capacitor 22pf npo c0402 5 c13 c66 c67 c25 c27 10500
-8 capacitor 2.2 uf 10v c0402 2 c20 c21 4200
-9 capacitor 10p npo c0402 2 c24 c26 4200
-10 capacitor 2.2 uf 25v c0805 2 c48 c49 4200
-11 capacitor 0.1 uf 10v c0603 1 c78 2100
-12 capacitor 1 uf 10v c0402 1 c79 2100
-13 capacitor 33pf npo c0402 1 c81 2100
-14 capacitor 0.3 pf 0.1 pf c0402 1 c85 2100
-15 capacitor 2.4 pf 0.25 pf c0402 1 c86 2100
 cl10b104ka8nnnc cc0603krx7r8bb104 3600000 20
 cl21c103jbfnnne cc0805jrnpo9bn103 400000 2
 cl21b105kofnnne cc0805kkx7r9bb105 1000000 5
@@ -1415,3 +1168,410 @@ y13 c01 s003816 cap cer 2.2 uf 50v x6s 1206 c3216x6s1h225m160ab 陶瓷 电容 60
 cap cer 2.2 uf 16v x7r 1206 grm31mr71c225ka35l 陶瓷 电容 3216
 cap cer 33pf 50v c0g np0 1206 c1206c330j5gactu kemet 陶瓷 电容 810
 cap cer 0.1 uf 50v x7r 1206 c1206c104k5ractu kemet 陶瓷 电容 3618
+1 16p8301a0 c01 s000283 0.1 µ f ± 10% 50v 陶瓷 电容器 x7r 0603 1608 cc0603krx7r9bb104 陶瓷 电容 18
+2 16p8301a0 c01 s000669 multilayer ceramic capacitors mlcc smd smt 0603 10 uf 25volts x5r 20% grm188r61e106ma73d 陶瓷 电容 195
+3 16p8301a0 c01 s001181 cap cer 100 uf 10v x5r 1210 ± 20% grm32er61a107me20l 陶瓷 电容 77
+4 16p8301a0 c01 s001720 cap cer 0.1 uf 50v x7r 0402 ± 10% grm155r71h104ke14d 陶瓷 电容 1055
+5 16p8301a0 c01 s001821 cap cer 4.7 uf 35v x5r 0603 ± 10% grm188r6ya475ke15d 陶瓷 电容 97
+6 16p8301a0 c01 s003616 cap cer 47 uf 10v x5r 0805 grm21br61a476me15l 陶瓷 电容 101
+7 16p8301a0 c01 s003716 cap cer 0.47 uf 25v x5r 0402 cl05a474ka5nnnc 陶瓷 电容 53
+8 16p8301a0 c01 s003717 cap cer 1 uf 35v x5r 0402 ± 10% cm05x5r105k35ah kyocera 陶瓷 电容 37
+9 16p8301a0 c01 s003718 cap cer 22 uf 25v x5r 1210 grm32er61e226me15l 陶瓷 电容 60
+10 16p8301a0 c01 s003723 cap cer 0.015 uf 50v x7r 0402 grm155r71h153ka12d 陶瓷 电容 10
+11 16p8301a0 c01 s003725 cap cer 1000pf 2kv x7s 1210 c1210x102k202t hec 陶瓷 电容 12
+12 16p8301a0 c01 s003726 cap cer 220 uf 6.3 v x5r 1210 grm32er60j227me05l 陶瓷 电容 12
+13 16p8301a0 c01 s003727 cap cer 390pf 50v c0g np0 0402 grm1555c1h391ja01d 陶瓷 电容 12
+1 1a1026j0 c01 s000005 cap cer 0.1 uf 100v x7r 0805 10% c0805c104k1ractu kemet 陶瓷 电容 6630
+2 1a1026j0 c01 s000006 cap cer 1 uf 100v x7r 1206 10% 12061c105kat2a 陶瓷 电容 6533
+3 1a1026j0 c01 s000417 capacitor x7r 4.7 uf 50v 1210 ± 10% grm32er71h475ka88l 陶瓷 电容 6533
+4 1a1026j0 c01 s000682 cap cer 0.33 uf 50v x7r 0805 10% cc0805kkx7r9bb334 陶瓷 电容 470
+5 1a1026j0 c01 s001552 cap cer 0.1 uf 10v x7r 0603 10% cc0603krx7r6bb104 陶瓷 电容 1020
+1 1 65a.0603 104g3k 陶瓷 电容 cc 104 0603 10% 50v x7r 1 c0603 x7r kemet c0603c104k5racauto7411 c34 c35 12
+2 1 65a.0603 106c4m 陶瓷 电容 cc 106 0603 10% 10v x5r 1 c0603 x5r grm188r61a106ke69j c33 12
+1 1 65a.0402 180g1e 陶瓷 电容 cc 18pf 0402 1% 50v cog 2 c0402 c0g kemet c0402c180f5gac7867 c63 c64 24
+2 1 65a.0402 270g1j 陶瓷 电容 cc 27pf 0402 5% 50v c0g 2 c0402 c0g gjm1555c1h270jb01d c129 c134 24
+3 1 65a.0402 473e3k 陶瓷 电容 cc 47nf 0402 10% 25v x7r 3 c0402 x7r gcm155r71e473ka55d c232 c235 c260 36
+4 1 65a.0402 103e3j 陶瓷 电容 cc 103 0402 5% 25v x7r 28 c0402 x7r kemet c0402c103j3racauto c33 c34 c36 c39 c40 c41 c42 c48 c54 c55 c113 c114 c130 c131 c132 c133 c135 c136 c138 c139 c140 c141 c143 c144 c145 c146 c148 c149 336
+5 1 65a.0402 104c3j 陶瓷 电容 cc 104 0402 5% 10v x7r 127 c0402 x7r kemet c0402c104j8racauto c5 c7 c9 c11 c14 c16 c18 c19 c20 c21 c28 c29 c37 c43 c45 c50 c53 c57 c58 c59 c60 c61 c65 c68 c69 c70 c74 c77 c78 c81 c83 c87 c90 c91 c95 c97 c98 c100 c103 c104 c107 c109 c115 c118 c119 c120 c121 c122 c124 c125 c126 c127 c137 c142 c147 c152 c153 c154 c155 c156 c157 c158 c159 c161 c162 c163 c165 c166 c167 c168 c169 c171 c172 c173 c175 c176 c178 c179 c180 c182 c183 c184 c185 c186 c187 c188 c189 1524
+6 1 65a.0402 104c3j 陶瓷 电容 cc 104 0402 5% 10v x7r 2 c0402 x7r kemet c0402c104j8racauto c26 c27 24
+7 1 65a.0402 105c4k 陶瓷 电容 cc 105 0402 10% 10v x5r 30 c0402 x5r kemet c0402c105k8pac7411 c6 c8 c10 c12 c13 c15 c17 c22 c24 c25 c32 c35 c51 c52 c62 c66 c72 c75 c79 c85 c88 c89 c92 c99 c101 c105 c111 c116 c117 c151 360
+8 1 65a.0603 820g1j 陶瓷 电容 cc 82pf 0603 5% 50v cog 2 c0603 c0g kemet cbr06c820f5gac c84 c110 24
+9 1 65a.0603 101g1e 陶瓷 电容 cc 101 0603 1% 50v c0g 2 c0603 c0g kemet c0603c101f5gacauto c82 c108 24
+10 1 65a.0603 224d3k 陶瓷 电容 cc 224 0603 10% 16v x7r 2 c0603 x7r kemet c0603c224k4rac7411 c67 c96 24
+11 1 65a.0603 104g3k 陶瓷 电容 cc 104 0603 10% 50v x7r 6 c0603 x7r kemet c0603c104k5racauto7411 c3 c4 c31 c46 c229 c272 72
+12 1 65a.0603 475e4m 陶瓷 电容 cc 475 0603 20% 25v x5r 9 c0603 x5r taiyo yuden tmk107bbj475ma t c23 c38 c44 c230 c231 c233 c234 c258 c259 108
+13 1 65a.0603 106c4m 陶瓷 电容 cc 106 0603 20% 10v x5r 31 c0603 x5r grm188r61a106ke69j c47 c49 c56 c71 c73 c76 c80 c86 c93 c94 c102 c106 c112 c150 c160 c164 c177 c181 c190 c198 c201 c209 c216 c227 c239 c248 c252 c254 c255 c257 c267 372
+14 1 65a.0805 226d4m 陶瓷 电容 cc 226 0603 20% 16v x5r 8 c0805 x5r grm219r61c226me15k c2 c30 c238 c244 c247 c251 c263 c266 96
+15 1 65a.1206 102q3k 陶瓷 电容 cc 102 1206 10% 2kv x7r 3 c1206 x7r kemet c1206x102kgracauto c1 c123 c128 36
+16 1 65a.1210 106e4k 陶瓷 电容 cc 106 1210 25v 10% x5r 6 c1210 x5r grm32dr61e106ka12l c237 c243 c246 c250 c262 c265 72
+17 1 65a.1210 107b4m 陶瓷 电容 cc 107 1210 6.3 v x5r 20% 2 c1210 x5r grm32er60j107me20l c242 c264 24
+1 1 65a.0603 222g3j 陶瓷 电容 cc 2.2 nf 0603 5% 50v x7r 1 c0603 x7r kemet c0603x222j5racauto c16 12
+2 1 65a.0603 822g4j 陶瓷 电容 cc 8.2 nf 0603 5% 50v x7r 1 c0603 x7r kemet c0603c822j5racauto c13 12
+3 1 65a.0603 220g1j 陶瓷 电容 cc 22pf 0603 5% 50v c0g 3 c0603 c0g kemet c0603c220j5gac7411 c15 c26 c27 36
+4 1 65a.0603 220g1j 陶瓷 电容 cc 22pf 0603 5% 50v c0g 1 c0603 c0g kemet c0603c220j5gac7411 c9 否 12
+5 1 65a.0603 470g1j 陶瓷 电容 cc 47pf 0603 5% 50v c0g 1 c0603 c0g cga3e2c0g1h470j080aa c6 12
+6 1 65a.0603 104g3k 陶瓷 电容 cc 104 0603 10% 50v x7r 11 c0603 x7r kemet c0603c104k5racauto7411 c7 c10 c14 c18 c19 c20 c21 c22 c25 c30 c31 132
+7 1 65a.0603 474g3k 陶瓷 电容 cc 474 0603 10% 50v x7r 2 c0603 x7r c1608x7r1h474k080ac c1 c3 24
+9 1 65a.0603 106c4m 陶瓷 电容 cc 106 0603 10% 10v x5r 4 c0603 x5r grm188r61a106ke69j c17 c24 c29 c32 48
+10 1 65a.0603 476c4m 陶瓷 电容 cc 476 0805 20% 10v x5r 1 c0805 x5r grm21br61a476me15 c4 12
+11 1 65a.1206 102q3k 陶瓷 电容 cc 2.2 nf 0603 5% 50v x7r 3 c1206 x7r kemet c1206x102kgracauto c23 c28 36
+12 1 65a.1210 106g3k 陶瓷 电容 10 uf 10% 50v x7r 1210 1 c1210 x7r grm32er71h106ka12l c2 12
+1 65a.0805 107b4m 陶瓷 电容 cc 107 0805 20% 6.3 v x5r 1 0805 x5r grm21br60j107me15k c1 55
+2 65a.0402 104c3j 陶瓷 电容 cc 104 0402 5% 10v x7r 201 0402 x7r kemet c0402c104j8racauto c4 c5 c6 c7 c8 c9 c10 c11 c12 c13 c14 c15 c16 c17 c18 c19 c20 c21 c26 c27 c31 c32 c33 c34 c35 c38 c39 c40 c41 c43 c44 c45 c48 c49 c50 c51 c54 c55 c56 c57 c60 c61 c64 c65 c66 c67 c68 c69 c70 c71 c72 c75 c78 c79 c80 c85 c86 c87 c88 c89 c91 c94 c97 c100 c101 c102 c103 c105 c106 c107 c108 c109 c110 c113 c115 c117 c122 c123 c125 c126 c128 c130 c131 c133 c134 c135 c140 c145 c147 c150 c152 c154 c157 c159 c161 c168 c169 c174 c179 c181 c184 c186 c188 c191 c193 c195 c202 c203 c208 c213 c215 c218 c220 c222 c225 c227 c229 c236 c237 c242 c247 c249 c252 c254 c256 c259 c261 c263 c270 c272 c274 c275 c276 c277 c280 c281 c282 c285 c286 c287 c289 c290 c292 c294 c297 c299 c302 c303 c306 c307 c308 c309 c310 c311 c312 c313 c314 c315 c323 c330 c332 c334 c335 c336 c337 c340 c341 c342 c343 c344 c345 c346 c347 c348 c349 c350 c351 c352 c353 c354 c355 c358 c359 c362 c364 c366 c369 c371 c374 c375 c379 c381 c419 c432 c463 c471 c472 c479 c480 c508 c521 11055
+3 65a.0402 104g9k 陶瓷 电容 cc 104 0402 10% 50v x8l 4 0402 x8l gcm155l8eh104ke07d c138 c172 c206 c240 220
+4 65a.0603 475b4k 陶瓷 电容 cc 475 0603 10% 6.3 v x5r 3 0603 x5r taiyo yuden jmk107bb7475ka t c2 c3 c325 165
+5 65a.0402 105c4k 陶瓷 电容 cc 105 0402 10% 10v x5r 99 0402 x5r kemet c0402c105k8pac7411 c28 c30 c37 c42 c47 c53 c59 c63 c74 c77 c82 c90 c93 c96 c99 c104 c111 c114 c116 c118 c120 c121 c124 c127 c129 c136 c142 c143 c148 c149 c151 c153 c156 c158 c160 c162 c170 c176 c177 c182 c183 c185 c187 c190 c192 c194 c196 c204 c210 c211 c216 c217 c219 c221 c224 c226 c228 c230 c238 c244 c245 c250 c251 c253 c255 c258 c260 c262 c264 c271 c273 c279 c284 c288 c291 c293 c295 c296 c298 c300 c301 c324 c326 c327 c331 c333 c363 c370 c372 c376 c382 c433 c435 c451 c454 c460 c470 c478 c522 5445
+6 65a.0603 475c4m 陶瓷 电容 cc 475 0603 20% 10v x5r 14 0603 x5r taiyo yuden lmk107bj475maht c29 c36 c46 c52 c58 c62 c73 c76 c81 c92 c95 c98 c278 c283 770
+7 65a.0603 106c4m 陶瓷 电容 cc 106 0603 20% 10v x5r 17 0603 x5r grm188r61a106ke69j c112 c119 c304 c305 c338 c339 c365 c367 c373 c377 c383 c450 c455 c459 c464 c465 c509 935
+8 65a.0805 226d4m 陶瓷 电容 cc 226 0805 20% 16v x5r 10 0805 x5r grm219r61c226me15k c132 c429 c430 c431 c448 c452 c453 c456 c461 c462 550
+9 65a.0402 104c3j 陶瓷 电容 cc 104 0402 5% 10v x7r 10 0402 x7r kemet c0402c104j8racauto c155 c163 c189 c197 c223 c231 c257 c265 c328 c329 否 550
+10 65a.0402 430g1j 陶瓷 电容 cc 430 0402 5% 50v c0g 1 0402 c0g gjm1555c1h430jb01d c316 55
+11 65a.0402 680g1j 陶瓷 电容 cc 680 0402 5% 50v c0g 2 0402 c0g gcm1555c1h680ja16j c317 c321 110
+12 65a.0402 120g1j 陶瓷 电容 cc 120 0402 5% 50v c0g 1 0402 c0g grm1555c1h120jz01 c318 55
+13 65a.0402 270g1j 陶瓷 电容 cc 270 0402 5% 50v c0g 1 0402 c0g gjm1555c1h270jb01d c319 55
+14 65a.0402 560g1j 陶瓷 电容 cc 560 0402 5% 50v c0g 1 0402 c0g gcm1555c1h560ja16d c320 55
+15 65a.0402 470g1j 陶瓷 电容 cc 470 0402 5% 50v c0g 1 0402 c0g gjm1555c1h470jb01d c322 55
+16 65a.0402 103e3j 陶瓷 电容 cc 103 0402 5% 25v x7r 6 0402 x7r kemet c0402c103j3racauto c356 c357 c360 c361 c506 c507 330
+17 65a.0603 224d3k 陶瓷 电容 cc 224 0603 10% 16v x7r 1 0603 x7r kemet c0603c224k4rac7411 c368 55
+18 65a.0603 820g1j 陶瓷 电容 cc 820 0603 5% 50v c0g 1 0603 c0g kemet cbr06c820f5gac c378 55
+19 65a.0603 101g1e 陶瓷 电容 cc 101 0603 1% 50v c0g 1 0603 c0g kemet c0603c101f5gacauto c380 55
+20 65a.0805 104h3k 陶瓷 电容 cc 104 0805 10% 100v x7r 5 0805 x7r kemet c0805c104k1recauto c384 c385 c386 c387 c400 275
+21 65a.0603 103h3k 陶瓷 电容 cc 103 0603 10% 100v x7r 4 0603 x7r kemet c0603c103k1rac3190 c392 c393 c394 c395 220
+22 65a.0402 681g1j 陶瓷 电容 cc 681 0402 5% 50v c0g 4 0402 c0g grm1555c1h681ja01d c491 c494 c497 c500 220
+23 65a.0805 106e3k 陶瓷 电容 cc 106 0805 10% 25v x5r 2 0805 x5r 08053d106kat4a c439 c440 110
+24 65a.0402 105e2m 陶瓷 电容 cc 105 0402 20% 25v x6s 2 0402 x6s kemet grm155c81e105me11j c418 c532 110
+25 65a.0402 105f4m 陶瓷 电容 cc 105 0402 20% 35v x5r 4 0402 x5r grm155r6ya105me11j c137 c171 c205 c239 220
+26 65a.0603 475e3m 陶瓷 电容 cc 475 0603 20% 25v x5r 13 0603 x5r taiyo yuden tmk107bbj475ma t c422 c437 c438 c441 c442 c443 c444 c473 c477 c481 c485 c533 c546 715
+27 65a.1210 226e2k 陶瓷 电容 cc 226 0805 10% 25v x7s 2 1210 x7s gcm32ec71e226ke36l c423 c534 110
+28 65a.0805 226e3m 陶瓷 电容 cc 226 0805 20% 25v x5r 5 0805 x5r grm21br61e226me44l c424 c425 c426 c524 c525 275
+29 65a.0805 226f8m 陶瓷 电容 cc 226 0805 20% 35v jb 4 0805 jb c2012jb1v226m125ac c502 c503 c504 c505 220
+30 65a.0402 104e3k 陶瓷 电容 cc 104 0402 10% 25v x7r 11 0402 x7r kemet c0402c104k3ractu c427 c468 c469 c475 c476 c483 c484 c487 c488 c523 c535 605
+31 65a.0402 105e2m 陶瓷 电容 cc 105 0402 20% 25v x6s 5 0402 x6s grm155c81e105me11j c428 c467 c474 c482 c486 275
+32 65a.0402 100g1j 陶瓷 电容 cc 100 0402 5% 50v c0g 2 0402 c0g gcq1555c1h100jb01d c434 c536 110
+33 65a.0402 105d2k 陶瓷 电容 cc 105 0402 10% 16v x7s 2 0402 x7s kemet grm155c71a105ke11j c436 c543 110
+34 65a.0805 476b4m 陶瓷 电容 cc 476 0805 20% 6.3 v x5r 6 0805 x5r taiyo yuden jmk212bj476mg t c445 c446 c447 c449 c457 c458 330
+35 65a.0402 225b4k 陶瓷 电容 cc 225 0402 10% 6.3 v x5r 1 0402 x5r grm155r60j225ke95d c466 55
+36 65a.1210 102q3k 陶瓷 电容 cc 102 1210 10% 2kv x7r 1 1210 x7r 1210gc102kat1a c510 55
+37 65a.0402 271g1j 陶瓷 电容 cc 271 0402 5% 50v c0g 8 0402 c0g grm1555c1h271ja01d c490 c492 c493 c495 c496 c498 c499 c501 440
+38 65a.0805 476c4m 陶瓷 电容 cc 475 0805 20% 10v x5r 2 0805 x5r taiyo yuden lmk212bbj476mg t c538 c539 110
+39 65a.1206 475g3k 陶瓷 电容 cc 475 1206 10% 50v x7r 4 1206 x7r kemet c1206c475k5racauto c526 c527 c540 c541 220
+40 65a.0603 104g3k 陶瓷 电容 cc 104 0603 10% 50v x7r 2 0603 x7r kemet c0603c104k5racauto7411 c528 c542 110
+41 65a.0603 822g3j 陶瓷 电容 cc 822 0603 5% 50v x7r 2 0603 x7r kemet c0603c822j5racauto c529 c537 110
+42 65a.0603 220g1j 陶瓷 电容 cc 220 0603 5% 50v c0g 2 0603 c0g kemet c0603c220j5gac7411 c530 c544 110
+43 65a.0603 222g3j 陶瓷 电容 cc 222 0603 5% 50v x7r 2 0603 x7r kemet c0603x222j5racauto c531 c545 110
+1 16p8302b0 c01 s000045 cap cer 18pf 50v np0 0402 5% grm1555c1h180ja01d 陶瓷 电容 27 9 243
+2 16p8302b0 c01 s000088 cap cer 10pf 50v np0 0402 5% grm1555c1h100ja01d 陶瓷 电容 34 9 306
+3 16p8302b0 c01 s000283 0.1 µ f ± 10% 50v 陶瓷 电容器 x7r 0603 1608 cc0603krx7r9bb104 陶瓷 电容 110 9 990
+4 16p8302b0 c01 s000313 cap cer 0.22 uf 25v x5r 0402 ± 10% grm155r61e224ke01d 陶瓷 电容 130 9 1170
+5 16p8302b0 c01 s000669 multilayer ceramic capacitors mlcc smd smt 0603 10 uf 25volts x5r 20% grm188r61e106ma73d 陶瓷 电容 820 9 7380
+6 16p8302b0 c01 s001720 cap cer 0.1 uf 50v x7r 0402 ± 10% grm155r71h104ke14d 陶瓷 电容 3987 9 35883
+7 16p8302b0 c01 s001821 cap cer 4.7 uf 35v x5r 0603 ± 10% grm188r6ya475ke15d 陶瓷 电容 530 9 4770
+8 16p8302b0 c01 s003012 cap ceramic 2200pf 10% 50v x7r 0402 grm155r71h222ka01d 陶瓷 电容 261 9 2349
+9 16p8302b0 c01 s003616 cap cer 47 uf 10v x5r 0805 grm21br61a476me15l 陶瓷 电容 252 9 2268
+10 16p8302b0 c01 s003716 cap cer 0.47 uf 25v x5r 0402 cl05a474ka5nnnc 陶瓷 电容 450 9 4050
+11 16p8302b0 c01 s003717 cap cer 1 uf 35v x5r 0402 ± 10% cm05x5r105k35ah kyocera 陶瓷 电容 230 9 2070
+12 16p8302b0 c01 s003718 cap cer 22 uf 25v x5r 1210 grm32er61e226me15l 陶瓷 电容 301 9 2709
+13 16p8302b0 c01 s003720 cap cer 180pf 50v c0g np0 0402 grm1555c1h181ja01d 陶瓷 电容 92 9 828
+14 16p8302b0 c01 s003721 cap cer 5600pf 50v x7r 0402 grm155r71h562ka88d 陶瓷 电容 257 9 2313
+15 16p8302b0 c01 s003722 cap cer 0.047 uf 50v x7r 0402 gcm155r71h473ke02d 陶瓷 电容 36 9 324
+16 16p8302b0 c01 s003723 cap cer 0.015 uf 50v x7r 0402 grm155r71h153ka12d 陶瓷 电容 50 9 450
+17 16p8302b0 c01 s003725 cap cer 1000pf 2kv x7s 1210 c1210x102k202t hec 陶瓷 电容 31 9 279
+18 16p8302b0 c01 s003726 cap cer 220 uf 6.3 v x5r 1210 grm32er60j227me05l 陶瓷 电容 20 9 180
+19 16p8302b0 c01 s003727 cap cer 390pf 50v c0g np0 0402 grm1555c1h391ja01d 陶瓷 电容 50 9 450
+1 16p8302b0 c01 s001181 cap cer 100 uf 10v x5r 1210 ± 20% grm32er61a107me20l 陶瓷 电容 402 9 3618
+01 302 00091 电容 22p 50v 5 ％ npo c0603 4000
+01 302 00096 电容 68p 50v 5 ％ npo c0603 4000
+01 302 00097 电容 101 50v 5 ％ npo c0603 2000
+01 302 00099 电容 121 50v 5 ％ npo c0603 4000
+01 302 00106 电容 104 25v 5 ％ x7r c0603 14000
+01 302 00271 电容 221 50v 5% npo c0603 4000
+01 302 00222 电容 15p 50v 5 ％ npo c0603 4000
+电容 12pf 50v npo j 0402 3 3000.0
+电容 15pf 50v npo j 0402 2 2000.0
+电容 33pf 50v npo j 0402 2 2000.0
+电容 68pf 50v npo j 0402 1 1000.0
+电容 100pf 50v npo j 0402 3 3000.0
+电容 180pf 50v npo j 0402 2 2000.0
+电容 100nf 25v x5r k 0402 30 30000.0
+电容 470nf 16v x5r m 0402 1 1000.0
+电容 1 uf 25v x5r m 0402 4 4000.0
+电容 4.7 uf 10v x5r m 0402 1 1000.0
+电容 10 uf 10v x5r m 0603 12 12000.0
+c1 1p5 grm1555c1h1r05wa01 â ± 0.05 p c0g
+c102 100p 0.05 50v c0g
+c103 c107 10p 0.05 50v c0g
+c106 220n 0.1 16v x7r
+c110 c123 10u 0.2 6.3 v x5r
+c111 c115 c116 c118 1u 0.1 25v x5r
+c113 10n 0.1 16v x7r
+c119 c124 c200 c201 c203 c207 100n 0.1 16v x7r
+c205 10u x5r nm
+c1 2p0 grm1555c1h2r0wa01 cap cer c0g 2pf 50v 0.05 pf ± 0.05 p c0g
+c2 1p0 grm1555c1h1r0wa01 cap cer c0g 1.0 pf 50v 0.05 pf ± 0.05 p c0g
+c3 c4 1p8 grm1555c1h1r8wa01 ± 0.05 pf c0g
+c5 3p9 grm1555c1h3r9wa01 cap cer c0g 3.9 pf 50v 0.05 pf ± 0.05 pf c0g
+c6 c8 3p3 grm1555c1h3r3ba01 cap cer c0g 3.3 pf 50v 0.1 pf ± 0.1 pf c0g
+c7 5p6 grm1555c1h5r6ba01 cap cer c0g 5.6 pf 50v 0.1 pf ± 0.1 pf c0g
+c10 56p grm1555c1h560ga01 cap cer np0 56pf 50v 2% ± 2% c0g
+c102 100p cap cer c0g 100pf 50v 5% 0.05 50v c0g
+c103 c107 10p cap cer np0 10pf 50v 5% 0.05 50v c0g
+c106 220n cap cer x7r 220nf 16v 10% 0.1 16v x7r
+c110 c112 10u cap cer x5r 10 uf 6.3 v 20% 0.2 6.3 v x5r
+c111 c114 c115 c117 1u cap cer x5r 1 uf 25v 10% 0.1 25v x5r
+c113 10n cap cer x7r 10nf 16v 10% 0.1 16v x7r
+c116 c124 c200 c201 c203 c207 100n cap cer x7r 100nf 16v 10% 0.1 16v x7r
+c205 10u 0.1 10v x5r nm
+capacitor smd ceramic 8.2 pf 0603 50v 10%
+22 pf 0603 50v 10%
+27 pf 0603 50v 10%
+33 pf 0603 50v 10%
+1 nf 0603 50v 10%
+4.7 nf 0603 50v 10%
+10 nf 0603 50v 10%
+100 nf 0603 50v 10%
+1 uf 0603 25v 10%
+2.2 uf 0603 25v 10%
+10 uf 0603 25v 10%
+4.7 uf 0805 25v 10%
+10 uf 0805 25v 10%
+chip cap 0.1 uf 805 805
+chip cap tant 10 uf 16v 3528b 3528b
+chip cap 100kpf 805 805
+capacitor ceramic x7r 100nf 16v 10% 0603 100nf 16v c x7r 100nf 16v 10% 0603 c x7r 100nf 16v 10% 0603
+chip cap 0.01 uf 805 805
+capacitor ceramic np0 4.7 pf 25v 10% 0603 4.7 pf 25v c np0 4.7 pf 25v 10% 0603 c np0 4.7 pf 25v 10% 0603
+capacitor ceramic np0 15pf 50v 10% 0603 15pf 50v c npo 15pf 50v 10% 0603 c npo 15pf 50v 10% 0603
+capacitor ceramic np0 47pf 50v 10% 0603 47pf 50v c np0 47pf 50v 10% 0603 c np0 47pf 50v 10% 0603
+capacitor ceramic np0 10pf 50v 10% 0603 10pf 50v c np0 10pf 50v 10% 0603 c np0 10pf 50v 10% 0603
+capacitor ceramic x7r 100nf 16v 10% 0603 100nf 16v c x7r 100nf 16v 10% 0603 c x7r 100nf 16v 10% 0603
+capacitor ceramic x7r 100nf 50v 20% 0603 100nf 50v c x7r 100nf 50v 20% 0603 c x7r 100nf 50v 20% 0603
+capacitor ceramic x5r 10 uf 50v 20% 1210 10 uf 50v c x5r 10 uf 50v 20% 1210 c x5r 10 uf 50v 20% 1210
+capacitor ceramic x5r 10 uf 10v 20% 0805 10 uf 10v c x5r 10 uf 10v 20% 0805 c x5r 10 uf 10v 20% 0805
+capacitor ceramic x5r 1 uf 16v 20% 0603 1 uf 16v c x5r 1 uf 16v 20% 0603 c x5r 1 uf 16v 20% 0603
+capacitor ceramic x5r 10 uf 6.3 v 20% 0603 10 uf 6.3 v c x5r 10 uf 6.3 v 20% 0603 c x5r 10 uf 6.3 v 20% 0603
+capacitor ceramic x5r 22 uf 25v 20% 1210 22 uf 25v c x5r 22 uf 25v 20% 1210 c x5r 22 uf 25v 20% 1210
+capacitor ceramic x7r 1nf 50v 10% 0603 1nf 50v c x7r 1nf 50v 10% 0603 c x7r 1nf 50v 10% 0603
+capacitor ceramic x7r 2.7 nf 50v 10% 0402 2.7 nf 50v c x7r 2.7 nf 50v 10% 0402 c x7r 2.7 nf 50v 10% 0402
+capacitor ta 4.7 uf 10v 20% 3216 4.7 uf 10v c ta 4.7 uf 10v 20% 3216 c ta 4.7 uf 10v 20% 3216
+capacitor ceramic x5r 2.2 uf 6.3 v 20% 0603 2.2 uf 6.3 v c x5r 2.2 uf 6.3 v 20% 0603 c x5r 2.2 uf 6.3 v 20% 0603
+capacitor ceramic npo 22pf 50v 5% 0603 22pf 50v c npo 22pf 50v 5% 0603 c npo 22pf 50v 5% 0603
+chip cap 22pf 16v 805 805
+capacitor ceramic x5r 10 uf 6.3 v 20% 0603 10 uf 6.3 v c x5r 10 uf 6.3 v 20% 0603 c x5r 10 uf 6.3 v 20% 0603
+capacitor ceramic x7r 10nf 25v 10% 0603 10nf 25v c x7r 10nf 25v 10% 0603 c x7r 10nf 25v 10% 0603
+22n c euc0603k c0603k x5r 0.1 50v
+100n c euc0603k c0603k x5r 0.1 50v
+100n c euc0603k c0603k x5r 0.1 50v
+1n c euc0603k c0603k x5r 0.1 50v
+100n c euc0603k c0603k x5r 0.1 50v
+100n c euc0603k c0603k x5r 0.1 50v
+1u c euc0603k c0603k x5r 0.1 16v
+c3225c0g1h473j corporation cap cer 47000pf 0.047 uf 50v c0g 5% 1210 1210 1
+c0805c104k4ractu kemet cap 10 uf 16v ceramic x7r 0805 805 32
+c0402c220j5gactu kemet cap ceramic 22pf 50v np0 0402 402 2
+c0402c330j5gactu kemet cap ceramic 33pf 50v np0 0402 402 2
+22252c334kat1a corporation cap cerm 33 uf 200v x7r 2225 2225 2
+3 c4 c10 c11 capacitor 1 uf 10% 25v x5r grm188r61e105ka12d
+2 c16 c17 capacitor 100pf 5% 50v np0 kemet c0402c101k5gactu
+2 c9 c19 capacitor 0.1 uf 10% 25v x5r c1005x5r1e104k
+3 c21 c22 c23 capacitor 4.7 uf 10% 50v x5r c2012x5r1h475k125ab
+c4 c10 c11 capacitor 1 μ f 10% 25 v x7r c1608x7r1e105k
+c5 c6 capacitor 0.1 μ f 10% 25 v x7r c1608x7r1e104k
+c9 capacitor 0.1 μ f 10% 25 v x7r cc0402krx7r8bb104
+c12 c14 capacitor 0.1 μ f 10% 16 v x7r grm155r71c104ka88d
+c15 capacitor 0.022 μ f 10% 25 v x7r c1005x7r1e223k050bb
+c16 c17 capacitor 100 pf 10% 50 v x7r yegeo cc0402krx7r9bb101
+c20 capacitor 4.7 μ f 10% 10 v x5r c1005x5r1a475k050bc
+c21 c22 c23 c24 c25 c26 c34 c35 c36 c37 capacitor 1 μ f 100 v 20% x7s c2012x7s2a105m125ab
+c27 c28 c29 c30 c31 c32 c33 capacitor 0.22 μ f 10% 100 v x7s taiyo yuden hmk107c7224
+c1 c2 22 pf 50 v w ü 885012005057
+c10 c20 2.2 µ f 100 v taiyo yuden hmk325b7225kn t
+c40 4.7 µ f 10 v cl05a475mp5nrnc
+c41 c70 c71 100 nf 16 v w ü 885012205037
+c73 c74 22 pf 50 v w ü 885012005057
+c90 c91 c92 1 µ f 25 v w ü 885012206076
+c4 c10 c11 capacitor 1 µ f 10% 25 v x5r grm188r61e105ka12d
+c12 capacitor 0.1 µ f 10% 25 v x5r c1005x5r1e104k050bc
+c13 c14 capacitor 1 µ f 10% 25 v x5r c1005x5r1e105k050bc
+c16 c17 c18 c19 capacitor 2.2 µ f 20% 25 v x5r c1005x5r1e225m050bc
+c4 c10 c11 capacitor 1 µ f 10% 25 v x5r grm188r61e105ka12d
+c9 capacitor 0.1 µ f 10% 25 v x5r c1005x5r1e104k050bc
+c16 c17 capacitor 100 pf 5% 50 v np0 kemet c0402c101k5gactu
+c19 capacitor 1 µ f 10% 25 v x5r c1005x5r1e105k050bc
+c21 c22 c23 c24 capacitor cer 1 µ f 100 v 20% x7s 0805 c2012x7s2a105m125ab
+cina cinb cinc cind capacitor 1 μ f 20% 100 v x7s 0805 c2012x7s2a105m125ab
+cb1 capacitor 0.1 μ f 10% 25 v x5r 0402 c1005x5r1e104k050bc
+cdec1 capacitor 1 μ f 10% 25 v x5r 0402 c1005x5r1e105k050bc
+cout1 cout2 cout3 cout4 capacitor 22 μ f 20% 25 v x5r 0805 c2012x5r1e226m125ac
+cl capacitor 22 pf 1% 50 v c0g np0 0402 cbr04c220f5gac
+ch capacitor 22 pf 1% 50 v c0g np0 0402 cbr04c220f5gac
+c18 capacitor 220 pf 10% 50 v x7r 0402 c0402c221k5ractu
+c16 capacitor 220 pf 10% 50 v x7r 0402 c0402c221k5ractu
+c17 capacitor 220 pf 10% 50 v x7r 0402 c0402c221k5ractu
+cs1 cs2 cs3 cs4 cs5 capacitor 220 pf 10% 50 v x7r 0402 c0402c221k5ractu
+c1 c2 c3 c4 c5 capacitor 10 μ f 6.3 v x6s 0603 jmk107bc6106ma t
+c26 capacitor 220 pf 10% 50 v x7r 0402 c0402c221k5ractu
+c6 c7 c8 capacitor 1 μ f 10% 25 v x5r 0603 grm188r61e105ka12d
+c19 c20 c21 c22 c23 c24 capacitor 47 μ f 20% 25 v x5r 1210 tmk325abj476mm p
+cine capacitor 4.7 μ f 10% 100 v x7s 1210 cga6m3x7s2a475k200ab
+cin1 cin2 cin3 cin4 cin5 cap ceramic 2.2 μ f 25 v x5r 0402 c1005x5r1e225m050bc
+cb cap ceramic 0.1 μ f 25 v x5r 0402 c1005x5r1e104k050bc
+cd cdt cdcs cap ceramic 1 μ f 25 v x5r 0402 c1005x5r1e105k050bc
+cout1 cout2 cout3 cout4 cout5 cap ceramic 22 μ f 6.3 v x5r 0402 cl05a226mq5qunc
+cs cap ceramic 10 nf 16 v x7r 0402 0402yc103jat2a
+cin1 cin2 cin3 cin4 cap ceramic 1 μ f 100 v x7s 0805 c2012x7s2a105m125ab
+cb cap ceramic 0.1 μ f 25 v x5r 0402 c1005x5r1e104k050bc
+cdec cdec2 cap ceramic 1 μ f 25 v x5r 0402 c1005x5r1e105k050bc
+cdec3 cdec4 cap ceramic 22 pf 50 v c0g 0402 kemet cbr04c220f5gac
+cout1 cout2 cout3 cout4 cap ceramic 22 μ f 25 v x5r 0805 grt21br61e226me13l
+cs capacitor ceramic 15 nf 16 v 0402
+0.1 uf 100v 10% 0805 c1 c2 c5 c6 c7 c8 c9 c10 c11 c12 cl21b104kcc5pnc 1276 2447 1 nd
+4.7 uf 50v 10% x7r 1812 c3 kemet c1812f475k5rac7800 399 11966 1 nd
+47 uf 10v 20% x5r 1812 c4 c4532x5r1a476m280ka 445 1440 1 nd
+c1 c2 c5 c6 cc1206jrnpo9bn220 cap cer 22pf 50v np0 0603 0603 smd
+c7 c10 12065a330jat2a cap 33pf 50v 0805 0805 smd
+c110 210 216 ceramic 2200 pf 50 v cog 5% 1206 grm3195c1h222ja01d 490 3355 1 nd 0.36 y
+c109 209 ceramic 4700 pf 50 v cog 5% 1206 grm3195c1h472ja01d 490 3357 1 nd 0.43 y
+c104 115 116 117 204 215 ceramic 0.01 uf 50 v x7r 10% 1206 c1206c103k5ractu 80 c1206c103k5r 0.1 y
+c101 102 105 106 108 111 112 113 118 201 202 205 206 208 211 212 213 ceramic 0.1 uf 50 v x7r 10% 1206 c1206c104k5ractu 80 c1206c104k5r 0.07 y
+c103 107 114 203 207 214 ceramic 10 uf 25 v x5r 10% 1206 grm31cr61e106ka12l 81 grm31r61e106ka12l 0.78 y
+47pf 50v cap0603 0603 cap c5 c6 capacitor grm1882c1h470ja01
+0u1 50v cap0603 0603 cap c1 c3 c4 c7 c9 capacitor grm188f11h104za01
+4.7 uf 10v cap0603 0603 cap c2 capacitor grm188f11a475ze20
+22 uf 25v cap0805 0805 cap c8 c12 capacitor grm21br61e226me44
+22 uf 25v cap1206 1206 cap c10 c11 capacitor grm31cb31e226ke15
+c4 c6 c7 cl31b106kohnnne cap cer 10 uf 16v 10% x7r 1206 10 uf
+c5 c16 grm188r71c104ka01d cap cer 0.1 uf 16v 10% x7r 0603 0.1 uf
+c12 c0603c225k4pactu cap cer 2.2 uf 16v 10% x5r 0603 2.2 uf
+c1 100nf 603 yes top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
+c3 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c4 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c5 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c6 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c7 100nf 603 yes top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
+c8 10 uf ± 10% 805 yes top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
+c9 10 uf ± 10% 805 yes top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
+c11 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c12 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c13 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c14 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c15 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c16 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c17 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c18 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c19 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c21 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
+c22 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c23 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
+c24 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
+c91 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c1 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c2 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c3 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c4 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c5 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c6 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c7 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c8 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c9 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c10 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c11 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c12 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c13 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c14 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c15 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c16 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c17 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c18 cap 1nf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
+c19 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c20 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c21 cap 1nf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
+c22 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c23 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c24 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c25 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c26 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c27 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c28 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c29 cap 10 uf 0.2 c0805 yes sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
+c30 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c31 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c32 cap 10 uf 0.2 c0805 yes sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
+c33 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c34 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c35 cap 330nf ± 10% c0603 yes sig top l1 cap 33 uf 10v ceramic x5r 0603 ecj 1vb1a334k pcc2274tr nd
+c36 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c37 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c38 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c39 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c40 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c41 cap 33nf ± 10% c0603 yes sig top l1 cap 33nf 25v cerm x7r 0603 ecj 1vb1e333k pcc1769tr nd
+c42 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c43 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c44 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c45 cap 8.2 pf c0402 yes sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
+c46 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c47 cap 8.2 pf c0402 yes sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
+c48 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c49 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c50 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c51 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c52 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c54 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c55 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c56 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c57 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c58 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c59 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c60 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c61 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c62 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c63 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c64 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c65 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c66 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c67 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c68 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c69 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c70 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c72 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c73 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c74 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c75 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c78 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c83 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c100 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c101 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c102 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c103 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c104 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c106 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c107 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c108 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c43 c1 c3 c11 c13 c15 c17 c19 c21 c26 c27 c32 c34 c36 c38 c39 100nf 0805 cap cer 1 uf 50v x7r 0805 002002 yes yes grm219r71c104ka01d
+c2 220pf 0805 cap 220pf 50v cerm chip 0805 smd 0.0663 yes yes grm2165c1h221ja01d
+c4 c6 c7 22pf 0805 cap 22pf 100v cerm chip 0805 smd 0.1229 yes yes grm2195c2a220jz01d
+c5 2.2 nf 0805 cap 2.2 nf 50v cerm chip 0805 smd 0.0956 yes yes grm2165c1h222ja01d
+c8 c9 c10 220nf 0805 cap 22 uf 16v ceramic x7r 0805 00473 yes yes ecj 2vb1c224k
+c22 c25 c28 c31 c41 c42 47pf 0805 cap 47pf 50v cerm chip 0805 smd 0.0332 yes yes ecj 2vc1h470j
+c23 c30 33pf 0805 cap cer 33pf 100v 5% c0g 0805 0.1151 yes yes grm2195c2a330jz01d
+c24 c29 47nf 0805 cap cer 47000pf 50v 10% x7r 0805 0.0884 yes yes grm21br71h473ka01l
+c40 4.7 nf 0805 cap 4700pf 50v cerm chip 0805 0.0248 yes yes ecj 2vb1h472k
+片状 陶瓷 电容 cap cer c0g 33pf 5% 50v 0402 0.5 mm cc0402jrnpo9bn330 6 c4 c5 c6 c9 c104 c105 33pf
+cap cer c0g 33pf 5% 50v 0402 0.5 mm c0402c0g330j500n eyang
+片状 陶瓷 电容 cap cer c0g 100pf 5% 50v 0402 0.5 mm cc0402jrnp09bn101 2 c3 c103 100pf
+cap cer c0g 100pf 5% 50v 0402 0.5 mm c0402c0g101j500n eyang
+片状 陶瓷 电容 cap cer x7r 1000pf 10% 50v 0402 0.5 mm c0402x7r102k500n eyang 2 c24 c21 1000pf 0402
+cap cer x7r 1000pf 10% 50v 0402 0.5 mm cc0402krx7r9bb102
+片状 陶瓷 电容 cap cer x5r x7r 0.01 uf 10% 10v 0402 0.5 mm cc0402krx5r6bb103 1 c15 0.01 uf
+cap cer x5r 0.01 uf 20% 10v 0402 0.5 mm c0402x5r103k100n c0402x5r103m100n eyang
+片状 陶瓷 电容 cap cer x5r x7r 0.1 uf 10% 10v 0402 0.5 mm cc0402krx5r6bb104 2 c100 c14 0.1 uf
+cap cer x5r 0.1 uf 20% 10v 0402 0.5 mm c0402x5r104k100n c0402x5r104m100n eyang
+片状 陶瓷 电容 cap cer x7r 100nf 20% 50v 0603 0.9 mm cc0603krx7r9bb104 1 c5 0.1 uf 603
+cap cer x7r 100nf 20% 50v 0603 0.9 mm c0603x7r104m500ntd eyang
+片状 陶瓷 电容 cap cer x5r 1 uf 10% 6.3 v 0402 0.5 mm cc0402krx5r5bb105 9 c1 c7 c8 c10 c13 c23 c25 c69 c27 1 uf
+cap cer x5r 1 uf 10% 6.3 v 0402 0.5 mm c0402x5r105k6r3nt eyang
+片状 陶瓷 电容 cap cer x5r 10 uf 30% 6.3 v 0402 0.5 mm c0402x5r106n6r3ntc eyang 3 c12 c14 c15 10 uf 0402
+cap cer x5r 10 uf 20% 6.3 v 0402 0.5 mm cc0402mrx5r5bb106
+片状 陶瓷 电容 电容 0603 10 uf 20% x5r 25v c0603x5r106m250ntk eyang 2 c18 c17 10 uf 0603
+片状 陶瓷 电容 cap cer x5r 22 uf 20% 6.3 v 0603 0.8 mm c0603x5r226m6r3nrk eyang 1 c19 22 uf 0603
+cap cer x5r 22 uf 20% 6.3 v 0603 0.8 mm cc0603mrx5r5bb226

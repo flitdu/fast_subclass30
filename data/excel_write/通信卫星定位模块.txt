@@ -1,0 +1,6 @@
+70 1 56a.01 sim68v01 集成电路 sim68vb 模块 波特率 9600 40 85 ℃ 24 sim68vb 1 24 sim68vb simcom sim68vb u13 12
+156 56a.02 sim68v01 定位 模块 sim68vb 模块 40 85 ℃ 24 sim68vb 1 24 sim68vb simcom sim68vb u53 55
+sim900 4 band gprs gsm module
+neo 6 module module
+u102 202 ft232r usb to serial 28 ssop ft232rl 895 ft232rl 4.5 y
+gprs 模块 air810 a11 模块 air810 a11 合宙 1 u11

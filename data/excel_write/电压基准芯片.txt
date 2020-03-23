@@ -1,0 +1,6 @@
+141 56a.20 adr44401 adr444brz reel7 opam soic 8 40 125 ℃ 1.8 uvp p 1 soic 8 adr444brz reel7 u8 55
+93 16p8302b0 u17 s001008 ic vref series 2.048 v 8soic adr4520brz soic 10 9 90
+lm385m3 1.2 micropower voltage reference diode sot23 farnell 9778152 yes 1.46 6.0 0.0
+u8 adr510artz ic vref shunt 1v ln sot 23 tr analog devices inc adr510artz reel7 adr510artz reel7ct nd 1.5
+ic2s rail splitter tle2426 595 tle2426ilp 296 1994 nd
+296 1345 1 nd ic 1 2 rail virtual gnd 8 soic ic tle2426 ic so08

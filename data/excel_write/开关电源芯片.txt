@@ -1,0 +1,7 @@
+23 133726 1 ic ic202601ym0tr 电源开关 ic mic2026 1ym tr 8soic 10 y
+74 1 57a.71 tps20601 集成电路 tps2065cdbvt 限流 配电 开关 5.5 v 1a 40 85 ℃ sot23 5 1 sot23 5 095 3 0x1 8 tps2065cdbvt u16 12
+75 1 57a.71 tps20501 集成电路 tps2051bdbvr 限流 配电 开关 5.5 v 0.5 a 40 85 ℃ sot23 5 1 sot23 5 095 3 0x1 8 tps2051bdbvr u18 12
+u2 ic sw usb dual w fb 10 umax integrated products max1823beub max1823beub nd
+ap2151 diodes inc ap2151fmg 7
+dual high side switch with oc det 500ma ch tps2052bd ic tps2052bd ic tps2052bd
+power supply controller tps51120 ic tps51120 ic tps51120

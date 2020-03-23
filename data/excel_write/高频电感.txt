@@ -29,8 +29,6 @@ sxfc30000212 4iz inductive high frequency inductor lqw18an5n6c00d 5.6 nh 0.2 nh 
 电感 0402 3.3 nh ± 0.1 nh high frequency lqp15mn3n3b02d 0402 1 l3 490 1130 2 nd 7
 电感 0402 1.8 nh ± 0.1 nh high frequency d lqp15mn1n8b02 0402 l4 490 1127 2 nd 0
 fastron 0603as r56j 01 603.0 560n 5% 0603 1 150mhz 0.15 a of stock 150
-电感 11 sdcl1005c2n0stdf sunlord hf inductors 2nh â ± 0.3 nh 300ma 0402 1 200000
-242 电感 inducrot 2.2 uh 600ma 0805 mlp2012s2r2tt smt mlp2012s2r2tt 2 80
 33 26058 sdcl1608c15njtdf 15nh l0603 70 100
 111 053w222203211 703110001312 电感 inductors 22nh ± 5% 300ma 0.3 a 0402 smd lqg15hs22nj02d 1 100 mbs 5330 1.0
 44 电感 27nh 320ma 0603 sdwl1608c27njstf sunlord fb0603 ws040006 1 9200 sdwl1608c27njstf
@@ -93,4 +91,11 @@ cih05t6n2snc fixed inductor 6.2 nh ± 0.3 nh 300ma 10000
 l7 l8 8.2 nh 0402 2 高频 电感 sdcl1005c8n2jtdf 10000 0.0118 10000 5% lc
 l11 l12 7.5 nh 0402 2 高频 电感 sdcl1005c7n5jtdfm01 10000 0.0118 10000 5% lc
 l10 l9 12nh 0402 4 高频 电感 sdcl1005c12njtdf 10000 0.0118 10000 5% lc
+25 电感 l1 0603 5% 电感 射频 33nh 2 1
+26 电感 l2 0603 5% 电感 射频 39nh 2 1
+27 电感 l3 0603 5% 电感 射频 22nh 2 1
+28 电感 l4 l5 0603 5% 电感 射频 15nh 2 2
+29 电感 l6 0603 5% 电感 射频 8.2 nh 2 1
+l1 39 nh high frequency chip inductor ± 5% 402 abracon aisc 0402 3n9j t scripts dksearch dksus dll detail itemseq 192454664 uq 635960629680147746
+l3 15 nh high frequency chip inductor ± 10% 402 abracon aisc 0402 15nj t scripts dksearch dksus dll detail itemseq 192454742 uq 635960629680167746
 电感 39nh ± 5% 0402l 高频 l 5

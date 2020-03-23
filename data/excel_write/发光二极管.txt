@@ -1,0 +1,85 @@
+15 133726 1 le060300000001 r led 0603 红色 5 n
+14 2d2433a0 d11 d000095 led blue clear t h 5mm 151054bs04500 jb hxjy 发光 二极管 1510
+15 2d2433a0 d11 d000095 led blue clear t h 5mm 151054bs04500 jb hxjy 发光 二极管 1709
+10.0 2d2436a0 d11 s000056 led green diffused 0805 smd lg r971 kn 1 osram 发光 二极管 1020.0
+7 4b4801a0 d11 s000206 led green red clear 0606 smd ltst c195kgjrkt lite on 发光 二极管 286
+13 2c6806a0 d11 s000176 led yellow smd 0805 ltst c170kskt cxg 发光 二极管 11
+14 2c6806a0 d11 s000323 led blue clear 0805 smd 蓝色 led 0805 blue cxg 发光 二极管 40
+15 2c6806a0 d11 s000325 led yellow green 黄绿色 diffused 0805 vfhd1112h 3b72b jb cxg 发光 二极管 75
+10.0 2d2436a0 d11 s000056 led green diffused 0805 smd lg r971 kn 1 osram 发光 二极管 1020.0
+50 1 57a.14 20200001 led 发光 二极管 smd led green 40 85 ℃ 570nm 1.9 v 2ma 0603 9 led0603 aptd1608lcgck d3 d5 d6 d12 d15 d16 d17 d18 d19 108
+32 1 57a.14 20210001 led 发光 二极管 smd led red 40 85 ℃ 625nm 2v 20ma 0603 2 led 0603 apt1608ec d3 d6 24
+128 57a.14 20500001 单色 led 发光 二极管 绿色 120 ° 20ma 0603 10 0603 apt1608sgc d15 d16 d17 d19 d20 d21 d22 d23 d24 d37 550
+129 57a.14 20500002 双色 led 发光 二极管 绿色 红色 120 ° 20ma 0603 1 0603 aphb1608sgyc d38 55
+10 16p8302b0 d11 s000251 led red clear 0603 smd 红色 19 217 r6c al1m2vy 3t 发光 二极管 475
+2 led 0805 led3 d0805 grn green led 0805 green led 0805 25 100
+led 0805 led4 d0805 grn green led 0805 green led 0805 25 100
+4 led 0805 led1 d0805 red red led 0805 red led 0805 25 100
+led 0805 led2 d0805 red red led 0805 red led 0805 25 100
+led 0805 led5 d0805 red red led 0805 red led 0805 25 100
+led 0805 led6 d0805 red red led 0805 red led 0805 25 100
+1 led 0805 led7 d0805 yel yellow led 0805 yellow led 0805 25 100
+3 led1 led2 led3 led4 led5 led6 led7 led8 led9 led10 led11 led12 led13 led14 led15 led16 led17 led18 led19 led20 ws2812b ws2812b p 20 original 7400
+79 svd1 svd6 svd7 svd8 red led 0805 4 any man uf acturer 1480
+80 svd2 svd4 svd5 green led 0805 3 any man uf acturer 1110
+81 svd3 yellow led 0805 1 any man uf acturer 370
+13 发光 二极管 1206 红色 发光 led hl2 1 3
+q06 20020001 92 70402000580 发光 二极管 红色 30mcd 20ma 4.6 7.4 8.9 2pin dip lumex ssf lxh103id 35
+q06 20020001 93 70402000590 发光 二极管 绿色 15mcd 20ma 4.6 7.4 8.9 2pin dip lumex ssf lxh103lgd 70
+q06 20010033 51 60402000560 发光 二极管 三色 led ltcm63 cm rgb s21 2pin smd ledtech ltcm63 cm rgb s21 3610
+led led 发 白色 高亮 0603 睿宝 光电 12 12000.0
+led 顶 发光 rgb 1.6 1.5 共阴 rb s1615rgb a5 rb s1615rgb a5 睿宝 光电 4 4000.0
+hsmf c113 right angle tri color led smt 0 0.0
+led2 led4 564 0200 132f led 3hi 3mm red yel grn lc pcmnt 564 0200 132f digi key 350 1755 nd 2.98
+led1 led3 led5 568 0202 323f led 4hi 3mm grn yel grn yel pcmt 568 0202 323f digi key 350 1773 nd 3.7
+led6 12 lg r971 kn 1 0 20 r18 led chipled 570nm green 0805 smd osram opto semiconductors inc lg r971 kn 1 0 20 r18 digi key 475 1410 1 nd 0.11
+leds led dual color red green 60 º e12 indicators 604 wp93wegw p399 nd 3mm 5mm 351 1001 bezel opt pick brighter narrower beam for under tube
+160 1176 1 nd diode led red clear 0805 smd led 01 diode 0805
+2 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 18 0805 red led fc 2012hrk 620d foshan nationstar optoelectronics c84256
+power led 0603 sm leds red lite on trading usa inc ltst c190krkt 160 1436 1 nd 015 d2 1
+ide1 led 0603 sm leds orange lite on trading usa inc ltst c190kfkt 160 1434 1 nd 015 d3 1
+ide2 led 0603 sm leds green lite on trading usa inc ltst c190kgkt 160 1435 1 nd 015 d4 1
+spare led 0603 sm leds blue lite on trading usa inc ltst c190cbkt 160 1432 1 nd 4 d5 1
+d1 led hi eff green 565nm t 1 333201cj 1 1 100 110
+d1 led 0805 2012metric 1.0 led
+led1 red led0603 ltst c191krkt yes yes
+d3 d19 d20 d21 green led 2mm x 1.25 mm led led led light emitting diode led osram lgr971
+d4 d17 d18 yellow led 2mm x 1.25 mm led led light emitting diode led osram lyr976
+d8 d14 d15 d16 led light emitting diode led osram lsr976
+pwr led led yellow 591nm 0603 smd 2ma 1.8 v ly l29k h1k2 26 475 1196 1 nd 0.13 0.11
+led smartled 630nm red 0603 smd ls l29k g1j2 1 0 2 r18 z 475 2506 1 nd 0.13 0.088
+led smartled green 570nm 0603 lg l29k g2j1 24 z 475 2709 1 nd 0.17 0.114
+yellow w ü 150060ys75000
+blue lnj926w8cra
+red w ü 150060rs75000
+led g r hsmf c165
+紅綠共陰極 led 5mm ledtech 240 dip
+led red 0603
+yellow 0603
+green 0603
+blue 0603
+red dip 5mm
+yellow dip 5mm
+green dip 5mm
+rgb dip 5mm
+led green osram lg t670 k1l2 1 green led osram t670 k1l2 1 led osram t670 k1l2 1
+led osram ls t670 k1l2 1 red led red osram ls t670 k1l2 1 led red osram ls t670 k1l2 1
+ltst c170krkt lite on inc led super red clear 0805 smd smd 0805 15
+d102 202 led red 1206 ltst c150ckt 859 ltst c150ckt 0.13 y
+d205 led white 11000 mcd clear t 1 3 4 ssl lx5093uwc g 67 2027 nd 1.6 y
+osb50805c1c led0805 chip led0805 pwr blue osb50805c1c
+oso50805c1c led0805 chip led0805 tx green oso50805c1c
+osg50805c1c led0805 chip led0805 rx orange osg50805c1c
+d1 ltst c191kgkt led green clear 0603 smd pwr led
+d3 ltst c191kfkt led super red clr thin 0603 smd tx led
+d4 ltst c191kfkt led super red clr thin 0603 smd rx led
+power led 0603 green green led 0603 yes sig top l1 led smd green osram lgq971 475 1409 1 nd
+status led 0603 yellow yellow led 0603 yes sig top l1 led 0603 yellow osram ly q971 h1k1 36 0 20 r18 475 2557 1 nd
+d11 led red 0603 led super red clear 0603 smd 0.0925 yes yes lite on inc ltst c190krkt
+d12 led green 0603 led green clear 0603 smd 0.0925 yes yes lite on inc ltst c190kgkt
+d22 d24 d26 d27 d29 led orange 0603 led red orange clear 0603 smd 0.0925 yes yes lite on inc ltst c190kakt
+d23 d25 d28 led yellow 0603 led amber yellow clear 0603 smd 0.0925 yes yes lite on inc ltst c190kykt
+led led red 2v led 0603 0.4 mm ht19 2132surc62s 宏齐 1 d2
+led led yellow green 2v led 0603 0.5 mm hq19 2151sygc 宏齐 1 d1
+led yellow green 2v led 0603 0.5 mm a sp194g2c c01 4t amicc
+led led amber 2v led 0603 0.4 mm hq19 2151uyoc 宏齐 1 d3

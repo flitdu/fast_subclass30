@@ -28,7 +28,6 @@ from data_operation.txt_operate import OperateTXT
 import os
 from data_operation.constant import label_name_forbid
 stop_words = load_stop_word_list("stopwords_subclass.txt")
-from data_operation.constant import label_marked
 
 
 class FastTextModel:
@@ -39,6 +38,7 @@ class FastTextModel:
         self.epoch = epoch
         self.loss = loss
         self.lr = learn_rate
+        self.n_gram = 2
         pass
 
     def fit(self, train_file_path):
@@ -46,26 +46,28 @@ class FastTextModel:
         依据训练数据不断更新权重
         '''
         for i in range(1, self.epoch):  # 迭代轮数
-            for w in range(1, 2):  # 连词数，取1、2
-                start_time = time.time()            # loss = softmax or hs
-                # classifier = ff.train_supervised(train_file_path,
-                #                                  epoch=i,
-                #                                  loss=self.loss,
-                #                                  lr=self.lr,
-                #                                  wordNgrams=w,
-                #                                  minCount=1,  # 词频阈值, 小于该值在初始化时会过滤掉
-                #                                  minn=1,
-                #                                  maxn=20)
-                # --------------------------------
-                classifier = ff.train_supervised(train_file_path,
-                                                 epoch=i,
-                                                 loss=self.loss,
-                                                 lr=self.lr,
-                                                 wordNgrams=w)
+            w = self.n_gram
+            #for w in range(2, 3):  # 连词数，取1、2
+            start_time = time.time()  # loss = softmax or hs
+            classifier = ff.train_supervised(train_file_path,
+                                             epoch=i,
+                                             loss=self.loss,
+                                             lr=self.lr,
+                                             dim=35,
+                                             wordNgrams=w,
+                                             minCount=1,  # 词频阈值, 小于该值在初始化时会过滤掉
+                                             minn=3,
+                                             maxn=15)
+            # --------------------------------
+            # classifier = ff.train_supervised(train_file_path,
+            #                                   epoch=i,
+            #                                   loss=self.loss,
+            #                                   lr=self.lr,
+            #                                   wordNgrams=w)
 
-                # print(classifier.)
-                print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
-                classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
+            # print(classifier.)
+            print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
+            classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
         print('训练完成......')
 
@@ -88,34 +90,35 @@ class FastTextModel:
                 texts.append(line.strip().split(" , ")[1])
         # print('correct_labels 为：{}'.format(correct_labels))
         # 加载分类模型
-        for w in range(1, 2):
-            for i in range(2, self.epoch):
-                classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
-                # print("Model/model_w" + str(w) + "_e" + str(i))
-                # 预测
-                # classifier.get_word_vector()
-                predict_labels = classifier.predict(texts)[0]
-                # print(dir(classifier),';;;;;;;')
-                # print('测试集predict_labels 为：', predict_labels, type(predict_labels))
-                print(confusion_matrix(correct_labels, predict_labels,
-                                       labels= label_marked))
-                f1_score = metrics.f1_score(correct_labels, predict_labels,
-                                            average='weighted')
-                print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
-                test_f1.append(f1_score)
-                # 计算预测结果
-                # print(len(texts))
-                accuracy_num = 0
-                for j in range(len(texts)):
-                    if predict_labels[j][0] == correct_labels[j]:
-                        # print(predict_labels[j][0], correct_labels[j], '===~~~~~~~')
-                        accuracy_num += 1
+        #for w in range(1, 2):
+        for i in range(2, self.epoch):
+            w = self.n_gram
+            classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
+            # print("Model/model_w" + str(w) + "_e" + str(i))
+            # 预测
+            # classifier.get_word_vector()
+            predict_labels = classifier.predict(texts)[0]
+            # print(dir(classifier),';;;;;;;')
+            # print('测试集predict_labels 为：', predict_labels, type(predict_labels))
+            print(confusion_matrix(correct_labels, predict_labels,
+                                   labels=label_list))
+            f1_score = metrics.f1_score(correct_labels, predict_labels,
+                                        average='weighted')
+            print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
+            test_f1.append(f1_score)
+            # 计算预测结果
+            # print(len(texts))
+            accuracy_num = 0
+            for j in range(len(texts)):
+                if predict_labels[j][0] == correct_labels[j]:
+                    # print(predict_labels[j][0], correct_labels[j], '===~~~~~~~')
+                    accuracy_num += 1
 
-                accuracy = accuracy_num / len(texts)
-                test_accuracy.append(accuracy)
-                # print("正确率：%s" % accuracy)
-                print('Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
-                print('=====分隔符======')
+            accuracy = accuracy_num / len(texts)
+            test_accuracy.append(accuracy)
+            # print("正确率：%s" % accuracy)
+            print('Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
+            print('=====分隔符======')
         print(test_accuracy, test_f1)  # 包括了n1, 和n2
         test_accuracy_n1 = test_accuracy
         # test_accuracy_n2 = test_accuracy[(epoch_ - epoch_begin):]
@@ -138,25 +141,26 @@ class FastTextModel:
                     continue
         # print('correct_labels 为：{}'.format(correct_labels_train))
         # 加载分类模型
-        for w in range(1, 2):
-            for i in range(2, self.epoch):
-                classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
-                # print("Model/model_w" + str(w) + "_e" + str(i))
-                # 预测
-                predict_labels = classifier.predict(texts1)[0]
-                # print(predict_labels,'--------------------')
-                # 计算预测结果
-                # print(len(texts))
-                accuracy_num = 0
-                for j in range(len(texts1)):
-                    # print(predict_labels[j][0],correct_labels_train[j],'--------------------')
-                    if predict_labels[j][0] == correct_labels_train[j]:
-                        accuracy_num += 1
-                # print(accuracy_num,'--------------------')
-                accuracy = accuracy_num / len(texts1)
-                train_accuracy.append(accuracy)
-                # print("训练集正确率：%s" % accuracy)
-                print('训练集Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
+     #  for w in range(1, 2):
+        for i in range(2, self.epoch):
+            w = self.n_gram
+            classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
+            # print("Model/model_w" + str(w) + "_e" + str(i))
+            # 预测
+            predict_labels = classifier.predict(texts1)[0]
+            # print(predict_labels,'--------------------')
+            # 计算预测结果
+            # print(len(texts))
+            accuracy_num = 0
+            for j in range(len(texts1)):
+                # print(predict_labels[j][0],correct_labels_train[j],'--------------------')
+                if predict_labels[j][0] == correct_labels_train[j]:
+                    accuracy_num += 1
+            # print(accuracy_num,'--------------------')
+            accuracy = accuracy_num / len(texts1)
+            train_accuracy.append(accuracy)
+            # print("训练集正确率：%s" % accuracy)
+            print('训练集Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
 
         train_accuracy_n1 = train_accuracy
         # train_accuracy_n2 = train_accuracy[(epoch_ - epoch_begin):]
@@ -169,9 +173,9 @@ class FastTextModel:
         plt.xlabel("epoch")
         plt.ylabel("accuracy")
         plt.legend()
-        plt.title("1-gram")
+        plt.title("{}-gram".format(w))
         plt.grid()
-        plt.savefig("./rate" + str(self.lr) + '_1-gram_' + self.loss + ".png")
+        plt.savefig("./rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss + ".png")
         # plt.figure()
         plt.show()
         print('endddddd!!!!!!!!!!!!!!')
@@ -190,16 +194,19 @@ class TestExcel(OperateExcel):  # 重写函数
     def predict_result(self): # 处理单个文件
         true_false_list = []
         _, row = self.excel_matrix() # 读取列
-        row = list(range(1,row))
+        row = list(range(1, row))
         if row != []:
+            j = 0
             for line_read in self.excel_content_all().splitlines():  # 先遍历行
+                j += 1
                 true_label = line_read.split()[0].replace('/', '')  # 替换标签里面 '/'
                 if true_label in label_name_forbid:
                     continue
                 true_label = label_new(true_label)
 
                 if true_label != 'nan':
-                    print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(0, line_read))
+                    print('#{}{}:'.format(j, true_label))
+                    # print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(0, line_read))
                     aa_description = " ".join(line_read.split()[1:])
                     aa_description_standard = standard(aa_description, stop_words)  # 标准化处理
                     predicted_label_name = predict_output(aa_description_standard)
@@ -235,23 +242,29 @@ if __name__ == '__main__':
 
     # excel_read2txt()
 
+    train_tag =1
+    if train_tag == 1:
+        # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
+        # # '''''''''''''''''data_selection.py
 
-    # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-    # # '''''''''''''''''data_selection.py
+        label_list = merge_txt_files(1500, shuffle_tag=1)  ## 选取行数
+        #
+        #
+        # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
+        # # # # # # # # # '''''''''''''''''data_split.py
+        #
+        train_datas_split()
 
-    # merge_txt_files(1000, shuffle_tag = 1)  ## 选取行数
+        with open('aerror_record.txt', 'r', encoding='utf-8') as file:
+            # 读文件
+            for line in file.readlines():
+                OperateTXT().txt_write_line('train_split_data.txt', line.replace('\n', ''))
 
-
-    # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
-    # # # # # # # # '''''''''''''''''data_split.py
-
-    # train_datas_split()
+        # OperateTXT().txt_write_line(target_path_temp, aa_description)
 
 
     # 4 训练-调参
     # 初始化
-    tag_ = 10
-    if tag_ == 1:
         epoch_begin = 2
         epoch_ = 100
         loss_name = 'softmax'
@@ -262,7 +275,22 @@ if __name__ == '__main__':
         ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
 
     # ########## 5 测试
-    # classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e70")
+    test_flag = 1
+
+    if test_flag == 0:
+        ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
+        print(ft_vec.get_word_vector('3v'))
+        print(ft_vec.words)
+        print(ft_vec.get_nearest_neighbors('3v'))
+        print(ft_vec.get_nearest_neighbors('0402B104K160CT'.lower()))
+        print(ft_vec.get_nearest_neighbors('0402B104K160Cj'.lower()))
+        print(ft_vec.get_nearest_neighbors('50v-0402B104K160-xxxxxxx'.lower()))
+        print(ft_vec.get_nearest_neighbors('50 v'.lower()))
+        print(ft_vec.get_nearest_neighbors('50v'.lower()))
+        print(ft_vec.get_nearest_neighbors('MCS0630-3R3MN2'.lower()))
+        print(ft_vec.get_nearest_neighbors('AOD510'.lower()))
+        print(ft_vec.get_nearest_neighbors('电器'.lower()))
+        print(ft_vec.get_nearest_neighbors('MCS0630-3R3MN2'.lower()))
     # aa = ['v', 'p2sd0301000026']
     # for i in aa:
     #     print(classifier.get_word_vector(i),'=======')
@@ -270,75 +298,76 @@ if __name__ == '__main__':
     # print(dir(classifier))
     # print(help(classifier.ge))
     #
-    tag = 1
-    if tag == 1:
-        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-Elena'
-        #excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-mike'
+    if test_flag == 1:
+        tag = 1
+        if tag == 1:
+            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
+            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
+            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-Elena'
+            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.18'
 
-        model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
-        model_names = os.listdir(model_folder)
-        # excel_test1(txt_names)
-        dict_model_test = {}
-        for i, name0 in enumerate(model_names):  # 文件夹下文件循环
-            modle_path = model_folder + '\\' + name0
-            classfier = ff.load_model(modle_path)
+            model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+            model_names = os.listdir(model_folder)
+            # excel_test1(txt_names)
+            dict_model_test = {}
+            for i, name0 in enumerate(model_names):  # 文件夹下文件循环
+                modle_path = model_folder + '\\' + name0
+                classfier = ff.load_model(modle_path)
 
-            f_train = open(r'D:\dufy\code\fast_subclass30\aaa.txt', 'w')
-            f_train.truncate()
-            f_train.close()
-            f_test = open(r'D:\dufy\code\fast_subclass30\bbb.txt', 'w')
-            f_test.truncate()
-            f_test.close()
-            f_test1 = open(r'D:\dufy\code\fast_subclass30\ccc.txt', 'w')  # 增加原始信息输出
-            f_test1.truncate()
-            f_test1.close()
+                f_train = open(r'D:\dufy\code\fast_subclass30\aaa.txt', 'w')
+                f_train.truncate()
+                f_train.close()
+                f_test = open(r'D:\dufy\code\fast_subclass30\bbb.txt', 'w')
+                f_test.truncate()
+                f_test.close()
+                f_test1 = open(r'D:\dufy\code\fast_subclass30\ccc.txt', 'w')  # 增加原始信息输出
+                f_test1.truncate()
+                f_test1.close()
 
-            all_record = 0
-            right_record = 0
+                all_record = 0
+                right_record = 0
 
-            file_names = os.listdir(excel_path)
-            for i, name1 in enumerate(file_names):
-                file_path_combine = excel_path + '\\' + name1
-                aa = TestExcel(file_path_combine)
-                TF_record = aa.predict_result()  # 预测 excel 一行,除去标签
-                print(TF_record)
-                # if TF_record != None and []:  # 之前这样写，不对！！！！
-                if TF_record:
-                    print(name1)
-                    print(TF_record, '~~~~~~~~~~~~~~~~')
-                    print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
-                    all_record += len(TF_record)
-                    for i in TF_record:
-                        if i == 1:
-                            right_record += 1
-                else:
-                    print('{} 无法识别'.format(file_path_combine))
-                print(file_path_combine)
-                print('\033[1;32m =\033[0m' * 120)
-                pass
-            print('标注数据量:{}'.format(all_record))
-            print('预测正确量:{}'.format(right_record))
-            print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
-            print('全部结束！！！！')
-            dict_model_test[name0] = right_record / all_record  # 此处。。。。
-        print(dict_model_test)
+                file_names = os.listdir(excel_path)
+                for i, name1 in enumerate(file_names):
+                    file_path_combine = excel_path + '\\' + name1
+                    aa = TestExcel(file_path_combine)
+                    TF_record = aa.predict_result()  # 预测 excel 一行,除去标签
+                    print(TF_record)
+                    # if TF_record != None and []:  # 之前这样写，不对！！！！
+                    if TF_record:
+                        print(name1)
+                        print(TF_record, '~~~~~~~~~~~~~~~~')
+                        print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
+                        all_record += len(TF_record)
+                        for i in TF_record:
+                            if i == 1:
+                                right_record += 1
+                    else:
+                        print('{} 无法识别'.format(file_path_combine))
+                    print(file_path_combine)
+                    print('\033[1;32m =\033[0m' * 120)
+                    pass
+                print('标注数据量:{}'.format(all_record))
+                print('预测正确量:{}'.format(right_record))
+                print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
+                print('全部结束！！！！')
+                dict_model_test[name0] = right_record / all_record  # 此处。。。。
+            print(dict_model_test)
 
-        x = []
-        y = []
-        for key, value in dict_model_test.items():
-            print(value)
-            #     print(key.strip('model_w1_e'), value)
-            x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
-            y.append(value)
+            x = []
+            y = []
+            for key, value in dict_model_test.items():
+                print(value)
+                #     print(key.strip('model_w1_e'), value)
+                x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
+                y.append(value)
 
-        plt.plot(x, y, "b-o", linewidth=2)
-        plt.xlabel("model")  # X轴标签
-        plt.ylabel("accu")  # Y轴标签
-        plt.title("Line plot")  # 图标题
-        plt.grid()
-        plt.show()  # 显示图
+            plt.plot(x, y, "b-o", linewidth=2)
+            plt.xlabel("model")  # X轴标签
+            plt.ylabel("accu")  # Y轴标签
+            plt.title("Line plot")  # 图标题
+            plt.grid()
+            plt.show()  # 显示图
 
 
 

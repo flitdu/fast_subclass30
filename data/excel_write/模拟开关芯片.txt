@@ -1,0 +1,7 @@
+79 1 56a.05 ts5a3101 集成电路 ts5a3159dbvt 单刀 双掷 模拟开关 40 85 ℃ sot23 6 1 sot23 6 095 3 0x1 8 ts5a3159dbvt u24 12
+82 1 56a.05 max31301 集成电路 max313eue 模拟开关 4 x spst 10 ohms 40 85 ℃ tssop16 1 tssop16 0 65 4 5 max313eue u27 12
+adg712bru quad spst switches tssop16 farnell 1319261 2.59 5.0
+u4 hv2201pj g high voltage analog switch multiplexer ics lo charge 8 channel enhanced hi voltage supertex hv2201pj g 689 hv2201pj g 11.69
+u20 u31 sot 23 5 20 ts5a3167dbvr www2 productdetail ts5a3167dbvr qs sgaepimzzmtxras98ir% 252bs7bxvwbmmz1p% 2fvoobh3% 252b6iw% 3d
+ts5a3166 ts5a3166dckr
+u13 adg721 mso8 yes sig top l1 dual spdt switch analog devices adg721brmz adg721brmz

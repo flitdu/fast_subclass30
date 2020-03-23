@@ -1,0 +1,6 @@
+39 4b3901b0 w01 d000050 sip 开关 4 电路 滑动式 spst 24 vdc 25 ma mcemr 04 t multicomp pro 50
+66 2c6806a0 w03 s000007 switch slide dip spst 25ma 24v sda01h1sbd c k 拨码 开关 30
+116 1 77a.07 tda06h01 拨码 开关 拨码 开关 6pos 1.27 mm 40 85 ℃ tda06h0jb1 2.0 1 sw12 dip6 1 27 6 4 c k tda06h0jb1 sw4 12
+117 77a.06 shp04001 拨码 开关 拨码 开关 25ma 24vdc 管脚 1.27 mm off on 6.6 5.4 mm smt 4bit 30 85 ℃ 1 6.6 x5.4 mm shp 04gt sw1 55
+118 77a.06 shp06001 拨码 开关 拨码 开关 25ma 24vdc 管脚 1.27 mm off on 9.2 5.4 mm smt 6bit 30 85 ℃ 1 9.2 x5.4 mm shp 06gt sw3 55
+4 dip switch jst 2.54 x 8

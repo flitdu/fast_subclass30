@@ -1,0 +1,3 @@
+24 133726 1 ic usb2514b0aezc 接口 ic usb2514b aezc qfn 36 5 y
+65 4k2501a0 u05 s000116 ic usb switch dpdt 10umlp fsusb42umx on dfn 2
+67 4k2501a0 u06 s000359 ic usb hs quad uart sync 64 lqfp ft4232hl ftd qfp 2

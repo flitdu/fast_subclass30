@@ -52,6 +52,23 @@ pot digital single 100k spi sm soic 8 mcp4131 104e sn or equiv u20 1
 56 500k 3314g 1 504e 3314g 1 504e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500k ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.8802 0
 1 5k trimpot 3266 r9 trimpot vertical 3266w type 5k 3266w 1 502lf 652 3266w 1 502lf 2.94 2.94
 1 100k trimpot 3266 r25 trimpot vertical 3266w type 100k 3266w 1 104lf 652 3266w 1 104lf 2.94 2.94
+r14 1.0 trim pot 10k 652 3306w 1 103
+rv1 potentiometer 3296w vertical 5k
+1 50k trimm poti rm 5 2 5mm r67 rs 183 5267
+100k trim pot 3306p or 3306f rv602 3306p f trim pot 3306p or 3306f style if
+100k trim pot 3306p or 3306f rv601 3306p f trim pot 3306p or 3306f style if
+10k trim pot rv606 trim trim pot 3306p or 3306f style if
+10k trim pot vr2 res trim trim pot 3306p or 3306f style trxavrb
+10k rv301 trim trim pot 3306p or 3306f style butler osc
+22k rv604 3306p f trim pot 3306p or 3306f style if
+4 50k trim pot note lower value is better for electret mics eg 5k or 10k rv605 3306p f trim pot 3306p or 3306f style if
+5 4.0 vr1 vr2 vr3 vr4 10k ω trimmer trimmer 23a 10k trim pot 23ar10klftr
+thermistance s ind 47k 330
+thermistance 260 ohms 900
+p1l p1r 3296w trimpot 50k ω 652 3296w 1 503lf 3 8 multi turn cermet 0.100 lead spacing inline
+p2l p2r 3296w trimpot 100 ω 652 3296w 1 101lf 3 8 multi turn cermet 0.100 lead spacing inline
 trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1
 trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2
 trimmer resistors through hole sealed 3296x 1 202r rt1
+rv1 rv2 trimmer pot 50k ω 3 8 square cermet potentiometer 25 turn 1 2w 2 2 854006 0.79 jameco rv2
+sx3362p dip vr top adj 1k 3362p resistor 3p l70 w70 h50 mm best seeedstudio wiki images a a6 301040009 pdf 025390625 5 3 03 seeedstudio depot oplopen parts library catalog c 136 138 301040014

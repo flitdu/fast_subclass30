@@ -108,6 +108,14 @@ c4 capacitor cap film 1000pf 5% 100vdc radial 1000pf film capacitor 63v 100v pol
 c10 capacitor cap film 3300pf 5% 1kvdc radial 3300pf film capacitor 500v 1000v 1kv polypropylene metallized stacked radial through hole p 7.5 mm b32620a0332j000
 c12 capacitor cap film 0.33 uf 10% 100vdc rad 0.33 µ f film capacitor 63v 100v polyester polyethylene terephthalate pet metallized stacked radial through hole p 5mm b32529c1334k289
 capacitor pth 13mm 0 1 uf 630v 10% b32612a6104k189 1 c312j104k6sf600 faratronic 710
+c1 c18 c2 0.1 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5104j50j01l4 a 564
+c5 c6 0.001 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5102j50j01l4 a 557
+c12 c13 c3 c4 c8 c9 c19 c20 c21 c22 c23 c24 c25 c26 0.01 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5103j50j01l4 a 559
+c106 c107 cap 2700 pf polystyrene 25% 33v
+c108 c109 cap 750 pf polystyrene 25% 33v ax
+c1001 c1002 cap 3900 pf 63v 5% polystyrene
+c1003 c1004 cap 3000 pf 50v 5% polystyrene
+c1005 c1006 cap 2200 pf 50v 5% polystyrene
 2.0 c10 c15 cap film 1 uf 100v 5mm ls wima mks2d041001k00ki00 505 mks2d041001kki00 0.53 1.06
 20 c2 c20 cap film 100pf 63v 5mm ls wima fkp2c001001d00kssd 505 fkp2c001001d00ks 015 03
 40 c3 c5 c22 c24 cap film 022 uf 63v 5mm ls wima mks2 22 63 10 505 mks2022 63 10 031 124
@@ -259,9 +267,29 @@ capacitor 8.2 nf polycarbonate rm 228 wire rack red bins 450 ecr822ef
 capacitor 8.2 nf polypropylene radial lead rm 228 wire rack blue bins 260 p3846 nd
 capacitor 82 nf radial lead film cap 400v 2% box 43 9 136 aka 0082 uf bc2220 nd
 capacitor 8.2 uf 100v metal poly radial lead cap rm 228 wire rack blue bins 120
+4.7 nf 630v mkpw2 4.0 x 10 x 8.5 p 7.5 b32620a6472j
+4.7 nf 630v mkpw2 4.0 x 10 x 8.5 p 7.5 b32620a6472j
+2.2 nf 100v radial ceramic cap 5% cog b37986g1222j051
+2.2 nf 100v radial ceramic cap 5% cog b37986g1222j051
+c6 cp radial d5.0 mm p2.00 mm 0 1 µ f
+c5 cp radial d5.0 mm p2.00 mm 0 33 µ f
+c1 c1b 1 uf 50v 2 mkp film capacitor
+c2 c2b c4 c4b 20nf 50v 4 mkp film capacitor
+c3 c3b c5 c5b c10 c10b c11 c11b 10nf 50v 8 mkp film capacitor
+c6 c6b c7 c7b c12 c12b c13 c13b c14 c14b c15 c15b c16 c16b c17 c17b c19 c19b c20 c20b 1nf 50v 20 mkp film capacitor
+c18 c18b 1 uf 50v 2 mkp film capacitor
+c21 c21b 0.47 uf 50v 2 mkp film capacitor
+100nf poly alt c657a poly capacitor poly footprint if
+c3l c3r c7l metalized polyester polypropylene film capacitor 100n 63v 505 mks2.1 63 5 75 mkt1817410065 or 75 mkt1817410064 5mm pitch 2.5 mm width
+c4l c4r metalized polyester polypropylene film capacitor 220n 100v 505 mks2.22 100 10 bc1647 nd 5mm pitch 5mm width
+c1e boxed metal film capacitors 63v 1.0 uf 5% 505 mks21.0 63 5 75 mkt1817510064 5mm pitch 5mm width
+c4e metalized polyester polypropylenefilm capacitor 100n 63v 505 mks2.1 63 5 75 mkt1817410065 or 75 mkt1817410064 5mm pitch 2.5 mm width
+capacitor polyester 0.12 uf 2 50v radial dme2p12k f cornell dubilier 无源 器件 2.9 1.500675
+capacitor polyester 0.18 uf 2 50v radial dme2p18k f cornell dubilier 无源 器件 3.2 1.4551999999999998
 cap film pet 100nf 2 50v ac radial ecq u2a104ml
 capacitor film type 0.47 uf 275v ecqe4474jf
 capa 104 j100 mkt p 5mm capa 104 j100 mkt p 5mm c25 c32 c28 x x
 capa 103j 63v p 10 capa 103j 63v p 10
+c mkt 0.22 uf 63v j dip 7.2 x2.5 x6.5 arco r82dc3220sh6 j 1 c7
 46 met 电容 102pf j c28 c29 1 0.1700 1
 47 met 电容 104pf100v j c15 c18 c79 3 0.1700 1

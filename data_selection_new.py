@@ -65,6 +65,13 @@ def merge_txt_files(lines_number, shuffle_tag):
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
                 OperateTXT().txt_write_line('selection_data.txt', line.strip('\n'))
     print(label_number)
+    list1 = []
+    for key, value in label_number.items():
+        #     print(key, value)
+        list1.append('__label__' + key)
+        # list1.append(key)
+    print('标签列表 \n：{}'.format(list1))
+
     for i in label_number:
         #     print(i, a[i])
         plt.plot(i, label_number[i], 'r:o')
@@ -75,6 +82,7 @@ def merge_txt_files(lines_number, shuffle_tag):
 
     if shuffle_tag == 1:
         shuffle('selection_data.txt', 'selection_data_shuffle.txt')
-
+    
+    return list1
 if __name__ == '__main__':
     merge_txt_files(12, 1)

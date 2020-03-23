@@ -1,0 +1,8 @@
+9 4b4801a0 j12 s000023 nanosim socket 1.11 h p pull type 1042240820 sim 卡座 280
+106 1 33a.04011 09002 tf 卡 插槽 插座 9pin 1.1 mm 40 85 ℃ 1 sd13 tf01a hro tf 01a con5 12
+112 33a.08000 00002 micro sd 卡座 micro sd 卡座 smt 1 sd13 tf01a hro tf 01a j3 55
+78 sok1 tfp09 2 12b micro card socket 1 original item item htm spm a230r1 147 1dc618eby6xiu2 id 548842139458 ns 1 abbucket 18 detail 370
+3in1 卡座 card smd 1
+609 3956 1 nd sd smart card connector smd con sd 9 2 con sd card 10067847
+sd card holder m90 03011 03yd con cenlink m90 03011 03yd con cenlink m90 03011 03yd
+dm3at sf pejm5 dm3at sf pejm5 dm3at sf pejm5 sd conn micro sd r a push push smd dm3at sf pejm5
