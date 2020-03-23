@@ -1,0 +1,20 @@
+74alvc164245dgg hex bus dual supply transceiver tssop48 0 5.0 0.0
+sn74avc2t45dcute dual bit dual supply bus transceiver soic8 050 farnell 1053505 yes 0.41 6.0 0.0
+sn74lvc245apw octal transceiver tssop20 farnell 1105934 yes 1.16 6.0 0.0
+sn74lv08ad sm quad 2 and so8 farnell 9592482 0.16 10.0
+u5 ic single b uf fer od sot 23 5 sn74lvc1g07dbvr 296 8485 1 nd
+296 1062 1 nd ic sn74ac574dwr sn74hc574 soicw20
+74fct162245 ic 16 bit bidir transcvr 48 ssop pericom pi74fct162245atv pi74fct162245atv nd 1.44 u14 1
+74fct2245 ic oct bidir transceiver 20 qsop pericom pi74fct2245atq pi74fct2245atq nd 0.74 u15 1
+u7 ssop 8 295 x28 mm p065 mm 10 74lvc2g02 www2 productdetail sn74lvc2g02dctr qs sgaepimzzmtma9lbywd6zfyfphirkj8uqi2xeujhwb4% 3d
+u27 u30 u24 u25 u26 u12 u15 u16 u14 u17 u19 u18 u28 u29 u13 u23 soic 16 39 x99 mm p127 mm 160 74ahct595 old phillips or non nexperia !
+sn74lvc2g125dc sn74lvc2g125dcur
+74lvc4066 74lvc4066bq
+74lvc16t245 74lvc16t245dgg
+single schmitt trigger b uf fer sn74lvc1g17 ic sn74lvc1g17 ic sn74lvc1g17
+u15 74lvch16245azrdr bga 54 microstar junior zrd yes sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
+u16 74lvch16245azrdr bga 54 microstar junior zrd yes sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
+u17 74lvch16245azrdr bga 54 microstar junior zrd yes sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
+u18 74lvch16245azrdr bga 54 microstar junior zrd yes sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
+u19 74ahc273 dhvqfn20 yes sig top l1 octal d type flip flop 74ahc273bq 568 2506 1 nd
+u20 nc7s08 sc70 5 yes sig bottom l8 and gate single 2 sc 70 sn74lvc1g08dckrg4 fec 1287597

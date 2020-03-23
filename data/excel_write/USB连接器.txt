@@ -1,0 +1,24 @@
+133148 1 2 us usb0b1hsw6000 插件 usb 连接器 usb b1hsw6 10 y
+133148 2 2 us usb0b1hsw6000 插件 usb 连接器 usb b1hsw6 10 y
+104 1 33a.04020 09001 插座 插座 9pin 直插 2mm 55 105 ℃ usb3.0 90 度弯针 直焊 连接器 1 usb 3 0 type a 9 dip txga fus301 fdbu1k con3 12
+105 1 33a.04020 04001 插座 插座 4pin 直插 2mm 55 105 ℃ usb2.0 90 度弯针 直焊 连接器 1 usb 2 0 type a 4 dip txga fus202 fdbw3k con4 12
+26 con12 con16 af180 straight leg usb a female tht vertical 2 any man uf acturer item item htm spm a230r1 1429 6c5b2789uoeqrn id 525563726696 ns 1 abbucket 18 detail 740
+30 usb b 母座 usb 方形 母座 90 方口 u10 1 3
+卧贴 usb 座 usb micro 4p usb micro b 1 1000.0
+p1 conn rcpt micro usb ab smd r a hirose electric co ltd zx62 ab 5p h11495ct nd
+p2 usb otg mini ab receptacle surface mount right angle waldom corp 56579 0576 wm17122ct nd
+usb 卡座 amp787616 1 dip 1
+j3 connector usb type b 787780 1 nd 1 1 100 105
+conn recept mini usb2.0 5pos ux60 mb 5st h2959ct nd 1.18 0.6975
+usb micro ab hirose electric co ltd zx62 ab 5pa 11
+conmunicaton mini usb strong connector smd dip
+mini usb strong connector smd
+female usb connector dip
+female usb connector dip
+micro usb connector smd
+j102 202 usb female type mini b thru hole 54819 0519 538 54819 0519 2.05 y
+zx62r b 5p usb micro rzx62r b 5p zx62r b 5p usb hirose micro usb connector zx62r b 5p
+h1 1981584 1 conn rcpt micro usb type ab micro usb
+j1 usb mini b ux60sc mb 5s8 usb mini b ux60sc mb 5s8 no sig top l1 usb mini b connector smt with thru hole posts hirose ux60sc mb 5s8 h11589tr nd
+usb usb mini b usb mini b usb mini b connector usb otg 56579 0576 fec 9786490 wm2499ct nd
+usb 连接器 micro usb b type smt 柱 盖 us0170531d r 外形尺寸 7.5 5.60 2.45 mm 脚距 0.65 mm us0170531d r 龙梦 2 j4 j6

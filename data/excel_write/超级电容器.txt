@@ -17,8 +17,6 @@ electric double layer capacitors 0.22 f 5v c36 1 dx 5r5h224u sim 5000.0 6.1936 6
 43 法拉 电容 c17 1f 5.5 v f 20mm 1.0
 1.0 1000.0 eec s0hd224hn rg 105x50 v c10 capacitor super cap eec rg0v224h cap 0.22 f 3.6 v
 ec21 5x8 0 eecf5r5u105 1f 5.5 v 1.0 c445 eecf5r5u105 1f 5.5 v ec21 5x8 0 超级 电容 4 50
-9 电解电容 ccap al 220 uf ± 20% 6.3 v 6.3 5.7 mm cesd63x57h60 nichicon fp 6r3me221m sbr smt nichicon fp 6r3me221m sbr 1 40
-13 铝 电解电容 ccap 270 uf ± 20% 8.0 6.9 e7 16svpf270m smt 16svpf270m 1 40
 4 11 0102 004 001 固态 电容 820 uf 16v 8 12 105 ℃ 插件 c5 1 10000.0
 15 0108 00100 超级 电容 dx 5r5v224u cap 220mf 20% 80% 55 v t h elna dx 5r5v224u elna 1050
 cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
@@ -32,5 +30,15 @@ cph3225a 2k 11mf edlc supercapacitor 3.3 v 1210 3225 metric 1210 bt1 2.0 350.0
 c1 1 283 2811 nd eaton bussmann kr 5r5c155 r cap 1.5 f 20% 80% 5.5 v t h 5000
 法拉 电容 1.5 f 5.5 v 法拉 电容 ￠ 19 c 1 c1
 42 132912 132556 2 cp dgh105q5r5000 插件 超级 电容 17 85 mm 1f 10% 30% 55 v dgh105q5r5 3 y 0
+100 mf 35v 105c 8.1 x12 alum electrolytic
+22 mf 35v 105c 6.5 x6.0
+ct8 ct9 ct10 ct11 ct12 ct13 ct14 ct15 ct16 ct17 ct18 ct19 ct20 ct21 ct22 ct23 470 uf 2.5 v 20% smd v 7343 esr 9m rp 3200ma m c7343 d2
+ct25 ct34 100 uf 6.3 v 20% smd b 3528 esr 40m rp 1800ma m c3528
+ct26 ct52 220 uf 2v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+ct33 330 uf 2.5 v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+ct36 220 uf 2.5 v 20% smd b2 3528 esr 35m rp 1400ma m c3528
+ct37 47 uf 10v 20% smd b2 3528 esr 70 rp 1102ma m c3528
+30mf tayio yuden pas311hr va6r 3.3 v
 1f cap pol1 c15 1f 5.5 v 1
+c poscap l 330 uf 6.3 v 2.4 a smd d3l 105c sanyo 6tpe330ml 1 c12
 电解电容 elcap 固态 电容 470 μ f 25v 20% 8 12mm 高频 低阻 12 840.0

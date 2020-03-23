@@ -1,0 +1,43 @@
+9.0 2d2436a0 d02 s000271 diode schottky 40v 5a do214ab ssc54 e3 57t 999.0
+10 4b3901b0 d01 s000215 diode schottky 40v 1a sod123 1n5819hw 7 f diodes 肖特基 二极管 295
+6 4b4801a0 d01 s000093 diode schottky 40v 3a sma b340a 13 f diodes 肖特基 二极管 261
+22 4k2501a0 d01 s000341 diode schottky 40v 2a sma b340ae 13 diodes 肖特基 二极管 3
+9.0 2d2436a0 d02 s000271 diode schottky 40v 5a do214ab ssc54 e3 57t 整流 二极管 999.0
+52 1 57a.10 21520001 肖特基 二极管 mbr0520lt1g 肖特基 二极管 vrrm 20v vf 0.385 v if 0.5 a 65 150 ℃ sod 123 1 sod 123 on mbr0520lt1g d7 12
+121 57a.10 21520001 肖特基 二极管 mbr0520lt1g 肖特基 二极管 vrrm 20v vf 0.385 v if 0.5 a 65 150 ℃ sod 123 10 sod 123 on mbr0520lt1g d1 d2 d3 d4 d5 d6 d29 d31 d33 d35 550
+124 57a.10 41530001 肖特基 二极管 cdbc540 g 肖特基 二极管 40v 5a 50 150 ℃ smc 2 smc comchip cdbc540 g d40 d42 110
+125 57a.10 12230001 肖特基 二极管 b2100 13 f 肖特基 二极管 2a 100v 3 214aa diodes b2100 13 f d27 d39 d41 165
+q06 20020001 16 60401001220 肖特基 二极管 ps3l40s 40v 3a smc 2pin smd ps3l40s 1800
+二极管 硝特基 b5819 sod123 1 1000.0
+二极管 硝特基 b5819 sod323 1 1000.0
+d16 17 1n4148w 7 f diode switch 100v 400mw sod123 diodes inc 1n4148w 7 f digi key 1n4148w fdict nd 0.46
+d3 6 1n5711w 7 f diode schottky 70v 333mw sod123 diodes inc 1n5711w 7 f digi key 1n5711w fdict nd 0.78
+d9 10 bas40 04 diode schottky dual 40v sot23 on semiconductor bas40 04lt1g bas40 04lt1gosct nd 0.66
+d18 19 d21 d28 29 es2a tp diode gp fast 2a 50v 214ac micro commercial co es2a tp digi key es2a tpct nd 0.49
+d13 hsms 2812 tr1g diode schottky gp ln 20v sot 23 technologies us inc hsms 2812 tr1g 516 1814 1 nd 136
+bat46w d2 sod123 schottky diode sod123 3715x145n
+d5 d6 d7 mbr0520 schottky diode sod123 3715x145n
+bat254 d9 d10 d11 d12 d13 diom2012x160 schottky diode diom2012x160n
+d1 d2 diode schottky 2a 30v sod 123fl mbr230lsft1g mbr230lsft1gosct nd 0.21 0.15
+bat54 schottky diode bat54 d bat54 schottky d bat54 schottky
+mbrb735pbf schottky diode mbrb735pbf d mbrb735pbf d mbrb735pbf
+2 d1 d2 schottky diode 30v diodes inc sdm03u40 7
+d1 d2 d5 d6 schottky diode 30 v 30 ma diodes inc sdm03u40
+d3 schottky diode 40 v 300 ma bat54kfilm
+d7 d8 schottky diode 100 v 2 a ss2ph10 m3
+d70 d71 40 v 30 ma diodes inc sdm03u40
+d1 schottky diode 40 v diodes inc bas40lp 7
+dqa schottky diode 30 v 2 a 30 v 2 a x3 wlb1608 2 diodes inc sdm2u30csp 7
+d1 d2 schottky diode 30 v diodes inc sdm03u40 7
+d1 diode schottky 40 v 200 ma bas40lp 7
+dqa diode schottky 30 v 2 a sdm2u30csp 7
+d3 k260a schottky rectifier 60v 2a smc sot 23 smd
+d5 semiconductor sgl41 20 e3 96 diode schottky 1a 20v 213ab melf smd
+d101 201 diode schottky sot 23 bat54 512 bat54 0.07 y
+d12 diode schottky 1a smb 214aa yes top diode schottky 1a smb mbrs130t3g fec 1459070
+d3 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+d4 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+d5 bat54 sot23 yes sig top l1 40v schottky barrier diode bat54film 497 7162 1 nd
+d6 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+肖特基 二极管 schottky diode 30v 100ma 0.35 v sod 923 0.65 1.05 0.45 mm psbd9d30v01 prisemi 芯导 1 d4
+schottky diode 30v 100ma 0.45 v dfn1006 0.65 1.05 0.55 mm cdb0130qrm 冠宝

@@ -305,3 +305,4 @@ capacitors cap networks e201024 csa091hz104mf 100nf 9p8c capacitor network csa09
 18 4 cn1 cn4 e007353 cap idc low inductance array x7r 47000pf c0508idc 20 6.3 v w2l16c473mat1s rel a004 0022 004
 24 排容 4d03 10%
 24 capacitors corporation ckcl44x7r1h221m085aa 0805 2012 metric cap array 4ch 220pf 50v 0805 2 digi key 445 1830 1 nd 2000 43225 0.06 126.9
+capacitor 0.1 uf 16v 8p4c concave x7r 10% smd ca ave 0603 8 y4c3b104k160ct 5 cn1 cn2 cn3 cn4 cn5 0.1 u

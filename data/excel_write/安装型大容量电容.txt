@@ -93,4 +93,9 @@ capacitor eletrol í tico 330 uf 400v 85 º 105 º snapin 30x40 electrolictic ca
 capacitor eletrolitico 1000 uf 2 50v 30x40 electrolictic capacitor 1000 uf 2 50v 30x40 1000
 а р capacitor 220 ф х 400v 20% dip 2 4 50v 220 uf 25 40 400.0 2.5
 cap elect 10 000 uf 80v radial 2 lead 10mm ls 35x50mm can 85c united chemi con esmh800vsn103ma50s cornell dubilier 380lx103m080a052 or equiv c2 c3 c4 c5 c51 5
+capacitor 490 uf 800v dc 947c491k801cbms cornell dubilier 无源 器件 695.8 488.12865
+capacitor 230 uf 1000v dc 947c231k102cams cornell dubilier 无源 器件 438.14 355.34165
+capacitor 390 uf 1000v dc 947c391k102ccms cornell dubilier 无源 器件 586.4 475.4866
+capacitor 320 uf 1200v dc 947c321k122cdms cornell dubilier 无源 器件 735.3 475.85040000000004
+aluminum electrolytic capacitor capacit 381lx472m035j012 cornell dubilier 无源 器件 10.92 9.477500000000001
 150 uf 400v 150 uf 400v 25 30mm 105 ° c uhp2000h 2 ec1 ec2

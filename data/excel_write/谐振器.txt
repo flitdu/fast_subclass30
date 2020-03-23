@@ -16,5 +16,6 @@ crystals resonators cer res z093483 csalf4m00g55 b0 csalf4m00g55 b0 4000 mhz 0 c
 crystals resonators cer res z093430 nrts400 dz2 ztt400 mg 400 mhz 3l ceramic resonator nsk 72
 crystals resonators cer res z093432 nrt1000 dz2 ztt1000 mt 1000 mhz 3l ceramic resonator nsk 6510
 crystals resonators cer res z092286 lt450ew lt450ew 450khz 75 khz cer filter waysun 199
+13 1.0 y1 16mhz resonator smd 16mhz resonator cstce16m0v53 r0
 x1 resonator ceramic w caps 4.0 mhz digi key x902 nd 0.563
 谐振器 hc 49u s 8mhz 20pf 直插 1 标准件

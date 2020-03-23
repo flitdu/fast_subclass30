@@ -27,6 +27,14 @@ sr301c474kaa 10 cap cer 0 47 uf 100v 10% x7r
 sr305c105kaa 50 cap cer 1 uf 50v 10% x7r
 1 2p8901a0 c01 d000035 插件 独石 电容 220pf 50v x7r 10% p 2.5 mm cc1h221kc4pdb44b30mf dersonic 陶瓷 电容 2853
 multilayer ceramic capacitors mlcc leaded 200volts 51pf 5% c0g 2
+c16 047 uf capacitor american symbol 594 k473k15x7rf5th5 c us050 024x044
+c1 c2 c4 c5 c6 c7 c11 c12 c14 c15 0.1 uf capacitor american symbol 594 k104m15x7rf53h5 c us050 024x044
+c8 100pf capacitor american symbol 594 k101j15c0gf5tl2 c us050 024x044
+c9 10n capacitor american symbol 594 k103m15x7rf53h5 c us050 024x044
+c10 1 uf capacitor american symbol 810 fk28x5r1e105k c us050 024x044
+k104k15x7rf53l2 cnpolc cer1 0.1 uf 50v 10% x7r
+k105k20x7rf53h5 cnpolc cer3 1 uf 50v 10% x7r
+fk26c0g2j151j cnpolc cer3 150pf 630v 5% c0g
 63 独石 电容 220pf c9 1 47 uf 50v 6.3 11 aishi 490 1000 0.16 lc
 64 独石 电容 47pf c5 c10 2 1
 65 独石 电容 82pf c11 1 1

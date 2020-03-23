@@ -15,6 +15,7 @@ carbon film resistor cr18w68kjm1010 碳膜 電阻 1 8w 5% 68k m 10 10 10 20000
 碳膜 电阻 75k ω 1 8w smd 0805 1 r7
 碳膜 电阻 51k ω 1 8w smd 0805 2 r8 r9
 碳膜 电阻 510 ω 1 4w smd 1206 1 r10
+r3 1 6.8 m ± 5% 1 4 色环 sei
 res 100k ohm 1w 5% axial multi comp mcf 1w 100k 1 600
 res 22k ohm 1 4w 5% axial erd s2tj223v 1 600
 res 10k ohm 1 4w 5% axial erd s2tj103v 1 600
@@ -78,6 +79,14 @@ resistor 9.1 m ohm axial lead drawers h12 200 carbon 1 4w 5% 9.1 mqbk nd
 resistor 910 ohm axial lead drawers f24 202 carbon 1 4w 5% 910qbk nd
 resistor 910k ohm axial lead drawers f60 203 carbon 1 4w 5% 910kqbk nd
 3.3 k loose 1 8w 3.0 200.0 3.3 k resistor 1 8w 3.3 kebk res 3.3 k ohm 1 6w 5% carbon film 0.056 led
+2 r1 r2 1 m ω 1 m ω 5 % 0.25 w carbon film generic
+1 r3 130 ω 130 ω 5 % 0.25 w carbon film generic
+1 r5 1 k ω 1 k ω 5 % 0.125 w carbon film generic
+r1 r14 1k ohm 1 6 watt 5% carbon film resistor 14 p1.0 kebk nd
+r20 330 ohm 1 6 watt 5% carbon film resistor optional 1 330ebk nd
+rr15 4.7 k ohm 1 6 watt 5% carbon film resistor 1 4.7 kebk nd
+r16 100k ohm 1 6 watt 5% carbon film resistor 1 100kebk nd
+r18 r19 150 ohm 1 6 watt 5% carbon film resistor 2 150ebk nd
 res 22k ohm 1 4w 5% axial erd s2tj223v
 res 10k ohm 1 4w 5% axial erd s2tj103v
 resistor through hole 620e 0.25 w axial through hole erd s2tj621v
@@ -89,3 +98,7 @@ res 6.8 ohm 1 4w 5% axial erd s2tj6r8v
 res 0.12 ohm 1 4 5% axial rsmf12jtr120
 res 270 ohm 1 4w 5% axial erd s2tj271v
 resistor 15r dip 15r fn 108 3055 pc 11000 yr1b15rcc
+fhcfr 1 4w 331j dip res 330r 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020003
+fhcfr 1 4w 471j dip res 470r 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020029
+fhcfr 1 4w 102j dip res 1k 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020000
+fhcfr 1 4w 103j dip res 10k 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020001

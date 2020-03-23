@@ -1,0 +1,26 @@
+34 4b3901b0 u13 s000045 ic reg buck boost inv adj 8soic az34063umtr g1 diodes so 46
+60 4k2501a0 u02 s000421 dc dc converter 1.8 v 0.6 a 12qfn mpm3805gqb 18 p mps qfn 2
+61 4k2501a0 u02 s000422 dc dc converter 0.6 6v 2a 20 qfn mpm3820gqv p mps qfn 2
+22 6c1721b0 u05 s000096 ic reg buck adj 0.3 a sync 8 tdfn max15062cata t dfn 150
+46 16p8301a0 u02 s000298 ic reg buck adj 6a sync 14vqfn tps54620rgyr qfn 12
+47 16p8301a0 u02 s000371 ic reg bck adj 3a 2a trpl 40vqfn tps65251rhar qfn 12
+54 16p8301a0 u03 s000834 ic reg buck adj 4a 28tssop ltc7149efe pbf lt sop 12
+66 16p8301a0 u04 s000097 ic reg buck adjustable 25a 22son tps56221dqpr son 12
+43 1 56a.60 tps54501 集成电路 tps54531dda 3.5 28v 5a 570khz 同步 降压 转换器 40 150 ℃ hsop8 1 hsop8 1 27 4 0h tps54531dda u3 12
+160 56a.20 tps56601 dcdc tps566235rjnr dcdc vqfn 13 40 85 ℃ 4.5 18v 6a 1 vqfn 13 tps566235rjnr u62 55
+164 56a.20 tlv62501 dcdc tlv62569apdrl dcdc sot563 40 125 ℃ 2.5 5.5 v 2a 3 sot563 tlv62569apdrl u68 u69 u70 165
+165 56a.20 tps51201 dcdc tps51206dsqr dcdc wson 10 40 105 ℃ 3.3 5v 1 wson 10 tps51206dsqr u71 55
+166 56a.20 tps54501 dcdc tps54531ddar dcdc so powerpad 8 40 85 ℃ 3.5 28v 5a 2 so 8 tps54531ddar u77 u79 110
+61 16p8302b0 u02 s000298 ic reg buck adj 6a sync 14vqfn tps54620rgyr qfn 10 9 90
+62 16p8302b0 u02 s000371 ic reg bck adj 3a 2a trpl 40vqfn tps65251rhar qfn 10 9 90
+69 16p8302b0 u03 s000834 ic reg buck adj 4a 28tssop ltc7149efe pbf lt sop 10 9 90
+81 16p8302b0 u04 s000097 ic reg buck adjustable 25a 22son tps56221dqpr son 30 9 270
+82 16p8302b0 u07 s000160 dc dc converter 4x0.6 5.5 v ltm4644iy pbf linear bga 10 9 90
+61 16p8302b0 u02 s000298 ic reg buck adj 6a sync 14vqfn tps54620rgyr qfn 90
+62 16p8302b0 u02 s000371 ic reg bck adj 3a 2a trpl 40vqfn tps65251rhar qfn 90
+69 16p8302b0 u03 s000834 ic reg buck adj 4a 28tssop ltc7149efe pbf lt sop 90
+81 16p8302b0 u04 s000097 ic reg buck adjustable 25a 22son tps56221dqpr son 270
+mps9141 dc to dc converter sop 8 1
+ic11 ic12 ic13 ic29 ic31 ic33 lt1930a lt1931 lt1931 ad8055artz ad8055artz ad8055artz 2.2 mhz inverting current mode dc dc converter 1.2 mhz inverting current mode dc dc converter 1.2 mhz inverting current mode dc dc converter operational amplifier operational amplifier operational amplifier sot23 5 95p280x110 5n
+isl97516 isl97516 msop8 600khz 1.2 mhz pwm step up regulator
+dcdc dcdc step down 4.7 20v 2a 450khz tsot23 6 jw5033htsotb trpb 1 u3

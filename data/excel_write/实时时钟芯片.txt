@@ -1,0 +1,2 @@
+hym1302 trickle charge timekeeping chip sop 8 1
+ds1305en dallas semiconductor ic rtc serial alarm ind 20 tssop 20 tssop 1

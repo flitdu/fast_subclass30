@@ -1,0 +1,10 @@
+38 4b3901b0 v02 s000073 optoisolatr 5kv transistor 4 smd ltv 817s ta1 c lite on 光耦 145
+65 2c6806a0 v02 s000086 optoisolator 5.3 kv trans 4smd sfh617a 2x017t 光耦 320
+92 16p8302b0 u17 s001007 optoiso 5kv push pull so6l tlp2748 tp e toshiba soic 90 9 810
+11 光电 耦合器 ps2801 1 ssop 4 e1 e2 2 6
+q06 20020001 60 62010000010 光耦 acpl 247 500e 四路 3000vrms 3us soic16 16pin smd acpl 247 500e 1500
+q06 20020001 66 62910000050 光耦 tlp2161 2 路 npnphototransistor 1 3us 37 50v rms soic8 8pin smd toshiba tlp2161 13400
+q06 20020001 67 62910000070 光耦 tlp293 单路 npnphototransistor 6 2us 2500vrms so4 4pin smd toshiba tlp293 gr tpl e 1000
+q06 20020001 68 62910000550 光耦 ltv 845s 4 channels ctr600% if 1ma 25 ℃ 5000v sop16 smd lite on ltv 845s 250
+光耦 4n25 opto 1150 dip 6
+光 藕合 cny17f 3 liteon 902 smd 6

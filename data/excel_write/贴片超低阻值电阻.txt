@@ -11,3 +11,5 @@ res 100m ω 1w ± 1% 2512 smd 1 r14
 0.1 ω r20 ± 1% rl0805fr 070r1l r188 r 1206 1
 0.2 ω r20 ± 1% rl1206fr 7w0r2l r198 r199 r211 r212 r 1206 4
 合金 电阻 梯梯 rne1 rne2 rne3 rne4 rne5 rne6 rne7 rne8 rne9 rne10 rne11 rne12 电阻 合金 4m ω ± 1% 100ppm ℃ 3w 2512 梯梯 r2512
+resistor 0.032 5% smd rl1220t r033 j rl12t.033 jct nd 0805 susumu rs1 rs4 r21 lucas 28 10 17
+r20 r22 resistor 500 m ω 1% 1 8 w pt0402fr 7w0r5l

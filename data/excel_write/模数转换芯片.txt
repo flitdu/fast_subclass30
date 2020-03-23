@@ -1,0 +1,6 @@
+139 56a.45 ad776801 模数转换器 ad7768 4bstz adc lqfp 64 40 105 ℃ 4 通道 256ksps 24bit 1 lqfp 64 ad7768 4bstz u5 55
+149 56a.45 tla20201 模数转换器 tla2024irugt adc x2qfn 10 40 85 ℃ 4 通道 12bit 1 x2qfn 10 tla2024irugt u46 55
+78 16p8302b0 u03 s000843 ic adc 24bit sigma delta 28ssop ltc2418ign pbf linear technology analog devices sop 10 9 90
+q06 20020001 13 60301000190 a d 转换器 ads8698idbt 18 位 tssop38 38pin smd ads8698idbt 35
+u7 ad9271bsvz 40 ic adc oct 12bit 40msps 100 tqfp analog devices inc ad9271bsvz 40 newark 52m2990 114.29
+u11 ad9767astz ic dac 14bit dual 125msps 48lqfp analog devices inc ad9767astz digi key ad9767astz nd 21.44

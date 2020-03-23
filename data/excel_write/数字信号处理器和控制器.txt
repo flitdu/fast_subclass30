@@ -1,0 +1,1 @@
+dsp dsc u1 adsp bf522 3 4 5 6 7 208 bga bga208 yes sig top l1 blackfin embedded processor analog devcies adsp bf527kbcz 6a adsp bf527kbcz 6a

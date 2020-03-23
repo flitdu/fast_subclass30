@@ -1,0 +1,18 @@
+pmbt3904 small signal transistor sot23 farnell 1081436 yes 0.046 96.0 0.0
+2n3904 transistor smd sot 23 6
+2n3906 transistor smd sot 23 3
+fdn338p transistor smd sot 23 3
+2sd965a transistor smd sot 89 1
+bc846bwt1g on semiconductor bc846bwt1g
+transistor s9013 sot23 smd transistors npn 25v 500ma
+s8550 sot23
+cj2302 sot23 smd mosfet n ch 20v 2.1 a
+cj2305 sot23 smd mosfet p ch 8v 4.1 a
+bc846b t r trans npn gp 100ma 65v sot23 sot 23 18
+q1 q2 q4 amd zlmt490ta transistor hp npn 1 50v 1a sot 25 sot 25 smd
+q3 nec acx593ta transistor pnp 100v 1a sot 89 sot 89 smd
+q203 npn transistor 3904 sot 23 3 mmbt3904 mmbt3904fsct nd 0.08 y
+q1 q2 mmbt3904 tp trans npn gp 40v sot23 mmbt3904
+晶体 三极管 transistor npn 40v 200ma sot23 1.1 mm mmbt3904 2 q1 q2
+transistor npn 40v 200ma sot23 1.1 mm lmmbt3904 lrc
+transistor npn 40v 200ma sot23 1.1 mm mmbt3904 panjit

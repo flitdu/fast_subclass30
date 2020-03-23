@@ -126,3 +126,6 @@ cxt0004 cristal 32.768 khz cylindrico 12.5 pf abracon ab38t 32.768 khz q1 1 abra
 69 石英 晶振 32.768 2 6mm dip 1 y3 3000
 插件 晶振 32.768 khz 晶振 ɸ 3 8 xtl 3x8 y1 1.0 3000.0
 32768 khz ab abs06 32768 khz 9 t 2x12 x1 2 pin 32768 khz crystal oscillator 535 10246 1 nd 2x12 abracon abs06 32768 khz 9 t 815 abs06 327 khz9 t 171 2757 32768 khz
+xtal2 32 khz cylinder thru hole ecs ecs 320 125 13x 520 ecs 32 125 13x 076
+32.768 khz 6pf crystal 22ppm axial 1
+晶振 32.768 k 2 6 10 25ppm 符合 1

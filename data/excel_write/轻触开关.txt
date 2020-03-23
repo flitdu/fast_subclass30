@@ -1,0 +1,21 @@
+115 1 77a.05 0000001 轻触 开关 轻触 开关 smd 3x6x2.5 单位 mm 1 sw2 6137 3x6x2.5 单位 mm sw3 12
+119 77a.05 ksr21101 轻触 开关 轻触 开关 50ma 32vdc smt 40 85 ℃ 1 sw2 6038 c k ksr211g lfs sw2 55
+99 16p8302b0 w01 s000108 switch tactile spst no 0.02 a 15v evp akb11a 触摸 开关 10 9 90
+s1 2 evq pae04m 6mm light touch switch 160gf ecg evq pae04m digi key p8008s nd 0.29
+power switch opt spst optional pwr switch 10pp423 difficult fit for small case
+p8006s nd 6mm light touch switch 100gf sw pb 4pin sw b3f
+1 sw1 sw2 sw3 sw4 sw5 sw6 sw7 sw8 sw9 sw10 sw11 sw12 sw13 sw14 sw15 15 smd button 6 6 2.5 mm k2 1157sp c4sb 01 korean hroparts elec c128947
+sw pushbutton spst sm reset switch itt ksr223g ksr223gct nd 0.59 sw1 1
+sw1 sw dip slide w762 mm p127 mm 10 sw dip x02 www2 productdetail ck tda02h0sb1r qs sgaepimzzmv% 2f% 252b2jhla6ysedrsbwl3hjkh2msebsept0% 3d
+s1 pts810 sjk 250 smtr lfs yes yes
+prg rst switch tact smt spst 160gf pts525sm10smtr lfs ckn9104ct nd 0.56 0.36
+微動 開關 zippy 1087 dip 40
+button 6x6 5 dip button
+90 dip button 2.54 2p
+6x6 smdbutton 4p smd 6.2 x6.2 x4h
+ksa0m212 itt switch tact spst vert mark ii 1
+pbsw ck pts645sh50smtr92 smt pbsw ck pts645sh50smtr92 smt sw1 c k pts645sh50smtr92 ckn9085ct nd
+skrpace010 switch tact 4pinpts810 pts810 mode reset smt tact switches skrpace010
+reset sw push evqq2k03w sw push evqq2k03w yes sig top l1 smd push button switch 3.1 6.5 x6mm h w d evqq2k03w fec 177 807
+xirq0 sw push smd sw pb smd 6mm smd push button switch sealed 6mm x 6mm omron b3s 1000 fec 177807
+sw1 sw2 sw3 sw ksc221 smd switch tact spst no mom smt gull 0.3768 yes yes itt ksc321glfs

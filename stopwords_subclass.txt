@@ -64,6 +64,8 @@ tokyocoil
 cjt
 pj-602
 molex
+yes
+no
 ti
 cj
 nxp
@@ -73,6 +75,7 @@ stmicroelectronics
 asim
 ekinglux
 pcs
+梯梯
 力特
 价高
 常州

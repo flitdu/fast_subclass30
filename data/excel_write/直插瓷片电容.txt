@@ -54,6 +54,8 @@ c14 through holes close to j9 j10 digi key 445 8552 nd corp fk26x7r1e106k cap ce
 插件 陶瓷 电容 c190532 1kv 220pf p5.0 mm ceramic capacitor1kv 220pf 221 k 10% p k 5mm ct81 ai 10000 c10
 27 高压 瓷片 电容 1031kv dip 1 1000.0
 28 高压 瓷片 电容 47110kv dip 3 1000.0
+c7 680p mlcc p2.5 810 fg18c0g1h681jnt0 a 1444
+c27 c28 c29 0.47 u mlcc p2.5 810 fg18x7r1h474krt0 a 142
 c9 150pf 2kv 1 radial capacitor thru hole disk body pin spacing 50 mm 10 % disk ceramic manual radial
 c10 1nf 2kv 1 radial capacitor thru hole disk body pin spacing 50 mm 10 % disk ceramic manual radial
 c18 820pf 2kv 1 radial capacitor thru hole disk body pin spacing 50 mm 5% disk ceramic manual radial
@@ -62,12 +64,19 @@ cap ceramic disk 100pf 1kv 10% y5p ck45 r3ad101k nr debb33a101kc1b or equiv c77 
 cap ceramic disk 330pf 1kv 10% y5p eck a3a331kbp debb33a331kc1b or equiv c25 1
 c100 b37986g1222j051 radial 2.2 nf 100v npo 5% cer
 c101 b37986g1222j051 radial 2.2 nf 100v npo 5% cer
+c3 c5 01 uf ceramic disc k103m15x7rf53h5 594 k103m15x7rf53h5 005
 capacitor 0.01 uf 500v 10% cer radial lead capacitor box 11 6 10 05hv20b103k nd
 capacitor 0.01 uf ceramic radial lead rm 228 wire rack blue bins 4000 newark 87f4721
 capacitor 0.47 uf radial lead monolithic ceramic drawers b41
 capacitor 6800 pf 50v ceramic radial lead box 62 9 25 p4946 nd
+c7 c disc d3.0 mm w1.6 mm p2.50 mm 100n
+capacitor alum elect 4.7 uf 100v axial mclv4r7m2ab 0613 rh multicomp 无源 器件 0.4 0.2975
+capacitor ceramic 1500pf 3kv z5u radi 564r30gad15 sprague 无源 器件 3.144 1.7
+capacitor ceramic 0.22 uf 50v x7r axia sa305c224kar 无源 器件 2.0 1.1475
 3.3 nf 1 kv high voltage ceramic disc 562r5gad33
 2.2 nf 1 kv disc ceramic 562r5gad22
 100 nf 50 v ceramic disc x7r rper71h104k2p1a03b
 100pf 500v ceramic y5s vy1101k31y5sq63v0
 1 nf 2 50v ac line rated ceramic disc capacitors 440ld10 r
+交流 高压 瓷片 电容 2.2 nf 400v 脚 10mm m 1.00 5k
+高压 瓷片 电容 4.7 nf 1kv 脚 5mm m 1.00 5k

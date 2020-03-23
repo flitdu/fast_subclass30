@@ -1,0 +1,2 @@
+u4 ft232rq qfn 32 5mm usb to uart smd qfn 32 232 ftdi chip ft232rq fec 1146033
+u2 u3 tja1080 ssop20 ic flexray transceiver ssop20 yes yes tja1080ts

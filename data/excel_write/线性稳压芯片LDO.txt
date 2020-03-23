@@ -1,0 +1,73 @@
+22 133726 1 ic aim503r30nopb 低压 差 稳压器 lp2981aim5 33 nopb sot 23 5 5 y
+40 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 diodes sot 1602
+41 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 diodes sot 1706
+43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr sot 1000.0
+46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt 1000.0
+25 4b4801a0 u16 s000865 ic reg linear 2.8 v 150ma sot23 5 tps78228ddcr sot 282
+25 6c1721b0 u16 s000057 ic reg linear adj 0.1 a sot89 3 lm317lipk sot 300
+43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr sot 1000.0
+46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt 1000.0
+48 16p8301a0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 12
+55 16p8301a0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 12
+79 16p8301a0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 12
+80 16p8301a0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 12
+81 16p8301a0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 10
+94 1 56a.20 lm111701 集成电路 lm1117imp adj nopb ldo 可调 稳压 芯片 800ma 40 85 ℃ sot223 1 sot223 4 lm1117imp adj nopb u47 12
+161 56a.20 lt833501 ldo lt8335iddb pbf ldo dfn 8 40 125 ℃ 3 25v 2a 2 dfn 8 lt8335iddb pbf u63 u78 110
+162 56a.20 lt304501 ldo lt3045hdd pbf ldo dfn 10 40 125 ℃ ± 22v 500ma 2 dfn 10 lt3045hdd pbf u64 u65 110
+163 56a.20 lt309401 ldo lt3094hdd pbf ldo dfn 12 40 125 ℃ 22 0.3 v 500ma 2 dfn 12 lt3094hdd pbf u66 u67 110
+63 16p8302b0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 10 9 90
+70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 10 9 90
+79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf lt sop 10 9 90
+94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 10 9 90
+95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 20 9 180
+96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 30 9 270
+63 16p8302b0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 90
+70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 90
+79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf lt sop 90
+94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 90
+95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 180
+96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 270
+mic68220yml dual 2a ldo regulator son50p 576 1612 2 nd yes 3.2 6.0 0.0
+ncp5663dsadjr4g low voltage adj regulator d2pak 0 98.0 0.0
+lt1764aeq 2.5 v ldo linear regulator 2.5 v 3a d2pack aertronica lt1764aeq 2.5 v 7 96.0 0.0
+lt1963aest 1.8 v ldo linear regulator 1.8 v 3a sot223 aertronica lt1963aest 1.8 v 3.57 8.0 0.0
+lt1963aest 2.5 v ldo linear regulator 2.5 v 3a sot223 farnell 1273630 yes 3.94 8.0 0.0
+lt3021adjes8 500ma low dropout regulator so8 farnell 1273637 yes 4.93 6.0 0.0
+u15 adp1713aujz 1.2 ic reg ldo 300ma 1.2 v tsot 23 5 analog devices inc adp1713aujz 1.2 r7 digi key adp1713aujz 1.2 r7ct nd 1.47
+u14 adp1713aujz 2.5 ic reg ldo 300ma 2.5 v tsot 23 5 analog devices inc adp1713aujz 2.5 r7 digi key adp1713aujz 2.5 r7ct nd 1.47
+u19 20 adp3339akcz 1.8 ic reg ldo 1.5 a 1.8 v sot223 analog devices inc adp3339akcz 1.8 r7 digi key adp3339akcz 1.8 r7ct nd 2.81
+u21 adp3339akcz 3.3 ic reg ldo 1.5 a 3.3 v sot 223 analog devices inc adp3339akcz 3.3 r7 digi key adp3339akcz 3.3 r7ct nd 2.81
+aic1117 3.3 v voltage regulator sot223 2
+aic1117adj voltage regulator sot223 1
+icp 1a 24v fixed positive regulator to220 863 mc7824btg mc7824btgos nd
+ich lm2595 adjustable switch reg to 220 5 lm2595t adj nd bent and staggered or straight leads
+497 6447 1 nd ic reg ldo 5v 950ma sot 223 ic ld1117a semi sot223
+u1 u2 u3 u32 sot 23 5 40 lp5907 33 www2 productdetail lp5907mfx 33 nopb qs sgaepimzzmsgz1a6av8dchd1yzolgfo2xmtn9zkmxma% 3d
+u4 sot 223 3 tabpin2 10 lm2940 50 www2 productdetail lm2940imp 50 nopb qs sgaepimzzmsgz1a6av8dccerhzhpu4lvtaqk5cz7rum% 3d
+u5 u6 htsop 8 1ep 39 x49 mm p127 mm thermalvias 20 adp7118ardz 50 r7 www2 productdetail analog devices linear technology adp7118ardz 50 r7 qs sgaepimzzmsgz1a6av8dcc5ezl% 252bqxmyljsmt5d% 252bum7g% 3d
+ic8 ic9 ic10 ic16 ic17 ic1000 tps76801qpwp 1a low dropout voltage regulator fast transient reponse sop20 65p640x120 21n r240x338
+ic14 ucc283 5 ucc283tdkttt 5 to263 3
+ic2 ic reg adj 3 term sot 223 4 lm317mdcyr 296 12631 1 nd 0.8 0.45
+ic6 ic reg pos 0.5 a adj volt dpak lm317mdtx lm317mdtxfsct nd 0.48 0.27
+lm4040cim3 3.0 national lm4040cim3 3.0 nopb
+lp3982ild adj national semiconductor lp3982ildx adj
+ic module power supply 78m05 to 252 three terminal positive voltage regulator 0.5 a 5v
+ams1117 5v sot223 1a low dropout linear regulator 5v
+ld1117 3v3 sot 89 1a low dropout linear regulator 3.3 v
+mic29302 to 263 3a adjustable regulator
+mic5205 sot23 5 150ma low noise ldo regulator
+ncp511sn33t1g ldo regulator ncp511sn33t1g ic on ncp511sn33t1g ic on ncp511sn33t1g
+lt1963aes8 1.8 linear technology ic ldo reg lonois 1.5 a 1.8 v8soic 8 soic 1
+lt1584ct 3.3 linear technology ic ldo regulator 7a 3.3 v to220 3 to 220 1
+u3 linear voltage regulator ic p 5 v 250 ma mcp1703t 5002e mc
+u90 5.0 v 250 ma dfn mcp1703t 5002e mc
+u3 linear regulator mcp1703t 5002e mc mcp1703t 5002e mc
+u1 ic regulator ldo 5 v 0.25 a 8dfn mcp1703t 5002e mc
+u2 ic regulator ldo 3.3 v 0.25 a 8dfn mcp1703t 3302e mc
+lm2940imp 5.0 sot223 u1 mic2954 03ws tr 576 1154 1 nd
+lt1117 3.3 az1086h 3.3 to 223 u3 ldo az1086h 3.3
+ldo1 mic5209 3.3 ys tr ic reg 3.3 v ldo sot223 3.3 v ldo
+u2 adp1715armz mso8 500 ma low dropout linear regulator adj analog devices adp1715armz adp1715armz r7
+u3 adp1741acpz lfcsp 16 4mm 0.75 v to 3.0 v adj low dropout linear regulator analog devices adp1741acpz adp1741acpz r7
+u5 adp7102ardz 3.3 so8nb rd8 2 linear regulator 3.3 v 20v 300ma ultralow noise cmos analog devices adp7102ardz 3.3 adp7102ardz 3.3 r7

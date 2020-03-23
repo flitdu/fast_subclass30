@@ -1,0 +1,7 @@
+16 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 32 2 保险丝 1600
+17 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 32 2 保险丝 1700
+130 84a.6123 046601 保险丝 1.5 a 63v 82.97 mv 0.0046 ω 1206 1 1206 046601.5 nrhf f1 55
+f1 polyswitch reset 1.1 a 24v smd minismdc110f 24 2 minismdc110f242ct nd 0.6 0.47
+fuse pptc 500ma 1206 pptc 500ma
+pptc 1000ma 1206 smd pptc 1000ma 8v
+tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4

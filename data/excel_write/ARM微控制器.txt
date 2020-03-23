@@ -1,0 +1,1 @@
+mcu efm32wg990f256 energy micro efm32wg990f256 rev a

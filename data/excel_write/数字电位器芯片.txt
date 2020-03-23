@@ -1,0 +1,1 @@
+ad5254bruz50 quad i2c 50k digital potentiometer tssop20 farnell 1078377 6.24 4.0

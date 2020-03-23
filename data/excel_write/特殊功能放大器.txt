@@ -1,0 +1,2 @@
+u3 current sense amplifier ic max9929fabt t
+u2 current sense amplifier ic ina196aidbvr

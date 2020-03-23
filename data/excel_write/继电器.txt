@@ -1,0 +1,8 @@
+k1e 12v relay nec ec2 12nj 551 ec2 12nj 15mm x 7.5 mm
+24aa024 24aa024 i ms
+磁簧 繼電器 392 dip 4
+繼電器 gsr 105h gsr 703 dip 4
+繼電器 ra4l 6w k takamisawa 1300 dip 14
+relay 3a 120vac
+10a 120vac
+g5a 234p dc5 omron relay pc mnt 1a dpdt 5vdc through hole 4

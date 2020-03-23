@@ -1,0 +1,35 @@
+133148 1 1 mx ssm3k361r0000 mosfet ssm3k361r sot23f 10 y
+133621 1 mx mp4015sk3q013 mosfet dmp4015sk3q 13 to 252 3 101 y
+133621 1 mx pmv250epear00 mosfet pmv250epear sot23 101 y
+133687 1 mx rlml6402trpbf mosfet irlml6402trpbf sot 23 602 y
+133687 1 mx rlml2502trpbf mosfet irlml2502trpbf sot 23 301 y
+22 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1600
+23 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1600
+24 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1700
+23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 stm 三极管 1000.0
+24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 stm 场效应管 1000.0
+24 4b3901b0 q02 s000252 mosfet n ch 60v 1.6 a sot 23 dmn6140l 7 diodes 场效应管 453
+14 4b4801a0 q02 s000103 mosfet n ch 100v 170ma sot23 3 bss123 7 f diodes 场效应管 1126
+15 4b4801a0 q03 s000040 mosfet p ch 50v 130ma sot23 3 bss84 7 f diodes 834
+43 4k2501a0 q02 s000132 mosfet n ch 20v 630ma sot 523 dmg1012t 7 diodes 场效应管 7
+23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 stm 三极管 1000.0
+24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 stm 场效应管 1000.0
+38 1 57a.03 51440001 mos管 irf4905s pmos 55v 42a 20m ω d2pak 55 150 ℃ 1 d2pak 3 on irf4905s q1 12
+132 57a.04 21330001 nmos ntr4501nt1g nmos vds 20v ids 3.2 a 55 150 ℃ sot23 4 sot23 on ntr4501nt1g q1 q2 q3 q4 220
+15 场效应管 ipd220n06l3g q2 q3 2 6
+q06 20020001 21 60406000260 场效应管 20v 3.7 a 550mv sot 23 3pin smd infineon irlml6402gtrpbf 35
+q06 20020001 95 70406000780 场效应管 irf4905 55v 74a 20mohm ± 20v to220ab 3pin dip infineon irf4905pbf 705
+q06 20020001 22 60406001780 场效应管 n 沟道 30v 35a ± 20v vsonp 8pin smd csd17577q3a 330
+bss138 n channel mosfet sot23 farnell 9845330 yes 0.31 40.0 0.0
+fdc604pct nd mosfet p ch 20v 5.5 a ssot 6 semi fdc604 ic sot23 6 123
+q2 mosfet n ch 30v 6.5 a 8soic fds6630a fds6630act nd 0.59 0.331
+bss138w diodes inc bss138w 7 f
+mosfet si2305 sot23 p channel 1.25 w 1.8 v g s mosfet
+bsn20 sot23 n channel trenchmos extremely low level fet
+n channel powertrench syncfet fds6982as t fds6982as n so 8 t fds6982as n so 8
+dual n channel 20v d s mosfet si1024 t si 1024x n t si 1024x n
+q101 201 202 mosfet n chan 30v irlr8743 dpak irlr8743trpbf irlr8743trpbfct nd 1.74 y
+bss138 mosfet nchannelbss138 sot23 3 q1 q2 q3 common nmosfet parts bss138
+q1 si1012r sc75a yes sig bottom l8 nfet transistor si1012r fec 9550445
+q2 si2333ds sot23 yes sig top l1 pfet transistor si2333ds t1 e3 fec 1470108
+场效应 三极管 mosfet p ch 0.053 ohm 4.0 a vgs 1.3 v 1.4 w sot 23 1.25 mm ppmt30v4 prisemi 1 q11

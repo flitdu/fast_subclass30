@@ -116,7 +116,7 @@ __label__贴片电感 , spoe 0120 l4 10uh 10uh 740ma 10uh 740ma we tpc series in
 __label__贴片电感 , 46 灌装 电感 4204 1901 00150 smd inductors 6.8 uh sgc74 6r8m 1 l1 a 5000 10000
 __label__贴片电感 , 47 灌装 电感 4204 1901 00160 smd inductors 2.2 uh sgc74 2r2m 1 l2 a 5000 10000
 __label__贴片电感 , 48 一体 成型 电感 4204 1901 00190 smd inductors 2.2 uh 10 10mm 2r2m 1 l3 a 5000 10000
-__label__NTC , 49 热敏电阻 4204 0802 00180 ct103f3435b 06 03 10k 土 1% 0603 1 rt1 a 5000 10000
+__label__NTC热敏电阻 , 49 热敏电阻 4204 0802 00180 ct103f3435b 06 03 10k 土 1% 0603 1 rt1 a 5000 10000
 __label__贴片电解电容 , cond c26 56 uf 10v 56 µ f 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e 500 56 µ f 10v 20% 1.0
 __label__超级电容器 , 148 c2210001 电容 法拉 电容 法拉 电容 100 ω 100ua 0.07 f 22uah 3.3 v 2v smt01 ф 5x1.4 mm  260 ℃
 __label__可变电感器套件配件 , 62 variable inductor 70nh 146 03j08l coil craft pc 1600.0
@@ -194,7 +194,7 @@ __label__贴片电感 , 75.0 si122g308bx 000 電 感器 貼 片式 ind m l 2.2 u
 __label__贴片电感 , 43 电感 47uh 505020 l8 9 l12 1 l8 1.0 2000
 __label__贴片电感 , 4r7 cd43 电感 cd43np 4.7 uh 2.0 100.0
 __label__贴片电感 , 111020a poreq2262 111020a p 片状 电感器 2.2 μ h ± 30% 8.19 m ω 16.5 a 13 13 7.7 车规 2017 08 15 120.0 clf12577nit 2r2n d
-__label__NTC , 30271 poreq2279 30271 p 片状 电阻器 0.15 w 10k ω 3435k ± 1% ntc 0603 2017 08 17 12.0 nhqmm103s4664 amphenlo
+__label__NTC热敏电阻 , 30271 poreq2279 30271 p 片状 电阻器 0.15 w 10k ω 3435k ± 1% ntc 0603 2017 08 17 12.0 nhqmm103s4664 amphenlo
 __label__贴片电感 , 电感 nl453232t 221j pf 1812 2000 nl453232t 221j pf 0.87 8 12days 1500 纳 一川
 __label__水泥电阻 , 水泥 电阻 5w 10 欧姆 j 档 50000
 __label__水泥电阻 , 水泥 电阻 5w 20 欧姆 j 档 50000
@@ -229,7 +229,7 @@ __label__高频电感 , l10 l9 12nh 0402 4 高频 电感 sdcl1005c12njtdf 10000 
 __label__采样电阻 , r19 rl0603fr 070r01l 0.01 om 0603 1 rl0603fr 070r01l 5000 0.3525 5000 8 12days moq 5000 avnet
 __label__贴片电感 , smd inductor 10uh 0603 1 meisongbeiabracon mc1608 100k or aiml 0603 100k t 200
 __label__贴片电感 , smd inductor 22uh special 1 meisongbei coilcraftabracon msrh4d22 220n or msrh4d28 220m ormss5121 223ml or aspi 0428s 220 200
-__label__NTC , smd crystal 8mhz 10ppm hc 49us smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
+__label__NTC热敏电阻 , smd crystal 8mhz 10ppm hc 49us smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
 __label__贴片电解电容 , 13 铝电解 3 22 uf ± 20% 226 25v 0805 ca2 cb2 cc2
 __label__直插电解电容 , 67 电解电容 3 100 uf 50v 8 12 cd1 cd2 cd10
 __label__色环电感 , 3 色环 电感 100uh l1 1 0.0720
@@ -377,7 +377,7 @@ __label__薄膜电容 , c107 c108 capacitor cap radial 4.7 nf 300vac 20% y2 6x10
 __label__功率电感 , 29.0 电感 xal5050 223mec 22uh 20% 5.28 5.48 5.1 mm coilcraft 28
 __label__贴片电感 , sdwl1005c68njstf 68nh 叠层 0402 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 10000.0 9500.0 10000.0
 __label__光敏电阻 , 5800b 光敏电阻 5800b 5mm 直插 chian 光敏电阻 5800b 5mm 直插 2 ls01 ls1 crb1 2 r03 0001
-__label__NTC , 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1 热敏 器件 r 25 ° c 10k accuracy 1% b constant 25 50 ° c k 3380 ± 1% i 25 ° c 0.31 ma prate 25 ° c 100mw 40 ° c 125 ° c 0603 ncp18xh103f03rb
+__label__NTC热敏电阻 , 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1 热敏 器件 r 25 ° c 10k accuracy 1% b constant 25 50 ° c k 3380 ± 1% i 25 ° c 0.31 ma prate 25 ° c 100mw 40 ° c 125 ° c 0603 ncp18xh103f03rb
 __label__光敏电阻 , 光敏电阻 光敏电阻 5800b 5mm 直插 光敏电阻 5800b 5mm 直插 100 30000 1 ls1 光电 器件 光敏电阻 spectrum 400nm to 1100nm peak spectral sensitivity 850nm iquite 0.1 µ a max vceo 12v max veco 5v max 25 ° c 80 ° c 5mm 直插 草帽 接收 头 5800b
 __label__钽电容 , c1 c2 c5 c6 1 uf 25 volt ± 10% radial tantalum 4 4 545588 0.35 jameco c1v5
 __label__有源晶体振荡器 , p1 clock oscillator dip 14 5v 2.00 mhz soldered no socket needed 1 1 27924 1.49 jameco 14dip300
@@ -593,8 +593,8 @@ __label__安规电容 , 996510014714 26 03 2009 31 12 9999 c906 capacitor fixed 
 __label__安规电容 , 996510014940 26 03 2009 31 12 9999 c906 capacitor fixed others y1 cap001 uf 2 50v ac
 __label__采样电阻 , 996510017225 25 03 2009 31 12 9999 r1501 resistor fixed others 20w rst r max 0r05 1 10w
 __label__采样电阻 , 996510023466 25 03 2009 31 12 9999 r1622 resistor fixed others 20w rst r max 0r05 1 16w
-__label__NTC , 996510023512 26 03 2009 31 12 9999 nr901 resistor fixed others 20w rst r ntcr 3 ohm 20% 5a
-__label__PTC , 996510017224 25 03 2009 31 12 9999 th1401 resistor non linear ptc chip 8v 0r4 kmc4s075ry
+__label__NTC热敏电阻 , 996510023512 26 03 2009 31 12 9999 nr901 resistor fixed others 20w rst r ntcr 3 ohm 20% 5a
+__label__PTC热敏电阻 , 996510017224 25 03 2009 31 12 9999 th1401 resistor non linear ptc chip 8v 0r4 kmc4s075ry
 __label__金属膜电阻 , metal film resistors through hole 1 4watt 56kohms 2% rated to 1 2watt 1
 __label__金属膜电阻 , metal film resistors through hole 1 4watt 47kohms 2% rated to 1 2watt 1
 __label__金属膜电阻 , metal film resistors through hole 1 4watt 10kohms 5% rated to 1 2watt 1
@@ -997,3 +997,235 @@ __label__贴片电感 , l1 l16 16ps 10uh 0805 www2 productdetail lqm21fn100m80l 
 __label__贴片电感 , l18 l20 4ps 10uh 0603 www2 productdetail mlz1608n100ltd25 qs % 2fha2pyfaduhbkx0cgdb2nf02pvj6kt7% 2fg% 2faho6ece5osbvdnph4f% 252bq% 3d% 3d
 __label__电容器阵列与网络 , 24 capacitors corporation ckcl44x7r1h221m085aa 0805 2012 metric cap array 4ch 220pf 50v 0805 2 digi key 445 1830 1 nd 2000 43225 0.06 126.9
 __label__有源晶体振荡器 , 63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd no lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425
+__label__贴片电感 , l503 ind shielded power coilcraft pfl3215 681meb 680nh lsml126w90h59 1206 20
+__label__贴片电感 , l505 l506 recommended for design coilcraft lps4018 561mlb 0.56 uh lsmsq154h71 1404 cab3 20
+__label__功率电感 , l1 inductor 2.2 uh 3.7 a 30% 26mohm 6.00 x6.00 mm nr6028t2r2n
+__label__贴片电感 , elj ndr56jf 560nh 805 pcd1181ct nd
+__label__贴片电感 , aisc 0805 r022j t 22nh 805 abracon 535 10493 1 nd
+__label__贴片电感 , aisc 0805 r047j t 47nh 805 abracon 535 10497 1 nd
+__label__薄膜电容 , c1 c18 c2 0.1 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5104j50j01l4 a 564
+__label__薄膜电容 , c5 c6 0.001 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5102j50j01l4 a 557
+__label__直插瓷片电容 , c7 680p mlcc p2.5 810 fg18c0g1h681jnt0 a 1444
+__label__直插瓷片电容 , c27 c28 c29 0.47 u mlcc p2.5 810 fg18x7r1h474krt0 a 142
+__label__薄膜电容 , c12 c13 c3 c4 c8 c9 c19 c20 c21 c22 c23 c24 c25 c26 0.01 u film 7.2 x6.5 x2.5 xp5.0 80 mmk5103j50j01l4 a 559
+__label__直插电解电容 , 43 1 c600 220 uf 16v radca8mmdia plv1c221mcl1td
+__label__直插电解电容 , c201 cap radial ceramic 390pf 50v x7r 10% t h rper71h391k2p1a03b yes
+__label__金属膜电阻 , r204 res axial wirewound 033 ohm 1 2w 1% t h phoenix passive 5065fm0r330j12afx yes
+__label__贴片电感 , fixed ind 10uh 850ma 300 mohm 10uh l45 inc 74479887310a
+__label__圆柱体晶振 , xtal2 32 khz cylinder thru hole ecs ecs 320 125 13x 520 ecs 32 125 13x 076
+__label__贴片电感 , c10 1 uf ceramic disc xicon 140 50p5 182k rc 140 50p5 182k rc 008
+__label__直插瓷片电容 , c3 c5 01 uf ceramic disc k103m15x7rf53h5 594 k103m15x7rf53h5 005
+__label__超级电容器 , 100 mf 35v 105c 8.1 x12 alum electrolytic
+__label__超级电容器 , 22 mf 35v 105c 6.5 x6.0
+__label__薄膜电容 , 2.2 nf 100v radial ceramic cap 5% cog b37986g1222j051
+__label__薄膜电容 , 2.2 nf 100v radial ceramic cap 5% cog b37986g1222j051
+__label__直插电解电容 , 10u 25v electrolytic capacitor c8 c25 c64 6032 electro1 电解电容 直插 15000
+__label__直插电解电容 , 10u 16v electrolytic capacitor c9 6032 electro1 电解电容 直插 5000
+__label__采样电阻 , 0.22 r102 1210 res1 表贴 电阻 5% 5000
+__label__功率电感 , 25 电感 电感 4020 3 1uh 100khz 2.6 a 30% smt 6000 3000
+__label__薄膜电容 , c6 cp radial d5.0 mm p2.00 mm 0 1 µ f
+__label__薄膜电容 , c5 cp radial d5.0 mm p2.00 mm 0 33 µ f
+__label__直插瓷片电容 , c7 c disc d3.0 mm w1.6 mm p2.50 mm 100n
+__label__金属膜电阻 , r7 r8 r12 r4 r5 r6 r9 r11 r14 r10 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 220
+__label__金属膜电阻 , r2 r13 r3 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 10k
+__label__金属膜电阻 , r15 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1.8 k
+__label__精密可调电阻 , rv1 potentiometer 3296w vertical 5k
+__label__直插电解电容 , c738 c754 100 uf cape b6d3
+__label__钽电容 , c746 c747 c755 c756 470 uf 7343
+__label__贴片电感 , l13 l14 0.15 uh ind 58x52
+__label__贴片电感 , l25 l31 l32 2.2 uh ind ihlp 2525
+__label__贴片电感 , l26 l27 l28 3.3 uh ind ihlp 2525
+__label__贴片电感 , l29 l30 l33 4.7 uh ind ihlp 2525
+__label__直插电解电容 , ct1 ct2 ct3 ct4 ct5 ct7 270 uf 16v 20% 8x9mmdip esr 11m rp 5000ma ce8d
+__label__超级电容器 , ct8 ct9 ct10 ct11 ct12 ct13 ct14 ct15 ct16 ct17 ct18 ct19 ct20 ct21 ct22 ct23 470 uf 2.5 v 20% smd v 7343 esr 9m rp 3200ma m c7343 d2
+__label__超级电容器 , ct25 ct34 100 uf 6.3 v 20% smd b 3528 esr 40m rp 1800ma m c3528
+__label__超级电容器 , ct26 ct52 220 uf 2v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+__label__超级电容器 , ct33 330 uf 2.5 v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+__label__超级电容器 , ct36 220 uf 2.5 v 20% smd b2 3528 esr 35m rp 1400ma m c3528
+__label__超级电容器 , ct37 47 uf 10v 20% smd b2 3528 esr 70 rp 1102ma m c3528
+__label__直插电解电容 , cap 180 uf ± 20% 16v poly npb cse c10 c84 16svpe180m
+__label__功率电感 , 2.2 uh lqh32 lqh32cn2r2m11l part of the core l1
+__label__无源晶体振荡器 , 24.576 mhz vcxo osc common vg4030ja24.576 m dvk u3
+__label__直插电解电容 , 220nf 63v or 100v c634 poly large 5mm spacing capacitor if
+__label__直插电解电容 , 220nf 63v or 100v c96 poly large 5mm spacing capacitor codec
+__label__直插电解电容 , 220nf 63v or100v c95 poly large 5mm spacing capacitor codec
+__label__色环电感 , 100uh l805 axial0.4 inductor dds filter
+__label__色环电感 , 100uh l199 axial0.4 inductor dsp mb
+__label__色环电感 , 100uh l198 axial0.4 inductor dsp mb
+__label__色环电感 , t25 2 core 190nh 7 turns on t25 2 core l3301 axial0.4 inductor butler
+__label__色环电感 , 1mh rfc606 res trimpot inductor if
+__label__色环电感 , 22t on t50 2 core l601 ind t2 inductor if
+__label__色环电感 , t25 2 core 230nh 8 turns on t25 2 core l3302 axial0.4 inductor butler
+__label__色环电感 , bn43 2402 2 turns optional if using mmic for dds amplifier lmmic1 ind 250 inductor butler optional amp
+__label__色环电感 , 660nh 14t on t25 2 refer to schematic ! 12 turns practice l501 d 250 ductor magic roundabout
+__label__色环电感 , 660nh 14t on t25 2 refer to schematic ! 12 turns practice l502 d 250 ductor magic roundabout
+__label__钽电容 , 4u7 10v cc5 acase polarized cap dds
+__label__钽电容 , 4u7 10v cc6 acase polarized cap dds
+__label__钽电容 , 4u7 10v cc7 acase polarized cap dds
+__label__钽电容 , 4u7 16v c131 rb1 2 polarized cap dsp mb
+__label__钽电容 , 4u7 16v c122 rb1 2 polarized cap dsp
+__label__钽电容 , 4u7 16v cz12 rb1 2 polarized cap if
+__label__钽电容 , 4u7 16v cz12a acase polarized cap if
+__label__钽电容 , capacitor aluminum solid 220 uf 6.3 v smd capae d sanyo 6svpc220mv 3 tc2 tc3 tc4 220u 6.3 v
+__label__钽电容 , capacitor aluminum solid 39 uf 16v smd capae c sanyo 16svpc39m 1 tc1 39u 16v
+__label__无源晶体振荡器 , crystal cmos oscillator 50mhz smd osc 5x7mm ecs inc ecs 3953c 500 tr 1 y1 50mhz
+__label__薄膜电容 , c6 cp radial d5.0 mm p2.00 mm 0 1 µ f
+__label__薄膜电容 , c5 cp radial d5.0 mm p2.00 mm 0 33 µ f
+__label__直插瓷片电容 , c7 c disc d3.0 mm w1.6 mm p2.50 mm 100n
+__label__金属膜电阻 , r7 r8 r12 r4 r5 r6 r9 r11 r14 r10 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 220
+__label__金属膜电阻 , r2 r13 r3 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 10k
+__label__金属膜电阻 , r15 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1.8 k
+__label__精密可调电阻 , rv1 potentiometer 3296w vertical 5k
+__label__直插电解电容 , c738 c754 100 uf cape b6d3
+__label__钽电容 , c746 c747 c755 c756 470 uf 7343
+__label__贴片电感 , l13 l14 0.15 uh ind 58x52
+__label__贴片电感 , l25 l31 l32 2.2 uh ind ihlp 2525
+__label__贴片电感 , l26 l27 l28 3.3 uh ind ihlp 2525
+__label__贴片电感 , l29 l30 l33 4.7 uh ind ihlp 2525
+__label__直插电解电容 , ct1 ct2 ct3 ct4 ct5 ct7 270 uf 16v 20% 8x9mmdip esr 11m rp 5000ma ce8d
+__label__超级电容器 , ct8 ct9 ct10 ct11 ct12 ct13 ct14 ct15 ct16 ct17 ct18 ct19 ct20 ct21 ct22 ct23 470 uf 2.5 v 20% smd v 7343 esr 9m rp 3200ma m c7343 d2
+__label__超级电容器 , ct25 ct34 100 uf 6.3 v 20% smd b 3528 esr 40m rp 1800ma m c3528
+__label__超级电容器 , ct26 ct52 220 uf 2v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+__label__超级电容器 , ct33 330 uf 2.5 v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
+__label__超级电容器 , ct36 220 uf 2.5 v 20% smd b2 3528 esr 35m rp 1400ma m c3528
+__label__超级电容器 , ct37 47 uf 10v 20% smd b2 3528 esr 70 rp 1102ma m c3528
+__label__直插电解电容 , cap 180 uf ± 20% 16v poly npb cse c10 c84 16svpe180m
+__label__功率电感 , 2.2 uh lqh32 lqh32cn2r2m11l part of the core l1
+__label__无源晶体振荡器 , 24.576 mhz vcxo osc common vg4030ja24.576 m dvk u3
+__label__直插电解电容 , 220nf 63v or 100v c634 poly large 5mm spacing capacitor if
+__label__直插电解电容 , 220nf 63v or 100v c96 poly large 5mm spacing capacitor codec
+__label__直插电解电容 , 220nf 63v or100v c95 poly large 5mm spacing capacitor codec
+__label__色环电感 , 100uh l805 axial0.4 inductor dds filter
+__label__色环电感 , 100uh l199 axial0.4 inductor dsp mb
+__label__色环电感 , 100uh l198 axial0.4 inductor dsp mb
+__label__色环电感 , t25 2 core 190nh 7 turns on t25 2 core l3301 axial0.4 inductor butler
+__label__色环电感 , 1mh rfc606 res trimpot inductor if
+__label__色环电感 , 22t on t50 2 core l601 ind t2 inductor if
+__label__色环电感 , t25 2 core 230nh 8 turns on t25 2 core l3302 axial0.4 inductor butler
+__label__色环电感 , bn43 2402 2 turns optional if using mmic for dds amplifier lmmic1 ind 250 inductor butler optional amp
+__label__色环电感 , 660nh 14t on t25 2 refer to schematic ! 12 turns practice l501 d 250 ductor magic roundabout
+__label__色环电感 , 660nh 14t on t25 2 refer to schematic ! 12 turns practice l502 d 250 ductor magic roundabout
+__label__钽电容 , 4u7 10v cc5 acase polarized cap dds
+__label__钽电容 , 4u7 10v cc6 acase polarized cap dds
+__label__钽电容 , 4u7 10v cc7 acase polarized cap dds
+__label__钽电容 , 4u7 16v c131 rb1 2 polarized cap dsp mb
+__label__钽电容 , 4u7 16v c122 rb1 2 polarized cap dsp
+__label__钽电容 , 4u7 16v cz12 rb1 2 polarized cap if
+__label__钽电容 , 4u7 16v cz12a acase polarized cap if
+__label__钽电容 , capacitor aluminum solid 220 uf 6.3 v smd capae d sanyo 6svpc220mv 3 tc2 tc3 tc4 220u 6.3 v
+__label__钽电容 , capacitor aluminum solid 39 uf 16v smd capae c sanyo 16svpc39m 1 tc1 39u 16v
+__label__无源晶体振荡器 , crystal cmos oscillator 50mhz smd osc 5x7mm ecs inc ecs 3953c 500 tr 1 y1 50mhz
+__label__NTC热敏电阻 , 热敏电阻 热敏电阻 ntcg104ef104ft1x 100k 0402 1.0 u4
+__label__钽电容 , b45196 h1336 m209 1
+__label__贴片高精密-低温漂电阻 , 1 10k 0 1% smd resistor smd 0603 r71
+__label__贴片高精密-低温漂电阻 , 1 390k 0 1% smd resistor smd 0603 r72
+__label__贴片电解电容 , 19 ecss220 35 electrolytic capacitor 10x10mm 2.0 maritex 1.0 c35
+__label__贴片电解电容 , 20 ecss330 16 electrolytic capacitor 8x10mm 2.0 maritex 2.0 c38 c39 c39 mo ż e by ć 220 uf 35v
+__label__贴片电感 , 11 a 1 0471 0471 0 4119 inductor 330nh 50a ww 1008 744762233a inc 1008 2520 metric product detail en 744762233a 732 1826 1 nd 1994406 inductors coils chokes fixed inductors 330nh
+__label__贴片电感 , 12 a 1 0471 0471 0 4583 inductor 150nh 80a ww 1008 744762215a inc 1008 2520 metric product detail en 744762215a 732 1822 1 nd 1994402 inductors coils chokes fixed inductors 150nh
+__label__标准时钟振荡器 , 40 y1 achl osc 10 achl 27mhz ek achl 27000 mhz ek fi search productdetail aspx r achl 27000 mhz ekvirtualkey52750000virtualkey815 achl 27 ek
+__label__贴片电感 , l2 3n0 lqp15mn3n0w00 inductor 3.0 nh 190ma 0.05 nh ± 0.05 n
+__label__可调电阻电位器 , pot trim 100ohm 1 turn 20% smd tra 3313j 1 101e 无源 器件 10.78 5.355
+__label__直插瓷片电容 , capacitor alum elect 4.7 uf 100v axial mclv4r7m2ab 0613 rh multicomp 无源 器件 0.4 0.2975
+__label__工字电感 , inductor axial 25uh 3a 1585 25uh 3a ins ferroperm 无源 器件 11.7 7.225
+__label__安装型大容量电容 , capacitor 490 uf 800v dc 947c491k801cbms cornell dubilier 无源 器件 695.8 488.12865
+__label__安装型大容量电容 , capacitor 230 uf 1000v dc 947c231k102cams cornell dubilier 无源 器件 438.14 355.34165
+__label__安装型大容量电容 , capacitor 390 uf 1000v dc 947c391k102ccms cornell dubilier 无源 器件 586.4 475.4866
+__label__安装型大容量电容 , capacitor 320 uf 1200v dc 947c321k122cdms cornell dubilier 无源 器件 735.3 475.85040000000004
+__label__直插瓷片电容 , capacitor ceramic 0.22 uf 50v x7r axia sa305c224kar 无源 器件 2.0 1.1475
+__label__安装型大容量电容 , aluminum electrolytic capacitor capacit 381lx472m035j012 cornell dubilier 无源 器件 10.92 9.477500000000001
+__label__贴片电感 , inductor 1210 0.47 uh 0.15 a 10% b82422a3471k100 无源 器件 1.79 1.0625
+__label__功率电感 , inductor inductance 470 µ h inductance t sdr0302 471kl 无源 器件 2.2 1.105
+__label__功率电感 , inductor inductance 68 µ h inductance to sdr0302 680kl 无源 器件 2.2 1.105
+__label__功率电感 , inductor inductance 680 µ h inductance t srr1806 681m 无源 器件 5.1 2.5925
+__label__贴片高精密-低温漂电阻 , r25 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
+__label__NTC热敏电阻 , r30 thermistor dnp 0.05 805 thermistor ntc smd bc 238161513103 10kohms place
+__label__贴片高精密-低温漂电阻 , r38 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
+__label__贴片电解电容 , c6 c24 c29 c43 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g
+__label__贴片电解电容 , c15 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g dnp
+__label__无源晶体振荡器 , 50mhzcfps73 50mhz clock oscillator ± 50ppm u14
+__label__贴片电感 , l2 mlk1005sr13jt000 130nh ind 0402 1 0.1 0.1 0.016 0.016
+__label__钽电容 , 1 c1 47u 3216 generic 3216 1 30 30 10 秋月 p 06040
+__label__钽电容 , 2 c2 10u 3216 generic 3216 1 12.5 12.5 10 秋月 p 06462
+__label__钽电容 , 3 c3 4 5 6 7 0.1 u 1608 generic 1608 4 0.325 1.3 4000 秋月 p 01299
+__label__钽电容 , cap poly tan 470 uf 2v lowesr 7343 smd 470 uf 2 5v eef gx0d471r 9 c140 c152 c624 c629 c642 c643 c665 c744 c825
+__label__功率电感 , 744 561 22 wuerth o604 coil choke 22uh smd 1380
+__label__功率电感 , 744 382 250 wuerth o602 coil 2.50 uh smd 600
+__label__功率电感 , a918cy 2r0m p3 toko o603 2.00 uh smd 1843
+__label__有源晶体振荡器 , 49152 mhz crystal osc 49152 mhz cmos ttl ctx156 nd 278 xtal osc
+__label__有源晶体振荡器 , 5000 mhz crystal osc 50000 mhz cmos ttl ctx121 nd 278 xtal osc
+__label__贴片电解电容 , c27 100 uf stm rescue cp1 device capacitor tantalum smd cp eia 2012 12 kemet r
+__label__功率电感 , l1 4.7 uh stm rescue l device inductor smd l taiyo yuden md 4040
+__label__超级电容器 , c poscap l 330 uf 6.3 v 2.4 a smd d3l 105c sanyo 6tpe330ml 1 c12
+__label__贴片电解电容 , c7 electrolytic capacitor 22 µ f exv226m035a9daa no yes
+__label__贴片电解电容 , c22 electrolytic capacitor 22 µ f exv226m035a9daa no yes
+__label__NTC热敏电阻 , r6 ntc 33 k 25 ° c 0.01 0603 nb 21 m 0 0333 yes
+__label__功率电感 , l1 inductor 1.5 µ h mss1038 152nl no yes
+__label__功率电感 , l3 inductor 660 µ h do1606ct 684 no yes
+__label__贴片电解电容 , 1 c1 18 µ f 18 µ f 400 v high voltage al electrolytic 235000 m ω 20 mm x 10 mm nichicon ucy2g180mpd
+__label__贴片电解电容 , 1 c2 22 µ f 22 µ f 400 v high voltage al electrolytic 14469 m ω 20 mm x 16 mm united chemi con ekmx400vb22rm16x20ll
+__label__贴片电解电容 , 1 c6 820 µ f 820 µ f 25 v electrolytic super low esr 22 m ω 25 mm x 10 mm united chemi con ekze250ell821mj25s
+__label__贴片电解电容 , 1 c7 100 µ f 100 µ f 16 v electrolytic low esr 250 m ω 11.5 mm x 6.3 mm united chemi con elxz160ell101mfb5d
+__label__精密可调电阻 , r14 1.0 trim pot 10k 652 3306w 1 103
+__label__精密可调电阻 , 100k trim pot 3306p or 3306f rv602 3306p f trim pot 3306p or 3306f style if
+__label__精密可调电阻 , 100k trim pot 3306p or 3306f rv601 3306p f trim pot 3306p or 3306f style if
+__label__贴片电解电容 , 2 100nf poly alt 63 or 100v c657a 0603 capacitor alternate to c657 if
+__label__精密可调电阻 , 10k trim pot rv606 trim trim pot 3306p or 3306f style if
+__label__精密可调电阻 , 10k trim pot vr2 res trim trim pot 3306p or 3306f style trxavrb
+__label__钽电容 , 10 uf 16v c case cz11 6032 polarized cap surfacemount cap if
+__label__精密可调电阻 , 22k rv604 3306p f trim pot 3306p or 3306f style if
+__label__功率电感 , 27.0 21.0 3.0 l1 l2 l3 2.2 uh inductor 2.2 uh smt 2.6 a 58 milliohm vlcf5020t 2r2n2r6 3
+__label__有源晶体振荡器 , 171 1 y3 25mhz osc 25mhz 30ppm 1.8 v smd abracon corporation ase3 25.000 mhz kt tbd osc ase3 yes 535 9550 1 nd
+__label__贴片高精密-低温漂电阻 , 57 xxx xxxxx xx res 16 ohm 1 16w ± 0.5% npb 0603 thin film 12 r13 r15 r16 r17 r23 r35 r87 r92 r93 r99 r103 r109 susumu rr0816q 160 d
+__label__有源晶体振荡器 , 120 xxx xxxxx xx osc 24.576 mhz 1.8 v 25ppm npb 2x1.6 1 y6 txc corporation 8n24570001
+__label__有源晶体振荡器 , 121 xxx xxxxx xx osc 22.5792 mhz 1.8 v 25ppm npb 2x1.6 1 y7 txc corporation 8n2257001
+__label__贴片电解电容 , c1 c4 c7 c10 capacitor aluminum electrolytic surface mount 5x5.8 mm 50v 10 uf cornell dubilier afk106m50c12t f 5985 afk 50v 10 f 0.44
+__label__采样电阻 , 1.0 2.0 r67 r70 0.22 0603
+__label__采样电阻 , 1 3.0 p.22 ahct r67 r70 r130 2.0 resistor j1 0603 0.22 р ы 350.0 330.0 6.0 24.0 36.0 270.0
+__label__有源晶体振荡器 , 25 1.0 q1 4.0 5.0 x3.2 mm tcxo crystal 50x32 asvtx 09
+__label__谐振器 , 13 1.0 y1 16mhz resonator smd 16mhz resonator cstce16m0v53 r0
+__label__薄膜电容 , c6 c6b c7 c7b c12 c12b c13 c13b c14 c14b c15 c15b c16 c16b c17 c17b c19 c19b c20 c20b 1nf 50v 20 mkp film capacitor
+__label__直插电解电容 , 3.0 3.0 c42 c64 c92 001 00010 01 cap 100 uf elyt 10v 20% rad 001 00010 01 ece a1aks101
+__label__功率电感 , 42.0 1.0 l5 040 00057 01 ind 2.4 uh 2150ma 30% smt 040 00057 01 ell 6pv2r4n
+__label__功率电感 , 43.0 1.0 l6 040 00058 01 ind 3.3 uh 1900ma 30% smt 040 00058 01 ell 6pv3r3n
+__label__精密可调电阻 , thermistance s ind 47k 330
+__label__精密可调电阻 , thermistance 260 ohms 900
+__label__金属膜电阻 , r é sistance s ind mfr 3k01 1 4w 1000
+__label__金属膜电阻 , r é sistance s ind mfr 3k01 1 4w 1000
+__label__金属膜电阻 , r é sistance s ind mfr 1 4w 5k11 1000
+__label__金属膜电阻 , r é sistance mfr35 6.19 k 1% 3000
+__label__直插电解电容 , c5p022ae050x capacitor alum 2.2 mfd 50 vdc radial 715 100 75.0 pc 0.35 0.25 0.2 0.17 0.0 cap
+__label__钽电容 , c5p022ta020 capacitor tant 2.2 mfd 20 vdc axial 715 183 100.0 pc 0.35 0.25 0.2 0.17 64.05 cap
+__label__直插电解电容 , c6p010ae035x capacitor alum 10 mfd 35 vdc axial box 8 862 800.0 pc 0.31 0.2 0.17 0.15 215.5 cap
+__label__钽电容 , c6p015ta020x capacitor tant 15 mfd 20 vdc axial box 7 248 150.0 pc 1.19 0.5 0.4 0.32 148.8 cap
+__label__直插电解电容 , c6p047ae063x capacitor alum 47 mfd 63 vdc radial 715 0 0.0 pc 0.33 0.25 0.2 0.17 14.4 cap
+__label__无源晶体振荡器 , 2562500200 oscillator 3.6864 mhz cts 715a 96 90.0 pc 3.85 3.5 3.0 2.5 cry
+__label__功率电感 , l1 680uh inductor 1812 1 lqh4n681k04 tme
+__label__采样电阻 , r68 r69 r70 r72 r75 r124 r125 r129 r130 r132 r133 r151 r152 lrmam0805 r005ft5 tt welwyn res smd 0.005 ohm 1% 1 2w 0805 0805 0.005 r 985 1541 1 nd
+__label__无源晶体振荡器 , 晶振 32.768 khz ± 20ppm 3 8 3 0
+__label__钽电容 , 电容 钽电容 1206 47 uf 6.3 v m 符合 4
+__label__圆柱体晶振 , 晶振 32.768 k 2 6 10 25ppm 符合 1
+__label__贴片电感 , 56uh inductor eljfa560jfd 1210
+__label__贴片电感 , 220uh inductor elj ea221kf 1210
+__label__贴片电感 , 220uh inductor elj ea221kf 1210
+__label__功率电感 , l9 2.2 uh inductor inductor 2.2 uh ir 1.3 a rf 40mhz rdc 100m ohm smd1008 lqm2hpn2r2mg0l l1008
+__label__精密可调电阻 , sx3362p dip vr top adj 1k 3362p resistor 3p l70 w70 h50 mm best seeedstudio wiki images a a6 301040009 pdf 025390625 5 3 03 seeedstudio depot oplopen parts library catalog c 136 138 301040014
+__label__功率电感 , lqm2mpn2r2mg0 smd inductor 22 uh 20% 12 a inductor 0805 01171875 10 2 02 seeedstudio depot oplopen parts library catalog c 136 138 303010086
+__label__碳膜电阻 , fhcfr 1 4w 331j dip res 330r 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020003
+__label__碳膜电阻 , fhcfr 1 4w 471j dip res 470r 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020029
+__label__碳膜电阻 , fhcfr 1 4w 102j dip res 1k 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020000
+__label__碳膜电阻 , fhcfr 1 4w 103j dip res 10k 5% 1 4w axial d23 l65 mm resistor axial d23 l65 mm fenghua 001 100 2 02 seeedstudio depot oplopen parts library catalog c 136 138 301020001
+__label__直插独石电容 , c16 047 uf capacitor american symbol 594 k473k15x7rf5th5 c us050 024x044
+__label__直插独石电容 , c1 c2 c4 c5 c6 c7 c11 c12 c14 c15 0.1 uf capacitor american symbol 594 k104m15x7rf53h5 c us050 024x044
+__label__直插独石电容 , c8 100pf capacitor american symbol 594 k101j15c0gf5tl2 c us050 024x044
+__label__直插独石电容 , c9 10n capacitor american symbol 594 k103m15x7rf53h5 c us050 024x044
+__label__直插独石电容 , c10 1 uf capacitor american symbol 810 fk28x5r1e105k c us050 024x044
+__label__直插电解电容 , 5 100 uf c3 c7 cap 8 11 2 c235368
+__label__直插电解电容 , eeu fc1h681l cpol ussanyo g 680 uf 50v 20% 4000hr 105c 0.04 ohms 2.2 a
+__label__直插独石电容 , k104k15x7rf53l2 cnpolc cer1 0.1 uf 50v 10% x7r
+__label__直插独石电容 , k105k20x7rf53h5 cnpolc cer3 1 uf 50v 10% x7r
+__label__直插独石电容 , fk26c0g2j151j cnpolc cer3 150pf 630v 5% c0g
+__label__固定电感 , 07p 472j 50 4.7 mh fas inductor 4.7 mh 70ma 18.5 ohm was 47mh 13r476c
+__label__贴片电感 , l1 l2 l9 l10 l15 l16 l17 l18 47 uh 10% inductor 1210 digi key pcd1427ct nd 0
+__label__高频电感 , l1 39 nh high frequency chip inductor ± 5% 402 abracon aisc 0402 3n9j t scripts dksearch dksus dll detail itemseq 192454664 uq 635960629680147746
+__label__高频电感 , l3 15 nh high frequency chip inductor ± 10% 402 abracon aisc 0402 15nj t scripts dksearch dksus dll detail itemseq 192454742 uq 635960629680167746

@@ -1,12 +1,4 @@
-插件 电阻 100r 1w dip2 14 5% 碳膜 电阻 smd 5000 0.02
 14 插件 47 ω ± 1% 1 2w 碳膜 电阻 五色 环
-14 插件 47 ω ± 1% 1 1000000 2w 碳膜 电阻 五色 环
-15 电阻 碳膜 电阻 100 ohm 5% 0603 表贴 5000
-19 电阻 碳膜 电阻 330 ohm 5% 1 10w 0603 表贴 5000
-21 电阻 碳膜 电阻 50 ohm 1 10w 5% 0603 表贴 5000
-22 电阻 碳膜 电阻 62 ohm 1% 1 10w 0603 表贴 5000
-23 电阻 碳膜 电阻 排 50 ohm x 4 5% 1 16w 0603 表贴 100
-24 电阻 碳膜 电阻 排 4.7 k ohm x 4 5% 1 16w 0603 表贴 100
 10 1777 0 10 uniohm resistor thd carbon film resistor 10 k ω 5% 1 4w tht cfr0w40103t10 cfr 25jt 52 10k 2.0 20000
 11 1777 0 11 uniohm resistor thd carbon film resistor 1 m ω 5% 1 4w tht cfr0w40105t10 cfr 25jt 52 1m 2.0 20000
 12 1777 0 12 uniohm resistor thd carbon film resistor 3.9 k ω 5% 1 4w tht cfr0w40392t10 cfr 25jt 52 3k9 2.0 20000

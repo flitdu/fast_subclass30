@@ -1,0 +1,5 @@
+90 16p8302b0 u17 s001005 ic flash 128m spi 104mhz 8soic w25q128fwsig winbond soic 30 9 270
+90 16p8302b0 u17 s001005 ic flash 128m spi 104mhz 8soic w25q128fwsig winbond soic 270
+q06 20020001 44 61106000630 flash mt29f2g16 闪存 2.7 v 3.6 v 2g 128mx16 tsop48 48pin smd micron mt29f2g16abaeawp ait e 200
+mt28f640j3 tsop 64mb flash memory tsop 56 0 0.0
+eon25b80 16 串口 flash sop8 208miles 1

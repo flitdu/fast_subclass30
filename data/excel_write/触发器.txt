@@ -1,0 +1,1 @@
+ic4 ic20 ic21 ic28 ic30 sn74lvc2g14 sn74lvc2g14 sn74lvc2g14 ad7276 ad7276 novalue sn74lvc2g14dbvr novalue 12bit adc 12bit adc sot23 6 95p285x110 6n

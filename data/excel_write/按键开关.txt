@@ -1,0 +1,4 @@
+113 1 77a.03 elumee01 电源开关 按钮 自锁 开关 250ma 50v 40 80 ℃ elumeethq7c22 1 dsw5 push 28 2x11 4x5 2 s c k elumeethq7c22 sw1 12
+114 1 77a.05 ksl0v401 复位开关 按键 开关 50ma 32v 40 85 ℃ ksl0v411lftr 1 dsw4 push 11 1x8 7x7 7 s c k ksl0v411lftr sw2 12
+2x3 lock switch jst 2.0 x 4.0
+按键 开关 上 按键 开关 5pin 带 接地 pin 8 6.3 3.1 mm it 1157p as 艾尔 1 s2 s1

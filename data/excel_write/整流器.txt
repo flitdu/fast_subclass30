@@ -1,0 +1,4 @@
+8.0 2d2436a0 d02 s000030 diode gen purp 75v 150ma sod123 smt 1n4148w e3 18 整流 二极管 2992.0
+12 2c6806a0 d02 s000013 diode ultra fast standard 400v 3a smd do214ab smc 2leads vf1.25 v murs340t3g on 整流 二极管 40
+33 1 57a.10 41540001 整流 二极管 cc 2.2 nf 0603 5% 50v x7r 1 214ab comchip cdbc540 g d4 12
+d11 12 d14 15 stth1l06a diode ultra fast 600v 1a sma stth1l06a digi key 497 3241 1 nd 0.6
