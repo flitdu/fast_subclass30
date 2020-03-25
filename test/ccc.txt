@@ -1,0 +1,114 @@
+__label__钽电容 , C21B,C23B Panasonic, 6TPH100MAEA A09 POSCAP, 6.3V,100uF
+__label__板对板连接器 , J1 Samtec, ERM8-035-08.0-L-DV-K-TR SMT SIGNAL SOCKET
+__label__板对板连接器 , J2,J3 Samtec, IPBS-105-01-T-D Through-hole POWER SOCKET
+__label__电池 , CR2032 PANASONIC Panasonic Battery 3V 20 X 3.2 MM 200mA nan 1
+__label__贴片电容 , 22252C334KAT1A AVX CORPORATION CAP CERM .33UF 200V X7R 2225 2225 2
+__label__开关二极管 , 1N4148 Fairchild Semiconductor DO-35 100V Io/200mA BULK DO-35 5
+__label__继电器 , MT5634SMI-34.R2 Multi-Tech System Inc MODEM V.34 SRL DATA V.34 FAX 5V nan 2
+__label__时基芯片 , SA555DR Texas Instrument IC PRECISION TIMER 8-SOIC 8-SOIC 2
+__label__16位微控制器 , - MCU MSP430F149IPM Texas Instrument IC 16BIT MCU 60KB FLASH 64-LQFP Bulk 1
+__label__时钟计时芯片 , DS1305EN+ Dallas Semiconductor IC RTC SERIAL ALARM IND 20-TSSOP 20-TSSOP 1
+__label__RS232芯片 , MAX3223IDBR Texas Instrument IC DRVR/RCVR MULTCH RS232 20SSOP 20-SSOP 2
+__label__PTC自恢复保险 , TR250-180U Raychem Radial Lead .18A 100Vdc max 250Vrms max FUSE 4
+__label__贴片电容 , LC 220N 0402HPH-R22XJL T_0402 0.05 nan nan nan
+__label__贴片电容 , LM2,LM 27N 0402HP-27NXJL T_0402 0.05 nan nan nan
+__label__贴片电容 , LM1,L0 24N 0402HP-24NXJL T_0402 0.05 nan nan nan
+__label__贴片电容 , LM3 15N 0402HP-15NXJL T_0402 0.05 nan nan nan
+__label__贴片电容 , LR1 51N 0402HP-51NXJL T_0402 0.05 nan nan nan
+__label__贴片电容 , LR2 47N 0402HP-47NXJL T_0402 0.05 nan nan nan
+__label__MOSFET , U14 NOT NAND gate (SC70-6) NC7SZ57P6X
+__label__MOSFET , U13 Inverter gate (SC70-5) NC7SZ04P5X
+__label__信号开关多路复用解码器 , U3 4-bit Bus switch (TSSOP-14) FST3125MTC
+__label__信号开关多路复用解码器 , U1, U2, U5 8-bit Bus switch (TSSOP-20) FST3345MTC
+__label__信号开关多路复用解码器 , U8 Quad 2:1 Multiplexer/Demultiplexer Bus Switch (TSSOP-16) FST3257MTC
+__label__以太网芯片 , U9 ENC624J600 10/100 Ethernet controller (TQFP-64 10x10x1) ENC624J600-I/PT
+__label__排针排母 , J4 2x14 pin thru-hole male right angle header 0.1 inch pitch TSW-114-08-T-D-RA
+__label__排针排母 , J3 2x3 pin thru-hole male right angle header 0.1 inch pitch TSW-103-08-T-D-RA
+__label__排针排母 , JP2, JP7, JP8, JP9, JP10, JP11 1x2 pin jumper shunt 0.1 inch pitch SPC02SYAN
+__label__连接器附件套件 , TP3, TP4 Test point, black (0.052" hole) 151-103-RC
+__label__连接器附件套件 , TP2 Test point, red (0.052" hole) 151-107-RC
+__label__通用二极管 , 1N4001 1N4001 Diode http://www.digikey.com/product-detail/en/1N4001-G/641-1310-1-ND/1979675 nan nan nan nan nan
+__label__连接器附件套件 , Stereo 1/4" Jack Stereo 1/4" Jack http://www.digikey.com/product-detail/en/112AX/SC1316-ND/1217815 nan nan nan nan nan
+__label__连接器附件套件 , Mono 1/4" Jack Mono 1/4" Jack http://www.digikey.com/product-detail/en/112BPCX/SC1534-ND/1288950 nan nan nan nan nan
+__label__电源连接器 , DC Jack DC Jack http://www.digikey.com/product-detail/en/PJ-067A/CP-067A-ND/2627227 nan nan nan nan nan
+__label__IC与器件插座 , 8 Pin Dip Socket 8 (2x4) Pin Dip Socket http://www.digikey.com/product-detail/en/A08-LC-TT-R/AE9986-ND/821740 nan nan nan nan nan
+__label__旋转波段开关 , 8-pos Rotary Switch 8-pos Rotary Switch http://www.digikey.com/product-detail/en/A12505RNZQ/CKN10204-ND/2043161 nan nan nan nan nan
+__label__可调电阻电位器 , 500k Audio Taper 500k Audio Taper http://www.parts-express.com/pe/showdetl.cfm?partnumber=023-620 nan nan nan nan nan
+__label__可调电阻电位器 , 25k Linear Taper 25k Linear Taper http://www.parts-express.com/pe/showdetl.cfm?partnumber=023-630 nan nan nan nan nan
+__label__可调电阻电位器 , 100k Linear Taper 100k Linear Taper http://www.parts-express.com/pe/showdetl.cfm?partnumber=023-560 nan nan nan nan nan
+__label__可调电阻电位器 , Drive Pot Alt 1M Audio Taper http://www.parts-express.com/pe/showdetl.cfm?partnumber=023-622 nan nan nan nan nan
+__label__连接器附件套件 , Knob Cover Knob Cover https://www.sparkfun.com/products/10002 nan nan nan nan nan
+__label__通用二极管 , 1N34A 1N34A Germanium Diode http://www.pedalpartsplus.com/mm5/merchant.mvc?Screen=PROD&Product_Code=4000 nan nan nan nan nan
+__label__气体传感器 , Honeywell PM2.5 Sensor HPMA115S0-XXX nan 32.96 139.3 nan nan
+__label__电子线材连接线 , Molex Cable for Sensor 15134-0802 50mm long, plugs into PIN-008 5.34 25.65 nan nan
+__label__DC-DC芯片 , Pololu 5V Boost Converter U1V11F5 Required because the Honeywell sensor needs 5V power, but uses 3.3V logic 4.95 21.25 nan nan
+__label__电池 , 1200mAh LiPoly Battery 258 nan 9.95 49.75 nan nan
+__label__排针排母 , Female tall headers, 4-up 929974-01-04-RK For hacker I/O pins (4 digital, 4 analog) 1.41 6.4 nan nan
+__label__贴片电感 , 10uH L201 CBC2012T100M Taiyo Yuden INDUCTOR 10UH 20% 0805 SMD nan nan
+__label__通用二极管 , 1N4003 D501D502D503D504 1N4003G ON Semiconductor DIODE STD REC 1A 200V DO-41 nan nan
+__label__通用二极管 , 1N4003 D505D506D507D508 1N4003G ON Semiconductor DIODE STD REC 1A 200V DO-41 nan PROJECT 2
+__label__螺丝钉接线端子 , 39502-6 FET0-3 1984659 Phoenix Contact CONN TERM BLOCK T/H 6POS 3.5MM nan nan
+__label__螺丝钉接线端子 , 39502-6 FET4-7 1984659 Phoenix Contact CONN TERM BLOCK T/H 6POS 3.5MM nan PROJECT 2
+__label__触发器 , 4052D U305U306U401 CD4052BCM Fairchild Semiconductor IC MUX/DEMUX DUAL 4X1 16SOIC nan nan
+__label__直插瓷片电容 , 47uF C102C103C105 FK26Y5V0J476Z TDK Corporation CAP CER 47UF 6.3V Y5V RAD nan nan
+__label__通用二极管 , 6a2-t D101 1N5401-T Diodes Inc DIODE GPP 100V 3A DO-201AD nan nan
+__label__内存连接器 , AMP-U-SDCARD3M-U-SD-2900 U$1 2908-05WB-MG 3M CONN EJECT MICROSD PUSH-PUSH SMD nan PROJECT 2
+__label__8位微控制器-MCU , ATMEGA1280 U201 ATMEGA1280-16AU Atmel IC MCU AVR 128K FLASH 100-TQFP nan nan
+__label__无源晶体振荡器 , CERAMIC_RESONATOR_WITH_CAP3731 CR201 AWSCR-16.00CV-T Abracon Corp RESONATOR CER 16.00MHZ W/CAP SMD nan nan
+__label__线对板线对线连接器 , C-GRID-03-70543 ANA0ANA1ANA2ANA3ANA4ANA5ANA6ANA7SRV0SRV1SRV2TMR 70543-0037 Molex Headers & Wire Housings VERTICAL HDR 3 PIN SINGLE ROW TIN nan nan
+__label__温度传感器 , DS1821 U307 DS1821+ Maxim Integrated Products IC THERMOMETER/STAT PROG 3-PR35 nan nan
+__label__RS232芯片 , FT232RL U202 FT232RL R FTDI IC USB TO SERIAL UART 28-SSOP nan nan
+__label__LCD显示模组 , HD44780 U$19 DM2004ABB6NTDW 411techsystems 20x4 Blue HD44780 STN LCD with LED Backlight nan nan
+__label__DC-DC芯片 , LM22670 U101 LM22670MRE-5.0/NOPB National Semiconductor IC REG SWITCH BUCK 3A 5V 8PSOP nan nan
+__label__精密运放 , LTC2052CS U301U302U303U304 LTC2052CS#PBF Linear Technology IC OPAMP ZERO-DRIFT QUAD 14SOIC nan nan
+__label__CAN芯片 , MCP2515 U705 MCP2515-I/SO Microchip Technology IC CAN CONTROLLER W/SPI 18SOIC nan nan
+__label__压力传感器 , MPXV7002DP PS4PS5 MPXV7002DP Freescale Semiconductor Board Mount Pressure Sensors SOP DUAL 2KPA nan nan
+__label__压力传感器 , MPXV7007DP PS0PS1PS2PS3 MPXV7007DP Freescale Semiconductor Board Mount Pressure Sensors SOP DUAL 7KPA nan nan
+__label__螺丝钉接线端子 , OSTTC08 J301J302J303J304 OSTTC082162 On Shore TERM BLOCK 5.08MM VERT 8POS PCB nan DO NOT ASSEMBLE
+__label__PTC自恢复保险 , PTC PF0PF1PF2PF3 30R300UU Littelfuse Inc PTC 3.00A 30V RESETTABLE KINK nan nan
+__label__PTC自恢复保险 , PTC PF4PF5PF6PF7 30R300UU Littelfuse Inc PTC 3.00A 30V RESETTABLE KINK nan PROJECT 2
+__label__PTC自恢复保险 , PTC PF9 30R300UU Littelfuse Inc PTC 3.00A 30V RESETTABLE KINK nan nan
+__label__螺丝钉接线端子 , SCREW_HEADER_01_3 CAN 282834-3 Tyco Electronics TERM BLOCK 3POS SIDE ENT 2.54MM nan PROJECT 2
+__label__TVS二极管(瞬态电压抑制二极管) , SRDA05-B U501U502U601U602U603 SRDA05-4.TBT Semtech IC TVS ARRAY 4-LINE 5V 8SOIC nan nan
+__label__CAN芯片 , TJA1050 U706 TJA1050T/VM,118 nxp semiconductors IC TXRX CAN HS 5.25V 8-SOIC nan nan
+__label__电平转换移位器 , TXB0104 U703 TXB0104PWR Texas Instruments IC VOLT-LEVEL TRANSLATOR 14TSSOP nan nan
+__label__直插瓷片电容 , E5-5 C106C107C109C701C715C716C717C718C719C720C721C722 FK26Y5V0J476Z TDK Corporation CAP CER 47UF 6.3V Y5V RAD nan nan
+__label__电源连接器 , con-jack PWR PJ-102AH CUI Inc CONN PWR JACK 2.1X5.5MM HIGH CUR nan nan
+__label__D-Sub连接器附件 , RS232 con-subd 5747840-4 Tyco Electronics CONN D-SUB PLUG R/A 9POS AU T/H nan nan
+__label__直插瓷片电容 , AVX CORPORATION SR305E105MAR CAP CER 1.0UF 50V 20% RADIAL nan
+__label__RS485RS422芯片 , LINEAR TECHNOLOGY LTC1485CN8#PBF IC TXRX DIFFERNTIAL BUS 8-DIP Alternate Packaging Exists
+__label__74系列逻辑芯片 , TEXAS INSTRUMENTS CD74HC390E IC DUAL DECADE RIP CNTR 16-DIP Alternate Packaging Exists
+__label__RS485RS422芯片 , TEXAS INSTRUMENTS MC3487N IC QUAD DIFF LINE DRIVER 16-DIP Alternate Packaging Exists
+__label__8位微控制器-MCU , MICROCHIP TECHNOLOGY PIC18F2220-I/SP IC MCU FLASH 2KX16 A/D 28DIP nan
+__label__IC与器件插座 , MILL-MAX MANUFACTURING CORP 110-99-308-41-001000 IC SOCKET 8PIN MS TIN/TIN .300 nan
+__label__IC与器件插座 , MILL-MAX MANUFACTURING CORP 110-99-316-41-001000 IC SOCKET 16PIN MS TIN/TIN .300 nan
+__label__IC与器件插座 , MILL-MAX MANUFACTURING CORP 110-99-328-41-001000 IC SOCKETS 28PIN MS TIN/TIN .300 nan
+__label__连接器附件套件 , AAVID THERMALLOY 577202B00000G HEAT SINK TO-220 .500" COMPACT nan
+__label__电源连接器 , DC-10A 2.1mm DC PWR_2 DC-10A DC Power Connector
+__label__板对板连接器 , 2.54mmHeader 3x1 way 2.54mmHeader_3_2.54mm THS-03-R Board to Board Connectors (2.54mm Pitch) THS Series 2.54mm pitch Headers
+__label__插拔式连接器 , Cortex 1.27mmHeade5x2 way PCB_1.27mm_2x5_vertical_male FTSH-105-01-L-DV-K ARM 1.27mm 10 way Cortex Micro Debug Connector
+__label__IDC连接器（牛角） , 2.54mmSocket 17x2 way 2.54mmSocket_34_2.54mm B06d-34-A-G-A-A-1 Straight PCB Mount IDC Box Socket
+__label__板对板连接器 , 2.54mmHeader 8x1 way 2.54mmHeader_9_2.54mm SSW-108-01-G-S Board to Board Connectors (2.54mm Pitch) THS Series 2.54mm pitch Headers
+__label__板对板连接器 , 2.54mmHeader 10x1 way 2.54mmHeader_9_2.54mm SSW-110-01-G-S Board to Board Connectors (2.54mm Pitch) THS Series 2.54mm pitch Headers
+__label__板对板连接器 , 2.54mm RECEPTACLE 6x1 way 2.54mm RECEPTACLE_6_2.54mm SSW-106-01-G-S Board to Board Connectors (2.54mm Pitch) 2.54mm pitch RECEPTACLE
+__label__贴片电阻 , 150k ThickFilm_1pc_100mW MCR03EZPF1503 Thick film resistor
+__label__贴片电阻 , 1k ThickFilm_1pc_100mW MCR03EZPFX1001 Thick film resistor
+__label__贴片电阻 , 10k ThickFilm_1pc_100mW MCR03EZPFX1002 Thick film resistor
+__label__贴片电阻 , 100R ThickFilm_1pc_100mW MCR03EZPF1000 Thick film resistor
+__label__贴片电阻 , 2R ThickFilm_5pc_200mW ERJP03J2R0V Thick film resistor
+__label__电压基准芯片 , ZRC250 Voltage reference_2.5V ZRC250F02TA Precision 2.5 Volt Voltage Reference
+__label__模数转换芯片 , AD7490 12bit 16ch ADC_2.7-5.25V AD7490BRUZ 16-Channel, 1 MSPS, 12-Bit ADC with Sequencer
+__label__开关电源芯片 , LT1111CS8 Step-up regulator_Adjustable LT1111CS8 DC/DC Converter Adjustable
+__label__内存连接器 , Micro SD push-push ZM90 SD/MMC card connector ZM90-15000-0BR1 U3
+__label__以太网连接器 , GigaBit Ethernet B50 RJ45 Connector TBD J15
+__label__IO连接器 , SATA-7-pin SATA-7-PIN 7 contacts SATA connector vertical 67800-8001 U10,U11,U12,U13
+__label__插拔式连接器 , Disk Drive Power 15-24-4449 Disk Drive Power Connection System Header, Vertical, Through Hole, 4 Circuits 15-24-4449 J14,J19
+__label__电源连接器 , KPJX-4S-S KPJX-4S-S Mini DIN 4P DC Jack SHIELDED SNAP AND LOCK KPJX-4S-S J16
+__label__USB芯片 , FT230X QFN16 UART interfaceÿsupportÿfor 7 or 8 data bits FT230XQ-R U8
+__label__信号缓冲器中继器分配器 , Dual Buffer - NLX2G16 ULLGA6-CASE613AE Dual Buffer - NLX2G16 NLX2G16AMX1TCG U9
+__label__RT7291 , RT2875A/B TSSOP-14 DC2DC chip RT2875B U1,U18
+__label__RT7291 , RT7291 UQFN-16L nan RT7291 U2
+__label__IO扩展器 , PCA9655 WQFN24 16-bit I2C I/O EXPANDER PCA9655EMTTXG U17
+__label__功率电感 , 120Ohm L0603 Bead 120ohm, 100MHz, 2A BLM18PG121SN1D FB10
+__label__采样电阻 , 0.01 ohm R0603 RES SMD 0.01 OHM 1% 1/4W 0603 PMR03EZPFU10L0 R33,R34,R74,R93,R94,R95,R96,R97,R98
+__label__排阻 , 4x4.7kohm 4xR0402 4 Elements 4.7kOhms 5 % <null> RN1

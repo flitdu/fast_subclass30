@@ -16,7 +16,7 @@ import fasttext as ff
 from sklearn.metrics import confusion_matrix
 from sklearn import metrics
 import matplotlib.pyplot as plt
-
+from data_operation.function import get_logger
 from bom_read import excel_read2txt
 from data_selection_new import merge_txt_files
 from data_split import train_datas_split
@@ -175,10 +175,12 @@ class FastTextModel:
         plt.legend()
         plt.title("{}-gram".format(w))
         plt.grid()
-        plt.savefig("./rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss + ".png")
+        time_temp = time.strftime("(T%Y-%m-%d-%H-%M)", time.localtime())
+        plt.savefig(r"D:\dufy\code\fast_subclass30\pic\{}.png".format(time_temp+"rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss))
+        # plt.savefig("rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss + ".png")
         # plt.figure()
         plt.show()
-        print('endddddd!!!!!!!!!!!!!!')
+        logger.info('训练结束...')
 
 
 def predict_output(str1):
@@ -223,10 +225,10 @@ class TestExcel(OperateExcel):  # 重写函数
                         true_label, predicted_label))
                     print(self.file_path)
                     error_infor = true_label + '     预测为     ' + predicted_label
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\aaa.txt', error_infor)
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\bbb.txt',
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\aaa.txt', error_infor)
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\bbb.txt',
                                    '__label__' + true_label + ' , ' + aa_description_standard)
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\ccc.txt', '__label__' + true_label + ' , ' + aa_description)
+                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\ccc.txt', '__label__' + true_label + ' , ' + aa_description)
                     true_false_list.append(0)
                     print("预测实体为：\033[1;31m {} {}\033[0m".format(predicted_label, '×'))
                 print('========================')
@@ -236,29 +238,30 @@ class TestExcel(OperateExcel):  # 重写函数
 
 
 if __name__ == '__main__':
+    logger = get_logger()
+
     # 1 读取excel写入不同的标签txt
     # 读取txt路径：ft_BOM\data\bom_subclass30'，  写入r'D:\dufy\code\ft_BOM\data\excel_write'
     # '''''''''''''''''bom_read.py
 
     # excel_read2txt()
 
-    train_tag =1
+    train_tag = 10
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-        # # '''''''''''''''''data_selection.py
+        # # '''''''''''''''''data_selection_new.py
 
         label_list = merge_txt_files(1500, shuffle_tag=1)  ## 选取行数
-        #
-        #
+
         # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
         # # # # # # # # # '''''''''''''''''data_split.py
-        #
+
         train_datas_split()
 
-        with open('aerror_record.txt', 'r', encoding='utf-8') as file:
+        with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
             # 读文件
             for line in file.readlines():
-                OperateTXT().txt_write_line('train_split_data.txt', line.replace('\n', ''))
+                OperateTXT().txt_write_line(r'.\data\train_split_data.txt', line.replace('\n', ''))
 
         # OperateTXT().txt_write_line(target_path_temp, aa_description)
 
@@ -266,13 +269,13 @@ if __name__ == '__main__':
     # 4 训练-调参
     # 初始化
         epoch_begin = 2
-        epoch_ = 100
+        epoch_ = 3
         loss_name = 'softmax'
         learn_rate = 0.5  # 0.5, 0.8
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate)
-        ft_.fit('train_split_data.txt')  # 训练
-        ft_.evaluate('train_split_data.txt', 'test_split_data.txt')   # 评价
+        ft_.fit(r'.\data\train_split_data.txt')  # 训练
+        ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
     # ########## 5 测试
     test_flag = 1
@@ -302,9 +305,7 @@ if __name__ == '__main__':
         tag = 1
         if tag == 1:
             excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\mike2019-12-18\新建文件夹 (2)'
-            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\2.28标注-Elena'
-            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.18'
+            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.24'
 
             model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
             model_names = os.listdir(model_folder)
@@ -314,13 +315,13 @@ if __name__ == '__main__':
                 modle_path = model_folder + '\\' + name0
                 classfier = ff.load_model(modle_path)
 
-                f_train = open(r'D:\dufy\code\fast_subclass30\aaa.txt', 'w')
+                f_train = open(r'D:\dufy\code\fast_subclass30\test\aaa.txt', 'w')
                 f_train.truncate()
                 f_train.close()
-                f_test = open(r'D:\dufy\code\fast_subclass30\bbb.txt', 'w')
+                f_test = open(r'D:\dufy\code\fast_subclass30\test\bbb.txt', 'w')
                 f_test.truncate()
                 f_test.close()
-                f_test1 = open(r'D:\dufy\code\fast_subclass30\ccc.txt', 'w')  # 增加原始信息输出
+                f_test1 = open(r'D:\dufy\code\fast_subclass30\test\ccc.txt', 'w')  # 增加原始信息输出
                 f_test1.truncate()
                 f_test1.close()
 

@@ -42,7 +42,7 @@ class Operate_txt:
                 j = 0
                 with open(txt_path, mode='r', encoding='utf-8') as f:
                     for line in f:
-                        print(line, end='')  # end=' '意思是末尾不换行，加空格。
+                        # print(line, end='')  # end=' '意思是末尾不换行，加空格。
                         self.txt_write_line('all_labels.txt', line)
                         # time.sleep(0.1)
                         j += 1
@@ -85,7 +85,7 @@ class Operate_txt:
         i = 0
         with open(self.url, mode='r', encoding='utf-8') as f:
             for line in f:
-                print(line, end='')  # end=' '意思是末尾不换行，加空格。
+                # print(line, end='')  # end=' '意思是末尾不换行，加空格。
                 # time.sleep(0.1)
                 i += 1
         print()
@@ -136,7 +136,7 @@ class Operate_txt:
         for item in num:
             if item not in test_slice:
                 train_slice.append(item)
-        print('测试取值：{}'.format(test_slice))
+        # print('测试取值：{}'.format(test_slice))
         for i in num:
             line = linecache.getline(self.url, i)  # 待写入文件行
             if i%1000 == 0:
@@ -144,21 +144,21 @@ class Operate_txt:
             # print(line)
             if i in test_slice:
                 # print('test')
-                self.txt_write_line('test_split_data.txt', line)
+                self.txt_write_line(r'.\data\test_split_data.txt', line)
             else:
                 # print('train')
-                self.txt_write_line('train_split_data.txt', line)
+                self.txt_write_line(r'.\data\train_split_data.txt', line)
 
 def train_datas_split():
-    f_train = open('train_split_data.txt', 'w')
+    f_train = open(r'.\data\train_split_data.txt', 'w')
     f_train.truncate()
     f_train.close()
-    f_test = open('test_split_data.txt', 'w')
+    f_test = open(r'.\data\test_split_data.txt', 'w')
     f_test.truncate()
     f_test.close()  # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\test.txt')  # 添加需要操作的文件路径
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\fasttext.test1125.txt')  # 添加需要操作的文件路径
-    a = Operate_txt(r'D:\dufy\code\fast_subclass30\selection_data_shuffle.txt')  # 添加需要操作的文件路径
+    a = Operate_txt(r'D:\dufy\code\fast_subclass30\data\selection_data_shuffle.txt')  # 添加需要操作的文件路径
     a.txt_print()
     # a.txt_write('text_write_test.txt')   # 写入文件路径
 

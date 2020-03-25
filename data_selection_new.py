@@ -21,16 +21,14 @@ def shuffle(origin_txt, shuffle_txt):
 
 
 def merge_txt_files(lines_number, shuffle_tag):
-    f_1 = open('selection_data.txt', 'w')
+    f_1 = open(r'.\data\selection_data.txt', 'w')
     f_1.truncate()
     f_1.close()
     PATH = r'D:\dufy\code\fast_subclass30\data\excel_write'
 
     file_names = tuple(os.listdir(PATH))  # 转为tuple
-    fs_list = []
+
     label_number = {}
-    for filename in file_names:
-        fs_list.append(open(filename, 'w', encoding='utf-8'))
     # for i in range(len(file_names)):  # 遍历各txt
     for i, name0 in enumerate(file_names):  # 遍历各txt
         txt_path = PATH + '\\' + name0
@@ -58,13 +56,13 @@ def merge_txt_files(lines_number, shuffle_tag):
                 # if linecache.getline(txt_path, i):
                 if i in test_slice:  # 如果在随机取的值里
                     # print('test')
-                    OperateTXT().txt_write_line('selection_data.txt', line.strip('\n'))
+                    OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
         else:  # 直接全部写进去
             num.append(n)
             for i in num:
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                OperateTXT().txt_write_line('selection_data.txt', line.strip('\n'))
-    print(label_number)
+                OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
+    # print(label_number)
     list1 = []
     for key, value in label_number.items():
         #     print(key, value)
@@ -81,7 +79,7 @@ def merge_txt_files(lines_number, shuffle_tag):
     print('txt_get_somelines: done!!!!')
 
     if shuffle_tag == 1:
-        shuffle('selection_data.txt', 'selection_data_shuffle.txt')
+        shuffle(r'.\data\selection_data.txt', r'.\data\selection_data_shuffle.txt')
     
     return list1
 if __name__ == '__main__':
