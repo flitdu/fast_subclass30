@@ -1,0 +1,1 @@
+sata 7 pin sata 7 pin 7 contacts sata connector vertical 67800 8001 u10 u11 u12 u13

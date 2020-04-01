@@ -28,6 +28,9 @@ pe0.47 uf 50v c4 c5 c6 c7 4 capacitor metallized polyester film mdd21h474k5 nits
 0.47 uf 275vac c1 c2 2 noise suppression capacitor ecqu2a474ml
 0.1 uf 275vac c5 1 noise suppression capacitor ecqu2a104ml
 直插 dip 涤纶 电容 100nf 100v 脚距 8mm 11 2200
+直插 dip 涤纶 电容 100nf 100v 脚距 8mm 11 2200 1
+capacitor ceramic 0.22 uf 3 10v kemet f861be224m310z 0.095 f861be224m310z 0.1815 38 40wks
+cap fxd mplr 1 uf 10% 63v cp2 cp3 cp34 cp35 cp40 pte ltd b32529c0105k189 4500 b32529c0105k189 1500 4500 01785 10 15days dgk
 capacitor capa 104 j100 mkt p 5mm jimson capa 104 j100 mkt p 5mm c25 c32 c28 x x 5
 capacitor capa 103j 63v p 10 jimson capa 103j 63v p 10 1
 cap film pet 100nf 2 50v ac radial ecq u2a104ml 1 600
@@ -286,8 +289,16 @@ c1e boxed metal film capacitors 63v 1.0 uf 5% 505 mks21.0 63 5 75 mkt1817510064 
 c4e metalized polyester polypropylenefilm capacitor 100n 63v 505 mks2.1 63 5 75 mkt1817410065 or 75 mkt1817410064 5mm pitch 2.5 mm width
 capacitor polyester 0.12 uf 2 50v radial dme2p12k f cornell dubilier 无源 器件 2.9 1.500675
 capacitor polyester 0.18 uf 2 50v radial dme2p18k f cornell dubilier 无源 器件 3.2 1.4551999999999998
+0022 uf cap film 100vdc 10% radial capacitor product detail en b32529c1223k189 495 4370 1 nd 2504699
+1 uf cap film 63vdc 10% radial capacitor product detail en b32529c105k 495 2470 nd 1089750
+0047 uf cap film 63vdc 10% radial capacitor product detail en b32529c473k 495 2558 nd 1089838
+01 uf film 63vdc 10% radial capacitor product detail en b32529c104k 495 2465 nd 1089745
+220pf cap film 63vdc 10% radial capacitor product detail en pfr5221j63j11l4bulk 399 7681 nd 3465848
 cap film pet 100nf 2 50v ac radial ecq u2a104ml
 capacitor film type 0.47 uf 275v ecqe4474jf
+151 1 uf 630vdc metal poly cap ecq e6104kf 1 uf 630vdc metal poly cap c1 ecg 2 ef6104 nd
+152 1 uf 630vdc metal poly cap ecq e6104kf c4 ecg ef6104 nd
+153 cap film 1 uf 630vdc radial ecq e6105jf cap film 1 uf 630vdc radial c3 1 p14528 nd
 capa 104 j100 mkt p 5mm capa 104 j100 mkt p 5mm c25 c32 c28 x x
 capa 103j 63v p 10 capa 103j 63v p 10
 c mkt 0.22 uf 63v j dip 7.2 x2.5 x6.5 arco r82dc3220sh6 j 1 c7

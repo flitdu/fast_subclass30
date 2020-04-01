@@ -28,12 +28,12 @@
 94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 90
 95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 180
 96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 270
-mic68220yml dual 2a ldo regulator son50p 576 1612 2 nd yes 3.2 6.0 0.0
+mic68220yml dual 2a ldo regulator son50p 576 1612 2 nd 3.2 6.0 0.0
 ncp5663dsadjr4g low voltage adj regulator d2pak 0 98.0 0.0
 lt1764aeq 2.5 v ldo linear regulator 2.5 v 3a d2pack aertronica lt1764aeq 2.5 v 7 96.0 0.0
 lt1963aest 1.8 v ldo linear regulator 1.8 v 3a sot223 aertronica lt1963aest 1.8 v 3.57 8.0 0.0
-lt1963aest 2.5 v ldo linear regulator 2.5 v 3a sot223 farnell 1273630 yes 3.94 8.0 0.0
-lt3021adjes8 500ma low dropout regulator so8 farnell 1273637 yes 4.93 6.0 0.0
+lt1963aest 2.5 v ldo linear regulator 2.5 v 3a sot223 farnell 1273630 3.94 8.0 0.0
+lt3021adjes8 500ma low dropout regulator so8 farnell 1273637 4.93 6.0 0.0
 u15 adp1713aujz 1.2 ic reg ldo 300ma 1.2 v tsot 23 5 analog devices inc adp1713aujz 1.2 r7 digi key adp1713aujz 1.2 r7ct nd 1.47
 u14 adp1713aujz 2.5 ic reg ldo 300ma 2.5 v tsot 23 5 analog devices inc adp1713aujz 2.5 r7 digi key adp1713aujz 2.5 r7ct nd 1.47
 u19 20 adp3339akcz 1.8 ic reg ldo 1.5 a 1.8 v sot223 analog devices inc adp3339akcz 1.8 r7 digi key adp3339akcz 1.8 r7ct nd 2.81
@@ -71,3 +71,30 @@ ldo1 mic5209 3.3 ys tr ic reg 3.3 v ldo sot223 3.3 v ldo
 u2 adp1715armz mso8 500 ma low dropout linear regulator adj analog devices adp1715armz adp1715armz r7
 u3 adp1741acpz lfcsp 16 4mm 0.75 v to 3.0 v adj low dropout linear regulator analog devices adp1741acpz adp1741acpz r7
 u5 adp7102ardz 3.3 so8nb rd8 2 linear regulator 3.3 v 20v 300ma ultralow noise cmos analog devices adp7102ardz 3.3 adp7102ardz 3.3 r7
+lt1963aes8 1.8 linear technology ic ldo reg lonois 1.5 a 1.8 v8soic 8 soic 1
+lt1584ct 3.3 linear technology ic ldo regulator 7a 3.3 v to220 3 to 220 1
+u7 500ma 3.3 v ldo with shutdown sot 223 5 mcp1825t 3302e dc
+lm2937 u701 lm2937imp 3.3 nopb national semiconductor ic reg 400ma sot223 3
+semiconductor lm7805ct ic reg 1a pos 5v to 220
+v3 mcp1826s 2502e to 261aa ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e db mcp1826s 2502e db nd
+v1 2 mcp1826t adje sot 223 6 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje dc mcp1826t adje dcct nd
+v3 mcp1826s 2502e sot233 3 ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e db mcp1826s 2502e db nd
+v1 2 mcp1826t adje sot 223 5 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje dc mcp1826t adje dcct nd
+u120 ic ldo fixed 33 v 1a 6vin max ceramic stable sot 223 diodes inc ap2114h 33 trg1 digi key ap2114h 33 trg1dict nd 01305
+xl4016e1 u3 to 220 5pin l10.67 w4.83 pitch1.70 l 1 xl4016e1 xlsemi lcsc c55881
+25 andard regulator neg 5v 1.5 a 3 pin 3 tab to 220 tube l7905c v 1000 50 tube
+26 andard regulator pos 15v 1.5 a 3 pin 3 tab to 220 tube l7815cv 1100 50 tube
+ic lm2937 3.3 v regulator to220 500ma lm2937et 3.3 nopb lm2937et 3.3 nd 1.17 lm2937 3.3 cabinet
+ic lp2950 3.3 v regulator 100 ma to 92 lp2950 33lpre3 296 31455 1 nd 0.19 lp2950 cz 3.3 cabinet
+ic 78m05 500ma 5v to 220 regulator national lm78m05 jameco 192233 0.19 lm7805ct cabinet
+ic1 7812tv 1 511 l7812cv l7812 to 220
+ic3 lm2596t 1 926 lm2596t adj nopb lm2596t to 220
+ic5 mc78m12ct 1 863 mc78m12ctg mc78m12ct to 220
+ic1 78l08 8v regulator to 92 note silkscreen is backwards load the opposite of silkscreen ie 180 degrees mc78l08acpg 863 mc78l08acpg 0.37 1 0.37
+xc6227c331pr g vreg 3.3 v fixed sot 89 5 xc6227c331pr g 3.3 sot89 5
+tlv70233dbvr ic vreg ldo 3.3 v 300ma sot23 5 tlv70233dbvr 300ma sot23 5
+mic5366 1.8 yc5 tr u4 ic vreg ldo 1.8 v 150ma sc70 5 a discharge mic5366 1.8 yc5 tr 576 3203 1 nd 150ma tssop 5
+tlv70233dbvr u6 u8 ic vreg ldo 3.3 v 300ma sot23 5 tlv70233dbvr 296 32415 2 nd 300ma sot23 5
+ap2114h 3.3 trg1 u7 ic vreg ldo 3.3 v 1a reg sot223 ap2114h 3.3 trg1 ap2114h 3.3 trg1dict nd sot223
+tlv70233dbvr u11 ic vreg ldo 3.3 v 300ma sot23 5 tlv70233dbvr 296 32415 2 nd 300ma sot23 5
+xc6227c331pr g u12 vreg 3.3 v fixed sot 89 5 xc6227c331pr g 893 1175 1 nd 3.3 sot89 5

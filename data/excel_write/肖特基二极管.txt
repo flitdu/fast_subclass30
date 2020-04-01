@@ -34,10 +34,30 @@ dqa diode schottky 30 v 2 a sdm2u30csp 7
 d3 k260a schottky rectifier 60v 2a smc sot 23 smd
 d5 semiconductor sgl41 20 e3 96 diode schottky 1a 20v 213ab melf smd
 d101 201 diode schottky sot 23 bat54 512 bat54 0.07 y
-d12 diode schottky 1a smb 214aa yes top diode schottky 1a smb mbrs130t3g fec 1459070
-d3 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
-d4 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
-d5 bat54 sot23 yes sig top l1 40v schottky barrier diode bat54film 497 7162 1 nd
-d6 bat54 sot23 yes sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+d12 diode schottky 1a smb 214aa top diode schottky 1a smb mbrs130t3g fec 1459070
+d3 bat54 sot23 sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+d4 bat54 sot23 sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
+d5 bat54 sot23 sig top l1 40v schottky barrier diode bat54film 497 7162 1 nd
+d6 bat54 sot23 sig bottom l8 40v schottky barrier diode bat54film 497 7162 1 nd
 肖特基 二极管 schottky diode 30v 100ma 0.35 v sod 923 0.65 1.05 0.45 mm psbd9d30v01 prisemi 芯导 1 d4
 schottky diode 30v 100ma 0.45 v dfn1006 0.65 1.05 0.55 mm cdb0130qrm 冠宝
+d1 500ma 50v schottky diode sod 123 mbr0540
+bas70xy d301d302d303d304d305d306d307d308d309d310d311d312d313d314d315d316 bas70dw 04 7 f diodes inc diode schottky array 70v sot363
+mbrd660real d102 mbrd360t4g on semiconductor diode schottky 60v 3a dpak
+mbrs120t3g schottky 20v 1a mbrs120t3g surface mount schottky power rectifier
+d2 d5 diode schottky 3a 100v 214ac micro commercial sk310a digi key sk310a tpct nd 0.11948
+d3 diode schottky small signal 30ma 40v sod 523 rb751s40 digi key rb751s40ct nd 0.04208
+d3 d7 d8 diode schottky 1ua reverse current 200ma 45v sod 523 comchip cdbu0245 digi key 641 1284 2 nd 0.07077
+mbr30100cl ta3 t d1 to 220 to 220 3 1 mbr30100cl ta3 t utc lcsc c171488
+14 5a 50v axial schottky rect sb550 5400 gen semi 1400 1400 reel
+bat54c d7 d2 sot23a comchip 641 1320 1 nd
+bat54s d3 sot23a micro commercial bat54stpmsct nd
+bat54 d4 d5 d24 sot23a micro commercial bat54tpmsct nd
+bat54a d8 sot23a comchip 641 1319 1 nd
+mbra340 d20 d22 d29 214ac on semi mbra340t3gosct nd
+pmeg1020ej diode smd 10v 2a schottky pmeg1020ej 2a sod323f
+pmeg2005ej diode smd 20v 0.5 a schottky pmeg2005ej 0.5 a sod323f
+pmeg4010cpa d2 d3 diode dual schottky common cathode 1a sot1061 pmeg4010cpa 115 568 6524 1 nd sot1061
+bat54c d8 d13 diode dual schottky common cathode 200ma sot 23 bat54c 215 568 1612 1 nd sot 23 3
+pmeg1020ej d3 diode smd 10v 2a schottky pmeg1020ej 568 4106 1 nd 2a sod323f
+pmeg2005ej d7 d10 d11 diode smd 20v 0.5 a schottky pmeg2005ej 568 4110 1 nd 0.5 a sod323f

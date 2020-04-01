@@ -4,5 +4,11 @@ q06 20020001 19 60405000460 esd 保护 二极管 nup4202 5v 0.1 a 500w sc88 6pin
 ip4220cz6 semiconductors ip4220cz6 125
 tpdxeusb30 2 4 channel esd protection tpd2eusb30drtr tpd2eusb30drtr tpd2eusb30drtr
 bidirectional esd protection smaj30ca d smaj30ca schottky d smaj30ca schottky
-d1 diode esd r0603 yes sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
-d2 diode esd r0603 yes sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
+d1 diode esd r0603 sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
+d2 diode esd r0603 sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
+652 cdsod323 t05lc d9 sod323 652 cdsod323 t05lc
+prtr5v0u2x ultra low cap double rail esd protection diode prtr5v0u2x smt sot143b
+pesd5v0s2bt d1 d4 dual bi dir esd protection diode 0.05 pf sot23 pesd5v0s2bt 568 4056 1 nd 5 sot23
+pesd3v3l5uk d5 five uni dir esd protection diode 20pf sot891 pesd3v3l5uk 568 6463 1 nd 3.3 sot891
+pesd3v3l5uk d2 five uni dir esd protection diode 20pf sot891 pesd3v3l5uk 568 6463 1 nd 3.3 sot891
+prtr5v0u2x u3 u10 ultra low cap double rail esd protection diode prtr5v0u2x 568 4140 1 nd smt sot143b

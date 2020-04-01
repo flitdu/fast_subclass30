@@ -1,5 +1,5 @@
 crystal osc 25mhz osc 10.0 lfspxo025165 iqd frequency products
-y3 32.768 khz osc xo 32.768 khz cmos smd diodes incorporated kx2013d0032.768000 digi key kx2013d0032.768000 nd 4 smd 2016 xtal200x160x85 4n yes 40 ° c 85 ° c
+y3 32.768 khz osc xo 32.768 khz cmos smd diodes incorporated kx2013d0032.768000 digi key kx2013d0032.768000 nd 4 smd 2016 xtal200x160x85 4n 40 ° c 85 ° c
 45 oscillator sit8008 25mhz 5032 sit8008ac 31 33e 25.000000 y sitime xtal 0532 2
 46 oscillator sit9102 125mhz 5032 sit9102ac 231n33e125.00000 y sitime xtal 0533 6 1
 u32 7 x 5 mm oscillator 200 mhz sitime sit9102ai 243n25e200.00000 osc254p700x500x90 7t147x230n 788 9102ai243n25e200 11.43 8.23

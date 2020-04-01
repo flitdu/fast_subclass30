@@ -1,3 +1,6 @@
 28 6c1721b0 u16 s000353 isl3295eihz t logic rs 485 driver 3.0 5.5 v sot 23 6 isl3295eihz t sot 450
 46 1 56a.45 iso30801 集成电路 iso3082dw rs485 隔离 收发器 soic16 40 85 ℃ 1 soic16 1 27 7 6 iso3082dw u6 12
 9 rs 422 485 收发器 max3490eesa so 8 d6 d14 2 6
+linear technology ltc1485cn8 pbf ic txrx differntial bus 8 dip alternate packaging exists
+mc3487n ic quad diff line driver 16 dip alternate packaging exists
+u4 ic rs485 rs 422 differential transceiver half duplex 8 soic st485ebdr digi key 497 2083 1 nd 0.74865

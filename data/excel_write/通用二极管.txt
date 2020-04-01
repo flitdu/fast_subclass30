@@ -6,3 +6,15 @@ bat54s diode sot 23 2
 1n4007 smd2010
 d1 d2 es3a 13 diode 50 3a smc tssop smd
 d103 203 204 diode flyback 214aa s1ab 13 f s1ab fdict nd 0.38 y
+1n4001 1n4001 diode product detail en 1n4001 g 641 1310 1 nd 1979675
+1n34a 1n34a germanium diode pedalpartsplus mm5 merchant mvc screen prod product code 4000
+1n4003 d501d502d503d504 1n4003g on semiconductor diode std rec 1a 200v 41
+1n4003 d505d506d507d508 1n4003g on semiconductor diode std rec 1a 200v 41 project 2
+6a2 t d101 1n5401 t diodes inc diode gpp 100v 3a 201ad
+d1 d2 1n4005 needs to be 400v diode 41 rectifier 1 amp 600v 41 1n4005
+diode 1n914 diode 1n914 1n914b nd 0.05 1n914 cabinet
+d1 d10 d2 d5 d6 1n4004 5 512 1n4004 diode 1n4004
+d7 1n5822 zener 1 511 1n5822 diode 1n5822
+d3 d1 d2 d3 d17 1n4148 5 512 1n4148 diode 1n4148
+d1 small signal schottky diode 1n5819 625 1n5819 e3 73 0.13 1 0.13
+pmeg1020ej d6 diode smd 10v 2a schottky pmeg1020ej 568 4106 1 nd 2a sod323f

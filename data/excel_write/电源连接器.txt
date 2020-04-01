@@ -10,3 +10,10 @@ conn power jack 2.1 mm arduino uno alike
 power jack rapc722x con swc rapc722x con swc rapc722x
 j103 203 power jack 2.1 mm male thru hole pj 037ah cp 037ah nd 0.52 y
 j1 pj 102ah conn pwr jack 2x5.5 mm solder pwr jack
+dc jack dc jack product detail en pj 067a cp 067a nd 2627227
+con jack pwr pj 102ah cui inc conn pwr jack 2.1 x5.5 mm high cur
+dc 10a 2.1 mm dc pwr 2 dc 10a dc power connector
+kpjx 4s s kpjx 4s s mini din 4p dc jack shielded snap and lock kpjx 4s s j16
+4 p dc connector 12v a pankaj a19431 nd apache labs uses different header
+jack dc power male 2.1 mm jameco 101179 0.55 powerjack cabinet 9 fd
+j6 2.5 mm power jack ra pcb mount rapc712x 502 rapc712x 1.44 1 1.44

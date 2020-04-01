@@ -1,2 +1,10 @@
 29 6c1721b0 v04 d000001 lcd display 5 digit segmented with small 1 2 3 4 beq0776 15 a0 百泽 lcd 屏 150
 7 寸屏 lcd 1
+hd44780 u 19 dm2004abb6ntdw 411techsystems 20x4 blue hd44780 stn lcd with led backlight
+lcd 84 by 48 lcd nokia 5110 sparkfun 10168 9.95 nokia5110redsparkfun free
+lcd 18 bit color 128 160 1.8 tft lcd display sitronix st7735r adafruit 358 19.96 st7735 free
+lcd 16 by 2 with back light of stock bgmicro 358 5.95 hd44780 16pin free 4 left gd
+lcd 16 by 1 lcd of stock bgmicro lcd100 5 hd44780 can borrow 2nd floor must return
+lcd1 20x4 1 lcd 20x4 erm2004
+lcd2 lcd3 40x4 2 lcd 40x4 erm4004
+rk043fn02h ct j16 j16 lcd display rocktech rk043fn02h ct 2nd operation stall ffc lcd to j16 j17 on backside lcd fold back over ffc and secure to pcb with 2 sided tape item 98 see 33 v lcd assy structions

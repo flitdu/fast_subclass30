@@ -8,3 +8,5 @@ q06 20020001 67 62910000070 光耦 tlp293 单路 npnphototransistor 6 2us 2500vr
 q06 20020001 68 62910000550 光耦 ltv 845s 4 channels ctr600% if 1ma 25 ℃ 5000v sop16 smd lite on ltv 845s 250
 光耦 4n25 opto 1150 dip 6
 光 藕合 cny17f 3 liteon 902 smd 6
+22 optocoupler triac ac 1 ch 400vdrm 4 pin mfsop t r tlp160g toshiba 2000 3000 reel
+ic11 ic1 ic2 ic3 6n138 4 638 6n138 6n138

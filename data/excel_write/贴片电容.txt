@@ -1442,120 +1442,120 @@ c103 107 114 203 207 214 ceramic 10 uf 25 v x5r 10% 1206 grm31cr61e106ka12l 81 g
 c4 c6 c7 cl31b106kohnnne cap cer 10 uf 16v 10% x7r 1206 10 uf
 c5 c16 grm188r71c104ka01d cap cer 0.1 uf 16v 10% x7r 0603 0.1 uf
 c12 c0603c225k4pactu cap cer 2.2 uf 16v 10% x5r 0603 2.2 uf
-c1 100nf 603 yes top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
-c3 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
-c4 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
-c5 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
-c6 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
-c7 100nf 603 yes top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
-c8 10 uf ± 10% 805 yes top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
-c9 10 uf ± 10% 805 yes top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
-c11 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c12 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c13 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c14 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c15 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c16 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c17 100nf 805 yes top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
-c18 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c19 10nf 603 yes top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
-c21 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
-c22 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c23 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
-c24 10 uf ± 10% c0603 yes top c1608x5r1a106k080ac fec 2211164
-c91 0.1 uf ± 10% c0402 yes top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
-c1 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c2 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c3 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c4 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c5 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c6 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c7 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c8 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c9 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c10 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c11 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c12 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c13 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c14 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c15 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c16 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c17 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c18 cap 1nf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
-c19 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c20 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c21 cap 1nf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
-c22 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c23 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c24 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c25 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c26 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c27 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c28 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c29 cap 10 uf 0.2 c0805 yes sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
-c30 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c31 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c32 cap 10 uf 0.2 c0805 yes sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
-c33 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c34 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c35 cap 330nf ± 10% c0603 yes sig top l1 cap 33 uf 10v ceramic x5r 0603 ecj 1vb1a334k pcc2274tr nd
-c36 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c37 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c38 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c39 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c40 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c41 cap 33nf ± 10% c0603 yes sig top l1 cap 33nf 25v cerm x7r 0603 ecj 1vb1e333k pcc1769tr nd
-c42 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c43 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c44 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c45 cap 8.2 pf c0402 yes sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
-c46 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c47 cap 8.2 pf c0402 yes sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
-c48 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c49 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c50 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c51 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c52 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c54 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c55 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c56 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c57 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c58 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c59 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c60 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c61 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c62 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c63 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c64 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c65 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c66 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c67 cap 10nf 0.1 c0402 yes sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c68 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c69 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c70 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c72 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c73 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c74 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c75 cap 1 uf 0.1 c0402 yes sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c78 cap 1 uf 0.1 c0402 yes sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
-c83 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c100 cap 10nf 0.1 c0402 yes sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
-c101 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c102 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c103 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c104 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c106 cap 0.1 uf 0.1 c0402 yes sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
-c107 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c108 cap 0.1 uf 0.1 c0402 yes sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
-c43 c1 c3 c11 c13 c15 c17 c19 c21 c26 c27 c32 c34 c36 c38 c39 100nf 0805 cap cer 1 uf 50v x7r 0805 002002 yes yes grm219r71c104ka01d
-c2 220pf 0805 cap 220pf 50v cerm chip 0805 smd 0.0663 yes yes grm2165c1h221ja01d
-c4 c6 c7 22pf 0805 cap 22pf 100v cerm chip 0805 smd 0.1229 yes yes grm2195c2a220jz01d
-c5 2.2 nf 0805 cap 2.2 nf 50v cerm chip 0805 smd 0.0956 yes yes grm2165c1h222ja01d
-c8 c9 c10 220nf 0805 cap 22 uf 16v ceramic x7r 0805 00473 yes yes ecj 2vb1c224k
-c22 c25 c28 c31 c41 c42 47pf 0805 cap 47pf 50v cerm chip 0805 smd 0.0332 yes yes ecj 2vc1h470j
-c23 c30 33pf 0805 cap cer 33pf 100v 5% c0g 0805 0.1151 yes yes grm2195c2a330jz01d
-c24 c29 47nf 0805 cap cer 47000pf 50v 10% x7r 0805 0.0884 yes yes grm21br71h473ka01l
-c40 4.7 nf 0805 cap 4700pf 50v cerm chip 0805 0.0248 yes yes ecj 2vb1h472k
+c1 100nf 603 top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
+c3 10nf 603 top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c4 100nf 805 top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c5 10nf 603 top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c6 100nf 805 top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c7 100nf 603 top cap mlcc x7r 100nf 16v 0603 multilayer ceramic capacitor phycomp cc0603krx7r7bb104 fec 432210
+c8 10 uf ± 10% 805 top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
+c9 10 uf ± 10% 805 top 08056c106kat2a cap mlcc x7r 10 uf 6.3 v 0805 08056c106kat2a fec 1657936
+c11 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c12 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c13 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c14 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c15 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c16 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c17 100nf 805 top cap mlcc y5v 100nf 16v 0805 multilayer ceramic capacitor multicomp mc0805f104z160ct fec 1759144
+c18 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c19 10nf 603 top cap mlcc x7r 10nf 16v 0603 multilayer ceramic capacitor 0603yc103kat2a fec 2280661
+c21 10 uf ± 10% c0603 top c1608x5r1a106k080ac fec 2211164
+c22 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c23 10 uf ± 10% c0603 top c1608x5r1a106k080ac fec 2211164
+c24 10 uf ± 10% c0603 top c1608x5r1a106k080ac fec 2211164
+c91 0.1 uf ± 10% c0402 top multicomp mc0402b104k160ct multilayer ceramic capacitor mc series 0.1 µ f ± 10% x7r 16 v 0402 1005 metric multicomp mc0402b104k160ct fec 1758896
+c1 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c2 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c3 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c4 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c5 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c6 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c7 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c8 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c9 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c10 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c11 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c12 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c13 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c14 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c15 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c16 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c17 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c18 cap 1nf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
+c19 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c20 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c21 cap 1nf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c102k3ractu 399 1031 1 nd
+c22 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c23 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c24 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c25 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c26 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c27 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c28 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c29 cap 10 uf 0.2 c0805 sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
+c30 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c31 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c32 cap 10 uf 0.2 c0805 sig bottom l8 smd capacitor taiyo yuden jmk212f106zg t 587 1314 1 nd
+c33 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c34 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c35 cap 330nf ± 10% c0603 sig top l1 cap 33 uf 10v ceramic x5r 0603 ecj 1vb1a334k pcc2274tr nd
+c36 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c37 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c38 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c39 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c40 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c41 cap 33nf ± 10% c0603 sig top l1 cap 33nf 25v cerm x7r 0603 ecj 1vb1e333k pcc1769tr nd
+c42 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c43 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c44 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c45 cap 8.2 pf c0402 sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
+c46 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c47 cap 8.2 pf c0402 sig bottom l8 smd capacitor taiyo yuden umk105cg8r2dv f 587 1946 1 nd
+c48 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c49 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c50 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c51 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c52 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c54 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c55 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c56 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c57 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c58 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c59 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c60 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c61 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c62 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c63 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c64 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c65 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c66 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c67 cap 10nf 0.1 c0402 sig bottom l8 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c68 cap 10nf 0.1 c0402 sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c69 cap 10nf 0.1 c0402 sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c70 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c72 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c73 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c74 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c75 cap 1 uf 0.1 c0402 sig top l1 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c78 cap 1 uf 0.1 c0402 sig bottom l8 smd capacitor kemet c0402c105k9pactu 399 4873 1 nd
+c83 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c100 cap 10nf 0.1 c0402 sig top l1 smd capacitor taiyo yuden tmk105b7103kv f 587 1223 1 nd
+c101 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c102 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c103 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c104 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c106 cap 0.1 uf 0.1 c0402 sig top l1 smd capacitor b37921c9104k60 495 3265 1 nd
+c107 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c108 cap 0.1 uf 0.1 c0402 sig bottom l8 smd capacitor b37921c9104k60 495 3265 1 nd
+c43 c1 c3 c11 c13 c15 c17 c19 c21 c26 c27 c32 c34 c36 c38 c39 100nf 0805 cap cer 1 uf 50v x7r 0805 002002 grm219r71c104ka01d
+c2 220pf 0805 cap 220pf 50v cerm chip 0805 smd 0.0663 grm2165c1h221ja01d
+c4 c6 c7 22pf 0805 cap 22pf 100v cerm chip 0805 smd 0.1229 grm2195c2a220jz01d
+c5 2.2 nf 0805 cap 2.2 nf 50v cerm chip 0805 smd 0.0956 grm2165c1h222ja01d
+c8 c9 c10 220nf 0805 cap 22 uf 16v ceramic x7r 0805 00473 ecj 2vb1c224k
+c22 c25 c28 c31 c41 c42 47pf 0805 cap 47pf 50v cerm chip 0805 smd 0.0332 ecj 2vc1h470j
+c23 c30 33pf 0805 cap cer 33pf 100v 5% c0g 0805 0.1151 grm2195c2a330jz01d
+c24 c29 47nf 0805 cap cer 47000pf 50v 10% x7r 0805 0.0884 grm21br71h473ka01l
+c40 4.7 nf 0805 cap 4700pf 50v cerm chip 0805 0.0248 ecj 2vb1h472k
 片状 陶瓷 电容 cap cer c0g 33pf 5% 50v 0402 0.5 mm cc0402jrnpo9bn330 6 c4 c5 c6 c9 c104 c105 33pf
 cap cer c0g 33pf 5% 50v 0402 0.5 mm c0402c0g330j500n eyang
 片状 陶瓷 电容 cap cer c0g 100pf 5% 50v 0402 0.5 mm cc0402jrnp09bn101 2 c3 c103 100pf
@@ -1575,3 +1575,252 @@ cap cer x5r 10 uf 20% 6.3 v 0402 0.5 mm cc0402mrx5r5bb106
 片状 陶瓷 电容 电容 0603 10 uf 20% x5r 25v c0603x5r106m250ntk eyang 2 c18 c17 10 uf 0603
 片状 陶瓷 电容 cap cer x5r 22 uf 20% 6.3 v 0603 0.8 mm c0603x5r226m6r3nrk eyang 1 c19 22 uf 0603
 cap cer x5r 22 uf 20% 6.3 v 0603 0.8 mm cc0603mrx5r5bb226
+c11 c11a c12 c12a c13 c13a c14 c14a c15 c15a c21 c22a c22 c22b c22c c22d c22e c23 c24a c24 c24b c24c c24e c25a c25 c25b c25c c25d c25e grm21br61e226me44l 805 cap 25v 22 uf 0805
+c21c c21d c21e c21h c21j c23c c23d c23e c23h c23j grm21br60j476me15 805 cap 63 v 47 uf 0805
+c21f c22f c23f c24f c25f grm185r61c105ke44d 603 cap 16v 1 uf 0603
+c11b c21g c12b c22g c13b c23g c14b c24g c15b c25g grm155r61c104ka88d 402 cap 16v 01 uf 0402
+c103 grm155r70j105ka12d 402 cap 63 v 1 uf 0402
+c43 grm155r71c103ka01d 402 cap 16v 10nf 0402
+c33 grm155r71e472ka01d 402 cap 25v 47 nf 0402
+c53 grm155r61c273ka01d 402 cap 16v 27nf 0402
+c3225c0g1h473j corporation cap cer 47000pf 0.047 uf 50v c0g 5% 1210 1210 1
+c0805c104k4ractu kemet cap 10 uf 16v ceramic x7r 0805 805 32
+c0402c220j5gactu kemet cap ceramic 22pf 50v np0 0402 402 2
+c0402c330j5gactu kemet cap ceramic 33pf 50v np0 0402 402 2
+22252c334kat1a corporation cap cerm 33 uf 200v x7r 2225 2225 2
+cc1 cc2 cc3 150p grm1555c1h151j t 0402 0.05 50v c0g
+cm2 5.6 p grm1555c1h5r6c t 0402 0.25 p 50v c0g
+cm3 cm4 9.1 p grm1555c1h9r1d t 0402 0.5 p 50v c0g
+cr1 3.9 p grm1555c1h3r9c t 0402 0.25 p 50v c0g
+cr2 2.2 p grm1555c1h2r2b t 0402 0.1 p 50v c0g
+c0 3.9 p grm1555c1h3r9b t 0402 0.1 p 50v c0g
+c1 33p grm155 t 0402 0.05 50v c0g
+c2 100p grm155 t 0402 0.05 50v c0g
+c3 c7 c62 c63 c64 c67 c75 c76 c77 c78 c79 100n grm155 t 0402 0.1 10v x5r
+c4 2.2 u grm155 t 0402 0.2 4v x5r
+c5 c6 10u grm21 t 0805 x5r nm
+c55 c80 1u grm155 t 0402 0.1 6.3 v x5r
+c61 c72 10u grm188 t 0603 0.2 6.3 v x5r
+c65 c66 10n grm155 t 0402 0.1 25v x5r
+c68 c69 22p grm155 t 0402 0.05 50v c0g
+c73 c74 10p grm155 t 0402 0.05 50v c0g
+c82 4.7 u grm155 t 0402 0.1 6.3 v x5r
+lc 220n 0402hph r22xjl t 0402 0.05
+lm2 lm 27n 0402hp 27nxjl t 0402 0.05
+lm1 l0 24n 0402hp 24nxjl t 0402 0.05
+lm3 15n 0402hp 15nxjl t 0402 0.05
+lr1 51n 0402hp 51nxjl t 0402 0.05
+lr2 47n 0402hp 47nxjl t 0402 0.05
+c11 10 uf 80% 20% 4v 0805 ceramic capacitor grm219r60j106ke19d
+c6 4.7 uf 80% 20% 6.3 v 0603 ceramic capacitor grm188f50j475ze20d
+c7 1 uf 80% 20% 6.3 v 0603 ceramic capacitor grm188r60j105ka01d
+c4 c8 c12 c17 c21 c23 c28 c31 c34 c37 0.1 uf 80% 20% 16v 0603 ceramic capacitor c0603c104z3vactu
+c9 c13 c15 c18 c22 c24 c29 c32 c35 c38 0.01 uf 80% 20% 16v 0603 ceramic capacitor c0603c103j5rac7411
+c16 c20 6.8 nf 10% 16v 0603 ceramic capacitor c0603c682k5ractu
+c26 c27 27pf 5% 16v 0603 np0 c0g ceramic capacitor c0603c270j5gactu
+047u c712c713 grm188r71e473ka01d cap cer 47000pf 25v 10% x7r 0603
+001 uf c108c203c204c205c206c211c212c407c408c409c410c411c412c703c710 160r14w103kv4t johanson dielectrics inc cap cer 01 uf 16v x7r 0603
+1 uf c201c202c210c213c301c302c303c304c305c306c307c308c309c310c311c312c313c314c315c316c317c318c319c320c321c322c323c324c325c326c327c328c329c330c331c332c333c334c335c336c337c338c339c340c341c342c343c344c345c346c347c348c349c350c351c352c353c354c401c402c403c404c405c406c419c702c704c705c706c707c708c709c711c714 lmk107b7105ka t taiyo yuden cap cer 1.0 uf 10v x7r 0603
+470pf c413c414c415c416c417c418c101c104 grm188r72a471ka01d cap cer 470pf 100v 10% x7r 0603
+220nf x7r 10pc 6v3 jmk105b7224kv f multi layer ceramic capacitor
+100nf c0402 cap cer 0402 100nf 10v 10% x7r cl05b104kp5nnnc c6 c8 c19 c25 c41 c56 c64 c67 c92 c96 c98 c100
+10nf esl c0402 chip cap 10nf 25v 0402 x7r 0402x103k250snt c68 c69 c70 c71 c72 c73 c74 c75 c84 c85 c86 c87 c88 c89 c90 c91
+1 uf c0402 cap cer 0402 1 uf 10v 10% x5r cl05a105kp5nnnc c40 c42 c53 c65 c93
+560pf c0402 cap cer 560pf 50v 10% x7r 0402 grm155r71h561ka01d c35 c104
+470pf c0402 cap cer 470pf 50v 10% x7r 0402 grm155r71h471ka01d c23
+100nf esl c0402 cap cer 100nf 16v 10% x7r 0402 0402x104k250snt c44 c45 c46 c47
+3.3 nf c0402 cap cer 3.3 nf 16v 10% x5r 0402 cgj2b2x7r1c332k050ba c38 c103
+100nf 50v c0402 cap cer 0.1 uf 50v 10% x7r 0402 grm155r71h104ke14d c26 c28 c107
+22 uf c0603 cap cer 22 uf 6.3 v 20% x5r 0603 grm21br60j226me39l c36 c37 c81 c82 c83 c101 c102 c29 c30 c31 c32
+1 uf 16v c0603 1 uf 16v 0603 c63 c99
+10 uf c0805 c0805 cap cer 0805 10 uf 25v x5r grm21br61e106ka73l c27
+47 uf c1206 cap cer 1206 47 uf 6.3 v 20% x5r grm31cr60j476me19l c54 c55
+22 uf c1210 c1210 cap cer 22 uf 50v 20% x5r 1210 cl32b226kbjnnwe c18 c22
+10 uf c1210 c1210 chip cap 1210 10 uf 50v 20% x5r grm32er60j106me20l c33 c34 c76 c77 c78 c79 c105 c106
+c5v1 2 4 7 17 18 19 20 26 29 31 32 generic capacitor 0.01 uf 1206 12
+c1 01 c5v3 5 6 8 16 21 25 27 28 30 generic capacitor 0.1 uf 1206 34
+c5 6 7 8 generic capacitor 2 uf 1206 4
+c2 c4 c6 c13 14 c16 c19 20 c23 24 c27 28 cap0603 0.1 uf 0.1 uf c0603 cap cer 0.1 uf 25v 10% x7r 0603 corporation c1608x7r1e104k080aa 445 1316 1 nd
+c29 cap0603 150pf 150pf c0603 cap cer 150pf 50v 10% x7r 0603 corporation grm188r71h102ka01d 490 1494 1 nd
+c1 c3 c5 c7 c9 c11 12 c15 c17 18 c21 22 c25 26 c30 cap0603 10 uf 10 uf c0603 cap cer 10 uf 6.3 v 10% x5r 0603 corporation c1608x5r0j106k080ab 445 7492 1 nd
+c32 39 cap0402 2nf 2nf c0402
+c8 c10 c32 cap1206 100 uf 100 uf c1206 cap cer 100 uf 6.3 v y5v 1206 corporation grm31cf50j107ze01l 490 4512 1 nd
+c2 c4 c6 c13 14 c16 c19 20 c23 24 c27 28 cap0603 0.1 uf 0.1 uf c0603 cap cer 0.1 uf 25v 10% x7r 0603 corporation c1608x7r1e104k080aa 445 1316 1 nd
+c29 cap0603 150pf 150pf c0603 cap cer 150pf 50v 5% np0 0603 corporation c1608c0g1h151j080aa 445 1283 1 nd
+c1 c3 c5 c7 c9 c11 12 c15 c17 18 c21 22 c25 26 c30 cap0603 10 uf 10 uf c0603 cap cer 10 uf 6.3 v 10% x5r 0603 corporation c1608x5r0j106k080ab 445 7492 1 nd
+c32 39 cap0402 2nf 2nf c0402 cap cer 2000pf 25v 5% np0 0402 kemet c0402c202j3gac7867 399 9950 2 nd
+c8 c10 c31 cap1206 100 uf 100 uf c1206 cap cer 100 uf 6.3 v y5v 1206 corporation grm31cf50j107ze01l 490 4512 1 nd
+c1 c37 c38 c39 cap x5r 4.7 uf 20% 6.3 v 0402 grm155r60j475me47d cl05a475mq5nqnc digi key 490 5915 1 nd 0.0275 digi key 1276 1483 1 nd 0.0275
+c2 c13 cap c0g 100pf 5% 50v 0402 cc0402jrnpo9bn101 cl05c101jb5nnnc digi key 311 1024 1 nd 0.00324 0.0032 digi key 1276 1025 1 nd 0.00324 0.0032
+c3 cap x5r 2.2 uf 20% 6.3 v 0402 taiyo yuden jmk105bj225mv f c1005x5r0j225mt 963 jmk105bj225mv f 0.042 810 c1005x5r0j225m 0.06
+c4 c5 cap c0g 18pf 5% 50v 0402 cc0402jrnpo9bn180 taiyo yuden umk105cg180jv f digi key 311 1415 1 nd 0.00324 digi key 587 1950 1 nd 0.0054
+c7 c8 cap c0g 15pf 5% 50v 0402 cl05c150jb5nnnc digi key 1276 1179 1 nd 0.00324
+c9 cap x7r 22 uf 10% 100v 1210 taiyo yuden hmk325b7225kn t digi key 587 1778 1 nd 192
+c10 cap x7r 4700pf 10% 50v 0402 cc0402krx7r9bb472 cl05b472kb5nnnc digi key 311 1418 1 nd 0.00363 digi key 1276 1125 1 nd 0.00363
+c11 c12 cap x7r 1500pf 10% 50v 0402 cc0402krx7r9bb152 cl05b152kb5nnwc digi key 311 1032 1 nd 0.00432 digi key 1276 1522 1 nd 0.00432
+c14 cap x7r 01 uf 10% 100v 0805 cl21b104kcfnnne gcm21br72a104ka37l digi key 1276 6840 1 nd 0148 digi key 490 4789 1 nd 0275
+c15 c16 c122 c123 cap x5r 22 uf 20% 10v 0805 c2012x5r1a226m125ab cl21a226mpqnnne digi key 445 7665 1 nd 0.1495 digi key 1276 2910 1 nd 0.1495
+c17 c21 cap x7r 0.01 uf 10% 16v 0402 cc0402krx7r7bb103 0402yc103kat2a digi key 311 1042 1 nd 0.0031 digi key 478 1114 1 nd 0.0036
+c18 cap c0g 1pf ± 0.5 pf 50v hi q microwave 0402 gjm1555c1h1r0bb01d gjm1555c1h1r0bb01j digi key 490 6073 1 nd 0.0377 digi key 490 8083 1 nd 0.0377
+c19 c22 c29 c44 cap x5r 4.7 uf 10% 6.3 v 0603 taiyo yuden jmk107bj475ka t cc0603krx5r5bb475 digi key 587 1785 1 nd 0.02475 digi key 311 1521 1 nd 0.02899
+c20 c32 c46 cap x5r 1.0 uf 10% 6.3 v 0402 grm155r60j105ke19d cl05a105kq5nnnc digi key 490 1320 1 nd 0.0087 digi key 1276 1010 1 nd 0.009
+c23 c24 c25 c26 c27 c28 c30 c34 c41 c42 c43 c45 c47 c330 cap x5r 0.1 uf 10% 10v 0402 cl05a104kp5nnnc digi key 1276 1022 1 nd 0.0026
+c31 c58 c59 cap x7r 8.2 nf 10% 50v 0402 cl05b822kb5nnnc digi key 1276 1591 1 nd 0.006
+c33 c35 c331 cap x5r 10 uf 10% 16v 0805 cl21a106koqnnne taiyo yuden emk212bj106kg t digi key 1276 1096 1 nd 0.0385 digi key 587 1295 1 nd 0.05355
+c57 cap x7r 0.022 uf 10% 16v 0402 taiyo yuden emk105b7223kv f cc0402krx7r7bb223 digi key 587 1224 1 nd 0.0036 digi key 311 1378 1 nd 0.0051
+c1 c5 c6 c30 c63 c64 c67 cap x5r 10 uf 10% 16v 0805 cl21a106koqnnne taiyo yuden emk212bj106kg t digi key 1276 1096 1 nd 0.0385 digi key 587 1295 1 nd 0.0536
+c2 c25 c26 c27 cap x5r 22 uf 20% 16v 0805 c2012x5r1c226m digi key 445 7647 1 nd 0.225
+c3 cap x7r 0.047 uf 10% 100v 0402 taiyo yuden tmk105b7473kv f digi key 587 2240 1 nd 0.0052
+c4 c12 c15 c17 c18 c23 cap x5r 1.0 uf 10% 6.3 v 0402 grm155r60j105ke19d cl05a105kq5nnnc digi key 490 1320 1 nd 0.0087 digi key 1276 1010 1 nd 0.009
+c7 c8 c9 c14 c16 c21 c22 c24 c31 c36 c37 c38 c39 c40 c41 c42 c43 c47 c49 c50 c52 c54 c55 c70 c71 c72 cap x5r 0.1 uf 10% 6.3 v 0402 c1005x5r0j104k grm155r60j104ka01d digi key 445 1266 1 nd 0.0066 81 grm155r60j104ka1d 0.007
+c10 c11 cap c0g 2pf ± 0.25 pf 50v 0402 cl05c020cb5nnnc digi key 1276 1270 1 nd 0.0053
+c13 c29 cap x5r 2.2 uf 10% 6.3 v 0402 c1005x5r0j225k c1005x5r0j225k digi key 445 6847 1 nd 0.0587 810 c1005x5r0j225k 0.065
+c19 cap x5r 4.7 uf 10% 16v 0603 c1608x5r1c475k080ac digi key 445 7478 1 nd 0.0648
+c20 cap x7r 0.01 uf 10% 50v 0402 cl05b103kb5nnnc cc0402krx7r9bb103 digi key 1276 1028 1 nd 0.0031 digi key 311 1349 1 nd 0.0031
+c28 cap x7r 0.1 uf 10% 16v 0402 cl05b104ko5nnnc taiyo yuden emk105b7104kv f digi key 1276 1001 1 nd 0.0039 digi key 587 1451 1 nd 0.0045
+c32 c33 c45 c46 c51 c53 cap c0g 10pf 0.25 pf 50v 0402 cl05c100cb5ncnc c1005c0g1h100ct digi key 1276 1622 1 nd 0.0043 810 c1005c0g1h100c 0.007
+c34 cap c0g 100pf 5% 25v 0402 c1005c0g1e101j digi key 445 6845 1 nd 0.006
+c35 cap x5r 0.47 uf 10% 16v 0402 grm155r61c474ke01d digi key 490 13421 1 nd 0.0156
+c44 c59 c60 c61 cap x5r 4.7 uf 20% 6.3 v 0402 grm155r60j475me47d cl05a475mq5nqnc digi key 490 5915 1 nd 0.0275 digi key 1276 1483 1 nd 0.0275
+c48 c58 cap c0g 33pf 2% 50v 0402 grm1555c1h330ga01d digi key 490 6232 1 nd 0.0108
+c56 c57 c68 c69 cap x5r 47 uf 20% 10v 0805 grm21br61a476me15l digi key 490 9961 1 nd 0.2475
+c62 cap x7r 3300pf 10% 50v 0402 cl05b332kb5nnnc cc0402krx7r9bb332 digi key 1276 1552 1 nd 0.0043 digi key 311 1034 1 nd 0.0043
+c65 c66 cap c0g 12pf 5% 50v 0402 cc0402jrnpo9bn120 grm1555c1h120jz01d digi key 311 1016 1 nd 0.0032 digi key 490 1279 1 nd 0.0053
+c73 cap c0g 1pf ± 0.5 pf 50v hi q microwave 0402 gjm1555c1h1r0bb01d gjm1555c1h1r0bb01j digi key 490 6073 1 nd 0.0377 digi key 490 8083 1 nd 0.0377
+c74 cap x7r 0.01 uf 10% 16v 0402 cc0402krx7r7bb103 0402yc103kat2a digi key 311 1042 1 nd 0.0031 digi key 478 1114 1 nd 0.0036
+c75 cap c0g np0 0.3 pf ± 0.1 pf 50v 0402 gjm1555c1hr30bb01 digi key gjm1555c1hr30bb01d 0.0319
+1 uf c13 c10 c12 0805 3 tcc0805x7r105k250dts cctc lcsc c344171
+c2012c0g1h221j 220pf capacitor c3
+c1005x7r1h153m 15nf capacitor c4
+c1608x7r1c104k corporation 100nf capacitor c6
+c1005x7r1e222m 2.2 nf capacitor c7
+c1608x7r1c104k corporation 100nf capacitor cin1
+grm31cr71c106kac7 10 uf capacitor cin2
+c1608x7r1c104k corporation 100nf capacitor co1
+grm31cr70j226ke19 22 uf capacitor co2
+c1608x7r1c104k corporation 100nf capacitor css
+c1608x7r1c104k corporation 100nf capacitor cvcc
+32 0.01 uf 25v x7r 10% c0402c103k3rac kemet 4000 10000 reel
+33 100kpf 16v 5% 0402 cc0402jrx7r7bb104 6000 10000 reel
+34 0.1 uf 25v 0603 5% 06033c104jat2a 8000 4000 reel
+35 1kpf 50v 10% 0603 c0603c102k5rac7867 kemet 8000 4000 reel
+36 33nf 50v 5% 0603 0603b333k500nt hitano 4000 4000 reel
+37 0603 100pf npo 50v 5% cc0603jrnpo9bn101 4000 4000 reel
+38 0603 220pf npo 50v 5% cc0603jrnpo9bn221 12000 4000 reel
+39 0603 150pf npo 50v 10% cc0603jrnpo9bn151 8000 4000 reel
+40 0603 1kpf x7r 50v 10% cc0603krx7r9bb102 80000 4000 reel
+41 0603 10kpf x7r 50v 10% cc0603krx7r9bb103 4000 4000 reel
+42 0603 100kpf x7r 50v 10% cc0603krx7r9bb104 4000 4000 reel
+43 0603 1 uf 10v y5v 20% cc0603zry5v6bb105 4000 4000 reel
+44 0603 220nf x7r 10v 10% cc0603krx7r6bb224 4000 4000 reel
+45 0603 0.47 uf x7r 16v 10% cc0603krx7r7bb474 8000 4000 reel
+46 0805 100kpf 50v 5% 08055c104jat2a 24000 4000 reel
+47 0805 33pf 50v 5% 08055a330jat2a 8000 4000 reel
+48 0805 4.7 nf 50v 5% 08055c472jat2a 8000 4000 reel
+49 0805 56pf 50v 5% 08055a560jat2a 12000 4000 reel
+50 0805 10kpf x7r 50v 10% 08055c103kat2a 48000 4000 reel
+51 0805 100kpf x7r 50v 10% 08055c104kat2a 8000 4000 reel
+52 0805 15kpf 50v 10% 08055c153kat2a 20000 4000 reel
+53 0805 3.3 nf 10% 08055c332kat2a 28000 4000 reel
+55 0805 10kpf x7r 100v 5% cc0805jrx7r0bb103 12000 4000 reel
+56 0805 100kpf x7r 50v 5% cc0805jrx7r9bb104 8000 4000 reel
+57 0805 120pf x7r 50v 5% cc0805jrnpo9bn121 20000 4000 reel
+58 0805 15pf npo 50v 5% cc0805jrnpo9bn150 4000 4000 reel
+59 0805 150pf npo 50v 5% cc0805jrnpo9bn151 16000 4000 reel
+60 0805 22pf npo 50v 5% cc0805jrnpo9bn220 12000 4000 reel
+61 0805 820pf npo 50v 5% cc0805jrnpo9bn821 16000 4000 reel
+62 0805 1kpf x7r 50v 10% cc0805krx7r9bb102 40000 4000 reel
+63 0805 10kpf x7r 50v 10% cc0805krx7r9bb103 80000 4000 reel
+64 0805 100kpf x7r 25v 10% cc0805krx7r8bb104 12000 4000 reel
+65 0805 100kpf x7r 50v 10% cc0805krx7r9bb104 80000 4000 reel
+66 0805 100nf x7r 100v 10% cc0805kkx7r0bb104 9000 3000 reel
+67 0805 220kpf x7r 50v 10% cc0805kkx7r9bb224 3000 3000 reel
+68 0805 3.3 nf x7r 50v 10% cc0805krx7r9bb332 60000 4000 reel
+70 1206 1kpf 100v 10% 12061c102kat2a 68000 4000 reel
+71 1206 1pf npo 50v 0.25% cc1206crnpo9bn1r0 12000 4000 reel
+72 1206 6.8 pf npo 50v 0.25% cc1206drnpo9bn6r8 8000 4000 reel
+73 1206 150pf npo 50v 5% cc1206jrnpo9bn151 20000 4000 reel
+74 1206 18pf npo 50v 5% cc1206jrnpo9bn180 20000 4000 reel
+75 1206 22pf npo 50v 5% cc1206jrnpo9bn220 56000 4000 reel
+76 1206 2.2 nf x7r 50v 10% cc1206jrx7r9bb222 4000 4000 reel
+77 1206 47pf npo 50v 5% cc1206jrnpo9bn470 20000 4000 reel
+78 1206 470pf npo 50v 5% cc1206jrnpo9bn471 16000 4000 reel
+79 1206 56pf npo 50v 5% cc1206jrnpo9bn560 20000 4000 reel
+80 1206 680pf npo 50v 5% cc1206jrnpo9bn681 24000 4000 reel
+81 1206 1kpf x7r 50v 10% cc1206krx7r9bb102 80000 4000 reel
+82 1206 10kpf 0.01 mfd x7r 50v 10% cc1206krx7r9bb103 80000 4000 reel
+83 1206 10kpf 10nf x7r 100v 10% cc1206krx7r0bb103 48000 4000 reel
+84 1206 100kpf x7r 50v 10% cc1206krx7r9bb104 80000 4000 reel
+85 1206 1mfd x7r 50v 10% cc1206kkx7r9bb105 4000 2000 reel
+86 1206 2.2 nf 0.0022 mf x7r 50v 10% cc1206krx7r9bb222 12000 4000 reel
+88 1206 47kpf x7r 50v 10% cc1206krx7r9bb473 44000 4000 reel
+89 0805 2.2 nf x7r 50v 10% 0805b222k500ct 20000 4000 reel
+90 0805 1 uf x7r 16v 10% 0805b105k160ct 21000 3000 reel
+10pf c1 c2 c28 c29 805 478 1304 1 nd
+100nf c4 c7 c11 c14 c15 c19 805 399 5333 1 nd
+10nf c6 c10 c53 805 490 1652 1 nd
+200pf c12 805 490 1606 1 nd
+20pf c13 trimmer sprague sg2020ct nd
+15pf c22 805 478 1306 1 nd
+100nf c39 805 kemet 399 5333 1 nd
+1nf c72 805 445 1330 1 nd
+47pf c228 c229 805 478 1310 6 nd
+100pf c75 c87 c105 805 kemet 399 1122 1 nd
+2.2 uf c88 805 taiyo yuden 587 2991 2 nd
+330nf c149 805 490 1677 1 nd
+47nf c150 805 478 1391 1 nd
+1 uf c178 c181 805 445 1354 2 nd
+47 uf c185 805 445 1357 1 nd
+10 uf c184 186 194 195 805 445 1371 1 nd
+470pf c191 805 490 1617 1 nd
+680pf c187 805 490 1619 1 nd
+470nf c196 805 490 3346 1 nd
+1 100nf 20% keramik c 1206 c1 s 2 g
+2 100nf 20% keramik c 1206 c2 s 2 g
+3 100nf 20% keramik c 1206 c3 ls s 2 g
+cap ceramic x7r 20% 1 uf jameco 81509 0.35 ceramic0.2 cabinet
+cap ceramic z5u 20 80% 0.47 uf kemet c320c474m5u5ta 399 4309 nd 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 0.1 uf 399 4151 nd 0.045 ceramic cabinet
+cap ceramic z5u 20 80% 0.033 uf 399 4298 nd 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 0.027 uf 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 0.01 uf 399 4188 nd 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 4.7 nf 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 2.2 nf 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 1 nf 0.4 ceramic cabinet
+cap ceramic z5u 20 80% 470 pf 0.032 ceramic cabinet
+cap ceramic z5u 20 80% 330 pf 0.032 ceramic cabinet
+cap ceramic z5u 20 80% 220 pf 0.032 ceramic cabinet
+cap ceramic z5u 20 80% 100 pf 0.032 ceramic cabinet
+cap ceramic z5u 20 80% 22 pf jameco 15405 0.032 ceramic cabinet
+cap ceramic c0g 10% 10 pf 50v 5% rde5c1h100j0p1h03b 490 8629 nd 0.31 ceramic cabinet
+c11 c5 ceramic mlcc 4n7 2 81 rhel81h472k1k1a3b cap 4n7 lead spacg 5mm 0.2
+c2 c13 c6 c7 c4 c10 c8 c9 c24 c17 c18 c23 c14 c12 c12 c5 c6 c7 c8 c9 c10 c11 c1 c2 c3 c4 ceramic mlcc 100n 22 81 rhel81h104k1k1a3b cap 100n lead spacg 5mm 0.2
+c1005x7r1c104k cap smd 0.1 uf 10% 16v 0402 cap 0.1 uf 10% 0402 16v 0.1 uf 16v c0402
+grm155r71e103ka01d cap smd mlc 0402 10000pf 10% 25v cer 10000pf 25v 10% x7r 0402 001 uf 25v c0402
+cc0402jrnpo9bn180 cap smd 18pf 5% 50v 0402 cap 18pf 5% 0402 18pf 50v c0402
+lmk212bj106kd t cap smd mlc 0805 10 uf 10% 10v x5r cap 10 uf 10v 10% 0805 10 uf 10v c0805
+grm155r61a105ke15d cap smd mlc 0402 1 uf 10% 10v cer 1 uf 10v 10% 0402 1 uf 10v c0402
+c0402c270j5gactu cap cer 27pf 50v 5% 0402 cap cer 27pf 50v 5% npo 0402 27pf 50v c0402
+lmk107bj475ka t cap cer 4.7 uf 10v 10% 0603 x5r cap cer 4.7 uf 10v 10% 0603 x5r 4.7 uf 10v c0603
+cc0402jrnpo9bn470 cap smd 47pf 5% 50v 0402 cap 47pf 5% 0402 47pf 50v c0402
+umk105b7471kv f cap smd 470pf 10% 50v 0402 cap 470pf 10% 0402 470pf 50v c0402
+lmk107bj475ka t c1 c6 c8 c11 c15 c16 c19 c21 c23 c24 c45 c47 c48 c49 c51 c81 c94 c102 c112 cap cer 4.7 uf 10v 10% 0603 x5r cap cer 4.7 uf 10v 10% 0603 x5r 587 1441 1 nd 4.7 uf 10v c0603
+lmk105bj225mv f c2 c4 c28 c29 c30 cap smd mlc 0402 2.2 uf 20% 10v cer 2.2 uf 10v 20% 0402 587 3153 1 nd 2.2 uf 10v c0402
+grm155r61a105ke15d c3 c5 c10 c33 c34 c60 c63 c72 c90 c118 cap smd mlc 0402 1 uf 10% 10v cer 1 uf 10v 10% 0402 490 3890 1 nd 1 uf 10v c0402
+c1005x7r1c104k c7 c9 c12 c20 c22 c25 c26 c27 c31 c32 c35 c37 c38 c40 c44 c50 c55 c56 c57 c61 c66 c68 c71 c73 c74 c75 c78 c80 c84 c85 c86 c87 c89 c93 c95 c99 c100 c105 c108 c111 c113 c114 c119 c120 cap smd 0.1 uf 10% 16v 0402 cap 0.1 uf 10% 0402 16v 445 4952 1 nd 0.1 uf 16v c0402
+grm1885c1h221ja01d c17 c18 cap smd 220pf npo 5% 50v 0603 cap 220pf 5% 0603 490 1435 1 nd 220pf 50v c0603
+c0402c270j5gactu c36 c54 c69 c70 c96 c97 cap cer 27pf 50v 5% 0402 cap cer 27pf 50v 5% npo 0402 399 1016 1 nd 27pf 50v c0402
+cc0402jrnpo9bn180 c39 c41 c42 c43 c109 c110 cap smd 18pf 5% 50v 0402 cap 18pf 5% 0402 311 1415 1 nd 18pf 50v c0402
+grm188r61e105ka12d c46 cap smd 1 uf x5r 10% 25v 0603 cap 1 uf 10% 25v 0603 digital 490 3897 1 nd 1 uf 25v c0603
+lmk212bj106kd t c52 c53 c58 c64 c82 c83 c88 cap smd mlc 0805 10 uf 10% 10v x5r cap 10 uf 10v 10% 0805 587 1299 1 nd 10 uf 10v c0805
+umk105b7471kv f c59 cap smd 470pf 10% 50v 0402 cap 470pf 10% 0402 587 1219 1 nd 470pf 50v c0402
+grm155r71e103ka01d c62 c65 c67 c79 c91 c92 c98 c101 c103 c104 c106 c107 c115 c116 c117 c121 c122 c123 c124 c125 cap smd mlc 0402 10000pf 10% 25v cer 10000pf 25v 10% x7r 0402 490 1312 1 nd 001 uf 25v c0402
+cc0402jrnpo9bn470 c76 c77 cap smd 47pf 5% 50v 0402 cap 47pf 5% 0402 311 1021 1 nd 47pf 50v c0402
+c1005c0g1h221j c13 c14 cap smd 220pf npo 5% 50v 0402 cap 220pf 5% 0402 445 1251 1 nd 220pf 50v c0402
+c1005x7r1c104k c1 c8 c9 c11 c12 c13 c14 c15 c16 c20 c21 c22 c23 c25 c29 c30 c33 c40 c42 c45 c46 c47 cap smd 0.1 uf 10% 16v 0402 cap 0.1 uf 10% 0402 16v 445 4952 1 nd 0.1 uf 16v c0402
+c0402c270j5gactu c2 c3 c26 c27 cap cer 27pf 50v 5% 0402 cap cer 27pf 50v 5% npo 0402 399 1016 1 nd 27pf 50v c0402
+cc0402jrnpo9bn180 c4 c6 cap smd 18pf 5% 50v 0402 cap 18pf 5% 0402 311 1415 1 nd 18pf 50v c0402
+lmk212bj106kd t c5 c18 c19 c37 c41 cap smd mlc 0805 10 uf 10% 10v x5r cap 10 uf 10v 10% 0805 587 1299 1 nd 10 uf 10v c0805
+grm155r71e103ka01d c7 c10 c17 c28 c31 c34 c35 c36 c43 cap smd mlc 0402 10000pf 10% 25v cer 10000pf 25v 10% x7r 0402 490 1312 1 nd 001 uf 25v c0402
+lmk107bj475ka t c24 c32 c39 c44 cap cer 4.7 uf 10v 10% 0603 x5r cap cer 4.7 uf 10v 10% 0603 x5r 587 1441 1 nd 4.7 uf 10v c0603
+grm188r61a225me34d c38 c48 cap cer 2.2 uf 10v 20% 0603 x5r cap cer 2.2 uf 10v 20% 0603 x5r 490 1546 1 nd 2.2 uf 10v c0603

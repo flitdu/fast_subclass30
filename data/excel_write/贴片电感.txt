@@ -23,9 +23,27 @@ aisc 0805 r047j t 47nh 805 abracon 535 10497 1 nd
 0805 10uh 50 0 uygun enduktans de ğ erli fb muadil
 0805 15uh 50 0 uygun enduktans de ğ erli fb muadil
 l2 1 3.3 uh 电感 0805
+rf 电感 fixed ind 12nh 750ma 71mohm 2% lqw18an12ng10d smd 2% 12 000 0 2017 09 21 2017 09 21 lqw18an12ng10d 12000 0.2328 8 14days ickey
+rf 电感 fixed ind 10nh 750ma 71mohm 2% lqw18an10ng10d smd 2% 12 000 0 2017 09 21 2017 09 21 lqw18an10ng10d 12000 0.4684 7 12days dgk
+电感 fixed ind 33nh 260ma 630 mohm 2% lqw15an33ng00d 0402 10 000 0 2017 09 21 2017 09 21 lqw15an33ng00d 10000 0.4325 7 10days
+l2 l3 l4 dfe252010p 1r5m p2 1.5 µ h shielded wirewound inductor 3a 82 mohm 1008 chip inductor 2520 low profile 1.5 uh 3 15000 dfe252010p 1r5m p2 3000 0.1671 10 15days 3000p arrow
+l5 lqm21fn100m70l fixed ind 10uh 100ma 600 mohm chip inductor 0805 10.0 uh 1 sunlord 5000 lqm21fn100m70l 6000 0.0434 10 15days moq 3000 arrow
 inductance 47nh 0805 coil 0.05 ce201210 47nj ce201210 47nj 0.026 4000 reel 12k 7 10days 60k 左右
 inductance 100nh 805 0.05 ce201210 r10j ce201210 r10j 0.027 4000 reel 8k 7 10days 90k 左右
 inductance 100uh 805 0.2 mlz2012n101lt000 mlz2012n101lt000 0.02 2000 reel 16k 3 5days
+ind smd fixo 1mh 250ma 2.4 r 1mh 2000 1
+sdr0403 681kl 680u 2000 sdr0403 681kl sdr0403 681kl 2000 0.1879 7 12days dgk
+mlp2520s2r2mt0s1 2u2 2000 mlp2520s2r2mt0s1 mlp2520s2r2mt0s1 2000 0.1538 10 15days arrow
+l1 smd 7 7 3 100uh 100uh ± 20% 7032 slf7032t 101mr45 2pf 0.91 6 6 2.8 lc
+l2 smd 4 4 1.8 4.7 uh 4.7 uh ± 20% 4 4 1.8 chilisin 0.242 lc
+电感 lqw15an22ng00d 22nh 0402 10000.0 lqw15an22ng00d 10000.0 0.15 lc
+lqw15an27ng00d 27nh 0402 10000.0 lqw15an27ng00d 10000.0 0.138 lc
+lqw15an68nj00d 68nh 0402 10000.0 lqw15an68nj00d 10000.0 0.1222 lc
+sdwl1005c82njstf 82nh 0402 10000.0 sdwl1005c82njstf 9870.0 0.177 9870p lc
+电感 10uh 叠层 0.55 a 1206 smd 1 l6 taiyo yuden aiml 1206hc 100m t 电感 10uh 叠层 0.67 a 1206 smd abracon abracon 2000 2000
+电感 10uh 叠层 0.55 a 0805 smd 1 l8 taiyo yuden aiml 0805hc 100m t 电感 10uh 叠层 0.5 a 0805 smd abracon aiml 0805hc 100m t abracon 2000 2000 1.0265 7 12days dgk
+ind fxd 300nh.05 aferrite bead lp4 pulse magnetic power p71701045 900 p71701045 pulse 1
+ind fxd 300nh 2a ferrite bead lp2 pulse magnetic power p71701044 900 p71701044 pulse 1
 电感 2.4 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 2 l1 l5
 电感 2.2 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 1 l3
 电感 5.1 nh 叠层 non magnetic core 0.3 nh 0.3 nh 0.3 a 0402 smd 1 r5
@@ -45,7 +63,7 @@ l1 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805 805 2 74479777310a indu
 电感 220uh nrs4018t221mdgj nrs4018 2 taiyo yuden fixed ind 220uh 170ma 4.56 ohm
 100 uh 0.5 a shielded inductor sm package coilcraft mss6132 104ml farnell 2288665 994 mss6132 104mlc
 l1 fixed inductor smd 4018 4.7 uh 20% q 4.7 2mhz srn4018ta 4r7m srn4018ta 4r7m 3000 6000 0.133 6000 0.1728 10 15days moq 3000 dgk
-inductor 10uh 1206 1000 man uf acturer man uf acturers part no 7447918 inductance 10 μ h dc current 25ma nominal q at frequency 50 2mhz inductance tolerance 10% type chokes surface mount 1008 1206 technology multi layer material ferrite dimensions l x w x h 32 x 16 x 11 mm
+inductor 10uh 1206 1000 man uf acturer man uf acturers part 7447918 inductance 10 μ h dc current 25ma minal q at frequency 50 2mhz inductance tolerance 10% type chokes surface mount 1008 1206 techlogy multi layer material ferrite dimensions l x w x h 32 x 16 x 11 mm
 c1056 51 nh fixed ind 51 nh 300ma 260 mohm johanson technology inc l 07c5n1sv6t 712 1461 1 nd rc0402
 c1116 43 nh fixed ind 43 nh 300ma 240 mohm johanson technology inc l 07c4n3sv6t digi key 712 1460 2 nd rc0402
 l1 27nh fixed ind 27nh 300ma 460 mohm lqg15hs27nj02d digi key 490 2628 1 nd ind 0402
@@ -476,15 +494,15 @@ m8452ct nd inductor chip 6.8 nh 20% smd ind 01 cap 0805
 l1 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805 805 2 74479777310a inductor 10 µ h 300mr 600ma we pmi 0805
 l3 l15 l5 l1 l2 l4 l14 l 0603 1608metric 70 ferrite bead www2 productdetail mmz1608s102a qs sgaepimzzmtdyqheitomraspprlp9yc% 252b68ippslaoxi% 3d
 l16 l17 l20 l19 l22 l18 l23 l21 l6 l9 l11 l12 l7 l10 l13 l8 l 0805 2012metric 160 10uh www2 productdetail lqm21fn100m80l qs % 2fha2pyfadujf8652d5f6fbme8mjcmolroh7pqwcvtl9ugyrcgrvgqw% 3d% 3d
-lb1 lb2 12nh 0.02 l0402ww lqw15an12ng00d no yes
-lc1 lc2 lt1 lt2 18nh 0.02 l0402ww lqw15an18ng00d no yes
-le1 40nh 0.02 l0402ww lqw15an40ng00d no yes
-lf1 9.5 nh 0.02 l0402ww lqw15an9n5g00d no yes
-lb1 lb2 2 fixed ind 11nh 500ma 140 mohm 11nh 0.02 l0402ww lqw15an11ng00d no yes
-lc1 lc2 2 fixed ind 18nh 370ma 270 mohm 18nh 0.02 l0402ww lqw15an18ng00d no yes
-le1 1 fixed ind 6.2 nh 250ma 700 mohm 6.2 nh 0.02 l0402ww lqw15an6n2b00d no yes
-lf1 1 fixed ind 8.2 nh 500ma 170 mohm 8.2 nh 0.02 l0402ww lqw15an8n2g00d no yes
-lt1 lt2 2 fixed ind 15nh 460ma 160 mohm 15nh 0.02 l0402ww lqw15an15ng00d no yes
+lb1 lb2 12nh 0.02 l0402ww lqw15an12ng00d
+lc1 lc2 lt1 lt2 18nh 0.02 l0402ww lqw15an18ng00d
+le1 40nh 0.02 l0402ww lqw15an40ng00d
+lf1 9.5 nh 0.02 l0402ww lqw15an9n5g00d
+lb1 lb2 2 fixed ind 11nh 500ma 140 mohm 11nh 0.02 l0402ww lqw15an11ng00d
+lc1 lc2 2 fixed ind 18nh 370ma 270 mohm 18nh 0.02 l0402ww lqw15an18ng00d
+le1 1 fixed ind 6.2 nh 250ma 700 mohm 6.2 nh 0.02 l0402ww lqw15an6n2b00d
+lf1 1 fixed ind 8.2 nh 500ma 170 mohm 8.2 nh 0.02 l0402ww lqw15an8n2g00d
+lt1 lt2 2 fixed ind 15nh 460ma 160 mohm 15nh 0.02 l0402ww lqw15an15ng00d
 l2 l3 l4 1.5 µ h shielded wirewound inductor 3a 82 mohm 1008 chip inductor 2520 low profile 1.5 uh 3
 l5 fixed ind 10uh 100ma 600 mohm chip inductor 0805 10.0 uh 1
 l101 4u7 lqh3npn4r7mm0l
@@ -509,12 +527,28 @@ l501 l502 l503 l504 l531 l532 l533 l534 l603 l604 l605 l606 l609 l610 l611 l612 
 叠层 电感 ind mult 33nh 5% 0402 0.6 mm clh1005t 33nj s chilisin 1 l1 33nf
 l1 mlf1005lr56k 560nh ind 0402 1 0.28 0.28 0.08525 0.08525
 l2 mlk1005sr13jt000 130nh ind 0402 1 0.1 0.1 0.016 0.016
+10uh l201 cbc2012t100m taiyo yuden inductor 10uh 20% 0805 smd
 39 l0603c10njrmst fixed ind 10nh 300ma 260 mohm kemet l0603c10njrmst 1 1000 0 l0603c10njrmst kemet 1000 0.063 8 14days
+l3 ind 3.0 nh ± 0.3 nh 170mohm 0402 300ma rf lqg15hs3n0s02d digi key 490 6570 1 nd 0.0304
+l3 ind 2.2 uh 20% 375 mohm 0603 750ma lqm18pn2r2mfrl digi key 490 10764 1 nd 0.137
+l5 ind 27nh 5% 700 mohm 0402 300ma taiyo yuden hk100527nj t digi key 587 1524 1 nd 0.0112
+l6 ind 3.0 nh ± 0.3 nh 170mohm 0402 300ma rf lqg15hs3n0s02d digi key 490 6570 1 nd 0.0304
+l7 ind 2.4 nh 0.1 nh 300mohm 0402 220ma lqp15mn2n4b02d digi key 490 6753 1 nd 0.0868
 100 uh 0.5 a shielded inductor sm package coilcraft mss6132 104ml
 电感 10uh 叠层 0.55 a 1206 smd l6 aiml 1206hc 100m t
 电感 10uh 叠层 0.55 a 0805 smd l8 aiml 0805hc 100m t
+1 130 0276 000 ind p8e8 smd 47 uh 20% 700ma 360mohm dcr max 20 x15 x17 mm 10 mag layers scientific technics co ltd msch 2015c 4r7m f rt l2d2
+560nh l3 805 pcd1181ct nd
+22nh l4 805 abracon 535 10493 1 nd
+47nh l17 l13 805 abracon 535 10497 1 nd
+200nf l26 l29 rfc updated1 490 2550 1 nd
+4.7 uh l28 445 6538 1 nd
 l0402 39nh ± 5% lqg15hn39nj02
 l0402 39nh ± 5% lqg15hn39nj02
+31 1 39nh mlk1005s39nj sm0402 smt l101 5% 200ma 2ghzselfres 6q 100m 2ghz self resoce above l1 chip inductor 0.03 0.03 3 0.00032810257623955513
+32 3 150nh mlg1005sr15j sm0402 smt l403 l405 l406 5% 150ma 8q 100m chip inductor 0.075 0.225 22.5 0.0024607693217966633
+33 1 270nh mlg1005sr27j sm0402 smt l402 3% 100ma 8q 100m chip inductor 0.075 0.075 7.5 0.0008202564405988878
+34 2 330nh mlg1005sr33j sm0402 smt l401 l404 3% 50ma 6q 100m chip inductor 0.012 0.024 2.4 0.0002624820609916441 newark
 42 电感 10uh 505020 l4 6 l10 11 4 l4 l5 l10 l11 1.0 8000
 43 电感 47uh 505020 l8 9 l12 1 l8 1.0 2000
 45 电感 6.8 uh 10 10 l1 1 l1 1.0 2000
@@ -546,6 +580,7 @@ smd indutors lqh31mh series 1206 size 2.7 uh lqh31mn2r7k03l fn 151 5438 pc 550.0
 21 306 000010 叠层 电感 47 nh ± 5% dcr045 r cmcc0603c4n7ssp l0603 l2 1 100000
 22 306 000011 叠层 电感 10nh ± 5% dcr085 r cmcc0603c10njsp l0603 l1 1 100000
 mlz2012m1r0ht000 inductor multilayer 1uh 0805 8020
+156 6 6 fb0805 0805 elj nd82njf fb42 fb43 fb44 fb45 fb46 fb47 fb42 fb43 fb44 fb45 fb46 fb47 inductor 082uh 5% fixed smd 0605 aga0000ce23 pdf
 smd inductor 10uh 0603 1 meisongbeiabracon mc1608 100k or aiml 0603 100k t 200
 smd inductor 22uh special 1 meisongbei coilcraftabracon msrh4d22 220n or msrh4d28 220m ormss5121 223ml or aspi 0428s 220 200
 l1 mlz1608dr10dt000 inductor multilayer 0.10 uh 0603 100nh
@@ -556,6 +591,12 @@ inductance 6.8 nh 0402 4 40000 0
 17 dj 6uh8 73 电感 sp06o301m6u8 sp06 1.0 l1 srp7030 6r8fm && srp7030 6r8fm sp06o301m6u8 2017 04 21 3.0
 19 dj 05 02 电感 10uh 0603ebls1608 1k 0603r 7.0 l5 l9 l10 l11 l12 l13 l14 hy 2.0
 电感 swpa4030s470mt 电感 符合 2
+56 0.24 uh ind 252012 l2104 l2105 2.0
+57 1uh ind 3x3 3015 l2102 l2103 2.0
+58 2.2 uh ind 3x3 3015 l2100 l2101 2.0
+59 4.7 uh ind 3x3 3015 l6300 1.0
+60 3.3 uh ind 3x3 3015 l2106 l2107 2.0
+61 3.3 uh ind 4x4 4018 l2000 l2001 2.0
 4 inductor np04szb2r2n 2.2 uh inductor l1 4
 131 019 1.0 l1 inductor cdrh6d38 5r0nc 5.0 uh sumida cdrh6d38 5r0nc harvey king inc cdrh6d38 5r0nc
 131 020 1.0 l2 inductor cdrh8d43 150nc 15uh sumida cdrh8d43 150nc harvey king inc cdrh8d43 150nc

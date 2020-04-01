@@ -4,4 +4,7 @@ adg712bru quad spst switches tssop16 farnell 1319261 2.59 5.0
 u4 hv2201pj g high voltage analog switch multiplexer ics lo charge 8 channel enhanced hi voltage supertex hv2201pj g 689 hv2201pj g 11.69
 u20 u31 sot 23 5 20 ts5a3167dbvr www2 productdetail ts5a3167dbvr qs sgaepimzzmtxras98ir% 252bs7bxvwbmmz1p% 2fvoobh3% 252b6iw% 3d
 ts5a3166 ts5a3166dckr
-u13 adg721 mso8 yes sig top l1 dual spdt switch analog devices adg721brmz adg721brmz
+u13 adg721 mso8 sig top l1 dual spdt switch analog devices adg721brmz adg721brmz
+u7 ic dual sim card analog switch qfn16 on semiconductor fsa2567mpx digi key fsa2567mpxct nd 0.22318
+nx3dv2567gu 115 quad spdt analog swt sot1161 1 nx3dv2567gu 115 16 xfqfn
+nx3l2267gm u4 dual spdt analog swt sot1049 3 nx3l2267gm 568 5549 1 nd 10 xfqfn

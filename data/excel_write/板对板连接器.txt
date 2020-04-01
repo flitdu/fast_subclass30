@@ -7,7 +7,16 @@ h9 header 6x1 6x1 conn hdr brkway 100 40pos vert tyco 4 103239 0 digi key a26512
 1 64 pin cmc plug 120527 1 tyco amp arrow 2 2 70 280 210 2.63 552.3 140 minimum order required
 j1 rcpt assy r a champ 050 100 p tyco amp 1 1734037 0 a33470 nd
 fx10a 80s 8 sv hirose conn recept 80pos w post smd smt vert 2
-j2 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
-j3 header14 dnp header14 no sig top l1 14 pin header remove pin 3 for keying inserted
-j4 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
-j6 con fx8 120p sv1 con 120 fx8 120p sv1 no sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j2 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j3 header14 dnp header14 sig top l1 14 pin header remove pin 3 for keying t inserted
+j4 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j6 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j1 samtec erm8 035 08.0 l dv k tr smt signal socket
+j2 j3 samtec ipbs 105 01 t d through hole power socket
+fx10a 80s 8 sv hirose conn recept 80pos w post smd smt vert 2
+2.54 mmheader 3x1 way 2.54 mmheader 3 2.54 mm ths 03 r to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+2.54 mmheader 8x1 way 2.54 mmheader 9 2.54 mm ssw 108 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+2.54 mmheader 10x1 way 2.54 mmheader 9 2.54 mm ssw 110 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+2.54 mm receptacle 6x1 way 2.54 mm receptacle 6 2.54 mm ssw 106 01 g s to connectors 2.54 mm pitch 2.54 mm pitch receptacle
+df40c 80ds 0.4 v 51 df40c 80 to receptacle 80 pins df40c 80ds 0.4 v 51 j1 j2
+j1 3 amp 120527 1 64p plug conn ieee1386 2

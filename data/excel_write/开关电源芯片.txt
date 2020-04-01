@@ -5,3 +5,6 @@ u2 ic sw usb dual w fb 10 umax integrated products max1823beub max1823beub nd
 ap2151 diodes inc ap2151fmg 7
 dual high side switch with oc det 500ma ch tps2052bd ic tps2052bd ic tps2052bd
 power supply controller tps51120 ic tps51120 ic tps51120
+lt1111cs8 step up regulator adjustable lt1111cs8 dc dc converter adjustable
+u5 ic 2a adj buck 4 40 vin adj vout 25 mhz 8 hsoic lmr14020sddar digi key 296 44320 1 nd 124124
+u6 u13 ic load switch 1.5 a w discharge 90mohm sc 70 6 tps22919dckt digi key 296 53421 1 nd 0.1564

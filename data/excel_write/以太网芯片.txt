@@ -4,3 +4,7 @@ q06 20020001 85 63207000030 lan 网络 芯片 dp83848 1transceiver wqfn40 40pin 
 q06 20020001 86 63207000100 lan 网络 芯片 dp83849ivs 以太网 收发器 3.0 3.3 v 100mbps tqfp80 80pin smd dp83849ivs 180
 hx1198nl soic16 9.53 10 100base t single portsurface mount magnetics
 w5200 qfn48 tcp ip ethernet controller
+u9 enc624j600 10 100 ethernet controller tqfp 64 10x10x1 enc624j600 i pt
+u3 ic tcp mac phy spi 10 100 48lqfp digi key 1278 1021 nd
+lan8720a cp 10 100 1port ethernet rmii phy 24p qfn e lan8720a cp 24qfn e
+lan8720a cp u12 10 100 1port ethernet rmii phy 24p qfn e lan8720a cp lan8720a cp dkr nd 24qfn e

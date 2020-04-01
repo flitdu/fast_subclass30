@@ -1,19 +1,19 @@
 3538 y4c3n181k500lt uy4c3c181kct 排阻 180pf ± 10% 50v pb free poe 4000
 16708 ra 03104j 排阻 2800
 18867 yc158tjr 0710k 電阻 陣列 1206 10k ω ± 5% 5000
-r13 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 65.25 55.25 180
-r14 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 67.75 55.25 180
-r16 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 70.25 55.25 180
-r17 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 72.75 55.25 180
-r19 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 75.25 55.25 180
-r20 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 77.75 55.25 180
-r21 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 49.75 90
-r23 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 44.75 90
-r24 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 42.25 90
-r25 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 39.75 90
-r26 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 37.25 90
-r27 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 34.75 90
-r28 res pack 0402 smd 4 75r ± 5% res pack exb28v alt yes top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd yes 87.75 32.25 90
+r13 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 65.25 55.25 180
+r14 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 67.75 55.25 180
+r16 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 70.25 55.25 180
+r17 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 72.75 55.25 180
+r19 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 75.25 55.25 180
+r20 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 77.75 55.25 180
+r21 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 49.75 90
+r23 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 44.75 90
+r24 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 42.25 90
+r25 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 39.75 90
+r26 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 37.25 90
+r27 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 34.75 90
+r28 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 32.25 90
 rm1 yc164 jr 0710kl 1 3216 resistor array 10k f x4 yaego
 排列 電阻 ar10p9rg100r 排阻 10p9r 2% 100r 8000
 排列 電阻 ar10p9rg10k 排阻 10p9r 2% 10k 8200
@@ -219,27 +219,43 @@ resistor 2.7 k ohm resistor network box 65 1 22
 680 ohm sip10 1.0 17.0 680 ohm sip10 4310r 1 681 nd res net 10 sip bussed 330 ohm 0.65 led
 16 r5 1 res array 1k ohm 8 res 2506 742c163102jp product detail en 742c163102jp 742c163102jpct nd 1124513
 26 4x10k array resistor array x4 8.0 maritex rac4x103 6.0 r14 r15 r52 r53 r56 r57
-80 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e ecg exb 28v220jx res array 22 ohm 5% 4 res smd 0402x4 resn exb28v 0402x4 yes y7220ct nd
-73 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e res array 22 ohm 5% 4 res smd ecg exb 28v220jx 0402x4 resn exb28v 0402x4 yes y7220ct nd
-87 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e res array 22 ohm 5% 4 res smd ecg exb 28v220jx 0402x4 resn exb28v 0402x4 yes y7220ct nd
+80 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e ecg exb 28v220jx res array 22 ohm 5% 4 res smd 0402x4 resn exb28v 0402x4 y7220ct nd
+73 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e res array 22 ohm 5% 4 res smd ecg exb 28v220jx 0402x4 resn exb28v 0402x4 y7220ct nd
+87 12 rn1 rn2 rn3 rn4 rn5 rn6 rn7 rn8 rn9 rn10 rn11 rn12 22e res array 22 ohm 5% 4 res smd ecg exb 28v220jx 0402x4 resn exb28v 0402x4 y7220ct nd
 rp200 100r mnr04m0apj101 res array 100r 5% convex
 排阻 12r 220k ω j 3689 dip 13
 resistor array 1k 1206 8 5% 4 resistor array
 4.7 k 1206 8 5% 4 resistor array
 10k 1206 8 5% 4 resistor array
-r27 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r28 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r29 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r30 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r31 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r32 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r34 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r35 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r36 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r37 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r38 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
-r39 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv yes sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r27 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r28 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r29 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r30 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r31 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r32 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r34 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r35 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r36 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r37 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r38 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
+r39 res 8x0402 exb 2hv 33r ± 5% res 8x0402 exb 2hv sig top l1 res array 33 ohm 5% 8 res smd ecg exb 2hv330jv y1330ct nd
 48 yc164 jr 0751rl res array 4 res 51 ohm 1206 yc164 jr 0751rl 1 1000 0 yc164 jr 0751rl 1000 0.0068 9 16days dgk
+4x4.7 kohm 4xr0402 4 elements 4.7 kohms 5 % rn1
+4x330 ohm 4xr0402 resistor network 330 ohm 5% 4 x 0402 sm yc124 jr 07330rl rn2 rn3
+27 6 266 100k rc res netwrk comm bus 10pin 100k 2% rp1 rp2 rp3 rp4 rp5 rp6 sip 10p largepad 266 100k rc xicon
+pot 20k linear slide pot allelectronics sp 20k 0.33 smallpot valvano
+exb 2hv473jv rp1 res pack 47k ohm 5% 16pin isolated res pac isol 47k 5% 0402 y1473ct nd 47kohms 0.063 rpack1506
+exb n8v220jx rp2 rp3 rp4 rp5 res pack smd 4res 22ohm isolated exb n8v220jx y10220ct nd 22ohms 031w rpk0804
+110 1 0 0603 a4 exb 38v220jv rp38 res array 22 ohm 5% 4 res smd aoc0000ce1 pdf
+113 17 16 0603 a4 exb v8v470jv rp9 rp25 rp26 rp27 rp28 rp29 rp30 rp32 rp33 rp52 rp53 rp54 rp55 rp56 rp57 rp58 rp59 rp20 rp21 rp22 rp23 rp24 rp25 rp30 rp31 rp52 rp53 rp54 rp55 rp56 rp57 rp58 rp59 res array 47 ohm 5% 4 res smd aoc0000ce1 pdf
+120 1 1 exbe 1608 exb e10c121j rp10 rp3 res network 120 ohm 8 res smd aoc0000ce3 pdf
+122 3 3 exbe 1608 exb e10c151j rp11 rp14 rp35 rp4 rp5 rp32 res network 150 ohm 8 res smd aoc0000ce3 pdf
+135 2 0 0603 a4 exb 38v472jv rp7 rp8 res array 47 k ohm 5% 4 res smd aoc0000ce1 pdf
+136 15 13 exbe 1608 exb e10c472j rp1 rp2 rp5 rp12 rp13 rp21 rp22 rp31 rp34 rp41 rp50 rp51 rp60 rp61 rp70 rp1 rp2 rp6 rp8 rp10 rp11 rp26 rp33 rp40 rp50 rp51 rp60 rp61 res net 47 k ohm 8res 10pin smd aoc0000ce3 pdf
+140 1 1 exbe 1608 exb e10c102j rp20 rp12 res net 1k ohm 8 res 10 pin smd aoc0000ce3 pdf
+141 2 1 exbe 1608 exb e10c103j rp6 rp15 rp7 res net 10k ohm 8 res 10 pin smd aoc0000ce3 pdf
+r7 r8 330 ohm 5 resistor network bournes 4610x 2 331lf 4610x 2 331lf nd 2 0.286 0.572
+r9 22 kohm 4 resistor network inc 4605x 101 222lf 4605x 101 222lf nd 1 027 027
 排阻 4.7 k 9 直插 1000
 rr1 rr4 1k ohm sip 6 pin 5 resistors 2 2 652 4606x 1lf 1k 0.44 r pack5
 rr3 rr5 1k ohm sip 10 pin 9 resistors 2 2 652 4610x 1lf 1k 0.64 r pack9

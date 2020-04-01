@@ -1,6 +1,15 @@
 rc lr1206f0r009e041w 金屬 合金 微電阻 1206 1% 0.009 ohm ever 1w 4000
+resist smd 2w 1% 0r01 rl rh csnl2512ft10l0 stackpole 6000 csnl2512ft10l0 stackpole 4500.0 0.2314 7 12days 4500 dgk
 57 r76 1 0.02 r res thick film 0.02 ohm 5% 1 16w smd1206 r1206 100 1206 1% 0.02 r 200 5000 0.077 lc
 59 r90 1 0.01 r res thick film 0.01 ohm 5% 1 16w smd1206 r1206 100 1206 0.01 r 1% 500 5000 0.0586 lc
+wsl2010r0100fea 0.01 ohm 1% 2010 1 res thin film 1206 0.01 ohm 1% 0.5 w 1 2w ± 75ppm c aec q200
+wsl2010r1600fea 0.16 ohm 1% 2010 1 res thin film 1206 0.16 ohm 1% 0.5 w 1 2w ± 75ppm c aec q200
+r261 002 res smd 002 ohm 1% 1w 1206 dale wslp1206r0200fea digi key wslp 02tr nd r1206 kelvin
+irc ulrg22512r010flfslt 0.01 ohm 2512 current sense resistor r11 0.01 ohm 1% 2w 0.01 ohm 1 200
+cra2512 fz r040elf 0.04 ohm 2512 current sense resistor r61 0.04 ohm 1% 3w 0.04 ohm 1 200
+14 c0406001b001 res 10m ω 1w ± 5% 2512 smd 1 r21 0.01 j 2512 r2512 5.0
+res 100m ω 1w ± 1% 2512 smd 1 r14
+1 r37 0.02 ohm ± 5% 1w chip resistor 1206 3216 metric automotive aec q200 current sense thick film erj 8cwjr020v 1000
 2 r72 r80 res smd 0.2 ohm 5% 1w 2512 73l7r20j 2000.0
 3 r30 r31 r57 res smd 0.39 ohm 1% 1 4w 1206 erj 8rqfr39v 3000.0
 res smd 0.2 ohm 5% 1w 2512 73l7r20j 73l7r20j
@@ -49,6 +58,7 @@ rohm semiconductor pmr25hzpfv2l00 电流 传感 电阻器 smd 1210 2mohm 1% aec 
 2512 5mr 1% 2w 2512 rohm 32315
 1206 5mr 1% 2512 lra251224r005f4 48473
 r2512 rohm mcr100jzhflr220 0r22 1% 1w 2.0 r361r370 rohm mcr100jzhflr220 0r22 1% 1w r2512 电阻 8 200
+电阻 0.002 ω r002 ± 1% 3w 2512r 1 200 rs1
 47 resistor cra2512 fz r001elf r isen1 r isen2 r2512 2 high power current sensor chip resistor 1mohm 1% 50ppm c 2512 smt 3w aec q200 compliance cra2512fzr001elf 8000
 30 hiqco000000000225 resistor 0.02 r ± 1% smd res 1206 5
 47 1 rp56 0.01 r 1% ra6p45b125 200h60
@@ -77,6 +87,9 @@ p02 10702r res 03 ohm 1% 1 2w powermetal mco 325 52 10 ea r62 r66 r78 r169 r170 
 p02 16379r 01 1% 1watt sense resistor 2010 case 47139 65 1 ea r64 wsl20101l0fea18
 p02 17328r res 015 ohm 1w 1% 2512 smd 55701 124 2 ea r63 r65 erj m1wtf1m5u res 015 ohm 1w 1% 2512 smd
 1206 91mr 150
+0.1 ω r20 ± 1% rl0805fr 070r1l r188 r 1206 1
+0.2 ω r20 ± 1% rl1206fr 7w0r2l r198 r199 r211 r212 r 1206 4
+合金 电阻 rne1 rne2 rne3 rne4 rne5 rne6 rne7 rne8 rne9 rne10 rne11 rne12 电阻 合金 4m ω ± 1% 100ppm ℃ 3w 2512 r2512
 60 y 3.0 r702 r711 r801 res thick film current sensing 1206 smd stackpole inc csr 1 2 0.5 1% i 0.5 r1206 2 1206 1 1 2w
 1 p02 17572r res 0.001 1% 1w sense resistor 1206 case 10 r94 r114 r135 r155 r169 r194 r202 r244 r522 r5521 wslp12061l000fea res 0.001 1% 1w sense resistor 1206 case
 1 p02 17071r res 000025 ohm 4w 1% 2725 smd 2 r258 r4252 sei stackpole inc css2725ftl250 res 000025 ohm 4w 1% 2725 smd
@@ -100,13 +113,28 @@ wsl2010r0100fea 0.01 ohm 1% 2010 1 res thin film 1206 0.01 ohm 1% 0.5 w 1 2w ± 
 wsl2010r1600fea 0.16 ohm 1% 2010 1 res thin film 1206 0.16 ohm 1% 0.5 w 1 2w ± 75ppm c aec q200
 0.02 res mf 0.02 ohm 1 10w 1% 0603 intertechnology wsl0603r0200fea
 0.025 r 1206 1% 250mw rl1206fr 07r025l 1 4.00 r39 r70 r76 r80
+resistor 0.032 5% smd rl1220t r033 j rl12t.033 jct nd 0805 susumu rs1 rs4 r21 lucas 28 10 17
 15 2 erj 8bwfr075v 75mr r11 r12 r1206 smd chip resistor thick film current sense resistors smd 1w 0.075 ohm 1%
 1.0 2.0 r67 r70 0.22 0603
 1 3.0 p.22 ahct r67 r70 r130 2.0 resistor j1 0603 0.22 р ы 350.0 330.0 6.0 24.0 36.0 270.0
 resistor current sense 0.01 ohm 1w 1% lrc lrf2010lf 01 r010 f irc tt 无源 器件 7.1 4.165
+r20 r22 resistor 500 m ω 1% 1 8 w pt0402fr 7w0r5l
 r6 resistor 3 m ω 1% 1 w 1206 csnl1206ft3l00
 20m res smd 0.02 ohm 1% 1w 2512 wslt2512r0200fea dale
+0.01 ohm r0603 res smd 0.01 ohm 1% 1 4w 0603 pmr03ezpfu10l0 r33 r34 r74 r93 r94 r95 r96 r97 r98
+170 res 02 ohm 5w 5% radial mpr5jb20l0 res 02 ohm 5w 5% radial r12 stackpole inc 10 mpr5jb20l0 nd
+171 res 02 ohm 5w 5% radial mpr5jb20l0 r13 stackpole inc mpr5jb20l0 nd
+172 res 02 ohm 5w 5% radial mpr5jb20l0 r14 stackpole inc mpr5jb20l0 nd
+173 res 02 ohm 5w 5% radial mpr5jb20l0 r15 stackpole inc mpr5jb20l0 nd
+174 res 02 ohm 5w 5% radial mpr5jb20l0 r37 stackpole inc mpr5jb20l0 nd
+175 res 02 ohm 5w 5% radial mpr5jb20l0 r38 stackpole inc mpr5jb20l0 nd
+176 res 02 ohm 5w 5% radial mpr5jb20l0 r39 stackpole inc mpr5jb20l0 nd
+177 res 02 ohm 5w 5% radial mpr5jb20l0 r40 stackpole inc mpr5jb20l0 nd
+178 res 02 ohm 5w 5% radial mpr5jb20l0 r41 stackpole inc mpr5jb20l0 nd
+179 res 02 ohm 5w 5% radial mpr5jb20l0 r42 stackpole inc mpr5jb20l0 nd
+1 215 0082 000 res ec07 1206 current sense 5mohm 1% 100ppm 1 2w 10 cyntec co ltd rl1632h r005 fnh r5c11
 r19 rl0603fr 070r01l 0.01 om 0603 1 rl0603fr 070r01l 5000 0.3525 5000 8 12days moq 5000 avnet
+235 1 res cur sense smt smv r4723 0.002 r r657 smv r0022 1.0 400
 r68 r69 r70 r72 r75 r124 r125 r129 r130 r132 r133 r151 r152 lrmam0805 r005ft5 tt welwyn res smd 0.005 ohm 1% 1 2w 0805 0805 0.005 r 985 1541 1 nd
 r93 res mf 0.02 ohm 3w 1% aec q200 2512 cra2512 fz r020elf
 r94 res mf 0.02 ohm 3w 1% aec q200 2512 cra2512 fz r020elf

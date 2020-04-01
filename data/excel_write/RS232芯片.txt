@@ -2,7 +2,12 @@
 73 16p8302b0 u03 s000838 ic txrx rs 232 lp 16 tssop max3232eeue t sop 10 9 90
 73 16p8302b0 u03 s000838 ic txrx rs 232 lp 16 tssop max3232eeue t sop 90
 q06 20020001 84 63202000690 数据通讯 芯片 max3232 rs 232interface so16 16pin smd max3232ese 1850
-max232aese dual rs232 driver receiver soic16 farnell 9724397 yes 3.42 8.0 0.0
+max232aese dual rs232 driver receiver soic16 farnell 9724397 3.42 8.0 0.0
 max3232ecae dual rs232 3.3 v transceiver ssop16 farnell 9725512 5.17 2.0
 u1 icl3226eca ic txrx rs 232 3 5.5 v esd 16ssop icl3226eca icl3226eca nd 3.03
 max3223idbr instrument ic drvr rcvr multch rs232 20ssop 20 ssop 2
+max3223idbr instrument ic drvr rcvr multch rs232 20ssop 20 ssop 2
+ft232rl u202 ft232rl r ftdi ic usb to serial uart 28 ssop
+max3232cue u704 max3232cue integrated products ic rs232 transcvr 16 16tssop
+23 ic dual transmitter receiver rs 232 20 pin pdip n max233cpp max 10 10 stick
+ic rs232 driver st232cn jameco 2001171 0.58 st232 free 8 ed

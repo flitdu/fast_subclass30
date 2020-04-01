@@ -1,2 +1,3 @@
 83 1 56a.20 mcp79401 集成电路 mcp79410 i sn rtc 时钟 芯片 40 85 ℃ soic8 1 soic8 1 27 4 0 technology mcp79410 i sn u28 12
 98 16p8302b0 u20 s000146 ic pll clock gen 25mhz 40lfcsp ad9571acpzlvd 90
+ds1305en dallas semiconductor ic rtc serial alarm ind 20 tssop 20 tssop 1

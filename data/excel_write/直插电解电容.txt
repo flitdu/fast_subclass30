@@ -121,8 +121,11 @@ cap eletr rad 1000 uf 50v 85g 20% uvr1h102mhd nichicon 24000 uvr1h102mhd nichico
 47 uf 25v c12 1 miniature aluminum electrolytic capacitor ekmg250ell470me11d nippon chemi con
 10 uf 50v c13 1 miniature aluminum electrolytic capacitor ekmg250ell470me11d nippon chemi con
 220 uf 16v c31 1 miniature aluminum electrolytic capacitor ekmg160ell221mf11d nippon chemi con
-26 capacitor thd aluminium electrolytic capacitors 220 uf 20% 16v 63 11mm pitch 25 mm teapo ksk227m016s1a1e11k 1 50000 teapo websitefile products product data sk pdf 特制 冲突
-27 capacitor thd aluminium electrolytic capacitors 100 uf 20% 25v 63 11mm pitch 25 mm teapo ksk107m025s1a1e11k 1 50000 teapo websitefile download % e7% b7% a8% e7% a2% bc% e5% 8e% 9f% e5% 89% 87 pdf 特制 冲突
+capacitor thd aluminium electrolytic capacitors 220 uf 20% 16v 63 11mm pitch 25 mm teapo ksk227m016s1a1e11k 1 50000 teapo websitefile products product data sk pdf 特制 冲突
+capacitor thd aluminium electrolytic capacitors 100 uf 20% 25v 63 11mm pitch 25 mm teapo ksk107m025s1a1e11k 1 50000 teapo websitefile download % e7% b7% a8% e7% a2% bc% e5% 8e% 9f% e5% 89% 87 pdf 特制 冲突
+铝 电解电容 100 uf 50v 10% rjl 50v 101m 10 20 c2 c4 c8 c12 c16 5 elna enb1hm101g13ot aishi 600 0.31 40 100 uf ± 20% 50v 10 13 lc joyce
+铝 电解电容 220 uf 35v 10% rjl 35v 221m 10 25 c6 c10 2 elna kf221m035g125a 240 0.312 10 12.5 lc joyce
+铝 电解电容 470 uf 16v 10% rjl 16v 471m 10 25 c14 c15 2 elna 16zl470mefc10x12.5 240 0.428 470 uf ± 20% 16v 10 12.5 lc joyce
 capacitor 560 uf 4 50v 85c pitch 10mm 35 51mm 20% sancon ecs2wcp567mla350050t c3 c2 c31 3 sancon cn pro pdf snap cp pdf
 capacitor capacitor 1000 uf 35v 105c p 5mm teapo ksh108m035s1a1l20 c22 1
 electrolytic capacitor 470 uf 50v 20% radial ee uf c1h471b 3 2400
@@ -297,8 +300,8 @@ ucs2g220mhd1to nichicon cap al rdl 5 22 uf 400v ucs2g220mhd1to nichicon 500.0 50
 uvc2g4r7mpd nichicon cap al rdl 5 4.7 uf 400v uvc2g4r7mpd nichicon 1000.0 1000.0 1.619 8 14days 1 1
 cap t5 10r5 21r5 电解电容 10x21 470 uf 50v 直插 470 uf 0.2 discrete 3 60.0 c20 c21 c23 1
 cap t5 10r5 21r5 电解电容 10x21 330 uf 50v 直插 330 uf 0.1 discrete 11 220.0 c25 c46 c47 c55 c58 c66 c67 c76 c77 c86 c87 1
-c59 cap 0 ecap th 10x14mm 470 uf 50v 470 uf 50v ecap th 10x14mm 4343.819 703.386 90 yes 1.0 1.0
-c52 cap 0 ecap th 8x13mm 100 uf 50v 100 uf 50v ecap th 8x13mm 2778.819 1263.386 90 yes 1.0 1.0
+c59 cap 0 ecap th 10x14mm 470 uf 50v 470 uf 50v ecap th 10x14mm 4343.819 703.386 90 1.0 1.0
+c52 cap 0 ecap th 8x13mm 100 uf 50v 100 uf 50v ecap th 8x13mm 2778.819 1263.386 90 1.0 1.0
 55.0 1000178.0 直插 电解电容 470 uf 10v 10yxf470mefct78x11.5 rb35 80 500 kf471m010f115a capxon 500 0.227 500.0 470 uf 10v 8 11.5 直插 电解电容 kf low esr 105 ℃ lc
 cap t5 10r5 21r5 电解电容 330 uf 50v 10% 直插 330 uf 0.1 discrete 9 450 c21 c39 c40 c48 c51 c59 c60 c68 c71 10mm 50px330mefc10x16 450 0.59 500 100 10 16 lc
 cap t5 10r5 21r5 电解电容 470 uf 50v 10% 直插 470 uf 0.2 discrete 3 150 c16 c17 c19 10mm 50px470mefc10x20 150 0.66 500 100 10 20 lc
@@ -311,8 +314,8 @@ cap t5 10r5 21r5 电解电容 470 uf 50v 10% 直插 470 uf 0.2 discrete 3 150 c1
 2 电解电容 2200 uf 35v rb3 6 16 26 1 170 2200 uf 35v 16x25 170 065 1105 100 100 16 26 16 25
 3 电解电容 1000 uf 25v rb2 4 13 20 3 510 1000 uf 25v 13 20 紫 高频 510 02794 142494 200 300
 4 电解电容 1000 uf 50v rb3 6 10 17 2 340 1 0
-1 c12 cond phil 18x30 1000 µ f 63v cond 0020 elco 1000 µ f 63v series 021 asm cond elco 1000 µ f 63v axial cond elco 1000 µ f 63v axial commodity 2222 021 18102 yes 500 1.0
-1 c12 cond phil 18x30 1000 µ f 63v cond 0020 elco 1000 µ f 63v series 021 asm cond elco 1000 µ f 63v axial cond elco 1000 µ f 63v axial commodity 2222 021 18102 yes
+1 c12 cond phil 18x30 1000 µ f 63v cond 0020 elco 1000 µ f 63v series 021 asm cond elco 1000 µ f 63v axial cond elco 1000 µ f 63v axial commodity 2222 021 18102 500 1.0
+1 c12 cond phil 18x30 1000 µ f 63v cond 0020 elco 1000 µ f 63v series 021 asm cond elco 1000 µ f 63v axial cond elco 1000 µ f 63v axial commodity 2222 021 18102
 4 egr226m063c7a1c110 g luxon he015002 cap al el rd 22 uf 63v 20t p2 5x11 c50 1 pc 200 200 0 0 egr226m063c7a1c110 g luxon 2 3w 0 0 0 0
 4 it1e10113bm2.5 v incap he015024 cap al el rd 100 uf 25v 20t p2.5 6.3 x7 c48 1 pc 200 200 0 0 it1e10113bm2.5 v incap 2 3w 0 0 0 0
 4 it1g10113bm incap he015025 cap al el rd 100 uf 35v 20t p2.5 6.3 x11 c51 1 pc 200 200 0 0 it1g10113bm incap 2 3w 0 0 0 0
@@ -688,11 +691,11 @@ aluminum electrolytic capacitors leaded 6.3 volts 22 uf 4x5 20% 1.5 ls 1
 aluminum electrolytic capacitors leaded 2.2 uf 63volts 20% 2
 aluminum electrolytic capacitors leaded 63volts 10 uf 5x12 20% 1
 aluminum electrolytic capacitors leaded 1.0 uf 50v olts 20% 1
-c101 cap 10 uf 50v electrolytic low esr t h xicon 140 esrl 50v 10 rc yes
-c102 c104 cap 47 uf 50v electrolytic low esr t h xicon 140 esrl 50v 47 rc yes
-c207 c208 cap 47 uf 50v electrolytic low esr t h xicon 140 esrl 50v 47 rc yes
-c105 c103 cap 22 uf 50v electrolytic low esr t h xicon 140 esrl 50v 22 rc yes
-c201 cap radial ceramic 390pf 50v x7r 10% t h rper71h391k2p1a03b yes
+c101 cap 10 uf 50v electrolytic low esr t h xicon 140 esrl 50v 10 rc
+c102 c104 cap 47 uf 50v electrolytic low esr t h xicon 140 esrl 50v 47 rc
+c207 c208 cap 47 uf 50v electrolytic low esr t h xicon 140 esrl 50v 47 rc
+c105 c103 cap 22 uf 50v electrolytic low esr t h xicon 140 esrl 50v 22 rc
+c201 cap radial ceramic 390pf 50v x7r 10% t h rper71h391k2p1a03b
 22 电解电容 220 uf 16v 6 11 c1 1 0.2800 220 uf 16v 6 11 1200 2000 0.158 lc
 23 电解电容 100 uf 25v 6 12 c52 1 0.0450 100 uf 25v 6.3 11 aishi 1000 1000 0.133 lc
 24 电解电容 470 uf 35v 10 20 c110 1 470 uf ± 20% 35v 10 20 aishi 200 200 0.414 20% lc
@@ -901,10 +904,10 @@ cap 180 uf ± 20% 16v poly npb cse c10 c84 16svpe180m
 220nf 63v or 100v c634 poly large 5mm spacing capacitor if
 220nf 63v or 100v c96 poly large 5mm spacing capacitor codec
 220nf 63v or100v c95 poly large 5mm spacing capacitor codec
-ee uf m1c102 fm series aluminium electrolytic capacitors 1000 uf 16v d10 h20 rs 5261266 yes 2.71 0.0
-ee uf c2a101 fc series aluminium electrolytic capacitors 100 uf 100v d12.5 h20 p5 rs 3151072 yes 5.08 0.0
-ee uf m1h821s fm series aluminium electrolytic capacitors 82 uf 50v d16 h20 rs 5261755 yes 4.93 0.0
-ee uf m1c102 fm series aluminium electrolytic capacitors 1200 uf 35v d16 h20 rs 5261783 yes 5.64 0.0 non trovato ! sostituito con 1000 uf 16v
+ee uf m1c102 fm series aluminium electrolytic capacitors 1000 uf 16v d10 h20 rs 5261266 2.71 0.0
+ee uf c2a101 fc series aluminium electrolytic capacitors 100 uf 100v d12.5 h20 p5 rs 3151072 5.08 0.0
+ee uf m1h821s fm series aluminium electrolytic capacitors 82 uf 50v d16 h20 rs 5261755 4.93 0.0
+ee uf m1c102 fm series aluminium electrolytic capacitors 1200 uf 35v d16 h20 rs 5261783 5.64 0.0 non trovato ! sostituito con 1000 uf 16v
 c1l c1r aluminum electrolytic 10u 10v 140 xrl 10v 10 rc 2mm pitch 5mm diameter
 c2l c2r c5l c5r c6l c6r non polar aluminum electrolytic 10u 25v 647 uvp1e100mdd 647 uvp1e100mdd1ta 2mm pitch 5mm diameter bi polar non polar
 c2e c3e non polar aluminum electrolytic 100u 16v 647 uvp1c101mpd 3.5 mm pitch 8mm diameter
@@ -925,6 +928,9 @@ electrolytic 4.7 uf dip 5 11 50v
 100 uf dip 50v
 100 uf smd c 6mm 25v
 cbulk1 cbulk2 cbulk3 aluminium capacitor 180 μ f 16 v 20% oscon 16svpf180m
+47 uf cap al electrolytic 16v 20% radial capacitor product detail en eca 1cm470 p5137 nd 244996
+10 uf al electrolytic 16v 20% radial capacitor product detail en eca 1cm100 p5134 nd 244993
+100 uf al electrolytic 10v 20% radial capacitor product detail en eca 1am101 p5123 nd 244982
 electrolytic capacitor 100 uf 400v 20% radial ecos2gb101ca
 electrolytic capacitor 2200 uf 50v 20% radial eca1ham222x
 electrolytic capacitor 1000 uf 50v 20% radial eca 1hm102b
@@ -934,7 +940,11 @@ electrolytic capacitor 47 uf 63v 20% radial ee uf c1j470b
 electrolytic capacitor 220 uf 50v 20% radial eca 1hm221b
 electrolytic capacitor 4.7 uf 63v 20% radial ee uf c1h4r7b
 electrolytic capacitor 22 uf 63v electrolytic eeueb1j220b
+ecg ece a1en100u cap elect 10 uf 25v su bi polar
 008 1005207200 p0901012 1037 conventional capacitor electrolytic 10 uf 63v 5x11 20% 85c mcgpr63v106m5x11 multico 12.0 4.0 1530.0 allchips multico 1530.0 2.0 0.0218 e
+c6 cap alum 100 uf 20% 50v 8.0 mm dia radial nichicon uvz1h101mpd1td digi key 493 13464 1 nd 0.0757
+220 uf c16 c17 c11 cap d10.0 xf5.0 3 220 uf 50v high frequency valuepro lcsc c44705
+470 uf c14 c15 c18 cap d10.0 xf5.0 3 470 uf 35v valuepro lcsc c2064
 88 插件 电解电容 1000 uf 16v 10x13 cd10 1 cd10 2000
 89 插件 电解电容 100 uf 63v 10x13 cd5 1 cd5 2000
 90 插件 电解电容 220 uf 63v 10x13 cd3 cd6 2 cd3 cd6 4000
@@ -943,10 +953,19 @@ aluminium electrolytic capacitor radial 2.5 mm pitch 47 uf 50v fn 945 1404 pc 16
 aluminium electrolytic capacitor radial 2.5 mm pitch 100 uf 25v fn 945 1188 pc 1100.0 mcgpr25v107m6.3 x11 multicomp
 aluminium electrolytic capacitor radial 3.6 mm pitch 470 uf 25v fn 945 1862 pc 1100.0 mcrh25v477m10x16 multicomp
 capacitor 1000 uf 35v 105c p 5mm ksh108m035s1a1l20 c22
+capacitor 1 cap alum 1000 uf 20% 63 v radial scripts dksearch dksus dll detail itemseq 215117627 uq 636184869557072807
+c1 c3 electrolytic 35v 22 uf 2 667 eeu fc1v220h cap22 uf lead spacing 2.5 mm dia.5 mm
+c13 electrolytic 35v 47 uf 1 667 eeu hd1v470 cap 47 uf lead spacing 2.5 mm dia.5 mm
+c20 c21 electrolytic 35v 100 uf 2 667 eeu fc1v101 cap 100 uf lead spacing 35 mm dia 8mm
+c19 electrolytic 35v 220 uf 1 667 eeu fc1v221l cap 220 uf lead spacing 35 mm dia 8mm
+c22 electrolytic 35v 680 uf 1 667 eeu fc1v681 cap 680 uf lead spacing 5mm dia 125 mm
+c15 c16 electrolytic 35v 2200 uf 2 667 eeu fc1v222 cap 2200 uf lead spacing 75 mm dia 16mm
 电解电容 25v 1000 uf ± 20% 105 ° 10.5 mm c25 c26 c27 c28 c29 c30 c31 c32 8 耐温 105 °
 eca 1vm470i cap alum 47 uf 35v 20% radial 19290
 uvr1v100mdd1ta cap alum 10 uf 35v 20% radial 19780
 c e 100 uf 63v dip 8 12mm pin 8l jackcon lhk101m63v811 1 c4
+9.0 c1 c2 c10 c12 c13 c14 c15 c16 c17 nichicon aluminum electrolytic capacitors leaded 50v olts 10 uf 85c 5x11 2ls uf g1h100mdm 647 uf g1h100mdm 493 13388 nd 0.42 3.78 upgrade elna silmic rfs 10 uf 35v rfs 35v100me3 5
+4.0 c3 c5 c6 c11 nichicon aluminum electrolytic capacitors leaded 35volts 470 uf 85c 12.5 x25 5ls uf g1v471mhm 647 uf g1v471mhm 493 10906 1 nd 1.08 4.32
 capacitor 1000 uf 16v radial lead aluminum eletrolytic capacitor jam 1.0 0
 c5p022ae050x capacitor alum 2.2 mfd 50 vdc radial 715 100 75.0 pc 0.35 0.25 0.2 0.17 0.0 cap
 c6p010ae025 capacitor alum 10 mfd 25 vdc axial floor 393 300.0 pc 0.31 0.2 0.17 0.15 58.95 cap
@@ -963,6 +982,10 @@ c6p022ae016x capacitor alum radial 2200 uf 16 v 715 132 100.0 pc 1.06 0.75 0.6 0
 5 electrolytic capacitor 33 µ f 25 v 7000 ecea1eks330 ecea1eks330 7000.0 0.057 6 12days
 6 electrolytic capacitor 4.7 µ f 25 v 7000 ecea1eks4r7 ecea1eks4r7 3400.0 0.051 6 12days 3400
 电解电容 330 uf 35v 0.2 c211 1 10mm 12mm 50331e3 70
+1 c1 1 6.8 uf uca2g6r8mpd1td nichicon cap al 6.8 µ f 400 v 20% th cappr5 10x16
+2 c2 1 10 uf eeued2g100 cap al 10 µ f 400 v 20% 2.864788 ohm th 10x20
+5 c5 1 10 uf uvr1v100mdd1ta nichicon cap al 10 µ f 35 v 20% th cappr2 5x11
+7 c7 1 1200 uf ee uf m1a122 cap al 1200 µ f 10 v 20% th 10x20
 电解电容 470 uf 16v ccap5.0 10x13 1 e1 35v 16v 20170317 4 100 300
 6 dd y0 470u 16 插件 电解电容 470 uf 16v 8mm 11.5 mm 3.5 mm 1.0 e9 lc
 电解电容 0.22 uf 50v ± 20% ф 4x7mm 4 0

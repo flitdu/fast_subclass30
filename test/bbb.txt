@@ -1,0 +1,28 @@
+__label__贴片电解电容 , capacitor auminum elec 120 uf 10v apxa100ara121mh70g
+__label__板对板连接器 , j1 amp t mt utmi + ulpi combo 1 1734037 0
+__label__贴片电阻 , r23 resistor 20k ohm 1 10w 0.1% 0603 smd era 3yeb203v
+__label__贴片电阻 , r30 r31 resistor 255 1% 1 10w 0603 rc73a2x2550ftferj 3ekf25 50v
+__label__功率电感 , l1 l3 inductor 4.7 uh multi layer shielded 1100ma 0805 lqm2mpn4r7ng0l 9vout
+__label__排针排母 , j2 j3 j9 j10 socket 1 x 6 0.1 inch vertical female 4320 01074 0 mtr down
+__label__连接器附件套件 , j12 j13 j14 j15 j27 j29 receptacle coax u fl smt vertical u fl r smt 1 uf l
+__label__电源连接器 , j36 connector power jack 2.5 mm x 5.5 mm 12 v 4 a right angle th pj 002bh
+__label__拨动开关 , sw2 switch dpdt slide sub mini top actuator th js202011cqn
+__label__74系列逻辑芯片 , u1 u7 u8 u16 u18 u19 ic 74lvc1g14 inverter shottky dck sn74lvc1g14dckr
+__label__MCU监控芯片 , u2 ic tc1270atvct mpu supervisor 3.08 v trip push pull sot23 5 tc1270atvct
+__label__特殊功能放大器 , u3 u5 ic current sense amplifier sot23 5 max9934faua
+__label__USB芯片 , u11 ic usb4624 usb 2.0 and w hsic 4 port qfn48 usb4624 qfn48
+__label__电子线材连接线 , jmp1 j5 pins 3 4 jmp2 j7 pins 3 4 wire jumper 30 awg or larger evb
+__label__开关二极管 , d26 diode switching 75v 0.2 a sot 23 mmbd914 7 f 621 mmbd914 7 f
+__label__拨码开关 , sw1 sw2 switch sip spst 6pos vertical unshielded 20v spa06b 611 spa06b
+__label__模拟开关芯片 , u5 quad 2 1 mux demux fet busswitch pi3b3257qe 729 pi3b3257qe
+__label__门极反相器 , u14 u15 u18 u19 ic b uf f 74lvc1g14se 7 sngl sot 553 74lvc1g14se 7 621 74lvc1g14se 7
+__label__FLASH存储器 , u2 flash serial spi 2.7 3.6 v x1 x2 x4 soic8 sst26vf016b 104i sm 579 st26vf016b104ism
+__label__DC-DC芯片 , u16 ic 2.7 v to 5.5 v 2a synchronous 2mhz buck regulator with adjustable power good signal mic23201yml 998 mic23201ymlt5
+__label__拨动开关 , sw1 sw slide dp3t 12vdc 100ma smt ayz0203agrlc
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn utc2000
+__label__USB芯片 , u4 ic usb3.0 usb2.0 switch 32tqfn pi3usb3102zle
+__label__开关二极管 , d7 dio rectarr bav99 1.25 v 200ma 70v sot 23 3 bav99
+__label__USB连接器 , j2 con usb 3.0 std a rcpt th r a inc 692121030100
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn technology utc2000
+__label__USB芯片 , u3 ic usb3.0 usb2.0 switch 32tqfn pericom pi3usb3102zle
+__label__贴片电阻 , r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate

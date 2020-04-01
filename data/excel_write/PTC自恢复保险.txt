@@ -5,3 +5,8 @@ f1 polyswitch reset 1.1 a 24v smd minismdc110f 24 2 minismdc110f242ct nd 0.6 0.4
 fuse pptc 500ma 1206 pptc 500ma
 pptc 1000ma 1206 smd pptc 1000ma 8v
 tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4
+tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4
+ptc pf0pf1pf2pf3 30r300uu inc ptc 3.00 a 30v resettable kink
+ptc pf4pf5pf6pf7 30r300uu inc ptc 3.00 a 30v resettable kink project 2
+ptc pf9 30r300uu inc ptc 3.00 a 30v resettable kink
+30 ptc resettable fuse 0.145 a hold 0.29 a trip 60vdc 0.8 w 5s 3ohm radial 6.5 x 4.6 x 7mm bulk trf250 145 tyco 1000 500 pack

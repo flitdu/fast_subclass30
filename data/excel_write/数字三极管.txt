@@ -1,4 +1,4 @@
-pmbt3904 small signal transistor sot23 farnell 1081436 yes 0.046 96.0 0.0
+pmbt3904 small signal transistor sot23 farnell 1081436 0.046 96.0 0.0
 2n3904 transistor smd sot 23 6
 2n3906 transistor smd sot 23 3
 fdn338p transistor smd sot 23 3
@@ -16,3 +16,16 @@ q1 q2 mmbt3904 tp trans npn gp 40v sot23 mmbt3904
 晶体 三极管 transistor npn 40v 200ma sot23 1.1 mm mmbt3904 2 q1 q2
 transistor npn 40v 200ma sot23 1.1 mm lmmbt3904 lrc
 transistor npn 40v 200ma sot23 1.1 mm mmbt3904 panjit
+bc846b t r trans npn gp 100ma 65v sot23 sot 23 18
+q8 q11 npn 40v 200ma sot323 on semi mmbt3904wt1g digi key mmbt3904wt1gosct nd 0.02158
+npn 50v 100ma bc547bta fsc 10000 2000 t r
+17 trans gp bjt npn 300v 0.5 a 3 pin to 92 t r mpsa42 116 6000 2000 reel
+18 trans gp bjt npn 45v 0.8 a 3 pin to 92 ammo bc337 25 to 92 18000 5000 box
+mmbt3906 7 f q3 q4 sot23a 568 1655 1 nd
+asm 9v battery snap t type allelectronics bst 61 0.5 jumper2 box
+tran pn2222 npn transistor semiconductor pn2222 pn2222bu nd 0.13 2n2222 cabinet be careful to get pins 1 and 3 correct there are two versions of the chip 2n2222 and pn2222
+tran tip120 darlington npn to220 tip120 tip120 nd 0.68 tip120 cabinet
+tran tip125 darlington pnp to220 tip125 tip125tu nd 0.67 tip125 cabinet
+tran irf540 mosfet n channel to220 irf540 irf540npbf nd 1.95 irf540 valvano
+q1 q5 q6 q1 q8 2n3904 11 610 2n3904 transistor 2n3904
+q2 q3 q4 2n3906 3 610 2n3906 transistor 2n3906

@@ -2,3 +2,4 @@
 12 2c6806a0 d02 s000013 diode ultra fast standard 400v 3a smd do214ab smc 2leads vf1.25 v murs340t3g on 整流 二极管 40
 33 1 57a.10 41540001 整流 二极管 cc 2.2 nf 0603 5% 50v x7r 1 214ab comchip cdbc540 g d4 12
 d11 12 d14 15 stth1l06a diode ultra fast 600v 1a sma stth1l06a digi key 497 3241 1 nd 0.6
+16 diode 100 v 1 a surface mount glass passivated rectifier 214ba gf1b e3 67a g s 1500 1500 reel

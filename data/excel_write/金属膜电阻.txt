@@ -155,15 +155,15 @@ metal film resistors through hole 1 4watt 300kohms 2% rated to 1 2watt 1
 metal film resistors through hole 1 4watt 150kohms 1% 3
 2 r314 r414 6.81 k resistor 0402 6.81 k ohm 1% 100ppm 0.063 w metal film crcw04026k81fk dale
 1 r411 11.8 k resistor 0402 11.8 k ohm 1% 100ppm 0.063 w metal film crcw040211k8fk dale
-r101 r102 res axial metal film 121 ohm 1 4w 1% t h xicon 271 121 rc yes
-r103 res axial metal film 200 ohm 1 4w 1% t h xicon 271 200 rc yes
-r104 res axial metal film 365 ohm 1 4w 1% t h xicon 271 365 rc yes
-r105 r107 res axial metal film 750 ohm 1 4w 1% t h xicon 271 750 rc yes
-r106 res axial metal film 104 k ohm 1 4w 1% t h xicon 271 105 k rc 105 k yes
-r201 res axial metal film 13 k ohm 1 4w 1% t h xicon 271 13 k rc yes
-r202 res axial metal film 82 k ohm 1 4w 1% t h xicon 271 82 k rc yes
-r203 res axial metal film 953 ohm 1 4w 1% t h xicon 271 953 rc yes
-r204 res axial wirewound 033 ohm 1 2w 1% t h phoenix passive 5065fm0r330j12afx yes
+r101 r102 res axial metal film 121 ohm 1 4w 1% t h xicon 271 121 rc
+r103 res axial metal film 200 ohm 1 4w 1% t h xicon 271 200 rc
+r104 res axial metal film 365 ohm 1 4w 1% t h xicon 271 365 rc
+r105 r107 res axial metal film 750 ohm 1 4w 1% t h xicon 271 750 rc
+r106 res axial metal film 104 k ohm 1 4w 1% t h xicon 271 105 k rc 105 k
+r201 res axial metal film 13 k ohm 1 4w 1% t h xicon 271 13 k rc
+r202 res axial metal film 82 k ohm 1 4w 1% t h xicon 271 82 k rc
+r203 res axial metal film 953 ohm 1 4w 1% t h xicon 271 953 rc
+r204 res axial wirewound 033 ohm 1 2w 1% t h phoenix passive 5065fm0r330j12afx
 resistors metal film t454659 002242k 2k4 0.6 w 1% mf60 metal film resistor eurohm 2000
 resistors metal film t454679 002333k 33k 0.6 w 1% mf60 metal film resistor eurohm 10000
 resistors metal film t454774 002274k 270k 0.6 w 1% mf60 resistor eurohm 3000
@@ -770,6 +770,15 @@ r é sistance s ind mfr 3k01 1 4w 1000
 r é sistance s ind mfr 1 4w 5k11 1000
 r é sistance mf25 1 4w 6.19 k 1% 1600
 r é sistance mfr35 6.19 k 1% 3000
+1k ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc1k00 s1kcact nd 2617458
+510k ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc510kr s510kcact nd
+10k ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc10k0 s10kcact nd 2617809
+0 ω resistor metal film 1 4w 1% axial resistor product detail en 1623934 1 a105988ct nd 3477589
+47 k ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc4k70 s47 kcact nd 2617510
+51k ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc51k0 s51kcact nd 2617513
+220 ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc220r s220cact nd 2617470
+100 ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc100r s100cact nd 2617435
+1m ω resistor metal film 1 4w 1% axial resistor product detail en rnmf14ftc1m00 s1mcact nd 2617464
 003 1000205011 p0901008 1012 1037 conventional metal film resistor 0.25 w 1k 1% mf25 1k multico 12.0 7.0 2815.2 allchips 1.0
 003 1001225010 p0901037 conventional metal film resistor 0.6 w 1% 1k mrs25000c1001fct00 15.0 1.0 153.0 allchips 153.0 2.0 0.1077 e
 003 1002205011 p0901008 1012 1037 conventional metal film resistor 0.25 w 10k 1% mf25 10k multico 12.0 14.0 4987.8 allchips multico 5000.0 2.0 0.0105 e
@@ -790,6 +799,69 @@ r é sistance mfr35 6.19 k 1% 3000
 003 4701605011 p0901004 conventional metal film resistor 4.7 k ohm 1 4w 0.25 w 1% axial rnmf14ftc4k70 stackpo 13.0 3.0 183.6 allchips stackpo 5000.0 1.0 0.00917 1.683612
 003 4702605010 p0901004 conventional metal film resistor 47k ohm 1 4w 0.25 w 1% axial rnf14ftd47k0 stackpo 16.0 1.0 61.2 allchips stackpo 5000.0 1.0 0.00783 0.479196
 003 8662205010 p0901004 conventional metal film resistor 86.6 k ohm 1 4w 0.25 w 1% axial mfr 25fbf52 86k6 14.0 1.0 61.2 allchips 61.2 2.0 0.033
+r17 r70 r71 r6 resistor 1% 10r 4 271 10 rc resistor 10r
+r21 r22 resistor 1% 33r 2 271 33 rc resistor 33r
+r84 r85 r4 r5 r13 r14 r8 r9 r8 r20 r34 r47 r31 r42 r55 r64 resistor 1% 51r 16 271 51 rc resistor 51r
+r86 r6 r10 r15 resistor 1% 220r 4 271 220 rc resistor 220r
+r77 resistor 1% 330r 1 271 330 rc resistor 330r
+r17 r21 r23 r30 r31 r32 r33 r34 r35 r36 r37 r28 r39 r52 r63 r16 r60 r44 r70 resistor 1% 470r 19 271 470 rc resistor 470r
+r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 r13 r14 r15 r16 r72 r73 r74 r75 r76 resistor 1% 820r 21 271 820 rc resistor 820r
+r82 r1 r2 r11 r12 r15 r5 r2 r8 r40 r18 r21 resistor 1% 1k 12 271 1k rc resistor 1k
+r19 r22 r24 resistor 1% 1k2 3 271 1.2 k rc resistor 1k2
+r45 r46 r47 r48 r49 r50 r51 r52 r53 r54 r55 r56 r57 r58 r59 r60 r68 resistor 1% 1k5 17 271 1.5 k rc resistor 1k5
+r21 r25 r33 r36 r46 r49 r59 r62 r10 r13 r54 r57 r38 r41 r68 r69 resistor 1% 3k9 16 271 3.9 k rc resistor 3k9
+r61 r62 r63 r64 r65 r66 resistor 1% 4k7 6 271 4.7 k rc resistor 4k7
+r18 r19 r20 resistor 1% 8k2 3 271 8.2 k rc resistor 8k2
+r95 r27 r30 resistor 1% 10k 3 271 10k rc resistor 10k
+r83 r3 r7 r12 r22 r23 r24 r25 r26 r27 r28 r29 resistor 1% 15k 12 271 15k rc resistor 15k
+r11 r23 r37 r50 r2 r45 r58 r65 r15 r26 r40 r53 r4 r48 r61 r66 resistor 1% 30k 16 271 30k rc resistor 30k
+r16 r18 r20 resistor 1% 51k 3 271 51k rc resistor 51k
+r93 resistor 1% 56k 1 271 56.2 k rc resistor 56k
+r25 r28 r38 r39 r10 r11 r13 r14 r1 r16 r3 r4 r6 r7 r9 r17 r19 r20 resistor 1% 68k 18 271 68k rc resistor 68k
+r67 r69 r94 r26 r29 resistor 1% 1m 5 271 1.0 m rc resistor 1m
+0.1 r91 93 94 207 303 305 zerohm jumper wire mfr d 0.0 qbk nd
+196 r64 43 56 69 metal film 1% 1 4w mfr d 196xbk nd
+215 r308 metal film 1% 1 4w mfr d 215xbk nd
+237 r48 metal film 1% 1 4w mfr d 237xbk nd
+383 r309 metal film 1% 1 4w mfr d 383xbk nd
+750 r3 14 metal film 1% 1 4w mfr d 750xbk nd
+825 r51 metal film 1% 1 4w mfr d 825xbk nd
+1.00 k r68 metal film 1% 1 4w mfr d 1.00 kxbk nd
+1.10 k r540 metal film 1% 1 4w mfr d 1.10 kxbk nd
+1.21 k r52 53 metal film 1% 1 4w mfr d 1.21 kxbk nd
+1.47 k r2 metal film 1% 1 4w mfr d 1.47 kxbk nd
+1.62 k r217 44 45 47 46 29 42 400 metal film 1% 1 4w mfr d 1.62 kxbk nd
+1.78 k r55 22 metal film 1% 1 4w mfr d 1.78 kxbk nd
+2.37 k r215 216 218 219 27 28 35 36 38 39 metal film 1% 1 4w mfr d 2.37 kxbk nd
+2.61 k r62 metal film 1% 1 4w mfr d 2.61 kxbk nd
+2.87 k r1 24 metal film 1% 1 4w mfr d 2.87 kxbk nd
+3.16 k r30 41 metal film 1% 1 4w mfr d 3.16 kxbk nd
+3.48 k r37 40 214 metal film 1% 1 4w mfr d 3.48 kxbk nd
+4.22 k r60 metal film 1% 1 4w mfr d 4.22 kxbk nd
+4.64 k r65 metal film 1% 1 4w mfr d 4.64 kxbk nd
+5.11 k r4 5 6 7 49 70 metal film 1% 1 4w mfr d 5.11 kxbk nd
+7.5 k r31 63 metal film 1% 1 4w mfr d 7.50 kxbk nd
+8.25 k r33 metal film 1% 1 4w mfr d 8.25 kxbk nd
+10k r59 metal film 1% 1 4w mfr d 10.0 kxbk nd
+16.2 k r100 304 metal film 1% 1 4w mfr d 16.2 kxbk nd
+21.5 k r302 metal film 1% 1 4w mfr d 21.5 kxbk nd
+26.1 k r208 211 57 58 221 222 metal film 1% 1 4w mfr d 26.1 kxbk nd
+34.8 k r54 metal film 1% 1 4w mfr d 34.8 kxbk nd
+51.1 k r210 213 metal film 1% 1 4w mfr d 51.1 kxbk nd
+61.9 k r306 metal film 1% 1 4w mfr d 61.9 kxbk nd
+110k r66 metal film 1% 1 4w mfr d 110kxbk nd
+147k r67 metal film 1% 1 4w mfr d 147kxbk nd
+261k metal film 1% 1 4w mfr d 261kxbk nd
+8.0 r1 r2 r13 r14 r19 r20 r22 r23 koa speer through hole metal film resistors 1 4w 475k ohm 1% mf1 4dc4753f 660 mf1 4dc4753f 603 mfr 25fbf52 475k 475kxbk nd 0.12 0.96
+2.0 r12 r15 koa speer through hole metal film resistors 1 4w 33.2 k ohm 1% mf1 4dc3322f 660 mf1 4dc3322f 603 mfr 25fbf52 33k2 33.2 kxbk nd 0.12 0.24
+3.0 r5 r21 r24 koa speer through hole metal film resistors 1 4w 10k ohm 1% mf1 4dc1002f 660 mf1 4dc1002f 603 mfr 25fbf52 10k 10.0 kxbk nd 0.12 0.36
+2.0 r8 r9 koa speer through hole metal film resistors 1 4w 1 ohm 1% mf1 4dc1r00f 660 mf1 4dc1r00f 603 mfr 25fbf52 1r 1.0 qbk nd 0.1 0.2
+1.0 r10 koa speer through hole metal film resistors 1 4w 40.2 ohm 1% mf1 4dc40r2f 660 mf1 4dc40r2f 603 mfr 25fbf52 40r2 40.2 xbk nd 0.12 0.12
+2.0 r3 r4 koa speer through hole metal film resistors 1 4w 1k ohm 1% mf1 4dc1001f 660 mf1 4dc1001f 603 mfr 25fbf52 1k 1.00 kxbk nd 0.12 0.24
+4.0 r6 r7 r11 r16 koa speer through hole metal film resistors 1 4w 150ohms 1% mf1 4dc1500f 660 mf1 4dc1500f 603 mfr 25fbf52 150 150xbk nd 0.12 0.48
+12 1 r1 20m 35 kv 05 w ax 775x200 037 res 20m ohm metal film 50w 35 kvdc 5% ppchhj20mct nd vr37000002005jr500
+15 4 r5 r12 r19 r26 43 k 7 50v 3w ax 775x200 037 res 43 k ohm metal film 3w 7 50v dc 5% 594 5093nw4k300j pr03000204301jac00
+16 8 r2 r4 r9 r11 r16 r18 r23 r25 15 m 35 kv 05 w ax 775x200 037 res 15 m ohm metal film 50w 35 kvdc 5% ppchj15 mct nd hvr3700001504jr500
 r3 2 meg ohm 1% 1 4w metal film 1 1 2m 0.1 anchor r3
 2 插件 电阻 100k 1 8w 1% r4 r5 2 0.0205 100k 1 8w 1% 700 5000 0.0232 700 lc
 4 插件 电阻 10k 1 4w 1% r41 1 0.0205 10k 1 4w 1% 5000 5000 0.022 lc

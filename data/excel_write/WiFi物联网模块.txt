@@ -1,3 +1,7 @@
 rn171 smd 47 wifly gsx 802.11 b gwireless lan module
 esp wroom 32 esp wroom 32 esp wroom 32 u1 esp wroom esp wroom 32
 u1 esp 12 e esp8266 esp 12 e esp8266
+u1 module imp005 2.4 ghz and 5ghz wifi ethernet lbwa1uz1gc 901
+u16 module dual band wifi ble type 1mw lga72 lbee5hy1mw
+xbee pro 60mw u fl connection series 1 80215 4 sparkfun products 8710 3795 345
+xbee 1mw u fl connection series 1 80215 4 sparkfun products 8666 2495 226818181818182

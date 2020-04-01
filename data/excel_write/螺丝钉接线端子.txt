@@ -20,3 +20,10 @@ sl1 term block 10pos side ent 3.5 mm 1 1776275 0 a98042 nd 1.43 1.14
 2 pin screw small jst 3.36
 2 pin screw large jst 5.0
 3 pin screw large jst 5.0
+terminal block 12 pin screw terminal block product detail en ostvn12a150 ed10568 nd 1588872
+terminal block 3 pin screw terminal block product detail en ostvn03a150 ed10562 nd 1588863
+terminal block 6 pin screw terminal block product detail en 282834 6 a98337 nd 1153267
+39502 6 fet0 3 1984659 phoenix conn term block t h 6pos 3.5 mm
+39502 6 fet4 7 1984659 phoenix conn term block t h 6pos 3.5 mm project 2
+osttc08 j301j302j303j304 osttc082162 on shore term block 5.08 mm vert 8pos pcb assemble
+screw header 01 3 can 282834 3 tyco term block 3pos side ent 2.54 mm project 2

@@ -11,11 +11,7 @@ rc tr0805b3kp0525 0805 0.1% 3k ohm ever 25ppm 10000
 rc tr0805b7k5p0525 0805 0.1% 7.5 k ohm ever 25ppm 10000
 at0402br 0710kl ± 0.1% 1 16 0402 1
 resist smd 0 063w 0 1% 1k rl rh era 2aeb102x 2050 era 2aeb102x 2050.0 0.0657 7 12days dgk
-精密 电阻 精密 电阻 精密 电阻 10k 0805 1% 10ppm 20000 0.005 stock 6 8weeks
-精密 电阻 精密 电阻 精密 电阻 120k 0805 1% 10ppm 20000 0.005 stock 6 8weeks
-精密 电阻 精密 电阻 精密 电阻 200r 0805 1% 10ppm 20000 0.005 stock 6 8weeks
-精密 电阻 精密 电阻 精密 电阻 10r 0805 0.1% 10ppm 10000
-精密 电阻 精密 电阻 精密 电阻 1206 2k 1% 10ppm 10000 0.0084 stock 6 8weeks
+精密 电阻 精密 电阻 精密 电阻 10r 0805 0.1% 10ppm
 1 精密 电阻 56r 0.1% 603 1 r30 温漂 10ppm 1.0
 2 精密 电阻 68r 0.1% 603 1 r29 1.0
 3 精密 电阻 100r 0.1% 603 1 r44 100r 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
@@ -163,17 +159,17 @@ r5 18k 0805 resistor 0.1% tk25 1 n
 8751 0.1% r88 1608 0603 1 4
 821 0.1% r89 1608 0603 1 4
 76 y 1.0 r724 res high prec metal film chip 0603 susumu rr0816p 1962 d 29c 19.6 k r0603 603 0.5 1 16w
-r18 res 57.6 k 0.001 r0805 yes top resistor 57k6 0805 0.1% 25ppm 0.1 w multicomp mctc0525b5762t5e fec 1575988
-r42 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
-r43 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
-r44 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
-r49 res 499r 0.001 r0603 yes top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
-r57 res 0r 820r 0.01 r0603 yes top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
-r58 res 0r 820r 0.01 r0603 yes top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
+r18 res 57.6 k 0.001 r0805 top resistor 57k6 0805 0.1% 25ppm 0.1 w multicomp mctc0525b5762t5e fec 1575988
+r42 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r43 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r44 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r49 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
+r57 res 0r 820r 0.01 r0603 top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
+r58 res 0r 820r 0.01 r0603 top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
 27 5 r9 r12 r18 e012477 res high pres high stability 33 r0402 0.5 50v 1 16w rt0402dre0733rl rel
 16.0 n r11 r13 r22 r26 r31 r32 r34 r35 r36 r37 r90 r91 r92 r94 r96 res ultra prec ultra reliability mf chip susumu rg1005p 102 b t5 1k r0402 r0402
-54 1 r27 res 316 k ohm 1 10w 01% 0805 0805 t e 1676324 2 a103428ct nd yes
-57 2 r30 r31 res 249 ohm 1 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd yes
+54 1 r27 res 316 k ohm 1 10w 01% 0805 0805 t e 1676324 2 a103428ct nd
+57 2 r30 r31 res 249 ohm 1 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd
 r1 r2 res 0603 24.9 0.5% sususmu rr0816q 24r9 d 39r rr08q24.9 dct nd
 r4 res 0603 2k 0.1% era 3yeb202v p2.0 kyct nd
 resistor 1.00 k ohm 0.1% smt 1206 footprint rm 221 p347 500 daltnpw12061001br75
@@ -231,13 +227,16 @@ res smd 75k ohm 0.1% 1 16w 0603 a103127ct nd 0.21 6 1.26 phase iii pcb
 4 era 2aeb4752x p47.5 kdcdkr nd 47.5 k 0.1% 0.10601000000000001 402 resistor resistor rn1 3 rn0
 54 xxx xxxxx xx res 300 ohm 1 10w ± 0.1% npb 0603 8 r9 r12 r18 r19 r51 r88 r110 r111 era 3aeb301v
 57 xxx xxxxx xx res 16 ohm 1 16w ± 0.5% npb 0603 thin film 12 r13 r15 r16 r17 r23 r35 r87 r92 r93 r99 r103 r109 susumu rr0816q 160 d
-60 xxx xxxxx xx res 100 ohm 1 10w ± 0.1% npb 0603 thin film 2 r29 r30 dale tnpw0603100rbxen no substitues without engineer approval
+60 xxx xxxxx xx res 100 ohm 1 10w ± 0.1% npb 0603 thin film 2 r29 r30 dale tnpw0603100rbxen substitues without engineer approval
 r24 res0603 11.5 k 0.005 r0603 res sm thinfilm 11.5 k 1 10w 0.5% 0603 rt0603drd0711k5l 311 11.5 kdct nd
 r25 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
 r26 res0603 330 0.005 r0603 res sm 330 thinfilm 0.5% rt0603drd07330rl 311 330dct nd
 r32 res0603 dnp 0.005 r0603 res sm thinfilm 330k 1 10w 0.5% 0603 rt0603drd07330kl place
 r37 res0603 1k 0.005 r0603 res sm thinfilm 1k 1 10w 0.5% 0603 rt0603drd071kl 311 1.0 kdct nd
 r38 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
+r2 r13 r18 39855700 6 resistor 01% 0805 10k welwyn pcf0805r 10kbi
+r3 r10 r15 39868220 6 resistor 01% 0805 200k welwyn pcf0805r 200kbi
+17 r7 1 33 rr1220q 220 d susumu co ltd res 22 ohm 0.5% 0.1 w 0805 0805
 60.4 k 7 era 2aeb6042x p60.4 kdctr nd 60.4 k 0.1% 0.060480000000000006 402 resistor resistor rd4 7 rd1 3
 105a700009 01 cr 0 5% 1 10w smd 0603 rm06jtn0 ta i technolongy co ltd rm06jtn0
 105a700009 02 cr 0 5% 1 10w smd 0603 0603waj0000t5e uniroyal industry co ltd 0603waj0000t5e

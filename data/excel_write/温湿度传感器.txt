@@ -1,0 +1,1 @@
+u4 ic sensor temp humidity hts221 4.5% rh micro hts221tr digi key 497 15382 1 nd 1.7136

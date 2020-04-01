@@ -42,7 +42,7 @@ ide2 led 0603 sm leds green lite on trading usa inc ltst c190kgkt 160 1435 1 nd 
 spare led 0603 sm leds blue lite on trading usa inc ltst c190cbkt 160 1432 1 nd 4 d5 1
 d1 led hi eff green 565nm t 1 333201cj 1 1 100 110
 d1 led 0805 2012metric 1.0 led
-led1 red led0603 ltst c191krkt yes yes
+led1 red led0603 ltst c191krkt
 d3 d19 d20 d21 green led 2mm x 1.25 mm led led led light emitting diode led osram lgr971
 d4 d17 d18 yellow led 2mm x 1.25 mm led led light emitting diode led osram lyr976
 d8 d14 d15 d16 led light emitting diode led osram lsr976
@@ -73,13 +73,48 @@ osg50805c1c led0805 chip led0805 rx orange osg50805c1c
 d1 ltst c191kgkt led green clear 0603 smd pwr led
 d3 ltst c191kfkt led super red clr thin 0603 smd tx led
 d4 ltst c191kfkt led super red clr thin 0603 smd rx led
-power led 0603 green green led 0603 yes sig top l1 led smd green osram lgq971 475 1409 1 nd
-status led 0603 yellow yellow led 0603 yes sig top l1 led 0603 yellow osram ly q971 h1k1 36 0 20 r18 475 2557 1 nd
-d11 led red 0603 led super red clear 0603 smd 0.0925 yes yes lite on inc ltst c190krkt
-d12 led green 0603 led green clear 0603 smd 0.0925 yes yes lite on inc ltst c190kgkt
-d22 d24 d26 d27 d29 led orange 0603 led red orange clear 0603 smd 0.0925 yes yes lite on inc ltst c190kakt
-d23 d25 d28 led yellow 0603 led amber yellow clear 0603 smd 0.0925 yes yes lite on inc ltst c190kykt
+power led 0603 green green led 0603 sig top l1 led smd green osram lgq971 475 1409 1 nd
+status led 0603 yellow yellow led 0603 sig top l1 led 0603 yellow osram ly q971 h1k1 36 0 20 r18 475 2557 1 nd
+d11 led red 0603 led super red clear 0603 smd 0.0925 lite on inc ltst c190krkt
+d12 led green 0603 led green clear 0603 smd 0.0925 lite on inc ltst c190kgkt
+d22 d24 d26 d27 d29 led orange 0603 led red orange clear 0603 smd 0.0925 lite on inc ltst c190kakt
+d23 d25 d28 led yellow 0603 led amber yellow clear 0603 smd 0.0925 lite on inc ltst c190kykt
 led led red 2v led 0603 0.4 mm ht19 2132surc62s 宏齐 1 d2
 led led yellow green 2v led 0603 0.5 mm hq19 2151sygc 宏齐 1 d1
 led yellow green 2v led 0603 0.5 mm a sp194g2c c01 4t amicc
 led led amber 2v led 0603 0.4 mm hq19 2151uyoc 宏齐 1 d3
+ltst c170krkt lite on inc led super red clear 0805 smd smd 0805 15
+3mm red led 3mm red led sparkfun products 533
+5mm green led 5mm green led sparkfun products 9592
+led diag power hlmp k150 technologies us inc led 3mm 645nm red diff low curr
+lite on inc ltl 14chj led 3mm red grn biclr wht diff
+technologies us inc hlmp 1540 led 3mm 569nm green water clear
+green led 2v4 20ma lg m676 n2q1 24 hyper bright led
+red 1sa0603 indication led 0603 red 1sa0603s11a0cb01 led2
+green 1sa0603 indication led 0603 green 1sa0603g32a0cb01 led1 led3 led4 led5 led6 led7 led8
+led1 2 elma 90 1801 2731 led r y led 2 2
+d1 led red yellow green 2 2.1 2.2 v 627 590 565nm 8 5 5mcd th right angle 5700100132f digi key 350 1809 nd 1.3221
+d6 led red and green 2 2.1 630 560nm 4 4mcd th right angle 5513508801f digi key 350 2361 nd 0.9332
+d1 led rgb 1.9 3 3v 622 530 470nm 71 140 36mcd plcc 4 dnu cree inc clvba fka caedh8bbb7a363 digi key clvba fka caedh8bbb7a363ct nd 0.357
+d2 led red and green 2 2v 631 571nm 25 35mcd smt liteon ltst c195kgjrkt digi key 160 1452 1 nd 0.1206
+d4 led blue 2.8 v 470nm 15mcd 0603 liteon ltst c193tbkt 5a digi key 160 1827 1 nd 0.0945
+d5 led red 2.0 v 631nm 5ma 0603 liteon ltst c193krkt 5a digi key 160 1830 1 nd 0.0788
+red ra d1 d6 1210 osram 475 2769 1 nd
+red d10 d11 d12 d13 d14 d15 led 0805 754 1133 1 nd
+7 led rot hlmp1700 3 mm d1 m t 2 e
+led green 2ma 5mm diffused technologies hlmp 4740 516 1327 nd 0.29 ledt1.75 cabinet
+led red 1.6 v 1ma 5mm diffused technologies hlmp d150 516 1323 nd 0.29 ledt1.75 cabinet
+led yellow 2ma 5mm diffused technologies hlmp 4719 516 1326 nd 0.29 ledt1.75 cabinet
+led orange 10ma 5mm diffused technologies hlmp d401 516 1330 nd 0.29 ledt1.75 cabinet
+led blue 10ma 5mm diffused 0.99 ledt1.75 cabinet warning the blue leds are very bright
+ledstrips green per 500mm buyledstrip en led strip 5050 60 led m green per 50cm html 4389 399
+ledstrips yellow per 500mm buyledstrip en led strip 5050 60 led m yellow per 50cm html 4389 399
+ledstrips red per 500mm buyledstrip en led strip 5050 60 led m red per 50cm html 4389 399
+ws2812b 20 5v rgb led aliexpress item 1000pcs ws2812b 4p 5050 smd rgb led with built ws2811 ic side 1202431005 html spm 211413010608 00 1kquqo
+wr pa3528ueugub s mmm rgb led smd 3.2 x2.8 mm pkg wr pa3528ueugub s mmm 4 plcc
+ls q976 nr 1 led smd osram red 0603 2.0 v ls q976 nr 1 chipled0603
+lg l29k f2j1 24 z led smd osram green 0603 lg l29k f2j1 24 z chipled0603
+lo l29k h2k1 24 z led smd osram orange 0603 lo l29k h2k1 24 z chipled0603
+ls q976 nr 1 d7 d9 d10 d11 d12 d14 d15 led smd osram red 0603 2.0 v ls q976 nr 1 475 2512 1 nd chipled0603
+wr pa3528ww s d1 rgb led smd 3.2 x2.8 mm pkg led rgb plcc4 4 plcc
+ls q976 nr 1 d4 d8 d9 led smd osram red 0603 2.0 v ls q976 nr 1 475 2512 1 nd chipled0603

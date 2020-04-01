@@ -15,3 +15,6 @@ d24 25 16v smbj5353b tp 16v diode zener 5w 16v smb micro commercial co smbj5353b
 稽納二極體 rd 5.1 f 1w hitachi 1015 dip 35
 d4 zeer diode 5.1 v 150 mw bournes cd0603 z5v1
 dbst zener diode 5.1 v 150 mw inc cd0603 z5v1
+dz1 5.6 v zener zener 35 11 diode zener 5.6 v 500mw 5% 35 1n5232b t
+15 zener diode 6.8 v 1w 213ab melf zm4736a gs18 5000 5000 reel
+bzx84c3v3 d21 sot23a micro commercial bzx84c3v3 tp nd

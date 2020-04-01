@@ -31,9 +31,21 @@ l mmz1608s400a 40r 100mhz 600ma 25% 0603 40r 100mhz 40r 100mhz 600ma emi filter 
 power supply fb 10a 36r 100mhz l laird 35f0121 0sr 10 10a 25% l laird 35f0121 0sr 10 10a 25%
 l1 ferrite bead 180 ω 0603 1ln blm18pg181sn1d
 l2 ferrite bead 180 ω 0603 1ln blm18pg181sn1d
-l2 ferrite bead 1800 ohm 0402 402 yes top 402 bkh1005lm182 t 1515786
-l3 ferrite bead 1800 ohm 0402 402 yes top 402 bkh1005lm182 t 1515786
-l5 600ohm 100mhz 0.25 402 yes top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
-l6 molded inductor 0.5 pin spacing 600ohm 100mhz 0.25 402 yes top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
-l1 bead 600 ohms 100mhz 1206 yes sig top l1 ferrite bead blm31aj601sn1l fec 952 6862
-l2 l3 acm3225 102 2p no standard see reference choke common mode 1000 ohm smd 0.6472 yes yes acm3225 102 2p
+l2 ferrite bead 1800 ohm 0402 402 top 402 bkh1005lm182 t 1515786
+l3 ferrite bead 1800 ohm 0402 402 top 402 bkh1005lm182 t 1515786
+l5 600ohm 100mhz 0.25 402 top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
+l6 molded inductor 0.5 pin spacing 600ohm 100mhz 0.25 402 top 0402 ferrite bead 600ohm impedance 100mhz 7427927161 1961693
+l1 bead 600 ohms 100mhz 1206 sig top l1 ferrite bead blm31aj601sn1l fec 952 6862
+l2 l3 acm3225 102 2p standard see reference choke common mode 1000 ohm smd 0.6472 acm3225 102 2p
+90ohm l0805 filter bead 90ohms 25% cb05ytyh900 fb2 fb4 fb6 fb8
+l0 1 2 3 dale ilb 1206 120ohm multilayer ferrite beads 1206 4
+fb1 ferr bd 1000 ohm 100mhz 350ma 490 mohm 0402 blm15ax102sn1d digi key 490 5442 1 nd 0.02886
+fb2 fb4 ferr bd 120 ohm 100mhz 2a 50 mohm 0603 blm18pg121sn1d digi key 490 1037 1 nd 0.02884
+fb1 ferr bd 120 ohm 100mhz 1.3 a 90 mohm 0402 blm15pd121sn1d digi key 490 5203 1 nd 0.0308
+220 ohm ferrite chip l1 l2 l6 l8 l9 l10 l11 805 445 1568 2 nd
+blm15ag601sn1d ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 3a l0402
+mi0603l221r 10 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 0603 220ohms 2 l0603
+mi0603l221r 10 fb1 fb2 fb3 fb4 fb6 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 0603 240 2558 1 nd 220ohms 2 l0603
+blm15ag601sn1d fb5 fb7 fb8 fb9 fb10 ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 490 1006 1 nd 600ohms 3a l0402
+blm15ag601sn1d fb1 fb2 ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 490 1006 1 nd 3a l0402
+mi0603l221r 10 fb3 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 0603 240 2558 1 nd 220ohms 2 l0603

@@ -1,0 +1,2 @@
+atmega1280 u201 atmega1280 16au ic mcu avr 128k flash 100 tqfp
+technology pic18f2220 i sp ic mcu flash 2kx16 a d 28dip

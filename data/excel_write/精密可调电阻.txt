@@ -70,5 +70,9 @@ p2l p2r 3296w trimpot 100 ω 652 3296w 1 101lf 3 8 multi turn cermet 0.100 lead 
 trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1
 trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2
 trimmer resistors through hole sealed 3296x 1 202r rt1
+r78 r71 r5 r14 r24 r1 r9 r19 r29 trimmer 10k 9 858 64yr10klf trimmer 10k
+tr1 tr2 tr3 trimmer 3 652 3306f 1 103 trimmer 10k contrast
+r41 r42 r43 r44 r45 r46 r47 r48 trimmer 50k 8 858 64yr50klf trimmer 50k
+r72 r7 r17 r27 r3 r12 r22 r32 trimmer 100k 8 858 64pr100klf trimmer 100k
 rv1 rv2 trimmer pot 50k ω 3 8 square cermet potentiometer 25 turn 1 2w 2 2 854006 0.79 jameco rv2
 sx3362p dip vr top adj 1k 3362p resistor 3p l70 w70 h50 mm best seeedstudio wiki images a a6 301040009 pdf 025390625 5 3 03 seeedstudio depot oplopen parts library catalog c 136 138 301040014

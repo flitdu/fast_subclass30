@@ -50,7 +50,7 @@ j1 j2 j13 wm18900 nd 30 conn 01x02 product detail en connector corporation 22 05
 j3 pinheader 2x23 p254 mm vertical 20 prpc023daan rc product detail en sullins connector solutions prpc023daan rc s2011ec 23 nd 2775271
 j4 2x10 254 10 pptc102lfbn rc product detail en sullins connector solutions pptc102lfbn rc s7078 nd 810216
 j7 j6 j5 j8 pinheader 2x37 p127 mm vertical smd 40 conn 02x37 odd even www2 productdetail amphenol fci 20021121 00074t4lf qs % 2fha2pyfaduhk6vede5a0m7iwq% 252bxdlroa% 252b8biup97cmamvc9htrhez6z% 252b% 252behb0gl% 252b
-x3 con 2x5 2mm smd debug m22 5320505 yes yes
+x3 con 2x5 2mm smd debug m22 5320505
 1x5 2.54 mm fci 68000 408hlf nm
 header 2x10 2.54 mm hor smd taitek he2 20g6c394 5r
 header 2x10 1.27 mm smd sullins grpb102vwqs nm
@@ -91,8 +91,89 @@ hdr 100mil 2x2 hdr 100mil 2x2 j2 j7 sullins prec002daan rc s2012ec 02 nd
 hdr 100mil 2x6 hdr 100mil 2x6 j1 j5 j6 sullins prec006daan rc s2012ec 06 nd
 con2 tyco 590042 7 1.27 mm pitch x 2.286 mm height 8 pins header pth
 h2 h3 pptc082lfbn rc conn recept 16pos 100 vert dual 8x2 socket
-j5 con sip 4p dnp sip 4p no sig top l1 generic 4 pin sip header 100 centers inserted
-j9 j10 j26 j27 j32 header 1x2 pin header 1x2 conn header 50pos 100 sngl tin yes yes samtec inc tsw 150 07 t s
-j4 j5 j6 j7 header 1x3 pin header 1x3 conn header 50pos 100 sngl tin 15036 yes yes samtec inc tsw 150 07 t s
-j2 header 2x3 pin header 2x3 conn header 100pos 100 dl tin yes yes samtec inc tsw 150 08 t d
-j11 j14 header 1x9 pin header 1x9 conn header 50pos 100 sngl tin yes yes samtec inc tsw 150 07 t s
+j5 con sip 4p dnp sip 4p sig top l1 generic 4 pin sip header 100 centers t inserted
+j9 j10 j26 j27 j32 header 1x2 pin header 1x2 conn header 50pos 100 sngl tin samtec inc tsw 150 07 t s
+j4 j5 j6 j7 header 1x3 pin header 1x3 conn header 50pos 100 sngl tin 15036 samtec inc tsw 150 07 t s
+j2 header 2x3 pin header 2x3 conn header 100pos 100 dl tin samtec inc tsw 150 08 t d
+j11 j14 header 1x9 pin header 1x9 conn header 50pos 100 sngl tin samtec inc tsw 150 07 t s
+jp9 jp10 jp11 1x3 pin thru hole male header 0.1 inch pitch 22 28 4032
+jp2 jp3 jp7 jp8 1x2 pin thru hole male header 0.1 inch pitch 22 28 5020
+j4 2x14 pin thru hole male right angle header 0.1 inch pitch tsw 114 08 t d ra
+j3 2x3 pin thru hole male right angle header 0.1 inch pitch tsw 103 08 t d ra
+jp2 jp7 jp8 jp9 jp10 jp11 1x2 pin jumper shunt 0.1 inch pitch spc02syan
+female headers 5 up 929984 01 05 rk itsybitsy top row 1.52 6.85
+female headers 14 up 929984 01 14 rk itsybitsy side rows 2.29 10.4
+female headers 4 up 929984 01 04 boost rail 1.52 7.35
+female headers 3 up 929870 01 03 ra lipo charger rail 1 0.65 3.005
+female headers 2 up 929870 01 02 rb lipo charger power rail 0.55 2.525
+female tall headers 4 up 929974 01 04 rk for hacker i o pins 4 digital 4 analog 1.41 6.4
+female tall headers 2 up 929974 01 02 rk for hacker power pins 1.37 6
+male headers low profile 32 up 350 80 164 019101 3mm headers 19 mm plastic part used for itsybitsy 625 2995
+avr isp 6 isp pbc36daan sullins connector solutions conn header 100 dual str 5pos
+avr jtag 10 jtag pbc36daan sullins connector solutions conn header 100 dual str 5pos
+jumper jp501 pbc36saan sullins connector solutions conn header 100 singl str 2pos
+jumper jp502 pbc36saan sullins connector solutions conn header 100 singl str 2pos project 2
+con lsta keypad pbc36saan sullins connector solutions conn header 100 singl str 8pos
+6pin socket header u 20u 21 5 534237 4 tyco conn recept 6pos 100 vert gold
+samtec inc tsw 150 07 t s conn header 50pos 100 sngl tin
+2.54 mm header 3x2way 2.54 mmheader 3x2 2.54 mm 90131 0123 connector header 6pos 2row 2.54 mm
+fan header 4 pin 22 23 2041 kk 254 solid header vertical with friction lock 4 circuits 22 23 2041 j10 j17
+header 5x2 sm ten pin 2 x 5 through hole header 100 mil spacing ch81102v200 j18
+header 7x2 sm 2x7 100 mil simple header ch81142v200 j12
+lvds amp 103240 5 10 pin conn 0.1 x0.1 1
+j1 j2 2 position header 2 pin connector through hole conn header vert 2pos 100 tin 640452 2
+x1 3 pin kk 0156 header 3 pin header through hole conn header 3pos 156 vert tin 26 48 1035
+x2 4 pin kk 0156 header 4 pin header through hole conn header 4pos 156 vert tin 26 48 1045
+x1 3 pin header gold 3 pin header through hole conn header 3pos 156 vert gold 26 48 2035
+x2 4 pin header gold 4 pin header through hole conn header 4pos 156 vert gold 26 48 2045
+x1 3 pin header gold right angle 3 pin header through hole conn header 3pos 156 r a gold 26 61 5030
+x2 4 pin header gold right angle 4 pin header through hole conn header 4pos 156 r a gold 26 61 5040
+j2 hdr 1x2 pin 2.54 mm pitch gold flash vertical th fci 68000 402hlf 4ucon 00795 digi key 609 3503 nd 1.0506 4ucon 00795 0.0045
+j6 j9 hdr 1x4 pin 2mm pitch right angle th seeed 110990037 digi key 1597 1083 nd
+j7 j15 hdr 1x5 pin 2.54 mm pitch gold flash vertical th fci 68000 105hlf 4ucon 806 digi key 609 3462 nd 0.1557 4ucon 806 0.0114
+j13 j16 hdr 1x2 pin 2.54 mm pitch gold flash vertical th fci 68000 402hlf 4ucon 795 digi key 609 3503 nd 1.0506 4ucon 795 0.0045
+hdr 10p dual p2 p1 10 pin berg wm26910 nd
+hdr 3p sgl vert j9 j8 speaker wm4112 nd
+hdr 5p sgl j14 5 pin berg wm6405 nd
+hdr 10p dual j15 alex hdr 10p 10 pin berg wm26910 nd
+hdr 26p dual vert j16 26 pin berg 2x15 a33185 nd
+hdr 4p sgl j19 4 pin berg wm6404 nd
+con 2 to 40 p 0.1 header price per p allelectronics shs 40 0.02 jumper2 cabet
+con 2 pin header allelectronics sbh 2 0.1 jumper2 cabinet
+con 2 pin jumper allelectronics sbc 2 0.27 goes with sbh 2 cabinet
+con 2 pin jumper allelectronics sj 1 0.1 goes with jumper2 cabinet
+con logic analyzer connector fci 68021 208hlf 609 3344 nd 0.27 logicanalyzer cabinet
+con 10 pin 2mm socket for xbee need two samtec sqt 110 01 f s samtec 1 xbeemodule cabinet
+header double row conrad p bkl 10120516 straight double row header nominal current details 3 a 741239 0704 064
+header single row conrad p bkl 10120184 straight nominal current details 3 a 741158 1089 099
+hdr 2 pin header 0.025 pins 0.1 spacing 22 10 2081 538 22 10 2081 0.78 0 0.0
+conn 0001 0003 hdr 1x03 025sq p 100 centers hdr 1x03 th 1x3 break s1011e 36 nd to 1x3 sections each long 1x36 strip will make 12 1x3 hdrs
+conn 0001 0002 hdr 1x02 025sq p 100 centers hdr 1x02 th 1x2 break s1011e 36 nd to 1x2 sections each long 1x36 strip will make 18 1x2 hdrs
+pppc102lfbn rc rec 2x10 0.100 pitch rec 2x10 0.100 pitch th 2x10
+pppc062lfbn rc recptacle 2x06 025sq pin 100 centers rec 2x06 0100 pitch th 2x06 install justified to the left a0 see default shunt and receptacle install map
+pppc062ljbn rc pmod rec 2x06 ra 025sq pin 100 centers pppc062ljbn rc th 2x6 ra
+ftsh 105 01 l dv k hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k smt ftsh 105 l dv
+conn 0001 0002 hdr 1x02 025sq pin 100 centers hdr 1x02 th 1x2 dni
+hdr 1x06 ra hdr 1x06 ra 025sq p 100 centers hdr 1x06 ra th 1x06 ra break s1111e 36 nd to 1x6 sections each long 1x36 strip will make six 1x6 hdrs
+hdr 1x02 smd jp1 jp5 jp6 jp10 hdr 1x02 smd 025sq p 100 centers hdr 1x02 smd 952 2353 nd smd 1x2 breakaway 1x4 to 1x2 sections 2 per 952 2353 nd
+hdr 1x03 smd jp2 jp9 jp11 jp12 jp13 hdr 1x03 smd 025sq pin 100 centers hdr 1x03 smd 952 1951 nd smd 1x3
+conn 0001 0003 jp3 hdr 1x03 025sq pin 100 centers hdr 1x03 s1011e 36 nd th 1x3 dni
+tsm 103 01 l dv jp4 hdr 2x03 smd 025sq pin 100 centers hdr 2x03 smd vertical samtec tsm 103 01 l dv smd 2x3
+conn 0001 0002 jp7 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2 dni
+conn 0001 0003 p4 hdr 1x03 025sq pin 100 centers hdr 1x03 s1011e 36 nd th 1x3
+ssw 110 22 l d vs j9 j10 j13 rec 2x10 smd 0.100 pitch rec 2x10 smd 0.100 pitch samtec ssw 110 22 l d vs smd 2x10
+pppc062ljbn rc pmod j11 j14 rec 2x06 ra 025sq pin 100 centers pppc062ljbn rc s5559 nd th 2x6 ra
+ssw 106 22 l d vs j12 rec 2x06 smd 025sq pin 100 centers rec 2x06 smd vertical samtec ssw 106 22 l d vs smd 2x06
+pppc022ljbn rc pmod j15 rec 2x02 ra 025sq pin 100 centers pppc022ljbn rc s5555 nd th 2x2 ra
+ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k samtec ftsh 105 01 l dv k smt ftsh 105 l dv
+conn 0001 0002 p2 p3 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2
+conn 0001 0002 jp1 jp3 hdr 1x02 025sq p 100 centers hdr 1x02 s1011e 36 nd th 1x2 break 1x36 header to 1x2 sections 18 sections strip
+conn 0001 0003 jp2 hdr 1x03 025sq p 100 centers hdr 1x03 s1011e 36 nd th 1x3 break 1x36 header to 1x3 sections 12 sections strip
+pppc101lfbn rc j1 rec 1x10 0100 pitch rec 1x10 0100 pitch s7043 nd th 1x10 ensure that j1 j2 j6 j7 are all installed perpendicular to the pcb these are to attach an arduino shield brd
+pppc081lfbn rc j2 j6 rec 1x08 025sq pin 100 centers rec 1x08 0100 pitch s7041 nd th 1x8 ensure that j1 j2 j6 j7 are all installed perpendicular to the pcb these are to attach an arduino shield brd
+1212 1238 nd j4 recptacle 2x06 025sq pin 100 centers 803 87 012 10 001101 1212 1238 nd th 2x6 dni
+pppc061lfbn rc j7 rec 1x06 025sq pin 100 centers rec 1x06 0100 pitch s7039 nd th 1x6 ensure that j1 j2 j6 j7 are all installed perpendicular to the pcb these are to attach an arduino shield brd
+ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k smt ftsh 105 l dv
+xpresso hdr 2x27 0.900 p2 hdr 1x36 10u gold 2x per location pbc36saan pbc36saan th 1x36 dni
+conn 0001 0002 p3 p4 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2 dni
+conn 0001 0003 p5 hdr 1x03 025sq pin 100 centers hdr 1x03 s1011e 36 nd th 1x3 dni

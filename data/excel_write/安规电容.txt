@@ -196,6 +196,12 @@ c13 fb b32529c104k box 1nf 2 50v ac kh x1 y2 ceramic p7.5 mm
 1000 pf 400vac safety cap x1 y2 rated de807e102m kh
 1000 pf 400vac safety cap x1 y2 rated de807e102m kh
 1000 pf 400vac safety cap x1 y2 rated de807e102m kh
+56 cap film 4700pf 1.5 kvdc radial b32021a3472m cap film 4700pf 1.5 kvdc radial c15 inc 3 495 4082 nd
+57 cap film 4700pf 1.5 kvdc radial b32021a3472m c16 inc 495 4082 nd
+58 cap film 4700pf 1.5 kvdc radial b32021a3472m c18 inc 495 4082 nd
+59 cap film 0.47 uf 3 10v ac radial b32922c3474m cap film 0.47 uf 3 10v ac radial c28 inc 2 495 2322 nd
+60 cap film 0.47 uf 3 10v ac radial b32922c3474m c64 inc 495 2322 nd
+c5 c6 x2 0.1 uf radial 0.1 1 stalled as x2 std config sr205e104maatr1 581 sr205e104maatr1 0.1 3 0.30000000000000004
 0.1 uf 275v 0.1 uf 275v p 15mm x2 2 cx1 cx2
 2.2 nf 300v 2.2 nf 300v p 7.5 mm y1 4 cy1 cy2 cy3 cy4
 x2 电容 1 uf 275v 误差 ± 10 ％ 直插 脚距 22.5 1 标准件

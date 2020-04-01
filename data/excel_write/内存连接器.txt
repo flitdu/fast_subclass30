@@ -6,3 +6,7 @@
 609 3956 1 nd sd smart card connector smd con sd 9 2 con sd card 10067847
 sd card holder m90 03011 03yd con cenlink m90 03011 03yd con cenlink m90 03011 03yd
 dm3at sf pejm5 dm3at sf pejm5 dm3at sf pejm5 sd conn micro sd r a push push smd dm3at sf pejm5
+amp u sdcard3m u sd 2900 u 1 2908 05wb mg 3m conn eject microsd push push smd project 2
+micro sd push push zm90 sd mmc card connector zm90 15000 0br1 u3
+con socket for micro sd card 473340001 wm3288ct nd 4.02 microsd slot valvano rather included on st7735
+2041021 4 j7 sd card w cd wp smd 2041021 4 a101492ct nd conn sdcard smt

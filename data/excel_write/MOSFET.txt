@@ -20,7 +20,7 @@
 q06 20020001 21 60406000260 场效应管 20v 3.7 a 550mv sot 23 3pin smd infineon irlml6402gtrpbf 35
 q06 20020001 95 70406000780 场效应管 irf4905 55v 74a 20mohm ± 20v to220ab 3pin dip infineon irf4905pbf 705
 q06 20020001 22 60406001780 场效应管 n 沟道 30v 35a ± 20v vsonp 8pin smd csd17577q3a 330
-bss138 n channel mosfet sot23 farnell 9845330 yes 0.31 40.0 0.0
+bss138 n channel mosfet sot23 farnell 9845330 0.31 40.0 0.0
 fdc604pct nd mosfet p ch 20v 5.5 a ssot 6 semi fdc604 ic sot23 6 123
 q2 mosfet n ch 30v 6.5 a 8soic fds6630a fds6630act nd 0.59 0.331
 bss138w diodes inc bss138w 7 f
@@ -30,6 +30,22 @@ n channel powertrench syncfet fds6982as t fds6982as n so 8 t fds6982as n so 8
 dual n channel 20v d s mosfet si1024 t si 1024x n t si 1024x n
 q101 201 202 mosfet n chan 30v irlr8743 dpak irlr8743trpbf irlr8743trpbfct nd 1.74 y
 bss138 mosfet nchannelbss138 sot23 3 q1 q2 q3 common nmosfet parts bss138
-q1 si1012r sc75a yes sig bottom l8 nfet transistor si1012r fec 9550445
-q2 si2333ds sot23 yes sig top l1 pfet transistor si2333ds t1 e3 fec 1470108
+q1 si1012r sc75a sig bottom l8 nfet transistor si1012r fec 9550445
+q2 si2333ds sot23 sig top l1 pfet transistor si2333ds t1 e3 fec 1470108
 场效应 三极管 mosfet p ch 0.053 ohm 4.0 a vgs 1.3 v 1.4 w sot 23 1.25 mm ppmt30v4 prisemi 1 q11
+u14 nand gate sc70 6 nc7sz57p6x
+u13 inverter gate sc70 5 nc7sz04p5x
+u6 1.8 v 0.91 a p channel mosfet sc70 3 si1307dl t1 e3
+si4322dy q501q502q503q504q505q506q507q508 irf8736trpbf international rectifier mosfet n ch 30v 18a 8 soic
+q1 zvn3306 sot 23 3 mosfet n ch 60v 150ma sot23 3 diodes inc zvn3306fta zvn3306fct nd
+q2 zvp3306f sot 23 3 mosfet p ch 60v 90ma sot23 3 diodes inc zvp3306fta zvp3306fct nd
+q1 zvn3306 sot 23 3 mosfet n ch 60v 150ma sot23 3 diodes inc zvn3306fta zvn3306fct nd
+q2 zvp3306f sot 23 3 mosfet p ch 60v 90ma sot23 3 diodes inc zvp3306fta zvp3306fct nd
+q1 pfet 20v 4.2 a 900mv vth sot23 diodes inc dmp2305u 7 digi key dmp2305udict nd 0.08532
+q11 nfet 60v 360ma sot23 2n7002p 215 digi key 568 5818 1 nd 0.02781
+q2 q3 q5 nfet 60v 310ma sot323 2n7002pw 115 771 2n7002pw 115 0.041
+q4 nfet 20v 4.0 a sot23 diodes incorporated dmn2056u 7 digi key dmn2056u 7dict nd 0.09248
+q6 q12 nfet pfet 20v 740ma sot563 diodes incorporated dmc2400uv 7 digi key dmc2400uv 7dict nd 0.08295
+q10 nfet 20v 1 a sot323 diodes incorporated dmg1012uw 7 digi key dmg1012uw 7dict nd 006569
+bss138p 215 q1 q3 trans smd fet n chan 60v 1.6 ohm sot23 bss138p 215 568 10308 1 nd sot23
+pmv48xp q2 high drive fet pchannel sot23 pmv48xp 215 568 7579 1 nd sot23

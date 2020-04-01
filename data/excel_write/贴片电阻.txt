@@ -29,20 +29,20 @@
 60.0 电阻 0603r 0r 4.0 crcw060350rj 1.0 crcw060350r0fkea 5000.0 0.0413 7 11days 1% 50r
 61.0 电阻 0603r 12k 1% 1.0 crcw060312kf 1.0 0603waf1202t5e 5000.0 0.0032 lc
 62.0 电阻 0603r 1m 1.0 crcw06031mf 1.0 0603waf1004t5e 5000.0 0.0032 lc
-5.0 6.0 r2 r35 r53 r63 r96 r99 rk73h1jttd1001f 0.0 10000.0 5000.0 r0603 koa 1k 1% 0603 18000.0 rk73h1jttd1001f koa 18000.0 0.0194 6 10days chip1stop 0.017 18000.0 0.0 2 3 不是 整卷 c 0.0024 verical 6.9
+5.0 6.0 r2 r35 r53 r63 r96 r99 rk73h1jttd1001f 0.0 10000.0 5000.0 r0603 koa 1k 1% 0603 18000.0 rk73h1jttd1001f koa 18000.0 0.0194 6 10days chip1stop 0.017 18000.0 0.0 2 3 c 0.0024 verical 6.9
 6.0 6.0 r3 r5 r28 r34 r42 r56 rk73h1jttd3302f 18000.0 10000.0 5000.0 r0603 koa 33k 1% 0603 18000.0 rk73h1jttd3302f rk73h1jttd3302f 20000.0 16 0.0146 6 10days moq 5k arrow 0.014 16 20000.0 0.0 10 12 0 ver 0.0006 verical 6.2
-7.0 9.0 r15 r16 r17 r18 r19 r29 r32 r77 r106 rk73h1jttd1002f 27000.0 15000.0 5000.0 r0603 koa 10k 1% 0603 27000.0 rk73h1jttd1002f koa 25000.0 0.0091 6 12days 0.0194 chip1stop 0.019 30000.0 0.0 2 3 不是 整卷 c 0.0099 verical 6.9 0.0026 0.0209898
-8.0 4.0 r4 r14 r25 r54 rk73h1jttd6801f 12000.0 10000.0 5000.0 r0603 koa 6.8 k 1% 0603 12000.0 rk73h1jttd6801f koa 12000.0 0.0194 6 10days chip1stop 0.019 12000.0 0.0 2 3 不是 整卷 c 0.000400000000000001 verical 6.9
-9.0 1.0 r22 rk73h1jttd1004f 3000.0 5000.0 5000.0 r0603 koa 1m 1% 0603 3000.0 rk73h1jttd1004f koa 3000.0 0.033 6 12days 0.032 3000.0 0.0 7 12 不够 整卷 m 0.001 icgoo 0.001
+7.0 9.0 r15 r16 r17 r18 r19 r29 r32 r77 r106 rk73h1jttd1002f 27000.0 15000.0 5000.0 r0603 koa 10k 1% 0603 27000.0 rk73h1jttd1002f koa 25000.0 0.0091 6 12days 0.0194 chip1stop 0.019 30000.0 0.0 2 3 c 0.0099 verical 6.9 0.0026 0.0209898
+8.0 4.0 r4 r14 r25 r54 rk73h1jttd6801f 12000.0 10000.0 5000.0 r0603 koa 6.8 k 1% 0603 12000.0 rk73h1jttd6801f koa 12000.0 0.0194 6 10days chip1stop 0.019 12000.0 0.0 2 3 c 0.000400000000000001 verical 6.9
+9.0 1.0 r22 rk73h1jttd1004f 3000.0 5000.0 5000.0 r0603 koa 1m 1% 0603 3000.0 rk73h1jttd1004f koa 3000.0 0.033 6 12days 0.032 3000.0 0.0 7 12 不够 m 0.001 icgoo 0.001
 10.0 5.0 r27 r31 r33 r38 r41 rk73h1jttd2201f 15000.0 10000.0 5000.0 r0603 koa 2.2 k 1% 0603 15000.0 rk73h1jttd2201f koa 15000.0 0.0194 6 10days chip1stop 0.024 15000.0 0.0 7 12 0 m 0.0046 verical 6.9
-11.0 1.0 r37 rk73h2ettd1001f 3000.0 5000.0 5000.0 r1210 koa 1k 1% r1210 3000.0 rk73h2ettd1001f koa 3000.0 0.361 6 10days arrow 0.36 16 3000.0 0.0 7 10 不够 整卷 艾睿 0.001 verical 6.5
+11.0 1.0 r37 rk73h2ettd1001f 3000.0 5000.0 5000.0 r1210 koa 1k 1% r1210 3000.0 rk73h2ettd1001f koa 3000.0 0.361 6 10days arrow 0.36 16 3000.0 0.0 7 10 不够 艾睿 0.001 verical 6.5
 12.0 3.0 r30 r40 r45 rk73h1jttd3300f 9000.0 5000.0 5000.0 r0603 koa 330r 1% 0603 9000.0 rk73h1jttd3300f koa 10000.0 0.013 6 10days arrow 0.013 17 10000.0 0.0 7 10 0 艾睿 0.0 verical 6.9
-13.0 1.0 r49 rk73h1jttd2203f 3000.0 5000.0 5000.0 r0603 koa 220k 1% 0603 3000.0 rk73h1jttd2203f koa 3000.0 0.033 6 12days 0.026 16 3000.0 0.0 7 10 不够 整卷 艾睿 0.007 verical 6.9 0.0028 12000
-14.0 2.0 r61 r103 rk73h1jttd3301f 6000.0 5000.0 5000.0 r0603 koa 3.3 k 1% 0603 6000.0 rk73h1jttd3301f koa 6000.0 0.0248 6 12days 0.024 6000.0 0.0 7 12 符合 整卷 m 0.000799999999999999 icgoo 0.000799999999999999
-15.0 1.0 r73 rk73h1jttd1003f 3000.0 5000.0 5000.0 r0603 koa 100k 1% 0603 3000.0 rk73h1jttd1003f koa 3000.0 0.2935 4 12days e 0.026 16 3000.0 0.0 7 10 符合 整卷 艾睿 0.2675 verical 6.9 0.0029
+13.0 1.0 r49 rk73h1jttd2203f 3000.0 5000.0 5000.0 r0603 koa 220k 1% 0603 3000.0 rk73h1jttd2203f koa 3000.0 0.033 6 12days 0.026 16 3000.0 0.0 7 10 不够 艾睿 0.007 verical 6.9 0.0028 12000
+14.0 2.0 r61 r103 rk73h1jttd3301f 6000.0 5000.0 5000.0 r0603 koa 3.3 k 1% 0603 6000.0 rk73h1jttd3301f koa 6000.0 0.0248 6 12days 0.024 6000.0 0.0 7 12 符合 m 0.000799999999999999 icgoo 0.000799999999999999
+15.0 1.0 r73 rk73h1jttd1003f 3000.0 5000.0 5000.0 r0603 koa 100k 1% 0603 3000.0 rk73h1jttd1003f koa 3000.0 0.2935 4 12days e 0.026 16 3000.0 0.0 7 10 符合 艾睿 0.2675 verical 6.9 0.0029
 16.0 3.0 r102 r105 r107 rk73h2bttd1005f 9000.0 5000.0 5000.0 r1206 koa 10m 1% 1206 9000.0 rk73h2bttd1005f koa 9000.0 0.0496 6 12days 0.048 9000.0 0.0 7 12 0 m 0.0016 icgoo 0.0016
 17.0 4.0 r108 r109 r110 r111 rk73b2ette560j 12000.0 7000.0 r1210 koa 4.7 r 5% 1210 12000.0 1.0
-18.0 2.0 r78 r66 rk73h1jttd3303f 6000.0 5000.0 5000.0 r0603 koa 330k 1% 0603 6000.0 rk73h1jttd3303f koa 6000.0 0.0248 6 12days 0.024 6000.0 0.0 7 12 符合 整卷 m 0.000799999999999999 icgoo 0.000799999999999999
+18.0 2.0 r78 r66 rk73h1jttd3303f 6000.0 5000.0 5000.0 r0603 koa 330k 1% 0603 6000.0 rk73h1jttd3303f koa 6000.0 0.0248 6 12days 0.024 6000.0 0.0 7 12 符合 m 0.000799999999999999 icgoo 0.000799999999999999
 9 5164 1 20000 res 10r 1 16w 5% 0603 smd mcr03ezhj100 rohm
 10 301000600 1 60000 res smd 0603 100r 5% 1 10w wr06x101jtl psa
 11 301006200 1 80000 res 49.9 r 1% 0603 erj 3ekf49r9v
@@ -259,7 +259,7 @@ yr205107w 电阻 0402 51r ± 5% 1.0 r1 0.0 30000.0 0.0025 0.0025
 219.0 2.0 r501 r518 510k r0402 res smd 510kohm 5% 1 16w 0402 lt lf 40
 221.0 1.0 r508 510r r0402 res smd 1kohm 5% 1 16w 0402 lt lf 20
 222.0 2.0 r526 r527 200k r0603 res mf 200k 1 10w 1% 0603 40
-224.0 4.0 sh18 sh19 sh20 sh21 0r sh0201 cc zero ohm cut trace 0201 pads no part to order 80
+224.0 4.0 sh18 sh19 sh20 sh21 0r sh0201 cc zero ohm cut trace 0201 pads part to order 80
 110101500382x 电阻 chip res 0805 30 ω 1 10w 士 5% 11270017 15000
 110101500390x 电阻 chip res 0805 47 k ω 1 10w 士 5% 11270025 60000
 110101500449x 电阻 chip res 0805 499k ω 1 10w 士 1% 150000
@@ -2102,76 +2102,76 @@ r1 r7 erj 3ekf1002v res smd 10k ohm 1% 1 10w 0603 10k
 r2 r12 r13 erj 3ekf1001v res smd 1k ohm 1% 1 10w 0603 1k
 r3 r4 r5 r6 r9 erj 3ekf1002v res smd 10k ohm 1% 1 10w 0603 10k
 r8 r11 erj 3ekf27r0v res smd 27 ohm 1% 1 10w 0603 27r
-r1 10k ± 1% r0603 yes top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
-r2 10k ± 1% r0603 yes top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
-r4 10k ± 1% r0603 yes top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
-r5 10k ± 1% r0603 yes top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
-r7 1.2 k fit 0.001 805 yes top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
-r8 1.2 k fit 0.001 805 yes top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
-r9 1.2 k fit 0.001 805 yes top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
-r10 1.2 k fit 0.001 805 yes top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
-rt 120r fit ± 5% 805 yes top resistor phycomp rc0805jr 07120rl fec 9233890
-rt1 120r fit ± 5% 805 yes top resistor phycomp rc0805jr 07120rl fec 9233890
-r2 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r3 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r4 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r5 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r6 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r7 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r8 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r9 res 0r 0.05 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r10 res 0r 0.05 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r11 res 1k 0.05 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 1k 1% r rmcf1 16s1kfrct nd
-r12 res 330r 0.05 r0402 yes sig bottom l8 smd resistor rc0402jr 07330rl 311 330jct nd
-r13 res 100k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r14 res 0r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r15 res dnp r0402 yes sig top l1 smd resistor tyco inserted
-r16 res 2k2 0.05 r0402 yes sig bottom l8 smd resistor tyco crg0402j2k2 10 fec 1174156
-r17 res 2k2 0.05 r0402 yes sig bottom l8 smd resistor tyco crg0402j2k2 10 fec 1174156
-r18 res 200k 0.05 r0402 yes sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
-r19 res dnp r0402 yes sig top l1 inserted
-r20 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r21 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r22 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r23 res 200k 0.05 r0402 yes sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
-r24 res 100k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r25 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r26 res 680r 0.05 r0402 yes sig top l1 res 680 ohm 1 16w 5% 0402 smd rohm mcr01mzpj681 rhm680jct nd
-r33 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r40 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r41 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r42 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r43 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r44 res 200k 0.05 r0402 yes sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
-r45 res 76.8 k ± 1% r0402 yes sig top l1 res 76.8 k ohm 1 16w 1% 0402 smd crcw040276k8fked 541 76.8 kltr nd
-r46 res dnp r0402 yes sig bottom l8 inserted
-r47 res 100k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r48 res 100k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r49 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r50 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r51 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r52 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r53 res 100k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r54 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r56 res 76.8 k ± 1% r0402 yes sig top l1 res 76.8 k ohm 1 16w 1% 0402 smd crcw040276k8fked 541 76.8 kltr nd
-r57 res 33r 0.05 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r58 res 25.5 k 0.01 r0402 yes sig top l1 smd resistor stackpole rmcf0402ft25k5 rmc1 16s25.5 kfr nd
-r59 res dnp r0402 yes sig top l1 inserted
-r60 res 0r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r61 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r62 res 0r 0.05 r0402 yes sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r99 res 1k 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 1k 1% r rmcf1 16s1kfrct nd
-r100 res 1m 0.01 r0402 yes sig top l1 res 1.00 m ohm 1 10w 1% 0402 smd erj 2rkf1004x p1.00 mlct nd
-r102 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r103 res 33r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
-r104 res 10k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 10k 1% r rmcf1 16s10kfrct nd
-r105 res 10k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 10k 1% r rmcf1 16s10kfrct nd
-r106 res 24.9 k 0.01 r0402 yes sig bottom l8 res 24.9 k ohm 1 16w 1% 0402 smd crcw040224k9fked 541 24.9 klct nd
-r107 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r110 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
-r111 res 330r 0.05 r0402 yes sig top l1 smd resistor rc0402jr 07330rl 311 330jct nd
-r119 res 0r 0.05 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
-r125 res 100k 0.01 r0402 yes sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r1 10k ± 1% r0603 top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
+r2 10k ± 1% r0603 top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
+r4 10k ± 1% r0603 top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
+r5 10k ± 1% r0603 top resistor 0603 10k multicomp mcmr06x1002ftl fec 2073349
+r7 1.2 k fit 0.001 805 top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
+r8 1.2 k fit 0.001 805 top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
+r9 1.2 k fit 0.001 805 top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
+r10 1.2 k fit 0.001 805 top resistor 0805 1k2 0.1% 0.125 w era6aeb122v fec 1577660
+rt 120r fit ± 5% 805 top resistor phycomp rc0805jr 07120rl fec 9233890
+rt1 120r fit ± 5% 805 top resistor phycomp rc0805jr 07120rl fec 9233890
+r2 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r3 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r4 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r5 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r6 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r7 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r8 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r9 res 0r 0.05 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r10 res 0r 0.05 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r11 res 1k 0.05 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 1k 1% r rmcf1 16s1kfrct nd
+r12 res 330r 0.05 r0402 sig bottom l8 smd resistor rc0402jr 07330rl 311 330jct nd
+r13 res 100k 0.01 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r14 res 0r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r15 res dnp r0402 sig top l1 smd resistor tyco inserted
+r16 res 2k2 0.05 r0402 sig bottom l8 smd resistor tyco crg0402j2k2 10 fec 1174156
+r17 res 2k2 0.05 r0402 sig bottom l8 smd resistor tyco crg0402j2k2 10 fec 1174156
+r18 res 200k 0.05 r0402 sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
+r19 res dnp r0402 sig top l1 inserted
+r20 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r21 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r22 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r23 res 200k 0.05 r0402 sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
+r24 res 100k 0.01 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r25 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r26 res 680r 0.05 r0402 sig top l1 res 680 ohm 1 16w 5% 0402 smd rohm mcr01mzpj681 rhm680jct nd
+r33 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r40 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r41 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r42 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r43 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r44 res 200k 0.05 r0402 sig top l1 smd resistor rc0402jr 07200kl 311 200kjrct nd
+r45 res 76.8 k ± 1% r0402 sig top l1 res 76.8 k ohm 1 16w 1% 0402 smd crcw040276k8fked 541 76.8 kltr nd
+r46 res dnp r0402 sig bottom l8 inserted
+r47 res 100k 0.01 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r48 res 100k 0.01 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r49 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r50 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r51 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r52 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r53 res 100k 0.01 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r54 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r56 res 76.8 k ± 1% r0402 sig top l1 res 76.8 k ohm 1 16w 1% 0402 smd crcw040276k8fked 541 76.8 kltr nd
+r57 res 33r 0.05 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r58 res 25.5 k 0.01 r0402 sig top l1 smd resistor stackpole rmcf0402ft25k5 rmc1 16s25.5 kfr nd
+r59 res dnp r0402 sig top l1 inserted
+r60 res 0r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r61 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r62 res 0r 0.05 r0402 sig top l1 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r99 res 1k 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 1k 1% r rmcf1 16s1kfrct nd
+r100 res 1m 0.01 r0402 sig top l1 res 1.00 m ohm 1 10w 1% 0402 smd erj 2rkf1004x p1.00 mlct nd
+r102 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r103 res 33r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 33 5% r rmcf1 16s33jrct nd
+r104 res 10k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 10k 1% r rmcf1 16s10kfrct nd
+r105 res 10k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 10k 1% r rmcf1 16s10kfrct nd
+r106 res 24.9 k 0.01 r0402 sig bottom l8 res 24.9 k ohm 1 16w 1% 0402 smd crcw040224k9fked 541 24.9 klct nd
+r107 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r110 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
+r111 res 330r 0.05 r0402 sig top l1 smd resistor rc0402jr 07330rl 311 330jct nd
+r119 res 0r 0.05 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 0 r rmcf1 16s0rct nd
+r125 res 100k 0.01 r0402 sig bottom l8 smd resistor stackpole rmcf 1 16s 100k 1% r rmcf1 16s100kfrct nd
 r10 res 560r ± 1% r0603 resistor 0603 560r multicomp mc 0.063 w 0603 1% 560r fec 9331344
 r13 res 620r ± 1% r0603 resistor thick film 620 ohm 63mw 1% multicomp mc0.063 w06031% 620rfr fec 1127577
 r14 res 620r ± 1% r0603 resistor thick film 620 ohm 63mw 1% multicomp mc0.063 w06031% 620rfr fec 1127577
@@ -2185,20 +2185,20 @@ r21 res 560r ± 1% r0603 resistor 0603 560r multicomp mc 0.063 w 0603 1% 560r fe
 r22 res 1r6 ± 1% r0603 resistor surge 1r6 1% 0603 koa sg73s1jttd1r60f fec 1627674
 r23 res 75k ± 1% r0603 resistor 75k 100mw 1% draloric crcw060375k0fkea fec 2138485
 r24 res 75k ± 1% r0603 resistor 75k 100mw 1% draloric crcw060375k0fkea fec 2138485
-r3 r10 r19 2.2 k 0805 res 2.2 k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 072k2l
-r11 5.6 k 0805 res 5.6 k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 075k6l
-r12 r14 r16 4.7 k 0805 res 4.7 k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 074k7l
-r13 1.8 k 0805 res 1.8 k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 071k8l
-r15 ik 0805 res 1k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 071kl
-r17 1m 0805 res 1m ohm 1 8w 5% 0805 smd 0.0234 yes yes populate rc0805jr 071ml
-r18 r76 r77 0 0805 res 0 ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 070rl
-r20 r21 470 0805 res 470 ohm 1 8w 5% 0805 smd 0.0234 yes yes rohm mcr10ezhj471
-r22 r23 r24 r28 r29 r30 3k3 0805 res 3.3 k ohm 1 8w 5% 0805 smd 0.0234 yes yes rc0805jr 073k3l
-r25 r27 r31 r33 47 0805 res 47 ohm 1 8w 5% 0805 smd 0.0234 yes yes rc0805jr 0747rl
-r26 r32 10 0805 res 10 ohm 1 8w 5% 0805 smd 0.0234 yes yes rc0805jr 0710rl
-r34 10k 0805 res 10k ohm 1 8w 5% 0805 smd 0.0234 yes yes 100 rc0805jr 0710kl
-r35 r67 r68 r69 r70 r71 r72 r73 r74 r75 620 1 4w 1206 res 620 ohm 1 4w 1% 1206 smd 0.0273 yes yes rohm mcr18ezhf6200
-r37 r38 60.4 k 1% 0805 res 60.4 ohm 1 8w 1% 0805 smd 0.02465 yes yes rc0805fr 0760r4l
+r3 r10 r19 2.2 k 0805 res 2.2 k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 072k2l
+r11 5.6 k 0805 res 5.6 k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 075k6l
+r12 r14 r16 4.7 k 0805 res 4.7 k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 074k7l
+r13 1.8 k 0805 res 1.8 k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 071k8l
+r15 ik 0805 res 1k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 071kl
+r17 1m 0805 res 1m ohm 1 8w 5% 0805 smd 0.0234 populate rc0805jr 071ml
+r18 r76 r77 0 0805 res 0 ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 070rl
+r20 r21 470 0805 res 470 ohm 1 8w 5% 0805 smd 0.0234 rohm mcr10ezhj471
+r22 r23 r24 r28 r29 r30 3k3 0805 res 3.3 k ohm 1 8w 5% 0805 smd 0.0234 rc0805jr 073k3l
+r25 r27 r31 r33 47 0805 res 47 ohm 1 8w 5% 0805 smd 0.0234 rc0805jr 0747rl
+r26 r32 10 0805 res 10 ohm 1 8w 5% 0805 smd 0.0234 rc0805jr 0710rl
+r34 10k 0805 res 10k ohm 1 8w 5% 0805 smd 0.0234 100 rc0805jr 0710kl
+r35 r67 r68 r69 r70 r71 r72 r73 r74 r75 620 1 4w 1206 res 620 ohm 1 4w 1% 1206 smd 0.0273 rohm mcr18ezhf6200
+r37 r38 60.4 k 1% 0805 res 60.4 ohm 1 8w 1% 0805 smd 0.02465 rc0805fr 0760r4l
 片状 电阻 res film 0 1a 0402 0.4 mm rc0402jr 070rl 5 r3 r5 r6 r25 r35 0
 片状 电阻 res film 33 5% 1 16w 0402 0.4 mm rc0402jr 0733rl 2 r31 r33 33
 片状 电阻 res film 100 5% 1 16w 0402 0.4 mm rc0402jr 07100rl 1 r7 100
@@ -2211,3 +2211,267 @@ r37 r38 60.4 k 1% 0805 res 60.4 ohm 1 8w 1% 0805 smd 0.02465 yes yes rc0805fr 07
 片状 电阻 res film 10k 5% 1 16w 0402 0.4 mm rc0402jr 0710kl 7 r12 r15 r24 r27 r43 r46 r36 10k
 片状 电阻 res film 82k 1% 1 16w 0402 0.4 mm rc0402fr 0782kl 2 r29 r28 82k
 片状 电阻 res film 20k 1% 1 16w 0402 0.4 mm rc0402fr 0720kl 1 r30 20k
+r13 any 402 res 2k 0402 1%
+r33 any 402 res 348 k 0402 1%
+r11 any 402 res 102k 0402 1%
+r12 r14 any 402 res 150k 0402 1%
+r22 r24 any 402 res 75k 0402 1%
+r15 any 402 res 200k 0402 1%
+r21 any 402 res 187k 0402 1%
+r23 any 402 res 365 k 0402 1%
+r25a any 402 res 634 k 0402 1%
+r25b any 402 res 499 k 0402 1%
+erj 6geyj102v ecg res 1.0 k ohm 1 8w 5% 0805 smd smd smt 0805 8
+9c08052a1002jlhft corporation res 10k ohm 1 8w 5% 0805 smd smd smt 0805 37
+9c08052a4701jlhft corporation res 4.7 k ohm 1 8w 5% 0805 smd smd smt 0805 16
+erj 8enf2490v ecg res 249 ohm 1 4w 1% 1206 smd 1206 12
+crcw08051k20jnta dale 1 8watt 1.2 kohms 5% smd smt 0805 1
+rc0805jr 075k6l corporation res 5.6 k ohm 1 8w 5% 0805 smd smd smt 0805 1
+erj 6geyj302v ecg res 3.0 k ohm 1 8w 5% 0805 smd smd smt 0805 1
+mcr10ezhf1472 rohm res 14.7 k ohm 1 8w 1% 0805 smd smd smt 0805 1
+rc0805fr 0720kl corporation res 20.0 k ohm 1 8w 1% 0805 smd smd smt 0805 1
+9c08052a3003jlhft corporation res 300k ohm 1 8w 5% 0805 smd smd smt 0805 1
+crcw080510r0jkta dale res 10 ohms 1 8w 5% smd smt 0805 4
+r1 r3 0r t 0402
+r2 10k t 0402
+r17 r18 0r t 0402 nm
+r51 1r t 0402
+r246 100r t 0402
+r405 r406 15r t 0402
+r5 1m ohm 5% 0603 resistor rk73b1jttd105j
+r7 r13 r14 r23 r24 r25 r26 r27 r28 r29 r30 r34 r36 r37 r39 r43 r42 r45 100k ohm 5% 0603 resistor rk73b1jttd104j
+r22 12.4 k ohm 1% 0603 resistor crcw060312k4fkea
+r35 r40 r41 10k ohm 5% 0603 resistor rk73b1jttd103j
+r4 1k ohm 5% 0603 resistor rk73b1jttd102j
+r19 r20 180 ohm 5% 0603 resistor rk73b1jttdd181j
+r1 r2 r3 r32 100 ohm 5% 0603 resistor rk73b1jttd101j
+r8 r9 r17 r18 49.9 ohm 1% 0603 resistor crcw060349r9fkeb
+r6 10 ohm 1% 1 12w 0603 resistor crcw060310r0fkeb
+r15 0 ohm 5% 0603 resistor crcw06030000z0ea
+res 10 ohm r501r502r503r504r505r506r507r508 erj 3ekf10r0v ecg res 10.0 ohm 1 10w 1% 0603 smd
+res 62 ohm r701r702r703r704 erj 3ekf62r0v ecg res 62.0 ohm 1 10w 1% 0603 smd
+res 220 ohm r202r203 erj 3ekf2200v ecg res 220 ohm 1 10w 1% 0603 smd
+10k r201r205r365r366r367r368r369r370r371r372r373r374r375r376r377r378r379r380 erj 3ekf1002v ecg res 10.0 k ohm 1 10w 1% 0603 smd
+4k75 r204 erj 3ekf4751v ecg res 4.75 k ohm 1 10w 1% 0603 smd
+150k thickfilm 1pc 100mw mcr03ezpf1503 thick film resistor
+1k thickfilm 1pc 100mw mcr03ezpfx1001 thick film resistor
+10k thickfilm 1pc 100mw mcr03ezpfx1002 thick film resistor
+100r thickfilm 1pc 100mw mcr03ezpf1000 thick film resistor
+390r thickfilm 1pc 100mw crcw0603390rfkea thick film resistor
+2r thickfilm 5pc 200mw erjp03j2r0v thick film resistor
+4.7 kohm r0402 res 0402 1 16w 4.7 k 1% rc0402fr 074k7l r5 r27 r37 r40 r60 r68 r101 r102 r104 r105
+0 r0402 res 0402 1 16w 0 5% rc0402jr 070rl r17 r65 r81 r82 r83 r84 r85 r86 r87 r88 r89 r90 r91 r92
+10kohm r0402 res 0402 1 16w 10k 1% rc0402fr 0710kl r23 r25 r66 r67 r99 r28 r69
+100kohm r0402 res mf 100.0 k 1 16w 1% 0402 rc0402fr 07100kl r22 r75 r77
+1.6 k r0402 res mf 1.6 k 1 16w 1% 0402 rc0402fr 071k6l r29 r30
+15kohm r0402 res 0402 1 16w 15k 1% rc0402fr 0715kl r76 r78
+22ohm r0402 res mf 22 ohm 1 10w 0402 rc0402fr 0722rl r1 r3
+110kohm r0402 res 0402 1 16w 110k 1% rc0402fr 07110kl r13 r16
+115kohm r0402 res 0402 1 16w 115k 1% rc0402fr 07115kl r19
+50kohm r0402 res mf 50k 1 16w 1% 0402 rc0402fr 0750kl r21
+25.5 kohm r0402 res 0402 1 16w 25.5 k 1% rc0402fr 0725k5l d2 r24
+2.2 kohm 402 chip res 2.2 k 1 16w 0402 rc0402jr 072k2l r31
+r0 3 0 4 1 3 1 4 2 3 2 4 3 3 3 4 generic resistor 240 1206 8
+r0 1 0 2 1 1 1 2 2 1 2 2 3 1 3 2 generic resistor 160 1206 8
+rl1 1 1 2 2 1 2 2 generic resistor 1k 1206 4
+r1 4 generic resistor 100k 1206 4
+rtp1 2 generic resistor 160 1206 2
+rp0 1 8 rp3 1 8 generic resistor 180 805 32
+rs0 11 generic resistor 33 805 12
+rp0 9 26 rp3 9 26 generic resistor 180 402 72
+r4 5 r9 res0603 10k 10k r0603 res 10k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt10k0 rmcf0603jt10k0ct nd
+r7 res0603 12k 12k r0603 res 12k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt12k0 rmcf0603jt12k0ct nd
+r8 res0603 18k 18k r0603 res 18k ohm 1 10w 1% 0603 stackpole inc rmcf0603ft14k3 rmcf0603ft14k3ct nd
+r2 res0603 100k 100k r0603 res 200k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt200k rmcf0603jt200kct nd
+r1 r3 res0603 20k 20k r0603 res 20k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt20k0 rmcf0603jt20k0ct nd
+r6 res0603 23.2 k 23.2 k r0603 res 23.2 k ohm 1 10w 1% 0603 stackpole inc rmcf0603ft23k2 rmcf0603ft23k2ct nd
+r10 res0603 50 50 r0603 res 50 ohm 125mw 5% 0603 smd thin film fc0603e50r0jst1 fc0603e50r0jst1 nd
+r4 5 r9 res0603 10k 10k r0603 res 10k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt10k0 rmcf0603jt10k0ct nd
+r7 res0603 12k 12k r0603 res 12k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt12k0 rmcf0603jt12k0ct nd
+r8 res0603 18k 18k r0603 res 18k ohm 1 10w 5% 0603 stackpole inc rmcf0603ft14k3 rmcf0603jt18k0ct nd
+r2 res0603 100k 100k r0603 res 100k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt100k rmcf0603jt100kct nd
+r1 r3 res0603 20k 20k r0603 res 20k ohm 1 10w 5% 0603 stackpole inc rmcf0603jt20k0 rmcf0603jt20k0ct nd
+r6 res0603 23.2 k 23.2 k r0603 res 23.2 k ohm 1 10w 1% 0603 stackpole inc rmcf0603ft23k2 rmcf0603ft23k2ct nd
+r10 res0603 50 50 r0603 res 49.9 ohm 1 10w 1% 0603 smd erj 3ekf49r9v p49.9 hct nd
+r1 r2 r10 r11 r20 r21 r40 r41 r43 r332 res 100k 5% 0.063 w 0402 rc1005j104cs rohm mcr01mrtj104 digi key 1276 4424 1 nd 0.0023 digi key hm100kcect nd 0.00233
+r3 res 10m ohm 5% 0.063 w 0402 rc0402jr 0710ml rc1005j106cs digi key 311 10mjrct nd 0.00213 digi key 1276 4470 1 nd 0.00233
+r4 r5 r22 r23 r24 r44 res 22 ohm 5% 0.063 w 0402 rc0402jr 0722rl stackpole rmcf0402jt22r0 digi key 311 22jrct nd 0.00237 digi key rmcf0402jt22r0ct nd 0.00256
+r7 r12 r15 r30 r42 res 10k 5% 0.063 w 0402 stackpole rmcf0402jt10k0 rohm mcr01mrtj103 digi key rmcf0402jt10k0ct nd 0.00256 digi key rhm10kcect nd 0.00352
+r8 r9 r13 r16 r31 r32 res 100 ohm 1% 0.063 w 0402 rc0402fr 07100rl rohm mcr01mrtf1000 digi key 311 100lrct nd 0.0027 digi key rhm100cdct nd 0.0048
+r14 res 1k 5% 0.063 w 0402 rc0402jr 071kl rohm mcr01mzpj102 digi key 311 1.0 kjrct nd 0.00237 digi key rhm1.0 kjct nd 0.00384
+r17 r18 r29 r33 r35 r39 res 220 ohm 5% 0.063 w 0402 rc0402jr 07220rl erj 2gej221x digi key 311 220jrct nd 0.00237 digi key p220jct nd 0.0048
+r19 r25 r36 r37 res 49.9 ohm 1% 0.063 w 0402 rohm mcr03ertf49r9 rc1608f49r9cs digi key rhm49.9 cfct nd 0.0021 digi key 1276 3505 1 nd 0.0021
+r26 res 12.4 k 1% 0.1 w 0402 erj 2rkf1242x digi key p12.4 kltr nd 0.00347
+r27 res 68k 5% 0.063 w 0402 rc1005j683cs rc0402jr 0768kl digi key 1276 4420 1 nd 0.0023 digi key 311 68kjrct nd 0.00237
+r28 res 12k 1% 0.063 w 0402 rc0402fr 0712kl rohm mcr01mrtf1202 digi key 311 12.0 klrct nd 0.0027 digi key rhm12.0 kcdct nd 0.00233
+r34 res 10 ohm 1% 0.1 w 0402 erj 2rkf10r0x digi key p10.0 lct nd 0.00672
+r38 res 21.5 k ohm 1% 0.063 w 0402 rc0402fr 0721k5l digi key 311 21.5 klrct nd 0.00184
+r45 r46 res 4.7 k 5% 0.063 w 0402 rc0402jr 074k7l rohm mcr01mrtj472 digi key 311 4.7 kjrct nd 0.00237 digi key rhm4.7 kcect nd 0.00352
+r47 r48 res 470k 5% 0.063 w 0402 rc0402jr 07470kl rohm mcr01mrtj474 digi key 311 470kjrct nd 0.00237 digi key rhm470kcect nd 0.00352
+r330 r331 res 33 ohm 1% 0.063 w 0402 rohm mcr01mrtf33r0 rc0402fr 0733rl digi key rhm33.0 cdtr nd 0.00132 digi key 311 33.0 lrtr nd 0.00149
+r1 r4 r6 r8 r51 r59 r60 r63 res 10k 1% 0.063 w 0402 rc0402fr 0710kl rohm mcr01mrtf1002 digi key 311 10.0 klrct nd 0.0027 digi key rhm10.0 kcdct nd 0.0048
+r2 r3 r7 r32 r38 res 220 ohm 5% 0.063 w 0402 rc0402jr 07220rl erj 2gej221x digi key 311 220jrct nd 0.00237 digi key p220jct nd 0.0048
+r5 r58 res 22k 5% 0.063 w 0402 rc0402jr 0722kl erj 2gej223x digi key 311 22kjrct nd 0.00237 digi key p22kjct nd 0.0048
+r9 r21 res 10 ohm 1% 0.1 w 0402 erj 2rkf10r0x digi key p10.0 lct nd 0.00672
+r10 res 5.23 k 1% 0.063 w 0402 erj 2rkf5231x digi key p5.23 klct nd 0.00566
+r11 r12 r36 r37 r57 res 4.7 k 5% 0.063 w 0402 rc0402jr 074k7l rohm mcr01mrtj472 digi key 311 4.7 kjrct nd 0.00237 digi key rhm4.7 kcect nd 0.00352
+r13 res 29.4 k 1% 0.063 w 0402 erj 2rkf2942x digi key p29.4 klct nd 0.00566
+r14 r39 r43 r52 res 470 ohm 5% 0.063 w 0402 rc0402jr 07470rl stackpole rmcf0402jt470r digi key 311 470jrct nd 0.00237 digi key rmcf0402jt470rct nd 0.00256
+r15 res 160 ohm 1% 0.063 w 0402 rc0402jr 07160rl digi key 311 160jrct nd 0.00233
+r17 res 1k 1% 0.063 w 0402 rc0402fr 071kl stackpole rmcf0402ft1k00 digi key 311 1.00 klrct nd 0.0027 digi key rmcf0402ft1k00ct nd 0.00384
+r19 r23 r25 r26 r27 r28 r29 r31 r33 r34 r35 r40 r42 r44 r46 r47 r49 r50 r53 r54 r55 r56 r61 r64 res 100k 1% 0.063 w 0402 rc0402fr 07100kl stackpole rmcf0402ft100k digi key 311 100klrct nd 0.0027 digi key rmcf0402ft100kct nd 0.00384
+r20 r30 r41 res 1m 1% 0.1 w 0402 stackpole rmcf0402ft1m00 rohm mcr01mrtf1004 digi key rmcf0402ft1m00ct nd 0.00384 digi key rhm1.00 mcdct nd 0.0048
+r22 r45 res 0 ohm 0.063 w 0402 rc0402jr 070rl rohm mcr01mrtj000 digi key 311 0.0 jrct nd 0.00237 digi key rhm0.0 cect nd 0.00352
+r24 res 270k 1% 0.063 w 0402 rc0402fr 07270kl rohm mcr01mzpf2703 digi key 311 270klrct nd 0.0027 digi key rhm270klct nd 0.00544
+r48 res 0.01 ohm 1% 0.5 w 0805 susumu krl1220e m r010 f t5 digi key 408 1544 1 nd 0.07426
+21k r9 0805 1 rc0805fr 0721kl lcsc c137569
+1k r8 0805 1 tc0525d1001t5e uniohm lcsc c44535
+mcr03ezpfx4992 rohm semiconductor 49.9 k ω resistor r1
+mcr03ezpfx2150 rohm semiconductor 215 ω resistor r10
+mcr03ezpfx7151 rohm semiconductor 7.15 k ω resistor r2
+erj 3ekf2211v ecg 2.21 k ω resistor r3
+mcr03ezpfx20r0 rohm semiconductor 20 ω resistor r6
+mcr03ezpfx6651 rohm semiconductor 6.65 k ω resistor r8
+mcr03ezpfx4221 rohm semiconductor 4.22 k ω resistor r9
+mcr03ezpfx1691 rohm semiconductor 1.69 k ω resistor rocset
+mcr03ezpfx1002 rohm semiconductor 10.0 k ω resistor rpg
+mcr03ezpfx2372 rohm semiconductor 23.7 k ω resistor rt
+93 res 1206 3e3 5% rc1206jr 073r3l 10000 5000 reel
+94 res 1206 3m3 5% rc1206jr 073m3l 15000 5000 reel
+95 res 1206 2k 5% rc1206jr 072kl 50000 5000 reel
+96 res 1206 750e 5% rc1206jr 07750rl 20000 5000 reel
+97 res 1206 820e 5% rc1206jr 07820rl 105000 5000 reel
+98 res 1206 10k 1% rc1206fr 0710kl 20000 5000 reel
+99 res 1206 2.7 k 1% rc1206fr 072k7l 55000 5000 reel
+100 res 1206 4.7 k 1% rc1206fr 074k7l 5000 5000 reel
+101 res 1206 270k 1% rc1206fr 07270kl 5000 5000 reel
+102 res 1206 2.2 e 1% rc1206fr 072r2l 5000 5000 reel
+103 res 1206 18e2 1% rc1206fr 0718r2l 35000 5000 reel
+104 res 1206 3k32 1% rc1206fr 073k32l 25000 5000 reel
+105 res 1206 180e 1% rc1206fr 07180rl 5000 5000 reel
+106 res 1206 820e 1% rc1206fr 07820rl 20000 5000 reel
+107 res 0805 1.2 k 5% rc0805jr 071k2l 20000 5000 reel
+108 res 0805 2.7 k 5% rc0805jr 072k7l 10000 5000 reel
+109 res 0805 3.3 k 5% rc0805jr 073k3l 25000 5000 reel
+110 res 0805 100e 5% rc0805jr 07100rl 5000 5000 reel
+111 res 0805 470e 5% rc0805jr 07470rl 100000 5000 reel
+112 res 0805 560e 5% rc0805jr 07560rl 155000 5000 reel
+113 res 0805 15k 0.1% rt0805brd0715kl 5000 5000 reel
+114 res 0805 1k 1% rc0805fr 071kl 50000 5000 reel
+115 res 0603 1m 5% rc0603jr 071ml 5000 5000 reel
+116 res 0603 10k 5% rc0603jr 0710kl 65000 5000 reel
+117 res 0603 18k 5% rc0603jr 0718kl 20000 5000 reel
+118 res 0603 1m 1% rc0603fr 071ml 15000 5000 reel
+119 res 0603 1k 1% rc0603fr 071kl 90000 5000 reel
+120 res 0603 10k 1% rc0603fr 0710kl 35000 5000 reel
+121 res 0603 13.3 k 1% rc0603fr 0713k3l 5000 5000 reel
+122 res 0603 33e 1% rc0603fr 0733rl 1429 5000 reel
+123 res 0603 51e 1% rc0603fr 0751rl 5000 5000 reel
+124 res 0805 1.8 k 1% wr08x1801ftl 15000 5000 reel
+125 res 0805 2.4 k 1% wr08x2401ftl 45000 5000 reel
+126 res 0805 3k 1% wr08x3001ftl 45000 5000 reel
+127 res 0805 8k2 1% wr08x8201ftl 5000 5000 reel
+128 res 0805 20k 1% wr08x2002ftl 45000 5000 reel
+129 res 0805 27k 1% wr08x2702ftl 5000 5000 reel
+130 res 0805 30k 1% wr08x3002ftl 35000 5000 reel
+131 res 0805 68k 1% wr08x6802ftl 45000 5000 reel
+132 res 0805 750k 1% wr08x7503ftl 15000 5000 reel
+133 res 0805 2.2 r 1% wr08x2r20ftl 35000 5000 reel
+134 res 1206 2e 1% wr12x2r00ftl 20000 5000 reel
+135 res 1206 3.9 e 1% wr12w3r90ftl 10000 5000 reel
+136 res 1206 4r7 1% wr12w4r70ftl 50000 5000 reel
+137 res 1206 100k 1% wr12x1003ftl 50000 5000 reel
+138 res 1206 1m 1% wr12x1004ftl 35000 5000 reel
+139 res 2512 100k 5% wr25x104jtl 36000 5000 reel
+1k5 r1 r19 r115 r116 r117 805 541 1.50 kcct nd
+15k r111 805 p15kact nd
+10k r2 r10 r40 805 541 10.0 kcct nd
+1k r3 r16 805 311 51arct nd
+22e r4 r25 r28 r29 r33 r34 805 541 22.0 cct nd
+2k2 r5 r6 r88 r89 r90 r91 805 p2.20 kctr nd
+51e r143 r7 805 541 51.0 cct nd
+1k8 r8 805 541 1.80 kcct nd
+18k r9 805 541 18.0 kcct nd
+510k r12 r11 805 541 510kcct nd
+100k r13 r14 r15 r112 805 541 100kcct nd
+dni r18 r17 805 dni
+3k3 r20 r76 r129 r138 r140 805 541 3.30 kcct nd
+100e r22 r24 805 541 100cct nd
+220k r23 805 541 220kcct nd
+200e r27 805 541 200cct nd
+330e r30 r31 805 541 330cct nd
+220e r32 805 541 220cct nd
+470 ohm r35 r36 805 541 470cct nd
+270e r142 805 541 270cct nd
+4.7 e r39 r38 805 541 4.70 cct nd
+51 ohm r44 r45 805 541 51.0 cct nd
+1m r46 805 541 1.00 mcct nd
+res 0 ohm 805 541 0.0 act nd
+220e r127 805 541 220cct nd
+4k99 r57 805 541 4.99 kcct nd
+4k7 r59 r104 805 541 4.70 kcct nd
+res 0 ohm r77 r87 r131 r132 r133 805 541 0.0 act nd
+47k r83 r101 r107 805 541 47.0 kcct nd
+33e r98 r99 r100 r105 805 541 33.0 cct nd
+820 ohm r110 805 541 820cct nd
+63.4 k r113 805 p63.4 kcct nd
+res 10k 805 541 10.0 kcct nd
+536k r125 805 541 536kcct nd
+6k8 r128 r139 805 541 6.80 kcct nd
+120 ohm r134 r144 805 541 120cct nd
+5 1k widerstand 1% 1206 r1 s 2 g
+6 1k widerstand 1% 1206 r2 m s 2 g
+jmpr solder smd nc solder jumper normally closed smd res 0 5% 0402 0ohms 1 16w r0402 item 41 resistor placed between pins remove opening solderpaste
+jmpr solder smd 3p 12 solder jumper smd 3pin shrt 1 2 res 0 5% 0402 0ohms 1 16w r0402 item 41 resistor placed between pin 1 2 confirm pick place file contains proper coordinates remove opening solderpaste
+jmpr solder smd 3p 23 solder jumper smd 3pin shrt 2 3 res 0 5% 0402 0ohms 1 16w r0402 item 41 resistor placed between pin 2 3 confirm pick place file contains proper coordinates remove opening solderpaste
+jmpr solder smd solder jumper n o smd jmpr solder smd dni
+erj 2gej101x res smd 100 5% 1 10w 0402 res 100 5% 0402 100ohms 1 10w r0402
+erj 2rkf1003x res smd 100k 1% 1 10w 0402 res 100k 1% 0402 100kohms 1 10w r0402
+rc0402fr 07750rl res smd 750 1 16w 0402 res 750 1% 0402 750ohms 1 16w r0402
+erj 2rkf1501x res smd 1.5 k 1% 1 16w 0402 res 1.5 k 1% 0402 1.5 kohms 1 16w r0402
+rc0402fr 072k2l res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 2.2 kohms 1 16w r0402
+rc0402fr 072k2l res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 2.2 kohms 1 16w r0402 dni
+101 0005625 res smd 0 1 16w 0402 res 0 5% 0402 0ohms 1 16w r0402 same resistor is used for jsx locations combine qty with items 22 23 24 above
+rc0402fr 0712k1l res smd 12.1 k 1 16w 0402 res 12.1 k 1% 0402 12.1 kohms 1 16w r0402
+101 0005625 res smd 0 1 16w 0402 res 0 5% 0402 0ohms 1 16w r0402 dni
+erj 3rqfr56v res smd 056 1 10w 0603 res 0.56 1% 0603 560mohms 1 10w r0603
+rc0805fr 072rl res smd 2 1% 1 8w 0805 res 2 1% 1 8w 0805 2ohms 1 8w r0805
+rc0402fr 0733rl res smd 33 1% 1 10w 0402 res 33 1% 0402 33ohms 1 10w r0402
+rc0402jr 07470rl res smd 470 5% 1 16w 0402 res 470 5% 0402 470ohms 1 16w r0402
+crcw04024r12fked res smd 4.12 1% 1 16w 0402 res 4.12 1% 0402 4.12 ohms 1 16w r0402
+erj 2rkf49r9x res smd 49.9 1% 1 10w 0402 res 49.9 1% 0402 49.9 ohms 1 10w r0402
+erj 2rkf2700x res smd 270 1% 1 10w 0402 res 270 1% 0402 270ohms 1 10w r0402
+rc0402jr 071ml res smd 1m 1 16w 0402 res 1m 5% 0402 1mohms 1 16w r0402
+jmpr solder smd nc js1 js2 js3 js5 js6 js7 js8 js9 js11 js12 js13 js14 js15 js16 js17 js19 js20 js21 js28 js30 js31 res 0 5% 0402 smd res 0 5% 0402 p00 jct nd 0ohms 1 16w r0402 0 ω res used to short jumper
+jmpr solder smd 3p 12 js4 js22 js23 js25 js26 js27 js29 js32 js33 js36 res 0 5% 0402 smd shrt 1 2 res 0 5% 0402 between 12 p00 jct nd 0ohms 1 16w r0402 0 ω res used to short jumper
+jmpr solder smd 3p 23 js18 js34 js35 res 0 5% 0402 smd shrt 2 3 res 0 5% 0402 between 23 p00 jct nd 0ohms 1 16w r0402 0 ω res used to short jumper
+rc0402fr 0747kl r1 r12 r13 res smd 47k 1 16w 0402 res 47k 1% 0402 311 47.0 klrct nd 47kohms 1 16w r0402
+101 0005625 r2 r46 r85 res smd 0 1 16w 0402 res 0 5% 0402 p0.0 jct nd 0ohms 1 16w r0402
+rc0402jr 07470rl r3 r5 r38 res smd 470 5% 1 16w 0402 res 470 5% 0402 311 470jrct nd 470ohms 1 16w r0402
+rc0402fr 072k2l r4 r6 r15 r17 r18 r34 r51 r56 r58 r59 r60 r62 r63 r64 r65 r70 r74 r77 r84 r92 r94 r95 r96 r99 r100 r102 r105 r107 r108 r116 res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 311 2.20 klrct nd 2.2 kohms 1 16w r0402
+erj 2rkf1003x r7 r8 r9 r14 r16 r20 r32 r61 r68 r69 r75 r93 r97 r109 r119 res smd 100k 1% 1 10w 0402 res 100k 1% 0402 p100klct nd 100kohms 1 10w r0402
+erj 2rkf20r0x r10 r11 res smd 20 1% 1 10w 0402 res 20 1% 0402 p20.0 lct nd 20ohms 1 10w r0402
+rc0402fr 0712k1l r19 r21 r24 r35 r55 r66 r71 r72 r73 res smd 12.1 k 1 16w 0402 res 12.1 k 1% 0402 311 12.1 klrct nd 12.1 kohms 1 16w r0402
+erj 2gej101x r22 r33 r45 r47 r54 r57 r76 r80 r81 r82 r83 r86 r87 r88 r89 r90 r91 r98 r101 r103 r104 r106 r110 r111 r112 r113 r114 r118 r120 res smd 100 5% 1 10w 0402 res 100 5% 0402 p100jct nd 100ohms 1 10w r0402
+rc0402jr 071ml r23 res smd 1m 1 16w 0402 res 1m 5% 0402 311 1.0 mjrct nd 1mohms 1 16w r0402
+erj 2rkf49r9x r25 r26 r27 r28 res smd 49.9 1% 1 10w 0402 res 49.9 1% 0402 p49.9 lct nd 49.9 ohms 1 10w r0402
+rc0603fr 072r49l r29 res smd 2.49 1% 1 10w 0603 res 2.49 1% 0603 311 2.49 hrtr nd 2.49 ohms 1 16w r0603
+rc0402fr 0733rl r30 r31 r37 r50 r78 r79 r115 res smd 33 1% 1 10w 0402 res 33 1% 0402 311 33.0 lrct nd 33ohms 1 10w r0402
+erj 2rkf1501x r36 r42 res smd 1.5 k 1% 1 16w 0402 res 1.5 k 1% 0402 p1.50 klct nd 1.5 kohms 1 16w r0402
+101 0005625 r39 r40 r41 r43 r44 res smd 0 1 16w 0402 res 0 5% 0402 p0.0 jct nd 0ohms 1 16w r0402 dni
+rc0603fr 071rl r48 r49 res smd 1 ohm 1% 1 10w 0603 res 1 1% 0603 311 1.00 hrct nd 1ohms 1 10w r0603
+rc0402fr 072k2l r52 r53 r67 res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 311 2.20 klrct nd 2.2 kohms 1 16w r0402 dni
+erj 2gej101x r1 r4 r11 r20 r28 r29 r40 r51 r63 r68 res smd 100 5% 1 10w 0402 res 100 5% 0402 p100jct nd 100ohms 1 10w r0402
+erj 2rkf1501x r2 r19 res smd 1.5 k 1% 1 16w 0402 res 1.5 k 1% 0402 p1.50 klct nd 1.5 kohms 1 16w r0402
+erj 2rkf1003x r3 r22 r41 r42 r50 r55 r62 r70 res smd 100k 1% 1 10w 0402 res 100k 1% 0402 p100klct nd 100kohms 1 10w r0402
+rc0402fr 072k2l r5 r6 r13 r21 r23 r24 r25 r35 r36 r47 r52 r53 r56 r59 r61 r65 r67 res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 311 2.20 klrct nd 2.2 kohms 1 16w r0402
+101 0005625 r7 r49 r57 r58 res smd 0 1 16w 0402 res 0 5% 0402 p0.0 jct nd 0ohms 1 16w r0402
+erj 2rkf2700x r8 r10 r30 r31 r32 r33 r43 r44 r45 r54 r60 res smd 270 1% 1 10w 0402 res 270 1% 0402 p270lct nd 270ohms 1 10w r0402
+rc0603jr 070rl r9 r12 r64 res smd 0k 5% 1 10w 0603 res 0 5% 0603 311 0.0 grct nd 0ohms 1 10w r0603
+101 0005625 r14 r15 r16 r17 r18 res smd 0 1 16w 0402 res 0 5% 0402 p0.0 jct nd 0ohms 1 16w r0402 dni
+rc0402fr 072k2l r26 r27 r39 res smd 2.2 k 1 16w 0402 res 2.2 k 1% 0402 311 2.20 klrct nd 2.2 kohms 1 16w r0402 dni
+rc0402jr 07470rl r34 res smd 470 5% 1 16w 0402 res 470 5% 0402 311 470jrct nd 470ohms 1 16w r0402
+erj 2rkf1202x r37 r38 r46 r48 r66 res smd 12k 1% 1 16w 0402 res 12k 1% 0402 p12.0 klct nd 12kohms 1 10w r0402
+crcw04022r43fked r69 res smd 2.43 1% 1 16w 0402 res 2.43 1% 0402 541 2.43 llct nd 2.43 ohms 1 16w r0402
+jmpr solder smd nc sj1 solder jumper using 0402 res res 0 5% 0402 p00 jct nd 0ohms 1 16w r0402 item 33 to short solder jumper
+sldr jmpr3p 12 sj2 sj3 3 pos solder jump using 0402 res res 0 5% 0402 p00 jct nd 0ohms 1 16w r0402 item 33 to short solder jumper pin 1 2

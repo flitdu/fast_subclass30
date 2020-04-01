@@ -6,3 +6,7 @@ k1e 12v relay nec ec2 12nj 551 ec2 12nj 15mm x 7.5 mm
 relay 3a 120vac
 10a 120vac
 g5a 234p dc5 omron relay pc mnt 1a dpdt 5vdc through hole 4
+mt5634smi 34 r2 multi tech system inc modem v34 srl data v34 fax 5v 2
+g5a 234p dc5 omron relay pc mnt 1a dpdt 5vdc through hole 4
+u4 tn2 5v tn2 5v relay slim vert 1a 5vdc pc mnt electric works tn2 5v 255 1022 5 nd
+u4 tn2 5v tn2 5v relay slim vert 1a 5vdc pc mnt electric works tn2 5v 255 1022 5 nd

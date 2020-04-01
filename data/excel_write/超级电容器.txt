@@ -39,6 +39,7 @@ ct33 330 uf 2.5 v 20% 7343 x1.9 mmsmd esr 15m rp 2700ma m c7343 d2
 ct36 220 uf 2.5 v 20% smd b2 3528 esr 35m rp 1400ma m c3528
 ct37 47 uf 10v 20% smd b2 3528 esr 70 rp 1102ma m c3528
 30mf tayio yuden pas311hr va6r 3.3 v
+c200 30mf pas311hr va6r taiyo yuden 311 va6r 3.3 v
 1f cap pol1 c15 1f 5.5 v 1
 c poscap l 330 uf 6.3 v 2.4 a smd d3l 105c sanyo 6tpe330ml 1 c12
 电解电容 elcap 固态 电容 470 μ f 25v 20% 8 12mm 高频 低阻 12 840.0

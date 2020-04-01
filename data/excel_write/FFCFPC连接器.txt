@@ -3,3 +3,5 @@
 26pin fpc conn 26p b smd 1
 0.50 mm pitch ffc fpc vertical dvi connector tegra dvi i connector con hirose fh12 24s 0.5 sv 55 0.5 mm con hirose fh12 24s 0.5 sv 55 0.5 mm
 ffc cable 0.5 mm pitch mech ffc cable top top 24 100mm 0.5 mm mech ffc cable top top 24 100mm 0.5 mm
+62684 401100alf j16 ffc conn 40pin 05 pitch 03 thick bottom gold ffc40 05 mm bottom 609 1195 1 nd smt40 05 mm mount pcb bottom side
+sfv6r 2ste1hlf j17 conn smd fci 6 pin ffc 5mm top 6 pin 5mm ffc top 609 4333 1 nd ffc 6p 05 mm mount pcb bottom side

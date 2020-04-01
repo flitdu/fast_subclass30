@@ -13,3 +13,6 @@
 72 16p8302b0 u03 s000837 ic trnsltr bidireconal sc70 6 sn74lvc1t45dckr sop 720
 74 16p8302b0 u03 s000839 ic trnsltr bidireconal 48tssop sn74lvc16t245dggr sop 90
 75 16p8302b0 u03 s000840 ic trnsltr bidireconal 14tssop lsf0204pwr sop 180
+txb0104 u703 txb0104pwr ic volt level translator 14tssop
+u9 ic logic 8 bit level translator auto direcon 20 tssop txs0108epwr digi key 296 23011 6 nd 0.62985
+sn74avc2t45dctr u5 transceiver 2 bit dual supply 8ssop sn74avc2t45dctr 296 17232 1 nd 8 lssop
