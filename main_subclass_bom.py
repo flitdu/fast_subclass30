@@ -278,7 +278,7 @@ if __name__ == '__main__':
         ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
     # ########## 5 测试
-    test_flag = 10
+    test_flag = 1
 
     if test_flag == 0:
         ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
@@ -305,7 +305,7 @@ if __name__ == '__main__':
         tag = 1
         if tag == 1:
             excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.30'
+            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\4.1'
 
             model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
             model_names = os.listdir(model_folder)

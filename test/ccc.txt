@@ -1,28 +1,59 @@
-__label__贴片电解电容 , nan CAPACITOR AUMINUM ELEC 120UF 10V APXA100ARA121MH70G Yes
-__label__板对板连接器 , J1 AMP_T&MT_UTMI+_ULPI COMBO 1-1734037-0 Yes
-__label__贴片电阻 , R23 RESISTOR 20K OHM 1/10W 0.1% 0603 SMD ERA-3YEB203V Yes
-__label__贴片电阻 , R30,R31 Resistor, 255, 1%, 1/10W, 0603 RC73A2X2550FTFERJ-3EKF2550V nan
-__label__功率电感 , L1,L3 Inductor, 4.7uH, Multi-layer, Shielded, 1100mA, 0805 LQM2MPN4R7NG0L 9Vout
-__label__排针排母 , J2,J3,J9,J10 Socket, 1 x 6, 0.1 Inch, Vertical, Female 4320-01074-0 Mtr_Down
-__label__连接器附件套件 , J12,J13,J14,J15,J27,J29 Receptacle, Coax, U.FL, SMT, Vertical U.FL-R-SMT-1 UFL
-__label__电源连接器 , J36 Connector, Power Jack, 2.5 mm x 5.5 mm, 12 V, 4 A, Right Angle, TH PJ-002BH nan
-__label__拨动开关 , SW2 Switch, DPDT, Slide, Sub-Mini, Top Actuator, TH JS202011CQN nan
-__label__74系列逻辑芯片 , U1,U7,U8,U16,U18,U19 IC, 74LVC1G14, Inverter, Shottky, DCK SN74LVC1G14DCKR nan
-__label__MCU监控芯片 , U2 IC, TC1270ATVCT, MPU Supervisor, 3.08 V Trip, Push-Pull, SOT23-5 TC1270ATVCT nan
-__label__特殊功能放大器 , U3,U5 IC, Current-Sense Amplifier, SOT23-5 MAX9934FAUA+ nan
-__label__USB芯片 , U11 IC, USB4624, USB 2.0 and w/ HSIC, 4-port, QFN48 USB4624_QFN48 nan
-__label__电子线材连接线 , JMP1 {J5 (pins 3-4)}, JMP2 {J7 (pins 3-4)} Wire Jumper, 30 AWG or larger nan EVB
-__label__开关二极管 , D26 DIODE SWITCHING 75V 0.2A SOT-23 MMBD914-7-F 621-MMBD914-7-F Yes nan
-__label__拨码开关 , SW1, SW2 Switch SIP SPST 6POS Vertical, Unshielded, 20V SPA06B 611-SPA06B Yes nan
-__label__模拟开关芯片 , U5 Quad, 2:1 Mux/Demux FET BusSwitch PI3B3257QE 729-PI3B3257QE Yes nan
-__label__门极反相器 , U14, U15, U18, U19 IC BUFF 74LVC1G14SE-7 SNGL SOT-553 74LVC1G14SE-7 621-74LVC1G14SE-7 Yes nan
-__label__FLASH存储器 , U2 Flash Serial, SPI, 2.7-3.6V, x1/x2/x4, SOIC8 SST26VF016B-104I/SM 579-ST26VF016B104ISM Yes nan
-__label__DC-DC芯片 , U16 IC, 2.7V to 5.5V input, 2A, Synchronous 2MHz Buck Regulator with adjustable output, power good signal MIC23201YML 998-MIC23201YMLT5 Yes nan
-__label__拨动开关 , SW1 SW SLIDE DP3T 12VDC 100MA SMT AYZ0203AGRLC nan
-__label__电池电源管理芯片PMIC , U2 UTC2000 IC MCU 8BIT 16QFN UTC2000 nan
-__label__USB芯片 , U4 IC USB3.0&USB2.0 SWITCH 32TQFN PI3USB3102ZLE nan
-__label__开关二极管 , D7 DIO RECTARR BAV99 1.25V 200mA 70V SOT-23-3 Fairchild BAV99 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__USB连接器 , J2 CON USB 3.0 STD-A RCPT TH R/A Wurth Electronics Inc 692121030100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__电池电源管理芯片PMIC , U2 UTC2000 IC MCU 8BIT 16QFN Microchip Technology UTC2000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__USB芯片 , U3 IC USB3.0&USB2.0 SWITCH 32TQFN Pericom PI3USB3102ZLE nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__贴片电阻 , R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate 32.0 1.0 0.0 R14 RES TKF 0R 1/3W SMD 1210 Vishay CRCW12100000Z0EA Do Not Populate
+__label__音频视频链接器 , phono jack RCA jack J1, 11, 12, 13, 14 DGS (tinned) M 161-4216 0.85 nan
+__label__音频视频链接器 , phono jack RCA jack J1, 11, 12, 13, 14 CUI Stack (tinned) D CP-1400-ND 0.96 nan
+__label__音频视频链接器 , phono jack RCA jack J1, 11, 12, 13, 14 Kycon (gold) M 806-KLPX-0848A-2YG 0.95 nan
+__label__圆形连接器 , balanced conn. XLR female XLR Neutrik NC3F BH1 M 568-NC3FBH-1 2.64 nan
+__label__电源连接器 , DC connector DIN 5 pin J9 Kobiconn M 161-0504-E 0.96 nan
+__label__可调电阻电位器 , trimm pot 1k var R61, R32 Bourns-3345P D 3345P-102-ND 13.02 nan
+__label__可调电阻电位器 , trimm pot 1k var R61, R32 Bourns-3362R D 3362R-102LF-ND 1.05 nan
+__label__螺丝紧固件硬件 , Hex standoff 0.25" mounting holes Keystone D 8714K-ND 0.45 nan
+__label__机架机柜 , Enclosure, 19x8x1.75 17"x 8"x 1.5" for 2 pcb Hammond D HM736-ND 73.9 nan
+__label__AC-DC电源模块 , Power supply +/-12V 0.5A table top AultSW301MA0012F0 D 271-2482-ND 68.8 nan
+__label__AC-DC电源模块 , Power supply +/-12V 0.5A table top MEAN WELL J 221702 49.95 49.95
+__label__AC-DC电源模块 , Power cord 110V IEC power supply nan D Q126-ND 6.6 nan
+__label__贴片电阻 , nan 10k 81-00-02
+__label__贴片电阻 , nan 2k7 81-01-27
+__label__贴片电阻 , nan 270R 81-00-22
+__label__贴片电阻 , nan 50R 81-01-04
+__label__贴片电阻 , nan 390R 81-01-17
+__label__贴片电阻 , nan 240R 81-01-14
+__label__贴片电阻 , nan 100R 81-00-18
+__label__以太网连接器 , NEM SMD tehát ráér második körben LA1S109-43 LF (RJ45 magjack klón) 43-13-22
+__label__线性稳压芯片LDO , nan LM317 32-03-95
+__label__贴片电容 , nan 10uF min. 16V 12-06-63
+__label__贴片电容 , nan 1uF min. 16V 12-00-63
+__label__CPLD-FPGA芯片 , U1 IC - MAX 10, 8K LE, SINGLE-SUPPLY, ANALOG, C8 SPEED GRADE, TEMP 0C-85C, U169 (11MM X 11MM) 10M08SAU169C8GES 10M08SAU169_v1.0 10M08SAU169
+__label__DC-DC芯片 , U5 IC - 0.6A SYNCH BUCK REGULATOR WITH INTEGRATED INDUCTOR, VIN 2.4-5.5V, 3-BIT VSEL OR VFB, 16-UQFN (2.5MM X 2.25MM) EP5358LUI EP5358LUI EP5358LUI
+__label__模拟开关芯片 , U3 IC - SWITCH, QUAD SPDT, VDD 1.8V-5.5V, BW 160MHZ, 20-LFCSP (4MM X 4MM) ADG788BCPZ ADG788 ADG788
+__label__电压比较器 , U7 IC - DUAL COMPARATOR, 400mV REF, 6-DFN (2mm x 3mm) LT6700CDCB-1#TRxPBF LTC6700-1 LTC67001_DCB6
+__label__电池电源管理芯片PMIC , U4 IC - DUAL 2.6A, 2.5V-5.5V IDEAL DIODES, 10-DFN (3MM X 3MM) LTC4413EDD#PBF LTC4413 LTC4413
+__label__电池电源管理芯片PMIC , U6 IC - DUAL 4A IDEAL DIODES WITH ADJ CURRENT LIMIT, VCC 1.7V-5.5V, 16-DFN (3X5)MM LTC4415EDHC#PBF LTC4415 LTC4415
+__label__拨码开关 , SW1 SWITCH - DIP SWITCH, 4-POS SPST, 1.27MM PITCH 416 131 160 804 SPST4 SPST4
+__label__咪头麦克风 , U2 IC - ANALOG MICROPHONE, VCC 1.5V-3.3V, SNR 62dBA, FREQ RESPONSE 100HZ-15KHZ, 3.5MM X 2.5MM X 0.88MM INMP404ACEZ-R0 INMP404 INMP404
+__label__板对板连接器 , J1 CONN - 0.5MM PITCH SLIM STACK, 30 POS RECEPTACLE, DUAL ROW, VERTICAL, 3MM OR 4MM STACKING HEIGHT 52991-0308 RECEPTACLE_2X15 DEMO_CONN_2X15
+__label__连接器附件套件 , GNDSUPPLY Bananna Plug Black Red Bananna Plug BANANNA_JACK,Bananna Plug Black 571-0500-01 EH0532
+__label__连接器附件套件 , VSUPPLY Bananna Plug Red Red Bananna Plug BANANNA_JACK,Bananna Plug Red 571-0500-01 EH0532
+__label__有源晶体振荡器 , U2 CWX823-050.0M CWX8XX_5X7MM,CWX823-050.0M CWX823-050.0M EX0491
+__label__线性稳压芯片LDO , U3 U5 MAX8559ET LDO MAX8559_JLA,MAX8559ET MAX8559ETAAA+ MAX8559ETAAA+
+__label__8位微控制器-MCU , U8 PIC16C765-I/PT PIC MICROCONTROLLER PIC16C765_TQFQ,PIC16C765-I/PT PIC16C765-I/PT EQ0803
+__label__贴片电阻 , R6-7 27nH 0402 inductor TBD\0402\600WIND,27nH,1% LQP15MN27NG02 EL0721
+__label__贴片电容 , R47-50 R56-59 R63 0 0805 Resistor TBD\0805\600WIND,0,1% ER0108050R00
+__label__鳄鱼夹测试夹 , EN0, EN1, SCL, SDA, NIRQ, SHDN, AV_SD, GPIO0-GPIO7, EN_EXT, NRST_IO 5002 KEYSTONE nan TEST POINT; PIN DIA=0.1IN; TOTAL LENGTH=0.3IN; BOARD HOLE=0.04IN; WHITE; PHOSPHOR BRONZE WIRE SILVER;
+__label__鳄鱼夹测试夹 , SD0-SD3, LDO0-LDO8, VLDO, BBATT, INI2C, IN_SD, VFINE, IN_SD3, IN_GPIOB 5010 KEYSTONE nan TESTPOINT WITH 1.80MM HOLE DIA, RED, MULTIPURPOSE;
+__label__超级电容器 , C53 XH311HU IV07E SEIKO INSTRUMENTS INC 0.035F CAPACITOR; SMT; ELECTRIC DOUBLE LAYER CAPACITOR; 0.035F; 3.3V; TOL=20%; TG=-20 DEGC TO +60 DEGC; TC=NO DATA;
+__label__磁珠 , FB100 BLM18PG221SN1 MURATA 220 INDUCTOR; SMT (0603); FERRITE-BEAD; 220; TOL=+/-25%; 1.4A; -55 DEGC TO +125 DEGC
+__label__鳄鱼夹测试夹 , GND4, GND7, GND8 5011 KEYSTONE nan TEST POINT; PIN DIA=0.125IN; TOTAL LENGTH=0.445IN; BOARD HOLE=0.063IN; BLACK; PHOSPHOR BRONZE WIRE SILVER PLATE FINISH;
+__label__鳄鱼夹测试夹 , QSCL, QSDA, SD0S-SD3S, INLDO01, INLDO2, IN_SDS, INLDO35, INLDO46, INLDO78, IN_SD3S USE FOR COLD TEST: 5015 KEYSTONE nan TEST POINT; SMT; PIN LENGTH=0.135IN; PIN WIDTH=0.07IN; PIN HEIGHT=0.06IN; SILVER; PHOSPHOR BRONZE WITH SILVER PLATE CONTACT
+__label__IRLR8259TRPBF , Q200-Q203 IRLR8259TRPBF INTERNATIONAL RECTIFIER IRLR8259TRPBF TRAN; HEXFET POWER MOSFET; NCH; DPAK; PD-(48W); I-(57A); V-(25V)
+__label__IRLR8259TRPBF , Q205 DMG3420U DIODES INCORPORATED DMG3420U TRAN; N-CHANNEL ENHANCEMENT MODE MOSFET; NCH; SOT-23; PD-(0.74W); I-(5.47A); V-(20V)
+__label__IRLR8259TRPBF , Q206 IRFHM8337TRPBF INTERNATIONAL RECTIFIER IRFHM8337TRPBF TRAN; HEXFET POWER MOSFET; NCH; PQFN8; PD-(2.8W); I-(18A); V-(30V)
+__label__IRLR8259TRPBF , Q300-Q308 SIA914ADJ-T1-GE3 VISHAY SILICONIX SIA914ADJ-T1-GE3 TRAN; DUAL N-CHANNEL 20 V (D-S) MOSFET; NCH; SC70-6; PD-(7.8W); I-(4.5A); V-(20V)
+__label__采样电阻 , R229, R239 CRA2512-FZ-R100ELF BOURNS 0.1 RESISTOR; 2512; 0.1 OHM; 1%; 75PPM; 3W; METAL FILM
+__label__贴片电阻 , R304, R310, R312 RMCP2010FT33R0 STACKPOLE ELECTRONICS INC 33 RESISTOR; 2010; 33 OHM; 1%; 100PPM; 1W; THICK FILM
+__label__贴片电阻 , R307 TNPW060366R5BE VISHAY DALE 66.5 RESISTOR; 0603; 66.5 OHM; 0.1%; 25PPM; 0.10W; THIN FILM
+__label__拨动开关 , SW3 CL-SB-12A-11 NIDEC COPAL ELECTRONICS CORP CL-SB-12A-11 SWITCH; SPDT; SMT; STRAIGHT; 12V; 0.2A; CL-SB SERIES; RCOIL=0.05 OHM; RINSULATION=100M OHM
+__label__电池电源管理芯片PMIC , U1 MAX77714 MAXIM MAX77714 EVKIT PART-IC; PACKAGE OUTLINE 21-100187; PACKAGE CODE W703A4+1
+__label__RS232芯片 , U101 FT232RQ FUTURE TECHNOLOGY DEVICES INTL LTD. FT232RQ IC; INFC; UART INTERFACE IC USB TO SERIAL; QFN32-EP 5X5
+__label__线性稳压芯片LDO , U102-U104 MAX8512EXK MAXIM MAX8512EXK IC, VREG, Ultra-Low-Noise, High PSRR, Adjustable Vout, SC70-5
+__label__EPROM存储器 , U108 24AA02T-I/OT MICROCHIP 24AA02T-I/OT IC; EPROM; 2K I2C SERIAL EEPROM; SOT23-5
+__label__数模转换芯片 , U206, U207 MAX5815AAUD+ MAXIM MAX5815AAUD+ IC; DAC; ULTRA-SMALL; QUAD-CHANNEL; 12-BIT BUFFERED OUTPUT DAC WITH INTERNAL REFERENCE AND I2C INTERFACE; TSSOP14
+__label__鳄鱼夹测试夹 , VIL_LDO, VIL_SD0-VIL_SD3, VIL_FINE 5000 KEYSTONE nan TEST POINT; PIN DIA=0.1IN; TOTAL LENGTH=0.3IN; BOARD HOLE=0.04IN; RED; PHOSPHOR BRONZE WIRE SILVER PLATE FINISH;

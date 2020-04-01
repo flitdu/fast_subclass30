@@ -1,28 +1,59 @@
-__label__贴片电解电容 , capacitor auminum elec 120 uf 10v apxa100ara121mh70g
-__label__板对板连接器 , j1 amp t mt utmi + ulpi combo 1 1734037 0
-__label__贴片电阻 , r23 resistor 20k ohm 1 10w 0.1% 0603 smd era 3yeb203v
-__label__贴片电阻 , r30 r31 resistor 255 1% 1 10w 0603 rc73a2x2550ftferj 3ekf25 50v
-__label__功率电感 , l1 l3 inductor 4.7 uh multi layer shielded 1100ma 0805 lqm2mpn4r7ng0l 9vout
-__label__排针排母 , j2 j3 j9 j10 socket 1 x 6 0.1 inch vertical female 4320 01074 0 mtr down
-__label__连接器附件套件 , j12 j13 j14 j15 j27 j29 receptacle coax u fl smt vertical u fl r smt 1 uf l
-__label__电源连接器 , j36 connector power jack 2.5 mm x 5.5 mm 12 v 4 a right angle th pj 002bh
-__label__拨动开关 , sw2 switch dpdt slide sub mini top actuator th js202011cqn
-__label__74系列逻辑芯片 , u1 u7 u8 u16 u18 u19 ic 74lvc1g14 inverter shottky dck sn74lvc1g14dckr
-__label__MCU监控芯片 , u2 ic tc1270atvct mpu supervisor 3.08 v trip push pull sot23 5 tc1270atvct
-__label__特殊功能放大器 , u3 u5 ic current sense amplifier sot23 5 max9934faua
-__label__USB芯片 , u11 ic usb4624 usb 2.0 and w hsic 4 port qfn48 usb4624 qfn48
-__label__电子线材连接线 , jmp1 j5 pins 3 4 jmp2 j7 pins 3 4 wire jumper 30 awg or larger evb
-__label__开关二极管 , d26 diode switching 75v 0.2 a sot 23 mmbd914 7 f 621 mmbd914 7 f
-__label__拨码开关 , sw1 sw2 switch sip spst 6pos vertical unshielded 20v spa06b 611 spa06b
-__label__模拟开关芯片 , u5 quad 2 1 mux demux fet busswitch pi3b3257qe 729 pi3b3257qe
-__label__门极反相器 , u14 u15 u18 u19 ic b uf f 74lvc1g14se 7 sngl sot 553 74lvc1g14se 7 621 74lvc1g14se 7
-__label__FLASH存储器 , u2 flash serial spi 2.7 3.6 v x1 x2 x4 soic8 sst26vf016b 104i sm 579 st26vf016b104ism
-__label__DC-DC芯片 , u16 ic 2.7 v to 5.5 v 2a synchronous 2mhz buck regulator with adjustable power good signal mic23201yml 998 mic23201ymlt5
-__label__拨动开关 , sw1 sw slide dp3t 12vdc 100ma smt ayz0203agrlc
-__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn utc2000
-__label__USB芯片 , u4 ic usb3.0 usb2.0 switch 32tqfn pi3usb3102zle
-__label__开关二极管 , d7 dio rectarr bav99 1.25 v 200ma 70v sot 23 3 bav99
-__label__USB连接器 , j2 con usb 3.0 std a rcpt th r a inc 692121030100
-__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn technology utc2000
-__label__USB芯片 , u3 ic usb3.0 usb2.0 switch 32tqfn pericom pi3usb3102zle
-__label__贴片电阻 , r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate 32.0 1.0 0.0 r14 res tkf 0r 1 3w smd 1210 crcw12100000z0ea populate
+__label__音频视频链接器 , phono jack rca jack j1 11 12 13 14 dgs tinned m 161 4216 0.85
+__label__音频视频链接器 , phono jack rca jack j1 11 12 13 14 cui stack tinned d cp 1400 nd 0.96
+__label__音频视频链接器 , phono jack rca jack j1 11 12 13 14 kycon gold m 806 klpx 0848a 2yg 0.95
+__label__圆形连接器 , balanced conn xlr female xlr neutrik nc3f bh1 m 568 nc3fbh 1 264
+__label__电源连接器 , dc connector din 5 pin j9 kobiconn m 161 0504 e 0.96
+__label__可调电阻电位器 , trimm pot 1k var r61 r32 3345p d 3345p 102 nd 13.02
+__label__可调电阻电位器 , trimm pot 1k var r61 r32 3362r d 3362r 102lf nd 1.05
+__label__螺丝紧固件硬件 , hex standoff 0.25 mounting holes d 8714k nd 0.45
+__label__机架机柜 , enclosure 19x8x1.75 17 x 8 x 1.5 for 2 pcb hammond d hm736 nd 73.9
+__label__AC-DC电源模块 , power supply 12v 0.5 a table top aultsw301ma0012f0 d 271 2482 nd 68.8
+__label__AC-DC电源模块 , power supply 12v 0.5 a table top mean well j 221702 49.95 49.95
+__label__AC-DC电源模块 , power cord 1 10v iec power supply d q126 nd 6.6
+__label__贴片电阻 , 10k 81 02
+__label__贴片电阻 , 2k7 81 01 27
+__label__贴片电阻 , 270r 81 22
+__label__贴片电阻 , 50r 81 01 04
+__label__贴片电阻 , 390r 81 01 17
+__label__贴片电阻 , 240r 81 01 14
+__label__贴片电阻 , 1r 81 18
+__label__以太网连接器 , nem smd teh á t r á é r m á sodik k ö rben la1s109 43 lf rj45 magjack kl ó n 43 13 22
+__label__线性稳压芯片LDO , lm317 32 03 95
+__label__贴片电容 , 10 uf min 16v 12 06 63
+__label__贴片电容 , 1 uf min 16v 12 63
+__label__CPLD-FPGA芯片 , u1 ic max 10 8k le single supply analog c8 speed grade temp 0c 85c u169 11mm x 11mm 10m08sau169c8ges 10m08sau169 10m08sau169
+__label__DC-DC芯片 , u5 ic 0.6 a synch buck regulator with integrated inductor vin 2.4 5.5 v 3 bit vsel or vfb 16 uqfn 2.5 mm x 2.25 mm ep5358lui ep5358lui ep5358lui
+__label__模拟开关芯片 , u3 ic switch quad spdt vdd 1.8 v 5.5 v bw 160mhz 20 lfcsp 4mm x 4mm adg788bcpz adg788 adg788
+__label__电压比较器 , u7 ic dual comparator 400mv ref 6 dfn 2mm x 3mm lt6700cdcb 1 trxpbf ltc6700 1 ltc67001 dcb6
+__label__电池电源管理芯片PMIC , u4 ic dual 2.6 a 2.5 v 5.5 v ideal diodes 10 dfn 3mm x 3mm ltc4413edd pbf ltc4413 ltc4413
+__label__电池电源管理芯片PMIC , u6 ic dual 4a ideal diodes with adj current limit vcc 1.7 v 5.5 v 16 dfn 3x5 mm ltc4415edh c# pbf ltc4415 ltc4415
+__label__拨码开关 , sw1 switch dip switch 4 pos spst 1.27 mm pitch 416 131 160 804 spst4 spst4
+__label__咪头麦克风 , u2 ic analog microphone vcc 1.5 v 3.3 v snr 62dba freq response 100hz 15khz 3.5 mm x 2.5 mm x 0.88 mm inmp404acez r0 inmp404 inmp404
+__label__板对板连接器 , j1 conn 0.5 mm pitch slim stack 30 pos receptacle dual row vertical 3mm or 4mm stacking height 52991 0308 receptacle 2x15 demo conn 2x15
+__label__连接器附件套件 , gndsupply bana plug black red bana plug bananna jack bana plug black 571 0500 01 eh0532
+__label__连接器附件套件 , vsupply bana plug red red bana plug bananna jack bana plug red 571 0500 01 eh0532
+__label__有源晶体振荡器 , u2 cwx823 050.0 m cwx8xx 5x7mm cwx823 050.0 m cwx823 050.0 m ex0491
+__label__线性稳压芯片LDO , u3 u5 max8559et ldo max8559 jla max8559et max8559etaaa max8559etaaa
+__label__8位微控制器-MCU , u8 pic16c765 i pt pic microcontroller pic16c765 tqfq pic16c765 i pt pic16c765 i pt eq0803
+__label__贴片电阻 , r6 7 27nh 0402 inductor tbd 0402 600wind 27nh 1% lqp15mn27ng02 el0721
+__label__贴片电容 , r47 50 r56 59 r63 0 0805 resistor tbd 0805 600wind 0 1% er0108050r00
+__label__鳄鱼夹测试夹 , en0 en1 scl sda nirq shdn av sd gpio0 gpio7 en ext nrst io 5002 test pot p dia 0.1 total length 0.3 hole 0.04 white phosphor bronze wire silver
+__label__鳄鱼夹测试夹 , sd0 sd3 ldo0 ldo8 vldo bbatt i2c sd vfe sd3 gpiob 5010 testpot with 1.80 mm hole dia red multipurpose
+__label__超级电容器 , c53 xh311hu iv07e seiko inc 0.035 f capacitor smt electric double layer capacitor 0.035 f 3.3 v tol 20% tg 20 degc to 60 degc tc data
+__label__磁珠 , fb100 blm18pg221sn1 220 inductor smt 0603 ferrite bead 220 tol 25% 1.4 a 55 degc to 125 degc
+__label__鳄鱼夹测试夹 , gnd4 gnd7 gnd8 5011 test pot p dia 0.125 total length 0.445 hole 0.063 black phosphor bronze wire silver plate fish
+__label__鳄鱼夹测试夹 , qscl qsda sd0s sd3s ldo01 ldo2 sds ldo35 ldo46 ldo78 sd3s for cold test 5015 test pot smt p length 0.135 p width 0.07 p height 0.06 silver phosphor bronze with silver plate
+__label__IRLR8259TRPBF , q200 q203 irlr8259trpbf international rectifier irlr8259trpbf tran hexfet power mosfet nch dpak pd 48w i 57a v 25v
+__label__IRLR8259TRPBF , q205 dmg3420u diodes incorporated dmg3420u tran n channel enhancement mode mosfet nch sot 23 pd 0.74 w i 5.47 a v 20v
+__label__IRLR8259TRPBF , q206 irfhm8337trpbf international rectifier irfhm8337trpbf tran hexfet power mosfet nch pqfn8 pd 2.8 w i 18a v 30v
+__label__IRLR8259TRPBF , q300 q308 sia914adj t1 ge3 siliconix sia914adj t1 ge3 tran dual n channel 20 v d s mosfet nch sc70 6 pd 7.8 w i 4.5 a v 20v
+__label__采样电阻 , r229 r239 cra2512 fz r100elf 0.1 resistor 2512 0.1 ohm 1% 75ppm 3w metal film
+__label__贴片电阻 , r304 r310 r312 rmcp2010ft33r0 stackpole inc 33 resistor 2010 33 ohm 1% 100ppm 1w thick film
+__label__贴片电阻 , r307 tnpw060366r5be dale 66.5 resistor 0603 66.5 ohm 0.1% 25ppm 0.10 w thin film
+__label__拨动开关 , sw3 cl sb 12a 11 nidec copal corp cl sb 12a 11 switch spdt smt straight 12v 0.2 a cl sb series rcoil 0.05 ohm rinsulation 100m ohm
+__label__电池电源管理芯片PMIC , u1 max77714 max77714 evkit part ic package outline 21 100187 package code w703a4 1
+__label__RS232芯片 , u101 ft232rq technology devices intl ltd ft232rq ic infc uart interface ic usb to serial qfn32 ep 5x5
+__label__线性稳压芯片LDO , u102 u104 max8512exk max8512exk ic vreg ultra low noise high psrr adjustable vout sc70 5
+__label__EPROM存储器 , u108 24aa02t i ot 24aa02t i ot ic eprom 2k i2c serial eeprom sot23 5
+__label__数模转换芯片 , u206 u207 max5815aaud max5815aaud ic dac ultra small quad channel 12 bit b uf fered dac with internal reference and i2c interface tssop14
+__label__鳄鱼夹测试夹 , vil ldo vil sd0 vil sd3 vil fe 5000 test pot p dia 0.1 total length 0.3 hole 0.04 red phosphor bronze wire silver plate fish
