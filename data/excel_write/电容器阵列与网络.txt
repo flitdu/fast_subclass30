@@ -306,3 +306,5 @@ capacitors cap networks e201024 csa091hz104mf 100nf 9p8c capacitor network csa09
 24 排容 4d03 10%
 24 capacitors corporation ckcl44x7r1h221m085aa 0805 2012 metric cap array 4ch 220pf 50v 0805 2 digi key 445 1830 1 nd 2000 43225 0.06 126.9
 capacitor 0.1 uf 16v 8p4c concave x7r 10% smd ca ave 0603 8 y4c3b104k160ct 5 cn1 cn2 cn3 cn4 cn5 0.1 u
+90 3 2 0805 a4 ecj tvb1c103m cp21 cp52 cp53 cp52 cp53 cap array 01 uf 16v x7r 0805 abk0000ce2 pdf
+95 38 37 0805 a4 ckcl44x5r0j104m cp1 cp2 cp3 cp10 cp11 cp12 cp13 cp20 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp70 cp71 cp75 cp80 cp81 cp90 cp100 cp101 cp102 cp103 cp110 cp121 cp122 cp128 cp129 cp130 cp131 cp1 cp2 cp3 cp10 cp11 cp30 cp31 cp32 cp34 cp35 cp36 cp38 cp39 cp40 cp50 cp51 cp60 cp61 cp65 cp70 cp71 cp100 cp101 cp102 cp103 cp104 cp105 cp106 cp111 cp112 cp113 cp114 cp115 cp116 cp117 cp118 cp121 cap 4 array 10 uf 63 v x5r 0805 e4181 ckc pdf

@@ -3,3 +3,8 @@
 q06 20020001 44 61106000630 flash mt29f2g16 闪存 2.7 v 3.6 v 2g 128mx16 tsop48 48pin smd micron mt29f2g16abaeawp ait e 200
 mt28f640j3 tsop 64mb flash memory tsop 56 0 0.0
 eon25b80 16 串口 flash sop8 208miles 1
+u20 ic spi flash 64mbit 104mhz qspi 2.7 v 3.6 v soic 8w spansion s25fl164k0xmfi011 digi key 1274 1097 nd 0.64548
+u8 ic spi flash 64mbit 104mhz qspi 2.7 v 3.6 v soic 8w spansion s25fl064labmfi013 digi key 428 4073 1 nd 1.62914
+mx25l8035em2i 10g 8mb serial flash quad spi 8p soic 0.209 3.3 v mx25l8035em2i 10g 8 soic 0.209
+mt25ql128aba8esf 0sit u26a1 quad spi flash reset hold soic16 0.30 wide mt25ql128aba8esf 0sit soic16
+mx25l12835fm2i 10g u27 128mb serial flash quad spi 8p soic 0.209 3.3 v mx25l12835fm2i 10g mx25l12835fm2i 10g nd 8 soic 0.209 dni

@@ -48,10 +48,14 @@ tvs 管 az5325 01f d0603 1 1000.0
 vesd05a8a hnh semiconductors vesd05a8a hnh
 cesd5v0d1 smd2010 smd diode tvs 6.2 v 250mv
 tvs array low cap rclamp0504s d semtech rclamp0504s d semtech rclamp0504s
-d30 smcj13a 214ab smc diode tvs 13v 1500w uni 5% smc 0.489 yes yes inc smcj13a
-tvs1 tvs2 pesd24v2s2ut sma diode tvs 24v 400w bidir 5% sma 0.291 yes yes inc smaj24ca
+d30 smcj13a 214ab smc diode tvs 13v 1500w uni 5% smc 0.489 inc smcj13a
+tvs1 tvs2 pesd24v2s2ut sma diode tvs 24v 400w bidir 5% sma 0.291 inc smaj24ca
 tvs 管 tvs 5v 65pf dfn1006 2l bde2s5.0 比亚迪 11 vr1 vr2 vr3 vr4 vr5 vr7 vr8 vr9 vr10 vr11 vr12
 tvs 5v 30pf sod923 pesdnc9d5vu prisemi 芯导
 tvs 5v 50pf dfn1006 esd9n5v 2 tr will
 tvs 5v 50pf fb 02c esd9x5v 2 tr will
 tvs 管 tvs 7v 73pf 230w dfn1006 2l pesdhc2fd7vu prisemi 芯导 2 vr6 vr13
+srda05 b u501u502u601u602u603 srda05 4 tbt semtech ic tvs array 4 line 5v 8soic
+d4 d7 d330 tvs array usb flowthough powerline clamp sot23 6 usblc6 2sc6 digi key 497 5235 1 nd 0.15725
+p4sma39ca tvs 40v diode sma 214ac bi 1 p4sma39ca lcsc c151199
+pesd3v3l5uk five uni dir esd protection diode 20pf sot891 pesd3v3l5uk 3.3 sot891

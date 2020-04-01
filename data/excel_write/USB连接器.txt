@@ -19,6 +19,18 @@ micro usb connector smd
 j102 202 usb female type mini b thru hole 54819 0519 538 54819 0519 2.05 y
 zx62r b 5p usb micro rzx62r b 5p zx62r b 5p usb hirose micro usb connector zx62r b 5p
 h1 1981584 1 conn rcpt micro usb type ab micro usb
-j1 usb mini b ux60sc mb 5s8 usb mini b ux60sc mb 5s8 no sig top l1 usb mini b connector smt with thru hole posts hirose ux60sc mb 5s8 h11589tr nd
+j1 usb mini b ux60sc mb 5s8 usb mini b ux60sc mb 5s8 sig top l1 usb mini b connector smt with thru hole posts hirose ux60sc mb 5s8 h11589tr nd
 usb usb mini b usb mini b usb mini b connector usb otg 56579 0576 fec 9786490 wm2499ct nd
 usb 连接器 micro usb b type smt 柱 盖 us0170531d r 外形尺寸 7.5 5.60 2.45 mm 脚距 0.65 mm us0170531d r 龙梦 2 j4 j6
+p400 usb micro b zx62 b 5pa 11 hirose zx62 b 5pa 11
+usb con berg 690 004 221 023 edac inc conn usb jack type b horizon r a
+10103594 0001lf microusb type b connector 10103594 0001lf con2
+j1 usb mini b connector on shore usb m26ftr 4ucon 20035 digi key ed2992tr nd 0.4368 4ucon 20035 0.0925
+j330 conn usb rcpt type a rt angle vertical th 482040001 0482040001 538 48204 0001 0.692 digi key wm17532 nd 0.73808
+j14 usb mini b connector on shore usb m26ftr 4ucon 20035 digi key ed2992tr nd 0.4368 4ucon 20035 0.0925
+con usb mini b socket mount through hole 54819 0519 wm17115 nd 0.65 usb mini b cabinet
+zx62d ab 5p8 conn rcpt micro usb ab bot mnt zx62d ab 5p8 zx62d ab 5p8
+zx62d b 5p8 conn rcpt micro usb b bot mnt zx62d b 5p8 zx62d b 5p8
+zx62d b 5p8 j1 j8 conn rcpt micro usb b bot mnt zx62d b 5p8 h11610dkr nd zx62d b 5p8
+zx62d ab 5p8 j2 j3 conn rcpt micro usb ab bot mnt zx62d ab 5p8 h11494dkr nd zx62d ab 5p8
+zx62d b 5p8 j3 j5 conn rcpt micro usb b bot mnt zx62d b 5p8 h11610dkr nd zx62d b 5p8

@@ -1,4 +1,6 @@
+q06 20020001 70 62911002710 电机 驱动器 tmc429 两极 5.5 v 3a qfn32 32pin smd trinamic tmc429 li 436
 u3 l293d h bridge 296 9518 5 nd 1 1 100 110
 ic1 a3967 driver chip a3967slbtr t 59p3273 newark 2.75 1.71
 ic1 ic2 a3967 driver chip a3967slbtr t 620 1140 1 nd 2.75 1.7
 l298p powerso 20 ic driver full dual
+ic l293 motor h bridge l293ne 296 9519 5 nd 3.5 l293 free 7 md

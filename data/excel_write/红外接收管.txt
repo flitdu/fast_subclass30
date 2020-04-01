@@ -1,1 +1,4 @@
 红外 接 头 ir receiver dip 1
+q10 phototrans clear side view 940nm 0.4 v 1.14 ma smt pt12 21c tr8 digi key 1080 1378 1 nd 0.07825
+q1 phototrans clear top view 940nm 0.4 v 0.6 ma 0603 pt19 21c l41 tr8 digi key 1080 1384 1 nd 0.07101
+19 phototransistor ir chip silicon 950nm 2 pin smd t r temt1020 g s 700 1000 reel

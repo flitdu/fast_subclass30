@@ -1,0 +1,2 @@
+mcp2515 u705 mcp2515 i so technology ic can controller w spi 18soic
+tja1050 u706 tja1050t vm 118 semiconductors ic txrx can hs 5.25 v 8 soic

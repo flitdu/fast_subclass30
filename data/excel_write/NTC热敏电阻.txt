@@ -364,12 +364,12 @@ ntc 插件 rt1 传感器 带 导线 ntc mt 13e103fd28t 43 10k ω ± 1% b ＝ 343
 26 2 rt1 rt2 10.0 k ntc 0603 100mw 10.0 k 1% ir ntc0603 ncp18xh103f03rb
 27 1 rt3 47k ntc 0603 100mw 47k ir ntc0603 ncp18wb473j03rb
 r30 thermistor dnp 0.05 805 thermistor ntc smd bc 238161513103 10kohms place
-r101 thermistor thermistor 10k 0.05 r1206 yes sig top l1 thermistor ntc 1206 bc nths1206n02n1002je fec 1458570
+r101 thermistor thermistor 10k 0.05 r1206 sig top l1 thermistor ntc 1206 bc nths1206n02n1002je fec 1458570
 004 1000000005 p0901012 conventional thermistor 103at 103at 2 semitec 12.0 1.0 612.0 allchips semitec 612.0 2.0 0.587
 004 0020900003 p0901016 1017 conventional ntc thermistors 10kohm 3% 103nt 4 r025h41g atc semitec 8.0 2.0 153.0 allchips atc semitec 153.0 2.0 2.22
 004 0020900004 p0901016 1017 conventional ntc thermistor 10kohm radial leaded ntcle100e3103jb0 13.0 2.0 153.0 allchips 153.0 2.0 0.218
 r27 r28 thermistor ntc 10k ω ± 1% 0805 2 热敏电阻 cmfb103f3950fant 8000 0.252 8000 lc
 smd crystal 8mhz 10ppm hc 49us smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
-r6 ntc 33 k 25 ° c 0.01 0603 nb 21 m 0 0333 yes
+r6 ntc 33 k 25 ° c 0.01 0603 nb 21 m 0 0333
 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1 热敏 器件 r 25 ° c 10k accuracy 1% b constant 25 50 ° c k 3380 ± 1% i 25 ° c 0.31 ma prate 25 ° c 100mw 40 ° c 125 ° c 0603 ncp18xh103f03rb
 热敏电阻 10d 9 1.00 5k

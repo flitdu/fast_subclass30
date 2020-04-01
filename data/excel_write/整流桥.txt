@@ -2,3 +2,4 @@
 橋式 整流 2b4dm 3963 62 nec 2233 dip
 橋式 整流器 w04m sep 80 dip
 橋式 整流器 df04s hy 180 smd
+u2 rectifier bridge 4 diode 600v 1a dfs df06s e3 45 digi key df06s e3 45gi nd 0.2768

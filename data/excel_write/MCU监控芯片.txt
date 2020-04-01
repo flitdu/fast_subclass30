@@ -1,3 +1,4 @@
 max809 strg microprocessor reset monitor sot23 farnell 1365390 0.34 3.0
-u3 adm6384yks29d1z sc70 4 yes sig bottom l8 supervisory circuit with watchdog and manual reset analog devices adm6319b31arjz rl7 adm6319b31arjz rl7
-u11 adm6384yks29d1z sc70 4 yes sig top l1 supervisory circuit with watchdog and manual reset analog devices adm6319b31arjz rl7 adm6319b31arjz rl7
+u3 adm6384yks29d1z sc70 4 sig bottom l8 supervisory circuit with watchdog and manual reset analog devices adm6319b31arjz rl7 adm6319b31arjz rl7
+u11 adm6384yks29d1z sc70 4 sig top l1 supervisory circuit with watchdog and manual reset analog devices adm6319b31arjz rl7 adm6319b31arjz rl7
+u18 ic mcu reset circuits 3.3 v 100us reset sot 23 rohm bd48k33g tl digi key bd48k33g tlct nd 0.11213

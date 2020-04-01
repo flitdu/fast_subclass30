@@ -4,3 +4,5 @@ battery socket backup battery socket 20mm sm 1060 1060k nd 1.27 u12 1
 others battery holder holder battery 2p cr1220 for cr1220 3v battery
 jumper 2.54 jumper
 battery 3v cr2032 battery holder bat renata hu2032 lf bat renata hu2032 lf
+b1 female snap 9v battery connector 534 594 534 594 0.46 1 0.46
+b1 male snap 9v battery connector 534 593 534 593 0.48 1 0.48

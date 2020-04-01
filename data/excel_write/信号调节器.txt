@@ -1,1 +1,2 @@
 bal1 0900bl15c050 0900bl15c050 rf balun 900mhz
+rlp 40 fl1 pl 176 fl1 mini circuits mini circuits rlp 40

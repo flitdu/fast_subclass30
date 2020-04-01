@@ -1,8 +1,8 @@
 q06 20020001 82 63101000020 epld epm240t100c5n 系统 可编程 4.7 ns tqfp mir m63101000001 100pin smd altera epm240t100c5n 115
-xc4vfx60 11ff1152 virtex4 fx fpga bga 1152 avnet xc4vfx60 11ff1152 yes 1103.55 3.0 0.0
-xc4vlx25 12ff668 virtex4 lx fpga bga 668 avnet xc4vlx25 12ff668 yes 433 1.0 0.0
-xc4vlx25 10ff668 virtex4 lx fpga bga 668 avnet xc4vlx25 10ff668 yes 246.9 1.0 0.0
-xcf32pfsg48 platform flash programmable conf prom bga fs48 avnet xcf32pfsg48 yes 2275 120 00
+xc4vfx60 11ff1152 virtex4 fx fpga bga 1152 avnet xc4vfx60 11ff1152 1103.55 3.0 0.0
+xc4vlx25 12ff668 virtex4 lx fpga bga 668 avnet xc4vlx25 12ff668 433 1.0 0.0
+xc4vlx25 10ff668 virtex4 lx fpga bga 668 avnet xc4vlx25 10ff668 246.9 1.0 0.0
+xcf32pfsg48 platform flash programmable conf prom bga fs48 avnet xcf32pfsg48 2275 120 00
 dspic33fj128gp802 e sp nd ic dspic33fj128gp802 ic dspic33fj64gp802 alt ic dip28 3
 atf1502as tqfp44 cpld for ide inteface to compact flash 10ns atf1502as 10ac44 atf1502as 10ac nd 2.8 u20 1
 ic2 xc3s500e 4pqg208c spartan 3e 1.2 v fpga 158 user i os 208 pin pb free pqfp standard performance commercial grade pqg208 n

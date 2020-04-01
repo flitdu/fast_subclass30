@@ -1,0 +1,3 @@
+box 2 x1.5 flanged box painted black enclosure aluminum die cast box w bottm flang 2.07 x1.5 blk 1590hfbk
+box for antenna pcb 4.37 x2.37 x1.98 diecast aluminum cu 479 563 cu 479 7.89 1 7.89
+box for controller 4.69 x3.69 x2.06 diecast aluminum cu 234 563 cu 234 11.6 1 11.6

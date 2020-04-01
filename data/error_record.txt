@@ -1,3 +1,7 @@
+__label__RF放大器 , 516 1954 nd ic amp mmic gaas 3v sot 363 ic mga81563 ic sot363
+__label__EMIRFI滤波器 ,  29 16p8301a0 l05 d000006 filter lc th 25v 15a 4pin 12.00 mm x 11.00 mm bnx016 01 滤波器 12
+__label__EMIRFI滤波器 ,  35 16p8302b0 l05 d000006 filter lc th 25v 15a 4pin 12.00 mm x 11.00 mm bnx016 01 滤波器 10 9 90
+__label__EMIRFI滤波器 ,  33 16p8302b0 l05 s000030 cap feedthru 2.2 uf 20% 6.3 v 0603 nfm18pc225b0j3d 滤波器 180
 __label__直插电解电容 , к о н д е н с а т о р capacitor kd1 470pf x 630v 10% ceramic disk capacitor д и с к о в ы й disk dip 2 200 1.0
 __label__直插电解电容 , к о н д е н с а т о р capacitor kd1 1500pf x 1000v 1kv ceramic disk capacitor д и с к о в ы й disk dip 2 500 1.0
 __label__金属膜电阻 , р е з и с т о р cfr resistor chip 1w 1 2 о м 5% mf 100 1 2 o м cfr 100 dip 2 200 直插 电阻 1w 1.2 r 5% china 500.0 0.025 rmb moq 500 3days
@@ -1229,3 +1233,279 @@ __label__固定电感 , 07p 472j 50 4.7 mh fas inductor 4.7 mh 70ma 18.5 ohm was
 __label__贴片电感 , l1 l2 l9 l10 l15 l16 l17 l18 47 uh 10% inductor 1210 digi key pcd1427ct nd 0
 __label__高频电感 , l1 39 nh high frequency chip inductor ± 5% 402 abracon aisc 0402 3n9j t scripts dksearch dksus dll detail itemseq 192454664 uq 635960629680147746
 __label__高频电感 , l3 15 nh high frequency chip inductor ± 10% 402 abracon aisc 0402 15nj t scripts dksearch dksus dll detail itemseq 192454742 uq 635960629680167746
+__label__钽电容 , c21b c23b 6tph100maea a09 poscap 6.3 v 100 uf
+__label__板对板连接器 , j1 samtec erm8 035 08.0 l dv k tr smt signal socket
+__label__板对板连接器 , j2 j3 samtec ipbs 105 01 t d through hole power socket
+__label__电池 , cr2032 battery 3v 20 x 3.2 mm 200ma 1
+__label__贴片电容 , 22252c334kat1a corporation cap cerm 33 uf 200v x7r 2225 2225 2
+__label__开关二极管 , 1n4148 semiconductor 35 100v io 200ma bulk 35 5
+__label__继电器 , mt5634smi 34 r2 multi tech system inc modem v34 srl data v34 fax 5v 2
+__label__时基芯片 , sa555dr instrument ic precision timer 8 soic 8 soic 2
+__label__16位微控制器 , mcu msp430f149ipm instrument ic 16bit mcu 60kb flash 64 lqfp bulk 1
+__label__时钟计时芯片 , ds1305en dallas semiconductor ic rtc serial alarm ind 20 tssop 20 tssop 1
+__label__RS232芯片 , max3223idbr instrument ic drvr rcvr multch rs232 20ssop 20 ssop 2
+__label__PTC自恢复保险 , tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4
+__label__贴片电容 , lc 220n 0402hph r22xjl t 0402 0.05
+__label__贴片电容 , lm2 lm 27n 0402hp 27nxjl t 0402 0.05
+__label__贴片电容 , lm1 l0 24n 0402hp 24nxjl t 0402 0.05
+__label__贴片电容 , lm3 15n 0402hp 15nxjl t 0402 0.05
+__label__贴片电容 , lr1 51n 0402hp 51nxjl t 0402 0.05
+__label__贴片电容 , lr2 47n 0402hp 47nxjl t 0402 0.05
+__label__MOSFET , u14 nand gate sc70 6 nc7sz57p6x
+__label__MOSFET , u13 inverter gate sc70 5 nc7sz04p5x
+__label__信号开关多路复用解码器 , u3 4 bit bus switch tssop 14 fst3125mtc
+__label__信号开关多路复用解码器 , u1 u2 u5 8 bit bus switch tssop 20 fst3345mtc
+__label__信号开关多路复用解码器 , u8 quad 2 1 multiplexer demultiplexer bus switch tssop 16 fst3257mtc
+__label__以太网芯片 , u9 enc624j600 10 100 ethernet controller tqfp 64 10x10x1 enc624j600 i pt
+__label__排针排母 , j4 2x14 pin thru hole male right angle header 0.1 inch pitch tsw 114 08 t d ra
+__label__排针排母 , j3 2x3 pin thru hole male right angle header 0.1 inch pitch tsw 103 08 t d ra
+__label__排针排母 , jp2 jp7 jp8 jp9 jp10 jp11 1x2 pin jumper shunt 0.1 inch pitch spc02syan
+__label__连接器附件套件 , tp3 tp4 test point black 0.052 hole 151 103 rc
+__label__连接器附件套件 , tp2 test point red 0.052 hole 151 107 rc
+__label__通用二极管 , 1n4001 1n4001 diode product detail en 1n4001 g 641 1310 1 nd 1979675
+__label__连接器附件套件 , stereo 1 4 jack stereo 1 4 jack product detail en 112ax sc1316 nd 1217815
+__label__连接器附件套件 , mono 1 4 jack mono 1 4 jack product detail en 112bpcx sc1534 nd 1288950
+__label__电源连接器 , dc jack dc jack product detail en pj 067a cp 067a nd 2627227
+__label__IC与器件插座 , 8 pin dip socket 8 2x4 pin dip socket product detail en a08 lc tt r ae9986 nd 821740
+__label__旋转波段开关 , 8 pos rotary switch 8 pos rotary switch product detail en a12505rnzq ckn10204 nd 2043161
+__label__可调电阻电位器 , 500k audio taper 500k audio taper parts express pe showdetl cfm partnumber 023 620
+__label__可调电阻电位器 , 25k linear taper 25k linear taper parts express pe showdetl cfm partnumber 023 630
+__label__可调电阻电位器 , 100k linear taper 100k linear taper parts express pe showdetl cfm partnumber 023 560
+__label__可调电阻电位器 , drive pot alt 1m audio taper parts express pe showdetl cfm partnumber 023 622
+__label__连接器附件套件 , knob cover knob cover sparkfun products 10002
+__label__通用二极管 , 1n34a 1n34a germanium diode pedalpartsplus mm5 merchant mvc screen prod product code 4000
+__label__气体传感器 , honeywell pm2.5 sensor hpma115s0 xxx 32.96 139.3
+__label__电子线材连接线 , cable for sensor 15134 0802 50mm long plugs into pin 008 5.34 25.65
+__label__DC-DC芯片 , pololu 5v boost converter u1v11f5 required because the honeywell sensor needs 5v power but uses 3.3 v logic 4.95 21.25
+__label__电池 , 1200mah lipoly battery 258 9.95 49.75
+__label__排针排母 , female tall headers 4 up 929974 01 04 rk for hacker i o pins 4 digital 4 analog 1.41 6.4
+__label__贴片电感 , 10uh l201 cbc2012t100m taiyo yuden inductor 10uh 20% 0805 smd
+__label__通用二极管 , 1n4003 d501d502d503d504 1n4003g on semiconductor diode std rec 1a 200v 41
+__label__通用二极管 , 1n4003 d505d506d507d508 1n4003g on semiconductor diode std rec 1a 200v 41 project 2
+__label__螺丝钉接线端子 , 39502 6 fet0 3 1984659 phoenix conn term block t h 6pos 3.5 mm
+__label__螺丝钉接线端子 , 39502 6 fet4 7 1984659 phoenix conn term block t h 6pos 3.5 mm project 2
+__label__触发器 , 4052d u305u306u401 cd4052bcm semiconductor ic mux demux dual 4x1 16soic
+__label__直插瓷片电容 , 47 uf c102c103c105 fk26y5v0j476z corporation cap cer 47 uf 6.3 v y5v rad
+__label__通用二极管 , 6a2 t d101 1n5401 t diodes inc diode gpp 100v 3a 201ad
+__label__内存连接器 , amp u sdcard3m u sd 2900 u 1 2908 05wb mg 3m conn eject microsd push push smd project 2
+__label__8位微控制器-MCU , atmega1280 u201 atmega1280 16au ic mcu avr 128k flash 100 tqfp
+__label__无源晶体振荡器 , ceramic resonator with cap3731 cr201 awscr 16.00 cv t abracon corp resonator cer 16.00 mhz w cap smd
+__label__线对板线对线连接器 , c grid 03 70543 ana0ana1ana2ana3ana4ana5ana6ana7srv0srv1srv2tmr 70543 0037 headers wire housings vertical hdr 3 pin single row tin
+__label__温度传感器 , ds1821 u307 ds1821 integrated products ic thermometer stat prog 3 pr35
+__label__RS232芯片 , ft232rl u202 ft232rl r ftdi ic usb to serial uart 28 ssop
+__label__LCD显示模组 , hd44780 u 19 dm2004abb6ntdw 411techsystems 20x4 blue hd44780 stn lcd with led backlight
+__label__DC-DC芯片 , lm22670 u101 lm22670mre 5.0 nopb national semiconductor ic reg switch buck 3a 5v 8psop
+__label__精密运放 , ltc2052cs u301u302u303u304 ltc2052cs pbf linear technology ic opamp zero drift quad 14soic
+__label__CAN芯片 , mcp2515 u705 mcp2515 i so technology ic can controller w spi 18soic
+__label__压力传感器 , mpxv7002dp ps4ps5 mpxv7002dp freescale semiconductor mount pressure sensors sop dual 2kpa
+__label__压力传感器 , mpxv7007dp ps0ps1ps2ps3 mpxv7007dp freescale semiconductor mount pressure sensors sop dual 7kpa
+__label__螺丝钉接线端子 , osttc08 j301j302j303j304 osttc082162 on shore term block 5.08 mm vert 8pos pcb assemble
+__label__PTC自恢复保险 , ptc pf0pf1pf2pf3 30r300uu inc ptc 3.00 a 30v resettable kink
+__label__PTC自恢复保险 , ptc pf4pf5pf6pf7 30r300uu inc ptc 3.00 a 30v resettable kink project 2
+__label__PTC自恢复保险 , ptc pf9 30r300uu inc ptc 3.00 a 30v resettable kink
+__label__螺丝钉接线端子 , screw header 01 3 can 282834 3 tyco term block 3pos side ent 2.54 mm project 2
+__label__TVS二极管(瞬态电压抑制二极管) , srda05 b u501u502u601u602u603 srda05 4 tbt semtech ic tvs array 4 line 5v 8soic
+__label__CAN芯片 , tja1050 u706 tja1050t vm 118 semiconductors ic txrx can hs 5.25 v 8 soic
+__label__电平转换移位器 , txb0104 u703 txb0104pwr ic volt level translator 14tssop
+__label__直插瓷片电容 , e5 5 c106c107c109c701c715c716c717c718c719c720c721c722 fk26y5v0j476z corporation cap cer 47 uf 6.3 v y5v rad
+__label__电源连接器 , con jack pwr pj 102ah cui inc conn pwr jack 2.1 x5.5 mm high cur
+__label__D-Sub连接器附件 , rs232 con subd 5747840 4 tyco conn d sub plug r a 9pos au t h
+__label__直插瓷片电容 , corporation sr305e105mar cap cer 1.0 uf 50v 20% radial
+__label__RS485RS422芯片 , linear technology ltc1485cn8 pbf ic txrx differntial bus 8 dip alternate packaging exists
+__label__74系列逻辑芯片 , cd74hc390e ic dual decade rip cntr 16 dip alternate packaging exists
+__label__RS485RS422芯片 , mc3487n ic quad diff line driver 16 dip alternate packaging exists
+__label__8位微控制器-MCU , technology pic18f2220 i sp ic mcu flash 2kx16 a d 28dip
+__label__IC与器件插座 , mill max man uf acturing corp 110 99 308 41 001000 ic socket 8pin ms tin tin 300
+__label__IC与器件插座 , mill max man uf acturing corp 110 99 316 41 001000 ic socket 16pin ms tin tin 300
+__label__IC与器件插座 , mill max man uf acturing corp 110 99 328 41 001000 ic sockets 28pin ms tin tin 300
+__label__连接器附件套件 , aavid thermalloy 577202b00000g heat sink to 220 500 compact
+__label__电源连接器 , dc 10a 2.1 mm dc pwr 2 dc 10a dc power connector
+__label__板对板连接器 , 2.54 mmheader 3x1 way 2.54 mmheader 3 2.54 mm ths 03 r to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+__label__插拔式连接器 , cortex 1.27 mmheade5x2 way pcb 1.27 mm 2x5 vertical male ftsh 105 01 l dv k arm 1.27 mm 10 way cortex micro debug connector
+__label__IDC连接器(牛角) , 2.54 mmsocket 17x2 way 2.54 mmsocket 34 2.54 mm b06d 34 a g a a 1 straight pcb mount idc box socket
+__label__板对板连接器 , 2.54 mmheader 8x1 way 2.54 mmheader 9 2.54 mm ssw 108 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+__label__板对板连接器 , 2.54 mmheader 10x1 way 2.54 mmheader 9 2.54 mm ssw 110 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
+__label__板对板连接器 , 2.54 mm receptacle 6x1 way 2.54 mm receptacle 6 2.54 mm ssw 106 01 g s to connectors 2.54 mm pitch 2.54 mm pitch receptacle
+__label__贴片电阻 , 150k thickfilm 1pc 100mw mcr03ezpf1503 thick film resistor
+__label__贴片电阻 , 1k thickfilm 1pc 100mw mcr03ezpfx1001 thick film resistor
+__label__贴片电阻 , 10k thickfilm 1pc 100mw mcr03ezpfx1002 thick film resistor
+__label__贴片电阻 , 100r thickfilm 1pc 100mw mcr03ezpf1000 thick film resistor
+__label__贴片电阻 , 2r thickfilm 5pc 200mw erjp03j2r0v thick film resistor
+__label__电压基准芯片 , zrc250 voltage reference 2.5 v zrc250f02ta precision 2.5 volt voltage reference
+__label__模数转换芯片 , ad7490 12bit 16ch adc 2.7 5.25 v ad7490bruz 16 channel 1 msps 12 bit adc with sequencer
+__label__开关电源芯片 , lt1111cs8 step up regulator adjustable lt1111cs8 dc dc converter adjustable
+__label__内存连接器 , micro sd push push zm90 sd mmc card connector zm90 15000 0br1 u3
+__label__以太网连接器 , gigabit ethernet b50 rj45 connector tbd j15
+__label__IO连接器 , sata 7 pin sata 7 pin 7 contacts sata connector vertical 67800 8001 u10 u11 u12 u13
+__label__插拔式连接器 , disk drive power 15 24 4449 disk drive power connection system header vertical through hole 4 circuits 15 24 4449 j14 j19
+__label__电源连接器 , kpjx 4s s kpjx 4s s mini din 4p dc jack shielded snap and lock kpjx 4s s j16
+__label__USB芯片 , ft230x qfn16 uart interface ÿ support ÿ for 7 or 8 data bits ft230xq r u8
+__label__信号缓冲器中继器分配器 , dual b uf fer nlx2g16 ullga6 case613ae dual b uf fer nlx2g16 nlx2g16amx1tcg u9
+__label__RT7291 , rt2875a b tssop 14 dc2dc chip rt2875b u1 u18
+__label__RT7291 , rt7291 uqfn 16l rt7291 u2
+__label__IO扩展器 , pca9655 wqfn24 16 bit i2c i o expander pca9655emttxg u17
+__label__功率电感 , 120ohm l0603 bead 120ohm 100mhz 2a blm18pg121sn1d fb10
+__label__采样电阻 , 0.01 ohm r0603 res smd 0.01 ohm 1% 1 4w 0603 pmr03ezpfu10l0 r33 r34 r74 r93 r94 r95 r96 r97 r98
+__label__排阻 , 4x4.7 kohm 4xr0402 4 elements 4.7 kohms 5 % null rn1
+__label__贴片电阻 , 5 1k widerstand 1% 1206 r1 s 2 g
+__label__贴片电阻 , 6 1k widerstand 1% 1206 r2 m s 2 g
+__label__74系列逻辑芯片 , 8 74ls00 so14 u1 s 14 s
+__label__EPROM存储器 , 9 27c512 von siemens dil28 u2 gs t 28 s
+__label__数字信号处理器和控制器 , 11 sab80c537 n 16mhz plcc84 u3 s 84 t
+__label__数字三极管 , asm 9v battery snap t type allelectronics bst 61 0.5 jumper2 box
+__label__贴片电容 , cap ceramic z5u 20 80% 0.033 uf 399 4298 nd 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 0.027 uf 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 0.01 uf 399 4188 nd 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 4.7 nf 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 2.2 nf 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 1 nf 0.4 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 470 pf 0.032 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 330 pf 0.032 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 220 pf 0.032 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 100 pf 0.032 ceramic cabinet
+__label__贴片电容 , cap ceramic z5u 20 80% 22 pf jameco 15405 0.032 ceramic cabinet
+__label__连接器附件套件 , con test point orange 5003 5003k nd 0.29 testpoint cabinet
+__label__背板连接器 , con 14 pin lcd connector samc bcs 114 l s samc hd44780 cabinet
+__label__背板连接器 , con 16 pin lcd connector samc bcs 116 l s samc hd44780 16pin cabinet
+__label__背板连接器 , con 20 pin lcd connector samc bcs 120 l s samc agm1264 cabinet
+__label__排针排母 , con logic analyzer connector fci 68021 208hlf 609 3344 nd 0.27 logicanalyzer cabinet
+__label__线对板线对线连接器 , con jtag 1 by 5 male header 0.29 jtag cabinet
+__label__排针排母 , con 10 pin 2mm socket for xbee need two samtec sqt 110 01 f s samtec 1 xbeemodule cabinet
+__label__D-Sub连接器附件 , con db9 serial connector female mount jameco 15771 0.65 serialdb9 cabinet
+__label__ARM微控制器-MCU , cpu tm4c123gh6pm 64 pin lqfp tm4c123gh6pmi 595 tm4c123gh6pmi 11.55 tm4c123gh6pm we will solder it down to your pcb
+__label__数模转换芯片 , ic tlv5616 12 bit dac tlv5616 tlv5616cp tlv5616 free sample
+__label__数模转换芯片 , ic max539 12 bit dac ic max539 max539acpa max539 free sample
+__label__模数转换芯片 , ic max1247 12 bit adc ic max1247 max1247acpe max1247 free sample 1 kd
+__label__放大器 , ic ina122p instrumentaon amp ina122p ina122p ina122 free sample 2 hd
+__label__放大器 , ic tlc2274 quad op amp tlc2274acn tlc2274acn 1.17 tlc2274 free sample 4 jd
+__label__放大器 , ic ad8032 dual op amp analog devices ad8032anz analog devices ad8032anz 4.47 ad8032 free sample 6 bd
+__label__74系列逻辑芯片 , ic 74hc595 jameco 46105 0.4 cabinet
+__label__74系列逻辑芯片 , ic 74hc165 jameco 45495 0.3 cabinet
+__label__LCD显示模组 , lcd 84 by 48 lcd nokia 5110 sparkfun 10168 9.95 nokia5110redsparkfun free
+__label__LCD显示模组 , lcd 18 bit color 128 160 1.8 tft lcd display sitronix st7735r adafruit 358 19.96 st7735 free
+__label__排阻 , pot 20k linear slide pot allelectronics sp 20k 0.33 smallpot valvano
+__label__数字三极管 , tran tip120 darlington npn to220 tip120 tip120 nd 0.68 tip120 cabinet
+__label__数字三极管 , tran tip125 darlington pnp to220 tip125 tip125tu nd 0.67 tip125 cabinet
+__label__数字三极管 , tran irf540 mosfet n channel to220 irf540 irf540npbf nd 1.95 irf540 valvano
+__label__其他模块 , xbee explorer regulated sparkfun products 11373 1095 995454545454545
+__label__其他模块 , xbee explorer usb sparkfun products 11812 2595 235909090909091
+__label__WiFi物联网模块 , xbee pro 60mw u fl connection series 1 80215 4 sparkfun products 8710 3795 345
+__label__WiFi物联网模块 , xbee 1mw u fl connection series 1 80215 4 sparkfun products 8666 2495 226818181818182
+__label__天线 , 24 ghz antenna adhesive u fl connector sparkfun products 11320 495 45
+__label__天线 , 24 ghz duck antenna rp sma large sparkfun products 558 995 904545454545454
+__label__RF同轴连接器 , interface cable rp sma to u fl sparkfun products 662 495 45
+__label__数据线信号线 , miniusb cable sparkfun products 11301 395 359090909090909
+__label__达林顿管 , uln2803 sparkfun products 312 195 177272727272727
+__label__IC与器件插座 , ic socket conrad p ic socket spacing 762 mm number of pins 18 1 189537 0242 022
+__label__开发板套件 , arduino mega sparkfun products 11061 3895 354090909090909
+__label__蜂鸣器 , buzzer conrad p tru ponents 1566911 piezo buzzer noise emission 110 db voltage 12 v continuous acoustic signal 1 1566911 3839 349
+__label__电源线 , black cable conrad p kabeltronik 070106009 jumper wire yv black 100 m 323610 21076 1916
+__label__其他模块 , led adapter conrad p mean well elg 200 12ab 3y led driver constant voltage 192 w 8 16 a 112 128 vdc 3 1 dimmer suitable for flammab 2113514 46739 4249
+__label__螺丝紧固件硬件 , bolt 4 25mm m25 bolt aliexpress item 40pcs m2 5 25mm m2 5 25mm 304 stainless steel round head bolt cross recessed screw 32698761062 html spm 211413010608 00 1kquqo
+__label__螺丝紧固件硬件 , nut 4 m25 nut aliexpress item 40pcs m2 5 25mm m2 5 25mm 304 stainless steel round head bolt cross recessed screw 32698761062 html spm 211413010608 00 1kquqo
+__label__开发板套件 , ui arduino due 1 782 a000062 arduino due
+__label__金属膜电阻 , r17 r70 r71 r6 resistor 1% 10r 4 271 10 rc resistor 10r
+__label__金属膜电阻 , r21 r22 resistor 1% 33r 2 271 33 rc resistor 33r
+__label__金属膜电阻 , r84 r85 r4 r5 r13 r14 r8 r9 r8 r20 r34 r47 r31 r42 r55 r64 resistor 1% 51r 16 271 51 rc resistor 51r
+__label__金属膜电阻 , r86 r6 r10 r15 resistor 1% 220r 4 271 220 rc resistor 220r
+__label__金属膜电阻 , r77 resistor 1% 330r 1 271 330 rc resistor 330r
+__label__金属膜电阻 , r17 r21 r23 r30 r31 r32 r33 r34 r35 r36 r37 r28 r39 r52 r63 r16 r60 r44 r70 resistor 1% 470r 19 271 470 rc resistor 470r
+__label__金属膜电阻 , r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 r13 r14 r15 r16 r72 r73 r74 r75 r76 resistor 1% 820r 21 271 820 rc resistor 820r
+__label__金属膜电阻 , r82 r1 r2 r11 r12 r15 r5 r2 r8 r40 r18 r21 resistor 1% 1k 12 271 1k rc resistor 1k
+__label__金属膜电阻 , r19 r22 r24 resistor 1% 1k2 3 271 1.2 k rc resistor 1k2
+__label__金属膜电阻 , r45 r46 r47 r48 r49 r50 r51 r52 r53 r54 r55 r56 r57 r58 r59 r60 r68 resistor 1% 1k5 17 271 1.5 k rc resistor 1k5
+__label__金属膜电阻 , r21 r25 r33 r36 r46 r49 r59 r62 r10 r13 r54 r57 r38 r41 r68 r69 resistor 1% 3k9 16 271 3.9 k rc resistor 3k9
+__label__金属膜电阻 , r61 r62 r63 r64 r65 r66 resistor 1% 4k7 6 271 4.7 k rc resistor 4k7
+__label__金属膜电阻 , r18 r19 r20 resistor 1% 8k2 3 271 8.2 k rc resistor 8k2
+__label__金属膜电阻 , r95 r27 r30 resistor 1% 10k 3 271 10k rc resistor 10k
+__label__金属膜电阻 , r83 r3 r7 r12 r22 r23 r24 r25 r26 r27 r28 r29 resistor 1% 15k 12 271 15k rc resistor 15k
+__label__金属膜电阻 , r11 r23 r37 r50 r2 r45 r58 r65 r15 r26 r40 r53 r4 r48 r61 r66 resistor 1% 30k 16 271 30k rc resistor 30k
+__label__金属膜电阻 , r16 r18 r20 resistor 1% 51k 3 271 51k rc resistor 51k
+__label__金属膜电阻 , r93 resistor 1% 56k 1 271 56.2 k rc resistor 56k
+__label__金属膜电阻 , r25 r28 r38 r39 r10 r11 r13 r14 r1 r16 r3 r4 r6 r7 r9 r17 r19 r20 resistor 1% 68k 18 271 68k rc resistor 68k
+__label__金属膜电阻 , r67 r69 r94 r26 r29 resistor 1% 1m 5 271 1.0 m rc resistor 1m
+__label__贴片电容 , c11 c5 ceramic mlcc 4n7 2 81 rhel81h472k1k1a3b cap 4n7 lead spacg 5mm 0.2
+__label__通用二极管 , d3 d1 d2 d3 d17 1n4148 5 512 1n4148 diode 1n4148
+__label__74系列逻辑芯片 , ic2 ic13 74hc595n 2 595 sn74hc595n 74hc595n
+__label__信号开关多路复用解码器 , ic4 ic9 4067n 2 771 74hct4067n 4067n
+__label__光耦 , ic11 ic1 ic2 ic3 6n138 4 638 6n138 6n138
+__label__放大器 , ic1 ic2 ic1 ic2 tl074p 4 595 tl074cn tl074p
+__label__模数转换芯片 , u1 u2 u3 u4 mcp4822 4 579 mcp4822 e p mcp4822
+__label__IC与器件插座 , dip8 5 571 1 390261 2 dip8
+__label__IC与器件插座 , dip14 5 571 1825094 3 dip14
+__label__IC与器件插座 , dip16 5 571 1825094 4 dip16
+__label__IC与器件插座 , dip24 2 571 1825109 1 dip24
+__label__线性稳压芯片LDO , ic5 mc78m12ct 1 863 mc78m12ctg mc78m12ct to 220
+__label__可调电阻电位器 , encoder encoder 1 652 pec16 4220fs0012 encoder
+__label__RF同轴连接器 , j1 j2 j3 j4 j5 type f female ra pcb mount 0.9 864b509 678 864b509 2.63 5 13.149999999999999
+__label__碳膜电阻 , r1 r2 r3 100k axial 1 8w resistor 299 100k rc 0.1 3 0.30000000000000004
+__label__碳膜电阻 , r4 1k axial 1 8w resistor 299 1k rc 0.1 1 0.1
+__label__可调电阻电位器 , vr1 50k pot vertical mount 9 mm d shaft rk09d1130a0s or rk09d1130a1l 688 rk09d1130a0s 688 rk09d1130a1l 1.48 1 1.48
+__label__可调电阻电位器 , comments on vr1 schematic shows 100k to 500k however series of pots is available up to 50k the value is critical and usg 50 k merely descreases battery life slightly p n rk09d1130a0s is stock at but deed end of life p n rk09d1130a1l is of stock with 12 week delivery the shaft lengths are slightly different however either will work there is an error on the pc that requires terchangg the clockwise and wiper ps is ne by bendg the ps so that they go to the pcb and then connectg them with jumper wires
+__label__连接器附件套件 , knob for vr1 6 mm 18 point t18 450 2401 gr 450 2401 gr 1.1400000000000001 1 1.1400000000000001
+__label__电源连接器 , j6 2.5 mm power jack ra pcb mount rapc712x 502 rapc712x 1.44 1 1.44
+__label__电池座夹附件 , b1 female snap 9v battery connector 534 594 534 594 0.46 1 0.46
+__label__电池座夹附件 , b1 male snap 9v battery connector 534 593 534 593 0.48 1 0.48
+__label__通用二极管 , d1 small signal schottky diode 1n5819 625 1n5819 e3 73 0.13 1 0.13
+__label__直插瓷片电容 , c2 220 pf radial 0.1 capacitor fk18c0g1h221j 810 fk18c0g1h221j 0.18 0 0.0
+__label__直插瓷片电容 , c3 120 pf radial 0.1 capacitor sr151a121kar 581 sr151a121kar 0.2 0 0.0
+__label__直插瓷片电容 , installed as x2 39 pf radial 0.1 capacitor fk18c0g1h390j 810 fk18c0g1h390j 0.19 0 0.0
+__label__直插瓷片电容 , installed as x4 22 pf radial 0.1 capacitor fk18c0g1h220j 810 fk18c0g1h220j 0.19 0 0.0
+__label__直插瓷片电容 , installed as x6 12 pf radial 0.1 capacitor fk18c0g1h120j 810 fk18c0g1h120j 0.19 0 0.0
+__label__直插瓷片电容 , installed as x8 6.8 pf radial 0.1 capacitor fk18c0g1h6r8j 810 fk18c0g1h6r8j 0.13 0 0.0
+__label__罩类、盒类及壳类产品 , box for antenna pcb 4.37 x2.37 x1.98 diecast aluminum cu 479 563 cu 479 7.89 1 7.89
+__label__罩类、盒类及壳类产品 , box for controller 4.69 x3.69 x2.06 diecast aluminum cu 234 563 cu 234 11.6 1 11.6
+__label__螺丝紧固件硬件 , standoff for antenna box 1 inch long 6 32 hex female 2212 534 2212 0.73 2 1.46
+__label__螺丝紧固件硬件 , standoff for controller box 1.5 inch long 6 32 hex female 2213 534 2213 0.8 2 1.6
+__label__螺丝紧固件硬件 , nuts for f connectors 3 8 32 panel nut 1436 534 1436 0.29 6 1.7399999999999998
+__label__螺丝紧固件硬件 , screws 6 32 x 3 8 ss screw 9904 534 9904 0.1 6 0.6000000000000001
+__label__TVS二极管(瞬态电压抑制二极管) , pesd3v3l5uk five uni dir esd protection diode 20pf sot891 pesd3v3l5uk 3.3 sot891
+__label__开关二极管 , 1n4448ws 7 f diode switching 75v 200mw sod323 1n4448ws 7 f sod 323
+__label__发光二极管 , lg l29k f2j1 24 z led smd osram green 0603 lg l29k f2j1 24 z chipled0603
+__label__发光二极管 , lo l29k h2k1 24 z led smd osram orange 0603 lo l29k h2k1 24 z chipled0603
+__label__贴片电阻 , jmpr solder smd 3p 12 solder jumper smd 3pin shrt 1 2 res 0 5% 0402 0ohms 1 16w r0402 item 41 resistor placed between pin 1 2 confirm pick place file contains proper coordinates remove opening solderpaste
+__label__贴片电阻 , jmpr solder smd 3p 23 solder jumper smd 3pin shrt 2 3 res 0 5% 0402 0ohms 1 16w r0402 item 41 resistor placed between pin 2 3 confirm pick place file contains proper coordinates remove opening solderpaste
+__label__贴片电阻 , jmpr solder smd solder jumper n o smd jmpr solder smd dni
+__label__排针排母 , pppc102lfbn rc rec 2x10 0.100 pitch rec 2x10 0.100 pitch th 2x10
+__label__排针排母 , pppc062lfbn rc recptacle 2x06 025sq pin 100 centers rec 2x06 0100 pitch th 2x06 install justified to the left a0 see default shunt and receptacle install map
+__label__鳄鱼夹测试夹 , hwr 0030 0001 shunt for 100 center header qpc02sxgn rc shunt 1x2 2nd operation stall as follows see default shunt receptacle map jp1 1 2 jp11 1 2 jp6 jp7 jp9 others should be supplied bag for customer
+__label__排针排母 , ftsh 105 01 l dv k hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k smt ftsh 105 l dv
+__label__74系列逻辑芯片 , 74lvc1g07gw 1 gate non inverting b uf fers sc70 5 pkg 74lvc1g07gw 5 tssop
+__label__ESD二极管 , prtr5v0u2x ultra low cap double rail esd protection diode prtr5v0u2x smt sot143b
+__label__放大器 , max9634teuk t high side current sense sot23 5 max9634teuk t sot23 5
+__label__ARM微控制器-MCU , lpc4322jet100 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 100 tfbga
+__label__模数转换芯片 , adc122s021 12 bit a d 2 chan 200ksps vssop 8 adc122s021 vssop 8
+__label__ARM微控制器-MCU , lpc18s37jet100 arm cortex m4 mcu 100bga 1m flash lpc18s37jet100 100 tfbga color fill with indelible marker silkscreen box om13076 on bottom side
+__label__ARM微控制器-MCU , lpc43s67jet100 arm cortex m4 mcu 100bga 1m flash lpc43s67jet100 100 tfbga color fill with indelible marker silkscreen box om13084 on bottom side
+__label__ARM微控制器-MCU , lpc4367jet100 arm cortex m4 mcu 100bga 1m flash lpc4367jet100 100 tfbga color fill with indelible marker silkscreen box om13088 on bottom side
+__label__74系列逻辑芯片 , 74lvc1g53dc 125 2 channel analog mux vssop 8 74lvc1g53dc vssop 8
+__label__FLASH存储器 , mx25l8035em2i 10g 8mb serial flash quad spi 8p soic 0.209 3.3 v mx25l8035em2i 10g 8 soic 0.209
+__label__74系列逻辑芯片 , 74lvc1g04gw single gate inverter sot23 5 74lvc1g04gw 5 tssop
+__label__咪头麦克风 , sph0641lm4h dmic1 dmic mems digital pdm 5p omni 26db multi mode sph0641lm4h 423 1395 1 nd smd5 3.5 x2.65 clean near part !
+__label__通用二极管 , pmeg1020ej d6 diode smd 10v 2a schottky pmeg1020ej 568 4106 1 nd 2a sod323f
+__label__以太网连接器 , arje 0034 j4 rj45 jack smt w mags led s ethernet arje 0034 535 12443 1 nd smt14
+__label__音频视频链接器 , sj 3524 smt j5 j6 audio jack 3.5 mm switched smt narrow body sj 3524 smt cp 3524sjct nd smt ra
+__label__内存连接器 , 2041021 4 j7 sd card w cd wp smd 2041021 4 a101492ct nd conn sdcard smt
+__label__排针排母 , ssw 110 22 l d vs j9 j10 j13 rec 2x10 smd 0.100 pitch rec 2x10 smd 0.100 pitch samtec ssw 110 22 l d vs smd 2x10
+__label__排针排母 , ssw 106 22 l d vs j12 rec 2x06 smd 025sq pin 100 centers rec 2x06 smd vertical samtec ssw 106 22 l d vs smd 2x06
+__label__鳄鱼夹测试夹 , hwr 0030 0001 m8 m9 m10 m11 m12 m13 m15 m16 m17 m18 m19 shunt for 100 center header qpc02sxgn rc s9337 nd shunt 1x2 2nd operation add shunt to headers per default shunt map document shunts stalled by default should be placed small bag and taped to pcba
+__label__排针排母 , ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k samtec ftsh 105 01 l dv k smt ftsh 105 l dv
+__label__MOSFET , pmv48xp q2 high drive fet pchannel sot23 pmv48xp 215 568 7579 1 nd sot23
+__label__缓冲器驱动器接收器收发器 , 74lvc1t45gw u11 u20 u22 dual supply transceiver 3 state sc 88 6pin pkg 74lvc1t45gw 568 5461 1 nd 6 tssop
+__label__74系列逻辑芯片 , 74lvc1g04gw u13 single gate inverter sot23 5 74lvc1g04gw 568 1579 6 nd 5 tssop
+__label__LED驱动 , ap5724wg 7 u14 white 6 led string boost converter sot26 ap5724wg 7 ap5724wg 7dict nd sot26
+__label__放大器 , max9634teuk t u18 high side current sense sot23 5 max9634teuk t max9634teuk tct nd sot23 5
+__label__加速度传感器 , mma8652fcr1 u19 accelerometer 3 axis 12 bit dfn10 mma8652fcr1 mma8652fcr1ct nd dfn 10
+__label__ARM微控制器-MCU , lpc4322jet100 u21 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga
+__label__ARM微控制器-MCU , lpc54608fet180 u25 aruba 32bit m4 mcu180tfbga 12mmsq 0.8 mm pb free lpc54608fet180 bga180
+__label__FLASH存储器 , mx25l12835fm2i 10g u27 128mb serial flash quad spi 8p soic 0.209 3.3 v mx25l12835fm2i 10g mx25l12835fm2i 10g nd 8 soic 0.209 dni
+__label__LCD显示模组 , rk043fn02h ct j16 j16 lcd display rocktech rk043fn02h ct 2nd operation stall ffc lcd to j16 j17 on backside lcd fold back over ffc and secure to pcb with 2 sided tape item 98 see 33 v lcd assy structions
+__label__开关二极管 , 1n4448ws 7 f d5 d6 diode switching 75v 200mw sod323 1n4448ws 7 f 1n4448ws fdict nd sod 323
+__label__排针排母 , ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k smt ftsh 105 l dv
+__label__缓冲器驱动器接收器收发器 , 74lvc1t45gw u1 u7 u9 dual supply transceiver 3 state sc 88 6pin pkg 74lvc1t45gw 568 5461 1 nd 6 tssop
+__label__ESD二极管 , prtr5v0u2x u3 u10 ultra low cap double rail esd protection diode prtr5v0u2x 568 4140 1 nd smt sot143b
+__label__模拟开关芯片 , nx3l2267gm u4 dual spdt analog swt sot1049 3 nx3l2267gm 568 5549 1 nd 10 xfqfn
+__label__电平转换移位器 , sn74avc2t45dctr u5 transceiver 2 bit dual supply 8ssop sn74avc2t45dctr 296 17232 1 nd 8 lssop
+__label__ARM微控制器-MCU , lpc4322jet100 u6 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga
+__label__ARM微控制器-MCU , lpc11u68jbd100 u8 lpc11u68 32bit mcu lqfp100 0.5 mm pb free lpc11u68jbd100 100 lqfp
+__label__金属膜电阻 , 0.1 r91 93 94 207 303 305 zerohm jumper wire mfr d 0.0 qbk nd

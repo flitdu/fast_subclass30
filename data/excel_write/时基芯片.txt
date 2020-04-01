@@ -1,1 +1,3 @@
 sa555dr instrument ic precision timer 8 soic 8 soic 2
+sa555dr instrument ic precision timer 8 soic 8 soic 2
+ic1 ne555p precision timer ic 8 pin plastic dip ic precision timer 8 dip ne555p

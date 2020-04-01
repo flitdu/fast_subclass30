@@ -24,3 +24,7 @@ mps9141 dc to dc converter sop 8 1
 ic11 ic12 ic13 ic29 ic31 ic33 lt1930a lt1931 lt1931 ad8055artz ad8055artz ad8055artz 2.2 mhz inverting current mode dc dc converter 1.2 mhz inverting current mode dc dc converter 1.2 mhz inverting current mode dc dc converter operational amplifier operational amplifier operational amplifier sot23 5 95p280x110 5n
 isl97516 isl97516 msop8 600khz 1.2 mhz pwm step up regulator
 dcdc dcdc step down 4.7 20v 2a 450khz tsot23 6 jw5033htsotb trpb 1 u3
+pololu 5v boost converter u1v11f5 required because the honeywell sensor needs 5v power but uses 3.3 v logic 4.95 21.25
+lm22670 u101 lm22670mre 5.0 nopb national semiconductor ic reg switch buck 3a 5v 8psop
+u2 ic dc dc buck 3 17vv adj 3a 25 mhz 16 qfn tps62130rgtr digi key 296 37682 1 nd 086218
+u12 ic dc dc buck 3.3 10v adj 300ma 2.5 mhz 12 son tps62745dssr digi key 296 44339 1 nd 0.77556

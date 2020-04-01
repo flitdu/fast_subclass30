@@ -4,3 +4,10 @@
 q06 20020001 13 60301000190 a d 转换器 ads8698idbt 18 位 tssop38 38pin smd ads8698idbt 35
 u7 ad9271bsvz 40 ic adc oct 12bit 40msps 100 tqfp analog devices inc ad9271bsvz 40 newark 52m2990 114.29
 u11 ad9767astz ic dac 14bit dual 125msps 48lqfp analog devices inc ad9767astz digi key ad9767astz nd 21.44
+ad7490 12bit 16ch adc 2.7 5.25 v ad7490bruz 16 channel 1 msps 12 bit adc with sequencer
+u6 ic 8 channel sar adc 12 bits spi 2.7 v 5.5 v 16 soic mcp3208 bi sl technology mcp3208 bi sl digi key mcp3208 bi sl nd 3.29 farnell 1852020
+24 single adc 454.5 ksps 12 bit parallel serial 44 pin mqfp tray ad7891asz 1 ad 7 7 tray
+ic max1247 12 bit adc ic max1247 max1247acpe max1247 free sample 1 kd
+u1 u2 u3 u4 mcp4822 4 579 mcp4822 e p mcp4822
+adc122s021 12 bit a d 2 chan 200ksps vssop 8 adc122s021 vssop 8
+adc122s021 u23 12 bit a d 2 chan 200ksps vssop 8 adc122s021 adc122s021cimm nopbct nd vssop 8

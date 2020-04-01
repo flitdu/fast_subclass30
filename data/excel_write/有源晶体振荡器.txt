@@ -1,4 +1,5 @@
 osc1 mems osc cmems 50mhz 50ppm 3.3 v 2520 asemb 50.000 mhz lc t abracon 1 5 ct
+1 crystal oscillator 100mhz fn 144 8089 pc 10.0 must operate 40 60oc o100m000000l434 ael crystals 10 4.0782 6 13days e
 tcxo 16.384 mhz pc 30 lftvxo009915 iqd frequency products
 50 crystal osc 25mhz osc fn 127 6647 pc 10.0 lfspxo025165 iqd frequency products
 ecs 3963 270 bn tr 1 oscillator standard 27mhz 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
@@ -119,22 +120,22 @@ crystals resonators xtal osc z124631 kc7050a100.000 c30e00 100.00 mhz 3.3 v 7x5m
 osc 125 mhz 3.3 v lvds smd u16 fox fxo lc536r 125 1 digi key 631 1354 1 nd
 osc 150 mhz 3.3 v lvds smd u17 fox fxo lc536r 150 1 digi key 631 1355 1 nd
 osc mems 125.000 mhz smd u18 abracon corporation asflmb 125.000 mhz xy t 1 digi key 535 11043 1 nd
-63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd no lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425
+63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425
 up 16mhz 5v arduno mini pro
 crystal 有源 晶振 smdxtal3225 7.3728 m 1.0 50.0 1.0
-154 1 y1 cb3lv 3c 60m0000 cts frequency controls cb3lv 3c 60m0000 osc 60.000 mhz 3.3 v smd 7.00 mm x 5.00 mm osc cb3lv 3c yes ctx285lvct nd
-157 1 y4 ase3 25.000 mhz kt abracon corporation ase3 25.000 mhz kt oscillator 25.000 mhz 1.8 v smd 3.20 mm x 2.50 mm osc ase3 yes 535 9550 1 nd
-159 1 y6 ccld 033 50 125.000 crystek corporation ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd smd 7mm x 5mm osc s6p lv77d yes 744 1038 1 nd
-161 1 y8 cb3lv 3i 66m0000 cts frequency controls cb3lv 3i 66m0000 osc 66.0000 mhz 3.3 v smd 7.00 mm x 5.00 mm osc cb3lv 3c yes ctx316lvct nd
-141 1 y1 asv 25.000 mhz ej t oscillator 25.000 mhz 3.3 v smd abracon corporation asv 25.000 mhz ej t smd 7mm x 5mm xtal asv yes 535 9319 1 nd
-143 1 y3 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d yes 744 1038 1 nd
-146 1 y6 emk13g2h 26.660 m smd crystal oscillator 26.66 mhz 3.3 v 30pf 4 pin ecliptek emk13g2h 26.660 m smd 7mm x 5mm xtal asv yes ecliptek emk13g2h 26.660 m
-169 1 y1 50 mhz osc 50mhz 50ppm 3.3 v smd cts freq control cb3lv 3c 50m0000 tbd osc cb3lv 3c yes ctx283lvct nd
-171 1 y3 25mhz osc 25mhz 30ppm 1.8 v smd abracon corporation ase3 25.000 mhz kt tbd osc ase3 yes 535 9550 1 nd
-174 1 y6 66 mhz osc 66mhz 50ppm 3.3 v smd cts freq control cb3lv 3i 66m0000 tbd osc cb3lv 3c yes ctx316lvct nd
-176 1 y8 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d yes 744 1038 1 nd
-177 1 y9 fxo lc735r 30.72 osc 30.72 mhz 3.3 v lvds smd nu fox fxo lc735r 30.72 smd 7mm x 5mm osc 7x5mm 6p yes fxo lc735r 30.72 nd
-y7 asfl1 48.000 mhz ec t abracon corporation asfl1 48.000 mhz ec t oscillator 48.0000 mhz 3.3 v smd 5.00 mm x 3.20 mm osc 535 9259 1 yes 300 8263 1 nd 08 00128 01
+154 1 y1 cb3lv 3c 60m0000 cts frequency controls cb3lv 3c 60m0000 osc 60.000 mhz 3.3 v smd 7.00 mm x 5.00 mm osc cb3lv 3c ctx285lvct nd
+157 1 y4 ase3 25.000 mhz kt abracon corporation ase3 25.000 mhz kt oscillator 25.000 mhz 1.8 v smd 3.20 mm x 2.50 mm osc ase3 535 9550 1 nd
+159 1 y6 ccld 033 50 125.000 crystek corporation ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd smd 7mm x 5mm osc s6p lv77d 744 1038 1 nd
+161 1 y8 cb3lv 3i 66m0000 cts frequency controls cb3lv 3i 66m0000 osc 66.0000 mhz 3.3 v smd 7.00 mm x 5.00 mm osc cb3lv 3c ctx316lvct nd
+141 1 y1 asv 25.000 mhz ej t oscillator 25.000 mhz 3.3 v smd abracon corporation asv 25.000 mhz ej t smd 7mm x 5mm xtal asv 535 9319 1 nd
+143 1 y3 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d 744 1038 1 nd
+146 1 y6 emk13g2h 26.660 m smd crystal oscillator 26.66 mhz 3.3 v 30pf 4 pin ecliptek emk13g2h 26.660 m smd 7mm x 5mm xtal asv ecliptek emk13g2h 26.660 m
+169 1 y1 50 mhz osc 50mhz 50ppm 3.3 v smd cts freq control cb3lv 3c 50m0000 tbd osc cb3lv 3c ctx283lvct nd
+171 1 y3 25mhz osc 25mhz 30ppm 1.8 v smd abracon corporation ase3 25.000 mhz kt tbd osc ase3 535 9550 1 nd
+174 1 y6 66 mhz osc 66mhz 50ppm 3.3 v smd cts freq control cb3lv 3i 66m0000 tbd osc cb3lv 3c ctx316lvct nd
+176 1 y8 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d 744 1038 1 nd
+177 1 y9 fxo lc735r 30.72 osc 30.72 mhz 3.3 v lvds smd nu fox fxo lc735r 30.72 smd 7mm x 5mm osc 7x5mm 6p fxo lc735r 30.72 nd
+y7 asfl1 48.000 mhz ec t abracon corporation asfl1 48.000 mhz ec t oscillator 48.0000 mhz 3.3 v smd 5.00 mm x 3.20 mm osc 535 9259 1 300 8263 1 nd 08 00128 01
 118 xxx xxxxx xx osc 24.000 mhz 30ppm 3.3 v npb sm 3x5 1 y3 abracon asfl1 24.000 mhz ek t
 120 xxx xxxxx xx osc 24.576 mhz 1.8 v 25ppm npb 2x1.6 1 y6 txc corporation 8n24570001
 121 xxx xxxxx xx osc 22.5792 mhz 1.8 v 25ppm npb 2x1.6 1 y7 txc corporation 8n2257001
@@ -144,25 +145,33 @@ osc 22.5792 mhz 1.8 v 25ppm npb 2x1.6 y7 txc corporation 8n2257001
 25 1.0 q1 4.0 5.0 x3.2 mm tcxo crystal 50x32 asvtx 09
 92.0 1.0 u9 102 00023 01 ecliptek vcxo 24.576 mhz 50ppm 3.3 v smt vcxo 24.576 mhz 50ppm 3.3 v smt ev32c3a5a1 24.576 m
 osc xo 25.0000 mhz cmos smd kc2520k25.0000 c1ge00 1.0 1.089 1.089 corp kyocera corp y3 1000.0
-lf spxo009616 100mhz cmos 2v5 oscillator smt 7.5 x5.0 farnell 1276665 yes 5.61 6.0 0.0
+lf spxo009616 100mhz cmos 2v5 oscillator smt 7.5 x5.0 farnell 1276665 5.61 6.0 0.0
 f4100 32.0000 32mhz 3v3 oscillator smt 7.5 x5.0 rs 4719427 3.87 20.0
-s1613b 50.0000 3.3 v cmos 50mhz oscillator smt 7.5 x5.0 yes 5.33 0.0
+s1613b 50.0000 3.3 v cmos 50mhz oscillator smt 7.5 x5.0 5.33 0.0
 y1 cb3lv 3c 40m0000 osc 40.000 mhz 3.3 v smd cts frequency controls cb3lv 3c 40m0000 digi key ctx280lvct nd 2.94
 y2 cb3lv 3c 80m0000 osc 80.000 mhz 3.3 v smd cts frequency controls cb3lv 3c 80m0000 digi key ctx289lvct nd 3.16
 x1 note 1 oscillator prog 3.3 v 50ppm smd26.0 mhz abracon corporation ap3s blanks ap3s3ec nd
 8m 5070 33 v 8mhz 5070 33 v 有源 晶振 20 201711 15
 8m 5070 33 v 110592 mhz 5070 33 v 有源 晶振 20 201711 15
-x1 48mhz tcxo x2016 no yes
+x1 48mhz tcxo x2016
 crystal oscillator 100mhz o100m000000l434
+147 osc 4.0000 mhz 3.3 v smd cb3lv 3c 4m0000 fxo37f y1 cts frequency controls 1 ctx261lvct nd
+u2 cts mxo45hst 20m000 20mhz osc dip 8 1
 530ec125m000dg osc xo 125.000 mhz lvpecl smd ib clock generation 1.0
+58 1 cvxo 018tx 50 12.288 voltage controlled clock oscillators smd 12.288 mhz xo1 avx5x7 6 549 cvxo018tx5012.28 crystek
+59 0 vcs25axt 128 12.288 mhz voltage controlled clock oscillators smd 12.288 mhz avx5x7 6 559 vcs25axt 1229 fox
+48 1 66.6666 mhz conner winfield cwx823 066.6666 m xo smt u402 3.3 v 50ppm 1pstjms 1ps rms phase jitter xo prototype with 66.6666 mhz since distributors stock freq for production special order 65.000 mhz man uf acturer 2.0025 2.0025 200.25 0.021900846963990306 digi key
+49 1 16.368 mhz txc 7q 16.368 mbg t tcxo smt x101 3.3 v clipped sinewave tempco 0.5 ppm tempco 0.5 ppm tcxo 1.59 1.59 159 0.017389436540696423 newark
 49152 mhz crystal osc 49152 mhz cmos ttl ctx156 nd 278 xtal osc
 5000 mhz crystal osc 50000 mhz cmos ttl ctx121 nd 278 xtal osc
+1 y1 osc mems 50.000 mhz 3.3 v cmos low power 50ppm internal pu smd 2mm x 2.5 mm silicon labs 501baa50m0000dag 50mhz osc alt
+44 1 0 abracon achl 25000 mhz ek stall x5 250 mhz half cap 8 p dip 30 ppm 33 v with oe plug to x7 socket acol achl pdf
 osc1 27mhz xtal asek abracon corporation ase 27.000 mhz lc t oscillator 27.000 mhz 3.3 v smd 535 9569 1 nd
 有源 单端 晶振 27mhz 有源 晶振 5032 smd5032 1 y3 力天 3
 有源 单端 晶振 50mhz 有源 晶振 5032 smd5032 1 y4 力天 3
 有源 差分 晶振 sit9120ac 2d2 33e148.5 7050 1 y2 sitime 2017 03 17 3
 56 di a0 50mh 晶振 50m 有源 晶振 smd5032 1.0 y1 力天 3.0
-p1 clock oscillator dip 14 5v 2.00 mhz soldered no socket needed 1 1 27924 1.49 jameco 14dip300
+p1 clock oscillator dip 14 5v 2.00 mhz soldered socket needed 1 1 27924 1.49 jameco 14dip300
 p18 clock oscillator dip 14 5v 20.00 mhz 1 1 27932 0.75 jameco 14dip300
 x1 osc 4.9152 mhz 5v 14pin ttl osc 1 774 mxo45 3c 4.9 2.07 14dip300
 126 032 1.0 ic17 ic 50mhz crystal oscillator 100ppm 3.3 v cmos fujicom fco 736b 50.000 fcom 5c fujicom fco 736b 50.000 fcom 5c

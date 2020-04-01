@@ -70,6 +70,7 @@ bgrv20tq240 j ± 5% 24 ω
 bsrv20tq103j 10k ω 103 ± 5%
 cr l5w 033 ω j ± 5% 033 ω axial
 cr l5w 2k ω j 2k ω 202 ± 5% axial
+插件 电阻 r20 r21 水泥 电阻 5w 5 水泥 电阻
 resistor 5w 22ohm 5% ceramic axial synton tech sqp05j 220 r1 x 2 en synton tw upload file 1493111133 pdf
 sqp10ajb 1r0 r50 res50mm rs1 rs2 rs3 rs4 rs5 res 1 ohm 10w 5% axial sqp10ajb 1r0 500.0 50.0 0.313 10 15days dgk
 97 水泥 电阻 1.5 k 5w 直插 1 4

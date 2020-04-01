@@ -33,8 +33,15 @@ cap smd eletr 220 uf 16v 85g 20% r edk227m016a9haa kemet 17400 edk227m016a9haa k
 cap alum 330 uf 20% 50v smd c9 1 eee fk1h331aq digi key pce4849ct nd surface mount eee fk1h331aq 500.0 4.7165 7 10days
 cap alum 220 uf 20% 10v smd c2 c10 2 eee fk1a221p digi key pce3775ct nd surface mount eee fk1a221p 1000.0 1.2081 8 14days master
 smd 铝电解 22 uf 16v 4 6 26 5200 22 uf 16v 4 5.5
+电容 电容 电容 1000 uf 6.3 v 1000 uf 6.3 v 8 10.5 400.0 0.278 lc
+电容 电容 电容 100 uf 16v 100 uf 16v 6.3 5.4 20% 400.0 0.123 lc
 电解电容 c2 c5 c58 smd 100 uf 16v 3.0 100 uf 16v ± 20% 6.3 5.4 0.123 lc
 电解电容 c3 smd 100 uf 50v 1.0 100 uf 50v ± 20% 8 10.5 0.268 6.3 5.4 lc
+电解电容 c2 c5 c58 smd 100 uf 16v 100 uf 16v ± 20% 6.3 5.4 0.123 lc
+电解电容 c3 smd 100 uf 50v 100 uf 50v ± 20% 8 10.5 0.268 6.3 5.4 lc
+铝电 220 uf 35v ± 20% 8 10.5 mm 500.0 220 uf 35v ± 20% 8 10.5 500.0 0.268 lc
+220 uf 10v ± 20% 6.3 5.4 mm 1000.0 220 uf 10v ± 20% 6.3 5.4 1000.0 0.119 lc
+470 uf 16v ± 20% syk 8mm 10.5 mm 500.0 470 uf 16v ± 20% 8 10.5 500.0 0.268 lc
 cap alum 220 uf 20% 16v 280ma smd 3 16mm reel 15000 koshin capxon teapo jamicon sx wangxing mrw 0 16v 221me058 dv221m016e077etr vev227m016s0ane04k cdm221m1ce07w szwxsv220160605 0.01 0.03
 cap alum 100 uf 20% 16v 240ma smd 3 16mm reel 15000 koshin capxon teapo jamicon sx wangxing mrw 0 16v 101me058 dv101m016e055etr vev107m016s0ane01k cdm101m1ce05w szwxsv100160607 0.01 0.03
 c8 9 cap alum 47 uf 35v 20% smd uwt1v470mcl1gs nichicon 925 2 900
@@ -132,9 +139,9 @@ uuj2w3r3mnq1ms nichicon cap al d100l100 7.75 6.8 uf 4 50v uuj2w3r3mnq1ms nichico
 uut1a101mcl1gs nichicon cap al d63l58 4.2 100 uf 10v uut1a101mcl1gs nichicon 1000.0 1000.0 0.7153 8 12days
 uut1c470mcl1gs nichicon cap al d63l58 4.2 47 uf 16v uut1c470mcl1gs nichicon 1000.0 1000.0 0.6218 8 12days
 ucd1j470mnl1gs nichicon cap al d80l100 5.7 47 uf 63v ucd1j470mnl1gs nichicon 500.0 500.0 1.0925 8 12days ickey
-c33 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 301.181 2378.386 0 yes 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
-c53 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 3498.819 1243.386 0 yes 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
-c60 cap alum 100 uf 20% 50v smd 3 ec 100 uf 50v ecap th 8x13mm 3923.819 678.386 90 yes 1.0 1.0
+c33 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 301.181 2378.386 0 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
+c53 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 3498.819 1243.386 0 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
+c60 cap alum 100 uf 20% 50v smd 3 ec 100 uf 50v ecap th 8x13mm 3923.819 678.386 90 1.0 1.0
 电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
 电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
 电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
@@ -471,7 +478,7 @@ ucz1c470mcl1gs c 47 uf 20% 16v 6.3 5.8 mm nichicon 1 17.0
 ucz1h470mcs1gs c 47 uf 20% 50v 8 10mm nichicon 1 17.0
 uwh1v101mcl1gs c 100 uf 20% 35v 8 10mm nichicon 1 17.0
 ucz1h101mcs1gs c 100 uf 20% 50v 10 10mm nichicon 2 68.0
-2 2 ct2 ct8 1000 uf nichicon rha0e102mcn1gs cap poly alum 1000 uf 2.5 v smd 8.00 mm x 7.70 mm cecase e315h yes 493 3761 1 nd
+2 2 ct2 ct8 1000 uf nichicon rha0e102mcn1gs cap poly alum 1000 uf 2.5 v smd 8.00 mm x 7.70 mm cecase e315h 493 3761 1 nd
 c1 c4 c7 c10 capacitor aluminum electrolytic surface mount 5x5.8 mm 50v 10 uf cornell dubilier afk106m50c12t f 5985 afk 50v 10 f 0.44
 4.0 10.0 c8 c17 c32 c39 c68 c69 c75 c77 c94 c95 001 00022 01 cap 10 uf 25v 20% elyt smt c 001 00022 01 ece v1ea100sr
 14.0 1.0 c9 001 00196 01 cap 330 uf 25v 20% elyt smd f 001 00196 01 ece v1ea331up
@@ -483,7 +490,7 @@ cbulk4 cbulk5 aluminium capacitor 180 μ f 16 v 20% oscon 16svpf180m
 c8 c14 c15 eev ha1h2r2r cap electr 22 uf 50v 1206 dns
 c6 c24 c29 c43 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g
 c15 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g dnp
-c33 c35 100 uf sm ec100 uf cap elect 100 uf 25v fk smd 0.3924 yes yes eee fk1e101p
+c33 c35 100 uf sm ec100 uf cap elect 100 uf 25v fk smd 0.3924 eee fk1e101p
 电解电容 电解电容 smd 1000 uf 10v 8 8 10mm rvt1a102m0810 嘉立 创 1 c11
 cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0 1000 10000
 006 1005209050 p0901005 smd cap electrolit 1 uf capae660x870n low esr 40 to 105c 20% eeefc1v1ror panason 19.0 5.0 4080.0 allchips 1.0
@@ -494,6 +501,9 @@ p0901005 smd cap electrolit 10 uf capae660x870n low esr 40 to 105c 20% eeefc1v10
 19 ucl1c471mnl1gs cap alum 470 uf 20% 16v smd nichicon ucl1c471mnl1gs 1 1000 0 ucl1c471mnl1gs nichicon 1000 0.2106 10 14days verical
 34 电解电容 cdvt 470 uf ± 20% 16v 8 10.2 2 6000 470 uf 20% 16v 8 10.2 国产品牌 6000 0.286
 cap alum polymer 220 uf 20% 16v smd nichicon uwt1c221mcl1gs digi key 493 2179 1 nd 0.1235 digi key 493 2179 2 nd 0.0882
+9 100mfd 16v 6.3 x11 nrsz101m 16v nic comp 63800 200 pack
+10 100 uf 35v 6.3 x7 nre s101m35v 6.3 x7 nic comp 4000 200 pack
+11 4.7 uf 35v 4x7 nre sw4r7m35v 4x7f nic comp 8800 200 pack
 cap alum 470 uf 100v 20% smd 470 uf 100v ecec2ap471bj 3 c834 c835 c836
 cap alum 330 uf 25v 20% smd 330 uf 25v eee hae331uap 1 c837
 4 cap alum 220 uf 20% 6.3 v smd emva6r3ada221mf55g 565 2058 1 nd united chemi con c84 c83 c81 c80
@@ -503,8 +513,8 @@ cap alum 330 uf 25v 20% smd 330 uf 25v eee hae331uap 1 c837
 220 uf 16v cap pol1 c35 c39 c52 7 7 16v 3
 470 uf 35v cap pol1 c34 c38 10 10 50v 2
 c27 100 uf stm rescue cp1 device capacitor tantalum smd cp eia 2012 12 kemet r
-c7 electrolytic capacitor 22 µ f exv226m035a9daa no yes
-c22 electrolytic capacitor 22 µ f exv226m035a9daa no yes
+c7 electrolytic capacitor 22 µ f exv226m035a9daa
+c22 electrolytic capacitor 22 µ f exv226m035a9daa
 220u united chemi con apxa160ara221mjc0g 11220 220 661 pxa 16v c221m 406x406mm cap 220 uf 16v c0g electrolytic 4141 lead free compliant cap elect 220u 16v 0
 c217 c218 eef cx1c680r cap alum 68 uf 16v 20% smd 7343 68 uf p16816 1 nd
 c19 cap alel 100 uf 50v 20% smd nichicon uud1h101mnl1gs

@@ -8,4 +8,10 @@
 71 16p8302b0 u03 s000836 ic b uf non invert 3.6 v 14tvsop sn74alvc125dgvr sop 10 9 90
 ic15 ic22 ic23 sn65lvdm051 sn65lvdm051 sn65lvdm051dg4 soic16 127p600x175 16n
 74vhc125pw tssop14 ic b uf fer line dvr quad 14tssop
-u2 nc7sp126 sc70 5 yes sig top l1 ulp b uf fer with three state nc7sp126p5x nc7sp126p5xct nd
+u2 nc7sp126 sc70 5 sig top l1 ulp b uf fer with three state nc7sp126p5x nc7sp126p5xct nd
+u4 quad 3 state 5v ttl b uf fer tssop 14 mc74vhct125adtrg
+u166 sn74bct760dw octal o c b uf fer soic20 1
+74lvc1t45gw u11 u20 u22 dual supply transceiver 3 state sc 88 6pin pkg 74lvc1t45gw 568 5461 1 nd 6 tssop
+74lvc1g07gw u15 1 gate non inverting b uf fers sc70 5 pkg 74lvc1g07gw 568 2295 1 nd 5 tssop
+74lvc1t45gw u1 u7 u9 dual supply transceiver 3 state sc 88 6pin pkg 74lvc1t45gw 568 5461 1 nd 6 tssop
+74lvc1g07gw u2 1 gate non inverting b uf fers sc70 5 pkg 74lvc1g07gw 568 2295 1 nd 5 tssop

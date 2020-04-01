@@ -71,7 +71,7 @@ r vdr 275v rm5 d 7mm 275vac rm5 ung r vdr 275v rm5 ungesch siov s07k275 0
 压敏 电阻 插件 压敏 电阻 77v 2.5 a 390kd07 1.0 6000.0 rv1
 87 3 压敏 电阻 插件 压敏 电阻 tvr10561 v 560v ± 10% ø 10mm 脚距 7.5 mm 105 ℃ 1 r27 thinking tvr10561kf494v 200
 插件 压敏 电阻 10a 1800v 2 脚 hel 20d621 yamindianzhu 10.0 100 rt1 rt2 rt3 rt4 rt5 rt6 rt7 rt8 rt9 rt10
-aj1549 smd varistor with 26vdc 54v ipeak100a part no 82551200 make we 1206 1 vr1 electroniks 82551200 1000.0 1100
+aj1549 smd varistor with 26vdc 54v ipeak100a part 82551200 make we 1206 1 vr1 electroniks 82551200 1000.0 1100
 3 1000128842 2 vt v22za1p000000 插件 压敏 电阻 v22za1p v22za1p 5 y
 78 1000128842 1 vt cg0603mlc005e 压敏 电阻 cg0603mlc 05e 0603 cg0603mlc 05e 603 6 y
 8.0 1.0 rv1 b72214s2271k151 b72214s2271k151 430v 6ka varistor 1 circuit through hole 5000.0
@@ -126,7 +126,8 @@ rv1 vdr 4v mm vdr 1206 1 n
 ru1 erz v05d471 1 radial varistor thru hole disk body pin spacing 75 mm varistor manual radial
 ct0805s14bautog 压敏 电阻 b72510e1140s262 r185 r187 6 0805 n 2
 r08 fb varistor 151j 275v
-r55 var 27v 20a r0603 yes sig top l1 varistor multilayer 27v 0603 ezj z1v270ea p14189ct nd
+r55 var 27v 20a r0603 sig top l1 varistor multilayer 27v 0603 ezj z1v270ea p14189ct nd
+mov1 varistor 10v 10a 0402 vrs0402sr55r100n digi key 311 1515 1 nd 0.00529
 压敏 电阻 20d471 rv1 rv2 2
 压敏 电阻 fnr 10k271hs 剪脚 后脚 3.5 mm ± 0.5 51 3570.0
 压敏 电阻 10d390k 7mm 7000 10d390k 0.212 扬杰 lc

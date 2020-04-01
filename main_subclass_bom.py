@@ -246,7 +246,7 @@ if __name__ == '__main__':
 
     # excel_read2txt()
 
-    train_tag = 10
+    train_tag = 100
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         # # '''''''''''''''''data_selection_new.py
@@ -269,7 +269,7 @@ if __name__ == '__main__':
     # 4 训练-调参
     # 初始化
         epoch_begin = 2
-        epoch_ = 3
+        epoch_ = 100
         loss_name = 'softmax'
         learn_rate = 0.5  # 0.5, 0.8
 
@@ -305,7 +305,7 @@ if __name__ == '__main__':
         tag = 1
         if tag == 1:
             excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.24'
+            # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\3.30'
 
             model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
             model_names = os.listdir(model_folder)

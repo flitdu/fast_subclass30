@@ -84,9 +84,9 @@ resistors potentiometers t837515 ra0901nox0k ha1 844 30k linear pcb mount pot ra
 resistors potentiometers t837516 ra0901noc0a va1 003 500k linear pcb mount pot ra0901noc0a va1 003 soundwell 3
 resistors potentiometers t837563 rv110f 40e1 18b b100k a013 100k 6mm pot rv110f 40e1 18b b100k a013 taiwan alpha 1
 potentiom è tre ajustable piher horizontal 2 2k 570
-tsm4yl 20k smt potentiometer eaj yes 2.17 0.0
-3204 series 500k smt potentiometer eaj yes 2.17 0.0
-p36s106 rotary smt hex switch smt farnell 1082475 yes 5.87 6.0 0.0
+tsm4yl 20k smt potentiometer eaj 2.17 0.0
+3204 series 500k smt potentiometer eaj 2.17 0.0
+p36s106 rotary smt hex switch smt farnell 1082475 5.87 6.0 0.0
 tsm4yl 50k 10% 50k smt potentiometer farnell 1141365 18.0
 r73 10k 3314g 1 103e 10k pot 10k ohm 4mm sq cermet smd inc 3314g 1 103e digi key 3314g 103ect nd 195
 可调 电阻 tmc3k 50k smd 2
@@ -98,6 +98,24 @@ pot trim 100ohm 1 turn 20% smd tra 3313j 1 101e 无源 器件 10.78 5.355
 3318g 1 103a inc variable resistor 10k ohm 6mm carbon 6mm squared 1
 p1 p2 trimmer 1 k ω 1 4 w pv37w102c01b00
 r106 206 trimmer resistor 50k smd 4mm 3314g 1 503e 652 3314g 1 503e 1.5 y
+3318p 1 502 inc variable resistor 5.0 k ohm 6mm carbon 6mm squared 1
+3318g 1 103a inc variable resistor 10k ohm 6mm carbon 6mm squared 1
+500k audio taper 500k audio taper parts express pe showdetl cfm partnumber 023 620
+25k linear taper 25k linear taper parts express pe showdetl cfm partnumber 023 630
+100k linear taper 100k linear taper parts express pe showdetl cfm partnumber 023 560
+drive pot alt 1m audio taper parts express pe showdetl cfm partnumber 023 622
+393 trimmer 10k ohm 0.25 w smd st4etb103 trimmer 10k ohm 0.25 w smd vr1 copal inc 3 st4etb103ct nd
+394 trimmer 10k ohm 0.25 w smd st4etb103 vr2 copal inc st4etb103ct nd
+395 trimmer 10k ohm 0.25 w smd st4etb103 vr3 copal inc st4etb103ct nd
+396 trimmer 10k ohm 0.25 w smd st4etb103 vr4 copal inc 1 st4etb103ct nd
+pot 10 k one turn potentiometer bgmicro res1420 0.15 squarepot cabinet
+pot 20 k one turn potentiometer bgmicro res1421 0.15 squarepot cabinet
+r23 r24 r25 r26 r27 r27 r29 r30 r31 r32 r33 r34 r35 r36 r37 r38 r39 r40 r41 r42 r43 r44 r79 r80 r81 25k 25 667 evu f2lfl3b24 potentiometer
+encoder encoder 1 652 pec16 4220fs0012 encoder
+vr1 50k pot vertical mount 9 mm d shaft rk09d1130a0s or rk09d1130a1l 688 rk09d1130a0s 688 rk09d1130a1l 1.48 1 1.48
+comments on vr1 schematic shows 100k to 500k however series of pots is available up to 50k the value is critical and usg 50 k merely descreases battery life slightly p n rk09d1130a0s is stock at but deed end of life p n rk09d1130a1l is of stock with 12 week delivery the shaft lengths are slightly different however either will work there is an error on the pc that requires terchangg the clockwise and wiper ps is ne by bendg the ps so that they go to the pcb and then connectg them with jumper wires
+2.0 r17 r18 through hole trimmer resistors 1.0 kohms 6mm sq pv37w102c01b00 81 pv37w102c01b00 858 64wr1klf 490 2969 nd 2.08 4.16
+r4 r9 r17 9353305.0 12 trimmer 25 turn 50k 3296w 1 503lf
 电位器 3296w 2k 2k ω 200
 电位器 3296w 10k 10k ω 100
 vr2 10k 9mm snap pot eurorack 652 ptd901 2015kb103 9mm snap pot horizontal horizontal

@@ -1,2 +1,6 @@
 78 16p8302b0 u03 s000843 ic adc 24bit sigma delta 28ssop ltc2418ign pbf linear technology analog devices sop 90
 14 12 位 d a 转换器 tlv5638qd 扩展 40 125 ℃ so8 n1 1 3
+u1 3 ad5324 ad5324 10 msop 0.118 3.00 mm width ic dac 12bit quad vout 10 msop analog devices inc ad5324brmz ad5324brmz nd
+u1 3 ad5324 ad5324 10 msop 0.118 3.00 mm width ic dac 12bit quad vout 10 msop analog devices inc ad5324brmz ad5324brmz nd
+ic tlv5616 12 bit dac tlv5616 tlv5616cp tlv5616 free sample
+ic max539 12 bit dac ic max539 max539acpa max539 free sample

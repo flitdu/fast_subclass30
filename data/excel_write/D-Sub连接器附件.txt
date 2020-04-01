@@ -1,2 +1,4 @@
 j6 182 009 213r181 conn db9 female 318 r a nickel norcomp inc 182 009 213r181 digi key 182 809fe nd 234
 conn db25 f 318 mntstd conn db25 f 318 mnt j4 amp 1734349 1 a35103 nd
+rs232 con subd 5747840 4 tyco conn d sub plug r a 9pos au t h
+con db9 serial connector female mount jameco 15771 0.65 serialdb9 cabinet

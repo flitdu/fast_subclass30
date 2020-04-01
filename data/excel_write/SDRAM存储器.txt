@@ -1,8 +1,9 @@
 84 16p8302b0 u07 s000162 ic dram 8g parallel 800mhz mt41k512m16ha 125 it a micron bga 40 9 360
 85 16p8302b0 u07 s000163 ic dram 4g parallel 96fbga mt41k256m16ha 125 it e micron bga 20 9 180
 q06 20020001 42 61102000080 dram mt47h128 1.8 v 1g 128mx8 400mhz 15ns fbga60 60pin smd micron mt47h128m8sh 25e it m 188
-mt48lc32m16a2p 75 512mbx16 sdram tsop 54 aertronica mt48lc32m16a2tg yes 38 16.0 0.0
+mt48lc32m16a2p 75 512mbx16 sdram tsop 54 aertronica mt48lc32m16a2tg 38 16.0 0.0
 2 2mx8 static ram cy7c1069av33 10zc cypress arrow 12 0 60 768 708 21.05 14903.4 0 leading time 2 weeks
 3 512kx24 static ram cy7c1012av33 10bgc cypress arrow 0 1 84 70 0 32.04 0 70
 w9816g6ch 6 s dram4m 16 60ns tsop54
-u5 mt48lc16m16a2p tsop 54 yes sig top l1 synchronous dram 4m x16 x4 banks micron technology mt48lc16m16a2p 75 d 557 1059 1 nd
+u5 mt48lc16m16a2p tsop 54 sig top l1 synchronous dram 4m x16 x4 banks micron technology mt48lc16m16a2p 75 d 557 1059 1 nd
+mt48lc8m16a2b4 6a xit u28 sdram 54ball bga b4 pkg sdram 256mb 3.3 v b4 pkg 167mhz mt48lc8m16a2b4 6a xit l nd vfbga54

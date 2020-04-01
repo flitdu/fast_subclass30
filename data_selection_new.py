@@ -6,6 +6,10 @@ import random
 import linecache
 import matplotlib.pyplot as plt
 from data_operation.txt_operate import OperateTXT
+from data_operation.constant import label_name_refer
+from data_operation.function import get_logger
+logger = get_logger()
+
 
 def shuffle(origin_txt, shuffle_txt):
     out = open(shuffle_txt, 'w', encoding='utf-8')
@@ -62,13 +66,20 @@ def merge_txt_files(lines_number, shuffle_tag):
             for i in num:
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
                 OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
-    # print(label_number)
+    print(label_number)
     list1 = []
     for key, value in label_number.items():
         #     print(key, value)
         list1.append('__label__' + key)
         # list1.append(key)
-    print('标签列表 \n：{}'.format(list1))
+    # print('标签列表 \n：{}'.format(list1))
+    print('标签列表 \n：{}'.format([i.replace('__label__','') for i in list1]))
+
+    list_temp = [i.replace('__label__','') for i in list1]
+    # for i in list_temp:
+    #     if i not in label_name_refer:
+    #         logger.critical('产生新的标签：{}'.format(i))
+
 
     for i in label_number:
         #     print(i, a[i])

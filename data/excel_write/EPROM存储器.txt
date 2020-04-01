@@ -1,2 +1,3 @@
 m24c64wbn 64 kbit serial i2c eeprom dip8 rs 415 1231 1.2 7.0 0.0
 at25640an 10su 2.7 spi serial eeprom so8 aertronica 6.0
+9 27c512 von siemens dil28 u2 gs t 28 s

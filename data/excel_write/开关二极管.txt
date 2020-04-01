@@ -6,4 +6,8 @@ discreteelectronic device diode 1n4148ws sod323
 ss54b smd2010
 1n5819 smd2010
 1n4148 semiconductor 35 100v io 200ma bulk 35 5
-d10 murs120 smb diode super fast 200v 1a smb 0.405 yes yes diodes inc murs120 13 f
+d10 murs120 smb diode super fast 200v 1a smb 0.405 diodes inc murs120 13 f
+1n4148 semiconductor 35 100v io 200ma bulk 35 5
+1n4148 1n4148 diode product detail en 1n4148 t 1n4148dict nd 160623
+1n4448ws 7 f diode switching 75v 200mw sod323 1n4448ws 7 f sod 323
+1n4448ws 7 f d5 d6 diode switching 75v 200mw sod323 1n4448ws 7 f 1n4448ws fdict nd sod 323

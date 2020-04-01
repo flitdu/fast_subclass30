@@ -7,6 +7,12 @@ handlers:
     class: logging.StreamHandler
     level: DEBUG
     formatter: simple
+  debug_handler:
+                class:  logging.handlers.TimedRotatingFileHandler
+                level: DEBUG
+                formatter: simple
+                filename: /log_info/ft-subclass_debug.log
+                encoding: utf-8
   error_handler:
     class:  logging.handlers.TimedRotatingFileHandler
     level: ERROR
@@ -24,8 +30,8 @@ handlers:
 loggers:
   py_grpc:
     level: DEBUG
-    handlers: [console,error_handler,info_handler]
+    handlers: [console,debug_handler,error_handler,info_handler]
     propagate: no
 root:
   level: DEBUG
-  handlers: [console,error_handler,info_handler]
+  handlers: [console,debug_handler,error_handler,info_handler]

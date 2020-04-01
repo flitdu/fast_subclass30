@@ -29,3 +29,19 @@ lm386m 1 soic 8 ic amp audio pwr 325w ab
 lm386m 1 national semiconductor ic amp audio power low v 8 soic 8 soic 1
 u5 ic opamp current sense 100 khz 6dfn lt6105
 u105 mcp6022 dual op amp rail to rail 8 soic mcp6022 i sn mcp6022 i sn nd 1.42 y
+lm386m 1 national semiconductor ic amp audio power low v 8 soic 8 soic 1
+njm4558d dual op amp product detail en njm4558d njm4558d nd 673768
+opa2705pa ic opamp gp r r 1mhz dual 8dip alternate packaging exists
+v4 lmv321wg 7 sot25 ic opamp r r 1mhz sot25 diodes inc lmv321wg 7 lmv321wg 7didkr nd
+v4 lmv321wg 7 sot25 ic opamp r r 1mhz sot25 diodes inc lmv321wg 7 lmv321wg 7didkr nd
+21 comparator quad ± 15v 30v 14 pin pdip tube lm339n 2000 25 ick
+ic opa4350 quad op amp opa4350 opa4350 free sample
+ic ina122p instrumentaon amp ina122p ina122p ina122 free sample 2 hd
+ic opa2350 dual op amp opa2350pa opa2350pa opa2350 free sample 3 ad
+ic tlc2274 quad op amp tlc2274acn tlc2274acn 1.17 tlc2274 free sample 4 jd
+ic tpa731 audio amp pin 1 low 700mw tpa731d tpa731d 1.84 tpa731 free sample
+ic tpa751 audio amp pin 1 high 700mw tpa751d tpa751d 1.84 tpa731 free sample
+ic ad8032 dual op amp analog devices ad8032anz analog devices ad8032anz 4.47 ad8032 free sample 6 bd
+ic1 ic2 ic1 ic2 tl074p 4 595 tl074cn tl074p
+max9634teuk t high side current sense sot23 5 max9634teuk t sot23 5
+max9634teuk t u18 high side current sense sot23 5 max9634teuk t max9634teuk tct nd sot23 5

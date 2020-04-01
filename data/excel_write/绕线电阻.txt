@@ -439,3 +439,4 @@ resistor 20k ohm 1% wirewound axial lead box 58 7 16
 resistor 30 ohm 5w wirewound axial lead rm 221 p542 50 25j30r nd
 resistor 40 ohm 5w wirewound axial lead rm 221 p543 50 25j40r nd
 resistor 40k ohm 1% wirewound axial lead box 59 2 16
+17 allied ohmite 296 5449 resistors wirewound 25 ohms pwr rtg 3 8 106 848 alliedelec search productdetail aspx sku 2965449 purchased 11 16 10

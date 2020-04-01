@@ -1,0 +1,1 @@
+uc1 uc2 74hct123d monostable soic16 2

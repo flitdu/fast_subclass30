@@ -7,5 +7,6 @@ q06 20020001 129 71416000580 dc dc 变换器 24vdc 12vdc 500ma 7pin dip mornsun 
 q06 20020001 45 61416000250 dc dc 变换器 f2405xt 1wr2 24vdc 15vdc 67ma 220 uf 5pin smd mornsun f2405xt 1wr2 600
 q06 20020001 127 71416000180 dc dc 变换器 k7805 1000 24v dip3 3pin dip mornsun k7805 1000r3 2100
 q06 20020001 128 71416000210 dc dc 变换器 k7805 500 24v dip3 3pin dip mornsun k7805 500r3 160
-atc210 48d12 03j dual bus converter brick ur holding spa atc210 48d12 03j yes 173 0.0
+atc210 48d12 03j dual bus converter brick ur holding spa atc210 48d12 03j 173 0.0
 iac12016a008v dc dc converter hibrid 0.0
+ag1170 d5 silvertelecom ringing slic with dc dc converter dil package 33 v or 5v 1

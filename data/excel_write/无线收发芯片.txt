@@ -1,1 +1,1 @@
-ic1 soc rf range 27 1050 mhz qfn40 axm0f243 1 tx40 no yes
+ic1 soc rf range 27 1050 mhz qfn40 axm0f243 1 tx40

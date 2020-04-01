@@ -1,2 +1,0 @@
-二极管 d2 d8 bap64 05 diode pin 175v 100ma sot 23 diode pin 175v 100ma sot 23 diode pin 175v 100ma sot 23 semiconductors bap64 05 215 digi key 568 1933 1 nd 0.43
-二极管 d1 d7 bap64 06 diode pin 175v 100ma sot 23 semiconductors bap64 06 215 digi key 568 1935 1 nd 0.43

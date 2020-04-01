@@ -1,3 +1,4 @@
 35 4b3901b0 u16 s000665 ic comp push pull 1.8 v sot23 5 mcp6561t e ot sot 100
 26 6c1721b0 u16 s000059 ic comparator volt sgl sot23 5 lm397mf nopb national sot 450
 u2 3 adcmp601bksz ic comp ttl cmos 1chan sc70 6 analog devices inc adcmp601bksz reel7 digi key adcmp601bksz reel7ct nd 3.98
+u10 ic comparator 2v 36v open drain sot23 5 diodes inc ap331awg 7 digi key ap331awgdict nd 012154

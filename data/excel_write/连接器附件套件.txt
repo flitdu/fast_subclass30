@@ -1,5 +1,21 @@
-screw1 screw m3x16 screw m3x16 no sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
-screw2 screw m3x16 screw m3x16 no sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
-screw3 screw m3x16 screw m3x16 no sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
-screw4 screw m3x16 screw m3x16 no sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
-screw5 screw m3x16 screw m3x16 no sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+screw1 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+screw2 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+screw3 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+screw4 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+screw5 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
+tp3 tp4 test point black 0.052 hole 151 103 rc
+tp2 test point red 0.052 hole 151 107 rc
+stereo 1 4 jack stereo 1 4 jack product detail en 112ax sc1316 nd 1217815
+mono 1 4 jack mono 1 4 jack product detail en 112bpcx sc1534 nd 1288950
+knob cover knob cover sparkfun products 10002
+aavid thermalloy 577202b00000g heat sink to 220 500 compact
+f5v amp 2 331272 6 socket 2pc each fuse t h 2
+3 pin terminal housing 3 pin housing cable assembly conn housing 3pos 156 w polar 09 50 8033
+4 pin terminal housing 4 pin housing cable assembly conn housing 4pos 156 w polar 09 50 8043
+63849 1 j3 j4 j1 j2 con th 1p 63849 1 4 63849 1 lcsc c86469
+con test point black 5001 5001k nd 0.29 testpoint cabinet
+con test point orange 5003 5003k nd 0.29 testpoint cabinet
+con test point yellow 5004 5004k nd 0.29 testpoint cabinet
+con test point white 5002 5002k nd 0.29 testpoint cabinet
+con test point red 5000 5000k nd 0.29 testpoint cabinet
+knob for vr1 6 mm 18 point t18 450 2401 gr 450 2401 gr 1.1400000000000001 1 1.1400000000000001

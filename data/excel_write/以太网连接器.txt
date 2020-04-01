@@ -4,3 +4,8 @@
 24 con10 jack 8p8c vertical rj45 90stright 1 any man uf acturer item item htm spm a230r1 14167 69b87685v7ouuy id 531544708420 ns 1 abbucket 18 detail 370
 28 con14 jack 8p8c rj45 90degree 1 any man uf acturer item item htm id 12438644954 ali refid a3 430008 1006 1103739406 n 5ebsayrpnlhl2jjxpxhraw% 3d% 3d f84c4fc4d0250ca9f517fdcdf49c8119 ali trackid 1 f84c4fc4d0250ca9f517fdcdf49c8119 spm a230r1 00 370
 j1011f21pnl integrated rj45 with transformer and leds 0 0.0
+j7 ethernet rj 45 jack with integrated magnetics and leds 40c to 85c 08b0 1x1t 36 f
+gigabit ethernet b50 rj45 connector tbd j15
+j4 connector rj45 with magnetics single port 100 base t r a stewart connector si 50170 f digi key 380 1103 nd 2.7434
+rj45 j7 rj45 phy a99638 nd
+arje 0034 j4 rj45 jack smt w mags led s ethernet arje 0034 535 12443 1 nd smt14

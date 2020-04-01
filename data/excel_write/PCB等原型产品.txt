@@ -1,5 +1,0 @@
-12 133572 3 pc1335720000000 pcb enig 哑黑 油墨 白 丝印 2mm 5
-10 1 91a sv0222 812c02 电路板 16 h fr 4 2 层 1oz 铜 green oil white 沉金 阻焊 1 自研 12
-121 1 91a sv0222 818c01 电路板 16 h fr 4 8 层 1oz 铜 green oil white 沉金 阻焊 1 自研 12
-53 1 91a sv0222 812c01 电路板 16 h fr 4 2 层 1oz 铜 green oil white 沉金 阻焊 1 自研 12
-170 91a sv0222 000001 电路板 16 h fr4 12 层 1oz 铜 green oil white 沉金 阻焊 1 自研

@@ -1,0 +1,9 @@
+cpu tm4c123gh6pm 64 pin lqfp tm4c123gh6pmi 595 tm4c123gh6pmi 11.55 tm4c123gh6pm we will solder it down to your pcb
+lpc4322jet100 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 100 tfbga
+lpc18s37jet100 arm cortex m4 mcu 100bga 1m flash lpc18s37jet100 100 tfbga color fill with indelible marker silkscreen box om13076 on bottom side
+lpc43s67jet100 arm cortex m4 mcu 100bga 1m flash lpc43s67jet100 100 tfbga color fill with indelible marker silkscreen box om13084 on bottom side
+lpc4367jet100 arm cortex m4 mcu 100bga 1m flash lpc4367jet100 100 tfbga color fill with indelible marker silkscreen box om13088 on bottom side
+lpc4322jet100 u21 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga
+lpc54608fet180 u25 aruba 32bit m4 mcu180tfbga 12mmsq 0.8 mm pb free lpc54608fet180 bga180
+lpc4322jet100 u6 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga
+lpc11u68jbd100 u8 lpc11u68 32bit mcu lqfp100 0.5 mm pb free lpc11u68jbd100 100 lqfp

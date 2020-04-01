@@ -1,1 +1,2 @@
 9 1 a2a ee14 sv022201 排线 2510kf 5p 双头 排线 线长 10cm 1 否 用于 接口板 连接 12
+cable for sensor 15134 0802 50mm long plugs into pin 008 5.34 25.65

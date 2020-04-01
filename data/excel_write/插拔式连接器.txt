@@ -10,3 +10,12 @@ jtag 10pin 0.1 right angle dual row pin header amp tyco 104354 5 104354 5 nd 0.9
 p200 p201 socket 2x20 1.27 mm smd samtec sfc 120 t2 l d a k tr
 p200 p201 socket 2x20 1.27 mm smd sfc 120 t2 l d a k tr conn socket strip 1.27 mm
 3 or 4 pin 2.54
+p200 p201 socket 2x20 1.27 mm smd sfc 120 t2 l d a k tr samtec sfc 120 t2 l d a
+cortex 1.27 mmheade5x2 way pcb 1.27 mm 2x5 vertical male ftsh 105 01 l dv k arm 1.27 mm 10 way cortex micro debug connector
+disk drive power 15 24 4449 disk drive power connection system header vertical through hole 4 circuits 15 24 4449 j14 j19
+tc0 3 3m 2520 6002 20 pin header 0.1 x0.1 4
+cp2 socket cp2 socket 3m ™ cp2 press fit socket 5352068 9 5352068 9 nd
+cp2 socket cp2 socket 3m ™ cp2 press fit socket 5352068 9 5352068 9 nd
+j3 terminal block 3.5 mm socket with male pins pluggable 2 pos 691322110002 digi key 732 2769 nd 0.2812
+j320 terminal block 3.5 mm socket with male pins pluggable 3 pos 691322110003 digi key 732 2770 nd 0.46875
+j5 connector jst ph series 2 position socket 2.0 mm pitch male pins surface mount r a jst s2b ph sm4 tb lf sn digi key 455 1749 1 nd 0.3473

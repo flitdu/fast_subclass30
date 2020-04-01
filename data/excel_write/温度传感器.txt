@@ -4,8 +4,10 @@
 62 16p8301a0 u03 s000842 sensor digital 55c 125c 8tssop lm75bdp 118 sop 12
 81 1 56a.03 tcn75a01 集成电路 tcn75avoa 传感器 2 wire i2c smbus 12bit 55 125 ℃ soic8 1 soic8 1 27 4 0 tcn75avoa u26 12
 77 16p8302b0 u03 s000842 sensor digital 55c 125c 8tssop lm75bdp 118 sop 20 9 180
-max1617amee remote temperature sensor qsop16 aertronica yes 0 34.0 0.0
-max6626pmutt i2c temperature sensor sot236 yes 0 90.0 0.0
+max1617amee remote temperature sensor qsop16 aertronica 0 34.0 0.0
+max6626pmutt i2c temperature sensor sot236 0 90.0 0.0
 u6 temp sensor analog voltage sot 23 3 tc1047avnbtr
 u2 temperature sensor ic analog lmt70yfqt
 u3 temperature sensor ic analog tc1047avnbtr
+ds1821 u307 ds1821 integrated products ic thermometer stat prog 3 pr35
+nct75 dfn8 digital temperature sensor with 2 wire interface nct75mnr2g u15

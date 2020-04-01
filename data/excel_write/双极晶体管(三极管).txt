@@ -31,3 +31,4 @@ q2p bc550c 863 bc550cg
 q3p q4p mpsa42 512 mpsa42 mpsa42fs nd
 q1e q2e bc550c 863 bc550cg bc550cgos nd
 q4e q5e bc560c 512 bc560c bc560ctact nd
+2n4401 npn bipolar junction transistor product detail en 2n4401tf 2n4401tfct nd 1626128

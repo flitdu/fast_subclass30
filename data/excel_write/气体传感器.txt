@@ -1,1 +1,2 @@
 vip133136 1 ic s811b0jopd500 气体 传感器 ccs811b jopd500 lga 10 101 y
+honeywell pm2.5 sensor hpma115s0 xxx 32.96 139.3

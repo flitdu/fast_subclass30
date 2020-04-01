@@ -11,8 +11,13 @@ j105 205 header locking r angle 3 pos 0.1 inch wm4301 nd 1.17 y
 j104 204 header locking r angle 4 pos 0.1 inch wm4302 nd 1.14 y
 j101 201 header non locking r angle 5 pos 0.1 inch wm4103 nd 0.61 y
 h4 3 641213 4 conn recept vert 4pos 156 30au matrix pwr
-j12 j15 279 9156 no standard see reference conn header 2pos 1.25 mm r a tin 0.235 yes yes hirose co ltd df13 2p 1.25 h 20
-j17 j18 j19 j20 header14x2 pin header 14x2 conn header 100pos 100 dl tin yes yes samtec inc tsw 150 08 t d
-j21 j22 j23 j24 connector edge 18x2 connector edge 18x2 254 mm pitch conn recept 36pos 100 vert dual 2737 yes yes tyco 6 534267 5
-j25 power jack th right angle conn pwr jack 2.1 x5.5 mm high cur 0.28 yes yes cui inc pj 002ah
-j30 j31 header 6x2 pin header 6x2 conn header 100pos 100 dl tin 3087 yes yes samtec inc tsw 150 08 t d
+j12 j15 279 9156 standard see reference conn header 2pos 1.25 mm r a tin 0.235 hirose co ltd df13 2p 1.25 h 20
+j17 j18 j19 j20 header14x2 pin header 14x2 conn header 100pos 100 dl tin samtec inc tsw 150 08 t d
+j21 j22 j23 j24 connector edge 18x2 connector edge 18x2 254 mm pitch conn recept 36pos 100 vert dual 2737 tyco 6 534267 5
+j25 power jack th right angle conn pwr jack 2.1 x5.5 mm high cur 0.28 cui inc pj 002ah
+j30 j31 header 6x2 pin header 6x2 conn header 100pos 100 dl tin 3087 samtec inc tsw 150 08 t d
+mount 53047 0810 pico blade 1.25 mm pitch 0.79 3.23
+mode toggle button b3f 1000 momentary 0.25 1.24
+c grid 03 70543 ana0ana1ana2ana3ana4ana5ana6ana7srv0srv1srv2tmr 70543 0037 headers wire housings vertical hdr 3 pin single row tin
+j5 j6 j7 hdr 1x4 pin 2mm pitch right angle th seeed 110990037 digi key 1597 1083 nd
+con jtag 1 by 5 male header 0.29 jtag cabinet
