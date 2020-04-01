@@ -278,7 +278,7 @@ if __name__ == '__main__':
         ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
     # ########## 5 测试
-    test_flag = 1
+    test_flag = 10
 
     if test_flag == 0:
         ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
