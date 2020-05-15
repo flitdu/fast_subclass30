@@ -1,2 +1,3 @@
+ad549kh 电流 运算 放大器 u6 to 99 h 10 1
 u3 current sense amplifier ic max9929fabt t
 u2 current sense amplifier ic ina196aidbvr

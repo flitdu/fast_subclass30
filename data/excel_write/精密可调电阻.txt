@@ -1,60 +1,40 @@
-18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen gz electron 100
+18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen / gz electron 100
 18750 3296w 1 101lf 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w 33
 18751 3296w 1 103lf 微調 電阻 可變 電阻 trimmer resistors 10kohm 05 w 14
 18752 3296w 1 201lf 微調 電阻 可變 電阻 trimmer resistors 200ohm 05 w 25
 18753 3296w 1 501lf 微調 電阻 可變 電阻 trimmer resistors 500ohm 05 w 27
 18954 vr50k l4ga 變 電阻 調式 電阻 potentiometer 3 pin 50k ω 2500
-trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1 1 ds 2 54 296 776415 pdf
-trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 ds 2 54 296 776415 pdf
-trimmer resistors trimmer resistors through hole sealed 3296x 1 202r rt1 1 ds 2 54 296 776415 pdf
+trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
+trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 / / / ds / 2 / 54 / 296 776415 pdf
+trimmer resistors trimmer resistors through hole sealed 3296x 1 202r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
 可调 电位器 多圈 精密 5k 3pin 2.54 mm
 73 精密 可调 电阻 10k 3296 6 24 低温 漂 25ppm
 74 精密 可调 电阻 20k 3296 1 4 低温 漂 25ppm
-6 1 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 50k fn 935 2767 pc 10.0
-7 1 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 100k fn 935 2660 pc 10.0
+6 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 50k fn 935 2767 pc 10.0
+7 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 100k fn 935 2660 pc 10.0
 精密 电位器 r37 r38 r1610n bc3 b10k 2
-精密 多圈 电位器 3224w 1 102 600
-精密 多圈 电位器 3224w 1 103 200
-精密 多圈 电位器 3224w 1 104 600
-精密 多圈 电位器 3224w 1 502 600
+贴片 精密 多圈 电位器 3224w 1 102 600
+贴片 精密 多圈 电位器 3224w 1 103 200
+贴片 精密 多圈 电位器 3224w 1 104 600
+贴片 精密 多圈 电位器 3224w 1 502 600
 r3 52 1623909 2 trimmer 10k ohm 0.1 w smd smt
-ele0901 1 2 rv3362 p010103lf 插件 可调 电位器 3362p 1 103lf 10k 深蓝色 699 x66 x47 mm 3362p 1 103lf 10k 303 y
-ele0901 1 1 rv vm3e0sx500103 可调 电位器 evm3e sx50 103 10k 3pin 方型 31 x36 x16 mm 303 y
-ele0901 1 1 rv evm3e0sx50050 可调 电位器 evm3e sx50 504 500k 3pin 方型 31 x36 x16 mm 303 y
-vr 0104p 3296w 1 104 lf r19 r94 r145 r157 r167 r174 r182 183 r188 13 3296w 1 xxx lf 100k ω 3296w 1 xxx lf 2600
-091803 013001 电位器 3296w 10k 16
-51 40 trimmer 50k ohm 0.5 w th r38 r49 r63 r70 3296w 503lf nd 3296w 1 503lf each
-46 电位器 3224j 1 103 3224j 1 103 4 40
-46 电位器 3224j 1 103 3224j 1 103 4 2000
-1 rv3362 p01010200 插件 微调 电位计 3362p 1 102 1k 503 n
-微调 电阻 正调 10k ω 103 1 90082 500
-微调 电阻 正调 20k ω 203 3 90083 1500
-微调 电阻 正调 100k ω 104 5 90084 2500
-2.0 r3 r21 trimpot 10k 0.25 square bi 64wr10klf 858 64wr10klf 1.62 3.24
-pot 1k ohm 10% 1 turn 3 8 sq cermet top adj 3386 f 1 102lf or equiv r7 r23 r59 3
-pot 10k ohm 10% 1 turn 3 8 sq cermet top adj 3386f 1 103lf or equiv r13 1
-pot digital single 100k spi sm soic 8 mcp4131 104e sn or equiv u20 1
-49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.5971 0 0 0
-50 500ohm 1804gsmd 500r 1804gsmd 500r poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.3402 0 0 0
-51 2k ts53yl202mr10 ts53yl202mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 2k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.29 0 0 0
-52 5k 3314g 1 502e 3314g 1 502e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 5k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.65 0 0 0
-53 10k 3314g 1 103e 3314g 1 103e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 10k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.7706 0 0 0
-54 50k 3314g 1 503e 3314g 1 503e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 50k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.74 0 0 0
-55 100k ts53yl104mr10 ts53yl104mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.07 0 0 ` 0
-56 500k 3314g 1 504e 3314g 1 504e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500k ω ± 10% 100ppm ° c 0.25 w tme rom â nia 4.6907 0 0 0
-49 100ohm 1804gsmd 100r 1804gsmd 100r sr passives poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 3.77 0
-50 500ohm 1804gsmd 500r 1804gsmd 500r poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500 ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.19 0
-51 2k ts53yl202mr10 ts53yl202mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 2k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.84 0
-52 5k 3314g 1 502e 3314g 1 502e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 5k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.45 0
-53 10k 3314g 1 103e 3314g 1 103e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 10k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 3.0573 0
-54 50k 3314g 1 503e 3314g 1 503e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 50k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.84 0
-55 100k ts53yl104mr10 ts53yl104mr10 poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 100k ω ± 20% 100ppm ° c 0.25 w tme rom â nia 2.61 0
-56 500k 3314g 1 504e 3314g 1 504e poten ț iometru poten ț iome tru liniar simpl ă tur ă smd 500k ω ± 10% 100ppm ° c 0.25 w tme rom â nia 2.8802 0
-1 5k trimpot 3266 r9 trimpot vertical 3266w type 5k 3266w 1 502lf 652 3266w 1 502lf 2.94 2.94
-1 100k trimpot 3266 r25 trimpot vertical 3266w type 100k 3266w 1 104lf 652 3266w 1 104lf 2.94 2.94
-r14 1.0 trim pot 10k 652 3306w 1 103
+ele0901 1 2 rv3362 p010103lf 插件 可调 电位器 3362p 1 103lf / 10k 深蓝色 699 x66 x47 mm 3362p 1 103lf / 10k 303 y
+ele0901 1 1 rv vm3e0sx500103 贴片 可调 电位器 evm3e sx50 103 10k 3pin 方型 31 x36 x16 mm 303 y
+ele0901 1 1 rv evm3e0sx50050 贴片 可调 电位器 evm3e sx50 504 500k 3pin 方型 31 x36 x16 mm 303 y
+精密 可调 电阻 3296w 1 104 lf r19 r94 r145 r157 r167 r174 r182 183 r188 13 3296w 1 xxx lf 100k ω 3296w 1 xxx lf 2600
+精密 可调 电阻 091803 013001 电位器 3296w / 10k 16
+3296w – 1 – 202 through hole trimmer top adj 2k
+3296w – 1 – 103 through hole trimmer top adj 10k
+3296w – 1 – 203 through hole trimmer top adj 20k
+3296w – 1 – 503 through hole trimmer top adj 50k
+3296w – 1 – 104 through hole trimmer top adj 100k
+3296w – 1 – 501 through hole trimmer top adj 500r
+trimmer 50k ohm 0.5 w th r38 r49 r63 r70 3296w 503lf nd 3296w 1 503lf each
+贴片 电位器 3314j 1 103e 3314j 1 500 500 rw1
+电位器 可调 电阻 r24 100r 3306w 1 101 res trimm pt 10 vertikal 300.0
+插件 微调 电位计 3362p 1 102 / 1k 503 n
 rv1 potentiometer 3296w vertical 5k
-1 50k trimm poti rm 5 2 5mm r67 rs 183 5267
+1 50k trimm poti rm 5 / 2 5mm r67 rs 183 5267
 100k trim pot 3306p or 3306f rv602 3306p f trim pot 3306p or 3306f style if
 100k trim pot 3306p or 3306f rv601 3306p f trim pot 3306p or 3306f style if
 10k trim pot rv606 trim trim pot 3306p or 3306f style if
@@ -63,10 +43,10 @@ rv1 potentiometer 3296w vertical 5k
 22k rv604 3306p f trim pot 3306p or 3306f style if
 4 50k trim pot note lower value is better for electret mics eg 5k or 10k rv605 3306p f trim pot 3306p or 3306f style if
 5 4.0 vr1 vr2 vr3 vr4 10k ω trimmer trimmer 23a 10k trim pot 23ar10klftr
-thermistance s ind 47k 330
+thermistance s / ind 47k 330
 thermistance 260 ohms 900
-p1l p1r 3296w trimpot 50k ω 652 3296w 1 503lf 3 8 multi turn cermet 0.100 lead spacing inline
-p2l p2r 3296w trimpot 100 ω 652 3296w 1 101lf 3 8 multi turn cermet 0.100 lead spacing inline
+p1l p1r 3296w trimpot 50k ω 652 3296w 1 503lf 3 / 8 multi turn cermet 0.100 lead spacing inline
+p2l p2r 3296w trimpot 100 ω 652 3296w 1 101lf 3 / 8 multi turn cermet 0.100 lead spacing inline
 trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1
 trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2
 trimmer resistors through hole sealed 3296x 1 202r rt1
@@ -74,5 +54,6 @@ r78 r71 r5 r14 r24 r1 r9 r19 r29 trimmer 10k 9 858 64yr10klf trimmer 10k
 tr1 tr2 tr3 trimmer 3 652 3306f 1 103 trimmer 10k contrast
 r41 r42 r43 r44 r45 r46 r47 r48 trimmer 50k 8 858 64yr50klf trimmer 50k
 r72 r7 r17 r27 r3 r12 r22 r32 trimmer 100k 8 858 64pr100klf trimmer 100k
-rv1 rv2 trimmer pot 50k ω 3 8 square cermet potentiometer 25 turn 1 2w 2 2 854006 0.79 jameco rv2
-sx3362p dip vr top adj 1k 3362p resistor 3p l70 w70 h50 mm best seeedstudio wiki images a a6 301040009 pdf 025390625 5 3 03 seeedstudio depot oplopen parts library catalog c 136 138 301040014
+st4eta103 rv1 rv2 10k pot smd 1t st4eta103 st4eta103ct nd 10kohms smd j 3p
+rv1 rv2 trimmer pot 50k ω 3 / 8 square cermet potentiometer 25 turn 1 / 2w 2 2 854006 0.79 jameco rv2
+sx3362p dip vr top adj 1k 3362p resistor 3p l70 * w70 * h50 mm best / / seeedstudio / wiki / images / a / a6 / 301040009 pdf 025390625 5 3 03 / / seeedstudio / depot / oplopen parts library catalog c 136 138 / 301040014

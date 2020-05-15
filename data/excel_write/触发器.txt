@@ -1,3 +1,3 @@
 ic4 ic20 ic21 ic28 ic30 sn74lvc2g14 sn74lvc2g14 sn74lvc2g14 ad7276 ad7276 novalue sn74lvc2g14dbvr novalue 12bit adc 12bit adc sot23 6 95p285x110 6n
-4052d u305u306u401 cd4052bcm semiconductor ic mux demux dual 4x1 16soic
+4052d u305u306u401 cd4052bcm semiconductor ic mux / demux dual 4x1 16soic
 u167 sn74f109d dual j k soic16 1

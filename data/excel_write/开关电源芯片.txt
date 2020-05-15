@@ -1,10 +1,19 @@
-23 133726 1 ic ic202601ym0tr 电源开关 ic mic2026 1ym tr 8soic 10 y
-74 1 57a.71 tps20601 集成电路 tps2065cdbvt 限流 配电 开关 5.5 v 1a 40 85 ℃ sot23 5 1 sot23 5 095 3 0x1 8 tps2065cdbvt u16 12
-75 1 57a.71 tps20501 集成电路 tps2051bdbvr 限流 配电 开关 5.5 v 0.5 a 40 85 ℃ sot23 5 1 sot23 5 095 3 0x1 8 tps2051bdbvr u18 12
-u2 ic sw usb dual w fb 10 umax integrated products max1823beub max1823beub nd
+直插 电源 芯片 viper22adip dip 8 viper22adip 735
+u4 ic power ic dc / dc regulator monolithic power systems mp175gs z 650
+091805 027701 芯片 tps62130argt / qfn16 3030 115
+091805 028101 芯片 tps62125dsg / dfn8 2 * 2 215
+ic reg ctrlr mult topology 8soic ucc2800qdrq1 soic 6
+电源 管理 ic 高侧 60v / 3a 降压 稳压器 lmr16030sddar lmr16030sddar 3 lmr16030 150
+u14 mp9473 36v 35 a high eff fast trans synch sp down converr qfn20 mp9473 s qfn 20 3x4mm mps mp9473gl
+dc dc converter 0.8 6v 10a to pmod 11 lmz12010tz / nopb 等级 a lmz12010tz / nopb 10
+23 133726 1 ic ic202601ym0tr 电源开关 ic mic2026 1ym tr / 8soic 10 y
+74 1 57a.71 tps20601 集成电路 tps2065cdbvt / 限流 配电 开关 / 5.5 v 1a / 40 85 ℃ / sot23 5 1 sot23 5 095 3 0x1 8 tps2065cdbvt u16 12
+75 1 57a.71 tps20501 集成电路 tps2051bdbvr / 限流 配电 开关 / 5.5 v 0.5 a / 40 85 ℃ / sot23 5 1 sot23 5 095 3 0x1 8 tps2051bdbvr u18 12
+u2 ic sw usb dual w / fb 10 umax integrated products max1823beub max1823beub nd
 ap2151 diodes inc ap2151fmg 7
-dual high side switch with oc det 500ma ch tps2052bd ic tps2052bd ic tps2052bd
+dual high side switch with oc det 500ma / ch tps2052bd ic tps2052bd ic tps2052bd
 power supply controller tps51120 ic tps51120 ic tps51120
-lt1111cs8 step up regulator adjustable lt1111cs8 dc dc converter adjustable
+lt1111cs8 step up regulator adjustable lt1111cs8 dc / dc converter adjustable
 u5 ic 2a adj buck 4 40 vin adj vout 25 mhz 8 hsoic lmr14020sddar digi key 296 44320 1 nd 124124
-u6 u13 ic load switch 1.5 a w discharge 90mohm sc 70 6 tps22919dckt digi key 296 53421 1 nd 0.1564
+u6 u13 ic load switch 1.5 a w / discharge 90mohm sc 70 6 tps22919dckt digi key 296 53421 1 nd 0.1564
+u5 ic 0.6 a synch buck regulator with integrated inductor vin 2.4 5.5 v 3 bit vsel or vfb 16 uqfn 2.5 mm x 2.25 mm ep5358lui ep5358lui ep5358lui

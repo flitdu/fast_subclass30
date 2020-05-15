@@ -1,26 +1,57 @@
-vip133136 1 ic ts914idt00000 放大器 ic ts914idt so g14 101 y
-36 4b3901b0 u17 s000879 op amp 8 soic tsv912aidr soic 95
-20 6c1721b0 u03 s000531 ic opamp gp 1mhz rro 8msop mcp6002t i ms sop 450
-24 6c1721b0 u06 s000232 ic opamp gp 1.3 mhz rro 16v fqfpn tsv854iq4t stm qfp 450
-27 6c1721b0 u16 s000060 ic opamp gp 1mhz rro sot25 lmv321wg 7 diodes sot 152
-58 2c6806a0 u13 s000048 ic opamp jfet 4mhz 8so tl082idt so 10
-60 2c6806a0 u17 s000158 ic opamp jfet 3mhz 14soic tl084idr soic 50
-62 2c6806a0 u17 s000442 ic isolation amp 60khz 8soic amc1200bdwvr soic 90
-140 56a.10 op117701 运算 放大器 op1177armz reel opam msop 8 40 125 ℃ 8nv √ hz 5 msop 8 op1177armz reel u6 u21 u30 u39 u72 275
-142 56a.10 ada48401 运算 放大器 ada4841 1yrjz r7 opam sot 23 40 125 ℃ 轨到 轨 2.1 nv √ hz 1 sot 23 ada4841 1yrjz r7 u9 55
-143 56a.10 ad859701 运算 放大器 ad8597arz reel7 opam soic 8 40 125 ℃ 轨到 轨 1.1 nv √ hz 4 soic 8 ad8597arz reel7 u10 u19 u28 u37 220
-146 56a.12 ad859901 运算 放大器 ad8599arz reel7 opam soic 8 40 125 ℃ 双通道 4 soic 8 ad8599arz reel7 u14 u23 u32 u41 220
-148 56a.12 ad489601 运算 放大器 ada4896 2armz rl opam soic 8 40 125 ℃ 双通道 1nv √ hz 4 soic 8 ada4896 2armz rl u17 u26 u35 u44 220
-97 16p8302b0 u20 s000145 ic inst amp 2 circuit 16lfcsp ad8426acpz r7 100 9 900
+1 620 2008060018 ic amp el2125csz soic 8 u103 u114 2 20 b 40 dlk
+1 630 2008060013 ic amp opa2822u soic 8 u104 u105 u107 u109 u619 u620 u621 u622 8 20 b 160 dlk
+1 660 2008060021 ic 双通道 运放 amp opa2209aidr soic 8 u617 1 20 b 20 dlk
+2 u1 u2 u3 u4 u5 u6 u7 u8 u9 u10 u11 u12 u13 u14 u15 u16 jrc4560 smd8a smd8a 16.0 2444
+功放 ic lc hsop 8 lc hsop 8 u10
+njm4558m 运放器 u1 so 8 宽体 10 1 jrc
+op07c 运放器 u5 u7 so 8 20 2
+贴片 ic 功放 音频 d 功放 aw8010afcr 1.5 mm 1.5 mm fc 9 * aw8010afcr tpa2010 bga 6p 1 20 2000 30000
+upc4074g so 14 芯片
+opa277ua so 8 芯片
+贴片 芯片 opa4171aid so 14 opa4171aid 735
+opa188aidbvr opamp dbv5 u11 u17 u23 u29 u35 u69 5.0 2100.0
+091805 027801 芯片 opa379aidbv / sot 23 5 115
+运算 放大器 analog device 40 to 85 ° c 25v 差分 运算 ad620arz soic 8 10
+运算 放大器 ± 20v ± 10ma 40 to 150 ° c opa2171aid soic 8 20
+d25 d30 运算 放大器 tlv9002 soic 8 so8 m 2 10
+d27 运算 放大器 lm358 soic 8 so8 m 1 5
+ic opamp gp 1 circuit sot23 5 tlv2471qdbvrq1 sot 12
+ic opamp isolation 1 circ 8sso acpl c87bt 000e broadcom limited soic 12
+ad8422arz soic 8 3.9 x4.9 mm p1.27 mm ad8422arz low power instumentation amplifier msop 8 200
+opa333xxdbv sot 23 5 opa333aidbvr single 1.8 v micropower cmos operational amplifiers zero drift series sot 23 5 100
+ths4281dbvt sot 23 5 ths4281dbvt single 1.8 v micropower cmos operational amplifiers zero drift series sot 23 5 400
+ths4631dr soic 8 3.9 x4.9 mm p1.27 mm ths4631dr single soundplus high performance audio operational amplifiers dip 8 / soic 8 100
+u10 ic op amp dual hs r r 8 soic lm6142aim / nopb
+u10 ic op amp dual hs r r 8 soic lm6142bim / nopb
+u3 inst amp single ± 18v 8 pin soic n t / r ad621ar
+u3 inst amp single ± 18v 8 pin soic n t / r ad621arz
+u3 inst amp single ± 18v 8 pin soic n t / r ad621arz r7
+运放 精密 低噪声 轨到 轨 输入输出 单通道 单 电源 2.7 v 5.5 v 供电 ad8605artz ad8605artz 1 sot23 5 50
+u5 tlc271 so8 single op vos 1 1mv y sog050 / 8 / wg275 / l250 naonal
+ic isolation amp 60khz 8soic amc1200bdwvr / soic 90
+vip133136 1 ic ts914idt00000 放大器 ic ts914idt / so g14 101 y
+36 4b3901b0 u17 s000879 op amp 8 soic tsv912aidr / soic 95
+20 6c1721b0 u03 s000531 ic opamp gp 1mhz rro 8msop mcp6002t i / ms / sop 450
+24 6c1721b0 u06 s000232 ic opamp gp 1.3 mhz rro 16v fqfpn tsv854iq4t / stm qfp 450
+27 6c1721b0 u16 s000060 ic opamp gp 1mhz rro sot25 lmv321wg 7 / diodes sot 152
+58 2c6806a0 u13 s000048 ic opamp jfet 4mhz 8so tl082idt / so 10
+60 2c6806a0 u17 s000158 ic opamp jfet 3mhz 14soic tl084idr / soic 50
+62 2c6806a0 u17 s000442 ic isolation amp 60khz 8soic amc1200bdwvr / soic 90
+140 56a.10 op117701 运算 放大器 op1177armz reel / opam / msop 8 / 40 125 ℃ / 8nv √ hz 5 msop 8 op1177armz reel u6 u21 u30 u39 u72 275
+142 56a.10 ada48401 运算 放大器 ada4841 1yrjz r7 / opam / sot 23 / 40 125 ℃ / 轨到 轨 / 2.1 nv √ hz 1 sot 23 ada4841 1yrjz r7 u9 55
+143 56a.10 ad859701 运算 放大器 ad8597arz reel7 / opam / soic 8 / 40 125 ℃ / 轨到 轨 1.1 nv √ hz 4 soic 8 ad8597arz reel7 u10 u19 u28 u37 220
+146 56a.12 ad859901 运算 放大器 ad8599arz reel7 / opam / soic 8 / 40 125 ℃ / 双通道 4 soic 8 ad8599arz reel7 u14 u23 u32 u41 220
+148 56a.12 ad489601 运算 放大器 ada4896 2armz rl / opam / soic 8 / 40 125 ℃ / 双通道 / 1nv √ hz 4 soic 8 ada4896 2armz rl u17 u26 u35 u44 220
+97 16p8302b0 u20 s000145 ic inst amp 2 circuit 16lfcsp ad8426acpz r7 / 100 9 900
 14 运算 放大器 ad712jr so8 n2 n3 n4 n5 n6 n7 n8 7 21
-u13 lm7171aim ic amp very hi spd v fdbk 8 soic national semiconductor lm7171aim nopb digi key lm7171aim nd 2.88
+u13 lm7171aim ic amp very hi spd v fdbk 8 soic national semiconductor lm7171aim / nopb digi key lm7171aim nd 2.88
 mc4558 line amplifier sop 8 1
 tpa2822 amplifier so 16 1
 mjn3414 amplifier sop 8 1
 icl icr ic1s high beta jfet single opamp tl081 511 tl081cn 497 2209 5 nd
 ic1 high beta jfet dual opamp – tl082 511 tl082cn 497 2213 5 nd
 ice tl081 opamp 511 tl081cn 497 2209 5 nd
-u2 amplifiers operational pdip 14 quad 1.8 v 1mhz mcp6004 579 mcp6004 e p 1 1 100 110
+u2 amplifiers operational pdip 14 quad 1.8 v 1mhz mcp6004 579 mcp6004 e / p 1 1 100 110
 ic18 ic24 ic25 ic26 ic27 ref194s lm285bym 2.5 op290 ad8561ar lm285bym 2.5 precision micropower low dropout voltage reference micropower voltage reference diode precision low power micropower dual operational amplifier ultrafast 7ns single supply comparator micropower voltage reference diode soic8 127p600x175 8n
 ic19 ic32 t3 t4 t5 t6 t7 ref3033 ref3033 bft92 bft92 bfr92a 2n7002 bft92 high precision 3.3 v ic reference high precision 3.3 v ic reference pnp general purpose amplifier pnp general purpose amplifier npn general purpose amplifier n channel mosfet with diode pnp general purpose amplifier sot23 95p280x115 3n
 amplifier lmv358 so08 ic opamp gp 700khz dual
@@ -28,13 +59,13 @@ lmv324idr 14 soic ic opamp gp r r 1mhz quad
 lm386m 1 soic 8 ic amp audio pwr 325w ab
 lm386m 1 national semiconductor ic amp audio power low v 8 soic 8 soic 1
 u5 ic opamp current sense 100 khz 6dfn lt6105
-u105 mcp6022 dual op amp rail to rail 8 soic mcp6022 i sn mcp6022 i sn nd 1.42 y
+u105 mcp6022 dual op amp rail to rail 8 soic mcp6022 i / sn mcp6022 i / sn nd 1.42 y
 lm386m 1 national semiconductor ic amp audio power low v 8 soic 8 soic 1
-njm4558d dual op amp product detail en njm4558d njm4558d nd 673768
+njm4558d dual op amp / / / product detail / en / njm4558d / njm4558d nd / 673768
 opa2705pa ic opamp gp r r 1mhz dual 8dip alternate packaging exists
 v4 lmv321wg 7 sot25 ic opamp r r 1mhz sot25 diodes inc lmv321wg 7 lmv321wg 7didkr nd
 v4 lmv321wg 7 sot25 ic opamp r r 1mhz sot25 diodes inc lmv321wg 7 lmv321wg 7didkr nd
-21 comparator quad ± 15v 30v 14 pin pdip tube lm339n 2000 25 ick
+21 comparator quad ± 15v / 30v 14 pin pdip tube lm339n 2000 25 / ick
 ic opa4350 quad op amp opa4350 opa4350 free sample
 ic ina122p instrumentaon amp ina122p ina122p ina122 free sample 2 hd
 ic opa2350 dual op amp opa2350pa opa2350pa opa2350 free sample 3 ad
@@ -45,3 +76,8 @@ ic ad8032 dual op amp analog devices ad8032anz analog devices ad8032anz 4.47 ad8
 ic1 ic2 ic1 ic2 tl074p 4 595 tl074cn tl074p
 max9634teuk t high side current sense sot23 5 max9634teuk t sot23 5
 max9634teuk t u18 high side current sense sot23 5 max9634teuk t max9634teuk tct nd sot23 5
+opamp opa2134 u1 u12 burr brown / d opa2134pa nd 2.94
+opamp lm4562 u1 u12 national semic d lm4562na nd 305
+u8 ic opamp vs 2.2 v 12.6 v gbp 60mhz rro tsot23 5 lt6220cs5 xxpbf lt6220 opamp tsot23
+u8 ic opamp vs 2.2 v 12.6 v gbp 60mhz rro tsot23 5 lt6220cs5 xxpbf lt6220 opamp tsot23
+u200 u203 u205 u209 max44251aua max44251aua ic opamp ultra precision low noise op amp umax8

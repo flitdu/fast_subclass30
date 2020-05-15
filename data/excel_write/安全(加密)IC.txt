@@ -1,0 +1,1 @@
+atsha204a sshda t soic 8 3.9 x4.9 mm p1.27 mm atsha204a sshda t i2c serial eeprom 1kb 128x8 with unique serial number so8 100

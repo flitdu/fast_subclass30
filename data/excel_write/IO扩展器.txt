@@ -1,1 +1,2 @@
-pca9655 wqfn24 16 bit i2c i o expander pca9655emttxg u17
+pca9655 wqfn24 16 bit i2c i / o expander pca9655emttxg u17
+pca9500pw u21 i2c 400k 8 bit i / o expander 2k eeprom tssop16 pca9500pw 568 1025 5 nd tssop16

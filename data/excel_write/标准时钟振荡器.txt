@@ -9,4 +9,4 @@ coc 113 091806 033501 晶振 fn5000118 50m 160
 coc 113 091806 033501 晶振 晶振 fn5000118 50m 10
 coc 113 091806 033401 晶振 fn3000041 30m 10
 coc 113 091806 033401 晶振 晶振 fn3000041 30m 20
-40 y1 achl osc 10 achl 27mhz ek achl 27000 mhz ek fi search productdetail aspx r achl 27000 mhz ekvirtualkey52750000virtualkey815 achl 27 ek
+40 y1 achl osc 10 achl 27mhz ek achl 27000 mhz ek / / fi / search / productdetail aspx r achl 27000 mhz ekvirtualkey52750000virtualkey815 achl 27 ek

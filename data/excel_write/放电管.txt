@@ -1,1 +1,4 @@
-42 1 62a.0006 05001 气体 放电管 2r090 5s 90v 5a 1pf 40 90 ℃ 5 4.2 mm 1 gdt2 5050 雷卯 2r090 5s u2 否 12
+2038 15 sm rplf gdt 1 50v 25% 5ka surface mount gdt 2038 15 sm g1 g2 g3 3.0 1050.0
+2038 15 sm rplf gdt 1 50v 25% 5ka surface mount gdt 2038 15 sm g1 g2 g3 3.0 1050.0
+b88069x6051t902 气体 放电管 b gas discharge tube 90v 5ka 7.6 mm * 5mm distance 5mm
+42 1 62a.0006 05001 气体 放电管 2r090 5s / 90v / 5a / 1pf / 40 90 ℃ / 5 * 4.2 mm 1 gdt2 5050 雷卯 2r090 5s u2 否 12

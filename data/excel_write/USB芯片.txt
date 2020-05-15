@@ -1,4 +1,10 @@
-24 133726 1 ic usb2514b0aezc 接口 ic usb2514b aezc qfn 36 5 y
-65 4k2501a0 u05 s000116 ic usb switch dpdt 10umlp fsusb42umx on dfn 2
-67 4k2501a0 u06 s000359 ic usb hs quad uart sync 64 lqfp ft4232hl ftd qfp 2
+gl3523 oty30 ic gl3523 genesys logic qfn 76 5
+xr22404cl24tr f ic xr22404cl24tr f max linear qfn 24 5
+ic 2 port usb 2.0 hi speed hub controller qfn 24 usb2422 i / mj ic10 1.0 45000.0 45002.0
+ic usb switch 2.0 480mbps * fsusb42mux usb switch ics low power two port usb 2.0 480mbps ic15 ic13 2.0 90000.0 90010.0
+usb2.0 hub / 1 to 4 / 5v fe1.1 s fe1.1 s terminus 2 ssop28 26 185 100
+usb3.0 hub 1 拖 4 电源 管理 vl817 q7 b0 vl817 q7 b0 via 1 qfn76 040 0909l 50
+24 133726 1 ic usb2514b0aezc 接口 ic usb2514b aezc / qfn 36 5 y
+65 4k2501a0 u05 s000116 ic usb switch dpdt 10umlp fsusb42umx / on dfn 2
+67 4k2501a0 u06 s000359 ic usb hs quad uart / sync 64 lqfp ft4232hl / ftd qfp 2
 ft230x qfn16 uart interface ÿ support ÿ for 7 or 8 data bits ft230xq r u8

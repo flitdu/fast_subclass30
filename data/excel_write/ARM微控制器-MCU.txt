@@ -1,3 +1,8 @@
+arm u1 a50 bga413 1229 bga413p50b1230 1280
+u3 集成电路 ic tsam3a4ca au mcu 32bit cortex m3 atsam3a4ca au 1 1120
+stm32h743bit arm cortex m7 mcu lqfp208 28x28x1p u45 208.0 350.0
+processors application specialised i mx6 solo rev 11 mcimx6s5evm10ab ic4 10 450000 450020
+mcu efm32wg990f256 energy micro efm32wg990f256 rev a
 cpu tm4c123gh6pm 64 pin lqfp tm4c123gh6pmi 595 tm4c123gh6pmi 11.55 tm4c123gh6pm we will solder it down to your pcb
 lpc4322jet100 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 100 tfbga
 lpc18s37jet100 arm cortex m4 mcu 100bga 1m flash lpc18s37jet100 100 tfbga color fill with indelible marker silkscreen box om13076 on bottom side
@@ -7,3 +12,4 @@ lpc4322jet100 u21 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet10
 lpc54608fet180 u25 aruba 32bit m4 mcu180tfbga 12mmsq 0.8 mm pb free lpc54608fet180 bga180
 lpc4322jet100 u6 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga
 lpc11u68jbd100 u8 lpc11u68 32bit mcu lqfp100 0.5 mm pb free lpc11u68jbd100 100 lqfp
+lpc4322jet100 u6 arm cortex m4 mcu 100bga 512k flash lpc4322jet100 lpc4322jet100e nd 100 tfbga

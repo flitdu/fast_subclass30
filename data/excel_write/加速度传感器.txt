@@ -1,2 +1,6 @@
+贴片 ic g sensor bma250 v 1.2 3.6 v 3轴 加速度 传感器 * bosch bma250e qfn12 2 * 2 * 1mm bosch bma250 1 bosch 20 2000 30000
+陀螺仪 陀螺仪 加速度 传感器 / lsm6ds3tr / 1.62 3.6 v / ± 2000dps / 16 bit / 16 bit / spi / i2c / lga 14 / 3 * 2.5 * 0.86 mm / 2 kv / 3 lsm6ds3tr 1 1000 u6305
+gy1 gy3 scc2130 d08 05 490 12143 1 nd accelerometer gyroscope 3 axis sensor spi scc2130 d08 scc2130 d08
+gy2 scc2230 d08 05 490 12142 1 nd accelerometer gyroscope 3 axis sensor spi scc2230 d08 scc2130 d08
 u5 ic accelerometer 3 axis 12 bit lga12 micro lis2dh12tr digi key 497 14851 1 nd 1.11
 mma8652fcr1 u19 accelerometer 3 axis 12 bit dfn10 mma8652fcr1 mma8652fcr1ct nd dfn 10

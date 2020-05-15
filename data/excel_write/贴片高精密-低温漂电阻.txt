@@ -9,57 +9,57 @@ rc tr0805b200kp0525 0805 0.1% 200k ohm ever 25ppm 20000
 rc tr0805b3k01p0525 0805 0.1% 3.01 k ohm ever 25ppm 100000
 rc tr0805b3kp0525 0805 0.1% 3k ohm ever 25ppm 10000
 rc tr0805b7k5p0525 0805 0.1% 7.5 k ohm ever 25ppm 10000
-at0402br 0710kl ± 0.1% 1 16 0402 1
-resist smd 0 063w 0 1% 1k rl rh era 2aeb102x 2050 era 2aeb102x 2050.0 0.0657 7 12days dgk
-精密 电阻 精密 电阻 精密 电阻 10r 0805 0.1% 10ppm
-1 精密 电阻 56r 0.1% 603 1 r30 温漂 10ppm 1.0
-2 精密 电阻 68r 0.1% 603 1 r29 1.0
-3 精密 电阻 100r 0.1% 603 1 r44 100r 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
-4 精密 电阻 2k 0.1% 603 1 r56 2k 0.1% 0603 25ppm 10.0 0.147 温 漂为 25ppm lc
-5 精密 电阻 2k2 0.1% 603 1 r43 2.2 k 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
-6 精密 电阻 3k 0.1% 603 2 r57 60 0603 3k 0.1% 25ppm 20.0 0.147 温 漂为 25ppm lc
-7 精密 电阻 6.65 k 0.1% 603 1 r15 0603 0.1% 6.8 k 25ppm 20.0 0.1865 温 漂 25ppm 阻值 常用 阻值 6.8 k lc
-8 精密 电阻 9k1 0.1% 603 2 r55 58 0603 9.1 k 0.5% 50ppm 50.0 0.0268 温 漂为 50ppm 0.5% lc
-9 精密 电阻 12k 0.1% 603 2 r13 16 0603 12k 0.5% 0.5% 50ppm 50.0 0.0268 温 漂为 50ppm lc
-10 精密 电阻 13k7 0.1% 603 1 r54 1.0
-11 精密 电阻 15k 0.1% 603 1 r48 1.0
-12 精密 电阻 17k4 0.1% 603 2 r32 33 1.0
-13 精密 电阻 20k 0.1% 603 1 r47 20k 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
-14 精密 电阻 27k 0.1% 603 1 r53 1.0
-15 精密 电阻 97k6 0.1% 603 1 r42 1.0
-16 精密 电阻 100k 0.1% 603 1 r61 100k 0603 0.1% 25ppm 20.0 0.1865 温 漂为 25ppm lc
-era 8aeb105v 1m 0.1% 1206 37 res thin film 1206 1mohm 0.1% 0.25 w 1 4w ± 25ppm c aec q200
-era 8aeb203v 20k 0.1% 1206 3 res thin film 1206 20kohm 0.1% 0.25 w 1 4w ± 25ppm c aec q200
-47k 0.1% r1 0603r 1.0
-30k 0.1% r7 0603r 1.0
-1k 0.1% 0.1 w 25ppm r19 r32 r24 r37 0805r 4.0
-51k 0.1% 0.125 w 25ppm r21 r33 0805r 2.0
-250r 0.1% 0.125 w 25ppm r22 r35 0805r 2.0
-100k 0.1% 0.1 w 25ppm r23 r36 0805r 2.0
-330k 0.1% 0.125 w 25ppm r31 0805r 1.0
-24.9 k 0.1% 0.1 w 25ppm r39 0805r 1.0
-10r 0.1% 0.125 w 25ppm r40 0805r 1.0
-5.1 k 0.1% 0.125 w 25ppm r41 0805r 1.0
+at0402br 0710kl ± 0.1% 1 / 16 0402 1
+resist smd 0 063w 0 1% 1k rl rh era 2aeb102x 2050 era 2aeb102x 2050.0 0.0657 7 dgk
+贴片 精密 电阻 贴片 精密 电阻 贴片 精密 电阻 10r 0805 0.1% 10ppm
+1 精密 贴片 电阻 56r 0.1% 603 1 r30 温漂 10ppm 1.0
+2 精密 贴片 电阻 68r 0.1% 603 1 r29 1.0
+3 精密 贴片 电阻 100r 0.1% 603 1 r44 100r 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
+4 精密 贴片 电阻 2k 0.1% 603 1 r56 2k 0.1% 0603 25ppm 10.0 0.147 温 漂为 25ppm lc
+5 精密 贴片 电阻 2k2 0.1% 603 1 r43 2.2 k 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
+6 精密 贴片 电阻 3k 0.1% 603 2 r57 60 0603 3k 0.1% 25ppm 20.0 0.147 温 漂为 25ppm lc
+7 精密 贴片 电阻 6.65 k 0.1% 603 1 r15 0603 0.1% 6.8 k 25ppm 20.0 0.1865 温 漂 25ppm 阻值 常用 阻值 6.8 k lc
+8 精密 贴片 电阻 9k1 0.1% 603 2 r55 58 0603 9.1 k 0.5% 50ppm 50.0 0.0268 温 漂为 50ppm 0.5% lc
+9 精密 贴片 电阻 12k 0.1% 603 2 r13 16 0603 12k 0.5% 0.5% 50ppm 50.0 0.0268 温 漂为 50ppm lc
+10 精密 贴片 电阻 13k7 0.1% 603 1 r54 1.0
+11 精密 贴片 电阻 15k 0.1% 603 1 r48 1.0
+12 精密 贴片 电阻 17k4 0.1% 603 2 r32 33 1.0
+13 精密 贴片 电阻 20k 0.1% 603 1 r47 20k 0.1% 0603 25ppm 20.0 0.1865 温 漂为 25ppm lc
+14 精密 贴片 电阻 27k 0.1% 603 1 r53 1.0
+15 精密 贴片 电阻 97k6 0.1% 603 1 r42 1.0
+16 精密 贴片 电阻 100k 0.1% 603 1 r61 100k 0603 0.1% 25ppm 20.0 0.1865 温 漂为 25ppm lc
+era 8aeb105v 1m 0.1% 1206 37 res thin film 1206 1mohm 0.1% 0.25 w 1 / 4w ± 25ppm / c aec q200
+era 8aeb203v 20k 0.1% 1206 3 res thin film 1206 20kohm 0.1% 0.25 w 1 / 4w ± 25ppm / c aec q200
+47k * 0.1% r1 0603r 1.0
+30k * 0.1% r7 0603r 1.0
+1k * 0.1% 0.1 w 25ppm r19 r32 r24 r37 0805r 4.0
+51k * 0.1% 0.125 w 25ppm r21 r33 0805r 2.0
+250r * 0.1% 0.125 w 25ppm r22 r35 0805r 2.0
+100k * 0.1% 0.1 w 25ppm r23 r36 0805r 2.0
+330k * 0.1% 0.125 w 25ppm r31 0805r 1.0
+24.9 k * 0.1% 0.1 w 25ppm r39 0805r 1.0
+10r * 0.1% 0.125 w 25ppm r40 0805r 1.0
+5.1 k * 0.1% 0.125 w 25ppm r41 0805r 1.0
 80k 0.1% r eu r0603 r0603 r40 r44 r49 r50 0603 80k 0.1% resistor european symbol 1.0
-330r 0.1% 0603 500 tyco tyco cpf0603b330re1 resistor 0603 330r descriptionresistor 0603 330r power rating 63mw resistance 330ohm tolerance resistance 0.1% series cpf temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 120v temperature coefficient 25ppm ° c case style 0603 length height external 1.6 mm depth external 0.45 mm width external 0.8 mm
-1k5 01% 0603 500 tyco tyco rn73f1j1k5btg resistor 0603 1k5 descriptionresistor 0603 1k5 power rating 0063 w resistance 15 kohm tolerance resistance ± 01% temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 50v dc temperature coefficient ± 25ppm ° c case style 0603 length height external 16 mm temp coeff 25ppm ° c temp coeff 25ppm ° c tolerance 01% tolerance 01% voltage rating dc 50v depth external 03 mm quantity reel 5000 temp op max 125 ° c temp op min 55 ° c temperature full power rating 70 ° c termination type smd voltage overload 100v width external 08 mm
-330r 0.1% 0603 500 tyco tyco cpf0603b330re1 resistor 0603 330r descriptionresistor 0603 330r power rating 63mw resistance 330ohm tolerance resistance 0.1% series cpf temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 120v temperature coefficient 25ppm ° c case style 0603 length height external 1.6 mm depth external 0.45 mm width external 0.8 mm
-1k5 01% 0603 500 tyco tyco rn73f1j1k5btg resistor 0603 1k5 descriptionresistor 0603 1k5 power rating 0063 w resistance 15 kohm tolerance resistance ± 01% temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 50v dc temperature coefficient ± 25ppm ° c case style 0603 length height external 16 mm temp coeff 25ppm ° c temp coeff 25ppm ° c tolerance 01% tolerance 01% voltage rating dc 50v depth external 03 mm quantity reel 5000 temp op max 125 ° c temp op min 55 ° c temperature full power rating 70 ° c termination type smd voltage overload 100v width external 08 mm
-r1 12.4 k 0.1% res smd 12.4 kohm 0.1% 1 16w 0402 era 2aeb1242x digi key p12.4 kdctr nd rc0402
+330r 0.1% 0603 500 tyco tyco cpf0603b330re1 resistor 0603 330r descriptionresistor 0603 330r power rating 63mw resistance 330ohm tolerance resistance 0.1% series cpf temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 120v temperature coefficient 25ppm / ° c case style 0603 length / height external 1.6 mm depth external 0.45 mm width external 0.8 mm
+1k5 01% 0603 500 tyco tyco rn73f1j1k5btg resistor 0603 1k5 descriptionresistor 0603 1k5 power rating 0063 w resistance 15 kohm tolerance resistance ± 01% temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 50v dc temperature coefficient ± 25ppm / ° c case style 0603 length / height external 16 mm temp coeff 25ppm / ° c temp coeff 25ppm / ° c tolerance 01% tolerance 01% voltage rating dc 50v depth external 03 mm quantity reel 5000 temp op max 125 ° c temp op min 55 ° c temperature full power rating 70 ° c termination type smd voltage overload 100v width external 08 mm
+330r 0.1% 0603 500 tyco tyco cpf0603b330re1 resistor 0603 330r descriptionresistor 0603 330r power rating 63mw resistance 330ohm tolerance resistance 0.1% series cpf temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 120v temperature coefficient 25ppm / ° c case style 0603 length / height external 1.6 mm depth external 0.45 mm width external 0.8 mm
+1k5 01% 0603 500 tyco tyco rn73f1j1k5btg resistor 0603 1k5 descriptionresistor 0603 1k5 power rating 0063 w resistance 15 kohm tolerance resistance ± 01% temperature operating range 55 ° c to 125 ° c resistor element type thin film voltage rating 50v dc temperature coefficient ± 25ppm / ° c case style 0603 length / height external 16 mm temp coeff 25ppm / ° c temp coeff 25ppm / ° c tolerance 01% tolerance 01% voltage rating dc 50v depth external 03 mm quantity reel 5000 temp op max 125 ° c temp op min 55 ° c temperature full power rating 70 ° c termination type smd voltage overload 100v width external 08 mm
+r1 12.4 k 0.1% res smd 12.4 kohm 0.1% 1 / 16w 0402 era 2aeb1242x digi key p12.4 kdctr nd rc0402
 47 千分之一 0805 2 400
 100k 千分之一 0805 4 800
 120 千分之一 0805 1 200
 560 千分之一 0805 1 200
 820 千分之一 0805 2 400
-132 rt0603brb0722rl 22r 0.1% 10ppm 800 2000 1
-133 rt0603brb07100rl 100r 0.1% 10ppm 400 1000 1
-134 rt0402brb0710kl 10k 0.1% 10ppm 200 500 1
-135 rt2512bkd0756kl 56k 0.1% 10ppm 400 1000 1
+132 rt0603brb0722rl 22r / 0.1% 10ppm 800 2000 1
+133 rt0603brb07100rl 100r / 0.1% 10ppm 400 1000 1
+134 rt0402brb0710kl 10k / 0.1% 10ppm 200 500 1
+135 rt2512bkd0756kl 56k / 0.1% 10ppm 400 1000 1
 1r74 1206 tk50 0.5% thin film 1150289 115028.9 jane
-12r4 1206 tk25 0.5% 262170 26217 jane
-52r3 1206 tk25 0.5% 66000 6600 jane
-22r0 1206 tk25 0.5% 400000 40000 jane
-4r42 1206 tk25 0.5% 493196 49319.6 jane
+12r4 1206 tk25 0.5% / 262170 26217 jane
+52r3 1206 tk25 0.5% / 66000 6600 jane
+22r0 1206 tk25 0.5% / 400000 40000 jane
+4r42 1206 tk25 0.5% / 493196 49319.6 jane
 mma0204 tk25 22r 0.1% 35146 3514.6 jane
 330r 0.5% 0603 50ppm 360000 36000 jane
 620r 0.5% 0603 50ppm 150000 15000 jane
@@ -69,96 +69,101 @@ mma0204 tk25 22r 0.1% 35146 3514.6 jane
 34.0 1000126.0 电阻 高精度 100r 0.01% rt0603brb07100rl 603 5000 rt0603brb07100rl 2000 0.9483 5000.0 2000 10 14days ickey
 33.0 1000125.0 电阻 高精度 22r 0.01% rt0603brb0722rl 603 5000 1
 38.0 1000138.0 电阻 高精度 56k 0.1% rt2512bkd0756kl r2512 4000 1
-90.0 电阻 0603 10k 1 10w c 1% 精密 电阻 0603waf1002t5e 5000 0.0032 5000.0 5000.0 lc
-140.0 电阻 0603 10k 1 10w c 1% 精密 电阻 0603waf1002t5e 5000 0.0032 5000.0 5000.0 lc
-110.0 电阻 0603 1k 1 10w c 1% 精密 电阻 rc0603fr 071kl 5000 0.0038 5000.0 5000.0 lc
-100.0 电阻 0603 2k 1 10w c 1% 精密 电阻 0603waf2001t5e 5000 0.0032 5000.0 5000.0 lc
-7 yg007 电阻 23.7 k 0.1% 0402 r0402l r8 1 3000.0 3000 1
-8 yg008 电阻 12.1 k 0.1% 0402 r0402l r9 1 3000.0 3000 1
-mceresno206a4 63.0 3.0 ea res smd 100k ohm 0.1% 1 10w 0603 resistor x rt0603brd07100kl 3000.0
-12.0 10901045 精密 电阻 5.1 k 1 4w 30000.0
-13.0 10901047 精密 电阻 27k 1 4w 30000.0
-c311907 高精密 低温 漂 电阻 100 ω 1000 ± 0.5% 0603 100.0
-r231 r238 r245 r252 r259 r273 r280 r288 r295 r373 r377 r384 r391 r398 r434 ar02btc7501 高精密 低温 漂 电阻 7.5 k ω 7501 ± 0.1% 25ppm 0402 160
-r2 r5 r7 r8 res smd 10k ohm 0.1% 1 10w 0603 era 3aeb103v 20000
-tk9304710000928 电阻 4.99 k 0.1% 1 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
-tk9304710000934 电阻 10k 0.1% 1 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
-tk9304710000933 电阻 100k 0.1% 1 10w 0603 rt0603brb07100kl 等级 c rt0603brb07100kl 0603 50
-tk9304710000929 电阻 102r 0.1% 1 20w 0201 era 1arb1020c 等级 c era 1arb1020c 0201 50
-tk9304710000938 电阻 1k ohm 0.1% 1 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
-tk9304710000940 电阻 49.9 k 0.1% 1 16w 0402 era 2aeb4992x 等级 c era 2aeb4992x 0402 120
-tk9304710000927 电阻 1m 0.1% 1 16w 0402 rt0402brd071ml 等级 c rt0402brd071ml 0402 100
-tk9304710000932 电阻 180r 0.1% 1 16w 0402 rt0402brd07180rl 等级 c rt0402brd07180rl 0402 100
-tk9304710000935 电阻 150k 0.1% 1 10w 0603 rt0603brd07150kl 等级 c rt0603brd07150kl 0603 50
-tk9304710000369 电阻 0402 499r 0.1% 1 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
-21 03 000536 电阻 10k 0603 0.1% 1 10w 11000
-23 03 000955 电阻 20k 0603 0.1% 2500
-24 03 001065 电阻 300k 0603 0.1% 1000
-27 ea010106235 电阻 100 ω 0603 0.1% 精密 电阻 1000
-31 resistor 1m 1 8w 0.5% ra9 ra12 ra15 ra18 ra21 ra24 r0805 6 resistor 1mohm 0.5% 0805 smt 1 8w aec q200 compliance 24000
-32 resistor 0.5 k 1 8w 1% r17 r0805 1 resistor 499ohm 1% 0805 smt 1 8w aec q200 compliance 4000
+90.0 贴片 电阻 0603 10k 1 / 10w / c 1% 精密 电阻 0603waf1002t5e 5000 0.0032 5000.0 5000.0 lc
+140.0 贴片 电阻 0603 10k 1 / 10w / c 1% 精密 电阻 0603waf1002t5e 5000 0.0032 5000.0 5000.0 lc
+110.0 贴片 电阻 0603 1k 1 / 10w / c 1% 精密 电阻 rc0603fr 071kl 5000 0.0038 5000.0 5000.0 lc
+100.0 贴片 电阻 0603 2k 1 / 10w / c 1% 精密 电阻 0603waf2001t5e 5000 0.0032 5000.0 5000.0 lc
+7 yg007 贴片 电阻 23.7 k / 0.1% / 0402 r0402l r8 1 3000.0 3000 1
+8 yg008 贴片 电阻 12.1 k / 0.1% / 0402 r0402l r9 1 3000.0 3000 1
+mceresno206a4 63.0 3.0 ea res smd 100k ohm 0.1% 1 / 10w 0603 resistor x rt0603brd07100kl 3000.0
+12.0 10901045 精密 电阻 5.1 k 1 / 4w 30000.0
+13.0 10901047 精密 电阻 27k 1 / 4w 30000.0
+c311907 贴片 高精密 低温 漂 电阻 100 ω 1000 ± 0.5% 0603 100.0
+r231 r238 r245 r252 r259 r273 r280 r288 r295 r373 r377 r384 r391 r398 r434 ar02btc7501 贴片 高精密 低温 漂 电阻 / 7.5 k ω 7501 ± 0.1% / 25ppm / 0402 160
+r2 r5 r7 r8 res smd 10k ohm 0.1% 1 / 10w 0603 era 3aeb103v 20000
+tk9304710000928 电阻 4.99 k 0.1% 1 / 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
+tk9304710000934 电阻 10k 0.1% 1 / 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
+tk9304710000933 电阻 100k 0.1% 1 / 10w 0603 rt0603brb07100kl 等级 c rt0603brb07100kl 0603 50
+tk9304710000929 电阻 102r 0.1% 1 / 20w 0201 era 1arb1020c 等级 c era 1arb1020c 0201 50
+tk9304710000938 电阻 1k ohm 0.1% 1 / 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
+tk9304710000940 电阻 49.9 k 0.1% 1 / 16w 0402 era 2aeb4992x 等级 c era 2aeb4992x 0402 120
+tk9304710000927 电阻 1m 0.1% 1 / 16w 0402 rt0402brd071ml 等级 c rt0402brd071ml 0402 100
+tk9304710000932 电阻 180r 0.1% 1 / 16w 0402 rt0402brd07180rl 等级 c rt0402brd07180rl 0402 100
+tk9304710000935 电阻 150k 0.1% 1 / 10w 0603 rt0603brd07150kl 等级 c rt0603brd07150kl 0603 50
+tk9304710000369 电阻 0402 499r 0.1% 1 / 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
+21 03 000536 电阻 10k 0603 0.1% 1 / 10w 11000
+23 03 000955 贴片 电阻 20k / 0603 / 0.1% 2500
+24 03 001065 贴片 电阻 300k 0603 0.1% 1000
+27 ea010106235 贴片 电阻 100 ω / 0603 / 0.1% 精密 电阻 1000
+31 resistor 1m 1 / 8w 0.5% ra9 ra12 ra15 ra18 ra21 ra24 r0805 6 resistor 1mohm 0.5% 0805 / smt 1 / 8w aec q200 compliance 24000
+32 resistor 0.5 k 1 / 8w 1% r17 r0805 1 resistor 499ohm 1% 0805 / smt 1 / 8w aec q200 compliance 4000
 1 精密 电阻 10k 0.1% 20ppm 01c 0603 r r31 r10 r16 r22 r23 r24 r30 8 512
 2 精密 电阻 120 0.1% 20ppm 121 0603 r r51 r52 r53 r54 r55 r56 r58 r59 r60 r61 r62 r63 r64 r65 r66 r67 16 1024
 3 精密 电阻 5.6 k 0.1% 562 0603 r r29 不焊 1 64
 4 精密 电阻 3.92 k 0.1% 58b 0603 r r32 1 64
 5 精密 电阻 6.04 k 0.1% 0603 r r68 r69 r70 r71 4 256
-60109000391 片状 电阻 片状 电阻 1 16w 11k ± 0.1% 0603 2pin smd tc03h1102bt 70
-60109000370 片状 电阻 片状 电阻 1 16w 62k ± 0.1% 0603 2pin smd tc0325b6202t5e 30
-20 131981 1 rc t0603drd071kl 电阻 0603 1k ± 05% rt0603drd071kl 电阻 rt0603drd071kl 0603 20 y
-21 131981 1 rc0603 drd0710kl 电阻 0603 10k ± 05% rt0603drd0710kl 电阻 rt0603drd0710kl 0603 70 y
-22 131981 1 rc t0603drd072kl 电阻 0603 2k ± 05% rt0603drd072kl 电阻 rt0603drd072kl 0603 20 y
-23 131981 1 rc0603 drd071k5l 电阻 0603 15 k ± 05% rt0603drd071k5l 电阻 rt0603drd071k5l 0603 20 y
-精密 片状 抗 硫化 电阻器 rhs 03k4991dt rk73h1jrttd4991d rms06dt4991 sf06h4991dtla 额定功率 1 10w 阻值 4.99 k ω 阻值 ± 0.5% 系数 ± 100ppm ℃ 55 ℃ 155 ℃ 电压 50v 0603 0603 ta i 300 90000
-精密 片状 抗 硫化 电阻器 rk73h1erttp1003d rms04dt1003 rhc 02k1003dt sf04h1003dtla 额定功率 1 16w 阻值 100k ω 阻值 ± 0.5% 系数 ± 100ppm ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-精密 片状 抗 硫化 电阻器 rk73h1erttp1211d sf04h1211dtla rhc 02k1211dt rms04dt1211 额定功率 1 16w 阻值 1.21 k ω 阻值 ± 0.5% 系数 ± 100ppm ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-精密 片状 抗 硫化 电阻器 rk73h1erttp1001d rms04dt1001 sf04h1001dtla rhc 02k1001dt 额定功率 1 16w 阻值 1k ω 阻值 ± 0.5% 系数 ± 100ppm ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-精密 片状 抗 硫化 电阻器 rk73h1erttp3012d sf04t3012dtla rms04dt3012 rhc 02k3012dt 额定功率 1 16w 阻值 30.1 k ω 阻值 ± 0.5% 系数 ± 100ppm ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
-n1020103068 无铅 表贴 功率 精密 采样 电阻 psr100ktqfh1l00 rohm 0.001 ω ± 1% 2512 3w 6.35 mmx3.05 mmx0.9 mm 55 170 ℃ ± 100ppm ° c rohm semiconductor 300
-电阻 4.99 k 0.1% 1 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
-电阻 10k 0.1% 1 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
-电阻 102r 0.1% 1 20w 0201 era 1arb1020c 等级 c era 1arb1020c 0201 50
-电阻 1k ohm 0.1% 1 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
-电阻 49.9 k 0.1% 1 16w 0402 era 2aeb4992x 等级 c era 2aeb4992x 0402 120
-电阻 1m 0.1% 1 16w 0402 rt0402brd071ml 等级 c rt0402brd071ml 0402 100
-电阻 180r 0.1% 1 16w 0402 rt0402brd07180rl 等级 c rt0402brd07180rl 0402 100
-电阻 150k 0.1% 1 10w 0603 rt0603brd07150kl 等级 c rt0603brd07150kl 0603 50
-电阻 0402 499r 0.1% 1 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
-res 430 ohm 0.1% 1 10w 0402 tnpw0402430rbeed dale 2
-res smd 50 ohm 0.1% 1 20w 0402 fc0402e50r0btbst1 dale thin film 8
-res 620 ohm 0.1% 1 10w 0402 tnpw0402620rbeed dale 1
-25 精密 电阻 0603 20k ω b ± 10ppm 4 40
-26 精密 电阻 0603 5.6 k ω b ± 10ppm 4 40
-25 精密 电阻 0603 20k ω b ± 10ppm 4 2000
-26 精密 电阻 0603 5.6 k ω b ± 10ppm 4 2000
-8 50ohm res smd 50 ohm 0.1% 1 10w 0603 rt0603bre0750rl r0603 336
-4 51ohm res smd 51 ohm 0.1% 1 10w 0603 rt0603bre0751rl r0603 168
-4 620ohm res smd 620 ohm 0.1% 1 10w 0603 rt0603bre07620rl r0603 168
-精密 电阻 rn73h2bttd1003b25 1003 1206 0.125 w 100k ω ± 0.1 ％ ± 25ppm 2 100k ω 0.125 w ± 0.1 ％ sr0603 rj1 rj2 1
-2 resistors 68r 1 4w 0.02% 200
-2 resistor smd r0805 1kr 0 1% era6aeb102v 1 r3 5 100 200
+60109000391 片状 电阻 片状 电阻 1 / 16w 11k ± 0.1% 0603 2pin smd tc03h1102bt 70
+60109000370 片状 电阻 片状 电阻 1 / 16w 62k ± 0.1% 0603 2pin smd tc0325b6202t5e 30
+20 131981 1 rc t0603drd071kl 贴片 电阻 0603 1k ± 05% / rt0603drd071kl 贴片 电阻 rt0603drd071kl 0603 20 y
+21 131981 1 rc0603 drd0710kl 贴片 电阻 0603 10k ± 05% / rt0603drd0710kl 贴片 电阻 rt0603drd0710kl 0603 70 y
+22 131981 1 rc t0603drd072kl 贴片 电阻 0603 2k ± 05% / rt0603drd072kl 贴片 电阻 rt0603drd072kl 0603 20 y
+23 131981 1 rc0603 drd071k5l 贴片 电阻 0603 15 k ± 05% / rt0603drd071k5l 贴片 电阻 rt0603drd071k5l 0603 20 y
+精密 片状 抗 硫化 电阻器 rhs 03k4991dt rk73h1jrttd4991d rms06dt4991 sf06h4991dtla 额定功率 1 / 10w 阻值 4.99 k ω 阻值 ± 0.5% 系数 ± 100ppm / ℃ 55 ℃ 155 ℃ 电压 50v 0603 0603 ta i 300 90000
+精密 片状 抗 硫化 电阻器 rk73h1erttp1003d rms04dt1003 rhc 02k1003dt sf04h1003dtla 额定功率 1 / 16w 阻值 100k ω 阻值 ± 0.5% 系数 ± 100ppm / ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+精密 片状 抗 硫化 电阻器 rk73h1erttp1211d sf04h1211dtla rhc 02k1211dt rms04dt1211 额定功率 1 / 16w 阻值 1.21 k ω 阻值 ± 0.5% 系数 ± 100ppm / ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+精密 片状 抗 硫化 电阻器 rk73h1erttp1001d rms04dt1001 sf04h1001dtla rhc 02k1001dt 额定功率 1 / 16w 阻值 1k ω 阻值 ± 0.5% 系数 ± 100ppm / ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+精密 片状 抗 硫化 电阻器 rk73h1erttp3012d sf04t3012dtla rms04dt3012 rhc 02k3012dt 额定功率 1 / 16w 阻值 30.1 k ω 阻值 ± 0.5% 系数 ± 100ppm / ℃ 55 ℃ 155 ℃ 电压 50v 0402 0402 300 90000
+无铅 表贴 功率 精密 采样 电阻 psr100ktqfh1l00 rohm 0.001 ω ± 1% 2512 3w 6.35 mmx3.05 mmx0.9 mm 55 170 ℃ ± 100ppm / ° c rohm semiconductor 300
+62.0 电阻 10k / 0.1% cpf a 0603b10ke1 5.0
+72.0 电阻 2k / 0.1% rt1206brd072kl 7.0
+76.0 电阻 20k / 75v 0.1% era 3yeb203v 4.0
+77.0 电阻 75k / 0.1% rt1206brd0775kl 2.0
+84.0 电阻 200k / 0.1% rt1206brd07200kl 1.0
+电阻 4.99 k 0.1% 1 / 20w 0201 era 1arb4991c 等级 c era 1arb4991c 0201 30
+电阻 10k 0.1% 1 / 10w 0603 rt0603brb0710kl 等级 c rt0603brb0710kl 0603 50
+电阻 102r 0.1% 1 / 20w 0201 era 1arb1020c 等级 c era 1arb1020c 0201 50
+电阻 1k ohm 0.1% 1 / 20w 0201 era 1aeb102c 等级 d era 1aeb102c 0201 100
+电阻 49.9 k 0.1% 1 / 16w 0402 era 2aeb4992x 等级 c era 2aeb4992x 0402 120
+电阻 1m 0.1% 1 / 16w 0402 rt0402brd071ml 等级 c rt0402brd071ml 0402 100
+电阻 180r 0.1% 1 / 16w 0402 rt0402brd07180rl 等级 c rt0402brd07180rl 0402 100
+电阻 150k 0.1% 1 / 10w 0603 rt0603brd07150kl 等级 c rt0603brd07150kl 0603 50
+电阻 0402 499r 0.1% 1 / 16w rt0402brd07499rl 等级 c rt0402brd07499r 0402 100
+res 430 ohm 0.1% 1 / 10w 0402 tnpw0402430rbeed dale 2
+res smd 50 ohm 0.1% 1 / 20w 0402 fc0402e50r0btbst1 dale thin film 8
+res 620 ohm 0.1% 1 / 10w 0402 tnpw0402620rbeed dale 1
+25 精密 电阻 0603 20k ω / b / ± 10ppm 4 40
+26 精密 电阻 0603 5.6 k ω / b / ± 10ppm 4 40
+25 精密 电阻 0603 20k ω / b / ± 10ppm 4 2000
+26 精密 电阻 0603 5.6 k ω / b / ± 10ppm 4 2000
+8 50ohm res smd 50 ohm 0.1% 1 / 10w 0603 rt0603bre0750rl r0603 336
+4 51ohm res smd 51 ohm 0.1% 1 / 10w 0603 rt0603bre0751rl r0603 168
+4 620ohm res smd 620 ohm 0.1% 1 / 10w 0603 rt0603bre07620rl r0603 168
+贴片 精密 电阻 rn73h2bttd1003b25 1003 1206 0.125 w 100k ω ± 0.1 ％ ± 25ppm 2 100k ω 0.125 w ± 0.1 ％ sr0603 贴片 rj1 rj2 1
+2 resistors 68r 1 / 4w 0.02% 200
+resistor smd r0805 1kr 0 1% era6aeb102v r3
 resistor smd r0805 1kr 0 1% era6aeb102v 1 805.0 r3 100
-tk9265510000509 电阻 1.07 kohm 0.1% 1 10w 0805 rn73c2a1k07btdf 等级 c rn73c2a1k07btdf 20
-tk9265510000510 电阻 3.32 kohm 0.1% 1 10w 0805 rn73c2a3k32btd 等级 c rn73c2a3k32btd 20
+电阻 1.07 kohm 0.1% 1 / 10w 0805 rn73c2a1k07btdf 等级 c rn73c2a1k07btdf 20
+电阻 3.32 kohm 0.1% 1 / 10w 0805 rn73c2a3k32btd 等级 c rn73c2a3k32btd 20
 r15 10k 0805 resistor 0.1% tk25 n
 r16 51k 0805 resistor 0.1% tk25 n
 r5 18k 0805 resistor 0.1% tk25 n
 r15 10k 0805 resistor 0.1% tk25 1 n
 r16 51k 0805 resistor 0.1% tk25 1 n
 r5 18k 0805 resistor 0.1% tk25 1 n
-5 132861 1 rc73 c2a8k06btdf 电阻 0805 806 k ± 01% rn73c2a8k06btdf 110 n
+5 132861 1 rc73 c2a8k06btdf 贴片 电阻 0805 806 k ± 01% / rn73c2a8k06btdf 110 n
 1.0 r22 0r resistor 0603 0r 1% 0.1 w 50v 0603r rc0603fr 070rl
 3.0 r32.1 r32.2 r39 1k resistor 0603 1k 1% 0.1 w 75v 0603r erj3ekf1001v
-100k ohm 0.5% 1 16w rr0510p 104 d 4 0402 r susumu
-100k ohm 0.1% 1 16w rt0402brd07100kl 4 0402 r
-3 133048 1 rc08050000001 kb 电阻 0805 1 8w 1k ± 01% 70 n 0
-4 133048 1 rc080500012 r7kb 电阻 0805 1 8w 127 k ± 01% 70 n 0
-12 133726 1 rc08050000001 kb 电阻 0805 1 8w 1k ± 01% 5 n
-45 16p8301a0 r01 s005682 res smd 1k ohm 0.5% 1 16w 0402 rc0402dr 071kl 芯片 电阻 334
-60 16p8302b0 r01 s005682 res smd 1k ohm 0.5% 1 16w 0402 rc0402dr 071kl 芯片 电阻 7823
-45 16p8302b0 r01 s005685 res smd 100k ohm 0.5% 1 16w 0402 rc0402dr 07100kl 芯片 电阻 289
-8751 0.1% r88 1608 0603 1 4
-821 0.1% r89 1608 0603 1 4
-76 y 1.0 r724 res high prec metal film chip 0603 susumu rr0816p 1962 d 29c 19.6 k r0603 603 0.5 1 16w
+100k ohm 0.5% 1 / 16w rr0510p 104 d 4 0402 r susumu
+100k ohm 0.1% 1 / 16w rt0402brd07100kl 4 0402 r
+3 133048 1 rc08050000001 kb 贴片 电阻 0805 1 / 8w 1k ± 01% 70 n 0
+4 133048 1 rc080500012 r7kb 贴片 电阻 0805 1 / 8w 127 k ± 01% 70 n 0
+12 133726 1 rc08050000001 kb 贴片 电阻 0805 1 / 8w 1k ± 01% 5 n
+45 16p8301a0 r01 s005682 res smd 1k ohm 0.5% 1 / 16w 0402 rc0402dr 071kl / 芯片 电阻 334
+60 16p8302b0 r01 s005682 res smd 1k ohm 0.5% 1 / 16w 0402 rc0402dr 071kl / 芯片 电阻 7823
+45 16p8302b0 r01 s005685 res smd 100k ohm 0.5% 1 / 16w 0402 rc0402dr 07100kl / 芯片 电阻 289
+8751 / 0.1% r88 1608 0603 1 4
+821 / 0.1% r89 1608 0603 1 4
+76 y 1.0 r724 res high prec metal film chip 0603 susumu rr0816p 1962 d 29c 19.6 k r0603 603 0.5 1 / 16w
 r18 res 57.6 k 0.001 r0805 top resistor 57k6 0805 0.1% 25ppm 0.1 w multicomp mctc0525b5762t5e fec 1575988
 r42 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
 r43 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
@@ -166,10 +171,10 @@ r44 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810
 r49 res 499r 0.001 r0603 top resistor 499r 0603 0.1% 0.1 w era3aeb4990v fec 1810089
 r57 res 0r 820r 0.01 r0603 top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
 r58 res 0r 820r 0.01 r0603 top resistor 0603 820r 0.1% 0.1 w era3aeb821v fec 1811397
-27 5 r9 r12 r18 e012477 res high pres high stability 33 r0402 0.5 50v 1 16w rt0402dre0733rl rel
+27 5 r9 r12 r18 e012477 res high pres high stability 33 r0402 0.5 50v 1 / 16w rt0402dre0733rl rel
 16.0 n r11 r13 r22 r26 r31 r32 r34 r35 r36 r37 r90 r91 r92 r94 r96 res ultra prec ultra reliability mf chip susumu rg1005p 102 b t5 1k r0402 r0402
-54 1 r27 res 316 k ohm 1 10w 01% 0805 0805 t e 1676324 2 a103428ct nd
-57 2 r30 r31 res 249 ohm 1 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd
+54 1 r27 res 316 k ohm 1 / 10w 01% 0805 0805 t e 1676324 2 a103428ct nd
+57 2 r30 r31 res 249 ohm 1 / 16w 01% 0402 0402 t e 9 1879212 8 a102737ct nd
 r1 r2 res 0603 24.9 0.5% sususmu rr0816q 24r9 d 39r rr08q24.9 dct nd
 r4 res 0603 2k 0.1% era 3yeb202v p2.0 kyct nd
 resistor 1.00 k ohm 0.1% smt 1206 footprint rm 221 p347 500 daltnpw12061001br75
@@ -179,13 +184,13 @@ resistor 1.54 k ohm 0.1% smt box 71 18 50 tnpw12061k54bety
 resistor 1.74 k ohm 0.1% smt box 73 13 5 tnpw12061k74been
 resistor 10 ohm 0.1% smt box 71 15 35 tnpw120610r0been
 resistor 10.0 k ohm smt 0.1% precision 1206 box 71 5 40 71 tnpw120610k0byty
-resistor 10.5 k ohm smt thin film 0.1% box 71 7 30 dale p n tnpw12061052bt 9
+resistor 10.5 k ohm smt thin film 0.1% box 71 7 30 dale p / n tnpw12061052bt 9
 resistor 100 ohm 0.1% smt 1206 footprint rm 221 p341 1500 daltnpw12061000br75
 resistor 100 ohm smt 0.1% precision 1206 box 71 4 200 71 tnpw1206100rbety
-resistor 100 ohm 0.1% 1 8w drawers e59 50 axial lead
-resistor 12.1 k ohm smt thin film 0.1% box 71 8 30 dale p n tnpw12061212bt 9
+resistor 100 ohm 0.1% 1 / 8w drawers e59 50 axial lead
+resistor 12.1 k ohm smt thin film 0.1% box 71 8 30 dale p / n tnpw12061212bt 9
 resistor 15.4 k ohm smt 0.1% box 73 3 50 71 tnpw120615k4been
-resistor 15.8 k ohm smt thin film 0.1% box 71 9 10 dale p n tnpw120615k8bebd
+resistor 15.8 k ohm smt thin film 0.1% box 71 9 10 dale p / n tnpw120615k8bebd
 resistor 150k ohm 0.1% smt box 71 11 18 71 tnpw1206150kbety
 resistor 16.2 k ohm 0.1% smt box 73 5 9 rn732bttdk1622b25
 resistor 160 ohm 0.1% smt box 73 7 5 tnpw1206160rbeen
@@ -203,42 +208,42 @@ resistor 4.99 k ohm 0.1% smt box 71 13 120 tnpw12064k99been
 resistor 475 ohm 0.1% smt box 73 10 5 rn732bttdk4750b25
 resistor 499 ohm smt 0.1% precision 1206 box 71 1 100 71 tnpw1206499rbety
 resistor 7.87 k ohm smt 0.1% box 73 2 50 71 tnpw12067k87been
-resistor 787 ohm smt thin film 0.1% box 71 10 20 dale p n tnpw1206787rbety
-res smd 1.5 k ohm 0.1% 1 16w 0603 a103057ct nd 0.27 4 1.08 phase iii pcb
-res smd 100k ohm 0.1% 1 16w 0603 a103257ct nd 0.27 6 1.62 phase iii pcb
-res smd 10k ohm 0.1% 1 16w 0603 a119886ct nd 0.19 4 0.76 phase iii pcb
-res smd 16k ohm 0.1% 1 10w 0603 yag1546ct nd 0.39 2 0.78 phase iii pcb
-res smd 22k ohm 0.1% 1 16w 0603 a103066ct nd 0.23 6 1.38 phase iii pcb
-res smd 2k ohm 0.1% 1 16w 0603 a103076ct nd 0.2 2 0.4 phase iii pcb
-res smd 33k ohm 0.1% 1 16w 0603 a103086ct nd 0.14 14 1.96 phase iii pcb
-res smd 4.64 k ohm 0.1% 1 6w 0603 a110172ct nd 0.74 2 1.48 phase iii pcb
-res smd 75k ohm 0.1% 1 16w 0603 a103127ct nd 0.21 6 1.26 phase iii pcb
-603 rt0402bre074k7l thin film resistors smd 47 k ohm 1% 50ppm resistor 4 7k res smd 0402 47 k 1 16w 01% mc r1 mc r2 2 100 0096 96 br datasheet 2 447 pyu rt 1 to 001 l 9 1222720 pdf br productdetail rt0402bre074k7l qs gy0y7aqi9sonbyruw1% 2fegq% 3d% 3d
-1 10k 0 1% smd resistor smd 0603 r71
-1 390k 0 1% smd resistor smd 0603 r72
-1.0 470 75915 res mf 1.00 k 1 16w 0.1% 0603 r20 r23 r26 r27 koa speer rn731jttd1001b25
-1.0 470 76060 res mf 3.30 k 1 16w 0.1% 0603 r1 r9 tyco rn73f1j3k3btg
-10 470 79722 res mf 12 k 1 10w 01% 0805 r22 susumu co ltd rg2012n 122 b t1
-99 2 r718 r737 12k res 12k 1 10w 0.1% 25ppm rt0603brd0712kl 0.001
-117 3 r1004 r1009 r1010 51k res 51k 1 10w 0.1% 25ppm rt0603brd0751kl 0.001
-118 1 r1005 160r res 160r 1 10w 0.1% 25ppm rt0603brd07160rl 0.001
-4 4 1879215 9 a102622tr nd 14k 0.1% 25 ppm c 402 install res0402 resistor rw0 3
+resistor 787 ohm smt thin film 0.1% box 71 10 20 dale p / n tnpw1206787rbety
+res smd 1.5 k ohm 0.1% 1 / 16w 0603 a103057ct nd 0.27 4 1.08 phase iii pcb
+res smd 100k ohm 0.1% 1 / 16w 0603 a103257ct nd 0.27 6 1.62 phase iii pcb
+res smd 10k ohm 0.1% 1 / 16w 0603 a119886ct nd 0.19 4 0.76 phase iii pcb
+res smd 16k ohm 0.1% 1 / 10w 0603 yag1546ct nd 0.39 2 0.78 phase iii pcb
+res smd 22k ohm 0.1% 1 / 16w 0603 a103066ct nd 0.23 6 1.38 phase iii pcb
+res smd 2k ohm 0.1% 1 / 16w 0603 a103076ct nd 0.2 2 0.4 phase iii pcb
+res smd 33k ohm 0.1% 1 / 16w 0603 a103086ct nd 0.14 14 1.96 phase iii pcb
+res smd 4.64 k ohm 0.1% 1 / 6w 0603 a110172ct nd 0.74 2 1.48 phase iii pcb
+res smd 75k ohm 0.1% 1 / 16w 0603 a103127ct nd 0.21 6 1.26 phase iii pcb
+603 rt0402bre074k7l thin film resistors smd 47 k ohm 1% 50ppm resistor 4 7k res smd 0402 47 k 1 / 16w 01% mc r1 mc r2 2 100 0096 96 / / br / datasheet / 2 / 447 / pyu rt 1 to 001 l 9 1222720 pdf / / br / productdetail / / rt0402bre074k7l / qs gy0y7aqi9sonbyruw1% 2fegq% 3d% 3d
+1 10k / 0 1% smd resistor smd 0603 r71
+1 390k / 0 1% smd resistor smd 0603 r72
+1.0 470 75915 res mf 1.00 k 1 / 16w 0.1% 0603 r20 r23 r26 r27 koa speer rn731jttd1001b25
+1.0 470 76060 res mf 3.30 k 1 / 16w 0.1% 0603 r1 r9 tyco rn73f1j3k3btg
+10 470 79722 res mf 12 k 1 / 10w 01% 0805 r22 susumu co ltd rg2012n 122 b t1
+99 2 r718 r737 12k res 12k 1 / 10w 0.1% 25ppm rt0603brd0712kl 0.001
+117 3 r1004 r1009 r1010 51k res 51k 1 / 10w 0.1% 25ppm rt0603brd0751kl 0.001
+118 1 r1005 160r res 160r 1 / 10w 0.1% 25ppm rt0603brd07160rl 0.001
+4 4 1879215 9 a102622tr nd 14k 0.1% 25 ppm / c 402 install res0402 resistor rw0 3
 4 3 1879216 2 a103792dkr nd 150k 0.1% 0.12588000000000002 402 resistor resistor rm3 rm0 2
 4 era 2aeb4752x p47.5 kdcdkr nd 47.5 k 0.1% 0.10601000000000001 402 resistor resistor rn1 3 rn0
-54 xxx xxxxx xx res 300 ohm 1 10w ± 0.1% npb 0603 8 r9 r12 r18 r19 r51 r88 r110 r111 era 3aeb301v
-57 xxx xxxxx xx res 16 ohm 1 16w ± 0.5% npb 0603 thin film 12 r13 r15 r16 r17 r23 r35 r87 r92 r93 r99 r103 r109 susumu rr0816q 160 d
-60 xxx xxxxx xx res 100 ohm 1 10w ± 0.1% npb 0603 thin film 2 r29 r30 dale tnpw0603100rbxen substitues without engineer approval
-r24 res0603 11.5 k 0.005 r0603 res sm thinfilm 11.5 k 1 10w 0.5% 0603 rt0603drd0711k5l 311 11.5 kdct nd
-r25 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
+54 xxx xxxxx xx res 300 ohm 1 / 10w ± 0.1% npb 0603 8 r9 r12 r18 r19 r51 r88 r110 r111 era 3aeb301v
+57 xxx xxxxx xx res 16 ohm 1 / 16w ± 0.5% npb 0603 thin film 12 r13 r15 r16 r17 r23 r35 r87 r92 r93 r99 r103 r109 susumu rr0816q 160 d
+60 xxx xxxxx xx res 100 ohm 1 / 10w ± 0.1% npb 0603 thin film 2 r29 r30 dale tnpw0603100rbxen substitues without engineer approval
+r24 res0603 11.5 k 0.005 r0603 res sm thinfilm 11.5 k 1 / 10w 0.5% 0603 rt0603drd0711k5l 311 11.5 kdct nd
+r25 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 / 10w 0.5% rt0603drd07100kl 311 100kdct nd
 r26 res0603 330 0.005 r0603 res sm 330 thinfilm 0.5% rt0603drd07330rl 311 330dct nd
-r32 res0603 dnp 0.005 r0603 res sm thinfilm 330k 1 10w 0.5% 0603 rt0603drd07330kl place
-r37 res0603 1k 0.005 r0603 res sm thinfilm 1k 1 10w 0.5% 0603 rt0603drd071kl 311 1.0 kdct nd
-r38 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 10w 0.5% rt0603drd07100kl 311 100kdct nd
+r32 res0603 dnp 0.005 r0603 res sm thinfilm 330k 1 / 10w 0.5% 0603 rt0603drd07330kl place
+r37 res0603 1k 0.005 r0603 res sm thinfilm 1k 1 / 10w 0.5% 0603 rt0603drd071kl 311 1.0 kdct nd
+r38 res 0r 100k 0.005 r0603 res sm 0603 100k 1% 1 / 10w 0.5% rt0603drd07100kl 311 100kdct nd
 r2 r13 r18 39855700 6 resistor 01% 0805 10k welwyn pcf0805r 10kbi
 r3 r10 r15 39868220 6 resistor 01% 0805 200k welwyn pcf0805r 200kbi
 17 r7 1 33 rr1220q 220 d susumu co ltd res 22 ohm 0.5% 0.1 w 0805 0805
 60.4 k 7 era 2aeb6042x p60.4 kdctr nd 60.4 k 0.1% 0.060480000000000006 402 resistor resistor rd4 7 rd1 3
-105a700009 01 cr 0 5% 1 10w smd 0603 rm06jtn0 ta i technolongy co ltd rm06jtn0
-105a700009 02 cr 0 5% 1 10w smd 0603 0603waj0000t5e uniroyal industry co ltd 0603waj0000t5e
-105a700009 03 cr 0 5% 1 10w smd 0603 rk73z1jttd koanet s rk73z1jttd
-105a700009 05 cr 0 5% 1 10w smd 0603 rc0603jr 070rl co ltd rc0603jr 070rl
+105a700009 01 cr 0 5% 1 / 10w smd 0603 rm06jtn0 ta i technolongy co ltd rm06jtn0
+105a700009 02 cr 0 5% 1 / 10w smd 0603 0603waj0000t5e uniroyal industry co ltd 0603waj0000t5e
+105a700009 03 cr 0 5% 1 / 10w smd 0603 rk73z1jttd koanet s rk73z1jttd
+105a700009 05 cr 0 5% 1 / 10w smd 0603 rc0603jr 070rl co ltd rc0603jr 070rl

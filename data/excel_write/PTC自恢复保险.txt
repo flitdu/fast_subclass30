@@ -1,7 +1,37 @@
-16 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 32 2 保险丝 1600
-17 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 32 2 保险丝 1700
-130 84a.6123 046601 保险丝 1.5 a 63v 82.97 mv 0.0046 ω 1206 1 1206 046601.5 nrhf f1 55
-f1 polyswitch reset 1.1 a 24v smd minismdc110f 24 2 minismdc110f242ct nd 0.6 0.47
+自恢复 保险丝 r1 1210 smd1210p050tf 1 10000
+熔丝 1812l020pr littlefuse 1812l020pr 1812 littlefuse 1500
+smd1812p260tf / 12 f1 1 1812 ihold 26 a vmax 12vd c imax 100a smd1812 hf series surface mount ptc devices polytronics 200
+自恢复 保险丝 rxef375 引线 3.75 a 72vdc 1 f3 22
+60r300x overcurrent protection 3d rad0.4 f8 f9 2.0 750.0
+0805l010 / 24 littlefuse resettable ptcs 3d res 0805 f1 f2 f3 f4 f5 f7 r33 r34 r35 r36 r37 r38 r39 r40 r41 r42 r43 r44 r65 r66 r67 r68 r69 r70 r71 r72 r73 r74 r75 r76 r97 r98 r99 r100 r101 r102 r103 r104 r105 r106 r107 r108 r129 r130 r131 r132 r133 r134 r135 r136 r137 r138 r139 r140 r161 r162 r163 r164 r165 r166 r167 r168 r169 r170 r171 r172 r338 r339 r340 r341 r342 r343 r346 r347 r348 r349 r350 r351 r352 r353 r354 r356 r357 r358 r359 2.0 29750.0
+1812l010 / 60 littelefuse 100ma resettable ptc 1812 rt3 rt5 rt6 rt7 rt8 rt9 rt10 rt11 rt12 rt13 2.0 3500.0
+1812l110 / 33 littelefuse 2a trip resettable ptc 1812 rt2 2.0 350.0
+f1 f2 240v 330ma resettable fuse littlefuse lvr033s 2 lvr033s 2ct nd 1560
+自复型 引线 端接 熔断器 mf r050 1 f4 44
+自复型 引线 端接 熔断器 mf r110 3 f1 f2 f5 66
+自恢复 保险丝 rxef375 引线 3.75 a 72vdc 1 f3 22
+0805l010 / 24 littlefuse resettable ptcs 3d res 0805 f1 f2 f3 f4 f5 f7 r33 r34 r35 r36 r37 r38 r39 r40 r41 r42 r43 r44 r65 r66 r67 r68 r69 r70 r71 r72 r73 r74 r75 r76 r97 r98 r99 r100 r101 r102 r103 r104 r105 r106 r107 r108 r129 r130 r131 r132 r133 r134 r135 r136 r137 r138 r139 r140 r161 r162 r163 r164 r165 r166 r167 r168 r169 r170 r171 r172 r338 r339 r340 r341 r342 r343 r346 r347 r348 r349 r350 r351 r352 r353 r354 r356 r357 r358 r359 2.0 29750.0
+1812l010 / 60 littelefuse 100ma resettable ptc 1812 rt3 rt5 rt6 rt7 rt8 rt9 rt10 rt11 rt12 rt13 2.0 3500.0
+1812l110 / 33 littelefuse 2a trip resettable ptc 1812 rt2 2.0 350.0
+f1 15 a 1812 24v c142805 1812l150 / 24 保持 电流 15 a 触发 电流 3a 24v rmax012 ω / / item szlcsc / 154136 html
+f1 1.1 amp ptcfuse 1812 1812 ptc fuses 20
+0686f2500 01 fuse brd mnt 25 a 63vdc 0603 bel fuse inc 1 1000
+0686f2500 01 fuse brd mnt 25 a 63vdc 0603 bel fuse inc 1 5000
+1812l110 / 33mr resettable fuse 2.5 a 1812 smd 1812 1812l110 / 33mr 300 9920 7000 1000
+f060 直插 pptc 自恢复 保险丝 30 90
+跨距 5mm 30v 1.1 a pptc r44 30v 1.1 a pptc 直插 自恢复 保险丝 / 保险管 1 200
+0603 r 200ma 200ma ptc1 ptc2 ptc 自恢复 保险丝 2 60 9v
+贴片 保险 1206l012 0.125 a 30v a 利特 f 700
+贴片 保险 1206l025 0.25 a / 16v d 300
+0.75 a 33v msmd075 33v f0 1812 r 2 200 1 200
+6a 24v f1206sb6000v024tm aem f1 1206 r 2 200 1 200
+ntc 热敏电阻 sck10103lay ptc b thermistor ntc 10ohm ± 15% d10 * 5 7.5
+25 贴片 自恢复 保险丝 asmd1812 300 jdtfuse 电通 1812 11
+15 保险丝 pptc 自恢复 f1 0.25 a / 135v lvr025s 1 20
+16 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 / 32 2 / 保险丝 1600
+17 2d2433a0 f03 d000043 2.0 a high temperature ptc resett mf rht200 / 32 2 / 保险丝 1700
+130 84a.6123 046601 保险丝 1.5 a / 63v / 82.97 mv / 0.0046 ω / 1206 1 1206 046601.5 nrhf f1 55
+f1 polyswitch reset 1.1 a 24v smd minismdc110f / 24 2 minismdc110f242ct nd 0.6 0.47
 fuse pptc 500ma 1206 pptc 500ma
 pptc 1000ma 1206 smd pptc 1000ma 8v
 tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4
@@ -9,4 +39,4 @@ tr250 180u raychem radial lead 18a 100vdc max 2 50v rms max fuse 4
 ptc pf0pf1pf2pf3 30r300uu inc ptc 3.00 a 30v resettable kink
 ptc pf4pf5pf6pf7 30r300uu inc ptc 3.00 a 30v resettable kink project 2
 ptc pf9 30r300uu inc ptc 3.00 a 30v resettable kink
-30 ptc resettable fuse 0.145 a hold 0.29 a trip 60vdc 0.8 w 5s 3ohm radial 6.5 x 4.6 x 7mm bulk trf250 145 tyco 1000 500 pack
+30 ptc resettable fuse 0.145 a hold 0.29 a trip 60vdc 0.8 w 5s 3ohm radial 6.5 x 4.6 x 7mm bulk trf250 145 tyco 1000 500 / pack

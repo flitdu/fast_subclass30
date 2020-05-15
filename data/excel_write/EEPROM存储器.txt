@@ -1,7 +1,10 @@
-78 1 56a.05 24lc1601 集成电路 24lc16bt i sn e2prom 16kb 40 85 ℃ soic8 1 soic8 1 27 4 0 24lc16bt i sn u23 12
-91 1 56a.05 24fc5101 集成电路 24fc512ism e2prom 512kb 40 85 ℃ soic8 1 soic8 1 27 5 28 24fc512ism u43 12
-150 56a.05 at24c101 eeprom at24c16d stum t eeprom sot23 40 85 ℃ 16kb 1 sot23 at24c16d stum t u47 55
-89 16p8302b0 u17 s000259 ic eeprom 256kbit 1mhz 8soic at24c256c sshl b soic 20 9 180
-89 16p8302b0 u17 s000259 ic eeprom 256kbit 1mhz 8soic at24c256c sshl b soic 180
-q06 20020001 43 61103000460 eeprom at24cm02 i2c 256 8 400khz soic 8pin smd at24cm02 sshm b 35
-u4 u5 24lc256 i sm memoria 254k 2.5 v 8 soic bga256 bga
+091805 027601 芯片 25lc1024 i / sm / so 8w 115
+d2 m95m01 eeprom 1 mbit serial spi bus so8 m 1 5
+u4 cat24c512wi gt3 863 cat24c512wi gt3 eeprom 512kb i2c ser eeprom cat24c512wi gt3 soic 8
+78 1 56a.05 24lc1601 集成电路 24lc16bt i / sn / e2prom / 16kb / 40 85 ℃ / soic8 1 soic8 1 27 4 0 24lc16bt i / sn u23 12
+91 1 56a.05 24fc5101 集成电路 24fc512ism / e2prom / 512kb / 40 85 ℃ / soic8 1 soic8 1 27 5 28 24fc512ism u43 12
+150 56a.05 at24c101 eeprom at24c16d stum t / eeprom / sot23 / 40 85 ℃ / 16kb 1 sot23 at24c16d stum t u47 55
+89 16p8302b0 u17 s000259 ic eeprom 256kbit 1mhz 8soic at24c256c sshl b / soic 20 9 180
+89 16p8302b0 u17 s000259 ic eeprom 256kbit 1mhz 8soic at24c256c sshl b / soic 180
+q06 20020001 43 61103000460 eeprom at24cm02 i2c 256 * 8 400khz soic 8pin smd at24cm02 sshm b 35
+u4 u5 24lc256 i / sm memoria 254k 2.5 v 8 soic bga256 bga

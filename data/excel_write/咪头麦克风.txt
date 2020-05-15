@@ -1,1 +1,4 @@
+77.0 mic 1.0 cn4 3000
 sph0641lm4h dmic1 dmic mems digital pdm 5p omni 26db multi mode sph0641lm4h 423 1395 1 nd smd5 3.5 x2.65 clean near part !
+u2 ic analog microphone vcc 1.5 v 3.3 v snr 62dba freq response 100hz 15khz 3.5 mm x 2.5 mm x 0.88 mm inmp404acez r0 inmp404 inmp404
+u2 ic analog microphone vcc 1.5 v 3.3 v snr 62dba freq response 100hz 15khz 3.5 mm x 2.5 mm x 0.88 mm inmp404acez r0 inmp404 inmp404

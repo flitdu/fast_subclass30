@@ -1,10 +1,15 @@
-84 1 56a.01 88e15101 集成电路 88e1512 a0 nnp2i000 phy 通信 芯片 40 85 ℃ qfn56 2 qfn56 0 50 0808h marvell 88e1512 a0 nnp2i000 u29 u31 24
-88 1 56a.01 88e63901 集成电路 88e6390xao buk2i000 11 口 阻塞 交换 芯片 8 集成 ge phy 2 10g 口 40 85 ℃ bga361 1 bga361 0 80 17 0x17 0 h1 53 marvell 88e6390xao buk2i000 u40 12
+贴片 ic 以太网 以太网 rtl8201cp 10 / 100mbps v 3.3 v 48 pin lqfp * reltek rtl8201cp / ip101a lqfp 48 c 1 reltek 20 2000 30000
+lan8742a cz tr lan8742a cz tr small footprint rmii 10 / 100 ethernet sqfn 24 3d qfn24 4x4mm u55 25.0 350.0
+ksz8995mai ic micreal b ethernet ethernet switch controller ksz8995ma pqfp128
+giga phy ip1001 single chip 1 3000
+ic integrated 10 / 100 / 1000 mbps ethernet transceiver qfn 40 qualcomm ar8035 al1b ic2 1.0 45000.0 45002.0
+84 1 56a.01 88e15101 集成电路 88e1512 a0 nnp2i000 / phy 通信 芯片 / 40 85 ℃ / qfn56 2 qfn56 0 50 0808h marvell 88e1512 a0 nnp2i000 u29 u31 24
+88 1 56a.01 88e63901 集成电路 88e6390xao buk2i000 / 11 口 阻塞 交换 芯片 8 集成 ge phy 2 10g 口 / 40 85 ℃ / bga361 1 bga361 0 80 17 0x17 0 h1 53 marvell 88e6390xao buk2i000 u40 12
 q06 20020001 85 63207000030 lan 网络 芯片 dp83848 1transceiver wqfn40 40pin smd dp83848ksq 70
 q06 20020001 86 63207000100 lan 网络 芯片 dp83849ivs 以太网 收发器 3.0 3.3 v 100mbps tqfp80 80pin smd dp83849ivs 180
-hx1198nl soic16 9.53 10 100base t single portsurface mount magnetics
-w5200 qfn48 tcp ip ethernet controller
-u9 enc624j600 10 100 ethernet controller tqfp 64 10x10x1 enc624j600 i pt
-u3 ic tcp mac phy spi 10 100 48lqfp digi key 1278 1021 nd
-lan8720a cp 10 100 1port ethernet rmii phy 24p qfn e lan8720a cp 24qfn e
-lan8720a cp u12 10 100 1port ethernet rmii phy 24p qfn e lan8720a cp lan8720a cp dkr nd 24qfn e
+hx1198nl soic16 9.53 10 / 100base t single portsurface mount magnetics
+w5200 qfn48 tcp / ip ethernet controller
+u9 enc624j600 10 / 100 ethernet controller tqfp 64 10x10x1 enc624j600 i / pt
+u3 ic tcp mac phy spi 10 / 100 48lqfp digi key 1278 1021 nd
+lan8720a cp 10 / 100 1port ethernet rmii phy 24p qfn e lan8720a cp 24qfn e
+lan8720a cp u12 10 / 100 1port ethernet rmii phy 24p qfn e lan8720a cp lan8720a cp dkr nd 24qfn e

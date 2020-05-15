@@ -1,3 +1,16 @@
+analog swithc u4 74hc4053bq 16 vfqfn 74hc4053bq 115 nexperia usa inc 510
+74hc14 so 14 3.9 mm 芯片
+74hc11 so 14 3.9 mm 芯片
+74hc245d soic 20 7.2 mm 芯片
+74lv245 soic 20 7.2 mm 芯片
+u2 u6 集成电路 ic 74lvc139 dual 2 to 4 decoder lvc sn74lvc139apwr 2 2240
+u7 集成电路 ic 74hc251 mux 8 to 1 hc sn74hc251pwr 1 1120
+贴片 芯片 cd74hct27m so14 cd74hct27m 735
+集成 ic high speed cmos logic quad 2 and gate ± 20ma 55 to 125 ° c cd74hc08m soic 14 20
+集成 ic high speed cmos logic quad b uf fer three state ± 20ma 55 to 125 ° c cd74hc126m soic 14 10
+集成 ic high speed cmos logic quad 2 nand gate ± 20ma 55 to 125 ° c cd74hct00m soic 14 10
+d3 d4 六非门 带 触发器 sn74lv14a 2 10
+ic octal d transp latch 20tssop 74hct573pw 118 sop 400
 74alvc164245dgg hex bus dual supply transceiver tssop48 0 5.0 0.0
 sn74avc2t45dcute dual bit dual supply bus transceiver soic8 050 farnell 1053505 0.41 6.0 0.0
 sn74lvc245apw octal transceiver tssop20 farnell 1105934 1.16 6.0 0.0
@@ -6,11 +19,8 @@ u5 ic single b uf fer od sot 23 5 sn74lvc1g07dbvr 296 8485 1 nd
 296 1062 1 nd ic sn74ac574dwr sn74hc574 soicw20
 74fct162245 ic 16 bit bidir transcvr 48 ssop pericom pi74fct162245atv pi74fct162245atv nd 1.44 u14 1
 74fct2245 ic oct bidir transceiver 20 qsop pericom pi74fct2245atq pi74fct2245atq nd 0.74 u15 1
-u7 ssop 8 295 x28 mm p065 mm 10 74lvc2g02 www2 productdetail sn74lvc2g02dctr qs sgaepimzzmtma9lbywd6zfyfphirkj8uqi2xeujhwb4% 3d
+u7 ssop 8 295 x28 mm p065 mm 10 74lvc2g02 / / www2 / productdetail / / sn74lvc2g02dctr qs sgaepimzzmtma9lbywd6zfyfphirkj8uqi2xeujhwb4% 3d
 u27 u30 u24 u25 u26 u12 u15 u16 u14 u17 u19 u18 u28 u29 u13 u23 soic 16 39 x99 mm p127 mm 160 74ahct595 old phillips or non nexperia !
-sn74lvc2g125dc sn74lvc2g125dcur
-74lvc4066 74lvc4066bq
-74lvc16t245 74lvc16t245dgg
 single schmitt trigger b uf fer sn74lvc1g17 ic sn74lvc1g17 ic sn74lvc1g17
 u15 74lvch16245azrdr bga 54 microstar junior zrd sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
 u16 74lvch16245azrdr bga 54 microstar junior zrd sig top l1 16 bit bi dir tri state bus 74lvch16245azrdr 296 16890 1 nd
@@ -19,7 +29,7 @@ u18 74lvch16245azrdr bga 54 microstar junior zrd sig top l1 16 bit bi dir tri st
 u19 74ahc273 dhvqfn20 sig top l1 octal d type flip flop 74ahc273bq 568 2506 1 nd
 u20 nc7s08 sc70 5 sig bottom l8 and gate single 2 sc 70 sn74lvc1g08dckrg4 fec 1287597
 cd74hc390e ic dual decade rip cntr 16 dip alternate packaging exists
-uc3 74hct02d nor gate soic14 1
+uc3 74hct02d nor gate soic14 1 *
 8 74ls00 so14 u1 s 14 s
 ic 74hc595 jameco 46105 0.4 cabinet
 ic 74hc165 jameco 45495 0.3 cabinet
@@ -29,9 +39,11 @@ ic10a 74hc00n 1 595 sn74hc00n 74hc00n
 74lvc1t45gw dual supply transceiver 3 state sc 88 6pin pkg 74lvc1t45gw 6 tssop
 74lvc1g07gw 1 gate non inverting b uf fers sc70 5 pkg 74lvc1g07gw 5 tssop
 sn74avc2t45dctr transceiver 2 bit dual supply 8ssop sn74avc2t45dctr 8 lssop
-74lvc1g3157gw 2 chan analog mux demux 6p sot363 74lvc1g3157gw 6 tssop
+74lvc1g3157gw 2 chan analog mux / demux 6p sot363 74lvc1g3157gw 6 tssop
 74lvc1g53dc 125 2 channel analog mux vssop 8 74lvc1g53dc vssop 8
 74lvc1g04gw single gate inverter sot23 5 74lvc1g04gw 5 tssop
 74lvc1g04gw u13 single gate inverter sot23 5 74lvc1g04gw 568 1579 6 nd 5 tssop
 74avc2t45dp u17 transceiver 2 bit dual supply 8ssop 74avc2t45dp 568 8845 1 nd 8 tssop
 74avc4td245bq u24 u26 4 bit dual supply translating transceiver dqfn16 74avc4td245bq 568 9220 1 nd dhvqfn16
+sn74avc2t45dctr u5 transceiver 2 bit dual supply 8ssop sn74avc2t45dctr 296 17232 1 nd 8 lssop
+74lvc1g3157gw u10 2 chan analog mux / demux 6p sot363 74lvc1g3157gw 568 7765 1 nd 6 tssop

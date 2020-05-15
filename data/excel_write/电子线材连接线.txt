@@ -1,2 +1,14 @@
+rf whip 64mm orange wire 22 awg ul awm 1061 alpha 3251 or equivalent wire antenna
+j1 1015 12 / 65 06 awg 12 – 8 black w / blue stripe
+j2 1015 12 / 65 60 awg 12 – 8 blue w / black stripe
+j5 1015 18 / 16 0 awg18 – 8 black
+j7 1015 20 / 10 7 awg20 – 10 violet
+j8 1015 20 / 10 9 awg20 – 8 white
+j11 1015 20 / 10 8 awg20 – 10 grey
+j12 ul 1007 24 / 7 3 antenna 64mm stranded orange 20awg wire
+j1 conn hole metal 1p awg12 awg10 pad
+j2 conn hole metal 1p awg12 awg10 pad
+j3 conn hole metal 1p awg12 awg10 pad
+j4 conn hole metal 1p awg12 awg10 pad
 9 1 a2a ee14 sv022201 排线 2510kf 5p 双头 排线 线长 10cm 1 否 用于 接口板 连接 12
 cable for sensor 15134 0802 50mm long plugs into pin 008 5.34 25.65

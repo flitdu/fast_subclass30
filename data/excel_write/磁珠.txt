@@ -1,27 +1,108 @@
-14 133726 1 be lm18eg221sn1d 磁珠 blm18eg221sn1d 220r 0603 50 n
-133687 1 be i0805k400r010 磁珠 mi0805k400r 10 40 ω 0805 301 y
-20 4b3901b0 l01 s000002 ferrite bead 1.5 kohm 0603 1ln blm18he152sn1d 磁珠 180
-32 2c6806a0 l01 s000006 indutor bead 60r ohm 0805 25% 100mhz 3a 2 leads bkp2125hs600 t taiyo 磁珠 200
-33 2c6806a0 l01 s000342 ferrite bead 2 kohm 1812 1ln fbmh4532hm202 t taiyo 磁珠 70
-21.0 2d2436a0 l01 s000276 ferrite bead 120 ohm 0805 1ln blm21bd121sn1d 磁珠 2040.0
-26 16p8301a0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 39
-27 16p8301a0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 12
-28 16p8301a0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 13
-12 1a1026j0 l01 s000027 ferrite bead 30 ohm 0805 1ln mpz2012s300a 磁珠 3815
-57 1 68a.0603 600001 磁珠 blm18ag601sn1d 磁珠 600r 0603 3 fb0603 blm18ag601sn1d fb2 fb4 fb6 36
-58 1 68a.0603 120001 磁珠 blm18kg121tn1d 磁珠 120r 0603 4 fb0603 blm18kg121tn1d fb3 fb5 fb7 fb10 48
-59 1 68a.1206 120001 磁珠 blm31pg121sn1d 磁珠 120r 1206 4 fb1206 blm31pg121sn1d fb1 fb8 fb9 fb11 48
-98 68a.0603 220001 磁珠 mpz1608s221ata00 220r 3 0603 mpz1608s221ata00 l1 l2 l22 165
-99 68a.0603 120001 磁珠 blm18kg121tn1d 120r 4 0603 blm18kg121tn1d l3 l6 l11 l23 220
-100 68a.0603 600001 磁珠 blm18ag601sn1d 600r 2 0603 blm18ag601sn1d l4 l5 110
-32 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 220 9 1980
-33 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 30 9 270
-34 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 50 9 450
-30 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d 磁珠 270
-31 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l 磁珠 450
-12 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d 磁珠 1977
+1 10 2003020001 磁珠 bead blm18pg471sn1 0603 470 ω 1a 25% b101 b102 b103 b104 b105 b106 b107 b108 b109 b110 b112 b113 b114 b115 b116 b117 b118 b119 b120 b121 b417 b418 b419 b420 b444 b445 b457 b458 28 20 0.3 b 560 dlk
+1 20 2003020003 磁珠 bead blm18gg471sn1 0603 470 ω 0.2 a 25% b111 b122 2 20 0.3 b 40 dlk
+1 30 2003020006 磁珠 bead mpz1608s101atah0 0603 100 ω 3a 25% b426 b428 b430 b436 b437 b438 b439 b440 b441 b442 b443 11 20 0.3 b 220 dlk
+1 40 2003020005 磁珠 bead nic ncb1612k480tr500f 1612 48 ω 5a 25% b433 b453 b454 3 20 0.3 b 60
+3 b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13 b14 b15 b16 ferit bead bead for jumper coil 1206 3216 matric 16.0 2444
+11 054w712114021 054 bead core green f bead 120 ohm 500ma 0402 smd mura blm15ag121sn1d 4 400
+12 054w060012031 054 bead core f bead 60 ohm 3a 0603 smd ageneral ageneral cb160808n 3a 600y 6 600
+13 054w712111031 054 beadcore f bead 120 ohm 2a 0603 smd blm18pg121sn1d 6 600
+14 054w012113031 054 beadcore f bead 120 ohm 06 a 0603 smd ageneral ageneral cb160808n 121y 8 800
+贴片 磁珠 贴片 磁珠 120 ω 100mhz blm15pg121sn1 2000ma chip 0402 40 ℃ 125 ℃ blm15pg121sn1 o402 5 100 10000 150000
+贴片 磁珠 贴片 磁珠 220 ω 100mhz blm15pg221sn1 2000ma chip 0402 40 ℃ 125 ℃ blm15ag221sn1d o402 2 40 4000 60000
+贴片 磁珠 贴片 磁珠 300 ω 100mhz blm18pg301sn1 2000ma chip 0603 40 ℃ 125 ℃ blm18pg300sn1 o603 2 40 4000 60000
+贴片 磁珠 贴片 磁珠 600 ω 100mhz blm18pg601sn1 2000ma chip 0603 40 ℃ 125 ℃ blm18pg601sn1 o603 2 40 4000 60000
+smt 电感 ind blm21ag151sn1d ind blm21ag151sn1d 2100
+磁珠 及磁环 blm18ag102sn1b blm18ag102sn1b 0603 3600
+fb1 fb2 磁珠 blm21p221sn1d ferrite chip 0805 220 ohm 100mhz 2a blm21p221sn1d 2 2240
+fb4 fb5 fb6 fb7 fb8 fb9 fb10 fb11 fb12 fb13 fb14 fb15 fb17 fb18 fb19 fb20 磁珠 cmc 90 ohm acm2012 900 2p t002 16 corp 17920
+fb16 fb21 磁珠 blm21pg221sn1d ferrite chip 0805 220 ohm 100mhz 2a blm21pg221sn1d 2 2240
+fb22 fb23 fb24 fb25 fb26 fb27 fb28 fb29 磁珠 cmc 250 ohm dlw5btm251sq2l 8 8960
+blm21pg300sn1 l3 4 l6 l9 l16 17 6 blm21p series 0805 size impedance 30 typ 3000ma blm21p series 0805 size 1200
+blm18pg330sn1d bea1 32 32 0603 size blm18p series 3000ma / 0.025 ohm 0603 blm18p series 6400
+dlw21sn900sq2 fir1 40 40 dlw21s series 0805 size 90 ohm 330ma / 50v dc 25% filter common mode choke coil wire wound type dlw21s series 40 c 85 c 8000
+z0805c101asmst kemet ferrite beads 100ohms 900ma 25% dcr 100mohms 3d ind 0805 l11 l12 l13 l14 l15 2.0 1750.0
+091803 034001 磁珠 blm15eg221sz1 / 0402 705
+磁珠 100r 100mhz 3a ± 25% fb0603 ws0a0001 1 9200 mpz1608s101a
+fb1 fb5 fb6 fb7 80r f0603 cbm160808u800t 80 ohm 100mhz 60 mohm 25 a 0603 fh / / item szlcsc / 63767 html
+fb2 fb3 fb4 120r 100mhz 2a f0603 cbm160808u121t 120 ohm 100mhz 65 mohm 2a 0603 fh / / item szlcsc / 63768 html
+磁珠 贴片 磁珠 / 75ohm 100mhz / 300ma / 0402 blm15bb750sn1b 5 5000 b1504 b1505 bead5001 r808 r809
+blm15px121sn1d ferrite bead 120 ohm 0402 1ln 2 2000
+blm15px121sn1d ferrite bead 120 ohm 0402 1ln 2 10000
+blm15hd102sn1d ferrite bead 1 kohm 0402 1ln 2 2000
+blm15hd102sn1d ferrite bead 1 kohm 0402 1ln 2 10000
+贴片 磁珠 磁珠 100r / 0603 mura bead 0603 blm18tg601tn1d z 600r 25% fb1 fb2 2 20
+600 ω ± 25% 100mhz 贴片 磁珠 fb1 fb2 0805 l 2 10
+blm31pg601sn1 chip ferrite bead for dc power line blm31 blm31pg601sn1 6000 9920 7000 1000
+blm18pg181sn1d ferrite bead 0.09 ohm 100m dc 1.5 a 180 ohm 0603 1ln l0603 blm18pg181sn1d 3000 9920 7000 1000
+fb 180 ohm 1.5 a ferrite bead l0603 blm18pg181sn1d 600 9920 7000 1000
+blm31pg121sn1l ferrite bead 120 ohm 1206 1ln l1206 blm31pg121sn1l 1200 9920 7000 1000
+czb2agtte601p ferr cb 0805 czb 600 ohm 100mhz 0.3 ohm dcr 200ma czb2a 0805 koa speer czb2agtte601p 900 9920 7000 1000
+blm41pg750sn1 blm41pg450sn1 75 ohm 100mhz blm41p 1806 blm41pg750sn1 900 9920 7000 1000
+blm18pg471sn1d ferrite bead 470 ohm 0603 1ln l0603 blm18pg471sn1d 600 9920 7000 1000
+l1 贴片 磁珠 0 ω 0603 1
+l1 l2 l3 l6 l7 600 ohm tdkmpz2012s601a ind 0805 600 ohm tdkmpz2012s601a ind 0805 5 50
+磁珠 120 100mhz l0805 1 2
+磁珠 800 / 2a l0805 2 4
+l1 贴片 磁珠 0805 600 ω 100mhz 25% 600ma r0805 l 1 5
+bead core 电感 cas jason190816 green f bead 120 ohm 550ma 0402 smd mura blm15ag121sn1d 4 2000
+磁珠 / 1k ω ± 25% 1.5 a upz2012e102 1r5tf l5 1 10
+bd2 blm18ag121sz1d 81 blm18ag121sz1d ferrite beads 0603 120ohms 500ma auto infotainment blm18 blm 18 0603
+a8 mmz2012y601bt 磁珠 b emi bead / 600 ω 25% 0.1 ω 500ma 0805
+主控 14 传感器 4 3 hcb3216k 501t30 磁珠 b emi bead hcb3216 501t30 0.5 k ω ± 25% 100m ω 3000ma 1206
+fb1 240 2384 1 nd laird products li0805h151r 10 ferrite 800ma 150 ohm 0805 smd
+a44 l01 s000344 ferrite bead 120r 0805 1ln 2508051217y0 fair rite 磁珠 40
+0603 60r 磁珠 cbg160808u600t 12000.0
+50 0402 磁珠 100r 0402 1
+51 0603 磁珠 100r 0603 1
+贴片 磁珠 1608l c blm18pg121sn1 0603 120ohm 2a 8.0 100.0
+贴片 磁珠 fbma 11 160808 601a10 0603 3030000018002 0603 1 l2
+26 贴片 磁珠 gz1608e601tf sunlord 0603 53
+ferrite bead 50 ohm 1ln 1206 hi1206t500r 10 laird 贴片 磁珠 790
+38.0 电阻 600r / 0.5 a blm18eg601sn1d 7.0
+choke 0.6 ohm 100ma 0603 * farnell blm18tg102tn1d * blm18tg102tn1d 10k reel rosh � compliant cat b l / t 8 wks fb10 fb11 fb12 fb13 fb14 fb6 fb7 fb31 fb32 fb33 fb34 11.0 495000.0 496535.0
+smd ferrite 0.03 r 3a 0805 * blm21pg121sn1d 4k reel rosh � compliant cat a l / t 8 wks � fec 244 3252rl ferrite bead fb17 fb19 fb20 fb22 fb23 fb25 fb26 fb3 fb30 9.0 405000.0 406265.0
+smd ferrite pg 0805 220r * blm21pg221sn1d 4k reel rosh � compliant cat a l / t 4 wks chip ferrite bead 0805 220r 2a rs 724 1532 fb1 fb15 fb2 fb21 fb24 fb27 fb28 fb29 fb4 fb5 fb8 fb9 fb16 13.0 585000.0 586805.0
+smd common mode usb 90r * 744231091 2k reel rosh compliant � cat a l / t 4 wks we cnsw series � p / no744231091 2k reel compliant l1 10 450000 450200
+0805 10 100mhz 额定电流 大于 400ma 0805 gz2012d100tf sunlord 固定 电感器 1153
+0805 10 100mhz 额定电流 大于 400ma 0805 gz2012d100tf sunlord 固定 电感器 615
+磁珠 3.5 1.5 6 12 90137 6000
+磁通 10.5 20 5.5 1 90138 500
+l1 blm21pg331sn1d emi filr ferri 330ohm 100mhz smd 0805 blm21pg331sn1d s ind blm21 blm21pg331sn1d
+l2 blm21pg331sn1d emi filr ferri 330ohm 100mhz smd 0805 blm21pg331sn1d s ind blm21 blm21pg331sn1d
+l3 ferri bead ind smd 0603 2a 120r blm18pg121sn1 blm18pg121sn1 s ind blm18 blm18pg121sn1d
+ferrite bead 220 ohm 0805 1ln blm21pg221sn1d 等级 d blm21pg221sn1d 100
+1 be lm18sg121tn1d 贴片 磁珠 blm18sg121tn1d / 120r 0603 15 y 0
+1 be lm18sg121tn1d 贴片 磁珠 blm18sg121tn1d / 120r 0603 6 y 0
+贴片 磁珠 mlb2012 100 f / 10r 0805 82 y
+indutor bead 60r ohm 0805 25% 100mhz 3a 2 leads bkp2125hs600 t / taiyo 贴片 磁珠 200
+ferrite bead 2 kohm 1812 1ln fbmh4532hm202 t / taiyo 磁珠 70
+fixed ind 10uh 500ma 300 mohm 0805 mlz2012n100ltd25 / 磁珠 32
+贴片 磁珠 bk1608hw121 t / 120r 0603 贴片 磁珠 bk1608hw121 t / 120r 0604 y
+贴片 磁珠 mpz1608b471ata00 / 470r 0603 贴片 磁珠 mpz1608b471ata00 / 470r 0604 y
+14 133726 1 be lm18eg221sn1d 贴片 磁珠 blm18eg221sn1d / 220r 0603 50 n
+133687 1 be i0805k400r010 贴片 磁珠 mi0805k400r 10 / 40 ω 0805 301 y
+20 4b3901b0 l01 s000002 ferrite bead 1.5 kohm 0603 1ln blm18he152sn1d / 贴片 磁珠 180
+32 2c6806a0 l01 s000006 indutor bead 60r ohm 0805 25% 100mhz 3a 2 leads bkp2125hs600 t / taiyo 贴片 磁珠 200
+33 2c6806a0 l01 s000342 ferrite bead 2 kohm 1812 1ln fbmh4532hm202 t / taiyo 磁珠 70
+21.0 2d2436a0 l01 s000276 ferrite bead 120 ohm 0805 1ln blm21bd121sn1d / 贴片 磁珠 2040.0
+26 16p8301a0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d / 贴片 磁珠 39
+27 16p8301a0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d / 贴片 磁珠 12
+28 16p8301a0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l / 磁珠 13
+12 1a1026j0 l01 s000027 ferrite bead 30 ohm 0805 1ln mpz2012s300a / 贴片 磁珠 3815
+57 1 68a.0603 600001 贴片 磁珠 blm18ag601sn1d / 磁珠 / 600r / 0603 3 fb0603 blm18ag601sn1d fb2 fb4 fb6 36
+58 1 68a.0603 120001 贴片 磁珠 blm18kg121tn1d / 磁珠 / 120r / 0603 4 fb0603 blm18kg121tn1d fb3 fb5 fb7 fb10 48
+59 1 68a.1206 120001 贴片 磁珠 blm31pg121sn1d / 磁珠 / 120r / 1206 4 fb1206 blm31pg121sn1d fb1 fb8 fb9 fb11 48
+98 68a.0603 220001 磁珠 mpz1608s221ata00 / 220r 3 0603 mpz1608s221ata00 l1 l2 l22 165
+99 68a.0603 120001 磁珠 blm18kg121tn1d / 120r 4 0603 blm18kg121tn1d l3 l6 l11 l23 220
+100 68a.0603 600001 磁珠 blm18ag601sn1d / 600r 2 0603 blm18ag601sn1d l4 l5 110
+32 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d / 贴片 磁珠 220 9 1980
+33 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d / 贴片 磁珠 30 9 270
+34 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l / 磁珠 50 9 450
+30 16p8302b0 l01 s000291 ferrite bead 600 ohm 0603 1ln blm18kg601sn1d / 贴片 磁珠 270
+31 16p8302b0 l01 s000331 ferrite bead 120 ohm 1206 1ln blm31kn121sn1l / 磁珠 450
+12 16p8302b0 l01 s000265 ferrite bead 120 ohm 0603 1ln blm18kg121tn1d / 贴片 磁珠 1977
 1 bead 0805 b1 0805 value blm21pg221sn1d blm21pg221sn1d 25 100
-磁珠 100mhz 220ohm 0603 k 1 1000.0
+贴片 磁珠 100mhz / 220ohm 0603 k 1 1000.0
 l1 13 blm31pg500sn1l ferrite chip 50 ohm 3000ma 1206 blm31pg500sn1l digi key 490 1055 1 nd 0.2
 inductor bead blm18ag121sn1d 120 ohm 100mhz
 220r 100mhz 2a emi filter 220r 100mhz l 220r 100mhz 2a 25% 0603 l 220r 100mhz 2a 25% 0603
@@ -49,3 +130,18 @@ mi0603l221r 10 fb1 fb2 fb3 fb4 fb6 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 06
 blm15ag601sn1d fb5 fb7 fb8 fb9 fb10 ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 490 1006 1 nd 600ohms 3a l0402
 blm15ag601sn1d fb1 fb2 ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 490 1006 1 nd 3a l0402
 mi0603l221r 10 fb3 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 0603 240 2558 1 nd 220ohms 2 l0603
+blm15ag601sn1d fb1 fb2 ferrite bead 600 ohm 6dcr 03 a 0402 blm15ag601sn1d 490 1006 1 nd 3a l0402
+mi0603l221r 10 fb3 fer bead smd 220 ohm 100mhz 0603 fb 220 2a 0603 240 2558 1 nd 220ohms 2 l0603
+50ohm / 100mhz sz ű r ő tekercs 93 01 70
+l2 l3 l4 l5 ferrite bead 180 ohm 100mhz 0.4 a dcr max 0.30 ohm 0402 7427927218 bead bead
+l2 l3 l4 l5 ferrite bead 180 ohm 100mhz 0.4 a dcr max 0.30 ohm 0402 7427927218 bead bead
+fb100 blm18pg221sn1 220 inductor smt 0603 ferrite bead 220 tol / 25% 1.4 a 55 degc to 125 degc
+bead ferrite 100mhz l1 0805 l1 1220.472 531.496 0.0 top
+bead ferrite 100 mhz l11 0805 l11 3602.362 618.11 90.0 top
+bead ferrite 100mhz l2 0805 l2 1885.827 377.953 0.0 top
+bead ferrite 100mhz l3 0805 l3 1960.63 1488.189 180.0 top
+bead ferrite 100mhz l4 0805 l4 1960.63 1409.449 180.0 top
+bead ferrite 100mhz l5 0805 l5 2279.528 374.016 180.0 top
+bead ferrite 100 mhz l6 0805 l6 2539.37 551.181 90.0 top
+bead ferrite 100mhz l8 0805 l8 2834.646 881.89 270.0 top
+bead ferrite 100mhz l9 0805 l9 2925.197 885.827 270.0 top

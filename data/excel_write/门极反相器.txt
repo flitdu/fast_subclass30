@@ -1,11 +1,13 @@
-33 4b3901b0 u03 s000901 ic inverter schmitt 6ch 14tssop sn74hc14pwr sop 50
-63 2c6806a0 u17 s001032 ic inverter schmitt 6ch 14soic cd74hc14m96 soic 80
-66 1 56a.30 sn74lv01 集成电路 sn74lvc32adr 4 路 逻辑 门 40 125 ℃ soic 14 2 soic14 1 27 4 0 sn74lvc32adr u3 u5 24
-69 1 56a.30 sn74lv02 集成电路 sn74lvc1g04dck 单 逻辑 门 40 125 ℃ sc70 5 3 sot23 5 065 2 2x1 4 sn74lvc1g04dck u10 u11 u12 36
-85 1 56a.30 sn74lv02 集成电路 sn74lvc1g08dbvr 单 逻辑 门 芯片 40 125 ℃ sot 23 5 3 sot23 5 095 3 0x1 8 sn74lvc1g08dbvr u30 u32 u39 36
-89 1 56a.45 sn74av01 集成电路 sn74avc2t244dqer 电平 转换 驱动器 40 85 ℃ x2son 8 1 x2son8 0 35 01401 sn74avc2t244dqer u41 12
-47 1 56a.30 sn74lv02 集成电路 sn74lvc1g04dck 单 逻辑 门 40 125 ℃ sc70 5 1 sot23 5 065 2 2x1 4 sn74lvc1g04dck u7 12
-88 16p8302b0 u16 s000790 ic gate and 1ch 2 inp sot23 5 sn74lvc1g08dbvr sot 11 9 99
+ic b uf fer non invert 5.5 v sc88 nlv27wz17dft2g on sot 24
+单通道 门 1.65 v 5.5 v 24 sn74lvc1g08dbvr sn74lvc1g08dbvr 2 sot23 5 100
+33 4b3901b0 u03 s000901 ic inverter schmitt 6ch 14tssop sn74hc14pwr / sop 50
+63 2c6806a0 u17 s001032 ic inverter schmitt 6ch 14soic cd74hc14m96 / soic 80
+66 1 56a.30 sn74lv01 集成电路 sn74lvc32adr / 4 路 逻辑 门 / 40 125 ℃ / soic 14 2 soic14 1 27 4 0 sn74lvc32adr u3 u5 24
+69 1 56a.30 sn74lv02 集成电路 sn74lvc1g04dck / 单 逻辑 门 / 40 125 ℃ / sc70 5 3 sot23 5 065 2 2x1 4 sn74lvc1g04dck u10 u11 u12 36
+85 1 56a.30 sn74lv02 集成电路 sn74lvc1g08dbvr / 单 逻辑 门 芯片 / 40 125 ℃ / sot 23 5 3 sot23 5 095 3 0x1 8 sn74lvc1g08dbvr u30 u32 u39 36
+89 1 56a.45 sn74av01 集成电路 sn74avc2t244dqer / 电平 转换 驱动器 / 40 85 ℃ / x2son 8 1 x2son8 0 35 01401 sn74avc2t244dqer u41 12
+47 1 56a.30 sn74lv02 集成电路 sn74lvc1g04dck / 单 逻辑 门 / 40 125 ℃ / sc70 5 1 sot23 5 065 2 2x1 4 sn74lvc1g04dck u7 12
+88 16p8302b0 u16 s000790 ic gate and 1ch 2 inp sot23 5 sn74lvc1g08dbvr / sot 11 9 99
 nc7sz14l6 tiny logic uhs inverter sot23 5 farnell 1182397 0.54 6.0 0.0
 nc7sz08m5 tiny logic uhs 2 and gate sot23 5 farnell 1013807 1.26 6.0 0.0
 nc7sz32m5 tiny logic uhs 2 or gate sot23 5 farnell 1013810 1.21 8.0 0.0

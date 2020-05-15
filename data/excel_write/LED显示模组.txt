@@ -1,0 +1,1 @@
+display 0 36 7 segmentos 1 digito lts 367hr 4 2005

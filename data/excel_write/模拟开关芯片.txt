@@ -1,10 +1,18 @@
-79 1 56a.05 ts5a3101 集成电路 ts5a3159dbvt 单刀 双掷 模拟开关 40 85 ℃ sot23 6 1 sot23 6 095 3 0x1 8 ts5a3159dbvt u24 12
-82 1 56a.05 max31301 集成电路 max313eue 模拟开关 4 x spst 10 ohms 40 85 ℃ tssop16 1 tssop16 0 65 4 5 max313eue u27 12
+dg201bdy so 16 芯片
+u8 nc7sb3157p6x ic mux / demux bus sw 2 1 sc70 6 on semiconductor nc7sb3157p6x nc7sb3157p6xdkr nd 650
+u12 analog switch quad spst 16 pin soic n t / r dg211bdy e3
+u12 analog switch quad spst 16 pin soic n t / r dg211bdy t1 e3
+u13 analog multiplexer single 8 1 16 pin soic n max4051acse
+u13 analog multiplexer single 8 1 16 pin soic n max4051acse t
+79 1 56a.05 ts5a3101 集成电路 ts5a3159dbvt / 单刀 双掷 模拟开关 / 40 85 ℃ / sot23 6 1 sot23 6 095 3 0x1 8 ts5a3159dbvt u24 12
+82 1 56a.05 max31301 集成电路 max313eue / 模拟开关 / 4 x spst / 10 ohms / 40 85 ℃ / tssop16 1 tssop16 0 65 4 5 max313eue u27 12
 adg712bru quad spst switches tssop16 farnell 1319261 2.59 5.0
-u4 hv2201pj g high voltage analog switch multiplexer ics lo charge 8 channel enhanced hi voltage supertex hv2201pj g 689 hv2201pj g 11.69
-u20 u31 sot 23 5 20 ts5a3167dbvr www2 productdetail ts5a3167dbvr qs sgaepimzzmtxras98ir% 252bs7bxvwbmmz1p% 2fvoobh3% 252b6iw% 3d
-ts5a3166 ts5a3166dckr
+u4 hv2201pj g high voltage analog switch / multiplexer ics lo charge 8 channel enhanced hi voltage supertex hv2201pj g 689 hv2201pj g 11.69
+u20 u31 sot 23 5 20 ts5a3167dbvr / / www2 / productdetail / / ts5a3167dbvr qs sgaepimzzmtxras98ir% 252bs7bxvwbmmz1p% 2fvoobh3% 252b6iw% 3d
 u13 adg721 mso8 sig top l1 dual spdt switch analog devices adg721brmz adg721brmz
 u7 ic dual sim card analog switch qfn16 on semiconductor fsa2567mpx digi key fsa2567mpxct nd 0.22318
 nx3dv2567gu 115 quad spdt analog swt sot1161 1 nx3dv2567gu 115 16 xfqfn
 nx3l2267gm u4 dual spdt analog swt sot1049 3 nx3l2267gm 568 5549 1 nd 10 xfqfn
+nx3l2267gu 115 u4 dual spdt analog swt sot1160 1 nx3l2267gu 115 568 8411 1 nd 10 xfqfn
+u3 ic switch quad spdt vdd 1.8 v 5.5 v bw 160mhz 20 lfcsp 4mm x 4mm adg788bcpz adg788 adg788
+u3 ic switch quad spdt vdd 1.8 v 5.5 v bw 160mhz 20 lfcsp 4mm x 4mm adg788bcpz adg788 adg788

@@ -1,33 +1,98 @@
-22 133726 1 ic aim503r30nopb 低压 差 稳压器 lp2981aim5 33 nopb sot 23 5 5 y
-40 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 diodes sot 1602
-41 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 diodes sot 1706
-43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr sot 1000.0
-46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt 1000.0
-25 4b4801a0 u16 s000865 ic reg linear 2.8 v 150ma sot23 5 tps78228ddcr sot 282
-25 6c1721b0 u16 s000057 ic reg linear adj 0.1 a sot89 3 lm317lipk sot 300
-43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr sot 1000.0
-46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt 1000.0
-48 16p8301a0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 12
-55 16p8301a0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 12
-79 16p8301a0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 12
-80 16p8301a0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 12
-81 16p8301a0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 10
-94 1 56a.20 lm111701 集成电路 lm1117imp adj nopb ldo 可调 稳压 芯片 800ma 40 85 ℃ sot223 1 sot223 4 lm1117imp adj nopb u47 12
-161 56a.20 lt833501 ldo lt8335iddb pbf ldo dfn 8 40 125 ℃ 3 25v 2a 2 dfn 8 lt8335iddb pbf u63 u78 110
-162 56a.20 lt304501 ldo lt3045hdd pbf ldo dfn 10 40 125 ℃ ± 22v 500ma 2 dfn 10 lt3045hdd pbf u64 u65 110
-163 56a.20 lt309401 ldo lt3094hdd pbf ldo dfn 12 40 125 ℃ 22 0.3 v 500ma 2 dfn 12 lt3094hdd pbf u66 u67 110
-63 16p8302b0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 10 9 90
-70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 10 9 90
-79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf lt sop 10 9 90
-94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 10 9 90
-95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 20 9 180
-96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 30 9 270
-63 16p8302b0 u02 s000372 ic reg lin pos adj 2a 2a 20qfn tps7a8901rtjr qfn 90
-70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf lt sop 90
-79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf lt sop 90
-94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 90
-95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 180
-96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 270
+芯片 u1 sot 89 3 ht7833 1 ht 1 10000
+1 670 2008070034 ic ldo power linear lt1963aefe pbf tssop 16 带 散热 焊盘 u648 u650 2 20 b 40 dlk
+1 680 2008070038 ic 负压 可调 ldo linear lt3015emse pbf 1.5 a msp 12 u663 u664 2 20 b 40 dlk
+1 690 2008070039 ic ldo power linear lt3083efe pbf tssop 16 带 散热 焊盘 u665 u666 u667 u668 4 20 b 80 dlk
+稳压 ic sot89 3 lc sot 89 sot 89 3 u1
+低压 差 稳压 ldo bl8075cb5tr33 sot23 5l lc sot 23 5 bl1
+7805a 三端 稳压器 u13 to 263 3 10 1 /
+79l08 三端 稳压器 u10 sot 89 10 1 /
+78l08 三端 稳压器 u14 sot 89 10 1 /
+ams1117 3.3 三端 稳压器 u11 sot 223 10 1 /
+u tps73733 sot223 6 tps73733dcqr 500 1.8744
+贴片 ic 电源 ldo me6211c33m5g n sot23 5 me6211c33 sot 23 5 2 40 4000 60000
+贴片 ic 电源 r1524h033b t1 ae 200 ma 36 v ultra low supply current vr for automotive applications sot 89 5 smd * ricoh r1524h033b t1 ae sot 89 5 1 ricoh 20 2000 30000
+ams1117 3.3 ams1117 芯片
+贴片 ic ap2210k 3.3 trg1 ic reg linear 3.3 v 300ma sot23 5 diodes incorporated ap2210k 3.3 trg1 diodes incorporated 1050
+ldo 电源 芯片 tlv73333pdbvr u2 sot 23 5 1.0 1000
+lm317aemp u37 u42 2 sot 223 vi vo 3v 40v io 1a regulator adjustable regulator ns mp04a ns 400
+贴片 稳压器 cj78l12 sot 89 3l cj78l12 735
+贴片 稳压器 cj79l12 sot 89 3l cj79l12 735
+贴片 稳压器 as1117m3 3.3 v sot 223 as1117m3 3.3 v alpha 735
+贴片 三端 稳压器 1.5 a 5v cj7805 to 252 2l cj7805 235
+贴片 三端 稳压器 alpha as1117m3 3.3 v sot 223 as1117m3 3.3 v alpha 125
+78l05 sot 89 u4 u5 2 20 cj78l05
+lm1117mpx 3.3 800 ma low dropout linear regulator with internal current limit 4 sot 223 zz311 u77 u78 4.0 700.0
+lm1117mpx 5.0 / nopb 800ma low dropout positive regulator5v zz311 u7 u13 u19 u25 u31 u65 4.0 2100.0
+u5 ic power ic reg linear 3.3 v 800ma sot223 diodes az1117ch2 3.3 trg1 az1117ch2 3.3 trg1 nd to223 780
+lm1117mpx 3.3 800 ma low dropout linear regulator with internal current limit 4 sot 223 zz311 u77 u78 4.0 700.0
+lm1117mpx 5.0 / nopb 800ma low dropout positive regulator5v zz311 u7 u13 u19 u25 u31 u65 4.0 2100.0
+电源 on semiconductor 300ma 40 to 125 ° c mc33275st − 3.3 t3g on semiconductor sot 223 10
+3.3 ldo ldo / vout 3.3 v / imax 300ma / sot23 5 / 2.8 * 1.6 * 1.2 mm sgm2036 3.3 yn5g / tr 启攀微 1 1000 u2006
+ic1 lm1117 5v lm1117impx 3.3 lm1117impx 3.3 sot223 20
+ic4 lm1117 3v3 lm1117impx 3.3 lm1117impx 3.3 sot223 20
+ncp161amx330tbg ic reg linear 3.3 v 450ma 4xdfn on semiconductor 1 1000
+ncp161amx330tbg ic reg linear 3.3 v 450ma 4xdfn on semiconductor 1 5000
+ic reg ldo 800ma 5.0 v to220 3 u2 lm1117t 5.0 nd national semiconductor lm1117t 5.0 / nopb each
+ic reg ldo 800ma 3.3 v to 252 u3 lm1117dt 3.3 nd national semiconductor lm1117dt 3.3 / nopb each
+ic reg ldo 800ma 5.0 v to 252 u8 lm1117dt 5.0 nd national semiconductor lm1117dt 5.0 / nopb each
+ic ldo voltage regulator 15v 3.3 v 800ma dpak ld1117dt33ctr e 絡盟 1261189 ld1117dt33ctr
+ams1117 3.3 linear regulator 3v3 sot 223 170.0
+u1 reg104ga a 595 reg104ga a ldo voltage regulators dmos 1a low dropout regulator reg104ga a sot 223 6pin
+da3 mic29302wu tr technology linear voltage regulator ic positive adjustable 1 1.25 v 26 v 3a to 263 5
+az1117d 3.3 tre1 ic diodes a voltage regulator az1117 fixed ldo 3.3 v 0.8 a to 252
+az1117d 1.8 tre1 ic dioes a voltage regulator az1117 fixed ldo 1.8 v 0.8 a to 252
+ldo vo adj vfb 1.2 v 1a lf 1 3000
+ldo vo adj 300ma lf 1 3000
+ic reg linear 5v 30ma sct595 5 tle4296gv50htsa1 infineon 6
+5.0 ldo rt9193 33 sot23 5 3.3 v 1.0 u4 3000
+tlv70218 sot23 5 sot 23 5 tlv70218dbvt 300 ma low dropout voltage regulator fixed 1.8 v sot 23 5 100
+tlv70225 sot23 5 sot 23 5 tlv70225dbvt 300 ma low dropout voltage regulator fixed 2.5 v sot 23 5 100
+低压 差 稳压器 3.3 v 0.8 a positive dpak 3 ld1117dt33tr dpak 400
+regulator 3v3 250ma sot89 * mcp1700t 3302e / mb 1k reel � compliant cat b l / t 8 wks icspr7199 � or fec 143 9380 top marking cs nnnn cs 3.3 v sot89 ic8 1.0 45000.0 45002.0
+ap2210n 3.3 trg1 ldo voltage regulators 300ma 3.3 v 9000
+regulador de tensao sot235 3.3 v / 100ma ld2981cm33tr 1 510
+regulador de tensao dpak 10v 500ma l78m10abdt tr 1 510
+regulador de tensao so8 24v 0.1 a 511 l78l24cd tr 1 510
+vr1 ldo regulator pos 3.3 v 0.05 a 5 pin sot 23 t / r lp2980im5 3.3 / nopb
+u4 ldo regulator pos 1.24 v to 29v 0.1 a 8 pin soic rail lp2951acm / nopb
+u4 ldo regulator pos 1.24 v to 29v 0.1 a 8 pin soic rail lp2951acmx / nopb
+线性电路 稳压器 max.20 v sot 223 3 lm1117impx 3.3 lm1117impx 3.3 3 sot 223 150
+1.45 v 5.5 v 1.8 v 1a sot23 5 tlv75718pdbvr tlv75718pdbvr 1 sot23 5 50
+1.45 v 5.5 v 2.8 v 1a sot23 5 tlv75728pdbvr tlv75728pdbvr 1 sot23 5 50
+u7 mc78m05cdt 5.0 v 500ma linear positive voltage regulator dpak 3 mc78m05 s d2pak on semi mc78m05cdt
+u8 ldln030 300ma 3.3 v ultra low noise ldo 1.6 v / 5.5 vin tsot23 5l ldln030g33r s tsot 23 5 stm ld39020tpu33r
+u43 ldl1117s50r sot 223 5v ldo y ldl1117s50r
+低压 差 稳压器 mcp1824t 3302e / ot / sot 23 5 80 y
+22 133726 1 ic aim503r30nopb 低压 差 稳压器 lp2981aim5 33 / nopb / sot 23 5 5 y
+40 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 / diodes sot 1602
+41 2d2433a0 u16 s000551 ic reg linear 5v 150ma sot23 5 ap2204k 5.0 trg1 / diodes sot 1706
+43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr / sot 1000.0
+46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt / 1000.0
+25 4b4801a0 u16 s000865 ic reg linear 2.8 v 150ma sot23 5 tps78228ddcr / sot 282
+25 6c1721b0 u16 s000057 ic reg linear adj 0.1 a sot89 3 lm317lipk / sot 300
+43.0 2d2436a0 u16 s000322 ic reg linear 3.3 v 100ma sot23 5 tps76933dbvr / sot 1000.0
+46.0 2d2436a0 u20 s000062 ic reg ldo 5v 0.5 a to252 3 mc78m05cdt / 1000.0
+48 16p8301a0 u02 s000372 ic reg lin pos adj 2a / 2a 20qfn tps7a8901rtjr / qfn 12
+55 16p8301a0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf / lt sop 12
+79 16p8301a0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 / 12
+80 16p8301a0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 / 12
+81 16p8301a0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 / 10
+94 1 56a.20 lm111701 集成电路 lm1117imp adj / nopb / ldo 可调 稳压 芯片 / 800ma / 40 85 ℃ / sot223 1 sot223 4 lm1117imp adj / nopb u47 12
+161 56a.20 lt833501 ldo lt8335iddb pbf / ldo / dfn 8 / 40 125 ℃ / 3 25v / 2a 2 dfn 8 lt8335iddb pbf u63 u78 110
+162 56a.20 lt304501 ldo lt3045hdd pbf / ldo / dfn 10 / 40 125 ℃ / ± 22v / 500ma 2 dfn 10 lt3045hdd pbf u64 u65 110
+163 56a.20 lt309401 ldo lt3094hdd pbf / ldo / dfn 12 / 40 125 ℃ / 22 0.3 v / 500ma 2 dfn 12 lt3094hdd pbf u66 u67 110
+63 16p8302b0 u02 s000372 ic reg lin pos adj 2a / 2a 20qfn tps7a8901rtjr / qfn 10 9 90
+70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf / lt sop 10 9 90
+79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf / lt sop 10 9 90
+94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 / 10 9 90
+95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 / 20 9 180
+96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 / 30 9 270
+63 16p8302b0 u02 s000372 ic reg lin pos adj 2a / 2a 20qfn tps7a8901rtjr / qfn 90
+70 16p8302b0 u03 s000835 ic reg lin neg adj 1.5 a 16tssop lt3091efe pbf / lt sop 90
+79 16p8302b0 u03 s000844 ic reg linear pos adj 3a 16tssop lt1764aefe pbf / lt sop 90
+94 16p8302b0 u20 s000142 ic reg linear 5v 500ma 8lfcsp adm7170acpz 5.0 r7 / 90
+95 16p8302b0 u20 s000143 ic reg linear pos adj 2a 8lfcsp adm7172acpz r7 / 180
+96 16p8302b0 u20 s000144 ic reg linear 5v 2a 8lfcsp adm7172acpz 5.0 r7 / 270
 mic68220yml dual 2a ldo regulator son50p 576 1612 2 nd 3.2 6.0 0.0
 ncp5663dsadjr4g low voltage adj regulator d2pak 0 98.0 0.0
 lt1764aeq 2.5 v ldo linear regulator 2.5 v 3a d2pack aertronica lt1764aeq 2.5 v 7 96.0 0.0
@@ -43,14 +108,14 @@ aic1117adj voltage regulator sot223 1
 icp 1a 24v fixed positive regulator to220 863 mc7824btg mc7824btgos nd
 ich lm2595 adjustable switch reg to 220 5 lm2595t adj nd bent and staggered or straight leads
 497 6447 1 nd ic reg ldo 5v 950ma sot 223 ic ld1117a semi sot223
-u1 u2 u3 u32 sot 23 5 40 lp5907 33 www2 productdetail lp5907mfx 33 nopb qs sgaepimzzmsgz1a6av8dchd1yzolgfo2xmtn9zkmxma% 3d
-u4 sot 223 3 tabpin2 10 lm2940 50 www2 productdetail lm2940imp 50 nopb qs sgaepimzzmsgz1a6av8dccerhzhpu4lvtaqk5cz7rum% 3d
-u5 u6 htsop 8 1ep 39 x49 mm p127 mm thermalvias 20 adp7118ardz 50 r7 www2 productdetail analog devices linear technology adp7118ardz 50 r7 qs sgaepimzzmsgz1a6av8dcc5ezl% 252bqxmyljsmt5d% 252bum7g% 3d
+u1 u2 u3 u32 sot 23 5 40 lp5907 33 / / www2 / productdetail / / lp5907mfx 33 nopb qs sgaepimzzmsgz1a6av8dchd1yzolgfo2xmtn9zkmxma% 3d
+u4 sot 223 3 tabpin2 10 lm2940 50 / / www2 / productdetail / / lm2940imp 50 nopb qs sgaepimzzmsgz1a6av8dccerhzhpu4lvtaqk5cz7rum% 3d
+u5 u6 htsop 8 1ep 39 x49 mm p127 mm thermalvias 20 adp7118ardz 50 r7 / / www2 / productdetail / analog devices linear technology / adp7118ardz 50 r7 qs sgaepimzzmsgz1a6av8dcc5ezl% 252bqxmyljsmt5d% 252bum7g% 3d
 ic8 ic9 ic10 ic16 ic17 ic1000 tps76801qpwp 1a low dropout voltage regulator fast transient reponse sop20 65p640x120 21n r240x338
 ic14 ucc283 5 ucc283tdkttt 5 to263 3
 ic2 ic reg adj 3 term sot 223 4 lm317mdcyr 296 12631 1 nd 0.8 0.45
 ic6 ic reg pos 0.5 a adj volt dpak lm317mdtx lm317mdtxfsct nd 0.48 0.27
-lm4040cim3 3.0 national lm4040cim3 3.0 nopb
+lm4040cim3 3.0 national lm4040cim3 3.0 / nopb
 lp3982ild adj national semiconductor lp3982ildx adj
 ic module power supply 78m05 to 252 three terminal positive voltage regulator 0.5 a 5v
 ams1117 5v sot223 1a low dropout linear regulator 5v
@@ -60,11 +125,11 @@ mic5205 sot23 5 150ma low noise ldo regulator
 ncp511sn33t1g ldo regulator ncp511sn33t1g ic on ncp511sn33t1g ic on ncp511sn33t1g
 lt1963aes8 1.8 linear technology ic ldo reg lonois 1.5 a 1.8 v8soic 8 soic 1
 lt1584ct 3.3 linear technology ic ldo regulator 7a 3.3 v to220 3 to 220 1
-u3 linear voltage regulator ic p 5 v 250 ma mcp1703t 5002e mc
-u90 5.0 v 250 ma dfn mcp1703t 5002e mc
-u3 linear regulator mcp1703t 5002e mc mcp1703t 5002e mc
-u1 ic regulator ldo 5 v 0.25 a 8dfn mcp1703t 5002e mc
-u2 ic regulator ldo 3.3 v 0.25 a 8dfn mcp1703t 3302e mc
+u3 linear voltage regulator ic p 5 v 250 ma mcp1703t 5002e / mc
+u90 5.0 v 250 ma dfn mcp1703t 5002e / mc
+u3 linear regulator mcp1703t 5002e / mc mcp1703t 5002e / mc
+u1 ic regulator ldo 5 v 0.25 a 8dfn mcp1703t 5002e / mc
+u2 ic regulator ldo 3.3 v 0.25 a 8dfn mcp1703t 3302e / mc
 lm2940imp 5.0 sot223 u1 mic2954 03ws tr 576 1154 1 nd
 lt1117 3.3 az1086h 3.3 to 223 u3 ldo az1086h 3.3
 ldo1 mic5209 3.3 ys tr ic reg 3.3 v ldo sot223 3.3 v ldo
@@ -73,22 +138,22 @@ u3 adp1741acpz lfcsp 16 4mm 0.75 v to 3.0 v adj low dropout linear regulator ana
 u5 adp7102ardz 3.3 so8nb rd8 2 linear regulator 3.3 v 20v 300ma ultralow noise cmos analog devices adp7102ardz 3.3 adp7102ardz 3.3 r7
 lt1963aes8 1.8 linear technology ic ldo reg lonois 1.5 a 1.8 v8soic 8 soic 1
 lt1584ct 3.3 linear technology ic ldo regulator 7a 3.3 v to220 3 to 220 1
-u7 500ma 3.3 v ldo with shutdown sot 223 5 mcp1825t 3302e dc
-lm2937 u701 lm2937imp 3.3 nopb national semiconductor ic reg 400ma sot223 3
+u7 500ma 3.3 v ldo with shutdown sot 223 5 mcp1825t 3302e / dc
+lm2937 u701 lm2937imp 3.3 / nopb national semiconductor ic reg 400ma sot223 3
 semiconductor lm7805ct ic reg 1a pos 5v to 220
-v3 mcp1826s 2502e to 261aa ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e db mcp1826s 2502e db nd
-v1 2 mcp1826t adje sot 223 6 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje dc mcp1826t adje dcct nd
-v3 mcp1826s 2502e sot233 3 ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e db mcp1826s 2502e db nd
-v1 2 mcp1826t adje sot 223 5 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje dc mcp1826t adje dcct nd
+v3 mcp1826s 2502e to 261aa ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e / db mcp1826s 2502e / db nd
+v1 2 mcp1826t adje sot 223 6 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje / dc mcp1826t adje / dcct nd
+v3 mcp1826s 2502e sot233 3 ic ldo reg 1a 2.5 v sot223 3 technology mcp1826s 2502e / db mcp1826s 2502e / db nd
+v1 2 mcp1826t adje sot 223 5 ic ldo reg 1a adj v sot223 5 technology mcp1826t adje / dc mcp1826t adje / dcct nd
 u120 ic ldo fixed 33 v 1a 6vin max ceramic stable sot 223 diodes inc ap2114h 33 trg1 digi key ap2114h 33 trg1dict nd 01305
 xl4016e1 u3 to 220 5pin l10.67 w4.83 pitch1.70 l 1 xl4016e1 xlsemi lcsc c55881
-25 andard regulator neg 5v 1.5 a 3 pin 3 tab to 220 tube l7905c v 1000 50 tube
-26 andard regulator pos 15v 1.5 a 3 pin 3 tab to 220 tube l7815cv 1100 50 tube
-ic lm2937 3.3 v regulator to220 500ma lm2937et 3.3 nopb lm2937et 3.3 nd 1.17 lm2937 3.3 cabinet
+25 andard regulator neg 5v 1.5 a 3 pin 3 tab to 220 tube l7905c v 1000 50 / tube
+26 andard regulator pos 15v 1.5 a 3 pin 3 tab to 220 tube l7815cv 1100 50 / tube
+ic lm2937 3.3 v regulator to220 500ma lm2937et 3.3 / nopb lm2937et 3.3 nd 1.17 lm2937 3.3 cabinet
 ic lp2950 3.3 v regulator 100 ma to 92 lp2950 33lpre3 296 31455 1 nd 0.19 lp2950 cz 3.3 cabinet
 ic 78m05 500ma 5v to 220 regulator national lm78m05 jameco 192233 0.19 lm7805ct cabinet
 ic1 7812tv 1 511 l7812cv l7812 to 220
-ic3 lm2596t 1 926 lm2596t adj nopb lm2596t to 220
+ic3 lm2596t 1 926 lm2596t adj / nopb lm2596t to 220
 ic5 mc78m12ct 1 863 mc78m12ctg mc78m12ct to 220
 ic1 78l08 8v regulator to 92 note silkscreen is backwards load the opposite of silkscreen ie 180 degrees mc78l08acpg 863 mc78l08acpg 0.37 1 0.37
 xc6227c331pr g vreg 3.3 v fixed sot 89 5 xc6227c331pr g 3.3 sot89 5
@@ -98,3 +163,10 @@ tlv70233dbvr u6 u8 ic vreg ldo 3.3 v 300ma sot23 5 tlv70233dbvr 296 32415 2 nd 3
 ap2114h 3.3 trg1 u7 ic vreg ldo 3.3 v 1a reg sot223 ap2114h 3.3 trg1 ap2114h 3.3 trg1dict nd sot223
 tlv70233dbvr u11 ic vreg ldo 3.3 v 300ma sot23 5 tlv70233dbvr 296 32415 2 nd 300ma sot23 5
 xc6227c331pr g u12 vreg 3.3 v fixed sot 89 5 xc6227c331pr g 893 1175 1 nd 3.3 sot89 5
+ld6836td / 33h u12 ic vreg ldo 3.3 v 300ma sot23 5 ld6836td / 33h 125 568 10079 1 nd 300ma 5 tsop
+xc6227c331pr g u13 vreg 3.3 v fixed sot 89 5 xc6227c331pr g 893 1175 1 nd 3.3 sot89 5
+lm317 32 03 95
+u3 u5 max8559et ldo max8559 jla max8559et max8559etaaa max8559etaaa
+u102 u104 max8512exk max8512exk ic vreg ultra low noise high psrr adjustable vout sc70 5
+ld3985m33r ic 3.3 v ld3985m33r sot23 5l x3 code 9176161 u1 smt
+tl750m05ckcse3 ic ldo reg pos volt 5v to220 3 ic2 1 296 21594 5 nd

@@ -1,11 +1,43 @@
-167 56a.72 tpd4e001 esd 保护 tpd4e05u06qdqarq1 esd 保护 uson 10 40 125 ℃ 4channel 15kv 2 uson 10 tpd4e05u06qdqarq1 u73 u74 110
-q06 20020001 19 60405000460 esd 保护 二极管 nup4202 5v 0.1 a 500w sc88 6pin smd on nup4202w1t2g 140
-管 esd5b5.0 st1g 工作电压 5v 50w esd ± 30kv air ± 16kv 32pf sod 523 esd5b5.0 st1g sod 523 on 13 13000.0
+管 cesdlc5v0m5 sot 563 sot 563 u1
+管 sod 323 pesdhc3d3v3u smd sod 323 sod 323 d1
+贴片 管 esda0603 09 esd0603 0603 esd1 esd2
+u prtr5v0u2x sot143 prtr5v0u2x yenji 500 0.31021
+贴片 esd 贴片 esd protect 0402 esd9b5vl 2 / tr smt * willsemi esd9b5vl 2 / tr o402 10 willsemi 200 20000 300000
+esd 保护 二极管 ds9503 tsoc6 ds9503 490
+u2 ic ic usb switch usblc6 4sc6 497 4492 6 nd sot 23 650
+esdcan02 2bwy esd suppressors / tvs diodes automotive dual line transil 3d sm712 d95 d96 3.0 700.0
+usblc6 4sc6 esd suppressors / tvs diodes low cap esd protec sot23 6 u54 6.0 350.0
+d1 srv05 4 tct sot 26 srv05 4 峰值 脉冲电流 12a 钳位 15v 击穿 6v 管 端 5v leiditech 雷卯 / / item szlcsc / 358584 html
+贴片 esd esd cd esd sod 523 esdbvd5v0d5 d1 d2 d3 d4 4 40
+pgb1010603nr esd suppressors 0603 0603 littlefuse pgb1010603nr 3300 9920 7000 1000
+l12esdl5v0c6 4 esd protection sot23 6 lite on semiconductor l12esdl5v0c6 4 900 9920 7000 1000
+01 ab zd d5301n esd esd 管 willsemi esd5301n protect high speed data stand off voltage 5v max ± 20kv and air discharge dfn1006 2l 4 480 esd5301n esd0402 wilisem
+01 ab zd d9b5vl esd esd 管 willsemi esd9b5vl reverse stand off voltage ± 5v max ± 20kv and air discharge fbp 02c 4 480 esd9b5vl esd0402 wilisem
+01 ab zd000011 esd esd5471x 2 / tr 8 960 esd5471x 2 / tr esd0402 willsemi
+01 ab zd d5451n esd esd 管 willsemi esd5451n reverse stand off voltage ± 5v max ± 30kv and air discharge dfn1006 2l 10 1200 esd5451n esd0402 willasemi
+51 ej e1040205 esd 管 esd ega10402v05ah inpaq ega10402v05ah 900 bpesd0402 05st born 900 3 0071381
+diode 二极管 cas jason190816 esd array tvs diode pdwl050019 sot nichtek pdwl050019 sot236 8 4000
+vd2 tpd6e004rser esd suppressors / tvs diodes lo cap 4ch / 15 kv esd prot array uqfn 8
+uad8c05l01 tip sod828 esd 保护 二极管 d1 d2 d15 d16 d31 d32 4 80
+102 esd 管 cesdblc5v0d5 d0603 1
+esd 0402d cg0402mlc 3.3 lga 2.0 20.0
+29001 esda6v8ul / azc199 02s sot23 17 1700
+29002 esd5451n 双向 esd 管 8kv e0402o 4 400
+esd esda6v1w5 1.0 50.0 50.0 smt sot323 5l
+esd msqa6v1w5t2g on semi 50.0 0.0 smt sot323 5l
+esd um5202eedf union semi 4.0 50.0 200.0 smt sot143
+esd uet14a05l03 brightking 50.0 0.0 smt sot143
+pesd5v0u1ub sot523 * pesd5v0u1ub 115 3k reel rosh � compliant cat c l / t 10 wks non std � part 4 reels moq 12k sot523 package marking la rs 725 8792 ts1 ts4 2.0 90000.0 90005.0
+smd esd protection * prtr5v0u2x 215 3k reel rosh � compliant cat b l / t 4 wks fec 152 4157rl marking * r1 where * is p t or w sot143b package ts2 1.0 45000.0 45050.0
+esd 器件 / 15kv air / 10kv / 5v / 05 pf az1045 04f r7g az1045 04f r7g amazing 晶焱 4 slp2510p8 200
+167 56a.72 tpd4e001 esd 保护 tpd4e05u06qdqarq1 / esd 保护 / uson 10 / 40 125 ℃ / 4channel / 15kv 2 uson 10 tpd4e05u06qdqarq1 u73 u74 110
+q06 20020001 19 60405000460 esd 保护 二极管 nup4202 5v / 0.1 a / 500w sc88 6pin smd on nup4202w1t2g 140
+贴片 管 esd5b5.0 st1g 工作电压 5v 50w esd ± 30kv air ± 16kv 32pf sod 523 esd5b5.0 st1g sod 523 on 13 13000.0
 ip4220cz6 semiconductors ip4220cz6 125
 tpdxeusb30 2 4 channel esd protection tpd2eusb30drtr tpd2eusb30drtr tpd2eusb30drtr
 bidirectional esd protection smaj30ca d smaj30ca schottky d smaj30ca schottky
-d1 diode esd r0603 sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
-d2 diode esd r0603 sig bottom l8 esd tvd protection diode littlefuse pgb1010603 fec 1611481 576 pgb1010603mr
+d1 diode esd r0603 sig bottom l8 esd / tvd protection diode littlefuse pgb1010603 fec 1611481 / 576 pgb1010603mr
+d2 diode esd r0603 sig bottom l8 esd / tvd protection diode littlefuse pgb1010603 fec 1611481 / 576 pgb1010603mr
 652 cdsod323 t05lc d9 sod323 652 cdsod323 t05lc
 prtr5v0u2x ultra low cap double rail esd protection diode prtr5v0u2x smt sot143b
 pesd5v0s2bt d1 d4 dual bi dir esd protection diode 0.05 pf sot23 pesd5v0s2bt 568 4056 1 nd 5 sot23

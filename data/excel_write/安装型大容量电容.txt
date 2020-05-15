@@ -1,101 +1,109 @@
-8386 電解 電容 電容 2 pin 330 uf 400v 85 25x46mm tk 4
-8387 hp3 電解 電容 電容 2 pin 330 uf 400v 85 25x45mm 日立 hitachi 5
-8392 ls m 電解 電容 電容 2 pin 3900 uf 35v 85 22x26mm nichicon 16
-8396 ce m 電解 電容 電容 2 pin 330 uf 400v 105 25x45mm 4
-8398 ls m 電解 電容 電容 2 pin 3300 uf 80v 85 22x45mm nichicon 18
-15431 電解 電容 電容 2 pin 220 uf 400v 105 25x40mm stone 418
-15501 電解 電容 電容 lp vent 2 pin 560 uf 220v 85 ° c 22x41mm capxon 87
-15506 電解 電容 電容 lp vent 2 pin 820 uf 200v 85 ° c 22x51mm capxon 45
-15507 電解 電容 電容 gn m 2 pin 330 uf 2 50v 105 ° c 20x35mm nichicon 19
-15508 電解 電容 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 35x26mm capxon 26
-15508 a 電解 電容 電容 hs vent 2 pin 220 uf 4 50v 105 ° c 35x27mm capxon 13
-15511 電解 電容 電容 lp vent 2 pin 150 uf 4 50v 85 ° c 25x41mm capxon 6
-15515 電解 電容 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 30x37mm capxon 9
-15516 電解 電容 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 5
-15517 電解 電容 電容 lp vent 2 pin 220 uf 4 50v 85 ° c 25x41mm capxon 7
-15518 電解 電容 電容 lp vent 2 pin 420 uf 420v 85 ° c 30x47mm capxon 50
-15519 電解 電容 電容 sph 2 pin 180 uf 4 50v 105 ° c 30x31mm ost 30
-15520 電解 電容 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 8
-15520 a 電解 電容 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 10
-15522 電解 電容 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 25x46mm capxon 11
-15523 電解 電容 電容 lp vent 2 pin 330 uf 2 50v 85 ° c 22x36mm capxon 10
-15524 電解 電容 電容 lp vent 2 pin 270 uf 420v 85 ° c 30x42mm capxon 8
-15525 電解 電容 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 4
-15526 電解 電容 電容 hp vent 2 pin 390 uf 420v 105 ° c 30x42mm capxon 10
-15527 電解 電容 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 30x32mm capxon 10
-15528 電解 電容 電容 hl vent 2 pin 330 uf 4 50v 105 ° c 25x56mm capxon 6
-15528 a 電解 電容 電容 lp vent 2 pin 330 uf 4 50v 85 ° c 30x42mm capxon 1
-15529 電解 電容 電容 sph 2 pin 150 uf 4 50v 105 ° c 22x41mm ost 28
-15530 電解 電容 電容 sph 2 pin 150 uf 420v 105 ° c 22x36mm ost 12
-15530 a 電解 電容 電容 sps 2 pin 150 uf 400v 85 ° c 22x36mm ost 16
-15530 b 電解 電容 電容 sps 2 pin 150 uf 420v 85 ° c 22x36mm ost 3
-15531 電解 電容 電容 lp vent 2 pin 220 uf 420v 85 ° c 25x46mm capxon 21
-15532 電解 電容 電容 hp vent 2 pin 420 uf 420v 105 ° c 30x57mm capxon 10
-15581 電解 電容 電容 2 pin 4700 uf 80v 85 30x39mm nippon 4
-15596 電解 電容 電容 2 pin 180 uf 4 50v 85 29x31mm ost 13
-15597 電解 電容 電容 2 pin 220 uf 400v 85 20x40mm ost 20
-15598 電解 電容 電容 2 pin 150 uf 4 50v 85 25x35mm capxon 6
-15831 電解 電容 電容 hp vent 2 pin 180 uf 4 50v 105 30x27mm capxon 10
-15833 電解 電容 電容 hu 2 pin 220 uf 4 50v 105 22x50mm hitachi 4
-15834 電解 電容 電容 hu 2 pin 470 uf 420v 105 30x46mm hitachi 5
-15835 電解 電容 電容 lp vent 2 pin 330 uf 400v 85 25x52mm capxon 6
-15839 電解 電容 電容 hs vent 2 pin 180 uf 400v 105 25x36mm capxon 8
-15841 電解 電容 電容 sps 2 pin 220 uf 400v 85 25x41mm ost 12
+8386 電解 電容 牛角 電容 2 pin 330 uf 400v 85 25x46mm tk 4
+8387 hp3 電解 電容 牛角 電容 2 pin 330 uf 400v 85 25x45mm 日立 hitachi 5
+8392 ls m 電解 電容 牛角 電容 2 pin 3900 uf 35v 85 22x26mm nichicon 16
+8396 ce m 電解 電容 牛角 電容 2 pin 330 uf 400v 105 25x45mm 4
+8398 ls m 電解 電容 牛角 電容 2 pin 3300 uf 80v 85 22x45mm nichicon 18
+15431 電解 電容 牛角 電容 2 pin 220 uf 400v 105 25x40mm stone 418
+15501 電解 電容 牛角 電容 lp vent 2 pin 560 uf 220v 85 ° c 22x41mm capxon 87
+15506 電解 電容 牛角 電容 lp vent 2 pin 820 uf 200v 85 ° c 22x51mm capxon 45
+15507 電解 電容 牛角 電容 gn m 2 pin 330 uf 2 50v 105 ° c 20x35mm nichicon 19
+15508 電解 電容 牛角 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 35x26mm capxon 26
+15508 a 電解 電容 牛角 電容 hs vent 2 pin 220 uf 4 50v 105 ° c 35x27mm capxon 13
+15511 電解 電容 牛角 電容 lp vent 2 pin 150 uf 4 50v 85 ° c 25x41mm capxon 6
+15515 電解 電容 牛角 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 30x37mm capxon 9
+15516 電解 電容 牛角 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 5
+15517 電解 電容 牛角 電容 lp vent 2 pin 220 uf 4 50v 85 ° c 25x41mm capxon 7
+15518 電解 電容 牛角 電容 lp vent 2 pin 420 uf 420v 85 ° c 30x47mm capxon 50
+15519 電解 電容 牛角 電容 sph 2 pin 180 uf 4 50v 105 ° c 30x31mm ost 30
+15520 電解 電容 牛角 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 8
+15520 a 電解 電容 牛角 電容 lp vent 2 pin 180 uf 4 50v 85 ° c 25x41mm capxon 10
+15522 電解 電容 牛角 電容 hp vent 2 pin 220 uf 4 50v 105 ° c 25x46mm capxon 11
+15523 電解 電容 牛角 電容 lp vent 2 pin 330 uf 2 50v 85 ° c 22x36mm capxon 10
+15524 電解 電容 牛角 電容 lp vent 2 pin 270 uf 420v 85 ° c 30x42mm capxon 8
+15525 電解 電容 牛角 電容 ls vent 2 pin 270 uf 4 50v 85 ° c 30x42mm capxon 4
+15526 電解 電容 牛角 電容 hp vent 2 pin 390 uf 420v 105 ° c 30x42mm capxon 10
+15527 電解 電容 牛角 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 30x32mm capxon 10
+15528 電解 電容 牛角 電容 hl vent 2 pin 330 uf 4 50v 105 ° c 25x56mm capxon 6
+15528 a 電解 電容 牛角 電容 lp vent 2 pin 330 uf 4 50v 85 ° c 30x42mm capxon 1
+15529 電解 電容 牛角 電容 sph 2 pin 150 uf 4 50v 105 ° c 22x41mm ost 28
+15530 電解 電容 牛角 電容 sph 2 pin 150 uf 420v 105 ° c 22x36mm ost 12
+15530 a 電解 電容 牛角 電容 sps 2 pin 150 uf 400v 85 ° c 22x36mm ost 16
+15530 b 電解 電容 牛角 電容 sps 2 pin 150 uf 420v 85 ° c 22x36mm ost 3
+15531 電解 電容 牛角 電容 lp vent 2 pin 220 uf 420v 85 ° c 25x46mm capxon 21
+15532 電解 電容 牛角 電容 hp vent 2 pin 420 uf 420v 105 ° c 30x57mm capxon 10
+15581 電解 電容 牛角 電容 2 pin 4700 uf 80v 85 30x39mm nippon 4
+15596 電解 電容 牛角 電容 2 pin 180 uf 4 50v 85 29x31mm ost 13
+15597 電解 電容 牛角 電容 2 pin 220 uf 400v 85 20x40mm ost 20
+15598 電解 電容 牛角 電容 2 pin 150 uf 4 50v 85 25x35mm capxon 6
+15831 電解 電容 牛角 電容 hp vent 2 pin 180 uf 4 50v 105 30x27mm capxon 10
+15833 電解 電容 牛角 電容 hu 2 pin 220 uf 4 50v 105 22x50mm hitachi 4
+15834 電解 電容 牛角 電容 hu 2 pin 470 uf 420v 105 30x46mm hitachi 5
+15835 電解 電容 牛角 電容 lp vent 2 pin 330 uf 400v 85 25x52mm capxon 6
+15839 電解 電容 牛角 電容 hs vent 2 pin 180 uf 400v 105 25x36mm capxon 8
+15841 電解 電容 牛角 電容 sps 2 pin 220 uf 400v 85 25x41mm ost 12
 18102 cd138 4 50v 6800 uf 鋁電解電 容器 6800 uf 4 50v 90x157mm hicon 16
-18674 ltz182m2dq50m 電解 電容 電容 2 pin 1800 uf 200v 20% 85 35x50mm jamicon 1
-18675 ltz222m2cq45m 電解 電容 電容 2 pin 2200 uf 160v 20% 85 35x45mm 腳距 10mm jamicon 4
-18677 lsw392m2cq60m 電解 電容 電容 2 pin 3900 uf 160v 20% 85 35x60mm jamicon 10
-18678 ltz472m2aq45m 電解 電容 電容 2 pin 4700 uf 100v 20% 85 35x45mm jamicon 8
-18681 ltx122m2gq90m 電解 電容 電容 3 pin 1200 uf 400v 20% 85 35x90mm 腳距 6mm jamicon 10
-18682 ltx951m2gq80m 電解 電容 電容 3 pin 950 uf 400v 20% 85 35x80mm jamicon 10
-18683 ltx781m2gq70m 電解 電容 電容 3 pin 780 uf 400v 20% 85 35x70mm jamicon 10
-18684 llz551m2gq50m 電解 電容 電容 2 pin 550 uf 400v 20% 85 35x50mm jamicon 10
-18685 llz391m2gp50m 電解 電容 電容 2 pin 390 uf 400v 20% 85 30x50mm jamicon 10
-18686 hmw181m2wo40m e 電解 電容 電容 2 pin 180 uf 4 50v 20% 105 25x40mm jamicon 20
-18687 hlw151m2wo40m 電解 電容 電容 2 pin 150 uf 4 50v 20% 105 25x40mm jamicon 20
-18689 lsw271m2eo25m 電解 電容 電容 2 pin 270 uf 2 50v 20% 85 25x25mm jamicon 12
-18690 lsw271m2wo40mub 電解 電容 電容 2 pin 270 uf 4 50v 20% 85 25x40mm jamicon 5
-18691 ltw472m1hn35m e 電解 電容 電容 2 pin 4700 uf 50v 20% 85 21x35mm jamicon 10
-18692 lsw332m2ao45m 電解 電容 電容 2 pin 3300 uf 100v 20% 85 25x45mm jamicon 4
-18694 電解 電容 電容 2 pin 2200 uf 160v 20% 105 35x45mm jamicon 3
-18695 電解 電容 電容 2 pin 1500 uf 200v 20% 85 35x40mm jamicon 7
-18696 hs u 電解 電容 電容 4 pin 470 uf 4 50v 20% 105 35x50mm jamicon 5
-18698 電解 電容 電容 2 pin 470 uf 4 50v 20% 85 35x45mm jamicon 5
-18699 電解 電容 電容 2 pin 820 uf 2 50v 20% 85 30x45mm jamicon 5
-18700 電解 電容 電容 2 pin 150 uf 400v 20% 85 20x40mm jamicon 7
-18701 電解 電容 電容 2 pin 270 uf 400v 20% 105 30x40mm jamicon 3
-18702 電解 電容 電容 2 pin 330 uf 400v 20% 85 30x40mm jamicon 4
-18704 電解 電容 電容 2 pin 10000 uf 35v 20% 85 25x35mm jamicon 1
-18705 電解 電容 電容 2 pin 150 uf 4 50v 20% 85 25x35mm jamicon 2
-18706 電解 電容 電容 2 pin 1000 uf 63v 20% 105 20x30mm jamicon 2
-18708 電解 電容 電容 2 pin 100 uf 4 50v 20% 85 20x35mm jamicon 5
-18709 電解 電容 電容 2 pin 220 uf 400v 20% 105 25x40mm jamicon 6
-18710 電解 電容 電容 2 pin 220 uf 400v 20% 85 25x40mm jamicon 3
-18712 電解 電容 電容 2 pin 390 uf 420v 85 30x45mm capxon 1
-18715 電解 電容 電容 2 pin 1000 uf 200v 20% 105 30x50mm jamicon 1
-18719 電解 電容 電容 2 pin 220 uf 400v 85 20x50mm jamicon 1
-18796 電解 電容 電容 2 pin 220 uf 400v 20% 105 25x31mm nippon 12
-18797 電解 電容 電容 2 pin 220 uf 400v 20% 105 30x26mm nippon 4
-18798 ekmq401vsn271mr30s 電解 電容 電容 2 pin 270 uf 400v 20% 105 30x30mm nippon 14
-18799 ekmq401vsn331mr35s 電解 電容 電容 2 pin 330 uf 400v 20% 105 30x35mm nippon 9
-18800 電解 電容 電容 2 pin 390 uf 400v 20% 85 25x44mm nippon 27
-18802 電解 電容 電容 2 pin 220 uf 4 50v 20% 105 25x36mm nippon 1
-18804 電解 電容 電容 kmq 2 pin 270 uf 4 50v 20% 105 25x44mm nippon 5
-18805 ekmr451vsn271mr30s 電解 電容 電容 2 pin 270 uf 4 50v 20% 105 30x30mm nippon 20
-18806 電解 電容 電容 2 pin 330 uf 420v 20% 105 25x44mm nippon 16
-18808 電解 電容 電容 kmr 2 pin 390 uf 400v 20% 105 25x46mm nippon 8
-19001 電解 電容 電容 2 pin 680 uf 200v 85 25x31mm tk 169
-19303 電解 電容 電容 3 種 混合 150 uf 420v 85c lp vent 150 uf 4 50v 105c ce 180 uf 420v 85c lp vent 22x36mm capxon 3
-slpx222m050a1p3 cap alum 2200 uf 20% 50v radial 203 0.8772 8 12days arrow
+18674 ltz182m2dq50m 電解 電容 牛角 電容 2 pin 1800 uf 200v 20% 85 35x50mm jamicon 1
+18675 ltz222m2cq45m 電解 電容 牛角 電容 2 pin 2200 uf 160v 20% 85 35x45mm 腳距 10mm jamicon 4
+18677 lsw392m2cq60m 電解 電容 牛角 電容 2 pin 3900 uf 160v 20% 85 35x60mm jamicon 10
+18678 ltz472m2aq45m 電解 電容 牛角 電容 2 pin 4700 uf 100v 20% 85 35x45mm jamicon 8
+18681 ltx122m2gq90m 電解 電容 牛角 電容 3 pin 1200 uf 400v 20% 85 35x90mm 腳距 6mm jamicon 10
+18682 ltx951m2gq80m 電解 電容 牛角 電容 3 pin 950 uf 400v 20% 85 35x80mm jamicon 10
+18683 ltx781m2gq70m 電解 電容 牛角 電容 3 pin 780 uf 400v 20% 85 35x70mm jamicon 10
+18684 llz551m2gq50m 電解 電容 牛角 電容 2 pin 550 uf 400v 20% 85 35x50mm jamicon 10
+18685 llz391m2gp50m 電解 電容 牛角 電容 2 pin 390 uf 400v 20% 85 30x50mm jamicon 10
+18686 hmw181m2wo40m e 電解 電容 牛角 電容 2 pin 180 uf 4 50v 20% 105 25x40mm jamicon 20
+18687 hlw151m2wo40m 電解 電容 牛角 電容 2 pin 150 uf 4 50v 20% 105 25x40mm jamicon 20
+18689 lsw271m2eo25m 電解 電容 牛角 電容 2 pin 270 uf 2 50v 20% 85 25x25mm jamicon 12
+18690 lsw271m2wo40mub 電解 電容 牛角 電容 2 pin 270 uf 4 50v 20% 85 25x40mm jamicon 5
+18691 ltw472m1hn35m e 電解 電容 牛角 電容 2 pin 4700 uf 50v 20% 85 21x35mm jamicon 10
+18692 lsw332m2ao45m 電解 電容 牛角 電容 2 pin 3300 uf 100v 20% 85 25x45mm jamicon 4
+18694 電解 電容 牛角 電容 2 pin 2200 uf 160v 20% 105 35x45mm jamicon 3
+18695 電解 電容 牛角 電容 2 pin 1500 uf 200v 20% 85 35x40mm jamicon 7
+18696 hs u 電解 電容 牛角 電容 4 pin 470 uf 4 50v 20% 105 35x50mm jamicon 5
+18698 電解 電容 牛角 電容 2 pin 470 uf 4 50v 20% 85 35x45mm jamicon 5
+18699 電解 電容 牛角 電容 2 pin 820 uf 2 50v 20% 85 30x45mm jamicon 5
+18700 電解 電容 牛角 電容 2 pin 150 uf 400v 20% 85 20x40mm jamicon 7
+18701 電解 電容 牛角 電容 2 pin 270 uf 400v 20% 105 30x40mm jamicon 3
+18702 電解 電容 牛角 電容 2 pin 330 uf 400v 20% 85 30x40mm jamicon 4
+18704 電解 電容 牛角 電容 2 pin 10000 uf 35v 20% 85 25x35mm jamicon 1
+18705 電解 電容 牛角 電容 2 pin 150 uf 4 50v 20% 85 25x35mm jamicon 2
+18706 電解 電容 牛角 電容 2 pin 1000 uf 63v 20% 105 20x30mm jamicon 2
+18708 電解 電容 牛角 電容 2 pin 100 uf 4 50v 20% 85 20x35mm jamicon 5
+18709 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 105 25x40mm jamicon 6
+18710 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 85 25x40mm jamicon 3
+18712 電解 電容 牛角 電容 2 pin 390 uf 420v 85 30x45mm capxon 1
+18715 電解 電容 牛角 電容 2 pin 1000 uf 200v 20% 105 30x50mm jamicon 1
+18719 電解 電容 牛角 電容 2 pin 220 uf 400v 85 20x50mm jamicon 1
+18796 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 105 25x31mm nippon 12
+18797 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 105 30x26mm nippon 4
+18798 ekmq401vsn271mr30s 電解 電容 牛角 電容 2 pin 270 uf 400v 20% 105 30x30mm nippon 14
+18799 ekmq401vsn331mr35s 電解 電容 牛角 電容 2 pin 330 uf 400v 20% 105 30x35mm nippon 9
+18800 電解 電容 牛角 電容 2 pin 390 uf 400v 20% 85 25x44mm nippon 27
+18802 電解 電容 牛角 電容 2 pin 220 uf 4 50v 20% 105 25x36mm nippon 1
+18804 電解 電容 牛角 電容 kmq 2 pin 270 uf 4 50v 20% 105 25x44mm nippon 5
+18805 ekmr451vsn271mr30s 電解 電容 牛角 電容 2 pin 270 uf 4 50v 20% 105 30x30mm nippon 20
+18806 電解 電容 牛角 電容 2 pin 330 uf 420v 20% 105 25x44mm nippon 16
+18808 電解 電容 牛角 電容 kmr 2 pin 390 uf 400v 20% 105 25x46mm nippon 8
+18846 電解 電容 / 螺絲型 電容 eps 5600 uf 400v 20% 105 75x143mm jamicon 1
+18847 電解 電容 / 螺絲型 電容 bps 4700 uf 400v 20% 105 76x129mm jamicon 1
+18848 電解 電容 / 螺絲型 電容 kps 10000 uf 2 50v 20% 85 75x120mm jamicon 1
+18849 電解 電容 / 螺絲型 電容 3300 uf 4 50v 20% 85 63x129mm jamicon 1
+18853 電解 電容 / 螺絲型 電容 kps 22000 uf 100v 20% 85 50x85mm 含腳架 jamicon 1
+18854 電解 電容 / 螺絲型 電容 rps 4700 uf 100v 20% 105 50x76mm jamicon 1
+18855 電解 電容 / 螺絲型 電容 kps 18000 uf 80v 20% 85 50x67mm jamicon 1
+19001 電解 電容 牛角 電容 2 pin 680 uf 200v 85 25x31mm tk 169
+19303 電解 電容 牛角 電容 3 種 混合 150 uf 420v 85c lp vent 150 uf 4 50v 105c ce 180 uf 420v 85c lp vent 22x36mm capxon 3
+slpx222m050a1p3 cap alum 2200 uf 20% 50v radial 203 0.8772 8 arrow
 slpx472m035a3p3 cap alum 4700 uf 20% 35v radial 123 0.972 8 14days
 163 电解电容 80v22000 uf 50x80 1 4
-capacitor eletrol í tico 330 uf 400v 85 º 105 º snapin 30x40 electrolictic capacitor 330 uf 400v 85 º 105 º snapin 30x40 2000
-capacitor eletrolitico 1000 uf 2 50v 30x40 electrolictic capacitor 1000 uf 2 50v 30x40 1000
-а р capacitor 220 ф х 400v 20% dip 2 4 50v 220 uf 25 40 400.0 2.5
+电解电容 330 uf / 400v 25 * 45 牛角 脚距 11mm c2 c3 c4 c5 2000
+capacitor eletrol í tico 330 uf / 400v 85 º / 105 º snapin 30x40 electrolictic capacitor 330 uf / 400v 85 º / 105 º snapin 30x40 2000
+capacitor eletrolitico 1000 uf / 2 50v 30x40 electrolictic capacitor 1000 uf / 2 50v 30x40 1000
+а р capacitor 220 ф х 400v 20% dip 2 4 50v 220 uf 25 * 40
 cap elect 10 000 uf 80v radial 2 lead 10mm ls 35x50mm can 85c united chemi con esmh800vsn103ma50s cornell dubilier 380lx103m080a052 or equiv c2 c3 c4 c5 c51 5
 capacitor 490 uf 800v dc 947c491k801cbms cornell dubilier 无源 器件 695.8 488.12865
 capacitor 230 uf 1000v dc 947c231k102cams cornell dubilier 无源 器件 438.14 355.34165
 capacitor 390 uf 1000v dc 947c391k102ccms cornell dubilier 无源 器件 586.4 475.4866
 capacitor 320 uf 1200v dc 947c321k122cdms cornell dubilier 无源 器件 735.3 475.85040000000004
 aluminum electrolytic capacitor capacit 381lx472m035j012 cornell dubilier 无源 器件 10.92 9.477500000000001
-150 uf 400v 150 uf 400v 25 30mm 105 ° c uhp2000h 2 ec1 ec2
+150 uf 400v 150 uf 400v 25 * 30mm 牛角 105 ° c uhp2000h 2 ec1 / ec2

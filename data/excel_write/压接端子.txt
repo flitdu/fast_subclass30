@@ -1,1 +1,9 @@
+sphd 001t p phd connectors contacts 72450.0
+091806 035401 连接器 8p 4.2 mm 5557 连接器 15
+conector hsg 3vias 2 5mm 3p scn 3 b2512h 3p 1210 assembly send just the conector
+conector hsg 5vias 2 5mm 5p scn 3 b2512h 5p 1210 assembly send just the conector
+端子 连带 xh 1 90142 500
+铜线 耳 100a 8.2 1 90145 500
+端子 连带 vh 2 90147 1000
+端子 壳 vh 03 1 90148 500
 gold pins female pins conn term female 18 24awg gold 08 56 0106

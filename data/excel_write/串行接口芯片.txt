@@ -1,3 +1,7 @@
+桥接 芯片 / usb 转 串口 cp2102 gm cp2102 gmr silicon 2 qfn28 0.5 mm cp2102 100
+桥接 芯片 / usb 转 串口 cp2102n a01 gqfn28r cp2102n a01 gqfn20 silicon 1 qfn28 0.5 mm cp2102 50
+usb 转 uart channel uart lqfp 64 ft4232hl reel ft4232hl reel 1 lc lqfp 64 10x10x05p 50
+u12 ft234xd convertitore usb uart usb 3.3 v 5.5 v dfn12 ft234xd s dfn 12p 3x3mm ftdi ft234xd
 ic7 ft232rl usb to serial uart interface ssop28 65p780x200 28n
 communicaton ft232 28 ssop ic usb fs serial uart
 ft231xs r ft231xs ssop20 l u2 ftdi ft231x full speed usb to full handshake uart ft231xs r

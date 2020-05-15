@@ -1,0 +1,2 @@
+iso1h811g isolated high side switch pg dso 36 u82 37.0 350.0
+dgtl iso 5.7 kv gate drvr 16soic iso5851qdwrq1 soic 24

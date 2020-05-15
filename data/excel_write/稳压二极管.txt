@@ -1,9 +1,78 @@
-49 1 57a.08 60200001 稳压 二极管 1sma5919bt3g 稳压 二极管 5.6 v 1.5 w 65 150 ℃ sma 1 214ac on 1sma5919bt3g d2 12
-31 1 57a.08 60200001 稳压 二极管 1sma5919bt3g 稳压 二极管 5.6 v 1.5 w 65 150 ℃ sma 1 sma on 1sma5919bt3g d2 12
-34 1 57a.08 40200001 稳压 二极管 1sma5914bt3g 稳压 二极管 3.6 v 1.5 w 65 150 ℃ sma 1 214ac on 1sma5914bt3g d5 12
-1 zener mini melf d11 sod80 mini melf 3v3 bzv55 b3v3 bzv55 b3v3 25 100
-1 zener mini melf d6 sod80 mini melf 5v1 bzv55 b5v1 bzv55 b5v1 25 100
-1 zener mini melf d7 sod80 mini melf 15v bzv55 b15 bzv55 b15 25 100
+11 贴片 24v sot 23
+12 贴片 5.6 v sot 23
+贴片 稳压 二极管 mm1z10 zener voltage 10v 5ma 500mw sod 123 * semtech mm1z10 sod123 1 semtech 20 2000 30000
+贴片 稳压 二极管 mm1z22 zener voltage 22v 5ma 500mw sod 123 * semtech mm1z22 sod123 1 semtech 20 2000 30000
+贴片 稳压 二极管 7.5 v mm1z7v5 sod 523 zmm7v5st sod 523aa 3 60 6000 90000
+贴片 稳压 二极管 7.5 v mm1z7v5 sod 123 * zmm7v5st sod123 1 20 2000 30000
+02cz5.1 y sot 23 02cz 稳压 二极管
+topdynamic diode thd zener diode 5.6 v 5w 15 1n5339b 1.0 10000
+topdynamic diode thd zener diode 24v 5w 15 1n5359b 1.0 10000
+11 040065 稳压 二极管 esd5z5vl will semi 10
+稳压 二极管 flz12va sod 80 flz12va sod 80 on 300
+稳压管 flz4v7c sod 80 flz4v7c sod 80 on 1500
+稳压管 flz3v0a sod 80 flz3v0a sod 80 on 2100
+稳压管 flz 10v c sod 80 flz 10v c sod 80 on 2100
+稳压管 flz18vc sod 80 flz18vc sod 80 on 2100
+dz1 1.0 zener diode zener diode 24v zener diode 24v 5w axial axial on semiconductor 1n5359brlg
+dz3 1.0 zener diode zener diode 5.6 v zener diode 5.6 v 5w axial axial on semiconductor 1n5339brlg
+稳压 二极管 kexin 1sma5918b 214ac sma 1sma5918b kexin 1455
+d1 mmsz5245bt1g on 稳压管 15v 10.0
+d7 mmsz5245bt1g on 稳压管 15v 10.0
+smaz10 13 f diode zener 10v 1w sma 3d do214 d165 d169 2.0 700.0
+smaz16 13 f zener diodes 16 volt 1.0 w 5% 3d do214 d5 d6 d20 d21 d35 d36 d50 d51 d65 d66 d125 d126 d166 d170 2.0 4900.0
+dz1 zener diode zener diode 24v zener diode 24v 5w axial axial on semiconductor on 100 2 4working days 4000.0 1.0 0.8349 83.49
+dz3 zener diode zener diode 5.6 v zener diode 5.6 v 5w axial axial on semiconductor on 100 2 4working days 4000.0 1.0 1.05751 105.75
+smaz10 13 f diode zener 10v 1w sma 3d do214 d165 d169 2.0 700.0
+smaz16 13 f zener diodes 16 volt 1.0 w 5% 3d do214 d5 d6 d20 d21 d35 d36 d50 d51 d65 d66 d125 d126 d166 d170 2.0 4900.0
+6.5 v 双向 稳压 二极管 diodes 55 to 125 ° c 600w 瞬态 抑制器 smbj6.5 ca diodes smb / 214aa 10
+30v 单向 稳压 二极管 diodes 55 to 125 ° c 600w 瞬态 抑制器 smbj30a diodes smb / 214aa 10
+稳压 二极管 bzt52c12s 稳压 12v d1 d14 d15 sod323 3 21
+稳压 二极管 s zener / 5.1 v / 500mw / sod 523 sig5v1t1g sig 1 1000 d304
+bzx79c3v3 diode zenner 3 3v 0 5w
+bzx79c6v2 diode zenner 6 2v 0 5w
+bzx79c10 diode zenner 10v 0 5w
+bzx79c4v3 diode zenner 4 3v 0 5w
+pdz24 b diode zener 24 v 400mw sod323 1n4148ws v sod323 nexperia usa inc pdz24 b 115 1200 9920 7000 1000
+1sma5918bt3g on semiconductor 1sma5918bt3g diode zener 5.1 v 1.5 w 1sma59xxbt3g on semiconductor 1sma5918bt3g 1800 9920 7000 1000
+pdz6.2 b zener diode 1n4148ws v sod323 nexperia pdz6.2 b 115 300 9920 7000 1000
+bzt52c3v3s diode zener 33 v 02 w sod323 sod323 ak diodes inc mmsz5226bs 300 9920 7000 1000
+bzx884 c51 zener diode 51v sod 882 sod 882 nexperia bzx884 c51 315 600 9920 7000 1000
+z2 稳压 二极管 39v / 3w 1smb5939bt3g smb smb 1 5
+z3 z4 z5 z6 z7 z8 z9 z10 z11 z12 z13 z14 稳压 二极管 5.6 v / 0.5 w mmsz5v6t1g sod 123 sod 123 12 60
+bzv55c12v smd zener diode 3216 0.4 watt 12v
+bzv55c18v smd zener diode 3216 0.4 watt 18v
+110 稳压 二极管 bzt52c5v1s d0805s 200
+贴片 稳压管 mmsz5231bt1 e1 sod123 5.1 v / tcmmsz5231b z5v1 sod123 5.1 v 5.1 v 0.5 w 7 5.1 v 0.5 w sd1006a 贴片 z9 z10 z13 z14 z15 z16 z17 on 14000
+贴片 稳压管 1smb5918bt3 smb 5.1 v 5.1 v 3w 2 5.1 v 3w smb 贴片 z11 z12 on 4000
+diode zener 6.8 v 300mw sod323 szmm3z6v8t1g on 稳压 二极管 3
+diode zener 27v 550mw smb 1smb5935bt3g on 齐纳 二极管 6
+diode zener 10v 300mw sod323 szmm3z 10v t1g on 齐纳 二极管 101
+z1 zener diode zener diode 5v1 zener diode 5.1 v 500mw ± 5% surface mount mini melf sod 80 taiwan semiconductor corporation bzv55c5v1 l0g
+diodo zener smd do214ac2 18v 1 5w 5% smaz5931b 1 520
+d18 d19 diode zener single 13v 5% 3w 2 pin smaj sz5513
+d18 d19 diode zener single 13v 5% 3w 2 pin smaj 3smaj5928b tp
+d18 d19 diode zener single 13v 5% 3w 2 pin smaj smaj5928b
+d18 d19 diode zener single 13v 5% 3w 2 pin smaj smaj5928be3
+d2 d4 d6 diode schottky 100v 0.15 a 2 pin sod 123 t / r bat46w 7 f
+稳压 二极管 18v / 0.225 w / sot 23 bzx84c18lt1 bzt52c18 1 sot 23 50
+稳压 二极管 7.5 v / 0.225 w / sot 23 lbzx84c7v5lt1g lbzx84c7v5lt1g 1 sot 23 50
+齐纳 二极管 / mini melf / 500mw / 5.6 v mmgz5232bpt mmgz5232bpt 7 d melf 350
+贴片 稳压 二极管 24v 0.5 w 1 90261 500
+贴片 稳压 二极管 8.2 v 2 90262 1000
+贴片 稳压 二极管 15v 1 90263 500
+d3 zener 15v 500mw iz 85 ma smd sod123 mmsz5245b s did sod 123 diodes inc mmsz5245b 7 f
+d4 zener 51 v 500mw iz 20ma smd sod123 mmsz5231b s did sod 123 diodes inc mmsz5231b
+d8 zener 15v 500mw iz 85 ma smd sod123 mmsz5245b s did sod 123 diodes inc mmsz5245b 7 f
+d14 zener 15v 500mw iz 85 ma smd sod123 mmsz5245b s did sod 123 diodes inc mmsz5245b 7 f
+d32 zener 51 v 500mw iz 20ma smd sod123 mmsz5231b s did sod 123 diodes inc mmsz5231b
+d34 zener 51 v 500mw iz 20ma smd sod123 mmsz5231b s did sod 123 diodes inc mmsz5231b
+diode zener 3v3 smd mmsz4684t1 d3
+49 1 57a.08 60200001 稳压 二极管 1sma5919bt3g / 稳压 二极管 / 5.6 v / 1.5 w / 65 150 ℃ / sma 1 214ac on 1sma5919bt3g d2 12
+31 1 57a.08 60200001 稳压 二极管 1sma5919bt3g / 稳压 二极管 / 5.6 v / 1.5 w / 65 150 ℃ / sma 1 sma on 1sma5919bt3g d2 12
+34 1 57a.08 40200001 稳压 二极管 1sma5914bt3g / 稳压 二极管 / 3.6 v / 1.5 w / 65 150 ℃ / sma 1 214ac on 1sma5914bt3g d5 12
+1 zener mini melf d11 sod80 / mini melf 3v3 bzv55 b3v3 bzv55 b3v3 25 100
+1 zener mini melf d6 sod80 / mini melf 5v1 bzv55 b5v1 bzv55 b5v1 25 100
+1 zener mini melf d7 sod80 / mini melf 15v bzv55 b15 bzv55 b15 25 100
 q06 20020001 17 60404000750 齐纳 二极管 5v 43.5 a 400w do214ac 2pin smd smaj5.0 ca 600
 d20 4.3 v 1smb5916bt3g 4.3 v diode zener 4.3 v 3w smb on semiconductor 1smb5916bt3g digi key 1smb5916bt3gosct nd 0.54
 d26 27 130v 1smb5952bt3g 130v diode zener 130v 3w smb on semiconductor 1smb5952bt3g digi key 1smb5952bt3gosct nd 0.54
@@ -16,5 +85,6 @@ d24 25 16v smbj5353b tp 16v diode zener 5w 16v smb micro commercial co smbj5353b
 d4 zeer diode 5.1 v 150 mw bournes cd0603 z5v1
 dbst zener diode 5.1 v 150 mw inc cd0603 z5v1
 dz1 5.6 v zener zener 35 11 diode zener 5.6 v 500mw 5% 35 1n5232b t
-15 zener diode 6.8 v 1w 213ab melf zm4736a gs18 5000 5000 reel
+15 zener diode 6.8 v 1w 213ab melf zm4736a gs18 5000 5000 / reel
 bzx84c3v3 d21 sot23a micro commercial bzx84c3v3 tp nd
+bzx84 c3v3 215 d21 diode zener 3.3 v 250mw sot23 bzx84 c3v3 215 568 1675 1 nd 3.3 v sot23

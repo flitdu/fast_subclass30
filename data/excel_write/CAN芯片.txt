@@ -1,2 +1,10 @@
-mcp2515 u705 mcp2515 i so technology ic can controller w spi 18soic
-tja1050 u706 tja1050t vm 118 semiconductors ic txrx can hs 5.25 v 8 soic
+贴片 ic tja1040t high speed can v 5.0 v sop 8 * tja1040t so8nb 2 40 4000 60000
+贴片 芯片 tja1040t so8 tja1040t 735
+贴片 芯片 tja1040t so8 tja1040t 125
+高速 can 隔离 收发器 ctm1051 zlg 模块 575
+spi 转 can 芯片 can2.0 2.7 v 5.5 v 10ma 40 ℃ 85 ℃ 18 soic mcp2515 i / so mcp2515 i / so 1 soic 18 300mil 50
+can 控制器 / soic 8 带 休眠 唤醒 控制 tja1040at tja1040t / cm 118 1 soic 14 50
+ic transceiver txrx can 5v 8sop 55 ° c 105 ° c iso1050dubr / sop 20
+mcp2515 u705 mcp2515 i / so technology ic can controller w / spi 18soic
+tja1050 u706 tja1050t / vm 118 semiconductors ic txrx can hs 5.25 v 8 soic
+technology mcp2551 i / p ic transceiver can hi spd 8 dip ic3 / ic4 2 mcp2551 i / p nd

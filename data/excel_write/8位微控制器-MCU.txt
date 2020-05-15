@@ -1,2 +1,25 @@
+ic microcontroller u1 pic16f1704 i / 14 tssop pic16f1704 i / technology 505
+10 集成电路 sc92f7543m28u 1 psop28
+单片机 tssop 20 sc92f7422 lc tssop 20 u8
+ic smd mcu soic 28pin pic16f873a 1.0 10000
+u1 1.0 ic pic soic 28 soic 28 technology pic16f873 20 / so
+u1 ic microcontroller avr avr attiny microcontroller ic 8 bit 10mhz 2kb 1k x 16 flash 14 soic 14 soic technology attiny24v 10ssur
+ic mcu 8bit 32kb flash 44tqfp 44tqfp pic18f4580 i / pt qfp 575
+mcu vip133152 1 ic atmega32u40mu 微控制器 atmega32u4 mu / qfn 44 1852 y
+mcu 37 2d2433a0 u03 s000754 ic mcu 8bit 3.5 kb flash 8msop pic12f1572 i / ms / sop 1603
+mcu 38 2d2433a0 u03 s000754 ic mcu 8bit 3.5 kb flash 8msop pic12f1572 i / ms / sop 1600
+mcu 39 2d2433a0 u03 s000754 ic mcu 8bit 3.5 kb flash 8msop pic12f1572 i / ms / sop 1700
+mcu 44.0 2d2436a0 u17 s000019 ic mcu 8bit 28kb flash 28soic pic16f1788 i / so / soic 1000.0
+mcu 44.0 2d2436a0 u17 s000019 ic mcu 8bit 28kb flash 28soic pic16f1788 i / so / soic 1000.0
+mcu 3 u1 1 pic18f45k20 i / pt pic18f45k20 i / pt tech c132220
+mcu u1 pic18f2455 flash mcu s spdip 28 24kbf 2048rm fsusb2 pic18f2455 i / sp 1 1 100 110
+mcu ic5 usb pic microcontroller pic18f45j50 i / pt n a 316 262
+mcu controller atmega328p au 32 tqfp atmega controller
+mcu atmega168p 32 tqfp atmega controller
+mcu atmega16u2 mlf32 atmega controller
+mcu atmega328p pu 28 dip atmega controller
+mcu u101 16f88 microcontroller 18 soic 300 mil pic16f88 i / so pic16f88 i / so nd 4.08 y
+mcu u201 16f1936 microntroller 28 soic 7.5 mm pic16f1936 i / so pic16f1936 i / so nd 2.34 y
 atmega1280 u201 atmega1280 16au ic mcu avr 128k flash 100 tqfp
-technology pic18f2220 i sp ic mcu flash 2kx16 a d 28dip
+technology pic18f2220 i / sp ic mcu flash 2kx16 a / d 28dip
+u8 pic16c765 i / pt pic microcontroller pic16c765 tqfq pic16c765 i / pt pic16c765 i / pt eq0803

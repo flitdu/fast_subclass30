@@ -6,7 +6,7 @@ import random
 import linecache
 import matplotlib.pyplot as plt
 from data_operation.txt_operate import OperateTXT
-from data_operation.constant import label_name_refer
+from data_operation.constant import label_subclass_database
 from data_operation.function import get_logger
 logger = get_logger()
 

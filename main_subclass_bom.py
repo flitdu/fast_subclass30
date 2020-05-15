@@ -254,12 +254,10 @@ if __name__ == '__main__':
     logger = get_logger()
 
     # 1 读取excel写入不同的标签txt
-    # 读取txt路径：ft_BOM\data\bom_subclass30'，  写入r'D:\dufy\code\ft_BOM\data\excel_write'
-    # '''''''''''''''''bom_read.py
 
     # excel_read2txt()
 
-    train_tag = 10
+    train_tag = 1
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         # # '''''''''''''''''data_selection_new.py
@@ -292,7 +290,7 @@ if __name__ == '__main__':
 
     if test_flag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\4.20(1)\4.20'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.14Mike'
 
         model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
         model_names = os.listdir(model_folder)

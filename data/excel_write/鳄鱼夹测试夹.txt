@@ -1,2 +1,7 @@
-hwr 0030 0001 shunt for 100 center header qpc02sxgn rc shunt 1x2 2nd operation stall as follows see default shunt receptacle map jp1 1 2 jp11 1 2 jp6 jp7 jp9 others should be supplied bag for customer
+hwr 0030 0001 shunt for 100 center header qpc02sxgn rc shunt 1x2 2nd operation stall as follows see default shunt / receptacle map jp1 1 2 jp11 1 2 jp6 jp7 jp9 others should be supplied bag for customer
 hwr 0030 0001 m8 m9 m10 m11 m12 m13 m15 m16 m17 m18 m19 shunt for 100 center header qpc02sxgn rc s9337 nd shunt 1x2 2nd operation add shunt to headers per default shunt map document shunts stalled by default should be placed small bag and taped to pcba
+en0 en1 scl sda nirq shdn av sd gpio0 gpio7 en ext nrst io 5002 test pot p dia 0.1 total length 0.3 hole 0.04 white phosphor bronze wire silver
+sd0 sd3 ldo0 ldo8 vldo bbatt i2c sd vfe sd3 gpiob 5010 testpot with 1.80 mm hole dia red multipurpose
+gnd4 gnd7 gnd8 5011 test pot p dia 0.125 total length 0.445 hole 0.063 black phosphor bronze wire silver plate fish
+qscl qsda sd0s sd3s ldo01 ldo2 sds ldo35 ldo46 ldo78 sd3s for cold test 5015 test pot smt p length 0.135 p width 0.07 p height 0.06 silver phosphor bronze with silver plate
+vil ldo vil sd0 vil sd3 vil fe 5000 test pot p dia 0.1 total length 0.3 hole 0.04 red phosphor bronze wire silver plate fish

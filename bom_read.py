@@ -10,11 +10,11 @@ Description :
 Remark:  注意target_path = 'data\excel_write'要与   txt_filePath = r'D:\dufy\code\ft_BOM\data\excel_write'  # 读取文件夹路径,
          保持一致
 """
-from data_operation import OperateExcel, function
-from data_operation.function import load_stop_word_list, label_new, standard
+from data_operation import OperateExcel
+from data_operation.function import load_stop_word_list, labelNewSubclass, standard, file_clear
 # from data_operation import OperateTXT
 from data_operation.txt_operate import OperateTXT
-from data_operation.constant import label_name_forbid, label_name_refer
+from data_operation.constant import label_name_forbid, label_subclass_database
 import os
 import jieba                          # 组合使用】
 from data_operation.function import get_logger
@@ -34,33 +34,31 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
 
                 aa_label = line_read.split()[0].replace('/', '')  # 替换标签里面 '/'
                 # aa_label = aa.split()[0] # 替换标签里面 '/'
-                if aa_label in label_name_forbid and aa_label in ['RF', 'EMIRFI']:
-                    logger.critical('禁止标签:{}'.format(aa_label))
-                    continue
-                elif aa_label in label_name_forbid:
+                if aa_label in label_name_forbid:
                     continue
 
-                aa_label = label_new(aa_label)
+                aa_label = labelNewSubclass(aa_label)
 
                 if aa_label != 'nan':
 
                     # print(aa_label, '~~~~~~~')
                     aa_description = " ".join(line_read.split()[1:])
-                    aa_description = standard(aa_description, stop_words)  # 标准化处理
+                    logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description))
+                    description_after_standard = standard(aa_description, stop_words)  # 标准化处理
 
-                    logger.debug('标签：{}， 最终写入行为：{}'.format(aa_label, aa_description))
+                    logger.debug('最终写入行为：{}'.format(description_after_standard))
                     aa_description_length = 0
-                    for i in aa_description.split(' '):
+                    for i in description_after_standard.split(' '):
                         if i != '':
                             aa_description_length += 1
                     # print(length)
 
                     target_path_temp = target_path_temp + '\\' + aa_label + '.txt'
                     # print(target_path, '-', aa_label, '!!!!')
-                    if aa_description_length > 1:  # 选取训练数据的长度，大于3才算
-                        if aa_label not in label_name_refer:
-                            logger.critical('路径"{},产生新的标签：{}'.format(self.file_path, aa_label))
-                        OperateTXT().txt_write_line(target_path_temp, aa_description)
+                    if aa_description_length > 3:  # 选取训练数据的长度，大于3才算
+                        if aa_label not in label_subclass_database:
+                            logger.critical('路径"{},产生错误标签：{}'.format(self.file_path, aa_label))
+                        OperateTXT().txt_write_line(target_path_temp, description_after_standard)
 
         except IOError as ex:
             print(ex)
@@ -71,9 +69,13 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
 
 
 def excel_read2txt():
-    # 先清空：
-    txt_filePath = r'D:\dufy\code\fast_subclass30\data\excel_write'  # 读取文件夹路径,
-    function.files_clear(txt_filePath)
+    # # 先清空：
+    txt_file_path = r'D:\dufy\code\fast_subclass30\data\excel_write'  # 读取文件夹路径,
+    # file_clear(txt_filePath)
+    txt_names = os.listdir(txt_file_path)
+    for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
+        path = txt_file_path + '\\' + name0
+        os.remove(path)
 
     # filePath = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'  # 读取文件夹路径
     filePath = r'D:\dufy\code\ft_BOM\data\bom_subclass30'  # 读取文件夹路径!!!!!!!!!!!!

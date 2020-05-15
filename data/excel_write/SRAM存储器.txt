@@ -1,2 +1,5 @@
+u is62wv51216 tsop44 is62wv51216bll 55tli issi 芯成 500 13.8312
+is62wvs5128gbll 45nli sram 4mb 512kx8 45mhz serial sram it issi 1 1000
+is62wvs5128gbll 45nli sram 4mb 512kx8 45mhz serial sram it issi 1 5000
 cyd18s18v18 200bwxces dual port 1mx18 sram bga 256 avnet 0 8.0 0.0
-20 ic sram 256kbit 70ns 28dip cy62256l 70pxc cypress 504 14 tube
+20 ic sram 256kbit 70ns 28dip cy62256l 70pxc cypress 504 14 / tube

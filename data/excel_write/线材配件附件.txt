@@ -1,0 +1,3 @@
+接插 线 1015 12 6.3 插扣 插 扣套 单面 200 红色 1 90133 500
+接插 线 1015 12 6.3 插扣 插 扣套 单面 黑色 260 1 90134 500
+j8 conn footprint 6p per cavo tc2030 mcp / nl tc2030 mcp p con tc2030 mcp tag connect tc2030 mcp fp

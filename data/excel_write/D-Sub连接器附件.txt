@@ -1,4 +1,23 @@
-j6 182 009 213r181 conn db9 female 318 r a nickel norcomp inc 182 009 213r181 digi key 182 809fe nd 234
+db9 插座 母头 dk8006 09fbg1 dk8006 09fbg1 300
+db9 插座 公头 dk8006 09mbg1 dk8006 09mbg1 300
+db9 公头 插座 白色 直脚 焊板 带 鱼叉 螺母 9 db9 公头 针 110
+xs1 j29a 9zkwp a 印制板 弯针 法兰盘 尾端 同宽 10.0
+xs2 j29a 51zkwp a 印制板 弯针 法兰盘 尾端 同宽 10.0
+xs3 j29a 51zkwp a 印制板 弯针 法兰盘 尾端 同宽 10.0
+插 连接器 xp1 j29a 9tjl a 0.3 l400 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+插 连接器 xp2 j29a 51tjl a 0.3 l400 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+插 连接器 xp3 j29a 51tjl a 0.3 l400 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+连接器 green d sub crt conn 15p slim type 母 ra 0.762 mm 藍色 dip longpu longpu das0015 03 1 100 lio 53301 1.0
+db9 连接器 part 618 009 231 221 公 弯脚 1 db1 22
+db9 连接器 part 618 009 231 221 公 弯脚 1 db1 22
+d sub 2w2c harting d sub 2w2c male angled p / n tb 09 69 100 9049 dsub2 2w2c rt harting 09 69 110 9009 600 9920 7000 1000
+dmr 9s db9 母头 j2 db9 lm 1 10
+db9 母头 dmr 9s ckmtw 灿 科盟 j2 1 10
+25037 db9 a dip 9p 2 200
+db9 母头 华龙 db9 插头 母头 232 / 485 接口 蓝灰色 j4 1.0 1000.0 5000.0
+插件 d sub 连接器 ds1037 09mnakt74 0cc / 9p 2.77 mm 公座 90 ° 160 y
+j6 182 009 213r181 conn db9 female 318 r / a nickel norcomp inc 182 009 213r181 digi key 182 809fe nd 234
 conn db25 f 318 mntstd conn db25 f 318 mnt j4 amp 1734349 1 a35103 nd
-rs232 con subd 5747840 4 tyco conn d sub plug r a 9pos au t h
+rs232 con subd 5747840 4 tyco conn d sub plug r / a 9pos au t / h
 con db9 serial connector female mount jameco 15771 0.65 serialdb9 cabinet
+tyco amp 1734348 1 conn d sub rcpt r / a 9pos gold / fl x6 1 a35109 nd optional

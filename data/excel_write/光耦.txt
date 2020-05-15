@@ -1,6 +1,28 @@
-38 4b3901b0 v02 s000073 optoisolatr 5kv transistor 4 smd ltv 817s ta1 c lite on 光耦 145
-65 2c6806a0 v02 s000086 optoisolator 5.3 kv trans 4smd sfh617a 2x017t 光耦 320
-92 16p8302b0 u17 s001007 optoiso 5kv push pull so6l tlp2748 tp e toshiba soic 90 9 810
+11 050165 光耦 hcpl2630 broadcom 5
+贴片 光耦 ltv 0601 ltv 0601 u1 u2 u3 soic 8n 3.0 3000
+贴片 芯片 acpl332j acpl332j broadcom 1455
+贴片 光 耦合器 toshiba tlp181 11 4c1 tlp181 toshiba 735
+u2 ic photo coupler pc817c 10000
+ps2801 1 f3 a optoisolator transistor 2500vrms 1 channel 4 ssop 3d ssop4 u2 u8 u9 u14 u15 u20 u21 u26 u27 u32 u33 u46 u47 u48 u49 u50 u51 u52 u53 4.0 6650.0
+ps2801 4 f3 a optoisolator transistor 2500vrms 4 channel 16 ssop so 16 u56 u58 u66 u67 u70 u80 16.0 2100.0
+u3 ltv 817s optoisolatr 5kv transistor 4 smd lite on inc ltv 817s 160 1367 5 nd so8 650
+tlp3107 tp f / so 6 2.54 17
+贴片 光耦 hcpl 2631 500e 光电 耦合器 数字 2 通道 3.75 kv 10 mbaud dip 8 3 u1 u8 u9 broadcom limited 60
+线性光耦 40 to 105 ° c 5000vrms ± 0.5% 线性光耦 acpl c87b 500e soic 8 10
+线性光耦 40 to 85 ° c 2652vrms 线性光耦 hcpl 788j 500e sop16 10
+光电 耦合器 toshiba 55 to 125 ° c tlp104 soic 6 70
+光电 耦合器 toshiba 55 to 125 ° c 电流 传输 100% to 600% tlp183gb 11 4m1s 35
+d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 photomos aqy212s 60v 500ma sop 4 12 60
+e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 光耦 tlp290 11 3c1 12 60
+el357nb ta g ic b general optocoupler ltv 356 single channels ctr130% 260% if 5ma 25 ℃ 37 50v sop4 ul eu
+u3 fodm2705r2 optocoupler trans 3.75 kvrms 4smd
+125 光 藕 el3h7 b ta g so 4 200
+optoacoplador smd4 5300vrms 5ma sfh6156 3 7 3520
+optoacoplador smd4 80v 50ma vo617a 7x017t 7 3520
+optoisolator 5.3 kv trans 4smd sfh617a 2x017t / 光耦 320
+38 4b3901b0 v02 s000073 optoisolatr 5kv transistor 4 smd ltv 817s ta1 c / lite on 光耦 145
+65 2c6806a0 v02 s000086 optoisolator 5.3 kv trans 4smd sfh617a 2x017t / 光耦 320
+92 16p8302b0 u17 s001007 optoiso 5kv push pull so6l tlp2748 tp e / toshiba soic 90 9 810
 11 光电 耦合器 ps2801 1 ssop 4 e1 e2 2 6
 q06 20020001 60 62010000010 光耦 acpl 247 500e 四路 3000vrms 3us soic16 16pin smd acpl 247 500e 1500
 q06 20020001 66 62910000050 光耦 tlp2161 2 路 npnphototransistor 1 3us 37 50v rms soic8 8pin smd toshiba tlp2161 13400
@@ -8,5 +30,6 @@ q06 20020001 67 62910000070 光耦 tlp293 单路 npnphototransistor 6 2us 2500vr
 q06 20020001 68 62910000550 光耦 ltv 845s 4 channels ctr600% if 1ma 25 ℃ 5000v sop16 smd lite on ltv 845s 250
 光耦 4n25 opto 1150 dip 6
 光 藕合 cny17f 3 liteon 902 smd 6
-22 optocoupler triac ac 1 ch 400vdrm 4 pin mfsop t r tlp160g toshiba 2000 3000 reel
+22 optocoupler triac ac 1 ch 400vdrm 4 pin mfsop t / r tlp160g toshiba 2000 3000 / reel
 ic11 ic1 ic2 ic3 6n138 4 638 6n138 6n138
+pc357n4j000f u22 u24 photocoupler 15 30ma soic 4p pc357n4j000f 425 2093 1 nd 30ma soic4

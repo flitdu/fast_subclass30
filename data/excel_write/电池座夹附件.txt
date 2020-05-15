@@ -1,8 +1,16 @@
-99 1 33a.101190 02001 电池 卧式 底座 s8411 45r 接插件 cr1220 2 电池 卧式 底座 55 105 ℃ bat2 13 1 bat2 13 harwin s8411 45r bt1 12
+3002tr 3002tr pin3v3 smd / / datasheet lcsc / szlcsc / 1910111742 3002tr c238099 pdf 5
+连接器 battery holder 3p 母 180 ° 5.0 mm dip lotes lotes aaa bat 038 k01 1 100 mbs 5330 1.0
+连接器 纽扣 电池 座 cr2032 直插 cr2032 ws060013 1 9200
+纽扣 电池 底座 cr1220 3v 电池 底座 贴片 bt1 cr1220 1 9
+2032 直插 卧式 电池 座 ml2032 电池 cf2 电池 必须 可充电 ml2032 cr2032 1.0 100.0 top
+两 pin 电池 座 卧式 smt bs 6 cr2032 smd 100
+bat1 36 2486 nd 2486 holder batt 1 / 2aa plastic
+1.0 电池 底座 battery 3v 103 1.0
+bt1 batry holder cr2032 renata smtu2032 lf batry holder cr2032 s bat ch004 2032lf renata smtu2032 lf
+99 1 33a.101190 02001 电池 卧式 底座 s8411 45r / 接插件 / cr1220 2 电池 卧式 底座 / 55 105 ℃ / bat2 13 1 bat2 13 harwin s8411 45r bt1 12
 7 sw16 1 power slide switch smd k3 1296s e2 korean hroparts elec c136659
 battery socket backup battery socket 20mm sm 1060 1060k nd 1.27 u12 1
 others battery holder holder battery 2p cr1220 for cr1220 3v battery
-jumper 2.54 jumper
 battery 3v cr2032 battery holder bat renata hu2032 lf bat renata hu2032 lf
 b1 female snap 9v battery connector 534 594 534 594 0.46 1 0.46
 b1 male snap 9v battery connector 534 593 534 593 0.48 1 0.48

@@ -1,3 +1,46 @@
+1 610 2012030028 插针 插针 5125 直插 棕色 tp50 tp51 tp52 tp101 tp201 5 20 b 100 dlk
+18 插件 插片 250 / 6.3 带 定位 双脚 线路板 插片
+u10 集成电路 ic tc2050 idc prog header footprint part tc2050 idc 1 tag connect 1120
+连接器 jumper 2p 2.54 mm yellow dip cen yp91 011m1 52b1 2 200 mbs 5330 2.0
+连接器 b2dv dust cover 0p dip foxconn for lga 3647 foxconn wnmel60 80n00 eh 2 200 mbs 5330 2.0
+连接器 b2dv lga 3647p smd foxconn pe36477 01nk1 1h foxconn pe36477 01nk1 1h 2 200 mbs 5330 2.0
+连接器 b2dv lga 3647p smd foxconn pe36477 01nk2 1h foxconn pe36477 01nk2 1h 2 200 mbs 5330 2.0
+连接器 b2dv backplate 0p dip foxconn for lga 3647 foxconn pt44p11 4801 2 200 mbs 5330 2.0
+phr2 phd connectors housing 2 pins single rows 11900.0
+phr3 phd connectors housing 3 pins single rows 6650.0
+phdr 12vs phd connectors housing 12 pins double rows 1750.0
+phdr 22vs phd connectors housing 22 pins double rows 350.0
+m7582 05 headers wire housings jumper socket open top black 1400.0
+micro sim 卡座 micro sim 15.98 mm 15.1 mm 1.27 mm sim 卡 连接器 push push micro sim connector smt 2 type j2 1 20
+连接器 socket hrs df13 2s 1.25 c 536 0001 4 1.25 mm pitch 1.0 10.0
+连接器 straightheader smt hrs df13a 2p 1.25 h 51 1.25 mm pitch 2pin 1.0 10.0
+连接器 socket hrs df13 6s 1.25 c 536 0005 5 1.25 mm pitch 1.0 10.0
+连接器 straightheader smt hrs df13a 6p 1.25 h 51 1.25 mm pitch 6pin 1.0 10.0
+crimpingcontact 端子 hrs df13 2630scfa 04 536 0298 5 04 gold plating 8.0 100.0
+连接器 rightangle header hrs df1e 2p 2.5 ds 36 541 0985 036 2.5 mm pitch 1.0 10.0
+sim 78800 0001 1 jp4
+terminal faston 6 35mm 180 º 1217167 1 1 710
+terminal faston 6 35mm 180 º 1217167 1 1 510
+直插 针 4 孔 3 针 辅电用 1 90111 500
+端子 壳 xh 02 2 90141 1000
+端子 壳 xh 03 xh 03 1 90155 500
+端子 连带 xh 2 90156 1000
+端子 壳 xh 04 xh 04 2 90157 1000
+端子 连带 xh 8 90158 4000
+端子 壳 xh 02 xh 02 2 90163 1000
+端子 连带 xh 4 90164 2000
+端子 连带 xh 8 90172 4000
+端子 壳 xh 04 xh 04 2 90173 1000
+端子 壳 xh 03 1 90175 500
+端子 连带 xh 3 90176 1500
+端子 连带 xh 3 90182 1500
+端子 壳 xh 03 xh 03 1 90183 500
+插扣 套 6.3 双线 1 90189 500
+磷 铜 插 扣 连带 6.3 mm 镀银 1 90190 500
+磷 铜 插 扣 连带 6.3 mm 镀银 1 90191 500
+插扣 套 6.3 双线 1 90192 500
+pc test point miniature 2.67 mm x 1.02 mm x 1.52 mm 5015 / 连接器 620
+贴片 电话 连接器 sj 3524 smt tr 贴片 电话 连接器 sj 3525 smt tr y
 screw1 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
 screw2 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
 screw3 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
@@ -5,13 +48,13 @@ screw4 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthre
 screw5 screw m3x16 screw m3x16 sig top l1 screw cheese nylon m3x16 pk100 allthread 119030016 fec 7070615
 tp3 tp4 test point black 0.052 hole 151 103 rc
 tp2 test point red 0.052 hole 151 107 rc
-stereo 1 4 jack stereo 1 4 jack product detail en 112ax sc1316 nd 1217815
-mono 1 4 jack mono 1 4 jack product detail en 112bpcx sc1534 nd 1288950
-knob cover knob cover sparkfun products 10002
+stereo 1 / 4 jack stereo 1 / 4 jack / / / product detail / en / 112ax / sc1316 nd / 1217815
+mono 1 / 4 jack mono 1 / 4 jack / / / product detail / en / 112bpcx / sc1534 nd / 1288950
+knob cover knob cover / / sparkfun / products / 10002
 aavid thermalloy 577202b00000g heat sink to 220 500 compact
-f5v amp 2 331272 6 socket 2pc each fuse t h 2
-3 pin terminal housing 3 pin housing cable assembly conn housing 3pos 156 w polar 09 50 8033
-4 pin terminal housing 4 pin housing cable assembly conn housing 4pos 156 w polar 09 50 8043
+f5v amp 2 331272 6 socket / 2pc each fuse t / h 2
+3 pin terminal housing 3 pin housing cable assembly conn housing 3pos 156 w / polar 09 50 8033
+4 pin terminal housing 4 pin housing cable assembly conn housing 4pos 156 w / polar 09 50 8043
 63849 1 j3 j4 j1 j2 con th 1p 63849 1 4 63849 1 lcsc c86469
 con test point black 5001 5001k nd 0.29 testpoint cabinet
 con test point orange 5003 5003k nd 0.29 testpoint cabinet
@@ -19,3 +62,7 @@ con test point yellow 5004 5004k nd 0.29 testpoint cabinet
 con test point white 5002 5002k nd 0.29 testpoint cabinet
 con test point red 5000 5000k nd 0.29 testpoint cabinet
 knob for vr1 6 mm 18 point t18 450 2401 gr 450 2401 gr 1.1400000000000001 1 1.1400000000000001
+gndsupply bana plug black red bana plug bananna jack bana plug black 571 0500 01 eh0532
+vsupply bana plug red red bana plug bananna jack bana plug red 571 0500 01 eh0532
+3001 holder battery coin 12mm dia thm bat1 1 3001k nd
+sullins connector solutions spc02syan conn jumper shorting gold flash shunt 14 s9001 nd optional

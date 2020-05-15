@@ -1,3 +1,11 @@
+bloco terminal 3vias 5mm 17 5a 1715035 mkds 1 5 / 3 1 db128v 5.0 3p dibo 510
+bloco terminal 3vias 7 5mm 32a 1988118 3 db128v 7.5 3p dibo 2110
+bloco terminal 12vias 3 5mm 13 5a 1751345 mkds 1 / 12 3 5 1 yo1201500000g anytek 510
+3.81 间距 14p 卧式 座子 me030 3.81 14p 连接器 575
+3.81 间距 20p 卧式 座子 me030 3.81 20p 连接器 575
+3.81 间距 4p 卧式 公 座子 me030 3.81 04p 连接器 575
+3.81 间距 16p 直插 公 座子 me040 3.81 16p 连接器 575
+x9 mpt 05 / 6 254 mpt 05 / 6 254 phoenix connector terminal n phoenix mpt 05 / 6 254 leiterplattenklemmleiste / buchse 6 polig / 1 reihig raster 254 mm l ä nge 157 mm phoenix tme mpt05 / 6 254 112 200stk
 term block 4pos side ent 3.5 mm 1776275 4 a98038 nd
 sl1 term block 10pos side ent 3.5 mm 1 1776275 0 a98042 nd 1.43 1.14
 4p 插頭 gammate 797 dip
@@ -20,10 +28,16 @@ sl1 term block 10pos side ent 3.5 mm 1 1776275 0 a98042 nd 1.43 1.14
 2 pin screw small jst 3.36
 2 pin screw large jst 5.0
 3 pin screw large jst 5.0
-terminal block 12 pin screw terminal block product detail en ostvn12a150 ed10568 nd 1588872
-terminal block 3 pin screw terminal block product detail en ostvn03a150 ed10562 nd 1588863
-terminal block 6 pin screw terminal block product detail en 282834 6 a98337 nd 1153267
-39502 6 fet0 3 1984659 phoenix conn term block t h 6pos 3.5 mm
-39502 6 fet4 7 1984659 phoenix conn term block t h 6pos 3.5 mm project 2
+terminal block 12 pin screw terminal block / / / product detail / en / ostvn12a150 / ed10568 nd / 1588872
+terminal block 3 pin screw terminal block / / / product detail / en / ostvn03a150 / ed10562 nd / 1588863
+terminal block 6 pin screw terminal block / / / product detail / en / 282834 6 / a98337 nd / 1153267
+39502 6 fet0 3 1984659 phoenix conn term block t / h 6pos 3.5 mm
+39502 6 fet4 7 1984659 phoenix conn term block t / h 6pos 3.5 mm project 2
 osttc08 j301j302j303j304 osttc082162 on shore term block 5.08 mm vert 8pos pcb assemble
 screw header 01 3 can 282834 3 tyco term block 3pos side ent 2.54 mm project 2
+on shore technology inc ostte020161 term block 3.5 mm vert 2pos pcb x1 1 ed2635 nd
+on shore technology inc ostte080161 term block 3.5 mm vert 8pos pcb x1 1 ed2641 nd
+on shore technology inc ostte060161 term block 3.5 mm vert 6pos pcb x2 1 ed2639 nd
+on shore technology inc ostte100161 term block 3.5 mm vert 10pos pcb x3 1 ed2643 nd
+on shore technology inc ostte030161 term block 3.5 mm vert 3pos pcb x4 1 ed2636 nd
+on shore technology inc ostte040161 term block 3.5 mm vert 4pos pcb x5 / x7 / x8 3 ed2637 nd

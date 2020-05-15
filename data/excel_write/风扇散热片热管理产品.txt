@@ -1,0 +1,10 @@
+sink eipps01c al screw 66x60x25mm hojet hojet eipps01c 1 100 mbs 5330 1.0
+backplate bipsn01c al screw 66x48x6mm hojet hojet bipsn01c 1 100 mbs 5330 1.0
+sink ecspp76b al push pin 29.8 x16.5 x10mm hojet hojet ecspp76b 2 200 mbs 5330 2.0
+sink 41.2 x35x27mm pad 13x13mm 粉红 shyung shuhn 8e859 pad13x13 1 100 mbs 5330 1.0
+散热器 green sink 37.5 x37.5 x13mm pad 15x15mm t725p al push pin hojet hojet ecspp05f 1 100 lio 53303 1.0
+散热器 zea 014 b1 30 15 10 带 引脚 1 90123 500
+散热器 zea 125a a1 26x35x75 nbc 200a 2 90124 1000
+散热器 zea 125c a1 110x35x75 nbc 200a 1 90125 500
+散热器 zea 125b a1 105x35x75 nbc 200a 1 90126 500
+散热器 zea 123 a0 16 * 23 * 30 1 90127 500

@@ -1,2 +1,2 @@
-保险丝 2a 63v 1206 1 150 f1
+贴片 保险丝 2a 63v 1206 1 150 f1
 38 fuse resistance vertical 1ws 1 ω 5% 10000

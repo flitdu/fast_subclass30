@@ -1,13 +1,14 @@
-10 133572 2 ic1100430320041 插件 ic 座 110 43 320 41 001000 20pin 40 n
-ed90054 nd ic socket 28pin ms tin tin 300
+10 133572 2 ic1100430320041 插件 ic 座 110 43 320 41 001000 / 20pin 40 n
+ed90054 nd ic socket 28pin ms tin / tin 300
 j33 16mhz dip14 ic socket 14 pin 300 gold 064 populate mill max manuafacturing corp 110 43 314 41 001000
-8 pin dip socket 8 2x4 pin dip socket product detail en a08 lc tt r ae9986 nd 821740
-mill max man uf acturing corp 110 99 308 41 001000 ic socket 8pin ms tin tin 300
-mill max man uf acturing corp 110 99 316 41 001000 ic socket 16pin ms tin tin 300
-mill max man uf acturing corp 110 99 328 41 001000 ic sockets 28pin ms tin tin 300
+8 pin dip socket 8 2x4 pin dip socket / / / product detail / en / a08 lc tt r / ae9986 nd / 821740
+mill max man uf acturing corp 110 99 308 41 001000 ic socket 8pin ms tin / tin 300
+mill max man uf acturing corp 110 99 316 41 001000 ic socket 16pin ms tin / tin 300
+mill max man uf acturing corp 110 99 328 41 001000 ic sockets 28pin ms tin / tin 300
 u2 a463 nd socket for 4 pin osc dip 8 1
-ic socket conrad p ic socket spacing 762 mm number of pins 18 1 189537 0242 022
+ic socket / / conrad / p / ic socket spacing 762 mm number of pins 18 1 189537 0242 022
 dip8 5 571 1 390261 2 dip8
 dip14 5 571 1825094 3 dip14
 dip16 5 571 1825094 4 dip16
 dip24 2 571 1825109 1 dip24
+ic socket 8 pin tin u1 u12 assmann d ae9986 nd 0.49

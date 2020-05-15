@@ -1,8 +1,0 @@
-mcu 31 4b3901b0 u02 s000322 ic mcu 32bit 256kb flash 56qfn cy8c4248lqi bl573 cypress qfn 50
-mcu 24 4b4801a0 u06 s000358 ic mcu 32bit 192kb flash 64lqfp m32l072rzt6 半导 qfp 280
-mcu 57 2c6806a0 u06 s000142 ic mcu 32bit 1mb flash 144htqfp f28m35h52c1rfpt qfp 10
-mcu q06 20020001 78 63001000100 单片机 m32f103rbt6 32bit 128kflash20kbram 72mhz lqfp64 64pin smd m32f103rbt6 112
-mcu q06 20020001 80 63001000850 单片机 m32f103rdt6 32 位 384kbrom 72mhz lqfp 64pin smd m32f103rdt6 36
-mcu q06 20020001 79 63001000530 单片机 m32f105 mcu 32 bit arm cortex m3 risc 256kb flash 2.0 v 3.6 v lqfp100 100pin smd m32f105vct6 201
-mcu q06 20020001 81 63002000040 微处理器 mcf5441 mcu 32bit romless 250mhz 3.3 v 256mapbga 256pin smd freescale mcf54418cmj250 166
-mcu u1 aducm320bbcz bga skt 718 sh11206 504 a1 bga skt 96ld sensata 718 sh11206 504 a1 80mhz m3 core cifr asic analog devices aducm320bbcz aducm320bbcz

@@ -1,0 +1,3 @@
+bmd 350 a r mod ble 50 nordic nrf52832 soc rigado inc 1 1000
+bmd 350 a r mod ble 50 nordic nrf52832 soc rigado inc 1 5000
+lora 模组 efm32 sx1278 433mhz 2w 33dbm 23 * 26.5 * 3.5 mm yl 800mt 2w yl 800mt 2w 1 yl 800mt 2w 50

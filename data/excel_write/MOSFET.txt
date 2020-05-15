@@ -1,27 +1,115 @@
-133148 1 1 mx ssm3k361r0000 mosfet ssm3k361r sot23f 10 y
-133621 1 mx mp4015sk3q013 mosfet dmp4015sk3q 13 to 252 3 101 y
-133621 1 mx pmv250epear00 mosfet pmv250epear sot23 101 y
-133687 1 mx rlml6402trpbf mosfet irlml6402trpbf sot 23 602 y
-133687 1 mx rlml2502trpbf mosfet irlml2502trpbf sot 23 301 y
-22 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1600
-23 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1600
-24 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 alpha omega 晶闸管 1700
-23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 stm 三极管 1000.0
-24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 stm 场效应管 1000.0
-24 4b3901b0 q02 s000252 mosfet n ch 60v 1.6 a sot 23 dmn6140l 7 diodes 场效应管 453
-14 4b4801a0 q02 s000103 mosfet n ch 100v 170ma sot23 3 bss123 7 f diodes 场效应管 1126
-15 4b4801a0 q03 s000040 mosfet p ch 50v 130ma sot23 3 bss84 7 f diodes 834
-43 4k2501a0 q02 s000132 mosfet n ch 20v 630ma sot 523 dmg1012t 7 diodes 场效应管 7
-23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 stm 三极管 1000.0
-24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 stm 场效应管 1000.0
-38 1 57a.03 51440001 mos管 irf4905s pmos 55v 42a 20m ω d2pak 55 150 ℃ 1 d2pak 3 on irf4905s q1 12
-132 57a.04 21330001 nmos ntr4501nt1g nmos vds 20v ids 3.2 a 55 150 ℃ sot23 4 sot23 on ntr4501nt1g q1 q2 q3 q4 220
+transistor fet q2 dmn63d8lw 13dict sot 323 dmn63d8lw 13 diodes incorperated 510
+transistor fet pair q1 2n7002dwh6327xtsa1ct sot 363 2n7002dwh6327xtsa1 infineon technologies 510
+1 290 2007030009 场效应管 mosfet fds89161lz so 8 dual n channel 100v 2.7 a q101 q307 2 20 b 40 dlk
+1 300 2007030010 场效应管 mosfet fds4559 so 8 complementary ± 60v 3.5 a q308 q309 2 20 b 40 dlk
+1 310 2007030012 场效应管 mosfet si4666dy t1 ge3 so 8 n channel 25v 16.5 a q316 q317 2 20 b 40 dlk
+1 320 2007030008 场效应管 mosfet zetex bss123ta sot 23 n channel 2.8 v 170ma q321 q322 q323 q324 4 20 b 80 dlk
+贴片 mos管 sot23 si2301 a1 sot23 si2301 a1 q7
+p mosfet sot 23 3 lc sot 23 sot 23 3 q5
+n mosfet sot 23 3 lc sot 23 sot 23 3 n1 n2
+dmg7401sfgq 7 mosfet dmg7401sfgq 7 diodes incorporated powerdi3333 8 10
+ru20p7c mosfet ru20p7c ruichip sot23 3p 10
+贴片 mos管 p mos管 wpm1481 dfn2 * 2 6l willsemi wpm1485 dfn8p0 65b2 00x2 00h0 75 1 willsemi 20 2000 30000
+贴片 mos管 p mos 沟道 ao3415 sot 23 i 3a ao ao3415 sot23 4 80 8000 120000
+贴片 mos管 wpm3012 p mos 沟道 i 3.1 a vds 30v vgs ± 20v sot 23 * wpm3012 sot23 1 20 2000 30000
+2sk2036 sot 23 三极管
+mosfet rt1a050zptr mosfet p ch 12v 5a tsst8 rohm semiconductor rt1a050zptr rohm semiconductor 1050
+p 场效应管 si2301 si2301 q1 q2 q3 sot 23 mcc 3.0 3000
+q1 mos 三极管 2n7002 mosfet n ch 60v 1a sot 23 3 2n7002lt 1 on semi 1120
+贴片 mos管 ao3400 sot 23 2 q1 q2
+贴片 mos管 ao3401 sot 23 2 q11 q12
+q1 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q2 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q3 ipb60r180p7atma1 infineon n channel mosfet 10.0
+q4 ipb60r180p7atma1 infineon n channel mosfet 10.0
+q5 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q6 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q7 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q8 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q9 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q10 sqm120n10 3m8 ge3 100v 3.8 m ω 10.0
+q11 ipb60r180p7atma1 infineon n channel mosfet 10.0
+q12 ipb60r180p7atma1 infineon n channel mosfet 10.0
+三极管 mosfet dual n um6k1ntn sot363 rohm rohm um6k1ntn 11 1100 mbs 5330 11.0
+ntd20p06lt4g mosfet 60v 15.5 a p channel 3d dpack q1 q2 3.0 700.0
+091805 028701 mos fdv303n / sot 23 233
+mosfet s5nf60l n 沟道 5 a 60 v 45 mohm 8 mos1 mos2 mos3 mos4 mos5 mos6 mos7 mos8 160
+ntd20p06lt4g mosfet 60v 15.5 a p channel 3d dpack q1 q2 3.0 700.0
+mosfet se2306 n 沟道 sot 23 sino ic sino ic se2306 300
+ic mosfet 2p ch 30v 5.5 a 8 soic q1 zxmp3a16dn8ct nd diodes / zetex zxmp3a16dn8ta each
+ic mosfet n ch 60v 2.8 a sot23 6 q2 q3 q4 q5 q6 q7 q8 q9 zxmn6a08e6ct nd diodes / zetex zxmn6a08e6ta each
+irlml6401trpbf hexfet power mosfet sot23 dgs international rectifier irlml6401trpbf 1200 9920 7000 1000
+2n7002 n channel enhancement mode field effect transistor 60v 0.3 a sot23 dgs 2n7002 300 9920 7000 1000
+fdms8460 mosfet n ch 40v 25a power56 fdms8460 farchid fdms8460 600 9920 7000 1000
+mmbf170 mosfet n ch 60v 500ma sot 23 mmbf170 sot23 on semiconductor mmbf170lt1g 300 9920 7000 1000
+irf9640spbf irf9640spbf p channel mosfet to 263 farnell 9103112 irf9640spbf d2pak irf9640spbf 600 9920 7000 1000
+无铅 表贴 mos管 fdbl86063 f085 on 单 n 沟道 100v rds on 2.6 mohms 80a 10v 240a tc 357w tj hpsof 8 55 ℃ 175 ℃ 11.78 mmx9.9 mmx2.4 mm on semiconductor 600
+无铅 表贴 mos管 fdws86068 f085 on 漏源 100v vgs ± 20v 漏极 电流 80a 驱动 10v 功耗 214w 55 ℃ 150 ℃ 5.1 * 6.3 * 1.1 mm n 沟道 mosfet 金属 氧化物 power dfn56 onsemi 200
+mosfet nce3415 nce3415 sot 23 willas 50
+51 sj t2306231 mosfet se2306 n 沟道 sot 23 sino ic sino ic se2306 300 se2306 sino ic 300 3 0162328
+transistor mos cas jason190816 power mosfet n ch fdmc7678 30v 17 fdmc7678 1 500
+mic4422ym 9a peak low side mosfet driver soic 8 80.0
+vt1 irf7304 infineon mosfet 2p ch 20v 4.3 a 8 soic so 8
+vt2 fw342 tl e sanyo mosfet n / p ch 30v 6a / 5a 8 sop so 8
+vt3 2n7002 on semiconductor n channel enhancement mode field effect transistor to 236ab sot23
+vt7 2n7002dwh6327xtsa1 infineon technologies mosfet array 2 n channel dual 60v 300ma 500mw surface mount pg sot363 6 sot 363
+q4 q5 rue002n02tlct nd rohm semi rue002n02tl n channel 20v 200ma ta 150mw ta surface mount
+q1 q2 rohm rur020n02 mosfet n ch 20v 2a tsmt3
+csd19538q3at smd mosfet csd19538q3at
+116 mos管 2n7002bk sot23 200
+117 mos管 ao3404 sot23 300
+118 mos管 ao3415 sot23 200
+119 mos管 si4435dy so 8 50
+120 mos管 si4599 psop8 du 50
+121 mos管 fdms8090 psop8 du 50
+122 mos管 fqd2p40tm to 252 300
+nds332p nds332p sot 23 3 q1 q6 q9
+mos管 dn2540n8 g dn2540n8 g 1 400v 150ma sot 89 贴片 m1 supertex 2000
+mosfet p ch 60v 1.1 a sot23 3 nvr5124plt1g on 普通 三极管 24
+mosfet n ch 60v 2.2 a sot23 nvr5198nlt1g on 晶体管 / 晶闸管 24
+mosfet n ch 40v 50a to252 3 313 ipd50n04s4l08atma1 infineon to 24
+mosfet p ch 40v 50a to252 3 smd ipd50p04p4 13 infineon to 24
+mosfet n ch 60v 50a dpak fdd13an06a0 f085 on dpak 6
+54.0 p mosfet irfr9220trpbf irfr9220trpbf 1.0
+smd mosfet n bss138 * bss138 farnell 984 5330 device marking ss q8 q9 2.0 90000.0 90090.0
+fet p channel mosfet vdss 12v id 12a 13mohm 10a 2.5 v vgs th 0.6 v micro fet fdma908pz q1 1.0 45000.0 45045.0
+smd si2369ds sot23 * siliconix si2369ds t1 ge3 3k � reel rosh compliant cat c l / t 25 wks � or fec 240 0360 mosfet p channel 30v 76 a marking code h9 q3 10 450000 450450
+csd18501q5a ic nmos 功率管 8p son5 * 6 u2 u3 u4 u5 4.0 4000.0 20000.0
+sia517dj t1 ge3 mosfet n / p ch 12v 4.5 a sc 70 6 9000
+transistor igbt d2pak3 10a / 600v stgb10nc60hdt4 1 510
+mos管 p 沟道 30v 4.2 a 0.035 ω vgs ± 20v sot23 pmv50epea pmv50epear pmv50epea 2 sot 23 100
+mos管 p 沟道 60v 8.6 a 0.0115 ω vgs ± 20v powerflat5 * 6 si7461dp t1 e3 si7461dp t1 e3 1 42p6llf6 50
+q1 mosfet n ch bsc057n08ns3 g 80v 100a rds 5.7 mohm smd pg tdson 8 bsc057n08ns3 g 80v 100a s tdson8 infineon bsc057n08ns3 g
+q2 mosfet n ch bsc057n08ns3 g 80v 100a rds 5.7 mohm smd pg tdson 8 bsc057n08ns3 g 80v 100a s tdson8 infineon bsc057n08ns3 g
+q3 mosfet n ch bsc028n06ns 60v 100a rds 2.8 mohm smd pg tdson 8 bsc028n06ns 40v 100a s tdson8 infineon bsc028n06ns
+q4 mosfet n ch bsc057n08ns3 g 80v 100a rds 5.7 mohm smd pg tdson 8 bsc057n08ns3 g 80v 100a s tdson8 infineon bsc057n08ns3 g
+q5 mosfet n ch bsc057n08ns3 g 80v 100a rds 5.7 mohm smd pg tdson 8 bsc057n08ns3 g 80v 100a s tdson8 infineon bsc057n08ns3 g
+q6 mosfet n ch bsc028n06ns 60v 100a rds 2.8 mohm smd pg tdson 8 bsc028n06ns 40v 100a s tdson8 infineon bsc028n06ns
+133148 1 1 mx ssm3k361r0000 贴片 mosfet ssm3k361r / sot23f 10 y
+133621 1 mx mp4015sk3q013 贴片 mosfet dmp4015sk3q 13 / to 252 3 101 y
+133621 1 mx pmv250epear00 贴片 mosfet pmv250epear / sot23 101 y
+133687 1 mx rlml6402trpbf 贴片 mosfet irlml6402trpbf / sot 23 602 y
+133687 1 mx rlml2502trpbf 贴片 mosfet irlml2502trpbf / sot 23 301 y
+22 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 / alpha omega 晶闸管 1600
+23 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 / alpha omega 晶闸管 1600
+24 2d2433a0 q03 s000106 n channel mosfet transistor 60v 12a dpak to252 aod444 / alpha omega 晶闸管 1700
+23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 / stm 普通 三极管 1000.0
+24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 / stm 场效应管 1000.0
+24 4b3901b0 q02 s000252 mosfet n ch 60v 1.6 a sot 23 dmn6140l 7 / diodes 场效应管 453
+14 4b4801a0 q02 s000103 mosfet n ch 100v 170ma sot23 3 bss123 7 f / diodes 场效应管 1126
+15 4b4801a0 q03 s000040 mosfet p ch 50v 130ma sot23 3 bss84 7 f / diodes 834
+43 4k2501a0 q02 s000132 mosfet n ch 20v 630ma sot 523 dmg1012t 7 / diodes 场效应管 7
+23.0 2d2436a0 q01 s000220 mosfet p ch 60v 10a dpak std10p6f6 / stm 普通 三极管 1000.0
+24.0 2d2436a0 q02 s000177 mosfet n ch 60v 12a dpak std12nf06t4 / stm 场效应管 1000.0
+38 1 57a.03 51440001 mos管 irf4905s / pmos / 55v / 42a / 20m ω / d2pak / 55 150 ℃ 1 d2pak 3 on irf4905s q1 12
+132 57a.04 21330001 nmos ntr4501nt1g / nmos / vds 20v / ids 3.2 a / 55 150 ℃ / sot23 4 sot23 on ntr4501nt1g q1 q2 q3 q4 220
 15 场效应管 ipd220n06l3g q2 q3 2 6
 q06 20020001 21 60406000260 场效应管 20v 3.7 a 550mv sot 23 3pin smd infineon irlml6402gtrpbf 35
-q06 20020001 95 70406000780 场效应管 irf4905 55v 74a 20mohm ± 20v to220ab 3pin dip infineon irf4905pbf 705
+q06 20020001 95 70406000780 场效应管 irf4905 55v / 74a / 20mohm / ± 20v to220ab 3pin dip infineon irf4905pbf 705
 q06 20020001 22 60406001780 场效应管 n 沟道 30v 35a ± 20v vsonp 8pin smd csd17577q3a 330
 bss138 n channel mosfet sot23 farnell 9845330 0.31 40.0 0.0
 fdc604pct nd mosfet p ch 20v 5.5 a ssot 6 semi fdc604 ic sot23 6 123
+bss123 t1 sot23 n channel mosfet with diode sot23 95p280x115 3n
 q2 mosfet n ch 30v 6.5 a 8soic fds6630a fds6630act nd 0.59 0.331
 bss138w diodes inc bss138w 7 f
 mosfet si2305 sot23 p channel 1.25 w 1.8 v g s mosfet
@@ -49,3 +137,4 @@ q6 q12 nfet pfet 20v 740ma sot563 diodes incorporated dmc2400uv 7 digi key dmc24
 q10 nfet 20v 1 a sot323 diodes incorporated dmg1012uw 7 digi key dmg1012uw 7dict nd 006569
 bss138p 215 q1 q3 trans smd fet n chan 60v 1.6 ohm sot23 bss138p 215 568 10308 1 nd sot23
 pmv48xp q2 high drive fet pchannel sot23 pmv48xp 215 568 7579 1 nd sot23
+q2 q100 q101 fdy300nz semiconductor fdy300nz tran single n channel 2.5 v specified powertrench mosfet nch sc89 pd 0.625 w i 0.6 a v 20v

@@ -1,4 +1,18 @@
+方型 保险 t1a 2 50v 8 * 4mm 插件 f1
+保险 fuse 300v tl te5 ll ammo 1a fuse 300v tl te5 ll ammo 1a 1050
+f1 fuse 2a2 50v 10000
+f1 34030284 23 schurter schurter 10a 电流 t 熔度 贴装 熔断器 154 x 535 x 535 mm 100
+f2 34030284 23 schurter schurter 10a 电流 t 熔度 贴装 熔断器 154 x 535 x 535 mm 100
+091806 034201 保险 座 ptf 77a 2 50v 1.5 a 16
+保险管 熔断 保险丝 管 0.5 a 3 000.00
+插件 保险丝 uda a 8a 2 50v # 5h20 速断 500 0216008 mxep 1300
+插件 保险丝 15a 2 50v d23l21w4.5 h4.5 52nm 1000 abp a 15a 2 50v 1300
+f1 15a / 32v pudenz 1786165 0002 fuse 15a pudenz pudenz 178 6165 3000
+50ct t5h 2 50v p 保险丝 b fuse time lag fuse 2 50v ac 5a 5 * 20mm with lead iec ul eu cn
+50ct p t15ah 2 50v 保险丝 b fuse time lag fuse 2 50v 15a ￠ 5.8 * 22.5 mm axial leaded iec ul
+36.0 保险丝 4.5 a / 12v microsmd450lr c 2 1.0
+37.0 保险丝 0.05 a / 60v 0zrr0005ff1e 7.0 bel fuse
 f2 f4 5 sst375 fuse 375ma 125v 6125 slow sst bel fuse inc sst 375 digi key 507 1060 1 nd 1.17
 f1 f3 sst1.5 fuse 1.5 a 125v 6125 slow sst bel fuse inc sst 1.5 digi key 507 1065 1 nd 1.17
 fuses mini 5mm x 20mm 1.5 a slow blow 504 gdc 1.6 a 5mm x 20mm 1a 2a range
-過載 保護器 10a 125vac hwawon 125 dip 2
+過載 保護器 10a / 125vac hwawon 125 dip 2

@@ -297,5 +297,5 @@ npvv477m004r0003 478 6243 2 nd cap niob oxide 470 uf 20% 4v 2924
 nojc337m001rwj nojc337m001rwj nd cap niob oxi 330 uf 20% 1.8 v 2312
 nosc686m004r0200 478 3234 2 nd cap niob oxide 68 uf 20% 4v 2312
 nojb226m010rwb nojb226m010rwb nd cap niob oxide 22 uf 20% 10v 1210
-4 132942 1 cp nosa106m006r1 氧化 铌 电容器 nosa106m006r1000 10 y 0
+氧化 铌 电容器 nosa106m006r1000 10 y 0
 100 uf 6 nojd107m010rwj 478 8865 2 nd 100 uf niobium oxide 105c 10v 1.274 d capacitor polarized capacitor cq1 6

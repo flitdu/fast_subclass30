@@ -1,3 +1,5 @@
+马达 ic sop8 rz7889 马达 驱动 芯片 lc soic 8 150mil u5
+modulo igbt mdip24 15a 600v ikcm15l60gdxkma1 1 505
 q06 20020001 70 62911002710 电机 驱动器 tmc429 两极 5.5 v 3a qfn32 32pin smd trinamic tmc429 li 436
 u3 l293d h bridge 296 9518 5 nd 1 1 100 110
 ic1 a3967 driver chip a3967slbtr t 59p3273 newark 2.75 1.71

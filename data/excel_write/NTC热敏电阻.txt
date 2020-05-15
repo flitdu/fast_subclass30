@@ -1,309 +1,409 @@
-ncp18xm472j03rb 490 2439 2 nd therm ntc 4.7 kohm 3500k 0603
-ntcg103jf103ft1 445 2550 1 nd thermistor ntc 10kohm 3380k 0402
-ert j0ev474j p11446tr nd ntc thermistor 470k 0402 1005
-ert j0ev474j p11446dkr nd therm ntc 470kohm 4700k 0402
-ert j0ev474j p11446ct nd therm ntc 470kohm 4700k 0402
-ncp03xh103j05rl 490 4644 1 nd thermistor ntc 10kohm 3380k 0201
-ncp15xh103j03rc 490 2414 6 nd thermistor ntc 10kohm 3380k 0402
-ncp15wb473f03rc 490 4802 2 nd thermistor ntc 47kohm 4050k 0402
-ncp15xh103j03rc 490 2414 1 nd thermistor ntc 10kohm 3380k 0402
-ert j0er103j p10574ct nd ntc thermistor 10k 0402 1005 metric
-ncp15wf104f03rc 490 4803 2 nd therm ntc 100kohm 4250k 0402
-ncp03xh103j05rl 490 4644 2 nd thermistor ntc 10kohm 3380k 0201
-ncp15wf104f03rc 490 4803 1 nd therm ntc 100kohm 4250k 0402
-ncp15xh103f03rc 490 4801 6 nd thermistor ntc 10kohm 3380k 0402
-ncp15wb473f03rc 490 4802 6 nd thermistor ntc 47kohm 4050k 0402
-ncp15wf104f03rc 490 4803 6 nd therm ntc 100kohm 4250k 0402
-ntc0805j10k a106104tr nd thermistor ntc 10kohm 0805
-ntc0805j10k a106104dkr nd thermistor ntc 10kohm 0805
-b57421v2222j062 495 7446 2 nd therm ntc 2.2 kohm 3940k 0805
-b57421v2222j062 495 7446 6 nd therm ntc 2.2 kohm 3940k 0805
-nths0805n01n5002je 541 1123 2 nd thermistor ntc 50kohm 3890k 0805
-ert j0eg103fa p12007ct nd ntc thermistor 10k 0402 1005 metric
-ntcg164lh683jt1 445 180086 6 nd thermistor ntc 68kohm 4485k 0603
-b57471v2473j062 495 75855 2 nd thermistor ntc 47kohm 4386k 0805
-ntcg164bh472jtds 445 174522 1 nd therm ntc 4.7 kohm 4096k 0603
-ncp15xm472e03rc 490 11808 1 nd therm ntc 4.7 kohm 3500k 0402
-ncp15xm472e03rc 490 11808 6 nd therm ntc 4.7 kohm 3500k 0402
-ncp15wd683j03rc 490 2403 6 nd thermistor ntc 68kohm 4150k 0402
-ncp15wb333j03rc 490 2401 6 nd thermistor ntc 33kohm 4050k 0402
-ntcg103eh101jt1 445 174303 1 nd thermistor ntc 100ohm 3244k 0402
-ntcg103jf103ht1 445 174898 6 nd thermistor ntc 10kohm 3380k 0402
-ntcg104bh103ht1 445 2551 1 nd ntc thermistor 10k 0402 1005 metric
-ntcg103eh101ht1 445 174897 2 nd thermistor ntc 100ohm 3244k 0402
-ntcg104bh103jt1 445 174314 2 nd thermistor ntc 10kohm 4067k 0402
-rl1004 65.6 59 d1 kc001n nd ntc thermistor 100 圆 片式 2.8 mm x 3.0 mm
-ert j0ev683j p10579ct nd thermistor ntc 68kohm 4700k 0402
-ps303j2 615 1004 nd thermistor ntc 30kohm 3892k bead
-ntcalug03a123hc bc2383 nd therm ntc 12kohm 3740k ring lug
-dkf503n5 235 1107 nd thermistor ntc 50kohm 3960k do35
-ncp15xm331j03rc 490 2416 2 nd thermistor ntc 330ohm 3500k 0402
-ert j1vp473fm p19119dkr nd thermistor ntc 47kohm 4100k 0603
-ncp18xw222e03rb 490 12103 6 nd therm ntc 2.2 kohm 3950k 0603
-cmfb3630153jnt 317 1483 2 nd thermistor ntc 15kohm 3630k 0805
-ntcg163nh331jt1 445 174325 1 nd thermistor ntc 330ohm 0603
-ntcg164lh223jt1 445 174333 6 nd thermistor ntc 22kohm 4485k 0603
-nths0603n10n2002je 541 1116 2 nd thermistor ntc 20kohm 3500k 0603
-ert j0es104j p13580dkr nd therm ntc 100kohm 4330k 0402
-ncp18xw472j03rb 490 12104 2 nd therm ntc 4.7 kohm 3950k 0603
-ert j0es104j p13580ct nd therm ntc 100kohm 4330k 0402
-ntcg164qh224jt1 445 174336 2 nd therm ntc 220kohm 4661k 0603
-b57331v2104j060 495 2106 1 nd therm ntc 100kohm 4390k 0603
-b57881s0212h051 b57881s0212h051 nd therm ntc 2.1 kohm 3560k disc
-mf52f224f4150 mf52f224f4150 nd therm ntc 220kohm 4150k bead
-nc20q00474jba nc20q00474jba nd therm ntc 470kohm 4300k 1206
-103jg1ke 103jg1ke nd thermistor ntc 10kohm 3892k do35
-ntc0805j68k ntc0805j68k nd thermistor ntc 68kohm
-b57620c223m62 b57620c223m62 nd thermistor ntc 22kohm 3930k 0805
-nths1206n01n6802ku nths1206n01n6802ku nd thermistor ntc 68kohm 3964k 1206
-ntcs0402e3153hht bc2330tr nd thermistor ntc 15kohm 3965k 0402
-b57620c0102k062 b57620c0102k062 nd thermistor ntc 1kohm 3420k 0805
-nths1206n17n1503ku nths1206n17n1503ku nd therm ntc 150kohm 4064k 1206
-th423h41gbni th423h41gbni nd therm ntc 231.4 kohm 4176k axial
-mf52a1272h3470 317 1359 nd therm ntc 2.7 kohm 3470k bead
-b57621c333j62 b57621c333j62 nd thermistor ntc 33kohm 3930k 1206
-nc20mc0102jba nc20mc0102jba nd thermistor ntc 1kohm 3910k 1206
-nhq474b435t10 nhq474b435t10 nd therm ntc 470kohm 4350k 1206
-mf52c1223f3470 mf52c1223f3470 nd thermistor ntc 22kohm 3470k bead
-mf52c1472f3470 mf52c1472f3470 nd therm ntc 4.7 kohm 3470k bead
-b57321v2681j60 b57321v2681j60 nd thermistor ntc 680ohm 3940k 0603
-03006 29.1 k 97 g100 03006 29.1 k 97 g100 nd therm ntc 50kohm 3952k do213aa
-b57331v2682j060 b57331v2682j060 nd therm ntc 6.8 kohm 4390k 0603
-b57619c223m60 b57619c223m60 nd thermistor ntc 22kohm 3480k 0603
-b57619c473k60 b57619c473k60 nd thermistor ntc 47kohm 3860k 0603
-mf52a1473h3950 317 1361 nd thermistor ntc 47kohm 3950k bead
-b57621c224k62 b57621c224k62 nd therm ntc 220kohm 4120k 1206
-b57321v2471j60 b57321v2471j60 nd thermistor ntc 470ohm 3940k 0603
-b57621c154m162 b57621c154m162 nd therm ntc 150kohm 4120k 1206
-03006 58.2 k 97 g100 03006 58.2 k 97 g100 nd therm ntc 100kohm 3952k do213aa
-nths0805n01n1503jp nths0805n01n1503jp nd therm ntc 150kohm 3964k 0805
-b57401v2103j062 495 76304 1 nd thermistor ntc 10kohm 3590k 0805
-b57431v2473j062 495 2122 2 nd thermistor ntc 47kohm 0805
-ntcs0402e3223hmt bc2332tr nd ntc thermistor 22k 0402 1005 metric
-b57431v2104j062 495 2118 1 nd therm ntc 100kohm 4390k 0805
-b57421v2223j62 495 75853 2 nd thermistor ntc 22kohm 3940k 0805
-nths0805n01n6802jr nths0805n01n6802jr nd thermistor ntc 68kohm 3964k 0805
-usug1000 104j 615 1059 nd therm ntc 100kohm 3892k do35
-ts3 65c3 317 1103 nd thermistor ntc to51 2 variant
-b57891s203j9 b57891s203j9 nd thermistor ntc 20kohm 4300k disc
-b57891s0222j009 b57891s0222j009 nd therm ntc 2.2 kohm 3560k disc
-rl3008 13.1 59 d1 rl3008 13.1 59 d1 nd thermistor ntc 20ohm 3096k disc
-rl3504 31.2 73 d1 kc022n nd ntc thermistor 50 砂片
-b57891s0103j853 b57891s0103j853 nd thermistor ntc 10kohm 3950k disc
-b57423v2473j062 b57423v2473j062 nd therm ntc 4.7 kohm 4000k 0805
-b57550g1303f000 495 5821 nd thermistor ntc 30kohm 3973k bead
-199 104qag a01 199 104qag a01 nd thermistor ntc 100kohm
-tbps1r151k315h5q tbps1r151k315h5q nd thermistor ntc 150ohm 3157k 0603
-tbps1r221k410h5q tbps1r221k410h5q nd thermistor ntc 220ohm 4034k 0603
-th349g39gbsn th349g39gbsn nd therm ntc 49.12 kohm 3952k axial
-nths0805n17n1503kg nths0805n17n1503kg nd therm ntc 150kohm 4064k 0805
-nths0805n04n3303kg nths0805n04n3303kg nd therm ntc 330kohm 4247k 0805
-nths0805n01n1502ku nths0805n01n1502ku nd thermistor ntc 15kohm 3964k 0805
-135 202fag j10 135 202fag j10 nd thermistor ntc 2kohm do35
-b57411v2221j62 495 3074 1 nd thermistor ntc 220ohm 3500k 0805
-nths0603n17n1503kg nths0603n17n1503kg nd therm ntc 150kohm 4064k 0603
-nhqm471b325t5 nhqm471b325t5 nd thermistor ntc 470ohm 3250k 0805
-b57411v2331j62 495 3075 1 nd thermistor ntc 330ohm 3500k 0805
-nths0805n02n6801he 541 1129 6 nd therm ntc 6.8 kohm 3254k 0805
-143 303qag rc1 480 3149 nd thermistor ntc 30kohm 4138k disc
-175 503lag 301 480 3156 6 nd thermistor ntc 50kohm 3887k 1206
-b57560g1303f005 b57560g1303f005 nd thermistor ntc 30kohm 3612k bead
-b57560g0202j002 b57560g0202j002 nd thermistor ntc 2kohm 3420k bead
-403gg1k 403gg1k nd thermistor ntc 40kohm 3575k do35
-302jg1k 302jg1k nd thermistor ntc 3kohm 3892k do35
-ntcacape3c90055 bc2642 nd therm ntc 10kohm 3984k probe
-nhq272b410t10 nhq272b410t10 nd therm ntc 2.7 kohm 4100k 1206
-nhq152b345t10 nhq152b345t10 nd therm ntc 1.5 kohm 3450k 1206
-ncp18wf104d03rb 490 11811 1 nd therm ntc 100kohm 4250k 0603
-375y1g2k 375y1g2k nd therm ntc 3.7 mohm 4584k do35
-tbps1r472j440h5q tbps1r472j440h5q nd therm ntc 4.7 kohm 4336k 0603
-tbps1r473j475h5q tbps1r473j475h5q nd thermistor ntc 47kohm 4483k 0603
-333rh1k 333rh1k nd thermistor ntc 33kohm 4140k do41
-nhqt104b425t5 nhqt104b425t5 nd therm ntc 100kohm 4250k 0402
-mf52a103h3100 317 1247 nd thermistor ntc 10kohm 3100k bead
-nhq501b325t5 nhq501b325t5 nd thermistor ntc 500ohm 3250k 1206
-dc103j2k dc103j2k nd thermistor ntc 10kohm 3892k bead
-b57164k0681j000 495 76834 nd thermistor ntc 680ohm 3200k disc
-nk182c2r2 235 1530 nd thermistor ntc 1800ohm
-nk502c1r1 235 1535 nd thermistor ntc 5kohm 3977k bead
-nk202c2r5 235 1532 nd thermistor ntc 2kohm 3540k bead
-nk102c2r3 235 1521 nd thermistor ntc 1kohm 3540k bead
-b57621c223k62 b57621c223k62 nd thermistor ntc 22kohm 3480k 1206
-nc20mc0102kba nc20mc0102kba nd thermistor ntc 1kohm 3910k 1206
-b57621c474k62 b57621c474k62 nd therm ntc 470kohm 4090k 1206
-nxft15wf104fa2b025 490 5631 nd therm ntc 100kohm 4250k bead
-ntclg100e2203jb bc2532 nd thermistor ntc 20kohm 3997k do35
-ert d2ffl251s pnt107 nd thermistor ntc 250ohm 3500k disc
-ert j0ea680j p10561ct nd thermistor ntc 68ohm 2800k 0402
-ert j0ep473f p15219tr nd thermistor ntc 47kohm 4050k 0402
-ncp21xq471j03ra 490 2455 1 nd thermistor ntc 470ohm 3650k 0805
-ncp21wb473j03ra 490 2450 2 nd thermistor ntc 47kohm 4050k 0805
-ncp03wf104j05rl 490 4650 6 nd therm ntc 100kohm 4250k 0201
-ncp21xq471j03ra 490 2455 6 nd thermistor ntc 470ohm 3650k 0805
-nths0402n02n1002je 541 1096 1 nd thermistor ntc 10kohm 3477k 0402
-ntcle100e3153jb0 bc2303 nd thermistor ntc 15kohm 3740k bead
-nths0805n04n2203je 541 1135 1 nd therm ntc 220kohm 4247k 0805
-b57863s0502f040 495 2152 nd thermistor ntc 5kohm 3988k bead
-b57550g0502j000 495 75857 nd thermistor ntc 5kohm 3480k bead
-ntcds3hg103gc3nb 445 4828 nd ntc thermistor 10k 204ah 35 axial
-acw105 570 1202 nd ntc thermistor 30k bead
-135 234qbf j01 480 6280 nd therm ntc 230kohm 4261k do35
-ntcle100e3473gb0 bc2428 nd thermistor ntc 47kohm 4090k bead
-ntcle100e3202gb0 bc2406 nd thermistor ntc 2kohm 3528k bead
-ntcg104lh154jt1 445 174318 6 nd therm ntc 150kohm 4485k 0402
-104jg1h 615 1128 nd thermistor ntc 10kohm 3892k do35
-ncp15xh103e03rc 490 8455 1 nd thermistor ntc 10kohm 3380k 0402
-ert j0ev104jm p19114ct nd therm ntc 100kohm 4700k 0402
-ntcls100e3473h bc2470 nd thermistor ntc 47kohm 4090k bead
-ert j0ev104hm p19113dkr nd therm ntc 100kohm 4700k 0402
-ntcg104lh104ht1 445 2553 1 nd ntc thermistor 100k 0402 1005 metric
-ert j0er472j p10572ct nd therm ntc 4.7 kohm 4250k 0402
-ert j0et102j p10564dkr nd thermistor ntc 1kohm 4500k 0402
-acl011 570 1216 nd ntc thermistor 50k bead
-acw027 570 1213 nd therm ntc 100kohm 4201k bead
-ert j0er472j p10572tr nd therm ntc 4.7 kohm 4250k 0402
-acc021 570 1190 nd ntc thermistor 2.252 k bead
-b57356v5473j260 b57356v5473j260 nd thermistor ntc 47kohm 4050k 0603
-b57221v2472j060 b57221v2472j060 nd therm ntc 4.7 kohm 3940k 0402
-nb12l00153kbb nb12l00153kbb nd thermistor ntc 15kohm 3790k 0805
-ntcs0805e3684jxt bc2583dkr nd therm ntc 680kohm 4125k 0805
-ntcs0805e3684jxt bc2583tr nd ntc thermistor 680k 0805 2012 metric
-ntcs0603e3104hxt bc2291tr nd ntc thermistor 100k 0603 1608 metric
-ntcs0603e3472hht bc2538tr nd ntc thermistor 4.7 k 0603 1608 metric
-ntcs0603e3104hxt bc2291ct nd ntc thermistor 100k 0603 1608 metric
-192 502let a01 480 3164 nd ntc thermistor 5k bead
-nb12k00103kbb nb12k00103kbb nd thermistor ntc 10kohm 3630k 0805
-ma100gg103bn 235 1399 nd ntc thermistor 10k 探头 组件
-ntcs0603e3124smt bc2904dkr nd therm ntc 122kohm 3590k 0603
-mc65f103b 235 1058 nd ntc thermistor 10k 磁珠
-nths1206n01n3302ju nths1206n01n3302ju nd thermistor ntc 33kohm 3964k 1206
-nths0603n17n1503ku nths0603n17n1503ku nd therm ntc 150kohm 4064k 0603
-nths1005n02n1502jg nths1005n02n1502jg nd thermistor ntc 15kohm 3477k 1005
-b57862s0103f040 495 2166 nd thermistor ntc 10kohm 3988k bead
-b57231v2473k60 b57231v2473k60 nd thermistor ntc 47kohm 4390k 0402
-ntcle100e3202jt2 ntcle100e3202jt2 nd thermistor ntc 2kohm 3528k bead
-ntcle100e3683jt2 ntcle100e3683jt2 nd therm ntc 360kohm 4190k bead
-abntc 0603 472j 3500f t 535 12844 1 nd therm ntc 4.7 kohm 3500k 0603
-ntcle100e3331jt2 ntcle100e3331jt2 nd thermistor ntc 330ohm 3560k bead
-abntc 0603 682j 3950f t 535 12845 1 nd therm ntc 6.8 kohm 3950k 0603
-abntc 0603 473j 4150f t 535 12849 2 nd thermistor ntc 47kohm 4150k 0603
-ncp18xm221e03rb ncp18xm221e03rb nd thermistor ntc 220ohm 3500k 0603
-ntcle100e3109jt2 ntcle100e3109jt2 nd thermistor ntc 31ohm 2990k bead
-b57895s0103j000 b57895s0103j000 nd thermistor ntc 10kohm
-ncp15wm474e03rc 490 8454 6 nd therm ntc 470kohm 4500k 0402
-th310f39fbsn th310f39fbsn nd thermistor ntc 10.74 kohm axial
-th310f39fbsn t5 th310f39fbsn t5 nd thermistor ntc 10.74 kohm axial
-b57891m1102j000 b57891m1102j000 nd thermistor ntc 1kohm 3930k disc
-nths0402n04n3503je 541 1098 1 nd therm ntc 350kohm 4247k 0402
-ert jzet202j p12020ct nd thermistor ntc 2kohm 4500k 0201
-b57891m0474j052 b57891m0474j052 nd therm ntc 470kohm 5000k disc
-nxft15xv103fa1b040 nxft15xv103fa1b040 nd thermistor ntc 10kohm 3936k bead
-nxft15xv103fa1b025 nxft15xv103fa1b025 nd thermistor ntc 10kohm 3936k bead
-nths0402n04n3503je 541 1098 6 nd therm ntc 350kohm 4247k 0402
-b57881s0212j000 b57881s0212j000 nd therm ntc 2.1 kohm 3560k disc
-ntcg164bh103ht1 445 2555 2 nd thermistor ntc 10kohm 4067k 0603
-nxft15xv103fa2b040 nxft15xv103fa2b040 nd thermistor ntc 10kohm 3936k bead
-nths1012n02n3001kb nths1012n02n3001kb nd thermistor ntc 3kohm 3477k 1012
-ntcle101e3c90172 bc2906 nd therm ntc 5kohm 3324k radial
-ntcle213e3303fht1 ntcle213e3303fht1 nd thermistor ntc 30kohm 3935k bead
-ntcg164lh104jt1 445 174331 1 nd ntc thermistor 100k 0603 1608 metric
-ntcle213e3123fmt1 ntcle213e3123fmt1 nd thermistor ntc 12kohm 3740k bead
-b57867s104j140 b57867s104j140 nd therm ntc 100kohm 4540k bead
-ntcg164lh473jt1 445 174335 6 nd thermistor ntc 47kohm 4485k 0603
-ec95g503w 235 1014 nd thermistor ntc 50kohm 3470k bead
-cwf3aa503g3950 317 1384 nd therm ntc 50kohm 3950k probe
-ks502j2 615 1073 nd thermistor ntc 5kohm 3892k bead
-ntcs0402e3683jht bc2339tr nd thermistor ntc 68kohm 3910k 0402
-b57561g1103f000 495 5824 nd thermistor ntc 10kohm 3478k bead
-nc20kc0101kba nc20kc0101kba nd thermistor ntc 100ohm 3470k 1206
-nc20kc0470kba nc20kc0470kba nd thermistor ntc 47ohm 3470k 1206
-nths0805n01n4702kf nths0805n01n4702kf nd thermistor ntc 47kohm 3964k 0805
-ntcs0805e3103jht bc2561ct nd ntc thermistor 10k 0805 2012 metric
-nths0805n01n2202ke nths0805n01n2202ke nd thermistor ntc 22kohm 3964k 0805
-ntcs0805e3103jmt bc2292ct nd ntc thermistor 10k 0805 2012 metric
-b57561g1103h005 b57561g1103h005 nd thermistor ntc 10kohm 3612k bead
-ec95y103vn 235 1482 nd thermistor ntc 10kohm 3690k bead
-nths1005n02n1002kp nths1005n02n1002kp nd thermistor ntc 10kohm 3477k 1005
-nths1005n02n9201ke nths1005n02n9201ke nd therm ntc 9.2 kohm 3477k 1005
-nths1206n01n2202kr nths1206n01n2202kr nd thermistor ntc 22kohm 3964k 1206
-b57541g1503g005 b57541g1503g005 nd thermistor ntc 10kohm 3612k bead
-nths1206n01n2202ke nths1206n01n2202ke nd thermistor ntc 22kohm 3964k 1206
-nths1205n01n1003kp nths1205n01n1003kp nd therm ntc 100kohm 3964k 1205
-b57560g1203h000 b57560g1203h000 nd thermistor ntc 20kohm 3992k bead
-b57541g1104g000 b57541g1104g000 nd therm ntc 100kohm 4072k bead
-b57561g1104f000 b57561g1104f000 nd therm ntc 100kohm 4072k bead
-nths0805n02n1002kp nths0805n02n1002kp nd thermistor ntc 10kohm 3477k 0805
-b57540g1104g002 b57540g1104g002 nd therm ntc 100kohm 4072k bead
-cwf4b683f3950 cwf4b683f3950 nd thermistor ntc 68kohm 3950k bead
-02t0500jf 02t0500jf nd thermistor ntc 50kohm bead
-nhqm333b400t10 nhqm333b400t10 nd thermistor ntc 33kohm 4000k 0805
-rl1004 34.7 k 140 d1 rl1004 34.7 k 140 d1 nd thermistor ntc 65kohm 4615k disc
-dka502n2 dka502n2 nd thermistor ntc 5kohm 3540k do35
-rl1005 79k 150 d1 rl1005 79k 150 d1 nd therm ntc 150kohm 4228k disc
-121 503jaj q01 121 503jaj q01 nd therm ntc 50kohm 4061k probe
-p20ba202m p20ba202m nd thermistor ntc 2kohm probe
-111 802eaj 901 111 802eaj 901 nd thermistor ntc 8kohm bead
-ntcg203nh103jtds 445 180089 6 nd thermistor ntc 10kohm 3590k 0805
-nb21n50104jbb 478 10980 2 nd therm ntc 100kohm 4160k 0603
-ert j1vt224hm p122076ct nd therm ntc 220kohm 4485k 0603
-81582a400j280j 81582a400j280j nd thermistor ntc 10kohm 3750k 0805
-gc9864n 3 200 223 1182 nd ntc thermistor 98.6 k 珠 玻璃
-b57251v5103j060 495 76289 2 nd thermistor ntc 10kohm 3380k 0402
-nc20k00103kba 478 10982 2 nd ntc thermistor 10k 1206 3216 metric
-kx303j2 615 1152 nd thermistor ntc 30kohm 3892k bead
-nths1006n02n7001je nths1006n02n7001je nd thermistor ntc 7kohm 3477k 1006
-es120 0029 480 6366 nd thermistor ntc 2kohm probe
-ntcc300e4472ft bc3024tr nd thermistor ntc 4.7 kohm 3435k die
-08b3002jf 08b3002jf nd thermistor ntc 30kohm bead
-09b2002jf 09b2002jf nd thermistor ntc 20kohm bead
-121 104kah q01 480 3124 nd therm ntc 100kohm 4118k probe
-b57871s0303f000 b57871s0303f000 nd thermistor ntc 30kohm 3964k bead
-09b3002jf 09b3002jf nd thermistor ntc 30kohm bead
-b57981s0103f001 b57981s0103f001 nd thermistor ntc 10kohm 3980k bead
-rl3004 46.8 73 d1 rl3004 46.8 73 d1 nd thermistor ntc 75ohm 3772k disc
-ntcs0603e3222fmt bc2478ct nd ntc thermistor 2.2 k 0603 1608 metric
-nths0805n02n5001je 541 1128 1 nd thermistor ntc 5kohm 3181k 0805
-07c1003jf 07c1003jf nd thermistor ntc 100kohm bead
-b57875s0103f001 b57875s0103f001 nd thermistor ntc 10kohm 3988k bead
-nths0402n06n4701jr nths0402n06n4701jr nd therm ntc 4.7 kohm 3254k 0402
-nhq302b410t5 nhq302b410t5 nd thermistor ntc 3kohm 4100k 1206
-nths1206n17n1503jg nths1206n17n1503jg nd therm ntc 150kohm 4064k 1206
-ntcs0603e3104fxt bc2475ct nd ntc thermistor 100k 0603 1608 metric
-b57164k0102j001 b57164k0102j001 nd thermistor ntc 1kohm 3730k disc
-ntcs0603e3103fmt bc2472dkr nd thermistor ntc 10kohm 3610k 0603
-ntcs0805e3103fmt bc2558dkr nd thermistor ntc 10kohm 3570k 0805
-ntcs0805e3473hht bc2579tr nd ntc thermistor 47k 0805 2012 metric
-nths0603n02n6801ju nths0603n02n6801ju nd therm ntc 6.8 kohm 3477k 0603
-b57962s282h1 b57962s282h1 nd therm ntc 2.8 kohm 3988k bead
-nths0603n01n6802jr nths0603n01n6802jr nd thermistor ntc 68kohm 3964k 0603
-nka102c2r1c nka102c2r1c nd thermistor ntc 1kohm 3540k bead
-nka102c7r1c nka102c7r1c nd thermistor ntc 500ohm 3977k bead
-nka272c1r1c nka272c1r1c nd therm ntc 2.7 kohm 3977k bead
-c100f202j c100f202j nd thermistor ntc 2kohm bead
-mf51b222f3470 mf51b222f3470 nd thermistor ntc 2.2 kohm bead
-mf51b474f4300 mf51b474f4300 nd thermistor ntc 470kohm bead
-mf51b473f3950 mf51b473f3950 nd thermistor ntc 47kohm bead
-b57619c2103j70 b57619c2103j70 nd thermistor ntc 10kohm 0603
-b57620c2473k62 b57620c2473k62 nd thermistor ntc 47kohm 0805
-mf51b104f3950 317 1371 nd thermistor ntc 100kohm bead
-ntcs0603e3222fmt bc2478tr nd ntc thermistor 2.2 k 0603 1608 metric
-b57619c5103j60 b57619c5103j60 nd thermistor ntc 10kohm 0603
-b57045k0222k000 495 75192 nd therm ntc 2.2 kohm 3900k stud
-mf58222f3470 mf58222f3470 nd therm ntc 2.2 kohm 3470k bead
-135 105qaf j01 135 105qaf j01 nd thermistor ntc 1mohm 4261k do35
-jc103c3r5 20m 235 1071 nd thermistor ntc 10kohm 3960k clip
-b57234s0100m000 495 76260 nd thermistor ntc 10ohm 3060k
-nhq504b435r10 235 1022 nd therm ntc 500kohm 4350k 1206
-ec95h303zn ec95h303zn nd thermistor ntc 30kohm 3936k bead
-ec95f232zn ec95f232zn nd therm ntc 2.252 kohm 3969k bead
-ec95g104zn ec95g104zn nd therm ntc 100kohm 3470k bead
-r8 1 r therm 10k 3% 1 10w 0603 ncp18xh103e03rb
+ntc ncp18xm472j03rb 490 2439 2 nd therm ntc 4.7 kohm 3500k 0603
+ntc ntcg103jf103ft1 445 2550 1 nd thermistor ntc 10kohm 3380k 0402
+ntc ert j0ev474j p11446tr nd ntc thermistor 470k 0402 1005
+ntc ert j0ev474j p11446dkr nd therm ntc 470kohm 4700k 0402
+ntc ert j0ev474j p11446ct nd therm ntc 470kohm 4700k 0402
+ntc ncp03xh103j05rl 490 4644 1 nd thermistor ntc 10kohm 3380k 0201
+ntc ncp15xh103j03rc 490 2414 6 nd thermistor ntc 10kohm 3380k 0402
+ntc ncp15wb473f03rc 490 4802 2 nd thermistor ntc 47kohm 4050k 0402
+ntc ncp15xh103j03rc 490 2414 1 nd thermistor ntc 10kohm 3380k 0402
+ntc ert j0er103j p10574ct nd ntc thermistor 10k 0402 1005 metric
+ntc ncp15wf104f03rc 490 4803 2 nd therm ntc 100kohm 4250k 0402
+ntc ncp03xh103j05rl 490 4644 2 nd thermistor ntc 10kohm 3380k 0201
+ntc ncp15wf104f03rc 490 4803 1 nd therm ntc 100kohm 4250k 0402
+ntc ncp15xh103f03rc 490 4801 6 nd thermistor ntc 10kohm 3380k 0402
+ntc ncp15wb473f03rc 490 4802 6 nd thermistor ntc 47kohm 4050k 0402
+ntc ncp15wf104f03rc 490 4803 6 nd therm ntc 100kohm 4250k 0402
+ntc ntc0805j10k a106104tr nd thermistor ntc 10kohm 0805
+ntc ntc0805j10k a106104dkr nd thermistor ntc 10kohm 0805
+ntc b57421v2222j062 495 7446 2 nd therm ntc 2.2 kohm 3940k 0805
+ntc b57421v2222j062 495 7446 6 nd therm ntc 2.2 kohm 3940k 0805
+ntc nths0805n01n5002je 541 1123 2 nd thermistor ntc 50kohm 3890k 0805
+ntc ert j0eg103fa p12007ct nd ntc thermistor 10k 0402 1005 metric
+ntc ntcg164lh683jt1 445 180086 6 nd thermistor ntc 68kohm 4485k 0603
+ntc b57471v2473j062 495 75855 2 nd thermistor ntc 47kohm 4386k 0805
+ntc ntcg164bh472jtds 445 174522 1 nd therm ntc 4.7 kohm 4096k 0603
+ntc ncp15xm472e03rc 490 11808 1 nd therm ntc 4.7 kohm 3500k 0402
+ntc ncp15xm472e03rc 490 11808 6 nd therm ntc 4.7 kohm 3500k 0402
+ntc ncp15wd683j03rc 490 2403 6 nd thermistor ntc 68kohm 4150k 0402
+ntc ncp15wb333j03rc 490 2401 6 nd thermistor ntc 33kohm 4050k 0402
+ntc ntcg103eh101jt1 445 174303 1 nd thermistor ntc 100ohm 3244k 0402
+ntc ntcg103jf103ht1 445 174898 6 nd thermistor ntc 10kohm 3380k 0402
+ntc ntcg104bh103ht1 445 2551 1 nd ntc thermistor 10k 0402 1005 metric
+ntc ntcg103eh101ht1 445 174897 2 nd thermistor ntc 100ohm 3244k 0402
+ntc ntcg104bh103jt1 445 174314 2 nd thermistor ntc 10kohm 4067k 0402
+ntc rl1004 65.6 59 d1 kc001n nd ntc thermistor 100 圆 片式 2.8 mm x 3.0 mm
+ntc ert j0ev683j p10579ct nd thermistor ntc 68kohm 4700k 0402
+ntc ps303j2 615 1004 nd thermistor ntc 30kohm 3892k bead
+ntc ntcalug03a123hc bc2383 nd therm ntc 12kohm 3740k ring lug
+ntc dkf503n5 235 1107 nd thermistor ntc 50kohm 3960k do35
+ntc ncp15xm331j03rc 490 2416 2 nd thermistor ntc 330ohm 3500k 0402
+ntc ert j1vp473fm p19119dkr nd thermistor ntc 47kohm 4100k 0603
+ntc ncp18xw222e03rb 490 12103 6 nd therm ntc 2.2 kohm 3950k 0603
+ntc cmfb3630153jnt 317 1483 2 nd thermistor ntc 15kohm 3630k 0805
+ntc ntcg163nh331jt1 445 174325 1 nd thermistor ntc 330ohm 0603
+ntc ntcg164lh223jt1 445 174333 6 nd thermistor ntc 22kohm 4485k 0603
+ntc nths0603n10n2002je 541 1116 2 nd thermistor ntc 20kohm 3500k 0603
+ntc ert j0es104j p13580dkr nd therm ntc 100kohm 4330k 0402
+ntc ncp18xw472j03rb 490 12104 2 nd therm ntc 4.7 kohm 3950k 0603
+ntc ert j0es104j p13580ct nd therm ntc 100kohm 4330k 0402
+ntc ntcg164qh224jt1 445 174336 2 nd therm ntc 220kohm 4661k 0603
+ntc b57331v2104j060 495 2106 1 nd therm ntc 100kohm 4390k 0603
+ntc b57881s0212h051 b57881s0212h051 nd therm ntc 2.1 kohm 3560k disc
+ntc mf52f224f4150 mf52f224f4150 nd therm ntc 220kohm 4150k bead
+ntc nc20q00474jba nc20q00474jba nd therm ntc 470kohm 4300k 1206
+ntc 103jg1ke 103jg1ke nd thermistor ntc 10kohm 3892k do35
+ntc ntc0805j68k ntc0805j68k nd thermistor ntc 68kohm
+ntc b57620c223m62 b57620c223m62 nd thermistor ntc 22kohm 3930k 0805
+ntc nths1206n01n6802ku nths1206n01n6802ku nd thermistor ntc 68kohm 3964k 1206
+ntc ntcs0402e3153hht bc2330tr nd thermistor ntc 15kohm 3965k 0402
+ntc b57620c0102k062 b57620c0102k062 nd thermistor ntc 1kohm 3420k 0805
+ntc nths1206n17n1503ku nths1206n17n1503ku nd therm ntc 150kohm 4064k 1206
+ntc th423h41gbni th423h41gbni nd therm ntc 231.4 kohm 4176k axial
+ntc mf52a1272h3470 317 1359 nd therm ntc 2.7 kohm 3470k bead
+ntc b57621c333j62 b57621c333j62 nd thermistor ntc 33kohm 3930k 1206
+ntc nc20mc0102jba nc20mc0102jba nd thermistor ntc 1kohm 3910k 1206
+ntc nhq474b435t10 nhq474b435t10 nd therm ntc 470kohm 4350k 1206
+ntc mf52c1223f3470 mf52c1223f3470 nd thermistor ntc 22kohm 3470k bead
+ntc mf52c1472f3470 mf52c1472f3470 nd therm ntc 4.7 kohm 3470k bead
+ntc b57321v2681j60 b57321v2681j60 nd thermistor ntc 680ohm 3940k 0603
+ntc 03006 29.1 k 97 g100 03006 29.1 k 97 g100 nd therm ntc 50kohm 3952k do213aa
+ntc b57331v2682j060 b57331v2682j060 nd therm ntc 6.8 kohm 4390k 0603
+ntc b57619c223m60 b57619c223m60 nd thermistor ntc 22kohm 3480k 0603
+ntc b57619c473k60 b57619c473k60 nd thermistor ntc 47kohm 3860k 0603
+ntc mf52a1473h3950 317 1361 nd thermistor ntc 47kohm 3950k bead
+ntc b57621c224k62 b57621c224k62 nd therm ntc 220kohm 4120k 1206
+ntc b57321v2471j60 b57321v2471j60 nd thermistor ntc 470ohm 3940k 0603
+ntc b57621c154m162 b57621c154m162 nd therm ntc 150kohm 4120k 1206
+ntc 03006 58.2 k 97 g100 03006 58.2 k 97 g100 nd therm ntc 100kohm 3952k do213aa
+ntc nths0805n01n1503jp nths0805n01n1503jp nd therm ntc 150kohm 3964k 0805
+ntc b57401v2103j062 495 76304 1 nd thermistor ntc 10kohm 3590k 0805
+ntc b57431v2473j062 495 2122 2 nd thermistor ntc 47kohm 0805
+ntc ntcs0402e3223hmt bc2332tr nd ntc thermistor 22k 0402 1005 metric
+ntc b57431v2104j062 495 2118 1 nd therm ntc 100kohm 4390k 0805
+ntc b57421v2223j62 495 75853 2 nd thermistor ntc 22kohm 3940k 0805
+ntc nths0805n01n6802jr nths0805n01n6802jr nd thermistor ntc 68kohm 3964k 0805
+ntc usug1000 104j 615 1059 nd therm ntc 100kohm 3892k do35
+ntc ts3 65c3 317 1103 nd thermistor ntc to51 2 variant
+ntc b57891s203j9 b57891s203j9 nd thermistor ntc 20kohm 4300k disc
+ntc b57891s0222j009 b57891s0222j009 nd therm ntc 2.2 kohm 3560k disc
+ntc rl3008 13.1 59 d1 rl3008 13.1 59 d1 nd thermistor ntc 20ohm 3096k disc
+ntc rl3504 31.2 73 d1 kc022n nd ntc thermistor 50 砂片
+ntc b57891s0103j853 b57891s0103j853 nd thermistor ntc 10kohm 3950k disc
+ntc b57423v2473j062 b57423v2473j062 nd therm ntc 4.7 kohm 4000k 0805
+ntc b57550g1303f000 495 5821 nd thermistor ntc 30kohm 3973k bead
+ntc 199 104qag a01 199 104qag a01 nd thermistor ntc 100kohm
+ntc tbps1r151k315h5q tbps1r151k315h5q nd thermistor ntc 150ohm 3157k 0603
+ntc tbps1r221k410h5q tbps1r221k410h5q nd thermistor ntc 220ohm 4034k 0603
+ntc th349g39gbsn th349g39gbsn nd therm ntc 49.12 kohm 3952k axial
+ntc nths0805n17n1503kg nths0805n17n1503kg nd therm ntc 150kohm 4064k 0805
+ntc nths0805n04n3303kg nths0805n04n3303kg nd therm ntc 330kohm 4247k 0805
+ntc nths0805n01n1502ku nths0805n01n1502ku nd thermistor ntc 15kohm 3964k 0805
+ntc 135 202fag j10 135 202fag j10 nd thermistor ntc 2kohm do35
+ntc b57411v2221j62 495 3074 1 nd thermistor ntc 220ohm 3500k 0805
+ntc nths0603n17n1503kg nths0603n17n1503kg nd therm ntc 150kohm 4064k 0603
+ntc nhqm471b325t5 nhqm471b325t5 nd thermistor ntc 470ohm 3250k 0805
+ntc b57411v2331j62 495 3075 1 nd thermistor ntc 330ohm 3500k 0805
+ntc nths0805n02n6801he 541 1129 6 nd therm ntc 6.8 kohm 3254k 0805
+ntc 143 303qag rc1 480 3149 nd thermistor ntc 30kohm 4138k disc
+ntc 175 503lag 301 480 3156 6 nd thermistor ntc 50kohm 3887k 1206
+ntc b57560g1303f005 b57560g1303f005 nd thermistor ntc 30kohm 3612k bead
+ntc b57560g0202j002 b57560g0202j002 nd thermistor ntc 2kohm 3420k bead
+ntc 403gg1k 403gg1k nd thermistor ntc 40kohm 3575k do35
+ntc 302jg1k 302jg1k nd thermistor ntc 3kohm 3892k do35
+ntc ntcacape3c90055 bc2642 nd therm ntc 10kohm 3984k probe
+ntc nhq272b410t10 nhq272b410t10 nd therm ntc 2.7 kohm 4100k 1206
+ntc nhq152b345t10 nhq152b345t10 nd therm ntc 1.5 kohm 3450k 1206
+ntc ncp18wf104d03rb 490 11811 1 nd therm ntc 100kohm 4250k 0603
+ntc 375y1g2k 375y1g2k nd therm ntc 3.7 mohm 4584k do35
+ntc tbps1r472j440h5q tbps1r472j440h5q nd therm ntc 4.7 kohm 4336k 0603
+ntc tbps1r473j475h5q tbps1r473j475h5q nd thermistor ntc 47kohm 4483k 0603
+ntc 333rh1k 333rh1k nd thermistor ntc 33kohm 4140k do41
+ntc nhqt104b425t5 nhqt104b425t5 nd therm ntc 100kohm 4250k 0402
+ntc mf52a103h3100 317 1247 nd thermistor ntc 10kohm 3100k bead
+ntc nhq501b325t5 nhq501b325t5 nd thermistor ntc 500ohm 3250k 1206
+ntc dc103j2k dc103j2k nd thermistor ntc 10kohm 3892k bead
+ntc b57164k0681j000 495 76834 nd thermistor ntc 680ohm 3200k disc
+ntc nk182c2r2 235 1530 nd thermistor ntc 1800ohm
+ntc nk502c1r1 235 1535 nd thermistor ntc 5kohm 3977k bead
+ntc nk202c2r5 235 1532 nd thermistor ntc 2kohm 3540k bead
+ntc nk102c2r3 235 1521 nd thermistor ntc 1kohm 3540k bead
+ntc b57621c223k62 b57621c223k62 nd thermistor ntc 22kohm 3480k 1206
+ntc nc20mc0102kba nc20mc0102kba nd thermistor ntc 1kohm 3910k 1206
+ntc b57621c474k62 b57621c474k62 nd therm ntc 470kohm 4090k 1206
+ntc nxft15wf104fa2b025 490 5631 nd therm ntc 100kohm 4250k bead
+ntc ntclg100e2203jb bc2532 nd thermistor ntc 20kohm 3997k do35
+ntc ert d2ffl251s pnt107 nd thermistor ntc 250ohm 3500k disc
+ntc ert j0ea680j p10561ct nd thermistor ntc 68ohm 2800k 0402
+ntc ert j0ep473f p15219tr nd thermistor ntc 47kohm 4050k 0402
+ntc ncp21xq471j03ra 490 2455 1 nd thermistor ntc 470ohm 3650k 0805
+ntc ncp21wb473j03ra 490 2450 2 nd thermistor ntc 47kohm 4050k 0805
+ntc ncp03wf104j05rl 490 4650 6 nd therm ntc 100kohm 4250k 0201
+ntc ncp21xq471j03ra 490 2455 6 nd thermistor ntc 470ohm 3650k 0805
+ntc nths0402n02n1002je 541 1096 1 nd thermistor ntc 10kohm 3477k 0402
+ntc ntcle100e3153jb0 bc2303 nd thermistor ntc 15kohm 3740k bead
+ntc nths0805n04n2203je 541 1135 1 nd therm ntc 220kohm 4247k 0805
+ntc b57863s0502f040 495 2152 nd thermistor ntc 5kohm 3988k bead
+ntc b57550g0502j000 495 75857 nd thermistor ntc 5kohm 3480k bead
+ntc ntcds3hg103gc3nb 445 4828 nd ntc thermistor 10k 204ah 35 axial
+ntc acw105 570 1202 nd ntc thermistor 30k bead
+ntc 135 234qbf j01 480 6280 nd therm ntc 230kohm 4261k do35
+ntc ntcle100e3473gb0 bc2428 nd thermistor ntc 47kohm 4090k bead
+ntc ntcle100e3202gb0 bc2406 nd thermistor ntc 2kohm 3528k bead
+ntc ntcg104lh154jt1 445 174318 6 nd therm ntc 150kohm 4485k 0402
+ntc 104jg1h 615 1128 nd thermistor ntc 10kohm 3892k do35
+ntc ncp15xh103e03rc 490 8455 1 nd thermistor ntc 10kohm 3380k 0402
+ntc ert j0ev104jm p19114ct nd therm ntc 100kohm 4700k 0402
+ntc ntcls100e3473h bc2470 nd thermistor ntc 47kohm 4090k bead
+ntc ert j0ev104hm p19113dkr nd therm ntc 100kohm 4700k 0402
+ntc ntcg104lh104ht1 445 2553 1 nd ntc thermistor 100k 0402 1005 metric
+ntc ert j0er472j p10572ct nd therm ntc 4.7 kohm 4250k 0402
+ntc ert j0et102j p10564dkr nd thermistor ntc 1kohm 4500k 0402
+ntc acl011 570 1216 nd ntc thermistor 50k bead
+ntc acw027 570 1213 nd therm ntc 100kohm 4201k bead
+ntc ert j0er472j p10572tr nd therm ntc 4.7 kohm 4250k 0402
+ntc acc021 570 1190 nd ntc thermistor 2.252 k bead
+ntc b57356v5473j260 b57356v5473j260 nd thermistor ntc 47kohm 4050k 0603
+ntc b57221v2472j060 b57221v2472j060 nd therm ntc 4.7 kohm 3940k 0402
+ntc nb12l00153kbb nb12l00153kbb nd thermistor ntc 15kohm 3790k 0805
+ntc ntcs0805e3684jxt bc2583dkr nd therm ntc 680kohm 4125k 0805
+ntc ntcs0805e3684jxt bc2583tr nd ntc thermistor 680k 0805 2012 metric
+ntc ntcs0603e3104hxt bc2291tr nd ntc thermistor 100k 0603 1608 metric
+ntc ntcs0603e3472hht bc2538tr nd ntc thermistor 4.7 k 0603 1608 metric
+ntc ntcs0603e3104hxt bc2291ct nd ntc thermistor 100k 0603 1608 metric
+ntc 192 502let a01 480 3164 nd ntc thermistor 5k bead
+ntc nb12k00103kbb nb12k00103kbb nd thermistor ntc 10kohm 3630k 0805
+ntc ma100gg103bn 235 1399 nd ntc thermistor 10k 探头 组件
+ntc ntcs0603e3124smt bc2904dkr nd therm ntc 122kohm 3590k 0603
+ntc mc65f103b 235 1058 nd ntc thermistor 10k 磁珠
+ntc nths1206n01n3302ju nths1206n01n3302ju nd thermistor ntc 33kohm 3964k 1206
+ntc nths0603n17n1503ku nths0603n17n1503ku nd therm ntc 150kohm 4064k 0603
+ntc nths1005n02n1502jg nths1005n02n1502jg nd thermistor ntc 15kohm 3477k 1005
+ntc b57862s0103f040 495 2166 nd thermistor ntc 10kohm 3988k bead
+ntc b57231v2473k60 b57231v2473k60 nd thermistor ntc 47kohm 4390k 0402
+ntc ntcle100e3202jt2 ntcle100e3202jt2 nd thermistor ntc 2kohm 3528k bead
+ntc ntcle100e3683jt2 ntcle100e3683jt2 nd therm ntc 360kohm 4190k bead
+ntc abntc 0603 472j 3500f t 535 12844 1 nd therm ntc 4.7 kohm 3500k 0603
+ntc ntcle100e3331jt2 ntcle100e3331jt2 nd thermistor ntc 330ohm 3560k bead
+ntc abntc 0603 682j 3950f t 535 12845 1 nd therm ntc 6.8 kohm 3950k 0603
+ntc abntc 0603 473j 4150f t 535 12849 2 nd thermistor ntc 47kohm 4150k 0603
+ntc ncp18xm221e03rb ncp18xm221e03rb nd thermistor ntc 220ohm 3500k 0603
+ntc ntcle100e3109jt2 ntcle100e3109jt2 nd thermistor ntc 31ohm 2990k bead
+ntc b57895s0103j000 b57895s0103j000 nd thermistor ntc 10kohm
+ntc ncp15wm474e03rc 490 8454 6 nd therm ntc 470kohm 4500k 0402
+ntc th310f39fbsn th310f39fbsn nd thermistor ntc 10.74 kohm axial
+ntc th310f39fbsn t5 th310f39fbsn t5 nd thermistor ntc 10.74 kohm axial
+ntc b57891m1102j000 b57891m1102j000 nd thermistor ntc 1kohm 3930k disc
+ntc nths0402n04n3503je 541 1098 1 nd therm ntc 350kohm 4247k 0402
+ntc ert jzet202j p12020ct nd thermistor ntc 2kohm 4500k 0201
+ntc b57891m0474j052 b57891m0474j052 nd therm ntc 470kohm 5000k disc
+ntc nxft15xv103fa1b040 nxft15xv103fa1b040 nd thermistor ntc 10kohm 3936k bead
+ntc nxft15xv103fa1b025 nxft15xv103fa1b025 nd thermistor ntc 10kohm 3936k bead
+ntc nths0402n04n3503je 541 1098 6 nd therm ntc 350kohm 4247k 0402
+ntc b57881s0212j000 b57881s0212j000 nd therm ntc 2.1 kohm 3560k disc
+ntc ntcg164bh103ht1 445 2555 2 nd thermistor ntc 10kohm 4067k 0603
+ntc nxft15xv103fa2b040 nxft15xv103fa2b040 nd thermistor ntc 10kohm 3936k bead
+ntc nths1012n02n3001kb nths1012n02n3001kb nd thermistor ntc 3kohm 3477k 1012
+ntc ntcle101e3c90172 bc2906 nd therm ntc 5kohm 3324k radial
+ntc ntcle213e3303fht1 ntcle213e3303fht1 nd thermistor ntc 30kohm 3935k bead
+ntc ntcg164lh104jt1 445 174331 1 nd ntc thermistor 100k 0603 1608 metric
+ntc ntcle213e3123fmt1 ntcle213e3123fmt1 nd thermistor ntc 12kohm 3740k bead
+ntc b57867s104j140 b57867s104j140 nd therm ntc 100kohm 4540k bead
+ntc ntcg164lh473jt1 445 174335 6 nd thermistor ntc 47kohm 4485k 0603
+ntc ec95g503w 235 1014 nd thermistor ntc 50kohm 3470k bead
+ntc cwf3aa503g3950 317 1384 nd therm ntc 50kohm 3950k probe
+ntc ks502j2 615 1073 nd thermistor ntc 5kohm 3892k bead
+ntc ntcs0402e3683jht bc2339tr nd thermistor ntc 68kohm 3910k 0402
+ntc b57561g1103f000 495 5824 nd thermistor ntc 10kohm 3478k bead
+ntc nc20kc0101kba nc20kc0101kba nd thermistor ntc 100ohm 3470k 1206
+ntc nc20kc0470kba nc20kc0470kba nd thermistor ntc 47ohm 3470k 1206
+ntc nths0805n01n4702kf nths0805n01n4702kf nd thermistor ntc 47kohm 3964k 0805
+ntc ntcs0805e3103jht bc2561ct nd ntc thermistor 10k 0805 2012 metric
+ntc nths0805n01n2202ke nths0805n01n2202ke nd thermistor ntc 22kohm 3964k 0805
+ntc ntcs0805e3103jmt bc2292ct nd ntc thermistor 10k 0805 2012 metric
+ntc b57561g1103h005 b57561g1103h005 nd thermistor ntc 10kohm 3612k bead
+ntc ec95y103vn 235 1482 nd thermistor ntc 10kohm 3690k bead
+ntc nths1005n02n1002kp nths1005n02n1002kp nd thermistor ntc 10kohm 3477k 1005
+ntc nths1005n02n9201ke nths1005n02n9201ke nd therm ntc 9.2 kohm 3477k 1005
+ntc nths1206n01n2202kr nths1206n01n2202kr nd thermistor ntc 22kohm 3964k 1206
+ntc b57541g1503g005 b57541g1503g005 nd thermistor ntc 10kohm 3612k bead
+ntc nths1206n01n2202ke nths1206n01n2202ke nd thermistor ntc 22kohm 3964k 1206
+ntc nths1205n01n1003kp nths1205n01n1003kp nd therm ntc 100kohm 3964k 1205
+ntc b57560g1203h000 b57560g1203h000 nd thermistor ntc 20kohm 3992k bead
+ntc b57541g1104g000 b57541g1104g000 nd therm ntc 100kohm 4072k bead
+ntc b57561g1104f000 b57561g1104f000 nd therm ntc 100kohm 4072k bead
+ntc nths0805n02n1002kp nths0805n02n1002kp nd thermistor ntc 10kohm 3477k 0805
+ntc b57540g1104g002 b57540g1104g002 nd therm ntc 100kohm 4072k bead
+ntc cwf4b683f3950 cwf4b683f3950 nd thermistor ntc 68kohm 3950k bead
+ntc 02t0500jf 02t0500jf nd thermistor ntc 50kohm bead
+ntc nhqm333b400t10 nhqm333b400t10 nd thermistor ntc 33kohm 4000k 0805
+ntc rl1004 34.7 k 140 d1 rl1004 34.7 k 140 d1 nd thermistor ntc 65kohm 4615k disc
+ntc dka502n2 dka502n2 nd thermistor ntc 5kohm 3540k do35
+ntc rl1005 79k 150 d1 rl1005 79k 150 d1 nd therm ntc 150kohm 4228k disc
+ntc 121 503jaj q01 121 503jaj q01 nd therm ntc 50kohm 4061k probe
+ntc p20ba202m p20ba202m nd thermistor ntc 2kohm probe
+ntc 111 802eaj 901 111 802eaj 901 nd thermistor ntc 8kohm bead
+ntc ntcg203nh103jtds 445 180089 6 nd thermistor ntc 10kohm 3590k 0805
+ntc nb21n50104jbb 478 10980 2 nd therm ntc 100kohm 4160k 0603
+ntc ert j1vt224hm p122076ct nd therm ntc 220kohm 4485k 0603
+ntc 81582a400j280j 81582a400j280j nd thermistor ntc 10kohm 3750k 0805
+ntc gc9864n 3 200 223 1182 nd ntc thermistor 98.6 k 珠 玻璃
+ntc b57251v5103j060 495 76289 2 nd thermistor ntc 10kohm 3380k 0402
+ntc nc20k00103kba 478 10982 2 nd ntc thermistor 10k 1206 3216 metric
+ntc kx303j2 615 1152 nd thermistor ntc 30kohm 3892k bead
+ntc nths1006n02n7001je nths1006n02n7001je nd thermistor ntc 7kohm 3477k 1006
+ntc es120 0029 480 6366 nd thermistor ntc 2kohm probe
+ntc ntcc300e4472ft bc3024tr nd thermistor ntc 4.7 kohm 3435k die
+ntc 08b3002jf 08b3002jf nd thermistor ntc 30kohm bead
+ntc 09b2002jf 09b2002jf nd thermistor ntc 20kohm bead
+ntc 121 104kah q01 480 3124 nd therm ntc 100kohm 4118k probe
+ntc b57871s0303f000 b57871s0303f000 nd thermistor ntc 30kohm 3964k bead
+ntc 09b3002jf 09b3002jf nd thermistor ntc 30kohm bead
+ntc b57981s0103f001 b57981s0103f001 nd thermistor ntc 10kohm 3980k bead
+ntc rl3004 46.8 73 d1 rl3004 46.8 73 d1 nd thermistor ntc 75ohm 3772k disc
+ntc ntcs0603e3222fmt bc2478ct nd ntc thermistor 2.2 k 0603 1608 metric
+ntc nths0805n02n5001je 541 1128 1 nd thermistor ntc 5kohm 3181k 0805
+ntc 07c1003jf 07c1003jf nd thermistor ntc 100kohm bead
+ntc b57875s0103f001 b57875s0103f001 nd thermistor ntc 10kohm 3988k bead
+ntc nths0402n06n4701jr nths0402n06n4701jr nd therm ntc 4.7 kohm 3254k 0402
+ntc nhq302b410t5 nhq302b410t5 nd thermistor ntc 3kohm 4100k 1206
+ntc nths1206n17n1503jg nths1206n17n1503jg nd therm ntc 150kohm 4064k 1206
+ntc ntcs0603e3104fxt bc2475ct nd ntc thermistor 100k 0603 1608 metric
+ntc b57164k0102j001 b57164k0102j001 nd thermistor ntc 1kohm 3730k disc
+ntc ntcs0603e3103fmt bc2472dkr nd thermistor ntc 10kohm 3610k 0603
+ntc ntcs0805e3103fmt bc2558dkr nd thermistor ntc 10kohm 3570k 0805
+ntc ntcs0805e3473hht bc2579tr nd ntc thermistor 47k 0805 2012 metric
+ntc nths0603n02n6801ju nths0603n02n6801ju nd therm ntc 6.8 kohm 3477k 0603
+ntc b57962s282h1 b57962s282h1 nd therm ntc 2.8 kohm 3988k bead
+ntc nths0603n01n6802jr nths0603n01n6802jr nd thermistor ntc 68kohm 3964k 0603
+ntc nka102c2r1c nka102c2r1c nd thermistor ntc 1kohm 3540k bead
+ntc nka102c7r1c nka102c7r1c nd thermistor ntc 500ohm 3977k bead
+ntc nka272c1r1c nka272c1r1c nd therm ntc 2.7 kohm 3977k bead
+ntc c100f202j c100f202j nd thermistor ntc 2kohm bead
+ntc mf51b222f3470 mf51b222f3470 nd thermistor ntc 2.2 kohm bead
+ntc mf51b474f4300 mf51b474f4300 nd thermistor ntc 470kohm bead
+ntc mf51b473f3950 mf51b473f3950 nd thermistor ntc 47kohm bead
+ntc b57619c2103j70 b57619c2103j70 nd thermistor ntc 10kohm 0603
+ntc b57620c2473k62 b57620c2473k62 nd thermistor ntc 47kohm 0805
+ntc mf51b104f3950 317 1371 nd thermistor ntc 100kohm bead
+ntc ntcs0603e3222fmt bc2478tr nd ntc thermistor 2.2 k 0603 1608 metric
+ntc b57619c5103j60 b57619c5103j60 nd thermistor ntc 10kohm 0603
+ntc b57045k0222k000 495 75192 nd therm ntc 2.2 kohm 3900k stud
+ntc mf58222f3470 mf58222f3470 nd therm ntc 2.2 kohm 3470k bead
+ntc 135 105qaf j01 135 105qaf j01 nd thermistor ntc 1mohm 4261k do35
+ntc jc103c3r5 / 20m 235 1071 nd thermistor ntc 10kohm 3960k clip
+ntc b57234s0100m000 495 76260 nd thermistor ntc 10ohm 3060k
+ntc nhq504b435r10 235 1022 nd therm ntc 500kohm 4350k 1206
+ntc ec95h303zn ec95h303zn nd thermistor ntc 30kohm 3936k bead
+ntc ec95f232zn ec95f232zn nd therm ntc 2.252 kohm 3969k bead
+ntc ec95g104zn ec95g104zn nd therm ntc 100kohm 3470k bead
+nc1206kt103kr nc1206kt103kr nd thermistor ntc 10kohm 3730k 1206
+pw302j2 pw302j2 nd thermistor ntc 3kohm 3892k bead
+px102e3 px102e3 nd thermistor ntc 1kohm 3263k bead
+px503j2 px503j2 nd thermistor ntc 50kohm 3892k bead
+b57276k0482a007 b57276k0482a007 nd therm ntc 4.8 kohm 3980k probe
+sc50y503v sc50y503v nd thermistor ntc 50kohm bead
+ra473k0j ra473k0j nd thermistor ntc 47kohm 4000k 0402
+ra103j0j ra103j0j nd thermistor ntc 10kohm 3976k 0402
+tt08 10kc3 t105 1500 1912 1036 nd therm ntc 10kohm 3977k probe
+px104j2 px104j2 nd therm ntc 100kohm 3892k bead
+nths1206n10n2002je 541 1157 1 nd ntc thermistor 20k 1206 3216 metric
+rb204r0j rb204r0j nd therm ntc 200kohm 4250k 0603
+sm403j1k sm403j1k nd thermistor ntc 40kohm 3892k melf
+tc101b2k tc101b2k nd thermistor ntc 100ohm 2941k bead
+sm254r1k sm254r1k nd therm ntc 250kohm 4140k melf
+sm253j1k sm253j1k nd thermistor ntc 25kohm 3892k melf
+ncp03wf333j05rl 490 4647 6 nd thermistor ntc 33kohm 4250k 0201
+ncp21wb333j03ra 490 2449 2 nd thermistor ntc 33kohm 4050k 0805
+rb103j0j rb103j0j nd thermistor ntc 10kohm 3976k 0603
+nths0805n03n1501ku nths0805n03n1501ku nd therm ntc 1.5 kohm 3181k 0805
+ntcle203e3473jb0 ntcle203e3473jb0 nd thermistor ntc 47kohm 4090k bead
+sm08 103370 570 1092 6 nd thermistor ntc 10kohm 3782k 0805
+abntc 0402 102j 3450f t abntc 0402 102j 3450f t nd thermistor ntc 1kohm 3450k 0402
+b57423v2473h062 495 76306 2 nd therm ntc 4.7 kohm 4000k 0805
+nths0805n03n1501kg nths0805n03n1501kg nd therm ntc 1.5 kohm 3181k 0805
+ert jzet472j p12805dkr nd therm ntc 4.7 kohm 4500k 0201
+ert j0er103h p13702tr nd ntc thermistor 10k 0402 1005 metric
+rl1006 475 85 d1 rl1006 475 85 d1 nd thermistor ntc 800ohm 3772k disc
+b57867s104g140 b57867s104g140 nd therm ntc 100kohm 4540k bead
+rl1009 5820 97 d1 rl1009 5820 97 d1 nd thermistor ntc 10kohm 3972k disc
+ntcg103jf103ft1s 445 174506 6 nd thermistor ntc 10kohm 3380k 0402
+ncp03wf333j05rl 490 4647 1 nd thermistor ntc 33kohm 4250k 0201
+ntcle201e3c90028 bc3405 nd thermistor ntc 10kohm 3977k bead
+tts 1.8 kc7 bz 1912 1005 nd therm ntc 1.8 kohm 3500k bead
+nths1206n03n1001jp nths1206n03n1001jp nd thermistor ntc 1kohm 3181k 1206
+ncp15xw153j03rc 490 2422 2 nd thermistor ntc 15kohm 3950k 0402
+tts 5kc3 bz 1912 1015 nd thermistor ntc 5kohm 3977k bead
+b57891s0103h008 495 76850 nd thermistor ntc 10kohm 3950k disc
+nths0603n17n2003jf nths0603n17n2003jf nd therm ntc 200kohm 4064k 0603
+nths0603n17n1503jf nths0603n17n1503jf nd therm ntc 150kohm 4064k 0603
+dc95y103v dc95y103v nd thermistor ntc 10kohm 3690k bead
+gl102e5j gl102e5j nd thermistor ntc 1kohm 3348k bead
+ncp15xc330j03rc 490 2409 1 nd thermistor ntc 33ohm 3100k 0402
+ec95f502v ec95f502v nd thermistor ntc 5kohm 3969k bead
+ec95h303v ec95h303v nd thermistor ntc 30kohm 3936k bead
+ec95g503v ec95g503v nd thermistor ntc 50kohm 4252k bead
+dc95g503v dc95g503v nd thermistor ntc 50kohm 4252k bead
+ntcsmelfxx203jt bc1550tr nd therm ntc 20kohm 3997k do213aa
+ncp18wb473j03rb 490 2428 1 nd thermistor ntc 47kohm 4050k 0603
+mf11 3300010 317 1304 nd thermistor ntc 33kohm disc
+mf11 0460010 317 1300 nd therm ntc 4.6 kohm 3950k disc
+b57301v2103j060 b57301v2103j060 nd thermistor ntc 10kohm 3590k 0603
+nc20kc0180mba nc20kc0180mba nd thermistor ntc 18ohm 3470k 1206
+ntcs0402e3472jmt bc2327tr nd therm ntc 4.7 kohm 3595k 0402
+ncp18wb473e03rb 490 6941 1 nd thermistor ntc 47kohm 4050k 0603
+1dc302j 570 1232 nd thermistor ntc 3kohm 3934k disc
+1db102k 570 1225 nd thermistor ntc 1kohm 3485k disc
+ntcg103jx103dtds 445 174509 2 nd ntc thermistor 10k 0402 1005 metric
+ntcs0805e3153fmt bc2567dkr nd thermistor ntc 15kohm 3700k 0805
+ntcg103jx103dtds 445 174509 6 nd thermistor ntc 10kohm 3380k 0402
+ntclg100e2103jb bc2531 nd ntc thermistor 10k 204ah 35 axial
+2322 615 26104 bc1537ct nd therm ntc 100kohm 3650k 0603
+2322 615 26103 bc1534ct nd thermistor ntc 10kohm 3620k 0603
+ntcsmelfxx103jt bc1549tr nd therm ntc 10kohm 3997k do213aa
+2322 615 26473 bc1535ct nd thermistor ntc 47kohm 3977k 0603
+ntcs0603xx472jht bc1538ct nd therm ntc 4.7 kohm 3830k 0603
+kx203j2 kx203j2 nd thermistor ntc 20kohm 3892k bead
+kx503r2 kx503r2 nd thermistor ntc 50kohm 4140k bead
+nths0805n06n1501je nths0805n06n1501je nd therm ntc 1.5 kohm 3181k 0805
+lr104r0j lr104r0j nd therm ntc 100kohm 4250k 1206
+lc103g2k lc103g2k nd thermistor ntc 10kohm 3575k bead
+nxrt15wf104fa5b040 nxrt15wf104fa5b040 nd therm ntc 100kohm 4250k bead
+ntcs0805e3104gxt bc2563ct nd ntc thermistor 100k 0805 2012 metric
+mc65f302c mc65f302c nd thermistor ntc 3kohm 3969k bead
+mc65f232c mc65f232c nd therm ntc 2.252 kohm 3969k bead
+nxrt15wf104fa5b025 nxrt15wf104fa5b025 nd therm ntc 100kohm 4250k bead
+ntcasrfe3c90406 bc2656 nd thermistor ntc 10kohm 3984k
+mf52c503f3950 g410 317 1408 nd thermistor ntc 50kohm 3950k bead
+b57164k0470k052 b57164k0470k052 nd thermistor ntc 47ohm 2900k disc
+mc65y104c mc65y104c nd therm ntc 100kohm 3699k bead
+nhqmm800b280t10 nhqmm800b280t10 nd thermistor ntc 80ohm 2800k 0603
+nhqmm680b280t10 nhqmm680b280t10 nd thermistor ntc 68ohm 3750k 0603
+nhqmm102b325t10 nhqmm102b325t10 nd thermistor ntc 1kohm 3250k 0603
+nths0805n11n1502ke nths0805n11n1502ke nd thermistor ntc 15kohm 3700k 0805
+nths0805n04n2203ke nths0805n04n2203ke nd therm ntc 220kohm 4247k 0805
+b57551g1303g005 b57551g1303g005 nd thermistor ntc 30kohm 3973k bead
+ntcds3sg104gc4nb 445 4829 nd therm ntc 100kohm 3850k do35
+dka103n3 dka103n3 nd thermistor ntc 10kohm 3540k do35
+dkf203n3 dkf203n3 nd thermistor ntc 20kohm 3960k do35
+b57411v2331k62 b57411v2331k62 nd thermistor ntc 330ohm 3500k 0805
+b57431v2333k062 b57431v2333k062 nd thermistor ntc 33kohm 0805
+nxrt15wb473fa1b030 490 14491 nd thermistor ntc 47kohm 4050k bead
+nxrt15xv103fa1b010 490 17920 nd thermistor ntc 10kohm 3936k bead
+b57431v2222k62 b57431v2222k62 nd thermistor ntc 2.2 kohm 0805
+ntcle203e3272jb0 bc2454 nd therm ntc 2.7 kohm 3977k bead
+mf11 0100010 317 1296 nd thermistor ntc 1kohm 3600k disc
+1dc502j ec 570 1235 nd thermistor ntc 5kohm 3934k disc
+1de104k ec 570 1237 nd therm ntc 100kohm 4447k disc
+b57164k0474k000 b57164k0474k000 nd therm ntc 470kohm 5000k disc
+b57164k0473k000 b57164k0473k000 nd ntc thermistor 47k ohm 10% disc
+r8 1 r therm 10k 3% 1 / 10w 0603 ncp18xh103e03rb
 thermistor rtewtf02103j3in smd 熱敏 電阻 0402 10kr ± 5% b 3435 ewtf02 103j3i n 10000
 rth1 ntc thermistor 10k ohm 1% 0603 ncp18xh103f03rb 1050 1 1000
 ntc 1 r4 1 ntc 5d 9
-rt15 ntc thermistor 0603 10k 25c 1% ntcg163jf103ft1 ntcg163jf103ft1 4000 5000 0.081 25000 0.072 10 15days arrow 4000p 1000p dgk 24000p arrow 1000p
+rt15 ntc thermistor 0603 10k 25c 1% ntcg163jf103ft1 ntcg163jf103ft1 4000 5000 0.081 25000 0.072 10 15days arrow 4000p 1000p / dgk 24000p arrow 1000p
 b57237s229m54 thermistor ntc 2.2 ohm 7a rt1 b57237s229m54 1 200
-热敏电阻 ntcs0805e3474 xt ‘ 0805
+热敏电阻 ntcs0805e3474 * xt ‘ 0805
 thermistor ntc 10k 10.0 ntclg100e2103jb
 12 thermistor ntc 10k fn 116 4822 pc 10.0 ntclg100e2103jb
 60 ntc 热敏电阻 nct 10d20 直插 2 8
@@ -314,62 +414,60 @@ m3se040002 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1
 ntc 热敏电阻 ntc thermistor 10k ohm 5% bead ntcle100e3103jb0
 ntc thermistor 100k ohm 1% 0402 ncp15wf104f03rcmurata 7050
 热敏电阻 10d 9 ntc 1.00 5k
-22 rt1 热敏电阻 cmf0603 301f3000b 300r ± 1% b 25 85 ° c 3000 ntc 负 系数 0603 华巨 s 1 2200.0 1.0
+22 rt1 热敏电阻 cmf0603 301f3000b 300r ± 1% b 25 / 85 ° c 3000 ntc 负 系数 0603 华巨 s 1 2200.0 1.0
 49 热敏电阻 4204 0802 00180 ct103f3435b 06 03 10k 土 1% 0603 1 rt1 a 5000 10000
 49 热敏电阻 4204 0802 00180 ct103f3435b 06 03 10k 土 1% 0603 1 rt1 a 5000 10000
 8 b57234 s100 m he053009 thmistr ntc 10r 5a nt1 1 pc 200 200 b57234 s100 m
 17 负 系数 热敏电阻 ntc 5d 11 zov 1 10000 mf72 5d 11 ruilon 10000 0.138 lc
-30271 poreq2279 30271 p 片状 电阻器 0.15 w 10k ω 3435k ± 1% ntc 0603 2017 08 17 12.0 nhqmm103s4664 amphenlo
+30271 poreq2279 30271 p 片状 电阻器 0.15 w 10k ω 3435k ± 1% ntc 0603 2017 08 17 12.0 nhqmm103s4664 / amphenlo
 mceresno2050d thermistor ntc 220k 0.100 w 3% r0402 man uf acturing co ltd ncp15wm224e03rc 16 weeks 100000
-ntc dip ntc power thermistor 5 ø series 10 ohm 3a p 4 ± 06 mm disc ø 5mm sck 05103lsa 1 fth1 datasheetspdf pdf ttc 103 768609 2
-9 resistor thd ntc thermistor 10k % 1 b25 100 3944 bead thd nxft15xv103fa2b030
-13 c0200164 ntc 电阻 wmf21 50d9xmpup6bb20 50 ω ± 20% 1a dip 10.5 mm 脚 5mm dip 1 500
+ntc dip ntc power thermistor 5 ø series 10 ohm 3a p 4 ± 06 mm disc ø 5mm sck 05103lsa 1 fth1 / / datasheetspdf / pdf / ttc 103 / 768609 / 2 /
+9 resistor thd ntc thermistor 10k % 1 b25 / 100 3944 bead thd nxft15xv103fa2b030
+13 c0200164 ntc 电阻 wmf21 50d9xmpup6bb20 50 ω ± 20% 1a dip 10.5 mm 脚 间距 5mm dip 1 500
 sxfc30000082 4r resister thermistor 10kohm 0603 1% mitsubishi th11 3h103ft smd 0.3 w mitsubishi th11 3h103ft 2 1000 4000
 0101 030012 插件 热敏电阻 500 ppl12140ya2b2yb1 d8h13
 533 sz7 72.0 热敏电阻 5d 9 ntc1 1 3000
 ntc 热敏电阻 mf58 103f3950 3950 10k 8949.54 9100
-26 ea010106231 电阻 ntc sdnt1608x103f3380ftf 420
+26 ea010106231 贴片 电阻 ntc / sdnt1608x103f3380ftf 420
 53 3 热敏电阻 插件 ntc sck03510035mfy 3r 5a 2.4 w 1 r28 thinking sck03510035mfy 200
 ntc 热敏电阻 mf58 103f3950 3950 10k 1 60
-2 11 0215 002 004 ntc ntc 100k ± 1% b 3950 引线 50mm 引线 50mm r47 1 10000.0 焊 组装 bom
-24 11 0215 002 002 ntc 电阻 smd 0402 100k ± 1% b 4100 lc 0402 r r52 1 10000.0
-25 hiqco000000000326 rl0503 5820 97 ms temperature sensors ntc10k amphenol advanced sensors 15
-45.0 ntc 热敏电阻 器 mf72 10d9 ntc1 7.62 mm 安培 龙 1.0 1000
-热敏电阻 temperature sensor and temperature compensation ncp15wf104f03 ertj0er104f 3 3000 ntc1 ntc3201 ntc3701
+ntc 热敏电阻 ntc ntc 100k ± 1% b 3950 引线 50mm 引线 50mm r47 焊 组装 bom
+ntc 热敏电阻 ntc 电阻 smd 0402 100k ± 1% b 4100 lc 0402 r r52
+ntc 热敏电阻 rl0503 5820 97 ms temperature sensors ntc10k amphenol advanced sensors 15
+ntc 热敏电阻 ntc 热敏电阻 器 mf72 10d9 ntc1 7.62 mm 间距 安培 龙 1.0 1000
+ntc 热敏电阻 热敏电阻 temperature sensor and temperature compensation ncp15wf104f03 / / ertj0er104f / / 3 3000 ntc1 ntc3201 ntc3701
 热敏电阻 ntc 10d 11 ntc1 ntc 10d 1.0 100.0 top
 b57236s0200m000 20r ntc thermistor fuse mcmet3.15 b57236s0200m000 300 9920 7000 1000
-76 701539710k31 resistor 电阻 cas jason190815 tres 10k ohm 3% 0603 ntc thermistor t tks tsm1a103h34d1rz 2 1000
-36.0 07050010 sck10103lay 1 50 ptc b thermistor ntc 10ohm ± 15% d10 5 7.5
+resistor 电阻 cas jason190815 tres 10k ohm / 3% 0603 ntc thermistor t tks tsm1a103h34d1rz 2 1000
+resistor 电阻 cas jason190815 tres 10k ohm / 3% 0603 ntc thermistor t tks tsm1a103h34d1rz 3 1500
 146 ntc 电阻 ntc 电阻 100k sip2 2.0 200
 146 ntc 电阻 ntc 电阻 100k sip2 2.0 200
-68 热敏电阻 mf52a103f3435 throughholep1.7 20
 热敏电阻 5d 9 ntc1 1.0 3000.0
-ntc 电阻 b004 10ohm 3a p7.5 mm heat sensitive resisor ntc 10ohm 20% 3a p k 7.5 mm 10000 r39
+ntc 电阻 b004 / 10ohm / 3a / p7.5 mm heat sensitive resisor ntc 10ohm / 20% 3a p k 7.5 mm 10000 r39
 ntc 15mm 15r 20% b57237s0150m051 1 510
 ntc 0603 4 7k 5% b57301v2472j60 1 550
-ntc 15mm 15r 20% b57237s0150m051 1 205
-ntc 0603 4 7k 5% b57301v2472j60 1 205
-21 245 rt1 ntc smd thermistors 6819 26 069a nths0603n11n3002je
-22 245 rt1 ntc smd thermistors 6819 26 069a nths1206n11n3002je
-283 e0010401e7 1 50000 rt1 thermist ntc 10k 50% smd 0805 b 3570k 40 ° c 150 ° c 10k 210mw s 0805 ntcs0805e3103hmt
-284 e0010401e7 1 50000 rt2 thermist ntc 10k 50% smd 0805 b 3570k 40 ° c 150 ° c 10k 210mw s 0805 ntcs0805e3103hmt
+rt1 ntc smd thermistors nths0603n11n3002je
+rt1 ntc smd thermistors nths1206n11n3002je
+rt2 ntc thermistor epoxy coated mini sensor ntcle213e3303fhb0
+rt1 thermist ntc 10k 50% smd 0805 b 3570k 40 ° c / 150 ° c 10k 210mw s 0805 ntcs0805e3103hmt
+rt2 thermist ntc 10k 50% smd 0805 b 3570k 40 ° c / 150 ° c 10k 210mw s 0805 ntcs0805e3103hmt
 18 ntc 热敏电阻 mf72 10d 9 dip 1 1000.0
 996510023512 26 03 2009 31 12 9999 nr901 resistor fixed others 20w rst r ntcr 3 ohm 20% 5a
 ntc thermistor 100k ohm 1% 0402 ncp15wf104f03rcmurata 7050 1.0 7000.0
 ntc 插件 rt1 传感器 带 导线 ntc mt 13e103fd28t 43 10k ω ± 1% b ＝ 3435 ± 1% 60mm
 1.41 rtd1 ntc 热敏电阻 ntc thermistor 10k ohm 5% bead ntcle100e3103jb0
 20 rt1 thermister ntcg163jf103ft1s 10k 0603 1
-53 r60 1 rs 3081 ert jzeg103ja res 0201 ntc thermistor 5% 10k b25 50 3380
-热敏电阻 热敏电阻 ntcg104ef104ft1x 100k 0402 1.0 u4
+53 r60 1 rs 3081 ert jzeg103ja res 0201 ntc thermistor 5% 10k b25 / 50 3380
+热敏电阻 贴片 热敏电阻 ntcg104ef104ft1x 100k 0402 1.0 u4
 26 2 rt1 rt2 10.0 k ntc 0603 100mw 10.0 k 1% ir ntc0603 ncp18xh103f03rb
 27 1 rt3 47k ntc 0603 100mw 47k ir ntc0603 ncp18wb473j03rb
 r30 thermistor dnp 0.05 805 thermistor ntc smd bc 238161513103 10kohms place
 r101 thermistor thermistor 10k 0.05 r1206 sig top l1 thermistor ntc 1206 bc nths1206n02n1002je fec 1458570
 004 1000000005 p0901012 conventional thermistor 103at 103at 2 semitec 12.0 1.0 612.0 allchips semitec 612.0 2.0 0.587
-004 0020900003 p0901016 1017 conventional ntc thermistors 10kohm 3% 103nt 4 r025h41g atc semitec 8.0 2.0 153.0 allchips atc semitec 153.0 2.0 2.22
-004 0020900004 p0901016 1017 conventional ntc thermistor 10kohm radial leaded ntcle100e3103jb0 13.0 2.0 153.0 allchips 153.0 2.0 0.218
+004 0020900003 p0901016 / 1017 conventional ntc thermistors 10kohm 3% 103nt 4 r025h41g atc semitec 8.0 2.0 153.0 allchips atc semitec 153.0 2.0 2.22
+004 0020900004 p0901016 / 1017 conventional ntc thermistor 10kohm radial leaded ntcle100e3103jb0 13.0 2.0 153.0 allchips 153.0 2.0 0.218
 r27 r28 thermistor ntc 10k ω ± 1% 0805 2 热敏电阻 cmfb103f3950fant 8000 0.252 8000 lc
-smd crystal 8mhz 10ppm hc 49us smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
+smd crystal 8mhz 10ppm hc 49us / smd 1 200 x49sm8msb2sc yxc 200.0 0.39 容量 20pf lc
 r6 ntc 33 k 25 ° c 0.01 0603 nb 21 m 0 0333
 温敏 电阻 ncp18xh103f03rb 10k 1% 0603 ncp18xh103f03rb 10000 1 rt1 热敏 器件 r 25 ° c 10k accuracy 1% b constant 25 50 ° c k 3380 ± 1% i 25 ° c 0.31 ma prate 25 ° c 100mw 40 ° c 125 ° c 0603 ncp18xh103f03rb
 热敏电阻 10d 9 1.00 5k

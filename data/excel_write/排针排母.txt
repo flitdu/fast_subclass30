@@ -1,55 +1,278 @@
-19 133726 2 pz1 x362r54z1036 插件 单排 针 1 36p 254 mm 针长 6mm 180 ° 5 n
-13.0 2d2436a0 j04 d000054 2.54 mm pitch pin header single row straight 1x4 0022284042 排针 1005.0
-14.0 2d2436a0 j04 d000055 2.54 mm pitch pin header single row rightangle 1x16 0022288160 排针 1000.0
-15.0 2d2436a0 j04 d000186 插件 双排 排针 ph127 2 8pin 弯针 90 ph127 2 8pr jb stx 排针 810.0
-16.0 2d2436a0 j04 d000188 插件 排针 ph254 1 2pin 弯针 90 ph254 1 2pr jb stx 排针 1010.0
-17.0 2d2436a0 j04 d000267 conn header r a 5pos 2.54 mm 0022052051 排针 1805.0
-18.0 2d2436a0 j04 d000267 conn header r a 5pos 2.54 mm 0022052051 排针
-2 2k2301a0 j04 d000213 1 6pin 单排 排针 直脚 2.54 mm 上 针长 6mm 下针 3mm 总长 11.4 mm ph254 1 6pv stx 排针 1
-16 2c6806a0 j04 d000042 conn header vert tin 1pos 直插 0901200121 排针 10
-17 2c6806a0 j04 d000082 1 3pin 单排 排针 2.54 mm 总长 11.4 mm 上 针长 5.5 mm ph254 1 3v stx 排针 10
-18 2c6806a0 j04 d000120 1 5p 单排 排针 2.54 mm 直针 上 针长 6.1 mm 针长 3mm 总长 11.68 mm m20 9990546 jb stx 排针 20
-19 2c6806a0 j04 d000265 2.54 2 7pin 双排 直插 排针 总长 11.68 mm 上 针长 6.1 mm 针长 3mm m20 9980746 jb stx 排针 10
-13.0 2d2436a0 j04 d000054 2.54 mm pitch pin header single row straight 1x4 0022284042 排针 1005.0
-14.0 2d2436a0 j04 d000055 2.54 mm pitch pin header single row rightangle 1x16 0022288160 排针 1000.0
-15.0 2d2436a0 j04 d000186 插件 双排 排针 ph127 2 8pin 弯针 90 ph127 2 8pr jb stx 排针 810.0
-16.0 2d2436a0 j04 d000188 插件 排针 ph254 1 2pin 弯针 90 ph254 1 2pr jb stx 排针 1010.0
-17.0 2d2436a0 j04 d000267 conn header r a 5pos 2.54 mm 0022052051 排针 1805.0
-18.0 2d2436a0 j04 d000267 conn header r a 5pos 2.54 mm 0022052051 排针
-23 16p8301a0 j25 d000581 j30j 15zkw j 矩形 连接器 15 插 弯 插 2 排 j30j 15zkw j 博大 连接器 12
-24 16p8301a0 j25 d000582 j30j 9zkw j 矩形 连接器 9 插 弯 插 2 排 j30j 9zkw j 博大 连接器 12
-25 16p8301a0 j25 d000583 矩形 连接器 66 芯弯针 插座 接插件 弯 插 3 排 j30j 66zkw j 博大 连接器 12
-11 1a1026j0 j25 s000002 2 way pcb connector screw connection smd 10804 202 a00 weco 连接器 384
-107 1 33a.01254 32001 排针 排针 2.54 mm 双排 32p 排针 针长 11.54 mm 40 85 ℃ 1 h16x2 2 54 txga fph25421 d32s100101b j1 12
+插针 j2 2.54 间距 单排 针 10pin 排针 1 10000
+插针 j2 2.54 间距 单排 针 5pin 排针 1 10000
+11 插件 2.54 mm 2p 1 弯头
+12 插件 2.54 mm 5p 1 弯头
+贴片 排母 间距 2.0 mm 6 双排 母 不带 内柱 6pin * 2 smd p1
+座子 2p 1.25 mm 贴片 座子 1.25 2p p4
+排线 座 1.25 * 10p fpc1.25 mm 10p 双面 接卧 3mm 1.25 10pin p6 p7
+贴片 排针 间距 2.0 mm 6 双排 1806 jp1
+2.54 x1x3 con2 2.54 x1x3 3 60 6000 90000
+connfly connector thd jst 4pin white male connector ds1073 4mvw6 1.0 10000
+connfly connector thd jst 3pin white male connector ds1073 3mvw6 2.0 20000
+connfly connector thd jst 2pin white male connector ds1073 2mvw6 1.0 10000
+jst connector thd jst 2pin red male connector b2p vh r 1.0 10000
+排针 ph2.54 180 1 6p l 12 3.5 ph2.54 180 1 6p l 12 3.5 300
+排针 ph2.54 180 1 8p l 12 3.5 ph2.54 180 1 8p l 12 3.5 300
+直插 4p 插针 间距 2.54 mm 4p 11.5 mm ll1009 1a / 4p 成型 p2 4p 2.54 mm 脚距 bottomlayer 1.0 1000
+直插 6p 插针 间距 2.54 mm 6p 11.6 mm ll1009 1a / 6p 成型 p3 6p 2.54 mm 脚距 bottomlayer 1.0 1000
+j1 连接器 39 30 0100 conn header 10pos 4.2 mm ra tin 39 30 0100 1 1120
+j2 连接器 292304 1 conn recept rtang 4 pos au pcb 292304 1 1 1120
+j3 连接器 5 146274 2 1x2 header 1 5 146274 2 1 1120
+j4 j5 j6 j7 j8 j9 j10 j11 连接器 43045 1018 header micro fit vert dual row 10 pin 43045 1018 8 8960
+j19 连接器 5 146274 2 1x2 header 1 footprint bom im 5 146274 2 dni 0 0
+cn1 10 connector connector header connector header through hole 5 position 0156 396 mm white through hole jst sales inc b5p vh lf sn white
+cn2 10 connector connector header connector header through hole 3 position 0156 396 mm white through hole jst sales inc b3p vh lf sn white
+cn5 next to cn3 10 connector connector header connector header through hole 2 position 0156 396 mm red through hole jst sales inc b2p vh lf sn red
+cn5 next to cn4 10 connector connector header connector header through hole 2 position 0156 396 mm white through hole jst sales inc b2p vh lf sn white
+cn6 10 connector connector header connector header through hole 4 position 0156 396 mm white through hole jst sales inc b4p vh lf sn white
+53 1 con1 2 * 6 1.27 mm 间距 插针 10 boomele 2 * 6 1.27 mm 间距 插针 直排 针 2 * 20p 1.27 mm bmp 精密 10 3 0.65597 6.56 2 * 6 1.27 mm 直插 排针
+5051 / 2510 条形 连接器 1 * 4p p2.54 脚距 2.54 直形 连接器 720
+5051 / 2510 条形 连接器 1 * 5p p2.54 脚距 2.54 直形 连接器 720
+连接器 pin header 2pin 公 180 ° 2.0 mm dip cen cen zp91 02182 02b1 1 100 mbs 5330 1.0
+连接器 pin header 2x2 公 180 ° 2.0 mm dip cen zp91 02403 04b1 1 100 mbs 5330 1.0
+连接器 pin header 1x6 公 180 ° 2.0 mm dip cen zp91 02102 06b1 1 100 mbs 5330 1.0
+连接器 pin header 2x5 公 180 ° 2.0 mm 缺 p10 smd cen yp91 02514 1011 1 100 mbs 5330 1.0
+连接器 pin header 2x6 公 180 ° 2.54 mm smd cen zp91 01502 12b1 1 100 mbs 5330 1.0
+排针 三排 24 位 间距 2mm 2 con1 con2 44
+排针 单排 3 位 间距 2.54 mm 1 p6 22
+排针 单排 2 位 间距 2.54 mm 2 jp4 isp w1 44
+b2b ph k s 2mm pitch header 2 pin 3d b2b ph k s p4 p9 p14 p19 p24 p32 p42 p43 p44 p45 p46 p47 p48 p49 p50 p51 p52 p53 p54 p55 p56 p58 p63 p64 p65 p66 p67 p68 p69 p70 p71 p72 p73 p74 2.0 11900.0
+b3b ph k s 2mm pitch header 3 pin 3d b3b ph k s p2 p3 p6 p8 p11 p13 p16 p18 p21 p23 p26 p28 p29 p30 p31 p34 p35 p37 p38 3.0 6650.0
+b12b phdss lf sn conn header vert 12pos 2mm hdr2x6 p5 p10 p15 p20 p25 12.0 1750.0
+b22b phdss lf sn 2mm pitch header 11 pin dual row 3d b22b phdss lf sn p1 22.0 350.0
+2 1761603 7 headers wire housings pin header 20 pos vert low profile 350.0
+5 146280 3 headers wire housings 3p header gold 15u single row 1400.0
+091807 039001 直插 单排 排母 1 * 10p 2.0 mm 120
+排针 三排 24 位 间距 2mm 2 con1 con2 44
+排针 单排 3 位 间距 2.54 mm 1 p6 22
+排针 单排 2 位 间距 2.54 mm 2 jp4 isp w1 44
+连接器 2.54 mm 间距 3pin 插针 jumper3 ws060003 1 9200
+连接器 2.54 mm 间距 5pin 插针 hdr254m 1x5 ws060006 1 9200
+cn1 connector connector header connector header through hole 5 position 0156 396 mm white through hole jst sales inc jst 日压 100 2 4working days 0627 627 white color
+cn2 connector connector header connector header through hole 3 position 0156 396 mm white through hole jst sales inc jst 日压 100 2 4working days 041748999999999997 4175 white color
+cn5 next to cn3 connector connector header connector header through hole 2 position 0156 396 mm red through hole jst sales inc jst 日压 100 2 4working days 02931 2931 white color
+cn5 next to cn4 connector connector header connector header through hole 2 position 0156 396 mm white through hole jst sales inc jst 日压 100 2 4working days 02931 2931 white color
+cn6 connector connector header connector header through hole 4 position 0156 396 mm white through hole jst sales inc jst 日压 100 2 4working days 05945 5945 shortage
+b2b ph k s 2mm pitch header 2 pin 3d b2b ph k s p4 p9 p14 p19 p24 p32 p42 p43 p44 p45 p46 p47 p48 p49 p50 p51 p52 p53 p54 p55 p56 p58 p63 p64 p65 p66 p67 p68 p69 p70 p71 p72 p73 p74 2.0 11900.0
+b3b ph k s 2mm pitch header 3 pin 3d b3b ph k s p2 p3 p6 p8 p11 p13 p16 p18 p21 p23 p26 p28 p29 p30 p31 p34 p35 p37 p38 3.0 6650.0
+b12b phdss lf sn conn header vert 12pos 2mm hdr2x6 p5 p10 p15 p20 p25 12.0 1750.0
+b22b phdss lf sn 2mm pitch header 11 pin dual row 3d b22b phdss lf sn p1 22.0 350.0
+phoenix2r male female 5.08 mm pitch header 2 pin 3d phoenix2r p60 p61 2.0 700.0
+2 1761603 7 headers wire housings pin header 20 pos vert low profile 350.0
+5 146280 3 headers wire housings 3p header gold 15u single row 1400.0
+m7582 05 headers wire housings jumper socket open top black 1400.0
+单排 针 直插 2.54 4p jp5 1 3
+直插 2.54 5p jp3 1 3
+906631261 conn header vert 26pos 2.54 mm
+1731497 phoenix term block hdr 4pos vert 3.5 mm
+2p 直插 座 脚距 2.54 j6 2pin 1.0 100.0 top
+6p 直插 单排 座 黑色 单边 脚距 2.0 塑高 6mm j9 6p 2.0 单排 座 1.0 100.0 top
+20p 10x2 双排 直插 座 黑色 双边 脚距 2.0 j9 2 20p 10x2 2.0 双排 座 1.0 100.0 top
+4p 直插 单排 针 脚距 2.0 j14 sip4 2.0 1.0 100.0 top
+14p 7x2 双排 直插 座 黑色 双边 脚距 2.0 j15 14p 7x2 2.0 双排 座 1.0 100.0 top
+2 pin header 2mm pitch 2 pin header 2mm pitch 1 1000
+2 pin header 2mm pitch 2 pin header 2mm pitch 1 5000
+5 pin header 1.27 mm / 1.25 mm pitch 5 pin header 1.27 mm / 1.25 mm pitch 1 1000
+5 pin header 1.27 mm / 1.25 mm pitch 5 pin header 1.27 mm / 1.25 mm pitch 1 5000
+4 pin jst 1.27 mm pitch header 4 pin jst 1.27 mm pitch header jst 4 pin connector 1 1000
+4 pin jst 1.27 mm pitch header 4 pin jst 1.27 mm pitch header jst 4 pin connector 1 5000
+4 pin jst 1.27 mm / 1.25 mm pitch header 4 pin jst 1.27 mm / 1.25 mm pitch header jst 4 pin connector 1 1000
+4 pin jst 1.27 mm / 1.25 mm pitch header 4 pin jst 1.27 mm / 1.25 mm pitch header jst 4 pin connector 1 5000
+2 pin header 1.27 mm pitch 2 pin header 1.27 mm pitch 11 11000
+2 pin header 1.27 mm pitch 2 pin header 1.27 mm pitch 11 55000
+2 pin header 1.27 mm / 1.25 mm pitch 2 pin header 1.27 mm / 1.25 mm pitch 11 11000
+2 pin header 1.27 mm / 1.25 mm pitch 2 pin header 1.27 mm / 1.25 mm pitch 11 55000
+2 pin header 1.27 mm / 1.25 mm pitch 2 pin header 1.27 mm / 1.25 mm pitch jst 2 pin connector 2 2000
+2 pin header 1.27 mm / 1.25 mm pitch 2 pin header 1.27 mm / 1.25 mm pitch jst 2 pin connector 2 10000
+5 pin header 1.27 mm pitch 5 pin header 1.27 mm pitch jst 5 pin connector 1 1000
+5 pin header 1.27 mm pitch 5 pin header 1.27 mm pitch jst 5 pin connector 1 5000
+5 pin header 1.27 mm / 1.25 mm pitch 5 pin header 1.27 mm / 1.25 mm pitch jst 5 pin connector 1 1000
+5 pin header 1.27 mm / 1.25 mm pitch 5 pin header 1.27 mm / 1.25 mm pitch jst 5 pin connector 1 5000
+贴片 插座 2pin / ph2.0 间距 贴片 插座 kl header top ph 2alb lcp 94v 0 j1 1 10
+贴片 插座 7pin / 1.25 间距 贴片 插座 1.25 间距 7pin 贴片 插座 j3 1 10
+header 2x2 header 2 pin dual row p1 p2 hdr2x2 2 10
+header 3x2a header 3 pin dual row p4 p6 hdr2x3 cen 2 10
+conn header 2pos 100 vert gold j1 j2 j11 wm4800 nd 70543 0001 each
+conn header 3pos 100 vert gold j4 j10 wm4801 nd 70543 0002 each
+conn header shrouded 8pos 100 vert gold j13 wm4806 nd 70543 0007 each
+conn header 6pos 100 vert gold pcb mount j3 wm4804 nd 70543 0005 each
+conn header 4pos 4.2 mm vert tin j6 wm3801 nd 39 28 1043 each
+conn header 4pos 4.2 mm vert j5 wm24036 nd 39 30 2040 each
+conn header shrouded 10pos 100 vert gold pcb mount j7 wm4808 nd 70543 0009 each
+conn header 2.54 mm 20pos gold p1 s9172 nd sullins connector solutions sbh11 pbpc d10 bk each
+conn header vert 100 3pos 15au p2 p3 a26545 nd 87224 3 each
+conn header vert 100 2pos 15au p4 a26543 nd 87224 2 each
+conn header 5pos 100 vert gold j9 wm4803 nd 70543 0004 each
+m12 d header 4 pin m12 d harting 2103 381 4410 300 9920 7000 1000
+b10b phdss lf sn p 10 position header 2mm pitch smd 10 position header connector 2.00 mm pitch th conn header phd top 10pos 2mm b10b phdss jst b10b phdss lf sn p 1500 9920 7000 1000
+b2p vh lf sn 2 position header 3.96 mm pitch through hole b2p vh lf sn jst b2p vh lf sn 300 9920 7000 1000
+b16b phdss lf sn conn header phd top 16pos 2mm b16b phdss lf sn jst b16b phdss lf sn 300 9920 7000 1000
+b4b ph sm4 lf sn 4 position header connector 2mm pitch smd b4b ph sm4 jst b4b ph sm4 lf sn 300 9920 7000 1000
+b5b ph sm4 tb lf sn 5 position header 2mm pitch smd b5b ph sm4 jst b5b ph sm4 tb lf sn 300 9920 7000 1000
+b4b ph k s 4 position header 2mm pich through right angle 4 position header 2mm pitch through right angle b4b ph k s jst b4b ph k s 900 9920 7000 1000
+bm04b pass 4 position header 2mm pitch through hole bm04b pass jst bm04b pass 300 9920 7000 1000
+87758 0616 header 2 row 6 pos 2mm pitch through holes cn2x3 2mm 87758 0616 300 9920 7000 1000
+951103 8622 ar conn header 3pos 2mm vert t / h cn3 2mm 3m 951103 8622 ar 300 9920 7000 1000
+jp 2mm conn header 2pos 2mm vert t / h 951102 8622 ar 3m 951102 8622 ar 900 9920 7000 1000
+jumper 2x2 header 2 pin dual row 2mm pitch smd tmm 102 06 f d 87759 0414 3000 9920 7000 1000
+jumper 3x2 header 3 pin dual row tmm 103 06 f d hanwin m22 5320305 2400 9920 7000 1000
+2mm pitch jumper jumper busbar shunt microshunt jumper header strips 2 ways 2 mm spc20480 multicomp spc20480 6900 9920 7000 1000
+jst b2b ph k s header 2 pin jst b2b ph k s jst jst b2b ph k s 600 9920 7000 1000
+jk3 双排 排母 2 * 7p 2.54 1
+jk4 双排 排母 2 * 5p 2.54 1
+jk5 双排 排母 2 * 7p 2.54 1
+jk001 jk003 双排 排母 2 * 2p 2.54 3
+接线 端子 xh2.54 5p tjc3 p4 500
+接线 端子 xh2.54 4p tjc3 p5 500
+接线 端子 vh3.96 5p p1 500
+接线 端子 vh3.96 4p p7 500
+双排 插针 双排 弯针 ph2.54 2 * 5p 镀金 1 μ dip 1 500 500 x5
+40 针座 4p 单排 直插 公座 脚距 2.54 mm sip 4 10 j6
+41 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 10 j5
+87 针座 4p 单排 直插 公座 脚距 2.54 mm sip 4 1000 j6
+88 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 1000 j5
+2 * 20 1.27 mm 排针 p1 p2 2 * 20 1.27 mm
+2 * 6 1.27 mm 排针 p3 p4 p5 p6 p12 p14 6 * 2 1.27 mm
+2 * 8 2mm 排母 p7 p8 p10 p11 2 * 8 2mm
+2 * 2 2mm 排母 p9 2 * 3 2mm
+2 * 4 2.54 mm 排针 p13 hdr2x4
+2 * 3 2mm smt 排针 p16 p17 con2x3p 2.00 mm header smt
+38 接口 座 30p 双排 弯脚 公座 脚距 2.54 mm dip 30 1 j5
+39 接口 座 22p 双排 弯脚 公座 脚距 2.54 mm dip 22 1 j7
+40 连接器 2p 单排 直插 公座 脚距 2.54 mm sip 2 1 j4
+41 连接器 3p 单排 直插 公座 脚距 2.54 mm sip 3 1 j2
+42 连接器 4p 单排 直插 公座 脚距 2.54 mm sip 4 2 j1 j9
+43 连接器 6p 单排 直插 公座 脚距 2.54 mm sip 6 3 j3 j12 j13
+44 连接器 ml 700 n ml 700 n dip 4 3 t2 t3 t4
+45 针座 2p 单排 直插 公座 脚距 2.54 mm sip 2 1 j6
+46 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 1 j11
+47 针座 6p 单排 直插 公座 脚距 2.54 mm sip 6 1 j14
+2 14 双排 排母 boomele 排母 2 * 2.54 * 14 p1 cnnt 2.54 * 2 * 14 3d header 14x2 1 10
+a2541wv 4p boomele 排针 2.54 * 4p p3 sip 4 header 4 1 10
+vh3.96 4a boomele vh3.96 4p p4 vh3.96 4p header 4 1 10
+x1 1x5 单排 插针 间距 2.54 mm hdr1x5 1 5
+x2 6p 单排 母座 间距 2.54 mm 塑体 8.5 mm hdr1x6 1 5
+排针 2.54 mm conn 02 * 03 2.54 mm conn 02 * 03 2.54 mm j2 1 20 双排 排针 直针
+xh 4 header4 header4 j4 1 20 xh2.54 直针
+kf2510 2a 针座 2.54 m engine header2 j5 1 20 直针
+排针 2 * 14 * 2.54 双排 排针 2x14p 2.54 mm 精密 p1 1 10
+xh2.54 8p aw 弯针 x8821wr 08s n0sn xkb p2 1 10
+排母 2 * 2.54 * 14 2 * 14 * 2.54 双排 排母 精密 p1 1 10
+排针 2.54 * 4p a2541wv 4p 连接器 p3 1 10
+j1 20021321 00010c4lf 649 202132100010c4lf headers wire housings 1.27 x1.27 mm btb hdr recept smt 10 pos connector connector 1.27 mm 5x2
+header 4 vh3.96 4a boomele p1 p3 p5 vh3.96 li 4p 4 200 3 600
+header 2 a2501wv 2p 连接器 p4 xh2.54 li 2p 2 200 1 200
+header 2 b2p vh lf sn jst p6 vh3.96 li 2p 2 200 1 200
+header 4 a2501wv 4p 连接器 p8 p9 p10 p11 p12 p13 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p7 xh2.54 li 4p 4 200 25 5000
+hardy ph d 8a con16 2.0 mm ph d 8a 1 100 j9
+145 贴片 接插件 1.25 mm 间距 tsip6 1.25 300
+直针 插座 xh2.54 4p xh2.54 4p 3 jp1 jp11 jp12 jp16
+单排 针 pin2x1 2.54 间距 2 jp5 jp13
+pin2x1 2 * 1pin 4.2 mm 2 jp6 jp9
+直针 插座 1.25 t 6a 1.25 t 6a 1 jp7 弯针 直针
+双排 排针 phd2.0 双排 phd2.0 双排 2x8 1 jp8
+双排 排针 phd2.0 双排 phd2.0 双排 2x4 1 jp2
+贴片 接插件 501189 2017 501189 1 1mm 间距 20pin smd20 贴片 j1 2000
+conn header smd 40pos 1.27 mm 公 插针 tfm 120 22 l d a samtec 连接器 3
+81.0 贴片 插座 mx1.25 / 2p 1.0 cn5 3000
+82.0 贴片 插座 mx1.25 / 5p 1.0 cn3 3000
+conn 02x05 odd even pinheader 2x05 p2.54 mm horizontal prpc005dban m71rc generic connector double row 02x05 odd / even pin numbering scheme row 1 odd numbers row 2 even numbers script generated kicad library utils / schlib / autogen / connector / 100
+54 4p 接插件 单排 排针 / 2.54 mm hdr 1x4 10
+22 单排 排针 2.54 1 * 4 镀金 排针 hdr1x4 10
+conn header vert 2pos 100 tin 640456 2 公 插座 796
+conn header vert 3pos 100 tin 脚距 254 mm 3pin 直插 座子 1 挡墙 640456 3 公 插座 400
+conn header vert 14pos 2.54 mm 直插 67997 114hlf amphenol fci 连接器 400
+conn header vert 1 * 10pos 2.54 mm 1 640456 0 连接器 400
+conn header vert 1 * 6pos 2.54 mm 640456 6 连接器 399
+39.0 接插件 dip 5 2.54 1.0
+42.0 接插件 dip jtag 1761603 3 4.0
+header 4x2 jtag 2.54 mm 双排 100
+dip2 2.0 华龙 2p 2.0 插座 8mm j1 1.0 1000.0 5000.0
+dip7 1.27 华龙 7p1.27 单排 针 4mm j3 1.0 1000.0 5000.0
+conector header 6 pinos 2 54mm 22 28 8060 1 a2541wr 6p 520
+conector header 3 pinos 2 54mm bpsc03 2 直排 针 2.54 mm 1 * 3p boomele 710
+2.54 mm 弯针 排针 1 * 6p ph254 1 * 6pr 排针 575
+2.54 间距 3pin hx25405 白色 弯 插 接插件 公母 hx25405 3wap 连接器 2876
+2.54 间距 4pin hx25405 白色 弯 插 接插件 公母 hx25405 4wap 连接器 2876
+2.54 间距 7pin hx25405 白色 弯 插 接插件 公母 hx25405 7wap 连接器 575
+2.54 mm 弯针 排针 1 * 6p ph254 1 * 6pr 排针 580
+2.54 间距 3pin hx25405 白色 弯 插 接插件 公母 hx25405 3wap 连接器 1150
+2.54 间距 4pin hx25405 白色 弯 插 接插件 公母 hx25405 4wap 连接器 1725
+2.54 间距 2pin hx25405 白色 弯 插 接插件 公母 hx25405 2wap 连接器 575
+2.54 mm 间距 排针 / 2x20 2x20 2.54 mm 2.54 mm 间距 排针 / 2x20 1 idc 2x20 2.54 mm 50
+端子 1 * 2pin p2.0 间距 白色 弯脚 ph2.0 2p aw ph2.0 2p aw 1 ph2.0 2p aw 50
+直插 座 xh 02 xh 02 5 90118 2500
+直插 座 xh 03 xh 03 3 90119 1500
+直插 座 xh 04 xh 04 2 90120 1000
+直插 座 vh 03 二针 2 空脚 1 90121 500
+j9 conn pcb header 2p vert p2 50mm 3a 2 50v dc jst b2b xh a b2b xh a 3a 2 50v dc jst b2b xh a jst b2b xh a lf sn
+j10 conn pcb header 8p vert p2 50mm 3a 2 50v dc jst b8b xh a b8b xh a 3a 2 50v dc jst b8b xh a jst b8b xh a lf sn
+j11 conn pcb header 4p vert p2 50mm 2a 2 50v dc jst b4b xh a b4b xh a 2a 2 50v dc jst b4b xh a jst b4b xh a lf sn
+j12 prog debug sip8 2 54mm header straight 8pin n
+j2 range select sip3 2 54mm header straight 3pin n
+2 bc4304516120000 插件 连接器 430451612 / 2 * 8p 300 mm 180 ° 5 n 0
+插件 插座 连接器 1 215079 6 / 2 * 8p 2.54 mm 180 ° 10 y 0
+插件 挡墙 640456 2 / 1 * 2p 2.54 mm 180 ° 80 y
+conn header vert tin 1pos 直插 0901200121 / 排针 10
+1 * 3pin 单排 排针 间距 2.54 mm 总长 11.4 mm 上 针长 5.5 mm ph254 1 * 3v / stx 排针 10
+1 * 5p 单排 排针 间距 2.54 mm 直针 上 针长 6.1 mm 针长 3mm 总长 11.68 mm m20 9990546 jb / stx 排针 20
+2.54 间距 2 * 7pin 双排 直插 排针 总长 11.68 mm 上 针长 6.1 mm 针长 3mm m20 9980746 jb / stx 排针 10
+conn header vert 4pos 2.5 mm 挡墙 直插 0022041041 / 连接器 110
+插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb052vwvn rc 插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb053vwvn rc n
+插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb052vwvn rc 插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb053vwvn rc n
+插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb052vwvn rc 插件 双排 针 2 * 5p 1.27 mm 针长 3mm 180 ° / grpb053vwvn rc n
+19 133726 2 pz1 x362r54z1036 插件 单排 针 1 * 36p 254 mm 针长 6mm 180 ° 5 n
+13.0 2d2436a0 j04 d000054 2.54 mm pitch pin header single row straight 1x4 0022284042 / 排针 1005.0
+14.0 2d2436a0 j04 d000055 2.54 mm pitch pin header single row rightangle 1x16 0022288160 / 排针 1000.0
+15.0 2d2436a0 j04 d000186 插件 双排 排针 ph127 2 * 8pin 弯针 90 ph127 2 * 8pr jb / stx 排针 810.0
+16.0 2d2436a0 j04 d000188 插件 排针 ph254 1 * 2pin 弯针 90 ph254 1 * 2pr jb / stx 排针 1010.0
+17.0 2d2436a0 j04 d000267 conn header r / a 5pos 2.54 mm 0022052051 / 排针 1805.0
+18.0 2d2436a0 j04 d000267 conn header r / a 5pos 2.54 mm 0022052051 / 排针
+2 2k2301a0 j04 d000213 1 * 6pin 单排 排针 直脚 间距 2.54 mm 上 针长 6mm 下针 3mm 总长 11.4 mm ph254 1 * 6pv / stx 排针 1
+16 2c6806a0 j04 d000042 conn header vert tin 1pos 直插 0901200121 / 排针 10
+17 2c6806a0 j04 d000082 1 * 3pin 单排 排针 间距 2.54 mm 总长 11.4 mm 上 针长 5.5 mm ph254 1 * 3v / stx 排针 10
+18 2c6806a0 j04 d000120 1 * 5p 单排 排针 间距 2.54 mm 直针 上 针长 6.1 mm 针长 3mm 总长 11.68 mm m20 9990546 jb / stx 排针 20
+19 2c6806a0 j04 d000265 2.54 间距 2 * 7pin 双排 直插 排针 总长 11.68 mm 上 针长 6.1 mm 针长 3mm m20 9980746 jb / stx 排针 10
+13.0 2d2436a0 j04 d000054 2.54 mm pitch pin header single row straight 1x4 0022284042 / 排针 1005.0
+14.0 2d2436a0 j04 d000055 2.54 mm pitch pin header single row rightangle 1x16 0022288160 / 排针 1000.0
+15.0 2d2436a0 j04 d000186 插件 双排 排针 ph127 2 * 8pin 弯针 90 ph127 2 * 8pr jb / stx 排针 810.0
+16.0 2d2436a0 j04 d000188 插件 排针 ph254 1 * 2pin 弯针 90 ph254 1 * 2pr jb / stx 排针 1010.0
+17.0 2d2436a0 j04 d000267 conn header r / a 5pos 2.54 mm 0022052051 / 排针 1805.0
+18.0 2d2436a0 j04 d000267 conn header r / a 5pos 2.54 mm 0022052051 / 排针
+23 16p8301a0 j25 d000581 j30j 15zkw j 矩形 连接器 15 插 弯 插 2 排 j30j 15zkw j / 博大 连接器 12
+24 16p8301a0 j25 d000582 j30j 9zkw j 矩形 连接器 9 插 弯 插 2 排 j30j 9zkw j / 博大 连接器 12
+25 16p8301a0 j25 d000583 矩形 连接器 66 芯弯针 插座 接插件 弯 插 3 排 j30j 66zkw j / 博大 连接器 12
+11 1a1026j0 j25 s000002 2 way pcb connector screw connection smd 10804 202 a00 / weco 连接器 384
+107 1 33a.01254 32001 排针 排针 / 2.54 mm 间距 双排 32p 排针 针长 11.54 mm / 40 85 ℃ 1 h16x2 2 54 txga fph25421 d32s100101b j1 12
 111 1 33a.01254 03001 单排 针 2.54 3p 单排 针 针长 11.2 mm 1 sip3 2 54 xh2.54 3pin j6 12
-51 1 33a.02254 32001 双排 排母 排母 2.54 mm 双排 32p 排母 塑高 8.5 mm 1 h16x2 2 54 txga ffh25405 d32s1001k6k j2 12
-110 33a.01254 03001 排针 排针 3x1 方脚 hole 3.2 6.7 2.54 单塑 2.54 x3 40 85 ℃ 1 2.54 x3 826629 3 j1 55
-29 16p8302b0 j25 d000581 j30j 15zkw j 矩形 连接器 15 插 弯 插 2 排 j30j 15zkw j 博大 连接器 10 9 90
-30 16p8302b0 j25 d000582 j30j 9zkw j 矩形 连接器 9 插 弯 插 2 排 j30j 9zkw j 博大 连接器 10 9 90
-31 16p8302b0 j25 d000583 矩形 连接器 66 芯弯针 插座 接插件 弯 插 3 排 j30j 66zkw j 博大 连接器 10 9 90
+51 1 33a.02254 32001 双排 排母 排母 / 2.54 mm 间距 双排 32p 排母 塑高 8.5 mm 1 h16x2 2 54 txga ffh25405 d32s1001k6k j2 12
+110 33a.01254 03001 排针 排针 / 3x1 / 方脚 / hole / 3.2 / 6.7 / 2.54 / 单塑 / 2.54 x3 / 40 85 ℃ 1 2.54 x3 826629 3 j1 55
+29 16p8302b0 j25 d000581 j30j 15zkw j 矩形 连接器 15 插 弯 插 2 排 j30j 15zkw j / 博大 连接器 10 9 90
+30 16p8302b0 j25 d000582 j30j 9zkw j 矩形 连接器 9 插 弯 插 2 排 j30j 9zkw j / 博大 连接器 10 9 90
+31 16p8302b0 j25 d000583 矩形 连接器 66 芯弯针 插座 接插件 弯 插 3 排 j30j 66zkw j / 博大 连接器 10 9 90
 35 单排 直列 插针 on 单排 直列 插针 xp7 xp8 2 6
 36 双排 插针 双排 插针 xs1 1 3
 排母 16p p 1.27 mm h 3.6 mm 1 1000.0
 j12 26 61 4020 conn header 2pos 156 vert gold connector corporation 26 61 4020 digi key wm5224 nd 104
 j14 15 26 61 4040 conn header 4pos 156 vert gold connector corporation 26 61 4040 digi key wm5226 nd 2
 j13 26 61 4080 conn header 8pos 156 vert gold connector corporation 26 61 4080 digi key wm5230 nd 399
-2pin con2 2.0 mm smd 1
+2pin con2 / 2.0 mm smd 1
 4pin con 1x4ps dip 4
 sam1034 40 nd conn header 40pos 100 dl tin mod de0 nano jp2 con 2x20
 3m9447 nd conn header vert sgl 2pos gold con 02 con hdr 02
 3m9448 nd conn header vert sgl 3pos gold con 03 con hdr 03
 3m9451 nd conn header vert sgl 6pos gold con 06 con hdr 06
 s7116 nd conn header fmal 26ps.1 dl gold
-master slave jumper 2pin 2mm vertical header j6 1
+master / slave jumper 2pin 2mm vertical header j6 1
 j1 icp mache sgle le female sockets 78641ch 1 6 16.666666666666668 18
 j4 0 j4 1 3 holes on pcb for potentiometer wires 1 1 0 0 0 0
 j5 0 3 holes on pcb for expansion 1 1 0 0 0 0
 j6 0 j6 1 2 holes on pcb for motor wires 1 1 0 0 0 0
 j7 0 4 holes on pcb for serial port expansion 1 1 0 0 0 0
-j1 j2 j13 wm18900 nd 30 conn 01x02 product detail en connector corporation 22 05 7025 wm18900 nd 403341
-j3 pinheader 2x23 p254 mm vertical 20 prpc023daan rc product detail en sullins connector solutions prpc023daan rc s2011ec 23 nd 2775271
-j4 2x10 254 10 pptc102lfbn rc product detail en sullins connector solutions pptc102lfbn rc s7078 nd 810216
-j7 j6 j5 j8 pinheader 2x37 p127 mm vertical smd 40 conn 02x37 odd even www2 productdetail amphenol fci 20021121 00074t4lf qs % 2fha2pyfaduhk6vede5a0m7iwq% 252bxdlroa% 252b8biup97cmamvc9htrhez6z% 252b% 252behb0gl% 252b
+j1 j2 j13 wm18900 nd 30 conn 01x02 / / / product detail / en / connector corporation / 22 05 7025 / wm18900 nd / 403341
+j3 pinheader 2x23 p254 mm vertical 20 prpc023daan rc / / / product detail / en / sullins connector solutions / prpc023daan rc / s2011ec 23 nd / 2775271
+j4 2x10 254 10 pptc102lfbn rc / / / product detail / en / sullins connector solutions / pptc102lfbn rc / s7078 nd / 810216 /
+j7 j6 j5 j8 pinheader 2x37 p127 mm vertical smd 40 conn 02x37 odd even / / www2 / productdetail / amphenol fci / 20021121 00074t4lf qs % 2fha2pyfaduhk6vede5a0m7iwq% 252bxdlroa% 252b8biup97cmamvc9htrhez6z% 252b% 252behb0gl% 252b
 x3 con 2x5 2mm smd debug m22 5320505
 1x5 2.54 mm fci 68000 408hlf nm
 header 2x10 2.54 mm hor smd taitek he2 20g6c394 5r
@@ -72,7 +295,7 @@ long 2x3 2.54 longer pin
 smd pin 1 x n 2.54 n 1 40
 3 j1 j2 j9 connector 2pins of tyco 4 103185 0
 1 j3 j4 j5 j6 j7 j8 connector fci 68602 224hlf
-1 tp3 connector 1 40th of tyco 4 103185 0
+1 tp3 connector 1 / 40th of tyco 4 103185 0
 j1 j22 connector 1 male vert w ü 61300211121
 j2 j3 j4 j5 j6 j7 j8 connector 1 male vert tyco 4 103185 0 04
 j10 connector 1 male vert w ü 61300211121
@@ -105,8 +328,8 @@ female headers 5 up 929984 01 05 rk itsybitsy top row 1.52 6.85
 female headers 14 up 929984 01 14 rk itsybitsy side rows 2.29 10.4
 female headers 4 up 929984 01 04 boost rail 1.52 7.35
 female headers 3 up 929870 01 03 ra lipo charger rail 1 0.65 3.005
-female headers 2 up 929870 01 02 rb lipo charger power rail 0.55 2.525
-female tall headers 4 up 929974 01 04 rk for hacker i o pins 4 digital 4 analog 1.41 6.4
+female headers 2 up 929870 01 02 rb lipo charger / power rail 0.55 2.525
+female tall headers 4 up 929974 01 04 rk for hacker i / o pins 4 digital 4 analog 1.41 6.4
 female tall headers 2 up 929974 01 02 rk for hacker power pins 1.37 6
 male headers low profile 32 up 350 80 164 019101 3mm headers 19 mm plastic part used for itsybitsy 625 2995
 avr isp 6 isp pbc36daan sullins connector solutions conn header 100 dual str 5pos
@@ -118,16 +341,16 @@ con lsta keypad pbc36saan sullins connector solutions conn header 100 singl str 
 samtec inc tsw 150 07 t s conn header 50pos 100 sngl tin
 2.54 mm header 3x2way 2.54 mmheader 3x2 2.54 mm 90131 0123 connector header 6pos 2row 2.54 mm
 fan header 4 pin 22 23 2041 kk 254 solid header vertical with friction lock 4 circuits 22 23 2041 j10 j17
-header 5x2 sm ten pin 2 x 5 through hole header 100 mil spacing ch81102v200 j18
-header 7x2 sm 2x7 100 mil simple header ch81142v200 j12
-lvds amp 103240 5 10 pin conn 0.1 x0.1 1
+header 5x2 / sm ten pin 2 x 5 through hole header 100 mil spacing ch81102v200 j18
+header 7x2 / sm 2x7 100 mil simple header ch81142v200 j12
+lvds amp 103240 5 10 pin conn 0.1 x0.1 1 *
 j1 j2 2 position header 2 pin connector through hole conn header vert 2pos 100 tin 640452 2
 x1 3 pin kk 0156 header 3 pin header through hole conn header 3pos 156 vert tin 26 48 1035
 x2 4 pin kk 0156 header 4 pin header through hole conn header 4pos 156 vert tin 26 48 1045
 x1 3 pin header gold 3 pin header through hole conn header 3pos 156 vert gold 26 48 2035
 x2 4 pin header gold 4 pin header through hole conn header 4pos 156 vert gold 26 48 2045
-x1 3 pin header gold right angle 3 pin header through hole conn header 3pos 156 r a gold 26 61 5030
-x2 4 pin header gold right angle 4 pin header through hole conn header 4pos 156 r a gold 26 61 5040
+x1 3 pin header gold right angle 3 pin header through hole conn header 3pos 156 r / a gold 26 61 5030
+x2 4 pin header gold right angle 4 pin header through hole conn header 4pos 156 r / a gold 26 61 5040
 j2 hdr 1x2 pin 2.54 mm pitch gold flash vertical th fci 68000 402hlf 4ucon 00795 digi key 609 3503 nd 1.0506 4ucon 00795 0.0045
 j6 j9 hdr 1x4 pin 2mm pitch right angle th seeed 110990037 digi key 1597 1083 nd
 j7 j15 hdr 1x5 pin 2.54 mm pitch gold flash vertical th fci 68000 105hlf 4ucon 806 digi key 609 3462 nd 0.1557 4ucon 806 0.0114
@@ -144,8 +367,8 @@ con 2 pin jumper allelectronics sbc 2 0.27 goes with sbh 2 cabinet
 con 2 pin jumper allelectronics sj 1 0.1 goes with jumper2 cabinet
 con logic analyzer connector fci 68021 208hlf 609 3344 nd 0.27 logicanalyzer cabinet
 con 10 pin 2mm socket for xbee need two samtec sqt 110 01 f s samtec 1 xbeemodule cabinet
-header double row conrad p bkl 10120516 straight double row header nominal current details 3 a 741239 0704 064
-header single row conrad p bkl 10120184 straight nominal current details 3 a 741158 1089 099
+header double row / / conrad / p / bkl 10120516 straight double row header nominal current details 3 a 741239 0704 064
+header single row / / conrad / p / bkl 10120184 straight nominal current details 3 a 741158 1089 099
 hdr 2 pin header 0.025 pins 0.1 spacing 22 10 2081 538 22 10 2081 0.78 0 0.0
 conn 0001 0003 hdr 1x03 025sq p 100 centers hdr 1x03 th 1x3 break s1011e 36 nd to 1x3 sections each long 1x36 strip will make 12 1x3 hdrs
 conn 0001 0002 hdr 1x02 025sq p 100 centers hdr 1x02 th 1x2 break s1011e 36 nd to 1x2 sections each long 1x36 strip will make 18 1x2 hdrs
@@ -167,8 +390,8 @@ ssw 106 22 l d vs j12 rec 2x06 smd 025sq pin 100 centers rec 2x06 smd vertical s
 pppc022ljbn rc pmod j15 rec 2x02 ra 025sq pin 100 centers pppc022ljbn rc s5555 nd th 2x2 ra
 ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k samtec ftsh 105 01 l dv k smt ftsh 105 l dv
 conn 0001 0002 p2 p3 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2
-conn 0001 0002 jp1 jp3 hdr 1x02 025sq p 100 centers hdr 1x02 s1011e 36 nd th 1x2 break 1x36 header to 1x2 sections 18 sections strip
-conn 0001 0003 jp2 hdr 1x03 025sq p 100 centers hdr 1x03 s1011e 36 nd th 1x3 break 1x36 header to 1x3 sections 12 sections strip
+conn 0001 0002 jp1 jp3 hdr 1x02 025sq p 100 centers hdr 1x02 s1011e 36 nd th 1x2 break 1x36 header to 1x2 sections 18 sections / strip
+conn 0001 0003 jp2 hdr 1x03 025sq p 100 centers hdr 1x03 s1011e 36 nd th 1x3 break 1x36 header to 1x3 sections 12 sections / strip
 pppc101lfbn rc j1 rec 1x10 0100 pitch rec 1x10 0100 pitch s7043 nd th 1x10 ensure that j1 j2 j6 j7 are all installed perpendicular to the pcb these are to attach an arduino shield brd
 pppc081lfbn rc j2 j6 rec 1x08 025sq pin 100 centers rec 1x08 0100 pitch s7041 nd th 1x8 ensure that j1 j2 j6 j7 are all installed perpendicular to the pcb these are to attach an arduino shield brd
 1212 1238 nd j4 recptacle 2x06 025sq pin 100 centers 803 87 012 10 001101 1212 1238 nd th 2x6 dni
@@ -177,3 +400,39 @@ ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k sm
 xpresso hdr 2x27 0.900 p2 hdr 1x36 10u gold 2x per location pbc36saan pbc36saan th 1x36 dni
 conn 0001 0002 p3 p4 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2 dni
 conn 0001 0003 p5 hdr 1x03 025sq pin 100 centers hdr 1x03 s1011e 36 nd th 1x3 dni
+conn 0001 0002 jp1 jp3 hdr 1x02 025sq pin 100 centers hdr 1x02 pbc36saan th 1x2 leftover section of item 27
+conn 0001 0003 jp2 jp10 jp11 hdr 1x03 025sq pin 100 centers hdr 1x03 pbc36saan th 1x3 leftover section of item 27
+pppc101lfbn rc j1 rec 1x10 0100 pitch rec 1x10 0100 pitch s7043 nd th 1x10 ensure that j1 j2 j7 j8 are all installed perpendicular to the pcb these are to attach an arduino shield brd
+pppc081lfbn rc j2 j7 rec 1x08 025sq pin 100 centers rec 1x08 0100 pitch s7041 nd th 1x8
+conn 0002 0012 j3 hdr 2x06 025sq pin 100 centers pbc36dban s2111e 36 nd th 2x06 ra break 2x36 into required 2x06 sections 6x per unit
+pppc061lfbn rc j8 rec 1x06 025sq pin 100 centers rec 1x06 0100 pitch s7039 nd th 1x6
+pppc062ljbn rc j20 j22 rec 2x06 ra 025sq pin 100 centers rec2x06 ra s5559 nd th 2x6 ra
+ftsh 105 01 l dv k p1 hdr 2x5 smd keying shroud 0.50 pitch ftsh 105 01 l dv k smt ftsh 105 l dv
+xpresso hdr 2x27 0.900 p2 hdr 1x36 10u gold 2x per location pbc36saan pbc36saan th 1x36 dni
+conn 0001 0002 p3 hdr 1x02 025sq pin 100 centers hdr 1x02 s1011e 36 nd th 1x2 dni
+conn 0001 0006 p4 hdr 1x06 025sq pin 100 centers ra pbc36sban s1111e 36 nd th 1x 06 ra break pbc36sban 1x36 into required 1x06 sections 6x per unit
+hdr 1x10 p21 hdr 1x10 hdr 1x10 s1011e 36 nd th 1x10 dni
+j2 conn 2x5 header 2.54 mm pitch lead length 6.0 mm th 613 010 211 21 jtag hdr 2x5 header 2x5
+j3 j4 conn 1x15 header 2.54 mm pitch lead length 6.0 mm th 613 015 111 21 hdr 1x15 header 1x15
+j2 conn 2x5 header 2.54 mm pitch lead length 6.0 mm th 613 010 211 21 jtag hdr 2x5 header 2x5
+j3 j4 conn 1x15 header 2.54 mm pitch lead length 6.0 mm th 613 015 111 21 hdr 1x15 header 1x15
+j1 conn 0.5 mm pitch slim stack 30 pos receptacle dual row vertical 3mm or 4mm stacking height 52991 0308 receptacle 2x15 demo conn 2x15
+intf2400 open 0.1 centers 2x10 header interface 2300 730 head open pec36daan
+jp14 2 p header 2 p le header 100 mil centers jumper2 2 p header pec36saan eh0072
+jp7 npi 3 p le header 100 mil center jumper3 npi pec36saan eh0072
+vcc pll vcc vco vusb 3 p header 3 p le header 100 mil center jumper3 short 3 p header pec36saan eh0072
+j1 j3 j5 j6 tsw 103 07 l s samtec tsw 103 07 l s connector through hole single row straight 3pins
+j100 pbc06saan sullins corp pbc06saan connector male through hole breakaway straight 6pins 65 degc to 125 degc
+j101 pbc03sabn sullins pbc03sabn connector male through hole breakaway straight 3pins
+j103 j200 j202 j204 j206 j208 j210 tsw 102 07 t s samtec tsw 102 07 t s connector through hole tsw series single row straight 2pins 55 degc to 105 degc
+j201 j203 j205 j207 pbc02dabn sullins corp pbc02dabn connector male through hole breakaway straight 4pins
+313140s212116 lyconn header 2.54 mm 1 * 4 l 11.6 180 degree 3u gold dip lyconn cn2 dip
+313140s212116 lyconn header 2.54 mm 1 * 6 l 11.6 180 degree 3u gold dip lyconn cn3 dip
+313140s111116 lyconn header 2.54 mm 1 * 2 l 11.6 180 degree 1u gold dip lyconn jp2 dip
+lyconn header 2.54 mm 1 * 33p 180 degree l 14.5 1u gold dip lyconn stand fire pa 9t p1 p2 smt
+samtec inc tlw 136 05 t d conn header 100 72pos dual tin cut for 2x2 headers 1 sam1095 36 nd
+3m 960120 6202 ar conn socket sgl vert 20pos gold ic1 2 3m9521 nd
+sullins connector solutions sfh11 pbpc d20 bk conn headr fmale 40pos 1 dl au ic1 2 s9200 nd dual row
+tyco amp 3 644456 3 conn header vert 3pos 100 tin jp1 / jp2 / jp5 / jp6 / jp7 / jp8 / jp9 / jp10 / pw1 / pw2 / pw3 / pw4 12 a31113 nd
+tyco amp 87499 6 conn housing 3pos 100 single pwm harness connectors 6 a26964 nd optional
+tyco amp 87523 6 conn socket 20 24awg tin crimp pwm harness sockets 20 a25993 nd optional

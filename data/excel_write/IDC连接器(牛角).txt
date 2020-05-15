@@ -1,1 +1,24 @@
+简易 牛角 连接器 612 020 216 21 1 jp3 jtag 22
+简易 牛角 连接器 612 020 216 21 1 jp3 jtag 22
+42 简易 牛角 座 40p 双排 直插 公座 间距 2.54 mm dip 40 10 j3
+43 简易 牛角 座 20p 双排 直插 公座 间距 2.54 mm dip 20 20 j2 j7
+44 简易 牛角 座 10p 双排 直插 公座 间距 2.54 mm dip 10 10 j4
+89 简易 牛角 座 40p 双排 直插 公座 间距 2.54 mm dip 40 1000 j3
+90 简易 牛角 座 20p 双排 直插 公座 间距 2.54 mm dip 20 2000 j2 j7
+91 简易 牛角 座 10p 双排 直插 公座 间距 2.54 mm dip 10 1000 j4
+2 * 25 2.54 mm 简易 牛角 p15 con idc 2.54 2x25p
+2 * 20 2.54 mm 简易 牛角 p19 con idc 2.54 2x20p
+2 * 5 2.54 mm 简易 牛角 p20 xlinx jtag
+简易 牛角 公座 2 * 2.54 * 12 300s 24p 黑色 pa6t ckmtw 灿 科盟 p3 1 10
+简易 牛角 公座 2 * 2.54 * 12 300s 24p 黑色 pa6t ckmtw 灿 科盟 p1 1 10
+53 5 * 2p 接插件 牛角 座子 / 2.54 mm / 10pin nextron idc2.54 10p 10
+idc 连接器 牛角 / 2.0 mm 间距 2x8 弯 插 phd 16awd a2006wr 2x8p 1 phd 16awd 50
+插件 2 * 13p 2.54 mm 180 ° / 5103309 6 20 y 0
+插件 5103308 1 / 2 * 5p 2.54 mm 180 ° 20 y 0
+插件 5103309 2 / 2 * 7p 2.54 mm 180 ° 20 y 0
+插件 2 * 7p 2.54 mm 180 ° / c11215
+插件 2 * 7p 2.54 mm 180 ° / c11215
+conn header vert 14pos 2.54 mm 公 插针 直插 0906631142 / 连接器 20
+conn header vert 20pos 2.54 mm 公 插针 直插 0906631202 / 连接器 40
 2.54 mmsocket 17x2 way 2.54 mmsocket 34 2.54 mm b06d 34 a g a a 1 straight pcb mount idc box socket
+idc 26pin 26pin shrouded bdm header j10 thru hole j10 4370.394 1253.394 90.0 top thru hole

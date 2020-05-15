@@ -1,5 +1,15 @@
-8.0 2d2436a0 d02 s000030 diode gen purp 75v 150ma sod123 smt 1n4148w e3 18 整流 二极管 2992.0
-12 2c6806a0 d02 s000013 diode ultra fast standard 400v 3a smd do214ab smc 2leads vf1.25 v murs340t3g on 整流 二极管 40
-33 1 57a.10 41540001 整流 二极管 cc 2.2 nf 0603 5% 50v x7r 1 214ab comchip cdbc540 g d4 12
+整流器 mbr2035ct mbr2035ct to 220 3 300
+二极管 整流 二极管 tpd4e05u06dqar 5v smd tpd4e05u06dqar 2 200 mbs 5330 2.0
+d2 d3 d5 1kv 1a smb diode gen purp 1kv 1a smb diodes s1mb 13 f s1mb fdict nd smb 2340
+d10 stth1r06 diode gen purp 600v 1a sma stth1r06a 497 3765 6 nd sma 780
+d8 d9 1kv 1a sma diode gen purp 1kv 1a sma on semiconductor / s1m s1mfsct nd sma 1560
+d25 1kv 1a sma diode gen purp 1kv 1a sma diodes us1m 13 f us1m fdict nd sma 780
+d11 curb207 g diode gen purp 1kv 2a do214aa comchip technology curb207 g 641 1191 6 nd 780
+d12 d13 d14 d15 d16 d17 d18 d19 1kv 1a sma diode gen purp 1kv 1a sma diodes s1m 13 f s1m fdict nd sma 6240
+d26 s1mls rvg diode gen purp 1kv 1.2 a sod123he taiwan semiconductor corporation s1mls rvg s1mlsrvgdkr nd 780
+gt1 600v 10ka gdt 600v 15% 10ka surface mount 2027 60 sm rplf 2027 60 sm rplfct nd smd / smt 780
+8.0 2d2436a0 d02 s000030 diode gen purp 75v 150ma sod123 smt 1n4148w e3 18 / 整流 二极管 2992.0
+12 2c6806a0 d02 s000013 diode ultra fast standard 400v 3a smd do214ab smc 2leads vf1.25 v murs340t3g / on 整流 二极管 40
+33 1 57a.10 41540001 整流 二极管 cc / 2.2 nf / 0603 / 5% / 50v / x7r 1 214ab comchip cdbc540 g d4 12
 d11 12 d14 15 stth1l06a diode ultra fast 600v 1a sma stth1l06a digi key 497 3241 1 nd 0.6
-16 diode 100 v 1 a surface mount glass passivated rectifier 214ba gf1b e3 67a g s 1500 1500 reel
+16 diode 100 v 1 a surface mount glass passivated rectifier 214ba gf1b e3 / 67a g s 1500 1500 / reel

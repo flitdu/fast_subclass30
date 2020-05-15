@@ -1,0 +1,6 @@
+20 插件 bt131 600
+triac thd 5ma 600v to202 3 z0405mf 2.0 20000
+q5 1.0 triac btb06 600 thyristors triacs two way thyristor 600v to 220ab btb06 600brg
+q8 1.0 triac z0405mf thyristors triacs two way thyristor 600v to 202 3 z0405mf 1aa2
+123 可控硅 mac97a8 sot23 1
+trans pnp 45v 0.8 a 100mhz 225mw sot 23 bcw68glt1g / on 晶体管 / 晶闸管 11

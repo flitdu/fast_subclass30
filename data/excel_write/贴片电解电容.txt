@@ -7,48 +7,46 @@
 18670 mp2vua820mc10 電解 電容 cap polymer 820 uf 2.5 v 20% smd 6.3 x9.7 mm matsuki 300
 18788 mp25vs100md10 電解 電容 cap polymer 100 uf 25v 20% smd 8x9.7 mm matsuki 30
 18789 mp 16v l270md10 電解 電容 cap polymer 270 uf 16v 20% smd 8x9.7 mm matsuki 50
-electrolytic capacit ecs100u 16v 6354pa ec smd 100 uf 16v 6.3 5.4 mm 85 pansonic eee1ca101wp s v 4000
-electrolytic capacit ecs100u35v6377hpa ec smd 100 uf 35v 6.3 7.7 mm 105 pansonic eeefk1v101xp fk v 3600
-electrolytic capacit ecs100u6v30557hj ec smd 100 uf 6.3 v 5 5.7 mm 105 jackcon str101m6.3 c5.7 b 4000
-electrolytic capacit ecs10u25v0458hen ec smd 10 uf 25v 4 5.8 mm 105 elna rvz 25v100md61u r 4000
-electrolytic capacit ecs22u 50v 6353sw ec smd 22 uf 50v 6.3 5.3 mm 85 samwha sc1h226m6l005vr 2000
-electrolytic capacit ecs330u 10v 0810hpa ec smd 330 uf 10v 8 10mm 105 pansonic 10svp330mx 1500
-electrolytic capacit ecs330u 16v 6358hpa ec smd 330 uf 16v 6.3 7.7 mm 105 pansonic eee ftc331xap 900
-electrolytic capacit ecs470u25v1010sw ec smd 470 uf 25v 10 10mm 85 samwha sc1e477m100 10v r 1000
-electrolytic capacit ecs47u 16v 0553sw ec smd 47 uf 16v 5 5.3 mm 85 samwha sc1c476m05005vr 1000
-electrolytic capacit ecs47u 16v 6354hj ec smd 47 uf 16v 6.3 5.4 mm 105 jackcon stk470m16d5.4 a 2000
-electrolytic capacit ecs47u 50v 6377hsw ec smd 47 uf 50v 6.3 7.7 mm 105 samwha rc1h476m6l07kvr 1800
-electrolytic capacit ecs47u 50v 6377sw ec smd 47 uf 50v 6.3 7.7 mm 85 samwha sc1h476m6l07kvr 1800
-8.3 mmx8.3 mm 10 uf 25v 10 0 v 24 muadil
-8.3 mmx8.3 mm 10 uf 50v 20 0 v 6.3 muadil diren
-6 c69 c66 15 电解电容 100 uf 6.3 v ecap smd 6d ecap smd 6d 2
-7 c7 c6 c16 14 电解电容 47 uf 25v ecap smd 6d ecap smd 6d 3
-铝电 220 uf 35v ± 20% 8 10.5 mm 500.0 3000.0
-470 uf 16v ± 20% syk 8mm 10.5 mm 500.0 1500.0
-ce1 ce2 2 4.7 uf 400v 105 ℃ 铝电解 sancon
-ce3 1 2.2 uf 50v 105 ℃ 铝电解 sancon
-ce4 1 1000 uf 10v 105 ℃ 铝电解 sancon
-cap smd eletr 180 uf 16v 105g 20% 16svp180mx sanyo 17600 16svp180mx 7500.0 0.2707 7 12days dgk
-cap smd eletr 220 uf 16v 85g 20% r edk227m016a9haa kemet 17400 edk227m016a9haa kemet 8000.0 0.0852 10 12days 8000p verical
+electrolytic capacit ecs100u 16v 6354pa ec smd 100 uf 16v 6.3 * 5.4 mm 85 pansonic eee1ca101wp s v 4000
+electrolytic capacit ecs100u35v6377hpa ec smd 100 uf 35v 6.3 * 7.7 mm 105 pansonic eeefk1v101xp fk v 3600
+electrolytic capacit ecs100u6v30557hj ec smd 100 uf 6.3 v 5 * 5.7 mm 105 jackcon str101m6.3 c5.7 b 4000
+electrolytic capacit ecs10u25v0458hen ec smd 10 uf 25v 4 * 5.8 mm 105 elna rvz 25v100md61u r 4000
+electrolytic capacit ecs22u 50v 6353sw ec smd 22 uf 50v 6.3 * 5.3 mm 85 samwha sc1h226m6l005vr 2000
+electrolytic capacit ecs330u 10v 0810hpa ec smd 330 uf 10v 8 * 10mm 105 pansonic 10svp330mx 1500
+electrolytic capacit ecs330u 16v 6358hpa ec smd 330 uf 16v 6.3 * 7.7 mm 105 pansonic eee ftc331xap 900
+electrolytic capacit ecs470u25v1010sw ec smd 470 uf 25v 10 * 10mm 85 samwha sc1e477m100 10v r 1000
+electrolytic capacit ecs47u 16v 0553sw ec smd 47 uf 16v 5 * 5.3 mm 85 samwha sc1c476m05005vr 1000
+electrolytic capacit ecs47u 16v 6354hj ec smd 47 uf 16v 6.3 * 5.4 mm 105 jackcon stk470m16d5.4 a 2000
+electrolytic capacit ecs47u 50v 6377hsw ec smd 47 uf 50v 6.3 * 7.7 mm 105 samwha rc1h476m6l07kvr 1800
+electrolytic capacit ecs47u 50v 6377sw ec smd 47 uf 50v 6.3 * 7.7 mm 85 samwha sc1h476m6l07kvr 1800
+6 c69 c66 15 贴片 电解电容 100 uf / 6.3 v ecap smd 6d ecap smd 6d 2
+7 c7 c6 c16 14 贴片 电解电容 47 uf / 25v ecap smd 6d ecap smd 6d 3
+470 uf 10v ± 20% 6.3 * 7.7 mm 500.0 1000.0
+贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0 3000.0
+电解电容 ec 10 uf / 50v 4 * 6mm 1 c2
+ce1 ce2 2 4.7 uf / 400v 105 ℃ 铝电解 sancon
+ce3 1 2.2 uf / 50v 105 ℃ 铝电解 sancon
+ce4 1 1000 uf / 10v 105 ℃ 铝电解 sancon
+cap smd eletr 180 uf / 16v 105g 20% 16svp180mx sanyo 17600 16svp180mx 7500.0 0.2707 7 dgk
+cap smd eletr 220 uf / 16v 85g 20% r edk227m016a9haa kemet 17400 edk227m016a9haa kemet 8000.0 0.0852 10 8000p verical
 cap alum 330 uf 20% 50v smd c9 1 eee fk1h331aq digi key pce4849ct nd surface mount eee fk1h331aq 500.0 4.7165 7 10days
 cap alum 220 uf 20% 10v smd c2 c10 2 eee fk1a221p digi key pce3775ct nd surface mount eee fk1a221p 1000.0 1.2081 8 14days master
-smd 铝电解 22 uf 16v 4 6 26 5200 22 uf 16v 4 5.5
-电容 电容 电容 1000 uf 6.3 v 1000 uf 6.3 v 8 10.5 400.0 0.278 lc
-电容 电容 电容 100 uf 16v 100 uf 16v 6.3 5.4 20% 400.0 0.123 lc
-电解电容 c2 c5 c58 smd 100 uf 16v 3.0 100 uf 16v ± 20% 6.3 5.4 0.123 lc
-电解电容 c3 smd 100 uf 50v 1.0 100 uf 50v ± 20% 8 10.5 0.268 6.3 5.4 lc
-电解电容 c2 c5 c58 smd 100 uf 16v 100 uf 16v ± 20% 6.3 5.4 0.123 lc
-电解电容 c3 smd 100 uf 50v 100 uf 50v ± 20% 8 10.5 0.268 6.3 5.4 lc
-铝电 220 uf 35v ± 20% 8 10.5 mm 500.0 220 uf 35v ± 20% 8 10.5 500.0 0.268 lc
-220 uf 10v ± 20% 6.3 5.4 mm 1000.0 220 uf 10v ± 20% 6.3 5.4 1000.0 0.119 lc
-470 uf 16v ± 20% syk 8mm 10.5 mm 500.0 470 uf 16v ± 20% 8 10.5 500.0 0.268 lc
+贴片 smd 铝电解 22 uf / 16v 4 * 6 26 5200 22 uf / 16v 4 * 5.5
+贴片 电解电容 c2 c5 c58 smd 100 uf / 16v 3.0 100 uf 16v ± 20% 6.3 * 5.4 0.123 lc
+贴片 电解电容 c3 smd 100 uf / 50v 1.0 100 uf / 50v ± 20% 8 * 10.5 0.268 6.3 * 5.4 lc
+贴片 电解电容 c2 c5 c58 smd 100 uf / 16v 100 uf 16v ± 20% 6.3 * 5.4 0.123 lc
+贴片 电解电容 c3 smd 100 uf / 50v 100 uf / 50v ± 20% 8 * 10.5 0.268 6.3 * 5.4 lc
+贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0 220 uf 35v ± 20% 8 * 10.5 500.0 0.268 lc
+贴片 铝电 220 uf 10v ± 20% 6.3 * 5.4 mm 1000.0 220 uf 10v ± 20% 6.3 * 5.4 1000.0 0.119 lc
+贴片 铝电 470 uf 16v ± 20% syk 8mm * 10.5 mm 500.0 470 uf 16v ± 20% 8 * 10.5 500.0 0.268 lc
 cap alum 220 uf 20% 16v 280ma smd 3 16mm reel 15000 koshin capxon teapo jamicon sx wangxing mrw 0 16v 221me058 dv221m016e077etr vev227m016s0ane04k cdm221m1ce07w szwxsv220160605 0.01 0.03
 cap alum 100 uf 20% 16v 240ma smd 3 16mm reel 15000 koshin capxon teapo jamicon sx wangxing mrw 0 16v 101me058 dv101m016e055etr vev107m016s0ane01k cdm101m1ce05w szwxsv100160607 0.01 0.03
 c8 9 cap alum 47 uf 35v 20% smd uwt1v470mcl1gs nichicon 925 2 900
-eee fk1h470xp 47 uf 50v smdg 2 cap aluminum lytic 47 uf 50v 20% aec q200
-eee fk1h330xp 33 uf 50v smdg 1 cap aluminum lytic 33 uf 50v 20% aec q200
-eee fk1e101xp 100 uf 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
-电解电容 476a 47 uf 10v 30 b 1210 47 uf 10v 1210 10% case b 3528
+eee fk1h470xp 47 uf / 50v smdg 2 cap aluminum lytic 47 uf 50v 20% aec q200
+eee fk1h330xp 33 uf / 50v smdg 1 cap aluminum lytic 33 uf 50v 20% aec q200
+eee fk1e101xp 100 uf / 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
+贴片 电解电容 476a 47 uf 10v 30 b 1210 47 uf 10v 1210 10% case b 3528
+直插 电容 c9 1 47 uf / 400v ￠ 18 * 21
 capac eletrol smd 100 uf x 16v 20% 105 ∞ c 63 x 54 low esr
 capacitor eletrolitico smd 22 uf x35v 20% 105 ∞ c 5 x 5.8 mm
 capacitor eletrolitico smd 470 uf x 10v 20% 105 ∞ c 8.3 x8.3
@@ -60,67 +58,80 @@ nichicon uwt1h101mnl1gs electrolitic capacitor c44 100 uf 20% 63v 100 uf 1 200
 nichicon uwx1e100mcl1gb elec smd capacitor c60 uwx1e100mcl1gb 10 uf 1 50
 nichicon uwx1e100mcl1gb elec smd capacitor c60 uwx1e100mcl1gb 10 uf 1
 nichicon uwt1h101mnl1gs electrolitic capacitor c5 100 uf 20% 63v
-6 c6 c8 c10 c21 c42 c55 cap 180 uf 20% 25 v 860010000000 6000.0
-1 c36 c46 c72 cap 1500 uf 20% 25 v 860010000000 1000.0
-c3 4.7 µ f 50v cap 4.7 uf 20% 50 v 865080640004 732 8449 1 nd digi key 1 865080640004 2000 1000 0.0978 7 10days dgk nicho
-c3 a1 c3 a2 c3 a3 c3 a4 c3 a5 c3 a6 c3 a7 c3 a8 c7 c1 c7 c2 c7 c3 c7 c4 c7 c5 c7 c6 c7 c7 c7 c8 c22 c47 cap 47 uf 20% 25 v 47 µ f 25v inc 865230440001 wcap as5h 4x55
-c11 b1 c11 b2 c11 b3 c11 b4 cap 47 uf 20% 50 v 47 µ f 50v inc 865080640004 wcap as5h 4x55
-c17 c19 c27 c29 c30 c32 c34 c38 c39 c43 c51 cap 10 uf 20% 25 v 10 µ f 25v inc 865080440002 wcap as5h 4x55
-c57 cap 10 uf 20% 50 v 10 µ f 50v inc 865080642006 wcap as5h 5x55
-eee ft1e471ap 4 cap aluminum 470 uf 20% 25v 80mohm 8mm smd ecap radical smd 8mm
-16.0 电解电容 ucz1c470mcl1gs c 47 uf 20% 16v 6.3 5.8 mm nichicon 16 ucz1c470mcl1gs
-17.0 电解电容 ucz1h470mcs1gs c 47 uf 20% 50v 8 10mm nichicon 5 ucz1h470mcs1gs
-18.0 电解电容 uwh1v101mcl1gs c 100 uf 20% 35v 10 10mm nichicon 3 uwh1v101mcl1gs
-19.0 电解电容 ucz1h101mcs1gs c 100 uf 20% 50v 10 10mm nichicon 35 ucz1h101mcs1gs
+c3 4.7 µ f / 50v cap 4.7 uf 20% 50 v 865080640004 732 8449 1 nd digi key 1
+c3 a1 c3 a2 c3 a3 c3 a4 c3 a5 c3 a6 c3 a7 c3 a8 c7 c1 c7 c2 c7 c3 c7 c4 c7 c5 c7 c6 c7 c7 c7 c8 c22 c47 cap 47 uf 20% 25 v 47 µ f / 25v inc 865230440001 wcap as5h 4x55
+c11 b1 c11 b2 c11 b3 c11 b4 cap 47 uf 20% 50 v 47 µ f / 50v inc 865080640004 wcap as5h 4x55
+c17 c19 c27 c29 c30 c32 c34 c38 c39 c43 c51 cap 10 uf 20% 25 v 10 µ f / 25v inc 865080440002 wcap as5h 4x55
+c57 cap 10 uf 20% 50 v 10 µ f / 50v inc 865080642006 wcap as5h 5x55
+eee ft1e471ap 4 cap aluminum 470 uf / 20% 25v 80mohm 8mm smd ecap radical smd 8mm
+16.0 电解电容 ucz1c470mcl1gs c 47 uf 20% 16v 6.3 * 5.8 mm nichicon 16 ucz1c470mcl1gs
+17.0 电解电容 ucz1h470mcs1gs c 47 uf 20% 50v 8 * 10mm nichicon 5 ucz1h470mcs1gs
+18.0 电解电容 uwh1v101mcl1gs c 100 uf 20% 35v 10 * 10mm nichicon 3 uwh1v101mcl1gs
+19.0 电解电容 ucz1h101mcs1gs c 100 uf 20% 50v 10 * 10mm nichicon 35 ucz1h101mcs1gs
 capacitor cap 2200 uf 25v 1 eev fk1e222m smd 0.2
-159 电解电容 220 uf 50v smd ec f10 8 32
-160 电解电容 47 uf 50v smd ec f6.3 2 8
-161 电解电容 10 uf 25v smd ec f4 9 36
+159 电解电容 220 uf / 50v smd ec f10 8 32
+160 电解电容 47 uf / 50v smd ec f6.3 2 8
+161 电解电容 10 uf / 25v smd ec f4 9 36
 11 1 c38 cap elec 220 uf 20% 16v smd nichicon uur1c221mcl6gs 0.0
 smd ael cap 105c 5000h 8 c29 c47 c53 c65 c98 c109 c118 c288 f d8xh10 cesmd 220u 35v 220u 20% eeefk1v221gp nichicon ucw1v221mnl1gs
 smd ael cap 105c 3 c92 c123 c287 f d8xh10 cesmd 470u 16v 470u 20% eeefp1c471ap nichicon uud1c471mnl1gs
 smd ael cap 105c 4 c6 7 c18 c108 d cesmd 47u 16v 47u 20% eeefp1c470ap ncc emve160ada470mf55g
-1.21 220 uf alum capacitor 220 uf 铝 电容 cap alum 220 uf 20% 16v smd kemet edk227m016a9haa
-1.21 220 uf alum capacitor 220 uf 铝 电容 cap alum 220 uf 20% 16v smd kemet edk227m016a9haa 2
-电解电容 220u 16v 220u 16v ± 20% 8 6.2 mm smt nichicon ucd1c221mcl1gs
-电解电容 220u 50v 220u ± 20% 50v 10 10mm smt nichicon ucd1h221mnl1gs
-电解电容 330u 35v 330u 35v ± 20% 10 10.2 mm smt eee fp1v331ap
-电解电容 220u 16v 220u 16v ± 20% 8 6.2 mm smt nichicon ucd1c221mcl1gs
-电解电容 220u 50v 220u ± 20% 50v 10 10mm smt nichicon ucd1h221mnl1gs
-电解电容 330u 35v 330u 35v ± 20% 10 10.2 mm smt eee fp1v331ap
+1.21 220 uf alum capacitor 220 uf 铝电容 cap alum 220 uf 20% 16v smd kemet edk227m016a9haa
+1.21 220 uf alum capacitor 220 uf 铝电容 cap alum 220 uf 20% 16v smd kemet edk227m016a9haa 2
+电解电容 220u / 16v 220u 16v ± 20% 8 * 6.2 mm smt nichicon ucd1c221mcl1gs
+电解电容 220u / 50v 220u ± 20% 50v 10 * 10mm smt nichicon ucd1h221mnl1gs
+电解电容 330u / 35v 330u 35v ± 20% 10 * 10.2 mm smt eee fp1v331ap
+电解电容 220u / 16v 220u 16v ± 20% 8 * 6.2 mm smt nichicon ucd1c221mcl1gs
+电解电容 220u / 50v 220u ± 20% 50v 10 * 10mm smt nichicon ucd1h221mnl1gs
+电解电容 330u / 35v 330u 35v ± 20% 10 * 10.2 mm smt eee fp1v331ap
 c10 uwt1e101mcl1gs capacitor 100 uf 25v elect smt6.3 x7.7
 c13 875105142006 capacitor 150 uf 6.3 v elect smt 5.2 x5.3
 1 c10 uwt1e101mcl1gs capacitor 100 uf 25v elect smt6.3 x7.7
 1 c13 875105142006 capacitor 150 uf 6.3 v elect smt 5.2 x5.3
-capacitor smd 22 uf 35v 20% uwx0g220mcl2gb 50
-c02076 capacitor smd 22 uf 35v 20% uwx0g220mcl2gb 50
-8.3 mmx8.3 mm 10 uf 25v 10 0 v 24 muadil
-8.3 mmx8.3 mm 10 uf 50v 20 0 v 6.3 muadil diren
-ucz1h470mcs1gs c 47 uf 20% 50v 8 10mm nichicon 1 17.0
-uwh1v101mcl1gs c 100 uf 20% 35v 8 10mm nichicon 1 17.0
-ucz1h101mcs1gs c 100 uf 20% 50v 10 10mm nichicon 2 68.0
-ucz1h470mcl6gs syk1h470m c 47 uf 20% 50v 8 10 nichicon syk 2.0 2.0 10
-ucz1h471mnq1ms syk1h471m1616cb c al 470u 20% 50v 16x16.5 smt16 16.5 smt16 16 nichicon syk 1.0 1.0 5
-ucz1c470mcl1gs syk1c470m0505cb c al 47u 20% 16v 6.3 x5.8 smt6.3 5.8 smt5 5 nichicon syk 4.0 4.0 20
-sanyo 铝 电解电容 10 uf 50v smd 6.3 1k 1800 1660
-sanyo 铝 电解电容 100u 35v 6.3 900 6050 3850
-sanyo 铝 电解电容 220u 16v 6.3 900 3350 2700
+capacitor smd 22 uf / 35v 20% uwx0g220mcl2gb 50
+c02076 capacitor smd 22 uf / 35v 20% uwx0g220mcl2gb 50
+ucz1h470mcs1gs c 47 uf 20% 50v 8 * 10mm nichicon 1 17.0
+uwh1v101mcl1gs c 100 uf 20% 35v 8 * 10mm nichicon 1 17.0
+ucz1h101mcs1gs c 100 uf 20% 50v 10 * 10mm nichicon 2 68.0
+ucz1h470mcl6gs / syk1h470m c 47 uf 20% 50v 8 * 10 nichicon / syk 2.0 2.0 10
+ucz1h471mnq1ms / syk1h471m1616cb c al 470u 20% 50v 16x16.5 smt16 * 16.5 / smt16 * 16 nichicon / syk 1.0 1.0 5
+ucz1c470mcl1gs / syk1c470m0505cb c al 47u 20% 16v 6.3 x5.8 smt6.3 * 5.8 / smt5 * 5 nichicon / syk 4.0 4.0 20
+sanyo 贴片 铝 电解电容 10 uf / 50v smd 6.3 1k 1800 1660
+sanyo 贴片 铝 电解电容 100u / 35v 6.3 900 6050 3850
+sanyo 贴片 铝 电解电容 220u / 16v 6.3 900 3350 2700
+220 uf 35v ± 20% 8 * 10.5 mm 6000
+470 uf 16v ± 20% 8mm * 10.5 mm 3000 syk
 cap alum 220 uf 20% 6.3 v smd emva6r3ada221mf55g 565 2058 1 nd united chemi con c84 c83 c81 c80
-铝 电解电容 100 uf ± 20% 25v 6.3 7.7 mm 短脚 40 ℃ 105 ℃ ecsmd 6 sdm 220 uf c13 c23 2 54000
-铝 电解电容 220 uf 20% 16v 6.3 7.7 短脚 40 ℃ 105 ℃ ecsmd 6 sdm 220 uf c11 1 27000
-铝 电解电容 470 uf 20% 25v 10 10.5 短脚 40 ℃ 105 ℃ ecsmd 10 ecap d10.0 l10.2 smd c2 1 27000
-33u 20v electrolytic capacitor c1 c20 c57 6032 electro1 15000
-10u 25v electrolytic capacitor c8 c25 c64 6032 electro1 15000
-10u 16v electrolytic capacitor c9 6032 electro1 5000
-10u 50v electrolytic capacitor c11 c62 7243 electro1 10000
-10 uf 10v electrolytic capacitor c49 6032 electro1 5000
-220 uf 16v cap pol1 c35 c39 c52 7 7 16v 3 1000
-470 uf 35v cap pol1 c34 c38 10 10 50v 2
-铝电 220 uf 35v ± 20% 8 10.5 mm 500.0 3000.0
-100 uf 25v smd 200
-220 uf 16v smd 500
-cap alum poly 100 uf 25v 20% smd c1 1 united chemi con hhxb250ara101mf80g product detail en united chemi con hhxb250ara101mf80g 565 4179 1 nd 4915554 5000 10000
-cap alum poly 68 uf 35v 20% smd c8 c9 2 united chemi con hhxb350ara680mf80g product detail en united chemi con hhxb350ara680mf80g 565 4186 2 nd 4847424 10000 20000
+贴片 铝 电解电容 100 uf / ± 20% / 25v / 6.3 * 7.7 mm / 短脚 / 40 ℃ 105 ℃ / ecsmd 6 sdm 220 uf c13 c23 2 54000
+贴片 铝 电解电容 220 uf / 20% / 16v / 6.3 * 7.7 / 短脚 / 40 ℃ 105 ℃ / ecsmd 6 sdm 220 uf c11 1 27000
+贴片 铝 电解电容 470 uf / 20% / 25v / 10 * 10.5 / 短脚 / 40 ℃ 105 ℃ / ecsmd 10 ecap d10.0 l10.2 smd c2 1 27000
+33u / 20v electrolytic capacitor c1 c20 c57 6032 electro1 15000
+10u / 25v electrolytic capacitor c8 c25 c64 6032 electro1 15000
+10u / 16v electrolytic capacitor c9 6032 electro1 5000
+10u / 50v electrolytic capacitor c11 c62 7243 electro1 10000
+10 uf / 10v electrolytic capacitor c49 6032 electro1 5000
+220 uf / 16v cap pol1 c35 c39 c52 7 * 7 16v 3 1000
+470 uf / 35v cap pol1 c34 c38 10 * 10 50v 2
+贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0 3000.0
+330 uf / 25v rvt 20
+1000 uf / 16v rvt 30
+10 uf / 16v rvt 10
+22 uf / 16v rvt 20
+220 uf / 16v rvt 80
+100 uf / 16v rvt 210
+1000 uf / 16v 210
+220 uf / 25v rvt 60
+100 uf / 35v rvt 20
+100 uf / 35v rvt 300
+100 uf / 25v rvt 205
+220 uf / 16v rvt 505
+220 uf / 16v rvt 710
+330 uf / 35v rvt 110
+1000 uf / 16v rvt 110
+10 uf / 16v rvt 110
+470 uf / 25v rvt 410
+cap alum poly 100 uf 25v 20% smd c1 1 united chemi con hhxb250ara101mf80g / / / product detail / en / united chemi con / hhxb250ara101mf80g / 565 4179 1 nd / 4915554 5000 10000
+cap alum poly 68 uf 35v 20% smd c8 c9 2 united chemi con hhxb350ara680mf80g / / / product detail / en / united chemi con / hhxb350ara680mf80g / 565 4186 2 nd / 4847424 10000 20000
 7 c19 elec 470 uf 35v smt eev fk1v471q smd 2 2 1 100 150
 8 c21 c49 elec 47 uf 63v smt eee fk1j470p smd 2 4 2 200 250
 c2 c7 c8 elec 10 uf 20% 25v 1ohmesr smt eev fk1e100r smd 2 6 3 300 305
@@ -134,280 +145,276 @@ c191 c230 c237 c244 c253 c262 330 uf 8 3mmx8 3mm cap alum 330 uf 25v 20% smd ecg
 303 capacitor elec lesr 35v 22 uf 20% smd eeefc1v220p matsushita electric sales 3000
 238 capacitor elec rad 16v 22 uf 20% smd eee1ca220wr matsushita 13000
 15 uwx1e100mcl1gb nichicon cap alum 10 uf 20% 25v smd 14700 uwx1e100mcl1gb nichicon 15000 16 0.2453 6 10days arrow
-17 elxy350ell102ml20s united chemi con cap alum 1000 uf 20% 35v radial 1050 elxy350ell102ml20s united chemi con 1050 3.9565 6 12days
+17 elxy350ell102ml20s united chemi con cap alum 1000 uf 20% 35v radial 1050 elxy350ell102ml20s united chemi con 1050 3.9565 6
 uuj2w3r3mnq1ms nichicon cap al d100l100 7.75 6.8 uf 4 50v uuj2w3r3mnq1ms nichicon 500.0 500.0 6.0073 10 17days 500p dgk
-uut1a101mcl1gs nichicon cap al d63l58 4.2 100 uf 10v uut1a101mcl1gs nichicon 1000.0 1000.0 0.7153 8 12days
-uut1c470mcl1gs nichicon cap al d63l58 4.2 47 uf 16v uut1c470mcl1gs nichicon 1000.0 1000.0 0.6218 8 12days
-ucd1j470mnl1gs nichicon cap al d80l100 5.7 47 uf 63v ucd1j470mnl1gs nichicon 500.0 500.0 1.0925 8 12days ickey
-c33 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 301.181 2378.386 0 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
-c53 cap alum 100 uf 20% 50v smd 2 ec 100 uf 100v ecap th 10x16mm 3498.819 1243.386 0 100 uf 100v 10 16 直插 电解电容 0.74 1.0 500.0 100.0 602p 100px100mefc10x16 lc
-c60 cap alum 100 uf 20% 50v smd 3 ec 100 uf 50v ecap th 8x13mm 3923.819 678.386 90 1.0 1.0
-电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
-电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
-电解电容 220 uf 16v ec6.3 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v 6.3 7.7 hv 105 ℃ ± 20% lc
+uut1a101mcl1gs nichicon cap al d63l58 4.2 100 uf 10v uut1a101mcl1gs nichicon 1000.0 1000.0 0.7153 8
+uut1c470mcl1gs nichicon cap al d63l58 4.2 47 uf 16v uut1c470mcl1gs nichicon 1000.0 1000.0 0.6218 8
+ucd1j470mnl1gs nichicon cap al d80l100 5.7 47 uf 63v ucd1j470mnl1gs nichicon 500.0 500.0 1.0925 8 ickey
+贴片 电解电容 220 uf / 16v ec6.3 * 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v / 6.3 * 7.7 hv 105 ℃ ± 20% lc
+贴片 电解电容 220 uf / 16v ec6.3 * 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v / 6.3 * 7.7 hv 105 ℃ ± 20% lc
+贴片 电解电容 220 uf / 16v ec6.3 * 7.7 hv221m016e077r capxon 900 0.258 900.0 900.0 220 uf 16v / 6.3 * 7.7 hv 105 ℃ ± 20% lc
 1210c elcap 1210 47 uf 16v 10% 47 uf 16v 0.1 discrete 4 200 c24 c27 c29 c31 grm32er61c476ke15l 200 0.54 1000 100 47 uf x5r ± 10% 16v 1210 lc
-cap e smd 103 cap e smd 13 220 uf 50v 10% 电解电容 10mm 220 uf 0.1 discrete 7 350 c16 c20 c22 c23 c36 c37 c43 ucd1h221mnl1gs nichicon 350 1.39 500 100 10 10 lc
-cap e smd 18x16 elcap 1000 uf 10% 10% 50v 电解电容 18mm 1000 uf 0.1 discrete 2 100 c14 c18 1000 uf 50v 16 18 紫 高频 100 0.81 100 100 1000 uf 50v 16 18 紫 高频 lc
-28 铝 电容 220 uf 16v 6 8mm 220 16v smd 2 2 c55 c20 1000 1
-2.1 150 uf 10v c2 c10 电解电容 6.3 5.4 2 150 uf 16v 100 105
-cond c26 56 uf 10v 56 µ f 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e 500 1.0
-cond c26 56 uf 10v 56 µ f 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e 500 56 µ f 10v 20% 1.0
-cond c26 56 uf 10v 56 µ f 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e
-34 电解电容 cdvt 470 uf ± 20% 16v 8 10.2 2 6000
+cap e smd 103 cap e smd 13 220 uf 50v 10% 贴片 电解电容 10mm 220 uf 0.1 discrete 7 350 c16 c20 c22 c23 c36 c37 c43 ucd1h221mnl1gs nichicon 350 1.39 500 100 10 * 10 lc
+cap e smd 18x16 elcap 1000 uf 10% 10% 50v 贴片 电解电容 18mm 1000 uf 0.1 discrete 2 100 c14 c18 1000 uf 50v 16 * 18 紫 高频 100 0.81 100 100 1000 uf 50v 16 * 18 紫 高频 lc
+28 贴片 铝电容 220 uf / 16v 6 * 8mm 220 16v smd 2 2 c55 c20 1000 1
+2.1 150 uf / 10v c2 c10 电解电容 6.3 * 5.4 2 150 uf 16v 100 105
+cond c26 56 uf / 10v 56 µ f / 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e 500 1.0
+cond c26 56 uf / 10v 56 µ f / 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e 500 56 µ f / 10v 20% 1.0
+cond c26 56 uf / 10v 56 µ f / 10v 20% elco capacitor elko 1 digi key 565 3125 2 nd ja ja p elko e
+34 贴片 电解电容 cdvt 470 uf ± 20% 16v 8 * 10.2 2 6000
 6 eee fk0j331xp cap alum 330 uf 20% 6.3 v smd eee fk0j331xp 1 1000 0
 19 ucl1c471mnl1gs cap alum 470 uf 20% 16v smd nichicon ucl1c471mnl1gs 1 1000 0
-cap smd eletr 220 uf 16v 85g 20% r nace221m 16v 6.3 x8tr13f nic 17500 nace221m 16v 6.3 x8tr13f nic 17500.0 0.051 7 10days
-cap smd eletr 220 uf 16v 85g 20% r eee1ca221xp 17400 林丽 璇
-cap smd eletr 180 uf 16v 105g 20% 16svp180mx sanyo 17600 16svp180mx 7500.0 0.2707 7 12days
-109 3121019 02 1 3500 cap elt smd 100 uf 35v 20% ece v1va101xp
-197 1 3500 cap elt smd 100 uf 35v 20% ece v1va101xp
-铝 电解电容 25tzv100m6.3 x8 极性 100 µ f 20% 25v 105 ° c 2000 6.30 mm 8.00 mm 105 ° c 25tzv100m6.3 x8 180
+4 electrolytic capacitor 0.47 µ f 25 v 14000
+cap smd eletr 220 uf / 16v 85g 20% r nace221m 16v 6.3 x8tr13f nic 17500 nace221m 16v 6.3 x8tr13f nic 17500.0 0.051 7 10days
+cap smd eletr 220 uf / 16v 85g 20% r eee1ca221xp 17400
+cap smd eletr 180 uf / 16v 105g 20% 16svp180mx sanyo 17600 16svp180mx 7500.0 0.2707 7
+109 3121019 02 1 3500 cap elt smd 100 uf / 35v 20% ece v1va101xp
+197 1 3500 cap elt smd 100 uf / 35v 20% ece v1va101xp
+贴片 铝 电解电容 25tzv100m6.3 x8 极性 100 µ f 20% 25v 105 ° c 2000 6.30 mm * 8.00 mm 105 ° c 25tzv100m6.3 x8 180
 铝 电解电容 10 uf 106 ± 20 % 16v smd 3000
 铝 电解电容 10 uf 106 ± 20 % 16v smd10 3000
-241.0 11003123 电解电容 470 uf 35v 10 10 2085.0
-244.0 11003150 电解电容 1000 uf 16v 0.0
-245.0 11003151 电解电容 2.2 uf 50v 0.0
-246.0 11003155 电解电容 470u 25v 20% 10x10 472.0
-247.0 11003156 电解电容 47u 25v 20% 6x6 0.0
-12 电解电容 100 uf 25v ± 20% 8x6.5 表贴 4 c28 c32 c53 c58
-13 电容 10nf 25v ± 20% 0603 1 c38
-14 电解电容 10 uf 10v ± 20% 8x6.5 表贴 3 c43 c45 c47
-15 电容 100nf 25v ± 20% 0805 2 c54 c55
-16 电解电容 100 uf 10v ± 20% 8x6.5 表贴 3 c59 c62 c63
-3 电解电容 100 uf 35v ± 20% 8x10 表贴 1 c1
-4 电解电容 470 uf 10v ± 20% 8x11 表贴 1 c2
-31 yc0220692w 电解电容 63 mm 54 mm 220 uf ± 20% 10v sd 20 e1 e2 600000 00 01364 02728
-27.0 2.0 c7m6 c100 100 uf 25v capale 6d3pi 2sp 6d6wl6h c smd al poly 100 uf 20% 25v 2.7 a 3khr 6.3 x8mm lt lf matsuki 40
-241.0 11003123 电解电容 470 uf 35v 10 10 30000.0
-244.0 11003150 电解电容 1000 uf 16v 30000.0
-245.0 11003151 电解电容 2.2 uf 50v 30000.0
-246.0 11003155 电解电容 470u 25v 20% 10x10 30000.0
-247.0 11003156 电解电容 47u 25v 20% 6x6 30000.0
-1 40 c29 电解电容 100 uf 35v capale 10pi 2sp 10d3wx10d2l smd 电解电容 10x10mm lelon vua101m1vtr 1010
-1 40 xx 电解电容 47 uf 50v capale 10pi 2sp 10d3wx10d2l smd 电解电容 10x10.2 mm eee1ha470p
-9 电解电容 47 uf 16v 10% 105 ° 5 5.4 10000 c4
-8 eee fp1e101ap cap alum smd 25v 100 uf 20% d8 l6.2 50000 0.175 8750
-9 eee fc1v221p cap alum smd 35v 220 uf 20% d10 l10 50000 0.2 10000
-22 mal215099601e3 capasitor 330 uf toleranc 20% h10 d10mm automotive 12weeks 10000 0.6 6000
-22 mal215099601e3 capasitor 330 uf toleranc 20% h10 d10mm automotive 12weeks 10000 0.6 6000
-23 ca025m0033rec 0505 capasitor 33 uf toleranc 20% h6.6 d6.6 mm automotive 8weeks 10000 0.055 550
-9 电解电容 47 uf 16v 10% 105 ° 5 5.4 c4 10000
-8 nichicon capacitor smd cap alum 22 uf 20% 35v smd 5 5.8 5.3 ucl1v220mcl1gs rv3 35v220me55u r4 elna
-32 铝 电解电容 vej331m1vtr 1010 330 uf 35v 10 10 105 lelon vej331m1vtr 1010 6377
-33 铝 电解电容 ves101m1vtr 0607 100 uf 35v 6.3 7.7 105 lelon ves101m1vtr 0607 6377
-34 铝 电解电容 ves221m1ctr 0607 220 uf 16v 6.3 7.7 105 lelon ves221m1ctr 0607 19131
+241.0 11003123 贴片 电解电容 470 uf / 35v 10 * 10 2085.0
+244.0 11003150 贴片 电解电容 1000 uf / 16v 0.0
+245.0 11003151 贴片 电解电容 2.2 uf / 50v 0.0
+246.0 11003155 贴片 电解电容 470u / 25v / 20% 10x10 472.0
+247.0 11003156 贴片 电解电容 47u / 25v / 20% 6x6 0.0
+12 贴片 电解电容 100 uf 25v ± 20% 8x6.5 表贴 4 c28 c32 c53 c58
+13 贴片 电容 10nf 25v ± 20% 0603 1 c38
+14 贴片 电解电容 10 uf 10v ± 20% 8x6.5 表贴 3 c43 c45 c47
+15 贴片 电容 100nf 25v ± 20% 0805 2 c54 c55
+16 贴片 电解电容 100 uf 10v ± 20% 8x6.5 表贴 3 c59 c62 c63
+3 贴片 电解电容 100 uf 35v ± 20% 8x10 表贴 1 c1
+4 贴片 电解电容 470 uf 10v ± 20% 8x11 表贴 1 c2
+31 贴片 yc0220692w 贴片 电解电容 63 mm * 54 mm * 220 uf * ± 20% * 10v * sd 20 e1 e2 600000 00 01364 02728
+27.0 2.0 c7m6 c100 100 uf / 25v capale 6d3pi 2sp 6d6wl6h c smd al poly 100 uf 20% 25v 2.7 a 3khr 6.3 x8mm lt / lf matsuki 40
+241.0 11003123 贴片 电解电容 470 uf / 35v 10 * 10 30000.0
+244.0 11003150 贴片 电解电容 1000 uf / 16v 30000.0
+245.0 11003151 贴片 电解电容 2.2 uf / 50v 30000.0
+246.0 11003155 贴片 电解电容 470u / 25v / 20% 10x10 30000.0
+247.0 11003156 贴片 电解电容 47u / 25v / 20% 6x6 30000.0
+1 40 c29 贴片 电解电容 / 100 uf 35v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10mm lelon vua101m1vtr 1010
+1 40 xx 贴片 电解电容 / 47 uf 50v capale 10pi 2sp 10d3wx10d2l smd 贴片 电解电容 10x10.2 mm eee1ha470p
+9 贴片 电解电容 47 uf 16v 10% 105 ° 5 * 5.4 10000 c4
+8 eee fp1e101ap cap alum smd 25v 100 uf 20% d8 * l6.2 50000 0.175 8750
+9 eee fc1v221p cap alum smd 35v 220 uf 20% d10 * l10 50000 0.2 10000
+22 mal215099601e3 capasitor 330 uf / toleranc 20% / h10 * d10mm automotive 12weeks 10000 0.6 6000
+22 mal215099601e3 capasitor 330 uf / toleranc 20% / h10 * d10mm automotive 12weeks 10000 0.6 6000
+23 ca025m0033rec 0505 capasitor 33 uf / toleranc 20% / h6.6 * d6.6 mm automotive 8weeks 10000 0.055 550
+9 贴片 电解电容 47 uf 16v 10% 105 ° 5 * 5.4 c4 10000
+8 nichicon capacitor smd cap alum 22 uf 20% 35v smd 5 * 5.8 * 5.3 ucl1v220mcl1gs rv3 35v220me55u r4 elna
+32 铝 电解电容 vej331m1vtr 1010 330 uf 35v 10 * 10 105 lelon vej331m1vtr 1010 6377
+33 铝 电解电容 ves101m1vtr 0607 100 uf 35v 6.3 * 7.7 105 lelon ves101m1vtr 0607 6377
+34 铝 电解电容 ves221m1ctr 0607 220 uf 16v 6.3 * 7.7 105 lelon ves221m1ctr 0607 19131
 8 12101005 电解电容 eefsx0e471e4 eefsx0e471e4 aec7 3x4 3x1 9mm sp cap 2.5 v 470 uf esr4.5 mohm 8.5 a 26 78000
-2 a03 004004 002 铝 电容 100 uf 35v 8mm 102 mm ± 20% 铝 电容 vev107m035s0ang03k 智宝 12000 c2 c4 c69 c91
-48 c0200145 铝 电解电容 35tzv220m 220 μ f 35v ± 20% 8 10.5 105 ℃ smd smd 1 500
-49 c0200146 铝 电解电容 35tzv100m 100 μ f 35v ± 20% 6.3 8 105 ℃ smd smd 3 1500
-50 c0200147 铝 电解电容 cdvd 47 μ f 25v ± 20% 6.3 5.4 105 ℃ smd 卷装 1000 smd yst 1 500
-19.0 pyce 0090 铝 电解电容 220 uf 16v ± 20% 6 7.7 1 50.0
-20.0 pyce 0076 铝 电解电容 100 uf 16v ± 20% 6.3 5.4 1 50.0
-21.0 pyce 0063 铝 电解电容 47 uf 16v ± 20% 6 5.4 1 50.0
+2 a03 004004 002 贴片 铝电容 100 uf / 35v / 8mm 102 mm / ± 20% / 铝电容 vev107m035s0ang03k 智宝 12000 c2 c4 c69 c91 贴片
+48 c0200145 贴片 铝 电解电容 35tzv220m 220 μ f 35v ± 20% 8 * 10.5 105 ℃ smd / 贴片 smd 1 500
+49 c0200146 贴片 铝 电解电容 35tzv100m 100 μ f 35v ± 20% 6.3 * 8 105 ℃ smd / 贴片 smd 3 1500
+50 c0200147 铝 电解电容 cdvd 47 μ f 25v ± 20% 6.3 * 5.4 105 ℃ smd 贴片 卷装 1000 smd yst 1 500
+19.0 pyce 0090 贴片 铝 电解电容 220 uf / 16v ± 20% 6 * 7.7 1 50.0
+20.0 pyce 0076 贴片 铝 电解电容 100 uf / 16v ± 20% 6.3 * 5.4 1 50.0
+21.0 pyce 0063 贴片 铝 电解电容 47 uf / 16v ± 20% 6 * 5.4 1 50.0
 sxfc30000167 4c capacitor cap np 270 uf 16v 20% ncc apsc160etd271mhb5s dip 8x11.5 mm esr 11mohm rp 5080ma ncc apsc160etd271mhb5s 7 3500 14000
 sxfc30000177 4c capacitor cap np 270 uf 16v 20% ncc apsc160etd271mhb5s dip 8x11.5 mm esr 11mohm rp 5080ma ncc apsc160etd271mhb5s 2 1000 4000 转接
-5.0 12060292 cap alu 10mmx10.2 mm 35v 270 uf 20% eehzc1v271p 7200 270 uf cap 1000x1020 2
-9.0 12060293 cap alu 8mmx10.2 mm 35v 150 uf 20% eehzc1v151p 10800 150 uf cap 0800x1020 3
-60201002420 60201.0 铝 电解电容 铝 电解电容 35v 220 uf ± 20% 10 10.5 mm 105 ℃ 1000h 2pin smd eeefc1v221p 6
-铝 电容 220 uf 35v 8 10mm 220 35v smd 2 15 315
-铝 电容 330 uf 35v 10 10mm 330 35v smd 2 7 147
-电解电容 100 uf 10v 低漏 电流 b size 5 5 m 3 1200 ce1 ce2 ce3
-eef sx0d331er 铝 有机 聚合物 电容器 330 uf 2vdc 9mohm sp polymer hc10 d4pc1 d4pc2 330 uf 2v
-honor rvt1a471 m0607 smd 6.3 7.7 mm 470 uf 10v 1000
-电解电容 电解电容 100u 25v smd6.3 x5.9 smd6.3 x5.9 c104 c107 c201 c205 c607 c610 c617 c620 c625 9 45000
-铝 电解电容 6.3 v 220 uf ± 20% 6.3 6.0 mm 105 ℃ 2000h 2pin smd 6svpc220mv 400
+5.0 12060292 cap alu 10mmx10.2 mm 35v 270 uf / 20% eehzc1v271p 7200 270 uf cap 1000x1020 2
+9.0 12060293 cap alu 8mmx10.2 mm 35v 150 uf / 20% eehzc1v151p 10800 150 uf cap 0800x1020 3
+60201002420 60201.0 铝 电解电容 铝 电解电容 35v 220 uf ± 20% 10 * 10.5 mm 105 ℃ 1000h 2pin smd eeefc1v221p 6
+贴片 铝电容 220 uf 35v 8 * 10mm 220 35v smd 2 15 315
+贴片 铝电容 330 uf 35v 10 * 10mm 330 35v smd 2 7 147
+贴片 电解电容 100 uf / 10v 低漏 电流 b size 5 * 5 m 3 1200 ce1 ce2 ce3
+eef sx0d331er 铝 有机 聚合物 电容器 330 uf 2vdc 9mohm sp polymer hc10 d4pc1 d4pc2 330 uf / 2v
+honor rvt1a471 m0607 / smd 6.3 * 7.7 mm 470 uf 10v 1000
+贴片 电解电容 贴片 电解电容 100u / 25v smd6.3 x5.9 smd6.3 x5.9 c104 c107 c201 c205 c607 c610 c617 c620 c625 / / 9 45000
+铝 电解电容 6.3 v 220 uf ± 20% 6.3 * 6.0 mm 105 ℃ 2000h 2pin smd 6svpc220mv 400
 cap alel 47 uf 16v 20% smd 47 uf 16v cce63x55 emvh160ada470mf60g
 cap alel 47 uf 50v 20% smd 47 uf 50v cap alel 10x10mm smt emvh500ada470mja0g
 cap alel 47 uf 35v 20% aec q200 smt 47 uf cce6p8x6p8 eee1va470wap
-27 c105 c117 c120 c121 220 uf 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 emzr250ada221mf80g 661 emzr250a221mf80g 6500
-铝 电解电容 100 uf 25v cap6.3 5.8
-铝 电解电容 大盘 cs220 uf 50v 10x10.5
-铝电解 47 uf 25v cap 6.3 smt c11 1 300
-钽电容 220 uf 6.3 v c6032 c c4 1 300
-铝电解 100 uf 16v cap 6.3 smt c28 1 300
-铝电解 220 uf 16v cap 6.3 smt c18 c22 c27 3 900
-铝电解 220 uf 50v cap 8.4 smt c26 1 300
-电容 100 uf 16v cap 6.3 smt c28 1 200.0
-电容 100 uf 6.3 v cap 6.3 smt c45 1 200.0
-电容 220 uf 16v cap 6.3 smt c18 c22 c27 3 600.0
-电容 220 uf 50v cap 8.4 smt c26 1 200.0
-1 1000128842 1 lp5 x5r800100umc 铝 电解电容 5 58 mm 100 uf ± 20% 16v 2 n
-2 1000128842 1 lp5 x5r400047umc 铝 电解电容 5 54 mm 47 uf ± 20% 16v 20 n
-27 1000128842 1 lp5 x5r8004r7umj 铝 电解电容 5 58 mm 47 uf ± 20% 63 v 10 n
-29 1000128842 1 lp5 x5r800150uma 铝 电解电容 5x58 mm 150 uf ± 20% 10v 2 n
-30 1000128842 1 lp5 x5r800100umc 铝 电解电容 5 58 mm 100 uf ± 20% 16v 2 n
-39 1000128842 1 lp175 tmp0080800 铝 电解电容 175tmp 0808 100 uf 35v 7mm pitch 8 8mm 5 n
-59 1000128842 1 lp6 r3x5r4047uma 铝 电解电容 63 54 mm 47 uf ± 20% 10v 10 n
-81 1000128842 1 lp5 x5r800100uma 铝 电解电容 5 58 mm 100 uf ± 20% 10v 10 n
-82 1000128842 1 lp8 x10000100umc 铝 电解电容 8 10mm 100 uf ± 20% 16v 5 n
-83 1000128842 1 lp8 x10000100umv 铝 电解电容 8 10mm 100 uf ± 20% 35v 5 n
-85 1000128842 1 lp5 x5r400047uma 铝 电解电容 5 54 mm 47 uf ± 20% 10v 20 n
-88 1000128842 1 lp5 x5r800010uma 铝 电解电容 5 58 mm 10 uf ± 20% 10v 4 n
+27 c105 c117 c120 c121 220 uf / 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 emzr250ada221mf80g 661 emzr250a221mf80g 6500
+贴片 铝 电解电容 100 uf / 25v cap6.3 * 5.8
+贴片 铝 电解电容 大盘 cs220 uf / 50v 10x10.5
+贴片 铝电解 47 uf / 25v cap 6.3 smt c11 1 300
+贴片 钽电容 220 uf / 6.3 v c6032 c c4 1 300
+贴片 铝电解 100 uf / 16v cap 6.3 smt c28 1 300
+贴片 铝电解 220 uf / 16v cap 6.3 smt c18 c22 c27 3 900
+贴片 铝电解 220 uf / 50v cap 8.4 smt c26 1 300
+电容 100 uf / 16v cap 6.3 smt c28 1 200.0
+电容 100 uf / 6.3 v cap 6.3 smt c45 1 200.0
+电容 220 uf / 16v cap 6.3 smt c18 c22 c27 3 600.0
+电容 220 uf / 50v cap 8.4 smt c26 1 200.0
+1 1000128842 1 lp5 x5r800100umc 贴片 铝 电解电容 5 * 58 mm 100 uf ± 20% 16v 2 n
+2 1000128842 1 lp5 x5r400047umc 贴片 铝 电解电容 5 * 54 mm 47 uf ± 20% 16v 20 n
+27 1000128842 1 lp5 x5r8004r7umj 贴片 铝 电解电容 5 * 58 mm 47 uf ± 20% 63 v 10 n
+29 1000128842 1 lp5 x5r800150uma 贴片 铝 电解电容 5x58 mm 150 uf ± 20% 10v 2 n
+30 1000128842 1 lp5 x5r800100umc 贴片 铝 电解电容 5 * 58 mm 100 uf ± 20% 16v 2 n
+39 1000128842 1 lp175 tmp0080800 贴片 铝 电解电容 175tmp 0808 / 100 uf / 35v / 7mm pitch 8 * 8mm 5 n
+59 1000128842 1 lp6 r3x5r4047uma 贴片 铝 电解电容 63 * 54 mm 47 uf ± 20% 10v 10 n
+81 1000128842 1 lp5 x5r800100uma 贴片 铝 电解电容 5 * 58 mm 100 uf ± 20% 10v 10 n
+82 1000128842 1 lp8 x10000100umc 贴片 铝 电解电容 8 * 10mm 100 uf ± 20% 16v 5 n
+83 1000128842 1 lp8 x10000100umv 贴片 铝 电解电容 8 * 10mm 100 uf ± 20% 35v 5 n
+85 1000128842 1 lp5 x5r400047uma 贴片 铝 电解电容 5 * 54 mm 47 uf ± 20% 10v 20 n
+88 1000128842 1 lp5 x5r800010uma 贴片 铝 电解电容 5 * 58 mm 10 uf ± 20% 10v 4 n
 c14 correct part 50 uud1v221mnl1gs cap alum 220 uf 35v 20% smd smd
 1.0 044 63 220 uf 电容 cap el 220 uf 50v 20% cap smd dxl 8x10.2 mm eeeft1h221ap aecapd10 3 30 c1 c130 c131 lelon
 0105 00250 电解电容 ucw0j221mcl1gs msd 220 uf 63 v 20% nichicon 0105 80066 ucw0j221mcl1gs nichicon 1000
 0105 00251 电解电容 eee ftj681xap msd 680 uf 63 v 20% 0105 80065 eee ftj681xap 1000
-12 131981 1 lp8650806400010 铝 电解电容 865080640001 1 uf 20% 50 v 铝 电解电容 865080640001 12 y
-36 51.03000014 电解电容 50v 220 μ f ± 20% 10 10.5 cs1h221m crg10 3 smd ec f10 150
-1 90 2002030017 电解电容 alu nichicon ucl1c471mcl6gs 10 7.7 470 uf 20% 16v c108 c208 2 20 b 40 dlk
-1 200 2002030002 电解电容 alu nichicon uwx1e101mcl1gb 8 5.4 100 uf 20% 25v c997 c998 c1014 c1015 4 20 b 80 dlk
-35v 33 uf cap e smd6.3 7.0 电解电容 3500.0
-16v 10 uf cap e smd4 2.0 电解电容 1000.0
-6 0105 00332 电解电容 ucw1e470mcl1gs cap alum 47 uf 20% 25v smd nichicon ucw1e470mcl1gs nichicon 2100
-7 0105 00333 电解电容 ucw1c101mcl1gs cap alum 100 uf 20% 16v smd nichicon ucw1c101mcl1gs nichicon 1050
-43.0 铝 电解电容 rxw151m1cbk 0611 150 uf 16v ec1 6 11mm 1.0 1000
-000020 c5 c6 电容 220 uf cap sm 220 uf eee fk1v221gp 2 elec comp 2240
-000090 c73 电容 47 uf cap sm alum poly sm 47 uf 875105142001 1 1120
-c 0477m0df17 eeeft1e471ap c29 30 c36 37 c41 c46 48 c52 13 smd 鋁質 電解 d 8 mm l 10.2 mm 470 uf ± 20% 25v smd 鋁質 電解 d 8 mm l 10.2 mm 2600
-po20190026 铝 电解电容 6.3 mm 7.7 mm 50v 47 uf 6.3 x7.7 p7.4 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
-po20190026 铝 电解电容 8mm 10mm 35v 100 uf 8x10 p9.2 105 ℃ 2000h 2 ω 20 ℃ 120hz 2910
-po20190026 铝 电解电容 10mm 10.5 mm 35v 470 uf 10mm 10.5 p10.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 1470
-po20190026 铝 电解电容 8mm 10.5 mm 16v 470 uf 8mm 10.5 p8.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
-po20190026 3000001769 铝 电解电容 8mm 10mm 35v 220 uf 8x10 p9.2105 ℃ 2000h 2 ω 20 ℃ 120hz rve lz 540
-121 034w000021000 701801007401 电容 270 uf 16v ± 20% 6.3 x9.9 smd esr 8mr 5800ma 16svpg270m 12 1200 mbs 5330 12.0
-27 05035 00621 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 015 ohm 引线 can 贴装 1 c90 united chemi con 22
-28 05035 01396 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 44
-29 05035 00618 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 015 ohm tk 2000hours 125 ° c 1 c36 22
-30 05035 00619 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
-27 05035 00621 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 015 ohm 引线 can 贴装 1 c90 united chemi con 44
-28 05035 01396 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 22
-29 05035 00618 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 015 ohm tk 2000hours 125 ° c 1 c36 22
-30 05035 00619 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
-wi cap 0049 c5 470 uf 16v 1 cap alum 470 uf 20% 16v smd 16trv470m10x10.5 1189 3538 1 nd radial 650
-wi cap 0090 c13 10 uf 50v 1 cap alum 10 uf 20% 50v smd eee fth100uar pce5020tr nd radial 650
-wi cap 0053 c16 c24 2.2 uf 400v 2 cap alum 2.2 uf 20% 400v smd nichicon uux2g2r2mnl1gs 493 9987 1 nd aluminum 1280
-wi cap 0056 c17 10 uf 25v 1 cap alum 10 uf 20% 25v smd eee fk1e100r pce3795ct nd radial 650
-wi cap 0092 c36 220 uf 16v 1 cap alum 220 uf 20% 16v smd nichicon uwt1c221mcl1gs 493 2179 6 nd radial 650
-27 05035 00621 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 015 ohm 引线 can 贴装 1 c90 united chemi con 44
-28 05035 01396 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 22
-29 05035 00618 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 015 ohm tk 2000hours 125 ° c 1 c36 22
-30 05035 00619 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
-8 电容 220u 50v 电解电容 10mm ± 20% ec s 10 3x10x10 3 bn2 es012355 1 9200 eee fk1h221gp
-17 电容 100 uf 16v 电解电容 6.3 mm ± 20% lelon ec s 6 6x6 3x5 7 bn2 ws020015 1 9200 vej101m1ctr 0605
-19 电容 330 uf 16v 电解电容 8mm ± 20% lelon ec s 8x8x10 ws020017 1 9200 vej331m1ctr 0810
-23 电容 1000u 10v 电解电容 10mm ± 20% lelon vej102m1atr 1010 ws020041 2 18400 vej102m1atr 1010
-24 电容 470 uf 10v 电解电容 8mm ± 20% lelon vzh471m1ctr 0810 ws020042 2 18400 vzh471m1ctr 0810
-25 电容 220 uf 10v 电解电容 6.3 mm ± 20% lelon vzh221m1ctr 0607 ws020043 2 18400 vzh221m1ctr 0607
+12 131981 1 lp8650806400010 贴片 铝 电解电容 865080640001 / 1 uf 20% 50 v 贴片 铝 电解电容 865080640001 12 y
+36 51.03000014 电解电容 贴片 50v 220 μ f ± 20% / 10 * 10.5 cs1h221m crg10 3 smd ec f10 150
+铝质 电解 电容器 smd 1 90 2002030017 电解电容 alu nichicon ucl1c471mcl6gs 10 * 7.7 470 uf 20% 16v c108 c208 2 20 b 40 dlk
+铝质 电解 电容器 smd 1 200 2002030002 电解电容 alu nichicon uwx1e101mcl1gb 8 * 5.4 100 uf 20% 25v c997 c998 c1014 c1015 4 20 b 80 dlk
+贴片 电解电容 35v / 33 uf cap e smd6.3 贴片 电解电容
+贴片 电解电容 16v / 10 uf cap e smd4 贴片 电解电容
+铝质 电解 电容器 smd 电解电容 ucw1e470mcl1gs cap alum 47 uf 20% 25v smd nichicon ucw1e470mcl1gs nichicon 2100
+铝质 电解 电容器 smd 电解电容 ucw1c101mcl1gs cap alum 100 uf 20% 16v smd nichicon ucw1c101mcl1gs nichicon 1050
+铝质 电解 电容器 smd 铝 电解电容 rxw151m1cbk 0611 / 150 uf 16v ec1 6 11mm 1.0 1000
+铝质 电解 电容器 smd c5 c6 贴片 电容 220 uf cap sm 220 uf eee fk1v221gp 2 elec comp 2240
+铝质 电解 电容器 smd c73 贴片 电容 47 uf cap sm alum poly sm 47 uf 875105142001 1 1120
+铝质 电解 电容器 smd eeeft1e471ap c29 30 c36 37 c41 c46 48 c52 13 smd 鋁質 電解 d 8 mm l 10.2 mm 470 uf ± 20% 25v smd 鋁質 電解 d 8 mm l 10.2 mm 2600
+铝质 电解 电容器 smd 贴片 铝 电解电容 6.3 mm * 7.7 mm 贴片 50v 47 uf 6.3 x7.7 p7.4 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
+铝质 电解 电容器 smd 贴片 铝 电解电容 8mm * 10mm 贴片 35v 100 uf 8x10 p9.2 105 ℃ 2000h 2 ω 20 ℃ 120hz 2910
+铝质 电解 电容器 smd 贴片 铝 电解电容 10mm * 10.5 mm 贴片 35v 470 uf 10mm * 10.5 p10.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 1470
+铝质 电解 电容器 smd 贴片 铝 电解电容 8mm * 10.5 mm 贴片 16v 470 uf 8mm * 10.5 p8.3 105 ℃ 2000h 2 ω 20 ℃ 120hz 2190
+铝质 电解 电容器 smd 贴片 铝 电解电容 8mm * 10mm 贴片 35v 220 uf 8x10 p9.2105 ℃ 2000h 2 ω 20 ℃ 120hz rve lz 540
+贴片 电解电容 47 uf / 16v smd cap d5xl5.3 5mm 5.3 mm 2 ec10 ec11
+铝质 电解 电容器 smd 贴片 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 0.15 ohm 引线 can 贴装 1 c90 united chemi con 22
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 0.06 ohm ft 2000 hours 105 ° c 2 c22 c23 44
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 0.15 ohm tk 2000hours 125 ° c 1 c36 22
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 0.12 ohm ft 2000hours 105 ° c 1 c37 22
+钽质 电容器 固体 smd 钽 电容器 贴片 钽电容 22 uf / 25v cap d 7343 2 c26 c91 44
+钽质 电容器 固体 smd 钽 电容器 贴片 钽电容 10 uf / 16v cap b 3528 8 c17 c18 c19 c20 c21 c84 c92 c101 176
+27 05035 00621 贴片 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 015 ohm 引线 can 贴装 1 c90 united chemi con 44
+28 05035 01396 贴片 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 006 ohm ft 2000 hours 105 ° c 2 c22 c23 22
+29 05035 00618 贴片 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 015 ohm tk 2000hours 125 ° c 1 c36 22
+30 05035 00619 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 012 ohm ft 2000hours 105 ° c 1 c37 22
+铝质 电解 电容器 smd c5 470 uf 16v cap alum 470 uf 20% 16v smd 16trv470m10x10.5 1189 3538 1 nd radial 650
+铝质 电解 电容器 smd c13 10 uf / 50v cap alum 10 uf 20% 50v smd eee fth100uar pce5020tr nd radial 650
+铝质 电解 电容器 smd c16 c24 2.2 uf 400v cap alum 2.2 uf 20% 400v smd nichicon uux2g2r2mnl1gs 493 9987 1 nd aluminum 1280
+铝质 电解 电容器 smd c17 10 uf 25v cap alum 10 uf 20% 25v smd eee fk1e100r pce3795ct nd radial 650
+铝质 电解 电容器 smd c36 220 uf / 16v cap alum 220 uf 20% 16v smd nichicon uwt1c221mcl1gs 493 2179 6 nd radial 650
+铝质 电解 电容器 smd 贴片 铝 电解电容 emhj250ada101mha0g 铝 电解电容 100 uf 25v 0.15 ohm 引线 can 贴装 1 c90 united chemi con 44
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeeft1c102ap 铝 电解电容 贴装 radial can smd 1000 µ f 16 v 0.06 ohm ft 2000 hours 105 ° c 2 c22 c23 22
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeetkh681uam 铝 电解电容 贴装 radial can smd 680 µ f 50v 0.15 ohm tk 2000hours 125 ° c 1 c36 22
+铝质 电解 电容器 smd 贴片 铝 电解电容 eeeft1h331ap 铝 电解电容 贴装 radial can smd 330 µ f 50v 0.12 ohm ft 2000hours 105 ° c 1 c37 22
+铝质 电解 电容器 smd 电容 220u / 50v 贴片 电解电容 10mm ± 20% ec s 10 3x10x10 3 bn2 es012355 1 9200 eee fk1h221gp
+铝质 电解 电容器 smd 电容 100 uf 16v 贴片 电解电容 6.3 mm ± 20% lelon ec s 6 6x6 3x5 7 bn2 ws020015 1 9200 vej101m1ctr 0605
+铝质 电解 电容器 smd 电容 330 uf / 16v 贴片 电解电容 8mm ± 20% lelon ec s 8x8x10 ws020017 1 9200 vej331m1ctr 0810
+铝质 电解 电容器 smd 电容 1000u / 10v 贴片 电解电容 10mm ± 20% lelon vej102m1atr 1010 ws020041 2 18400 vej102m1atr 1010
+铝质 电解 电容器 smd 电容 470 uf / 10v 贴片 电解电容 8mm ± 20% lelon vzh471m1ctr 0810 ws020042 2 18400 vzh471m1ctr 0810
+铝质 电解 电容器 smd 电容 220 uf / 10v 贴片 电解电容 6.3 mm ± 20% lelon vzh221m1ctr 0607 ws020043 2 18400 vzh221m1ctr 0607
+铝 电解电容 贴片 25v22 uf c91 c92 c93 3 9
 c9 100 uf 16v cpol us153clv 0605 153clv 0605 polarized capacitor 2.0 40
 c11 100 uf 25v cpol us153clv 0605 153clv 0605 polarized capacitor 20
-5 top 电容 470 uf lelo c al smd6.3 7.7 470u m 85c 6v3dc 1000h ve 471m0jtr 0607 c7 1 10
-13 10 capacitor cap 100 uf alum 50v 20% smd c7 493 2226 1 nd nichicon uwt1h101mnl1gs each
-片式 高分子 铝 电解电容 eefhx0e471r4 2.5 v 容量 470 μ f 容 ± 20% 漏 电流 ≤ 117.5 μ a 2 分 20 ℃ 损耗 角 ≤ 0.1 120hz 20 ℃ 允许 纹波 电流 ≤ 8.5 arms 100khz ≤ 45 ℃ ≤ 5.95 arms 100khz 45 ℃ 85 ℃ ≤ 2.125 arms 85 ℃ 阻抗 ≤ 4.5 m ω 100khz 20 ℃ － 55 ℃ 125 ℃ 1000h 125 ℃ 7.3 4.3 1.9 mm 300 90000
-片式 高分子 铝 电解电容 eefhx1d560r 20v 容量 56 μ f 容 ± 20% 漏 电流 ≤ 336 μ a 2 分 20 ℃ 损耗 角 ≤ 0.1 120hz 20 ℃ 允许 纹波 电流 ≤ 3.2 arms 100khz 45 ℃ 阻抗 ≤ 40m ω 100khz 20 ℃ － 55 ℃ 125 ℃ 1000h 125 ℃ 7.3 4.3 1.9 300 90000
-100 uf 35v cap alum 100 uf 20% 35v smd eeeftv151xap panaspnic eeeft1v101ap 300 9920 7000 1000
-270 uf 16v cap alu elec 270 uf 16b rad smd 5000h 105degree e7 16svpf270m 16svpf270m 900 9920 7000 1000
+贴片 电容 470 uf lelo c al smd6.3 * 7.7 470u m 85c 6v3dc 1000h ve 471m0jtr 0607 c7 1 10
+capacitor cap 100 uf alum 50v 20% smd c7 493 2226 1 nd nichicon uwt1h101mnl1gs each
+片式 高分子 铝 电解电容 eefhx0e471r4 2.5 v 容量 470 μ f 容 ± 20% 漏 电流 ≤ 117.5 μ a 2 分 20 ℃ 损耗 角 ≤ 0.1 120hz 20 ℃ 允许 纹波 电流 ≤ 8.5 arms 100khz ≤ 45 ℃ ≤ 5.95 arms 100khz 45 ℃ 85 ℃ ≤ 2.125 arms 85 ℃ 阻抗 ≤ 4.5 m ω 100khz 20 ℃ － 55 ℃ 125 ℃ 1000h 125 ℃ 7.3 * 4.3 * 1.9 mm 300 90000
+片式 高分子 铝 电解电容 eefhx1d560r 20v 容量 56 μ f 容 ± 20% 漏 电流 ≤ 336 μ a 2 分 20 ℃ 损耗 角 ≤ 0.1 120hz 20 ℃ 允许 纹波 电流 ≤ 3.2 arms 100khz 45 ℃ 阻抗 ≤ 40m ω 100khz 20 ℃ － 55 ℃ 125 ℃ 1000h 125 ℃ 7.3 * 4.3 * 1.9 300 90000
+100 uf / 35v cap alum 100 uf 20% 35v smd eeeftv151xap panaspnic eeeft1v101ap 300 9920 7000 1000
+270 uf / 16v cap alu elec 270 uf 16b rad smd 5000h 105degree e7 16svpf270m 16svpf270m 900 9920 7000 1000
 100 uf 16v cap alum 100 uf 20% 25v smd 25trv100m6.3 x8 865060343005 300 9920 7000 1000
-铝 电解电容 25v22 uf c91 c92 c93 3 9
-100u 16v t 100 uf cd1 cd2 16v 100 uf 电解电容 2 400
-100u 50v t 100 uf 50v cd3 cd5 50v 100 uf 电解电容 2 400
-c1 c2 c3 c98 c99 c100 100 uf 100v al 10 uf 100v 铝电解 ± 20% 45 ℃ 105 ℃ smd 6.3 x7.7 mm 6 60
-c18 c19 c54 c55 c56 c84 220 uf 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 6 7200 emzr250ada221mf80g
-c51 c53 220 uf 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 2 2400 emzr250ada221mf80g
-16 铝 电解电容 100 uf 35v 6 7.5 mm smd 2 20 c3 c4
-17 铝 电解电容 22 uf 6.3 v 3.8 5.2 mm smd 2 200 c15 c16 c89 c126 c127 c128 c129 c211 c212 c213 c214 c309 c310 c311 c312 c313 c62 c402 c403 c404
-63 铝 电解电容 100 uf 35v 6 7.5 mm smd 2 2000 c3 c4
-64 铝 电解电容 22 uf 6.3 v 3.8 5.2 mm smd 2 20000 c15 c16 c89 c126 c127 c128 c129 c211 c212 c213 c214 c309 c310 c311 c312 c313 c62 c402 c403 c404
-60201002480 eev fk1v152m 铝 电解电容 35v 1500 uf ± 20% 16 17mm 105 ℃ 5000h 2pin smd 20
-60201002490 eee fk1v221p 铝 电解电容 35v 220 uf ± 20% 8 10.5 mm 105 ℃ 2000h 2pin smd 80
-60201002500 ucd1v471mnl6gs 铝 电解电容 35v 470 uf ± 20% 10 14mm 105 ℃ 5000h 2pin smd nichicon 20
-60201002510 10sev100m6.3 x5.5 铝 电解电容 10v 100 uf ± 20% 6.3 5.5 mm 85 ℃ 2000h 2pin smd 20
-60201002520 16sev220m6.3 x8 铝 电解电容 16v 220 uf ± 20% 6.3 8mm 85 ℃ 2000h 2pin smd 20
-16 铝 电解电容 100 uf 35v 6 7.5 mm smd 2 2 c1 c2
-17 铝 电解电容 220 uf 35v 7.8 10.2 mm smd 2 3 c8 c3 c6
-18 铝 电解电容 22 uf 16v 3.8 5.3 mm smd 2 5 c9 c10 c11 c23 c24
-vzt101m1vtr 0607 vzt101m1vtr 0607 c43 c57 cap6.3 7.7 3d 2 20
-vej100m1vtr 0506 vej100m1vtr 0506 c44 c47 c54 cap5 5.7 3d 3 30
-9 c18 c19 铝电解 10x10.5 mm 100 uf 50v 20% 7343 2 10
-9 c18 c19 铝电解 10x10.5 mm 100 uf 50v 20% 7343 2 100
-1.0 1.0 c2 47u 50v mcvvt050m470ea6l cap al size d 300.0
-1 电解电容 100 uf 35v vzt101m1vtr 0607 c1 c2 c6 c7 4 40
-7 电解电容 100 uf 35v vzt101m1vtr 0607 c43 c57 2 20
-8 电解电容 10 uf 35v vej100m1vtr 0506 c44 c47 c54 3 30
-1.0 c2 eeefk1e221p 10.0 smd aluminum electrolytic capacitors 220 uf 25v f d8xl10.2 mm
-1.0 c4 eeefk1c101p 10.0 smd aluminum electrolytic capacitors 100 uf 16v d d6.3 xl5.8 mm
-t520a107m006ate045 25.0 kemet molded tantalum capacitors 100 uf 6 3v 20% size code a 1206 3216 metric
+铝 电解电容 贴片 25v22 uf c91 c92 c93 3 9
+100u 16v t 100 uf cd1 cd2 16v / 100 uf 贴片 电解电容 2 400
+100u 50v t 100 uf / 50v cd3 cd5 50v / 100 uf 贴片 电解电容 2 400
+铝质 电解 电容器 smd c1 c2 c3 c98 c99 c100 100 uf 100v al 10 uf 100v 铝电解 ± 20% 45 ℃ 105 ℃ smd 6.3 x7.7 mm 6 60
+c18 c19 c54 c55 c56 c84 220 uf / 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 6 7200 emzr250ada221mf80g
+c51 c53 220 uf / 25v aluminium electrolytic capacitors smd 25v 220 uf 20% tol aec q200 2 2400 emzr250ada221mf80g
+铝质 电解 电容器 smd 16 铝 电解电容 100 uf / 35v 6 * 7.5 mm smd 2 20 c3 c4
+铝质 电解 电容器 smd 17 铝 电解电容 22 uf / 6.3 v 3.8 * 5.2 mm smd 2 200 c15 c16 c89 c126 c127 c128 c129 c211 c212 c213 c214 c309 c310 c311 c312 c313 c62 c402 c403 c404
+铝质 电解 电容器 smd 63 铝 电解电容 100 uf / 35v 6 * 7.5 mm smd 2 2000 c3 c4
+铝质 电解 电容器 smd 64 铝 电解电容 22 uf / 6.3 v 3.8 * 5.2 mm smd 2 20000 c15 c16 c89 c126 c127 c128 c129 c211 c212 c213 c214 c309 c310 c311 c312 c313 c62 c402 c403 c404
+60201002480 eev fk1v152m 铝 电解电容 35v 1500 uf ± 20% 16 * 17mm 105 ℃ 5000h 2pin smd 20
+60201002490 eee fk1v221p 铝 电解电容 35v 220 uf ± 20% 8 * 10.5 mm 105 ℃ 2000h 2pin smd 80
+60201002500 ucd1v471mnl6gs 铝 电解电容 35v 470 uf ± 20% 10 * 14mm 105 ℃ 5000h 2pin smd nichicon 20
+60201002510 10sev100m6.3 x5.5 铝 电解电容 10v 100 uf ± 20% 6.3 * 5.5 mm 85 ℃ 2000h 2pin smd 20
+60201002520 16sev220m6.3 x8 铝 电解电容 16v 220 uf ± 20% 6.3 * 8mm 85 ℃ 2000h 2pin smd 20
+铝质 电解 电容器 smd 16 铝 电解电容 100 uf / 35v 6 * 7.5 mm smd 2 2 c1 c2
+铝质 电解 电容器 smd 17 铝 电解电容 220 uf / 35v 7.8 * 10.2 mm smd 2 3 c8 c3 c6
+铝质 电解 电容器 smd 18 铝 电解电容 22 uf / 16v 3.8 * 5.3 mm smd 2 5 c9 c10 c11 c23 c24
+铝质 电解 电容器 smd vzt101m1vtr 0607 vzt101m1vtr 0607 c43 c57 cap6.3 * 7.7 3d 2 20
+铝质 电解 电容器 smd vej100m1vtr 0506 vej100m1vtr 0506 c44 c47 c54 cap5 * 5.7 3d 3 30
+铝质 电解 电容器 smd c18 c19 贴片 铝电解 10x10.5 mm 100 uf 50v 20% 7343 2 10
+铝质 电解 电容器 smd c18 c19 贴片 铝电解 10x10.5 mm 100 uf 50v 20% 7343 2 100
+铝质 电解 电容器 smd c2 47u / 50v mcvvt050m470ea6l cap al size d 300.0
+铝质 电解 电容器 smd 贴片 电解电容 / 100 uf 35v vzt101m1vtr 0607 c1 c2 c6 c7 4 40
+铝质 电解 电容器 smd 贴片 电解电容 / 100 uf 35v vzt101m1vtr 0607 c43 c57 2 20
+铝质 电解 电容器 smd 贴片 电解电容 / 10 uf 35v vej100m1vtr 0506 c44 c47 c54 3 30
+c2 eeefk1e221p smd aluminum electrolytic capacitors 220 uf / 25v f d8xl10.2 mm
+c4 eeefk1c101p smd aluminum electrolytic capacitors 100 uf / 16v d d6.3 xl5.8 mm
+t520a107m006ate045 kemet molded tantalum capacitors 100 uf 6 3v 20% size code a 1206 3216 metric
 1 20 c57 c74 eee ft1c102ap 667 eee ft1c102ap aluminum electrolytic capacitors smd 1000 uf 16v olts 10x10.2 mm smd 1000 uf 16v cap alum 10.3 x10.3
 1 20 c77 eee ft1h331ap 667 eee ft1h331ap aluminum electrolytic capacitors smd 330 uf 50v olts 10x10.2 mm smd 330 uf 50v cap alum 10.3 x10.3
-21001 10 uf 16v 铝 电解电容 capae530x550l 2 200 c542 c544
-21002 220 uf 16v 铝 电解电容 cape smd6.3 x7.7 4 400 c7 c532 c539 c678
+铝质 电解 电容器 smd 10 uf / 16v 贴片 铝 电解电容 capae530x550l 2 200 c542 c544
+铝质 电解 电容器 smd 220 uf / 16v 贴片 铝 电解电容 cape smd6.3 x7.7 4 400 c7 c532 c539 c678
 c1 1 pce3921tr nd eee 1ha221p cap alum std esr 220 uf 20% 50v 10mm 5000
-y13 c05 s000313 电解电容 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
-y13 c05 s000313 电解电容 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
-y13 c05 s000314 电解电容 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
-y13 c05 s000314 电解电容 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
-y13 c05 s000315 电解电容 100 uf 25v smd 8x10mm vua101m1etr 0810k 铝 电解电容 50
-铝 电解电容 5 6.5 eee ft1c680ar 68 uf 68 uf ± 20% 16v 2.0 20.0
-电解电容 220 uf 35v ￠ 8 10 1 c53
-钽电容 10 uf 16v 3216 10% 3024200006002 3216 3 c1 c6 c17
-16 6p7901b0 c05 s000289 cap alum 220 uf 20% 35v smd 10.00 mm x 10.00 mm mal214699004e3 铝 电解电容 6
-220 uf cp elec 8x6.9 1 pcr1c221mcl1gs polarized capacitor 100
-220 uf cp elec 8x10 1 pcr1v221mcl1gs polarized capacitor 100
-类 铝 电容 10 uf 50v 6.3 x5.5 mm 1 c135 8570
-类 铝 电容 220 uf 16v 6.3 x7.7 mm 3 c181 ec1 ec2 25710
-类 铝 电容 470 uf 25v 10x10.5 mm 3 c88 c95 c100 25710
-类 铝 电容 470 uf 35v 10x10.5 mm 5 c83 c84 c86 c94 c99 42850
-4 电解电容 uud1v221mnl1gs 220 uf 35v 20% 55 ℃ 105 ℃ nichicon cm e 8 10.2 11
-13 电解电容 uud1h221mnl1gs 220 uf 50v 20% 55 ℃ 105ud1h221mnl1gs 220 uf 50v 20% 55 ℃ 105 ℃ nichicon cm f 10 10.2 11
-16 电解电容 ck1e470m cre54 47 uf 25v 20% 55 ℃ 105 ℃ cm d 6.3 7.7 11
-17 电解电容 ck1c101m cre54 100 uf 16v 20% 55 ℃ 105 ℃ cm d 6.3 7.7 11
-26 电解电容 ck1h220m cre54 22 uf 50v 20% 55 ℃ 105 ℃ cm d 6.3 5.4 41
-4 电解电容 220 uf 35v bxj h10 21
-5 电解电容 220 uf 16v bxj f80 11
-cap alum 330 uf 20% 25v smd 8mm 10mm uwt1e331mnl1gs nichicon 铝 电解电容 798
+铝质 电解 电容器 smd y13 c05 s000313 贴片 电解电容 / 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
+铝质 电解 电容器 smd y13 c05 s000313 贴片 电解电容 / 330 uf 50v smd 10x10mm vzt331m1htr 1010 铝 电解电容 50
+铝质 电解 电容器 smd y13 c05 s000314 贴片 电解电容 / 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
+铝质 电解 电容器 smd y13 c05 s000314 贴片 电解电容 / 220 uf 16v smd 6.3 x7.7 mm vzh221m1ctr 0607 铝 电解电容 50
+铝质 电解 电容器 smd y13 c05 s000315 贴片 电解电容 / 100 uf 25v smd 8x10mm vua101m1etr 0810k 铝 电解电容 50
+铝质 电解 电容器 smd 贴片 铝 电解电容 5 * 6.5 eee ft1c680ar 68 uf 68 uf ± 20% 16v 2.0 20.0
+贴片 电解电容 贴片 电解电容 220 uf / 35v ￠ 8 * 10 1 c53
+铝质 电解 电容器 smd cap alum 220 uf 20% 35v smd 10.00 mm x 10.00 mm mal214699004e3 铝 电解电容 6
+63.0 铝电容 100 uf / 10v 80% 20% smd 1.0 c38 3000
+64.0 铝电容 220 uf / 10v 80% 20% smd 3.0 c57 c62 c64 9000
+铝质 电解 电容器 smd 220 uf cp elec 8x6.9 pcr1c221mcl1gs polarized capacitor 100
+铝质 电解 电容器 smd 220 uf cp elec 8x10 pcr1v221mcl1gs polarized capacitor 100
+贴片类 贴片 铝电容 / 10 uf / 50v 6.3 x5.5 mm 1 c135 8570
+贴片类 贴片 铝电容 / 220 uf / 16v 6.3 x7.7 mm 3 c181 ec1 ec2 25710
+贴片类 贴片 铝电容 / 470 uf / 25v 10x10.5 mm 3 c88 c95 c100 25710
+贴片类 贴片 铝电容 / 470 uf / 35v 10x10.5 mm 5 c83 c84 c86 c94 c99 42850
+铝质 电解 电容器 smd 4 贴片 电解电容 uud1v221mnl1gs 220 uf / 35v / 20% / 55 ℃ 105 ℃ nichicon cm e 8 * 10.2 11
+铝质 电解 电容器 smd 13 贴片 电解电容 uud1h221mnl1gs 220 uf / 50v / 20% / 55 ℃ 105ud1h221mnl1gs 220 uf / 50v / 20% / 55 ℃ 105 ℃ nichicon cm f 10 * 10.2 11
+铝质 电解 电容器 smd 16 贴片 电解电容 ck1e470m cre54 47 uf / 25v / 20% / 55 ℃ 105 ℃ cm d 6.3 * 7.7 11
+铝质 电解 电容器 smd 17 贴片 电解电容 ck1c101m cre54 100 uf / 16v / 20% / 55 ℃ 105 ℃ cm d 6.3 * 7.7 11
+铝质 电解 电容器 smd 26 贴片 电解电容 ck1h220m cre54 22 uf / 50v / 20% / 55 ℃ 105 ℃ cm d 6.3 * 5.4 41
+铝质 电解 电容器 smd 4 贴片 电解电容 220 uf / 35v bxj h10 21
+铝质 电解 电容器 smd 5 贴片 电解电容 220 uf / 16v bxj f80 11
+铝质 电解 电容器 smd cap alum 330 uf 20% 25v smd 8mm 10mm uwt1e331mnl1gs nichicon 贴片 铝 电解电容 798
 铝 电解电容 330 uf 20% 35v 10x10.2 35ce330ax 等级 c 35ce330ax 20
 2 4.7 uf cap alum 4.7 uf 20% 50v smd emva500ada4r7md55g d55 84
 电解电容 10x10 极性 220 uf 20 ％ 50v 55 ℃ 105 ℃ c14 c16 c17 3.0 15.0 cae s 10x10 lelon vzh221m1htr 1010 pce smd cae 227 50v s 10x10 m cae s 10x10
-55 电解 rc1c227m6l07k samwha 3.0 50.0 150.0 smt 220 uf 16v
-56 电解 ve 221m1ctr 0607 lelon 50.0 0.0 smt 220 uf 16v
-9 c2 1 e capacitor 22 uf ± 10% cap 22 uf ± 20% 35v automotive radial can smd eee 1va220sp 50000
-12 c13 c15 2 e capacitor 10 uf ± 10% cap 10 uf ± 20% 25v automotive radial can smd eee fk1e100r 100000
+贴片 电解 rc1c227m6l07k samwha 3.0 50.0 150.0 smt 220 uf / 16v
+贴片 电解 ve 221m1ctr 0607 lelon 50.0 0.0 smt 220 uf / 16v
+c2 e capacitor 22 uf / ± 10% cap 22 uf / ± 20% / 35v / automotive radial can smd eee 1va220sp
+c13 c15 e capacitor 10 uf / ± 10% cap 10 uf / ± 20% / 25v / automotive radial can smd eee fk1e100r
 220 uf 25v vua221m1etr 1010k c78 cap smd bd10.0 l10.3 w10.3 fd 1
 100 uf 16v vua101m1ctr c82 c86 cap smd bd8.0 l8.3 w8.3 fd 2
 47 uf 50v 铝 电解电容 eeeft1h470ap c110 cap smd bd8.0 l8.3 w8.3 fd 1
-capacitor pth 6 3x5 8x6 1mm 47 uf 25v 20% eeefk1e470p 1 510
-capacitor pth 10x10 5x10 2mm 470 uf 25v 20% eee 1ea471p 2 1010
 capacitor smd 6 3x5 8x5 8mm 33 uf 35v 20% eee fk1v330p 1 510
-capacitor pth 6 3x5 8x6 1mm 47 uf 25v 20% eeefk1e470p 1 205
-capacitor pth 10x10 5x10 2mm 470 uf 25v 20% eee 1ea471p 2 405
-capacitor smd 6 3x5 8x5 8mm 33 uf 35v 20% eee fk1v330p 1 205
-5 2p8901a0 c05 s000311 47 uf 16v 55 105 ℃ 5 5.3 ves470m1ctr 0505 铝 电解电容 2875
-6 2p8901a0 c05 s000312 100 uf 50v 55 105 ℃ 2000hrs 8 10 vej101m1htr 0810 铝 电解电容 2878
-2 2p8908a0 c05 s000312 100 uf 50v 55 105 ℃ 2000hrs 8 10 vej101m1htr 0810 铝 电解电容 575
-3 2p8908a0 c05 s000335 10 uf 25v ± 20% smd 5x5.3 mm vej100m1etr 0505 铝 电解电容 575
-c42 10 uf 25v 4x5.5 mm aluminium electrolytic capacitors smd wcap asli 25v 10 uf 20% n 865080440002
-c42 10 uf 25v 4x5.5 mm aluminium electrolytic capacitors smd wcap asli 25v 10 uf 20% 1 n 865080440002
-2 132912 132556 1 lp8 x10001000umj 铝 电解电容 8 10mm 1000 uf ± 20% 63 v 7 n 0
-22 132912 132556 1 lp8 x10001000umj 铝 电解电容 8 10mm 1000 uf ± 20% 63 v 12 n 0
-23 132912 132556 1 cp0603000018 pfh 电容 0603 x7r 18pf ± 1% 50v 30 n 0
-10 2c6806a0 c05 s000073 aluminum electrolytic capacitors smd 50v olts 10 uf 20% 6 3x5 4mm exv106m050a9gaa kemet 铝 电解电容 9
-11 2c6806a0 c05 s000306 cap alum 100 uf 20% 35v smd 8 00x10 50mm exv107m035a9maa kemet 铝 电解电容 30
-41 132936 1 lp8 x10000220ume 铝 电解电容 8x10mm 220 uf ± 20% 25v 铝 电解电容 8x10mm 220 uf ± 20% 26v n
-42 132936 1 lp8 x10r50100umh 铝 电解电容 8 105 mm 100 uf ± 20% 50v 铝 电解电容 8 105 mm 100 uf ± 20% 51v n
-6.0 2d2436a0 c05 s000234 cap alum 1 uf 20% 50v smd 4.30 x 4.30 x 5.40 mm eee1ha1r0ar 铝 电解电容 1004.0
-7.0 2d2436a0 c05 s000244 cap alum 10 uf 20% 50v smd eee1ha100ap 铝 电解电容 1005.0
-7 4b3901b0 c05 s000030 cap alum 100 uf 20% 50v smd eee 1ha101up 铝 电解电容 50
-8 4b3901b0 c05 s000258 cap alum smd 105c 470 uf 16vdc ± 20% edh477m016a9maa kemet 铝 电解电容 50
-9 4b3901b0 c05 s000337 cap alum 100 uf 20% 16v smd 6.60 mm x 5.65 eev107m016s9gaa kemet 铝 电解电容 50
-21 4k2501a0 c05 s000338 hybrid smd 35v220 uf 125degc 4000 10 10.5 mm eeh zc1v221p 铝 电解电容 4
-10 2c6806a0 c05 s000073 aluminum electrolytic capacitors smd 50v olts 10 uf 20% 6 3x5 4mm exv106m050a9gaa kemet 铝 电解电容 9
-11 2c6806a0 c05 s000306 cap alum 100 uf 20% 35v smd 8 00x10 50mm exv107m035a9maa kemet 铝 电解电容 30
-6.0 2d2436a0 c05 s000234 cap alum 1 uf 20% 50v smd 4.30 x 4.30 x 5.40 mm eee1ha1r0ar 铝 电解电容 1004.0
-7.0 2d2436a0 c05 s000244 cap alum 10 uf 20% 50v smd eee1ha100ap 铝 电解电容 1005.0
-14 16p8301a0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m 铝 电解电容 12
-6 1a1026j0 c05 s000004 cap alum 100 uf 20% 35v smd eeefp1v101ap 铝 电解电容 4000
-20 16p8302b0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m 铝 电解电容 10 9 90
-16 16p8302b0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m 铝 电解电容 90
-电解电容 100 uf 10v 低漏 电流 b size ф 5 5.4 m 3 3000.0
-电解电容 220 uf 16v eeefpc221xap ec1 1 5000
-电解电容 220 uf 16v eeefpc221xap ec1 1
-100 uf 25v smd 200
-220 uf 16v smd 500
+47 uf / 16v / 55 105 ℃ 5 * 5.3 ves470m1ctr 0505 铝 电解电容 2875
+100 uf / 50v / 55 105 ℃ 2000hrs 8 * 10 vej101m1htr 0810 铝 电解电容 2878
+100 uf / 50v / 55 105 ℃ 2000hrs 8 * 10 vej101m1htr 0810 铝 电解电容 575
+10 uf 25v ± 20% smd 5x5.3 mm vej100m1etr 0505 铝 电解电容 575
+电解电容 贴片 50v 220 μ f ± 20% / 10 * 10.5 220 uf / 50v cs1h221m crg10 2 smd ec f10 100
+c42 10 uf / 25v 4x5.5 mm aluminium electrolytic capacitors smd wcap asli 25v 10 uf 20% n 865080440002
+c42 10 uf / 25v 4x5.5 mm aluminium electrolytic capacitors smd wcap asli 25v 10 uf 20% 1 n 865080440002
+1 lp8 x10001000umj 贴片 铝 电解电容 8 * 10mm 1000 uf ± 20% 63 v 7 n 0
+1 lp8 x10001000umj 贴片 铝 电解电容 8 * 10mm 1000 uf ± 20% 63 v 12 n 0
+1 cp0603000018 pfh 贴片 电容 0603 x7r 18pf ± 1% 50v 30 n 0
+aluminum electrolytic capacitors smd 50v olts 10 uf 20% 6 3x5 4mm exv106m050a9gaa / kemet 铝 电解电容 9
+cap alum 100 uf 20% 35v smd 8 00x10 50mm exv107m035a9maa / kemet 铝 电解电容 30
+贴片 铝 电解电容 8x10mm 220 uf ± 20% 25v 贴片 铝 电解电容 8x10mm 220 uf ± 20% 26v n
+贴片 铝 电解电容 8 * 10.5 mm 100 uf ± 20% 50v 贴片 铝 电解电容 8 * 10.5 mm 100 uf ± 20% 51v n
+6.0 2d2436a0 c05 s000234 cap alum 1 uf 20% 50v smd 4.30 x 4.30 x 5.40 mm eee1ha1r0ar / 铝 电解电容 1004.0
+7.0 2d2436a0 c05 s000244 cap alum 10 uf 20% 50v smd eee1ha100ap / 铝 电解电容 1005.0
+7 4b3901b0 c05 s000030 cap alum 100 uf 20% 50v smd eee 1ha101up / 铝 电解电容 50
+8 4b3901b0 c05 s000258 cap alum smd 105c 470 uf 16vdc ± 20% edh477m016a9maa / kemet 铝 电解电容 50
+9 4b3901b0 c05 s000337 cap alum 100 uf 20% 16v smd 6.60 mm x 5.65 eev107m016s9gaa / kemet 铝 电解电容 50
+21 4k2501a0 c05 s000338 hybrid smd 35v220 uf 125degc 4000 10 * 10.5 mm eeh zc1v221p / 铝 电解电容 4
+10 2c6806a0 c05 s000073 aluminum electrolytic capacitors smd 50v olts 10 uf 20% 6 3x5 4mm exv106m050a9gaa / kemet 铝 电解电容 9
+11 2c6806a0 c05 s000306 cap alum 100 uf 20% 35v smd 8 00x10 50mm exv107m035a9maa / kemet 铝 电解电容 30
+6.0 2d2436a0 c05 s000234 cap alum 1 uf 20% 50v smd 4.30 x 4.30 x 5.40 mm eee1ha1r0ar / 铝 电解电容 1004.0
+7.0 2d2436a0 c05 s000244 cap alum 10 uf 20% 50v smd eee1ha100ap / 铝 电解电容 1005.0
+14 16p8301a0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m / 铝 电解电容 12
+6 1a1026j0 c05 s000004 cap alum 100 uf 20% 35v smd eeefp1v101ap / 铝 电解电容 4000
+20 16p8302b0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m / 铝 电解电容 10 9 90
+16 16p8302b0 c05 s000301 cap alum poly 120 uf 20% 25v smd 8mm x 7mm 25svpk120m / 铝 电解电容 90
+贴片 电解电容 100 uf / 10v 低漏 电流 b size ф 5 5.4 m 3 3000.0
+贴片 电解电容 220 uf / 16v eeefpc221xap ec1 1 5000
+贴片 电解电容 220 uf / 16v eeefpc221xap ec1 1
 220 uf 25v vua221m1etr 1010k c78 cap smd bd10.0 l10.3 w10.3 fd 1
 100 uf 16v vua101m1ctr c82 c86 cap smd bd8.0 l8.3 w8.3 fd 2
 47 uf 50v 铝 电解电容 eeeft1h470ap c110 cap smd bd8.0 l8.3 w8.3 fd 1
 1 p03 17696r cap aluminum electrolytic capacitors smd 330 uf 25volts 10x10.2 mm 4 c63 c64 c65 c67 eeh za1e331p aluminum electrolytic capacitors smd 330 uf 25volts 10x10.2 mm
-pn 10020 cap alum poly 100 uf 25v 20% smd c1 1 united chemi con hhxb250ara101mf80g product detail en united chemi con hhxb250ara101mf80g 565 4179 1 nd 4915554
-pn 10019 cap alum poly 68 uf 35v 20% smd c8 c9 2 united chemi con hhxb350ara680mf80g product detail en united chemi con hhxb350ara680mf80g 565 4186 2 nd 4847424
+pn 10020 cap alum poly 100 uf 25v 20% smd c1 1 united chemi con hhxb250ara101mf80g / / / product detail / en / united chemi con / hhxb250ara101mf80g / 565 4179 1 nd / 4915554
+pn 10019 cap alum poly 68 uf 35v 20% smd c8 c9 2 united chemi con hhxb350ara680mf80g / / / product detail / en / united chemi con / hhxb350ara680mf80g / 565 4186 2 nd / 4847424
 7 c19 elec 470 uf 35v smt eev fk1v471q smd 2 2 1 100 150
 8 c21 c49 elec 47 uf 63v smt eee fk1j470p smd 2 4 2 200 250
 2 c2 c7 c8 elec 10 uf 20% 25v 1ohmesr smt eev fk1e100r smd 2 6 3 300 305
@@ -448,20 +455,20 @@ capacitors al electrolytic e574057 ck016m101e5avr 100 uf 16v 6.3 x5.4 smt capaci
 capacitors al electrolytic e574363 cs016m101e5ar 100 uf 16v 6.3 dx5.4 smt capacitor cs016m101e5ar suscon 31000
 capacitors al electrolytic z815517 emvh500ada470mja0g 47 uf 50v smt el capacitor united chemi con 500
 cap 470 uf d alum 470 uf d 16 volt electrolytic capacitor smd mount eev fk1c471p 4
-1.21 c13 c48 220 uf alum capacitor 220 uf 铝 电容 cap alum 220 uf 20% 16v smd edk227m016a9haa
-6 c8 9 cap alum 47 uf 35v 20% smd uwt1v470mcl1gs nichicon 925 uwt1v470mcl1gs nichicon 1000.0 1000 0.0565 7 12days moq 1000 2 900
+1.21 c13 c48 220 uf alum capacitor 220 uf 铝电容 cap alum 220 uf 20% 16v smd edk227m016a9haa
+6 c8 9 cap alum 47 uf 35v 20% smd uwt1v470mcl1gs nichicon 925 uwt1v470mcl1gs nichicon 1000.0 1000 0.0565 7 moq 1000 2 900
 cap alum 2v 20% smd 470 uf c460 c461 c462 c911 c915 c916 c917 c918 eef gx0d471r
-76 10 uf ce10 50 smd ce10 50 smd tme condensator condensator electrolitic smd 10 uf 50v tme rom â nia 0.2284 0
+76 10 uf ce10 / 50 smd ce10 / 50 smd tme condensator condensator electrolitic smd 10 uf 50v tme rom â nia 0.2284 0
 100u 6v3 sw smd eee fpj101uar dia 5 1 c26
 capacitor 100 uf 25v elec smt box 32 14 12
 capacitor 100 uf 35v electrolytic smt rm 221 p23 6 pce3373ct nd
 capacitor 22 uf 25v electrolytic smt rm 221 p469 21 pce3404ct nd
 capacitor 47 uf 35v electrolytic smt rm 221 p418 23 pce2050ct nd
 capacitor 470 uf smt electrolytic rm 228 wire rack blue bins 100 pce3464ct nd
-eee fk1h470xp 47 uf 50v smdg 2 cap aluminum lytic 47 uf 50v 20% aec q200
-eee fk1h330xp 33 uf 50v smdg 1 cap aluminum lytic 33 uf 50v 20% aec q200
-eee fk1e101xp 100 uf 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
-667 eee fk1c681gp aluminum electrolytic capacitors smd al lytic cap smt fk series 105c capacitor tanque cap alu smd 10mm 680 uf 16vdc 20% cd cm1 m2 cm1 m3 cm1 m0 cm1 m1 5 10 0758 758 br datasheet 2 315 aba0000c1181 947564 pdf br productdetail qs p6vz% 252bklckrqcgb2z1vnvbg% 3d% 3d
+eee fk1h470xp 47 uf / 50v smdg 2 cap aluminum lytic 47 uf 50v 20% aec q200
+eee fk1h330xp 33 uf / 50v smdg 1 cap aluminum lytic 33 uf 50v 20% aec q200
+eee fk1e101xp 100 uf / 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
+667 eee fk1c681gp aluminum electrolytic capacitors smd al lytic cap smt fk series 105c capacitor tanque cap alu smd 10mm 680 uf 16vdc 20% cd cm1 m2 cm1 m3 cm1 m0 cm1 m1 5 10 0758 758 / / br / datasheet / 2 / 315 / aba0000c1181 947564 pdf / / br / productdetail / qs p6vz% 252bklckrqcgb2z1vnvbg% 3d% 3d
 1 c1 18 µ f 18 µ f 400 v high voltage al electrolytic 235000 m ω 20 mm x 10 mm nichicon ucy2g180mpd
 1 c2 22 µ f 22 µ f 400 v high voltage al electrolytic 14469 m ω 20 mm x 16 mm united chemi con ekmx400vb22rm16x20ll
 1 c6 820 µ f 820 µ f 25 v electrolytic super low esr 22 m ω 25 mm x 10 mm united chemi con ekze250ell821mj25s
@@ -469,15 +476,15 @@ eee fk1e101xp 100 uf 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
 al cap 330 uf smd 10x10.2 mm eeefk1v331p 1 1.00 c104
 al cap 1000 uf smd 10x10.2 mm eeefk1a102p 1 1.00 c105
 al cap 100 uf smd 8.0 x10.2 mm eeefk1v101p 1 1.00 c80
-19 ecss220 35 electrolytic capacitor 10x10mm 2.0 maritex 1.0 c35
-20 ecss330 16 electrolytic capacitor 8x10mm 2.0 maritex 2.0 c38 c39 c39 mo ż e by ć 220 uf 35v
+19 ecss220 / 35 electrolytic capacitor 10x10mm 2.0 maritex 1.0 c35
+20 ecss330 / 16 electrolytic capacitor 8x10mm 2.0 maritex 2.0 c38 c39 c39 mo ż e by ć 220 uf / 35v
 cap 22 uf 50v 20% aluminum electrolytic vertical 6.3 mm dia 6.6 x6.6 x6.1 mm capacitor nichicon ucd1h220mcl1gs eeefk1h220p
 capacitor 10 uf 35v smd eev tg1v102m pce3684ct nd radial ecg c4 lucas 28 10 17
 2 100nf poly alt 63 or 100v c657a 0603 capacitor alternate to c657 if
-ucz1c470mcl1gs c 47 uf 20% 16v 6.3 5.8 mm nichicon 1 17.0
-ucz1h470mcs1gs c 47 uf 20% 50v 8 10mm nichicon 1 17.0
-uwh1v101mcl1gs c 100 uf 20% 35v 8 10mm nichicon 1 17.0
-ucz1h101mcs1gs c 100 uf 20% 50v 10 10mm nichicon 2 68.0
+ucz1c470mcl1gs c 47 uf 20% 16v 6.3 * 5.8 mm nichicon 1 17.0
+ucz1h470mcs1gs c 47 uf 20% 50v 8 * 10mm nichicon 1 17.0
+uwh1v101mcl1gs c 100 uf 20% 35v 8 * 10mm nichicon 1 17.0
+ucz1h101mcs1gs c 100 uf 20% 50v 10 * 10mm nichicon 2 68.0
 2 2 ct2 ct8 1000 uf nichicon rha0e102mcn1gs cap poly alum 1000 uf 2.5 v smd 8.00 mm x 7.70 mm cecase e315h 493 3761 1 nd
 c1 c4 c7 c10 capacitor aluminum electrolytic surface mount 5x5.8 mm 50v 10 uf cornell dubilier afk106m50c12t f 5985 afk 50v 10 f 0.44
 4.0 10.0 c8 c17 c32 c39 c68 c69 c75 c77 c94 c95 001 00022 01 cap 10 uf 25v 20% elyt smt c 001 00022 01 ece v1ea100sr
@@ -490,29 +497,25 @@ cbulk4 cbulk5 aluminium capacitor 180 μ f 16 v 20% oscon 16svpf180m
 c8 c14 c15 eev ha1h2r2r cap electr 22 uf 50v 1206 dns
 c6 c24 c29 c43 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g
 c15 capacitor low esr 100 uf 6.3 vdc 20% aluminum radial smt 5mm x 5.8 mm united chemi con emza6r3ada101me61g dnp
-c33 c35 100 uf sm ec100 uf cap elect 100 uf 25v fk smd 0.3924 eee fk1e101p
-电解电容 电解电容 smd 1000 uf 10v 8 8 10mm rvt1a102m0810 嘉立 创 1 c11
+c33 c35 100 uf sm / ec100 uf cap elect 100 uf 25v fk smd 0.3924 eee fk1e101p
+贴片 电解电容 电解电容 smd 1000 uf 10v 8 * 8 * 10mm rvt1a102m0810 1 c11
 cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0 1000 10000
-006 1005209050 p0901005 smd cap electrolit 1 uf capae660x870n low esr 40 to 105c 20% eeefc1v1ror panason 19.0 5.0 4080.0 allchips 1.0
-p0901005 smd cap electrolit 10 uf capae660x870n low esr 40 to 105c 20% eeefc1v100r panason 18.0 1.0 1020.0 allchips panason 1020.0 2.0 0.0805 arrow
-006 1006209031 p0901005 smd cap electrolit 100 uf capae660x870n low esr 40 to 105c 20% eee fk1c101p panason 18.0 1.0 1020.0 allchips panason 1020.0 2.0 0.121
-006 2204209050 p0901005 smd cap electrolit 2.2 uf capae660x870n low esr 40 to 105c 20% eeefc1v2r2r panason 19.0 2.0 2040.0 allchips panason 2040.0 2.0 0.069
+006 1005209050 p0901005 smd cap electrolit 1 uf capae660x870n low esr 40 to 105c / 20% eeefc1v1ror panason 19.0 5.0 4080.0 allchips 1.0
+p0901005 smd cap electrolit 10 uf capae660x870n low esr 40 to 105c / 20% eeefc1v100r panason 18.0 1.0 1020.0 allchips panason 1020.0 2.0 0.0805 arrow
+006 1006209031 p0901005 smd cap electrolit 100 uf capae660x870n low esr 40 to 105c / 20% eee fk1c101p panason 18.0 1.0 1020.0 allchips panason 1020.0 2.0 0.121
+006 2204209050 p0901005 smd cap electrolit 2.2 uf capae660x870n low esr 40 to 105c / 20% eeefc1v2r2r panason 19.0 2.0 2040.0 allchips panason 2040.0 2.0 0.069
 6 eee fk0j331xp cap alum 330 uf 20% 6.3 v smd eee fk0j331xp 1 1000 0 eee fk0j331xp 1000 0.1579 10 14days verical
 19 ucl1c471mnl1gs cap alum 470 uf 20% 16v smd nichicon ucl1c471mnl1gs 1 1000 0 ucl1c471mnl1gs nichicon 1000 0.2106 10 14days verical
-34 电解电容 cdvt 470 uf ± 20% 16v 8 10.2 2 6000 470 uf 20% 16v 8 10.2 国产品牌 6000 0.286
+34 贴片 电解电容 cdvt 470 uf ± 20% 16v 8 * 10.2 2 6000 470 uf 20% 16v 8 * 10.2 6000 0.286
 cap alum polymer 220 uf 20% 16v smd nichicon uwt1c221mcl1gs digi key 493 2179 1 nd 0.1235 digi key 493 2179 2 nd 0.0882
-9 100mfd 16v 6.3 x11 nrsz101m 16v nic comp 63800 200 pack
-10 100 uf 35v 6.3 x7 nre s101m35v 6.3 x7 nic comp 4000 200 pack
-11 4.7 uf 35v 4x7 nre sw4r7m35v 4x7f nic comp 8800 200 pack
-cap alum 470 uf 100v 20% smd 470 uf 100v ecec2ap471bj 3 c834 c835 c836
-cap alum 330 uf 25v 20% smd 330 uf 25v eee hae331uap 1 c837
+9 100mfd / 16v 6.3 x11 nrsz101m 16v nic comp 63800 200 / pack
+10 100 uf / 35v 6.3 x7 nre s101m35v 6.3 x7 nic comp 4000 200 / pack
+11 4.7 uf / 35v 4x7 nre sw4r7m35v 4x7f nic comp 8800 200 / pack
+cap alum 470 uf / 100v 20% smd 470 uf / 100v ecec2ap471bj 3 c834 c835 c836
+cap alum 330 uf / 25v 20% smd 330 uf / 25v eee hae331uap 1 c837
 4 cap alum 220 uf 20% 6.3 v smd emva6r3ada221mf55g 565 2058 1 nd united chemi con c84 c83 c81 c80
-14 302 107002 铝 电解电容 100 uf ± 20% 25v 63 77 mm 短脚 40 ℃ 105 ℃ ecsmd 6 sdm 220 uf c13 c23 2 200000
-15 302 227002 铝 电解电容 220 uf 20% 16v 63 77 短脚 40 ℃ 105 ℃ ecsmd 6 sdm 220 uf c11 1 100000
-16 302 477001 铝 电解电容 470 uf 20% 25v 10 105 短脚 40 ℃ 105 ℃ ecsmd 10 ecap d100 l102 smd c2 1 100000
-220 uf 16v cap pol1 c35 c39 c52 7 7 16v 3
-470 uf 35v cap pol1 c34 c38 10 10 50v 2
-c27 100 uf stm rescue cp1 device capacitor tantalum smd cp eia 2012 12 kemet r
+220 uf / 16v cap pol1 c35 c39 c52 7 * 7 16v 3
+470 uf / 35v cap pol1 c34 c38 10 * 10 50v 2
 c7 electrolytic capacitor 22 µ f exv226m035a9daa
 c22 electrolytic capacitor 22 µ f exv226m035a9daa
 220u united chemi con apxa160ara221mjc0g 11220 220 661 pxa 16v c221m 406x406mm cap 220 uf 16v c0g electrolytic 4141 lead free compliant cap elect 220u 16v 0
@@ -520,29 +523,32 @@ c217 c218 eef cx1c680r cap alum 68 uf 16v 20% smd 7343 68 uf p16816 1 nd
 c19 cap alel 100 uf 50v 20% smd nichicon uud1h101mnl1gs
 c18 cap alel 330 uf 35v 20% smt eeefk1v331ap
 c28 cap alel 330 uf 35v 20% smt eeefk1v331ap
-cs1e221m cre77 smd cap aluminum 220 uf 16v capacitor d63 h77 mm semtech 006078125 20 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302030053
-cs1e470m cre54 smd cap aluminum 47 uf 25v capacitor smd d63 h54 mm 005390625 25 2 02 seeedstudio depot oplopen parts library catalog c 136 138 302030059
+cs1e221m cre77 smd cap aluminum 220 uf 16v capacitor d63 * h77 mm semtech 006078125 20 2 02 / / seeedstudio / depot / oplopen parts library catalog c 136 138 / 302030053
+cs1e470m cre54 smd cap aluminum 47 uf 25v capacitor smd d63 * h54 mm 005390625 25 2 02 / / seeedstudio / depot / oplopen parts library catalog c 136 138 / 302030059
 c191 c230 c237 c244 c253 c262 330 uf 8 3mmx8 3mm cap alum 330 uf 25v 20% smd ecg eee fk1e331p capae830x1050d995dd305l335n pce3803ct nd 0.93 0.53
 c61 cadpart cap alel 47 uf 25v 20% smd production nichicon uud1e470mcl1gs
 c7 100 uf 16v electrolytic cap 80 eev107m016a9gaa
-ucz1h470mcl6gs syk1h470m c 47 uf 20% 50v 8 10 nichicon syk 2.0 2.0 10
-ucz1h471mnq1ms syk1h471m1616cb c al 470u 20% 50v 16x16.5 smt16 16.5 smt16 16 nichicon syk 1.0 1.0 5
-ucz1c470mcl1gs syk1c470m0505cb c al 47u 20% 16v 6.3 x5.8 smt6.3 5.8 smt5 5 nichicon syk 4.0 4.0 20
-1100000027 ec 100 uf 20% 16v smd 63 x54 mm eeefk1c101p 台灣國 際 鬆 電 工 electric works sales taiwan co ltd eeefk1c101p
+ucz1h470mcl6gs / syk1h470m c 47 uf 20% 50v 8 * 10 nichicon / syk 2.0 2.0 10
+ucz1h471mnq1ms / syk1h471m1616cb c al 470u 20% 50v 16x16.5 smt16 * 16.5 / smt16 * 16 nichicon / syk 1.0 1.0 5
+ucz1c470mcl1gs / syk1c470m0505cb c al 47u 20% 16v 6.3 x5.8 smt6.3 * 5.8 / smt5 * 5 nichicon / syk 4.0 4.0 20
+1100000027 ec 100 uf 20% 16v smd 63 x54 mm eeefk1c101p electric works sales taiwan co ltd eeefk1c101p
 1100000027 01 ec 100 uf 20% 16v smd 63 x54 mm eeefk1c101p 產業 industrial sales taiwan co ltd eeefk1c101p
-1100000027 ec 100 uf 20% 16v smd 63 x54 mm eeefk1c101p 台灣國 際 鬆 電 工 electric works sales taiwan co ltd eeefk1c101p c173 1
-13 铝电解 3 22 uf ± 20% 226 25v 0805 ca2 cb2 cc2
-14 铝电解 2 100 uf ± 20% 107 25v 6.3 7.7 cd8 cd9
-15 铝电解 2 220 uf ± 20% 227 10v 6.3 7.7 cd6 cd7
-16 铝电解 1 4.7 uf ± 20% 475 100v 6.3 7.7 cd3
-17 铝电解 2 47 uf ± 20% 476 50v 6.3 7.7 cd4 cd5
-34 铝电解 1 4.7 uf 100v 6.3 7.7 cd3
-35 铝电解 2 47 uf 50v 6.3 7.7 cd4 cd5
-36 铝电解 2 100 uf 25v 6.3 7.7 cd8 cd9
-38 铝电解 2 220 uf 10v 6.3 7.7 cd6 cd7
-铝 电解电容 22 uf 5mm 5.4 mm 25v vs1e220mc054000ce0 200 60000 2 c1 c10 铝 电解电容 c 22 uf accuracy ± 20% v 25v ir 16ua iripple 103ma 120hz 85 ℃ 40 ℃ 85 ℃ d 5mm h 5.4 mm vs1e220mc054000ce0 vs1e220mc054000ce0
-铝 电解电容 220 uf 6.3 mm 7.7 mm 16v vt1c221me077000ce0 200 60000 2 c2 c8 铝 电解电容 c 220 uf accuracy ± 20% v 16v ir 35.2 ua iripple 120ma 120hz 105 ℃ 40 ℃ 105 ℃ d 6.3 mm h 7.7 mm vt1c221me077000ce0 vt1c221me077000ce0
+1100000027 ec 100 uf 20% 16v smd 63 x54 mm eeefk1c101p electric works sales taiwan co ltd eeefk1c101p c173 1
+13 贴片 铝电解 3 22 uf ± 20% 226 25v 0805 ca2 cb2 cc2
+14 贴片 铝电解 2 100 uf ± 20% 107 25v 6.3 * 7.7 cd8 cd9
+15 贴片 铝电解 2 220 uf ± 20% 227 10v 6.3 * 7.7 cd6 cd7
+16 贴片 铝电解 1 4.7 uf ± 20% 475 100v 6.3 * 7.7 cd3
+17 贴片 铝电解 2 47 uf ± 20% 476 50v 6.3 * 7.7 cd4 cd5
+34 贴片 铝电解 1 4.7 uf / 100v 6.3 * 7.7 cd3
+35 贴片 铝电解 2 47 uf / 50v 6.3 * 7.7 cd4 cd5
+36 贴片 铝电解 2 100 uf / 25v 6.3 * 7.7 cd8 cd9
+38 贴片 铝电解 2 220 uf / 10v 6.3 * 7.7 cd6 cd7
+贴片 铝 电解电容 22 uf 5mm * 5.4 mm * 25v vs1e220mc054000ce0 200 60000 2 c1 c10 贴片 铝 电解电容 c 22 uf accuracy ± 20% v 25v ir 16ua iripple 103ma 120hz 85 ℃ 40 ℃ 85 ℃ d 5mm h 5.4 mm vs1e220mc054000ce0 vs1e220mc054000ce0
+贴片 铝 电解电容 220 uf 6.3 mm * 7.7 mm * 16v vt1c221me077000ce0 200 60000 2 c2 c8 贴片 铝 电解电容 c 220 uf accuracy ± 20% v 16v ir 35.2 ua iripple 120ma 120hz 105 ℃ 40 ℃ 105 ℃ d 6.3 mm h 7.7 mm vt1c221me077000ce0 vt1c221me077000ce0
 c35 100 uf electrolytic smt f 0g rcl united cc emka250ada101mha0g 661 mka25vc101m 0.38
-铝电 220 uf 35v ± 20% 8 10.5 mm 500.0
-220 uf 10v ± 20% 6.3 5.4 mm 1000.0
-470 uf 16v ± 20% syk 8mm 10.5 mm 500.0
+贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0
+贴片 铝电 220 uf 10v ± 20% 6.3 * 5.4 mm 1000.0
+贴片 铝电 470 uf 16v ± 20% syk 8mm * 10.5 mm 500.0
+电解电容 6.3 x12 / 2.5 / 10v / 220 uf ± 20% 5.00 25k
+电解电容 6.3 x12 / 2.5 / 10v / 470 uf ± 20% 1.00 5k
+电解电容 6.3 x12 / 2.5 / 35v / 100 uf ± 20% 1.00 5k ers1vm101e12ot

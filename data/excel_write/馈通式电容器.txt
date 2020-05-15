@@ -1,6 +1,7 @@
-30 16p8301a0 l05 s000030 cap feedthru 2.2 uf 20% 6.3 v 0603 nfm18pc225b0j3d 滤波器 12
-31 16p8301a0 l05 s000031 cap feedthru 1.5 uf 25v 1806 nfm41pc155b1e3l 滤波器 19
-32 16p8301a0 l05 s000032 cap feedthru 27 uf 20% 6.3 v 1206 nfm31pc276b0j3l 滤波器 12
-36 16p8302b0 l05 s000030 cap feedthru 2.2 uf 20% 6.3 v 0603 nfm18pc225b0j3d 滤波器 20 9 180
-37 16p8302b0 l05 s000031 cap feedthru 1.5 uf 25v 1806 nfm41pc155b1e3l 滤波器 50 9 450
-38 16p8302b0 l05 s000032 cap feedthru 27 uf 20% 6.3 v 1206 nfm31pc276b0j3l 滤波器 10 9 90
+nfe31pt222z1e9l nfe series 1206 2200 pf 6 a 25 v smt lc combined type emi filter nfe31pt222z1e9l fl1 fl2 fl3 fl4 fl5 fl6 fl7 fl8 fl9 fl10 fl11 fl12 fl13 fl14 fl15 fl19 fl20 fl22 fl24 6650.0
+30 16p8301a0 l05 s000030 cap feedthru 2.2 uf 20% 6.3 v 0603 nfm18pc225b0j3d / 滤波器 12
+31 16p8301a0 l05 s000031 cap feedthru 1.5 uf 25v 1806 nfm41pc155b1e3l / 滤波器 19
+32 16p8301a0 l05 s000032 cap feedthru 27 uf 20% 6.3 v 1206 nfm31pc276b0j3l / 滤波器 12
+36 16p8302b0 l05 s000030 cap feedthru 2.2 uf 20% 6.3 v 0603 nfm18pc225b0j3d / 滤波器 20 9 180
+37 16p8302b0 l05 s000031 cap feedthru 1.5 uf 25v 1806 nfm41pc155b1e3l / 滤波器 50 9 450
+38 16p8302b0 l05 s000032 cap feedthru 27 uf 20% 6.3 v 1206 nfm31pc276b0j3l / 滤波器 10 9 90

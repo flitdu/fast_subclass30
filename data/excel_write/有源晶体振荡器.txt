@@ -2,8 +2,8 @@ osc1 mems osc cmems 50mhz 50ppm 3.3 v 2520 asemb 50.000 mhz lc t abracon 1 5 ct
 1 crystal oscillator 100mhz fn 144 8089 pc 10.0 must operate 40 60oc o100m000000l434 ael crystals 10 4.0782 6 13days e
 tcxo 16.384 mhz pc 30 lftvxo009915 iqd frequency products
 50 crystal osc 25mhz osc fn 127 6647 pc 10.0 lfspxo025165 iqd frequency products
-ecs 3963 270 bn tr 1 oscillator standard 27mhz 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
-ecs 3963 270 bn tr 1 oscillator standard 27mhz 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
+ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
+ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
 sit8103ac 32 33e 40.00000 sitime osc 40mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc smd5x3.2 1 12
 sit8103ac 32 33e 60.00000 sitime osc 60mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 12
 sit8208ai 33 33e 33.333333 t sitime osc 33.3333 m 有源 晶振 3.3 v 33.3333 m 4pin 5x3.2 mm osc smd5x3.2 2 8
@@ -13,64 +13,66 @@ sit9121ai 2c2 33e200.000000 sitime osc 200mhz osc lvds 3.3 v smt 5.0 mm x 3.2 mm
 crystal osc 16.384 mhz lf vcxo021634
 有源 晶振 1 2520 50mhz 3.3 v 1000
 晶振 40.000 mhz 有源 7050 40.000 mhz 有源 7050 ± 2ppm smd 4 txc 50 50
-st25yy32r768k1v8 32.768 khz 1.8 v 3225 晶振 32.768 khz 1.8 v 3225 3225 1.0 x1602 pdi 整 1.0
-st25yy33r33m3r3v 33.33 mhz 3.3 v 3225 晶振 33.33 mhz 3.3 v ± 20ppm 15pf 3225 3225 1.0 osc1 pdi 整 1.0
+st25yy32r768k1v8 32.768 khz 1.8 v 3225 晶振 32.768 khz / 1.8 v / 3225 3225 1.0 x1602 pdi 整 1.0
+st25yy33r33m3r3v 33.33 mhz 3.3 v 3225 晶振 33.33 mhz / 3.3 v / ± 20ppm / 15pf / 3225 3225 1.0 osc1 pdi 整 1.0
 1185 晶振 晶振 32.768 khz 3215 60 60 60
 1050 晶振 晶振 32.768 khz ms3v t1r 350 350 350
 50mhz 15 7050 50mhz 1 x1g004481001200 15.0 2.98 1000.0 15.0 lc
 crystal 有源 晶振 smdxtal3225 7.3728 m 1.0 50.0
-28 有源 晶振 24mhz 2v8 osc4 20 16 u6 1 有源 晶振
-335.0 11801009 有源 晶振 5v 4m 7050 30000.0
-335.0 11801009 有源 晶振 5v 4m 7050 30000.0
-10.1 有源 3.3 v 晶振 hxo 36b 30.000 m 5 7 帖片 3v 1 4 真空 kds
+28 有源 晶振 24mhz / 2v8 osc4 20 16 u6 1 有源 晶振
+335.0 11801009 贴片 有源 晶振 5v 4m 7050 30000.0
+335.0 11801009 贴片 有源 晶振 5v 4m 7050 30000.0
+10.1 有源 3.3 v 贴片 晶振 hxo 36b 30.000 m 5 * 7 帖片 3v 1 4 真空 kds
 10.3 插脚 晶振 11.0592 mhz hc 49s 插脚 3v 1 4 真空 kds
-10.4 插脚 晶体 32.768 khz 2 6mm 插脚 3v 1 4 真空 kds
+10.4 插脚 晶体 32.768 khz / 2 * 6mm 插脚 3v 1 4 真空 kds
 870.0 2005020007 钟振 1.0 b 80 振荡器 12m smd7050 3.3 v
 1030.0 2005020008 钟振 1.0 b 80 振荡器 2.048 m smd7050 3.3 v
 1120.0 2005020009 钟振 1.0 b 80 振荡器 8m smd7050 3.3 v
 1130.0 2005020015 钟振 1.0 b 80 振荡器 25.000 mhz cxo smd7050 3.3 v
-sxfc30000046 3x osc xtal osc 24mhz sg 5032can 24mhz tjga 3.3 v smd 5x3.2 15pf 50ppm 40 85 ° c sg 5032can 24mhz tjga 1 500 2000
-62501001620 62501.0 晶体振荡器 晶体振荡器 200mhz 2.25 ^ 3.63 v 25ppm 3.2 2.5 6pin smd dsc1103ci2 200.0000 6
-62501001630 62501.0 晶体振荡器 晶体振荡器 125mhz 2.25 ^ 3.63 v 20ppm 3.2 2.5 6pin smd dsc1103ci3 125.0000 6
+sxfc30000046 3x osc / xtal osc 24mhz sg 5032can 24mhz tjga 3.3 v smd 5x3.2 15pf 50ppm 40 85 ° c sg 5032can 24mhz tjga 1 500 2000
+62501001620 62501.0 晶体振荡器 晶体振荡器 200mhz 2.25 ^ 3.63 v 25ppm 3.2 * 2.5 6pin smd dsc1103ci2 200.0000 6
+62501001630 62501.0 晶体振荡器 晶体振荡器 125mhz 2.25 ^ 3.63 v 20ppm 3.2 * 2.5 6pin smd dsc1103ci3 125.0000 6
 x1g004451000400 有源 晶振 seiko x1g004451000400 lc smd 5032 4p 1 1000
-crystek cvco33cl 0225 0265 225 265mhz metal smd 7.62 7.62 mm of stock 150
+crystek cvco33cl 0225 0265 225 265mhz metal smd 7.62 * 7.62 mm of stock 150
 technology dsc1003di2 050.0000 标准 时钟 振荡器 mems oscillator low power 50mhz lvcmos 40c 85c 25ppm 2.5 x2.0 mm y5 dsc1003di2 050.0000
 technology dsc1123bi2 100.0000 标准 时钟 振荡器 mems oscillator high perf single lvds 40c 85c 25ppm y2 y3 dsc1123bi2 100.0000
 technology dsc1123ci2 156.2500 标准 时钟 振荡器 mems oscillator high perf single lvds 40c 85c 25ppm y4 dsc1123ci2 156.2500
 ic004a sg3030cm sg 3030cm32.768000 khzb 32.768 khz 1.0 y6 sg 3030cm32.768000 khzb 32.768 khz ic004a sg3030cm 集成电路 4 5
 有源 晶振 50mhz 3.3 v 有源 7 5mm 1.0 20.0 c x11000
-204 有源 晶体 32.768 khz ± 30ppm v 3.3 v osc32327683350 smd3225 d3sx00327000qe 3.3 v hosonic tcxo 3225 s 1 20 2000 30000
-000440 u5 集成电路 ic 12mhz osc clock osc 12mhz 33 v asemb 12000 mhz lc t 1 abracon 1120
-703514000400.0 晶振 green 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1.0 100.0
-45 1 y1 25m 晶振 sm7745hev 25.0 m 10 pletronics 25m 晶振 sm7745hev 25.0 m sm7745hev 25.0 m pletronics 10 7 12 9.4397 94.4
-46 1 gj1 26m 晶振 7l26002009 10 txc 26m 晶振 7l26002009 7l26002009 txc 10 3 2.86 28.6
-osc d0406a txc 7c series 40 y1 8 8 txc 7c series 5 3.2 mm 40mhz 3.3 v oscillator txc 7c series 5 3.2 mm cmos 1600
-101 066w000015000 703514000500 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury mercury 3ha57 et 32.768 k 2 200 mbs 5330 2.0
-102 066w240141001 703514000400 晶振 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1 100 mbs 5330 1.0
-5 066w000035000 有源 晶振 osc 1.8432 mhz 3.3 v 50ppm cmos 4p 3.2 x2.5 smd argo wt type argo agxo 1.8432 m 3.3 v s3225 cs c z o tr 1 100 lio 53303 1.0
+贴片 晶体振荡器 有源 贴片 有源 晶体 32.768 khz ± 30ppm v 3.3 v osc32327683350 smd3225 d3sx00327000qe 3.3 v * hosonic tcxo 3225 s 1 20 2000 30000
+贴片 晶体振荡器 有源 u5 集成电路 ic 12mhz osc clock osc 12mhz 33 v asemb 12000 mhz lc t 1 abracon 1120
+贴片 晶体 谐振器 无源 703514000500.0 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury 3ha57 et 32.768 k mercury 3ha57 et 32.768 k 2.0 200.0
+贴片 晶体振荡器 有源 703514000400.0 晶振 green 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1.0 100.0
+贴片 晶体振荡器 有源 45 1 y1 25m 晶振 sm7745hev 25.0 m 10 pletronics 25m 晶振 sm7745hev 25.0 m sm7745hev 25.0 m pletronics 10 7 12 9.4397 94.4
+贴片 晶体振荡器 有源 46 1 gj1 26m 晶振 7l26002009 10 txc 26m 晶振 7l26002009 7l26002009 txc 10 3 2.86 28.6
+贴片 晶体振荡器 有源 txc 7c series 40 y1 8 8 txc 7c series 5 * 3.2 mm 40mhz 3.3 v oscillator txc 7c series 5 * 3.2 mm / cmos 1600
+贴片 晶体振荡器 有源 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury mercury 3ha57 et 32.768 k 2 200 mbs 5330 2.0
+贴片 晶体 谐振器 有源 晶振 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1 100 mbs 5330 1.0
+贴片 晶体振荡器 有源 有源 晶振 osc 1.8432 mhz 3.3 v 50ppm cmos 4p 3.2 x2.5 smd argo wt type argo agxo 1.8432 m 3.3 v s3225 cs c z o tr 1 100 lio 53303 1.0
+hx7011c0025.000000 standard clock oscillators 3.3 v cmos xo 25.000000 mhz 25ppm osc 4sm 2r5x2r0 x1 x3 4.0 700.0
 sg 8002ca 80.000000 mhz u9 smd 7050 4p 1 5
-32768 k 晶体 谐振器 系统 mc 146 32768000 khz 125 200 200 标称 频率 32768 khz 频差 ± 20ppm 频差 ± 20ppm 40 85 ℃ 串联 谐振 电阻 65k ω max cl 125 pf 振动模式 at 切 基频 驱动 功率 1uwmax 老化 率 ± 5ppm 70 15 14 max epsontoyocom mc 146 32768000 khz 125 200 200 sii ssp t7 f 32768 khz 125 pf 20ppm 1 300
-48m 晶体振荡器 sit8103ai 21 18e 48.00000 x 标称 频率 48mhz 频率 稳定度 ± 20ppm 40 85 ℃ 逻辑 cmos 电压 1.8 v ± 5% 占空比 45 55% 上升 下降时间 4.6 nsmax 老化 率 ± 1ppm 形式 smd3.2 2.5 3225 sitime sit8103ai 21 18e 48.00000 x 1 300
-晶体振荡器 1631 24003 btbqya iqg 7x24002001 txc sg 310scn 24mhz j oxetelkanf 24.000000 mhz taitien 标称 频率 24mhz 频率 稳定度 ± 50ppm 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x24002001 taitien oxetelkanf 24.000000 mhz 1 300
-晶体振荡器 jyod3h7h3c5y 25.000 oxetghjanf 25.000000 mhz 7x25002011 l 3 5 25.000 m 50 40125 d3sx25e00000te 标称 频率 25mhz 频率 稳定度 ± 50ppm 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x25002011 hlx l 3 5 25.000 m 50 40125 1 300
-u18 30m 7050 30m 7050 1 10
-36 有源 晶振 32.768 khz sc0 700 smd 4 10 x1
-83 有源 晶振 32.768 khz sc0 700 smd 4 1000 x1
-23 晶振 50mhz 5 7 1 2
-smd 3225 4p osc 24m osc 24m y1 晶振 1 20 无源
-113 有源 晶振 ovetgljanf 16mhz ovetgljanf 16.00 mhz smd 4p 500
-185 晶振 ovetgljanf 50mhz smd 50mhz taitien 100
-6107 s24m5706 晶振 kc2520k245760 c1ge00 京瓷 kyocera 80 无货
-55 066w480141010 703524348000 oscillator 震荡 cas jason190816 osc 48 mhz 3.3 v 50ppm 5x3.2 s fujicom fco536b 48.000000 mba 1 500
-1 20 u3 cb3lv 5i 16m0000 774 cb3lv 5i 16m0000 cts standard clock oscillators 16.0 mhz 3.3 v 40c 85c 25ppm 16.000 mhz cb3lv
+32768 k 贴片 普通 晶体 谐振器 系统 mc 146 32768000 khz 125 200 200 标称 频率 32768 khz 频差 ± 20ppm 频差 ± 20ppm 40 85 ℃ 串联 谐振 电阻 65k ω max cl 125 pf 振动模式 at 切 / 基频 驱动 功率 1uwmax 老化 率 ± 5ppm / 70 * 15 * 14 max epsontoyocom mc 146 32768000 khz 125 200 200 / / sii ssp t7 f 32768 khz 125 pf / / 20ppm 1 300
+48m 贴片 普通 晶体振荡器 sit8103ai 21 18e 48.00000 x 标称 频率 48mhz 频率 稳定度 ± 20ppm 40 85 ℃ 逻辑 cmos 电压 1.8 v ± 5% 占空比 45 55% 上升 / 下降时间 4.6 nsmax 老化 率 ± 1ppm / 形式 smd3.2 2.5 3225 sitime sit8103ai 21 18e 48.00000 x 1 300
+贴片 普通 晶体振荡器 1631 24003 btbqya iqg 7x24002001 txc sg 310scn 24mhz j oxetelkanf 24.000000 mhz taitien 标称 频率 24mhz 频率 稳定度 ± 50ppm 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 / 下降时间 3nsmax 老化 率 ± 5ppm / 形式 smd3.2 2.5 3.2 * 2.5 txc 7x24002001 / / taitien oxetelkanf 24.000000 mhz 1 300
+贴片 普通 晶体振荡器 jyod3h7h3c5y 25.000 oxetghjanf 25.000000 mhz 7x25002011 l 3 5 25.000 m 50 40125 d3sx25e00000te 标称 频率 25mhz 频率 稳定度 ± 50ppm 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 / 下降时间 3nsmax 老化 率 ± 5ppm / 形式 smd3.2 2.5 3.2 * 2.5 txc 7x25002011 / / hlx l 3 5 25.000 m 50 40125 1 300
+贴片 晶体振荡器 有源 u18 30m 7050 30m 7050 1 10
+晶体振荡器 50mhz 3.3 v smd0705 1 500 500 b4
+贴片 晶体振荡器 有源 36 有源 晶振 32.768 khz sc0 700 smd 4 10 x1
+贴片 晶体振荡器 有源 83 有源 晶振 32.768 khz sc0 700 smd 4 1000 x1
+贴片 晶体振荡器 有源 smd 3225 4p osc 24m osc 24m y1 晶振 1 20 无源
+贴片 晶体振荡器 有源 有源 晶振 ovetgljanf 16mhz ovetgljanf 16.00 mhz smd 4p 500
+贴片 晶体振荡器 有源 晶振 ovetgljanf 50mhz smd 50mhz taitien 100
+贴片 晶体振荡器 有源 6107 s24m5706 贴片 晶振 kc2520k245760 c1ge00 京瓷 kyocera 80 无货
+oscillator 震荡 cas jason190816 osc 48 mhz 3.3 v 50ppm 5x3.2 s fujicom fco536b 48.000000 mba 1 500
+贴片 晶体振荡器 有源 u3 cb3lv 5i 16m0000 774 cb3lv 5i 16m0000 standard clock oscillators 16.0 mhz 3.3 v 40c 85c 25ppm 16.000 mhz cb3lv
 1 20 u4 cb3lv 5i 30m0000 774 cb3lv 5i 30m0000 cts osc xo 30.000 mhz hcmos ttl smd 30mhz cb3lv
-a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mhz xy t abracon 晶振 10
-64mhz oscillator smd txc 7c 4pin 5.0 x3.2 mm 1 kc5032a64.0000 c10e00 kyocera 50ppm crystal oscillator low profile high stability spxo 100
+贴片 晶体振荡器 有源 a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mhz xy t abracon 晶振 10
+贴片 晶体振荡器 有源 64mhz oscillator smd txc 7c 4pin 5.0 x3.2 mm kc5032a64.0000 c10e00 crystal oscillator low profile / high stability spxo 100
 有源 晶振 50mhz 3225 3.3 v 10000
-150 表贴 晶振 有源 晶振 25mhz 5 3.2 mm 3.3 v 有源 晶振 smd 4pin 1.0 y1 800
-151 表贴 晶振 有源 晶振 20mhz 5 7mm 3.3 v 有源 晶振 smd 4pin 20mhz crystal crystal smt 20m 1.0 y2 800
-153 表贴 晶振 有源 晶振 50mhz 5 3.2 mm 3.3 v 有源 晶振 smd 4pin txc 50mhz txc txc 50mhz 1.0 y4 800
-晶体振荡器 30mhz 3.3 v 5 7mm g1 1 5
+150 表贴 晶振 有源 晶振 25mhz 5 * 3.2 mm 3.3 v 有源 晶振 smd 4pin 1.0 y1 800
+151 表贴 晶振 有源 晶振 20mhz 5 * 7mm 3.3 v 有源 晶振 smd 4pin 20mhz crystal crystal smt 20m 1.0 y2 800
+153 表贴 晶振 有源 晶振 50mhz 5 * 3.2 mm 3.3 v 有源 晶振 smd 4pin txc 50mhz txc txc 50mhz 1.0 y4 800
+晶体振荡器 30mhz 3.3 v 5 * 7mm g1 1 5
 有源 钟振 12mhz 5032 1.8 3.3 v osc3x5 100
 有源 钟振 16mhz 3225 1.8 3.3 v osc3225 3225 100
 11 060003 有源 晶振 kc3225a500000 c30e00 10 10000
@@ -79,49 +81,48 @@ a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mh
 11 060019 有源 晶振 sitime sit8008bi 13 33e 72000000 72mhz 33 v 10 10000 sit8008bi 13 33e 72000000 sitime 赛特 时脉 3000 2 4 3000 3000 242 陈彩珠
 46 1 y1 25m 晶振 sm7745hev 25.0 m 30
 47 1 gj1 26m 晶振 7l26002009 30
-20mhz 15pf 40 125 ° c smf 020000 5bc6t0 晶体振荡器 有源 20mhz 15pf 40 125 ° c x2 smd 5032 4p 1
-59 132926 1 tx s3d16ra20f30t 晶振 s3d16000000 a20f30t 16mhz 3225 4p 80 y
-39 132936 1 tx fc013532r76a5 晶振 fc 135 327680 ka a5 327680 khz 125 pf 晶振 fc 135 327680 ka a5 327680 khz 126 pf y
-63 132936 1 tx ecs03225mv050 晶振 ecs 3225mv 500 bn tr 50mhz 晶振 ecs 3225mv 500 bn tr 51mhz y
-71 4k2501a0 x01 s000532 xtal osc xo 25.0000 mhz cmos smd 3225 ase 25.000 mhz lr t abracon 晶振 3
-92 1 93a.156 m 531a01 有源 晶振 531ac156m250dg 时钟 振荡器 lvpecl 156.25 m 20ppm 40 85 ℃ 7050 1 x6 7050 silicon labs 531ac156m250dg u44 12
-95 1 93a.10 m0 ecs301 有源 晶振 ecs 3225mv 100 cn tr 有源 晶振 10mhz ± 25ppm 40 85 ℃ 3225 1 x4 3225 ecs ecs 3225mv 100 cn tr y1 12
-97 1 93a.25 m0 ecs301 有源 晶振 ecs 3225mv 250 cn tr 有源 晶振 25mhz ± 25ppm 40 85 ℃ 3225 2 x4 3225 ecs ecs 3225mv 250 cn tr y3 y4 24
-168 93a.33 m3 asdm01 有源 晶振 asdmb 33.333 mhz cl t 有源 晶振 33.333 mhz ± 50ppm 40 85 ℃ 2520 1 2520 abracon asdmb 33.333 mhz cl t y1 55
-169 93a.25 m0 ecs001 有源 晶振 ecs 3225mv 250 cn tr 有源 晶振 25mhz ± 25ppm 40 85 ℃ 3225 2 3225 ecs ecs 3225mv 250 cn tr y2 y3 110
-8 16p8302b0 x01 s000464 mems osc xo 50.0000 mhz h lv cmos 3.20 mm x 2.50 mm sit1602bc 22 18e 50.000000 d sitime 晶振 10 9 90
-9 16p8302b0 x01 s000465 xtal osc xo 25.0000 mhz cmos smd 3.20 mm x 2.50 mm sg 310scn 25.0000 mj0 晶振 10 9 90
-99 16p8302b0 x01 s000464 mems osc xo 50.0000 mhz h lv cmos 3.20 mm x 2.50 mm sit1602bc 22 18e 50.000000 d sitime 晶振 90
-100 16p8302b0 x01 s000465 xtal osc xo 25.0000 mhz cmos smd 3.20 mm x 2.50 mm sg 310scn 25.0000 mj0 晶振 90
-11 晶体振荡器 lumex 30mhz 3.3 v 5 7mm g1 1 3
-p07 19189r crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm 50ppm 41118 302 1 ea x1 eg 2121ca 125 m lgpnl3 crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm 50ppm
-p07 19194r crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm 50ppm 01 56401 306 1 ea x5 sg 310sdf 250000 m b3 crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm 50ppm
+20mhz 15pf 40 125 ° c smf 020000 5bc6t0 贴片 晶体振荡器 有源 / 20mhz 15pf 40 125 ° c x2 smd 5032 4p 1
+贴片 晶振 s3d16.000000 a20f30t / 16mhz 3225 4p 80 y
+贴片 晶振 ecs 3225mv 500 bn tr / 50mhz 贴片 晶振 ecs 3225mv 500 bn tr / 51mhz y
+71 4k2501a0 x01 s000532 xtal osc xo 25.0000 mhz cmos smd 3225 ase 25.000 mhz lr t / abracon 晶振 3
+92 1 93a.156 m 531a01 有源 晶振 531ac156m250dg / 时钟 振荡器 / lvpecl 156.25 m 20ppm / 40 85 ℃ / 7050 1 x6 7050 silicon labs 531ac156m250dg u44 12
+95 1 93a.10 m0 ecs301 有源 晶振 ecs 3225mv 100 cn tr / 有源 晶振 / 10mhz / ± 25ppm / 40 85 ℃ / 3225 1 x4 3225 ecs ecs 3225mv 100 cn tr y1 12
+97 1 93a.25 m0 ecs301 有源 晶振 ecs 3225mv 250 cn tr / 有源 晶振 / 25mhz / ± 25ppm / 40 85 ℃ / 3225 2 x4 3225 ecs ecs 3225mv 250 cn tr y3 y4 24
+168 93a.33 m3 asdm01 有源 晶振 asdmb 33.333 mhz cl t / 有源 晶振 / 33.333 mhz / ± 50ppm / 40 85 ℃ / 2520 1 2520 abracon asdmb 33.333 mhz cl t y1 55
+169 93a.25 m0 ecs001 有源 晶振 ecs 3225mv 250 cn tr / 有源 晶振 / 25mhz / ± 25ppm / 40 85 ℃ / 3225 2 3225 ecs ecs 3225mv 250 cn tr y2 y3 110
+8 16p8302b0 x01 s000464 mems osc xo 50.0000 mhz h / lv cmos 3.20 mm x 2.50 mm sit1602bc 22 18e 50.000000 d / sitime 晶振 10 9 90
+9 16p8302b0 x01 s000465 xtal osc xo 25.0000 mhz cmos smd 3.20 mm x 2.50 mm sg 310scn 25.0000 mj0 / 晶振 10 9 90
+99 16p8302b0 x01 s000464 mems osc xo 50.0000 mhz h / lv cmos 3.20 mm x 2.50 mm sit1602bc 22 18e 50.000000 d / sitime 晶振 90
+100 16p8302b0 x01 s000465 xtal osc xo 25.0000 mhz cmos smd 3.20 mm x 2.50 mm sg 310scn 25.0000 mj0 / 晶振 90
+11 晶体振荡器 lumex 30mhz / 3.3 v / 5 * 7mm g1 1 3
+p07 19189r crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm / 50ppm 41118 302 1 ea x1 eg 2121ca 125 m lgpnl3 crystal 1250 mhz saw osc lvds 25 v smt 50 mm x 75 mm / 50ppm
+p07 19194r crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm / 50ppm 01 56401 306 1 ea x5 sg 310sdf 250000 m b3 crystal 25000 mhz osc cmos 25 v smt 32 mm x 25 mm / 50ppm
 有源 晶振 1 2520 50mhz 3.3 v 1000
 有源 晶振 33.333 mhz 3.3 v 1 abracon asdmb 33.333 mhz cl t y1
 有源 晶振 25mhz 3.3 v 2 ecs ecs 3225mv 250 cn tr y2 y3
 有源 晶振 ecs 3225mv 100 cn tr 1 x4 3225 ecs ecs 3225mv 100 cn tr y1
 有源 晶振 ecs 3225mv 250 cn tr 2 x4 3225 ecs ecs 3225mv 250 cn tr y3 y4
 73 y 1.0 y200 xtal 2.5 and 3.3 v lvpecl osc vectron vcc6 qcd 25m000 25meghz xtalvivcc6qc xtalvivcc6qc
-1 p07 19194r crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm 50ppm 3 u6 u7 u72 sg 310sdf 25.0000 m b3 crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm 50ppm
-1 p13 26930r osc 50mhz 50ppm 18 v clock oscillator smd 5 x 32 mm 1 u51 ecs inc ecs 3518 500 b xx osc 50mhz 50ppm 18 v clock oscillator smd 5 x 32 mm
-1 p13 27220r osc vcxo fs1 148.50 m fs0 148.35 m temp 20ppm tunning slope 90ppm v vdd 2.5 v 5x7mm 1 u54 silicon 516fha000132aag osc vcxo fs1 148.50 m fs0 148.35 m temp 20ppm tunning slope 90ppm v vdd 2.5 v 5x7mm
+1 p07 19194r crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm / 50ppm 3 u6 u7 u72 sg 310sdf 25.0000 m b3 crystal 25.000 mhz osc cmos 2.5 v smt 3.2 mm x 2.5 mm / 50ppm
+1 p13 26930r osc 50mhz / 50ppm 18 v clock oscillator smd 5 x 32 mm 1 u51 ecs inc ecs 3518 500 b xx osc 50mhz / 50ppm 18 v clock oscillator smd 5 x 32 mm
+1 p13 27220r osc vcxo fs1 148.50 m / fs0 148.35 m temp / 20ppm tunning slope 90ppm / v vdd 2.5 v 5x7mm 1 u54 silicon 516fha000132aag osc vcxo fs1 148.50 m / fs0 148.35 m temp / 20ppm tunning slope 90ppm / v vdd 2.5 v 5x7mm
 1 p07 19698r crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm 1 y5 crystek crystals corporation cvhd 950 122.88 crystal vcxo osc 122.88 mhz cmos 3.3 v smt 9.0 mm x 14mm
 1 p13 27150r osc 33.000 mhz 2.5 v cmos 3.2 x 2.5 1 y7 abracon corporation ase2 33.000 mhz et osc 33.000 mhz 2.5 v cmos 3.2 x 2.5
-crystals resonators xtal osc z124631 kc7050a100.000 c30e00 100.00 mhz 3.3 v 7x5mm smd xtal kc7050a100.000 c30e00 584
+crystals / resonators xtal osc z124631 kc7050a100.000 c30e00 100.00 mhz 3.3 v 7x5mm smd xtal kc7050a100.000 c30e00 584
 116 y 1.0 y301 ic vcxo ultra low phase noise oscillator sine crystek corporation cvss 945 122.880 122.88 meghz lcc4h210 lcc4
 117 y 1.0 y401 ic xtal vcfo volt ctrl osc crystek corporation cvco33cx 2500 2500 2.5 ghz lcc16 b
 10 n y1 ic oscillator voltage controlled osc toyocom tco 2111 60 800mhz osctco2100 osctco2100
 82 y 1 y2 ic crystal resistance weld smd fox 278lf 24mhz 24.000 mhz ysml461w197h177 ysml461w197h177
 78 1 u25 vco 245.76 mhz na oscvectron vs50 toyocomm tco 2111
-68 y 1 y502 acmos lsttl compatible clk osc 80mhz xtalcb3lv h90 valpey fisher vfac3hl80 n y
+68 y 1 y502 acmos / lsttl compatible clk osc 80mhz xtalcb3lv h90 valpey fisher vfac3hl80 n y
 99 n y501 ic oscillator voltage controlled osc 60 800mhz osctco2100 toyocom tco 2111 n y
-68 abracon achl 50.000 mhz ek abracon corporation achl 50.000 mhz ek 1 700 achl 50.000 mhz ek abracon 40.0 700 1.26 7 12days
+68 abracon achl 50.000 mhz ek abracon corporation achl 50.000 mhz ek 1 700 achl 50.000 mhz ek abracon 40.0 700 1.26 7
 50mhz jo75 3v3 osc jauch 3v3 0 500 jo75 b 3 1 u10
 osc 125 mhz 3.3 v lvds smd u16 fox fxo lc536r 125 1 digi key 631 1354 1 nd
 osc 150 mhz 3.3 v lvds smd u17 fox fxo lc536r 150 1 digi key 631 1355 1 nd
 osc mems 125.000 mhz smd u18 abracon corporation asflmb 125.000 mhz xy t 1 digi key 535 11043 1 nd
 63 crystals and oscillators abracon corporation asflmb 12.288 mhz lr t 4 smd lead dfn lcc osc mems 12.288 mhz smd 1 digi key 535 10982 1 nd 1000 5279 1.43 1425
-up 16mhz 5v arduno mini pro
+up 16mhz / 5v arduno mini pro
 crystal 有源 晶振 smdxtal3225 7.3728 m 1.0 50.0 1.0
 154 1 y1 cb3lv 3c 60m0000 cts frequency controls cb3lv 3c 60m0000 osc 60.000 mhz 3.3 v smd 7.00 mm x 5.00 mm osc cb3lv 3c ctx285lvct nd
 157 1 y4 ase3 25.000 mhz kt abracon corporation ase3 25.000 mhz kt oscillator 25.000 mhz 1.8 v smd 3.20 mm x 2.50 mm osc ase3 535 9550 1 nd
@@ -130,9 +131,9 @@ crystal 有源 晶振 smdxtal3225 7.3728 m 1.0 50.0 1.0
 141 1 y1 asv 25.000 mhz ej t oscillator 25.000 mhz 3.3 v smd abracon corporation asv 25.000 mhz ej t smd 7mm x 5mm xtal asv 535 9319 1 nd
 143 1 y3 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d 744 1038 1 nd
 146 1 y6 emk13g2h 26.660 m smd crystal oscillator 26.66 mhz 3.3 v 30pf 4 pin ecliptek emk13g2h 26.660 m smd 7mm x 5mm xtal asv ecliptek emk13g2h 26.660 m
-169 1 y1 50 mhz osc 50mhz 50ppm 3.3 v smd cts freq control cb3lv 3c 50m0000 tbd osc cb3lv 3c ctx283lvct nd
-171 1 y3 25mhz osc 25mhz 30ppm 1.8 v smd abracon corporation ase3 25.000 mhz kt tbd osc ase3 535 9550 1 nd
-174 1 y6 66 mhz osc 66mhz 50ppm 3.3 v smd cts freq control cb3lv 3i 66m0000 tbd osc cb3lv 3c ctx316lvct nd
+169 1 y1 50 mhz osc 50mhz / 50ppm 3.3 v smd cts freq control cb3lv 3c 50m0000 tbd osc cb3lv 3c ctx283lvct nd
+171 1 y3 25mhz osc 25mhz / 30ppm 1.8 v smd abracon corporation ase3 25.000 mhz kt tbd osc ase3 535 9550 1 nd
+174 1 y6 66 mhz osc 66mhz / 50ppm 3.3 v smd cts freq control cb3lv 3i 66m0000 tbd osc cb3lv 3c ctx316lvct nd
 176 1 y8 ccld 033 50 125.000 osc lvds 125.0 mhz 3.3 v smd crystek corporation ccld 033 50 125.000 smd 7mm x 5mm osc s6p lv77d 744 1038 1 nd
 177 1 y9 fxo lc735r 30.72 osc 30.72 mhz 3.3 v lvds smd nu fox fxo lc735r 30.72 smd 7mm x 5mm osc 7x5mm 6p fxo lc735r 30.72 nd
 y7 asfl1 48.000 mhz ec t abracon corporation asfl1 48.000 mhz ec t oscillator 48.0000 mhz 3.3 v smd 5.00 mm x 3.20 mm osc 535 9259 1 300 8263 1 nd 08 00128 01
@@ -144,44 +145,47 @@ osc 24.576 mhz 1.8 v 25ppm npb 2x1.6 y6 txc corporation 8n24570001
 osc 22.5792 mhz 1.8 v 25ppm npb 2x1.6 y7 txc corporation 8n2257001
 25 1.0 q1 4.0 5.0 x3.2 mm tcxo crystal 50x32 asvtx 09
 92.0 1.0 u9 102 00023 01 ecliptek vcxo 24.576 mhz 50ppm 3.3 v smt vcxo 24.576 mhz 50ppm 3.3 v smt ev32c3a5a1 24.576 m
-osc xo 25.0000 mhz cmos smd kc2520k25.0000 c1ge00 1.0 1.089 1.089 corp kyocera corp y3 1000.0
+osc xo 25.0000 mhz cmos smd kc2520k25.0000 c1ge00 1.0 1.089 1.089 corp / kyocera corp y3 1000.0
 lf spxo009616 100mhz cmos 2v5 oscillator smt 7.5 x5.0 farnell 1276665 5.61 6.0 0.0
 f4100 32.0000 32mhz 3v3 oscillator smt 7.5 x5.0 rs 4719427 3.87 20.0
 s1613b 50.0000 3.3 v cmos 50mhz oscillator smt 7.5 x5.0 5.33 0.0
 y1 cb3lv 3c 40m0000 osc 40.000 mhz 3.3 v smd cts frequency controls cb3lv 3c 40m0000 digi key ctx280lvct nd 2.94
 y2 cb3lv 3c 80m0000 osc 80.000 mhz 3.3 v smd cts frequency controls cb3lv 3c 80m0000 digi key ctx289lvct nd 3.16
 x1 note 1 oscillator prog 3.3 v 50ppm smd26.0 mhz abracon corporation ap3s blanks ap3s3ec nd
-8m 5070 33 v 8mhz 5070 33 v 有源 晶振 20 201711 15
-8m 5070 33 v 110592 mhz 5070 33 v 有源 晶振 20 201711 15
+8m 5070 贴片 33 v 8mhz 5070 33 v 贴片 有源 晶振 20 201711 15
+8m 5070 贴片 33 v 110592 mhz 5070 33 v 贴片 有源 晶振 20 201711 15
 x1 48mhz tcxo x2016
+osc1 50mhz oscillator 4 pins 1 e 2 gnd 3 4 vs oscsc508p500x700x180 4n
 crystal oscillator 100mhz o100m000000l434
 147 osc 4.0000 mhz 3.3 v smd cb3lv 3c 4m0000 fxo37f y1 cts frequency controls 1 ctx261lvct nd
-u2 cts mxo45hst 20m000 20mhz osc dip 8 1
+u2 cts / mxo45hst 20m000 20mhz osc dip 8 1
 530ec125m000dg osc xo 125.000 mhz lvpecl smd ib clock generation 1.0
 58 1 cvxo 018tx 50 12.288 voltage controlled clock oscillators smd 12.288 mhz xo1 avx5x7 6 549 cvxo018tx5012.28 crystek
 59 0 vcs25axt 128 12.288 mhz voltage controlled clock oscillators smd 12.288 mhz avx5x7 6 559 vcs25axt 1229 fox
 48 1 66.6666 mhz conner winfield cwx823 066.6666 m xo smt u402 3.3 v 50ppm 1pstjms 1ps rms phase jitter xo prototype with 66.6666 mhz since distributors stock freq for production special order 65.000 mhz man uf acturer 2.0025 2.0025 200.25 0.021900846963990306 digi key
 49 1 16.368 mhz txc 7q 16.368 mbg t tcxo smt x101 3.3 v clipped sinewave tempco 0.5 ppm tempco 0.5 ppm tcxo 1.59 1.59 159 0.017389436540696423 newark
-49152 mhz crystal osc 49152 mhz cmos ttl ctx156 nd 278 xtal osc
-5000 mhz crystal osc 50000 mhz cmos ttl ctx121 nd 278 xtal osc
-1 y1 osc mems 50.000 mhz 3.3 v cmos low power 50ppm internal pu smd 2mm x 2.5 mm silicon labs 501baa50m0000dag 50mhz osc alt
-44 1 0 abracon achl 25000 mhz ek stall x5 250 mhz half cap 8 p dip 30 ppm 33 v with oe plug to x7 socket acol achl pdf
+49152 mhz crystal osc 49152 mhz cmos / ttl ctx156 nd 278 xtal osc
+5000 mhz crystal osc 50000 mhz cmos / ttl ctx121 nd 278 xtal osc
+y1 osc mems 50.000 mhz 3.3 v cmos low power / 50ppm internal pu smd 2mm x 2.5 mm 501baa50m0000dag 50mhz osc alt
+y1 osc mems 50.000 mhz 3.3 v cmos low power / 50ppm internal pu smd 2mm x 2.5 mm 501baa50m0000dag 50mhz osc alt
+u2 cwx823 050.0 m cwx8xx 5x7mm cwx823 050.0 m cwx823 050.0 m ex0491
+44 1 0 abracon achl 25000 mhz ek stall x5 250 mhz half cap 8 p dip / 30 ppm 33 v with oe plug to x7 socket acol achl pdf
 osc1 27mhz xtal asek abracon corporation ase 27.000 mhz lc t oscillator 27.000 mhz 3.3 v smd 535 9569 1 nd
-有源 单端 晶振 27mhz 有源 晶振 5032 smd5032 1 y3 力天 3
-有源 单端 晶振 50mhz 有源 晶振 5032 smd5032 1 y4 力天 3
+有源 单端 晶振 27mhz 有源 晶振 5032 smd5032 1 y3 力天 / 3
+有源 单端 晶振 50mhz 有源 晶振 5032 smd5032 1 y4 力天 / 3
 有源 差分 晶振 sit9120ac 2d2 33e148.5 7050 1 y2 sitime 2017 03 17 3
-56 di a0 50mh 晶振 50m 有源 晶振 smd5032 1.0 y1 力天 3.0
+56 di a0 50mh 晶振 50m 有源 贴片 晶振 smd5032 1.0 y1 力天 / 3.0
 p1 clock oscillator dip 14 5v 2.00 mhz soldered socket needed 1 1 27924 1.49 jameco 14dip300
 p18 clock oscillator dip 14 5v 20.00 mhz 1 1 27932 0.75 jameco 14dip300
 x1 osc 4.9152 mhz 5v 14pin ttl osc 1 774 mxo45 3c 4.9 2.07 14dip300
-126 032 1.0 ic17 ic 50mhz crystal oscillator 100ppm 3.3 v cmos fujicom fco 736b 50.000 fcom 5c fujicom fco 736b 50.000 fcom 5c
+126 032 1.0 ic17 ic 50mhz crystal oscillator / 100ppm 3.3 v cmos fujicom fco 736b 50.000 fcom 5c fujicom fco 736b 50.000 fcom 5c
 48 csx750fbc 20.000 m ut u14 osc 3.3 v prog cmos oe 100ppm 20mhz 695 csx750fbc 20 csx 750fbc 20mhz osc csx750 citizen
 slb29 u13 80.000 mhz surface mount crystal oscillator cts frequency controls cb3lv 3c 80m0000 t digi key ctx289lvct clk cts cb3 1 20 20
-139 2 osc1 osc2 32.768 khz oscillator 32.768 khz 3.3 v smd corp kyocera corp kc2520b32k7680cm2e00 osccc200x250x70 4n 1253 1026 1 nd 08 00173 01
+139 2 osc1 osc2 32.768 khz oscillator 32.768 khz 3.3 v smd corp / kyocera corp kc2520b32k7680cm2e00 osccc200x250x70 4n 1253 1026 1 nd 08 00173 01
 1233000046 osc 32768 khz smd 4p 7x5mm sg3030jf 台灣 愛普生 taiwan technology trading ltd sg3030jf
 1233002765 01 osc 19.2 mhz 0.5 ppm 3.3 v 15pf smd 4p m6049lf rakon limited s m6049lf
 1233002766 01 osc 25mhz 20ppm 3.3 v smd 6p fxo lc538 25m fox s fxo lc538 25m
 1233002766 01 osc 25mhz 20ppm 3.3 v smd 6p fxo lc538 25m fox s fxo lc538 25m osc2 1
 1233002765 01 osc 19.2 mhz 0.5 ppm 3.3 v 15pf smd 4p m6049lf rakon limited s m6049lf osc3 1
-晶振 crystal 156.2500 mhz 30ppm 6pin 20 70 ℃ 电压 3.3 v 1 70.0
-晶振 crystal 25.000 mhz 30ppm 7050 20 70 ℃ 3.3 v 电压 1 70.0
+贴片 晶振 crystal 156.2500 mhz 30ppm 6pin 20 70 ℃ 电压 3.3 v 1 70.0
+贴片 晶振 crystal 25.000 mhz 30ppm 7050 20 70 ℃ 3.3 v 电压 1 70.0

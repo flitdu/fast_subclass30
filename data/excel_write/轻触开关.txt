@@ -1,16 +1,51 @@
-115 1 77a.05 0000001 轻触 开关 轻触 开关 smd 3x6x2.5 单位 mm 1 sw2 6137 3x6x2.5 单位 mm sw3 12
-119 77a.05 ksr21101 轻触 开关 轻触 开关 50ma 32vdc smt 40 85 ℃ 1 sw2 6038 c k ksr211g lfs sw2 55
-99 16p8302b0 w01 s000108 switch tactile spst 0.02 a 15v evp akb11a 触摸 开关 10 9 90
+switch sw1 eg4389ct eg4389ct tl3330af260qg e switch 510
+微动 开关 jc ts10b 带 定位 柱 jc ts10 s1
+微动 开关 aj 4 * 4 * 1.5 5mm * 5mm aj 4 * 4 * 1.5 s1 s2 mrs 电源 键
+微动 开关 aj 4 * 4 * 1.5 5mm * 5mm aj 4 * 4 * 1.5 s2 mrs 电源 键
+微动 开关 jc ts10b 带 定位 柱 jc ts10 s1
+微动 开关 aj 4 * 4 * 1.5 5mm * 5mm aj 4 * 4 * 1.5 s2 mrs 电源 键
+微动 开关 jc ts10b 带 定位 柱 jc ts10 s1
+开关 evq psr02k switch tactile spst 005 a 12v 0116 80009 evq psr02k 2100
+omron switch thd tactile switches 6x6 flat 5mm btn force 150g w / grd dip 4pin 6x6 b3f 1022 0650ha 160g g switronics 3.0 30000
+sw1 sw2 sw3 3.0 tactile switch tactile switch spst switch tactile spst 0.05 a 24v through hole omron inc emc div b3f 1022
+dsp1 1.0 7 segment 2 digits led display kem 4021 bsg common anode seven segment 0.4 inch two 2 digits led display through hole kem kem 4021 bsg
+091805 133301 按键 5 * 5 * 1.5 mm / tsa053g15 250t 464
+轻触 按键 12x12x7mm 4 脚 直插 轻触 开关 4 脚 1 k1 1000 1000 0 1000 轻触 开关 12x12x7mm 方头 gc 1000.0 轻触 按键 12x12x7mm 4 脚 直插 轻触 开关 4 脚 1.0 k1
+轻触 开关 3 * 6 * 2.5 mm 轻触 开关 贴片 2 脚 sw1 sw2 3 * 6 * 2.5 mm 2 15
+evp affg65 switch tactile spst 0.02 a 15v 2 2000
+evp affg65 switch tactile spst 0.02 a 15v 2 10000
+按键 直插 12x12x6 脚 5x12.5 k1 k2 k3 k4 4 12 12x12x6 引脚 间距 5x13
+key 12 * 12 按键 k3 k4 k5 k6 k7 k8 k9 k10 12 * 12 * 15mm 直插 8 1600
+37 轻触 开关 ts 020a sip2s 10 s3
+轻触 开关 12 * 12 * 1 贴片 ts 1103s c q xkb k1 k2 k3 3 30
+按键 开关 k8 2213a l1 sw1 1 10
+4 脚 贴片 按键 omron6 * 6 * 5 k2 6639sp c4sc 04 k1 1 10
+s1 s2 1571610 2 tactile switch spst side actuad through hole right angle 6.90 mm x 6.80 mm x 3.85 mm
+tl1015af160qg e switch tactile switches 4mm x 3mm smt gull wing top act 4mm x 3mm x 5mm
+sw1 sw2 7914j 1 000e switch tactile spst 0.1 a 24v
+72.0 轻触 按制 4.7 x3.6 x2.5 mm 带 定位 柱 2.0 ks1 ks2 6000
+55 3x6 轻触 开关 贴片 3x6 轻触 开关 两脚 tsw smd 3 * 6 * 2.5 11
+107 贴片 6x6 轻触 开关 贴片 6x6x5 四脚 tsw smd 6 * 6 * 5 21
+24 贴片 轻触 按键 ts3625a ht shou han key smt 11
+25 直插 轻触 按键 ts 1102 5016 sofng key 10
+skrkaee020 tactile switch 9000
+sw2 sw pb micbut sdtm6 pcb push button smd y
+贴片 轻触 开关 c174049 / 4.5 * 4.5 * 3.8 mm 160 y
+贴片 触摸 开关 kmr211glfs / 4.60 mm x 2.80 mm 贴片 触摸 开关 kmr211glfs / 4.60 mm x 2.81 mm n
+贴片 触摸 开关 kmr211glfs / 4.60 mm x 2.80 mm 贴片 触摸 开关 kmr211glfs / 4.60 mm x 2.81 mm n
+115 1 77a.05 0000001 贴片 轻触 开关 轻触 开关 / smd / 3x6x2.5 单位 mm 1 sw2 6137 3x6x2.5 单位 mm sw3 12
+119 77a.05 ksr21101 轻触 开关 轻触 开关 / 50ma 32vdc / smt / 40 85 ℃ 1 sw2 6038 c k ksr211g lfs sw2 55
+99 16p8302b0 w01 s000108 switch tactile spst 0.02 a 15v evp akb11a / 触摸 开关 10 9 90
 s1 2 evq pae04m 6mm light touch switch 160gf ecg evq pae04m digi key p8008s nd 0.29
 power switch opt spst optional pwr switch 10pp423 difficult fit for small case
 p8006s nd 6mm light touch switch 100gf sw pb 4pin sw b3f
-1 sw1 sw2 sw3 sw4 sw5 sw6 sw7 sw8 sw9 sw10 sw11 sw12 sw13 sw14 sw15 15 smd button 6 6 2.5 mm k2 1157sp c4sb 01 korean hroparts elec c128947
-sw pushbutton spst sm reset switch itt ksr223g ksr223gct nd 0.59 sw1 1
-sw1 sw dip slide w762 mm p127 mm 10 sw dip x02 www2 productdetail ck tda02h0sb1r qs sgaepimzzmv% 2f% 252b2jhla6ysedrsbwl3hjkh2msebsept0% 3d
+1 sw1 sw2 sw3 sw4 sw5 sw6 sw7 sw8 sw9 sw10 sw11 sw12 sw13 sw14 sw15 15 smd button 6 * 6 * 2.5 mm k2 1157sp c4sb 01 korean hroparts elec c128947
+sw pushbutton spst / sm reset switch itt ksr223g ksr223gct nd 0.59 sw1 1
+sw1 sw dip slide w762 mm p127 mm 10 sw dip x02 / / www2 / productdetail / ck / tda02h0sb1r qs sgaepimzzmv% 2f% 252b2jhla6ysedrsbwl3hjkh2msebsept0% 3d
 s1 pts810 sjk 250 smtr lfs
 prg rst switch tact smt spst 160gf pts525sm10smtr lfs ckn9104ct nd 0.56 0.36
 微動 開關 zippy 1087 dip 40
-button 6x6 5 dip button
+button 6x6 * 5 dip button
 90 dip button 2.54 2p
 6x6 smdbutton 4p smd 6.2 x6.2 x4h
 ksa0m212 itt switch tact spst vert mark ii 1
@@ -27,3 +62,7 @@ sw b3f tactile push button switch omron b3f 1052 sw405 nd 0.17 b3f 1050 cabinet
 kmr221glfs kmr2 rec pushbutton 200gf smd gnd pin kmr221glfs gullwing 4p part must get water inside
 kmr221glfs sw1 sw2 sw3 sw4 sw5 kmr2 rec pushbutton 200gf smd gnd pin kmr221glfs 401 1427 1 nd gullwing 4p
 kmr221glfs sw1 sw2 sw3 kmr2 rec pushbutton 200gf smd gnd pin kmr221glfs 401 1427 1 nd gullwing 4p water wash
+kmr221glfs sw1 sw2 sw3 kmr2 rec pushbutton 200gf smd gnd pin kmr221glfs 401 1427 1 nd gullwing 4p water wash
+s1 s2 s3 switch pushbutton spst smd 3mm x 2.5 mm b3u 1000p pb spst pb 2pin
+s1 s2 s3 switch pushbutton spst smd 3mm x 2.5 mm b3u 1000p pb spst pb 2pin
+sw1 sw2 evq q2k03w evq q2k03w switch spst smt 15v 0.02 a light touch switch rcoil ohm rinsulation ohm

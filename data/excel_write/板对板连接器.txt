@@ -1,22 +1,38 @@
-100 1 33a.05050 80001 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 公头 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbp05 80c 1.0 h con1a con1b 24
-101 1 33a.04050 80001 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 母头 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbs05 80c 4.0 h con1c con1d 24
-102 1 33a.04050 80002 板对板 连接器 板对板 连接器 80pin smt 0.5 mm 55 85 ℃ 区分 插头 插座 1 con400 btb som tl5728 16d2 samtec lshm 140 02.5 l dv a n k tr con1e 12
+1 240 2012040146 插座 插座 samtec sfc 120 t2 l d a 贴片 20 * 2pin 1.27 直 j12 1 20 b 20 dlk
+贴片 端子 插座 j s t mfg bm08b surs tf 8pin 08 mm 插座 bm08b surs tf 50 bm08b surs tf jst 日压 50 3 4 37168142 张瑞发
+贴片 端子 插座 j s t mfg sm04b srss tb 4pin 10 mm 插座 sm04b srss tb 50 sm04b srss tb lf sn jst 日压 50 3 4 06785840 全 张瑞发
+贴片 端子 插座 j s t mfg sm06b srss tb 6pin 10 mm 插座 sm06b srss tb 80 sm06b srss tb lf sn jst 日压 80 3 4 10417699 全 张瑞发
+贴片 端子 插座 j s t mfg b2b ph sm4 tb 2pin 20 mm 插座 b2b ph sm4 tb 52 b2b ph sm4 tb lf sn jst 日压 52 3 4 09170442 全 张瑞发
+插件 端子 插座 j s t mfg b3b xh a 2pin 25 mm 插座 b3b xh a 43 b3b xh a lf sn jst 日压 50 3 4 03539204 moq 50 全 张瑞发
+贴片 端子 插座 j s t mfg bm02b srss tb 2pin 10 mm 插座 bm02b srss tb 160 bm02b srss tb lf sn jst 日压 160 3 4 05257345 全 张瑞发
+贴片 端子 插座 j s t mfg bm08b surs tf 8pin 0 8mm 插座 bm08b surs tf 50 bm08b surs tf jst 日压 50 3 4 37168142 张瑞发
+板对板 连接器 母座 df12d 3.0 60dp 0.5 v 81 smt50l1720w380h230 60female flase 1 jp14
+板对板 连接器 母座 df12d 3.0 80dp 0.5 v 81 smt50l2220w380h230 80female flase 1 jp15
+smd 0.4 mm skt 40 wy pan * axk740147g 3k reel rosh � compliant cat c l / t 12 wks or � 255 2534 6 nd mini reel or 40 way smd socket gds 0.45 sk1 1.0 45000.0 45020.0
+板对板 连接器 20pin 0.625 mm pitch 铜合金 55091 0274 55091 0274 1 55091 0274 50
+conn rcpt 400pos smd vita 57.1 asp 134486 01 等级 a asp 134486 01 10
+100 1 33a.05050 80001 板对板 连接器 板对板 连接器 / 80pin / smt / 0.5 mm 间距 / 公头 / 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbp05 80c 1.0 h con1a con1b 24
+101 1 33a.04050 80001 板对板 连接器 板对板 连接器 / 80pin / smt / 0.5 mm 间距 / 母头 / 55 85 ℃ 2 con400 btb som tl5728 16d2 work nlwbs05 80c 4.0 h con1c con1d 24
+102 1 33a.04050 80002 板对板 连接器 板对板 连接器 / 80pin / smt / 0.5 mm 间距 / 55 85 ℃ / 区分 插头 插座 1 con400 btb som tl5728 16d2 samtec lshm 140 02.5 l dv a n k tr con1e 12
 h1 h3 h5 header 1x2 1x2 conn hdr brkway 100 80pos vert tyco 4 103783 0 digi key a26524 40 nd 346
 h2 h4 h6 8 header 2x2 2x2 conn hdr brkway 100 80pos vert tyco 4 103783 0 digi key a26524 40 nd 346
 h9 header 6x1 6x1 conn hdr brkway 100 40pos vert tyco 4 103239 0 digi key a26512 40 nd 242
-1 64 pin cmc plug 120527 1 tyco amp arrow 2 2 70 280 210 2.63 552.3 140 minimum order required
-j1 rcpt assy r a champ 050 100 p tyco amp 1 1734037 0 a33470 nd
-fx10a 80s 8 sv hirose conn recept 80pos w post smd smt vert 2
-j2 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+1 64 pin cmc plug 120527 1 tyco / amp / arrow 2 2 70 280 210 2.63 552.3 140 minimum order required
+j1 rcpt assy r / a champ 050 100 p tyco / amp 1 1734037 0 a33470 nd
+j7 2x7 2mm r / a dual stacked 7 male connector 2mm 87832 1420
+fx10a 80s / 8 sv hirose conn recept 80pos w / post smd smt vert 2
+j2 con fx8 120p sv1 con 120 / fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
 j3 header14 dnp header14 sig top l1 14 pin header remove pin 3 for keying t inserted
-j4 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
-j6 con fx8 120p sv1 con 120 fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j4 con fx8 120p sv1 con 120 / fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
+j6 con fx8 120p sv1 con 120 / fx8 120p sv1 sig bottom l8 120 way 0.6 mm pitch header hrs hirose fx8 120p sv1 91 h10695 nd
 j1 samtec erm8 035 08.0 l dv k tr smt signal socket
 j2 j3 samtec ipbs 105 01 t d through hole power socket
-fx10a 80s 8 sv hirose conn recept 80pos w post smd smt vert 2
+fx10a 80s / 8 sv hirose conn recept 80pos w / post smd smt vert 2
 2.54 mmheader 3x1 way 2.54 mmheader 3 2.54 mm ths 03 r to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
 2.54 mmheader 8x1 way 2.54 mmheader 9 2.54 mm ssw 108 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
 2.54 mmheader 10x1 way 2.54 mmheader 9 2.54 mm ssw 110 01 g s to connectors 2.54 mm pitch ths series 2.54 mm pitch headers
 2.54 mm receptacle 6x1 way 2.54 mm receptacle 6 2.54 mm ssw 106 01 g s to connectors 2.54 mm pitch 2.54 mm pitch receptacle
 df40c 80ds 0.4 v 51 df40c 80 to receptacle 80 pins df40c 80ds 0.4 v 51 j1 j2
 j1 3 amp 120527 1 64p plug conn ieee1386 2
+ssw 106 02 f d ra j20 j22 rec 2x06 ra 025sq pin 100 centers rec2x06 ra th 2x6 ra
+j1 conn 0.5 mm pitch slim stack 30 pos receptacle dual row vertical 3mm or 4mm stacking height 52991 0308 receptacle 2x15 demo conn 2x15

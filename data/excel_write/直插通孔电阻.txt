@@ -1,112 +1,38 @@
-resistor dip 5r6 4w pc 200 wp4s 5r6ja2 welwyn
-resistor 18r 3w dip 18r 3w pc 200 wa84 18rji welwyn
-resistor dip metal film resistors through hole 1watt 016 ohms 2% cpf1r16000gnb14 1 r36 ds 2 427 cpf 64917 pdf cpf1r16000gnb14 072 8 10wks
-resistor dip metal film resistors through hole 1watt 03 ohms 2% cpf1r30000gnb14 1 r6 ds 2 427 cpf 64917 pdf cpf1r30000gnb14 068 8 10wks
+r88 r110 mor 2w 10 5% dip 2 abco
+直插 电阻 1 r12 1 47k axial0.8 2w
+resistor dip 5r6 / 4w pc 200 wp4s 5r6ja2 welwyn
+resistor 18r / 3w dip 18r / 3w pc 200 wa84 18rji welwyn
+32 resistor dip 1mr 1 / 2w dip 1m ohm 1 / 2w 5% di r1 1
+33 100k 1 / 4w dip 100k ohm 1 / 4w 5% di r24 29 2
+34 330r 1 / 4w dip 330 ohm 1 / 4w 5% di r26 1
+resistor dip metal film resistors through hole 1watt 016 ohms 2% cpf1r16000gnb14 1 r36 / / / ds / 2 / 427 / cpf 64917 pdf cpf1r16000gnb14 072 8 10wks
+resistor dip metal film resistors through hole 1watt 03 ohms 2% cpf1r30000gnb14 1 r6 / / / ds / 2 / 427 / cpf 64917 pdf cpf1r30000gnb14 068 8 10wks
 插件 电阻 r49 1w 100r 1
-1.0 10901003 电阻 1 盒 1000 30 ω 1 4w 30000.0
-2.0 10901005 电阻 1 盒 1000 100 ω 1 4w 30000.0
-3.0 10901007 电阻 1 盒 1000 150 ω 1 4w 30000.0
-4.0 10901009 电阻 1 盒 1000 330 ω 1 4w 30000.0
-5.0 10901016 电阻 1 盒 1000 2k 1 4w 30000.0
-6.0 10901021 电阻 1 盒 1000 5.1 k 1 4w 30000.0
-7.0 10901023 电阻 1 盒 1000 6.2 k 1 4w 30000.0
-8.0 10901026 电阻 1 盒 1000 10k 1 4w 30000.0
-9.0 10901027 电阻 1 盒 1000 16k 1 4w 30000.0
-10.0 10901031 电阻 1 盒 1000 47k 1 4w 30000.0
-11.0 10901035 电阻 1 盒 1000 100k 1 4w 30000.0
-18.0 10904001 电阻 30 ω 1w 30000.0
-19.0 10904002 电阻 100 ω 1w 30000.0
-20.0 10904003 电阻 2k 1w 30000.0
-21.0 10904005 电阻 30 ω 2w 30000.0
-22.0 10904009 电阻 680 ω 2w 30000.0
-23.0 10904010 电阻 2k 2w 30000.0
-25.0 10904017 电阻 直插 150 ω 2w 30000.0
-1m 1w 五色 环 金属膜 电阻 r20 插件 10 1
-10m ri40 高压 玻璃 釉膜 电阻 r6 r13 插件 5 29mm 20 2
-100m ri40 高压 玻璃 釉膜 电阻 r12 r15 插件 5 29mm 20 2
-1g ri40 高压 玻璃 釉膜 电阻 r16 插件 5 29mm 10 1
-10g ri40 高压 玻璃 釉膜 电阻 r5 r18 插件 5 29mm 20 2
-42.0 直插 金属膜 电阻 mfr50s t 52 0r 1 2w ra1 ra2 rb1 rb2 rc1 rc2 axial 6.0 6000
-1 r1 1.0 resistor 100r 1% res 100 ohm 1% 2w axial uniroyal mfr02sf1000a10
-3 r3 r4 2.0 resistor 1m 1% res 1m ohm 1% 1 4w axial uniroyal mfr0w4f1004a50
-9 r18 r21 2.0 resistor 470r 1% res 470 ohm 1% 1 4w axial uniroyal mfr0w4f4700a50
-10 r22 r24 2.0 resistor 3.9 k 1% res 3.9 k ohm 1% 1 4w axial uniroyal mfr0w4f3901a50
-12 r25 r27 2.0 resistor 680r 1% res 680 ohm 1% 1 4w axial uniroyal mfr0w4f6800a50
-15 r39 r40 2.0 resistor 10k 1% res 10k ohm 1% 1 4w axial uniroyal mfr0w4f1002a50
-16 r42 1.0 resistor 22r 1% res 22 ohm 1% 2w axial uniroyal mfr02sf220ja10
-18 p14 1.0 resistor 150r 1% res 150 ohm 1% 1 4w axial uniroyal mfr0w4f1500a50
-po20190026 金属膜 电阻 500v 3w 10 ω ± 5% 金属膜 电阻 1470
-电阻 3w 0r025 r102 1 3
-3w 27k r31 1 3
-mrs25000c1008fct00 10 resistor axial metal film 1r 0 6w 1% smd
-mrs25000c1001frp00 120 resistor axial metal film 1k 0 6w 1% 0603
-mrs25000c1004fct00 10 resistor axial metal film 1m 0 6w 1% 0603
-mrs25000c1201fct00 10 resistor axial metal film 1k2 0 6w 1% 0603
-mrs25000c1501fct00 20 resistor axial metal film 1k5 0 6w 1% 0603
-mrs25000c1504frp00 10 resistor axial metal film 1m5 0 6w 1% 0603
-mrs25000c1801fct01 20 resistor axial metal film 1k8 0 6w 1% 0603
-mrs25000c1821fct00 10 resistor axial metal film 1k82 0 6w 1% 0805
-mrs25000c2201fct01 20 resistor axial metal film 2k2 0 6w 1% 0603
-pr02000202201ja100 20 resistor axial metal film 2k2 2w 5% 0603
-mrs25000c2701fct01 20 resistor axial metal film 2k7 0 6w 1% d
-pr02000202701ja100 20 resistor axial metal film 2k7 2w 5% 1206
-mrs25000c3001frp00 40 resistor axial metal film 3k 0 6w 1% 1210
-mrs25000c3301fct01 30 resistor axial metal film 3k3 0 6w 1% 0603
-mrs25000c4641fct00 10 resistor axial metal film 4k64 0 6w 1% 0603
-mrs25000c4701fct01 140 resistor axial metal film 4k7 0 6w 1% 0603
-mrs25000c4704frp00 10 resistor axial metal film 4m7 0 6w 1% 8hsop
-mrs25000c4751fct00 10 resistor axial metal film 4k75 0 6w 1% 28ssop
-mrs25000c5101fct01 20 resistor axial metal film 5k1 0 6w 1% 28ssop
-mrs25000c5491fct00 10 resistor axial metal film 5k49 0 6w 1% 28ssop
-mrs25000c5601fct01 10 resistor axial metal film 5k6 0 6w 1% 贴装型
-mrs25000c7501fct01 20 resistor axial metal film 7k5 0 6w 1% sot 363
-mrs25000c1009frp00 10 resistor axial metal film 10r 0 6w 1% sot23 5
-mrs25000c1002fct00 70 resistor axial metal film 10k 0 6w 1% sot23 5
-mrs25000c1005fct00 10 resistor axial metal film 10m 0 6w 1% umd5
-mrs25000c1202fct00 20 resistor axial metal film 12k 0 6w 1% 64qfn
-mrs25000c1272fct00 10 resistor axial metal film 12k7 0 6w 1%
-mrs25000c1502fct00 30 resistor axial metal film 15k 0 6w 1%
-mrs25000c4701fct00 10 resistor axial metal film 4k7 0 6w 1%
-mrs25000c2202fct00 10 resistor axial metal film 22k 0 6w 1%
-mrs25000c2709fct00 10 resistor axial metal film 27r 0 6w 1%
-mrs25000c2742fct00 10 resistor axial metal film 27k4 0 6w 1%
-mrs25000c3002fct00 10 resistor axial metal film 30k 0 6w 1%
-mrs25000c3302fct00 40 resistor axial metal film 33k 0 6w 1%
-mrs25000c3322fct00 10 resistor axial metal film 33k2 0 6w 1%
-mrs25000c3602fct00 10 resistor axial metal film 36k 0 6w 1%
-mrs25000c3902fct00 20 resistor axial metal film 39k 0 6w 1%
-mrs25000c4302fct00 10 resistor axial metal film 43k 0 6w 1%
-mrs25000c4702fct00 10 resistor axial metal film 47k 0 6w 1%
-mrs25000c5102fct00 10 resistor axial metal film 51k 0 6w 1%
-mrs25000c5602fct00 30 resistor axial metal film 56k 0 6w 1%
-mrs25000c6812fct00 30 resistor axial metal film 68k1 0 6w 1%
-mrs25000c7502fct00 20 resistor axial metal film 75k 0 6w 1%
-mrs25000c1003fct00 20 resistor axial metal film 100k 0 6w 1%
-mrs25000c1000frp00 20 resistor axial metal film 100r 0 6w 1%
-mrs25000c1100fct00 10 resistor axial metal film 110r 0 6w 1%
-mrs25000c1500fct00 20 resistor axial metal film 150r 0 6w 1%
-mrs25000c2003fct00 20 resistor axial metal film 200k 0 6w 1%
-mrs25000c2153fct00 10 resistor axial metal film 215k 0 6w 1%
-mrs25000c2203fct00 30 resistor axial metal film 220k 0 6w 1%
-mrs25000c2700fct00 10 resistor axial metal film 270r 0 6w 1%
-mrs25000c3300fct00 10 resistor axial metal film 330r 0 6w 1%
-mrs25000c3303fct00 30 resistor axial metal film 330k 0 6w 1%
-mrs25000c3900fct00 30 resistor axial metal film 390r 0 6w 1%
-mrs25000c4303fct00 10 resistor axial metal film 430k 0 6w 1%
-mrs25000c4700fct00 40 resistor axial metal film 470r 0 6w 1%
-mrs25000c4703fct00 10 resistor axial metal film 470k 0 6w 1%
-mrs25000c5600fct00 10 resistor axial metal film 560r 0 6w 1%
-mrs25000c6200fct00 20 resistor axial metal film 620r 0 6w 1%
-mrs25000c6800fct00 10 resistor axial metal film 680r 0 6w 1%
-mrs25000c6803fct00 10 resistor axial metal film 680k 0 6w 1%
-mrs25000c7500fct00 10 resistor axial metal film 750r 0 6w 1%
-mrs25000c8200fct00 20 resistor axial metal film 820r 0 6w 1%
-mrs25000c8203fct00 10 resistor axial metal film 820k 0 6w 1%
+1.0 10901003 电阻 1 盒 1000 30 ω 1 / 4w 30000.0
+2.0 10901005 电阻 1 盒 1000 100 ω 1 / 4w 30000.0
+3.0 10901007 电阻 1 盒 1000 150 ω 1 / 4w 30000.0
+4.0 10901009 电阻 1 盒 1000 330 ω 1 / 4w 30000.0
+5.0 10901016 电阻 1 盒 1000 2k 1 / 4w 30000.0
+6.0 10901021 电阻 1 盒 1000 5.1 k 1 / 4w 30000.0
+7.0 10901023 电阻 1 盒 1000 6.2 k 1 / 4w 30000.0
+8.0 10901026 电阻 1 盒 1000 10k 1 / 4w 30000.0
+9.0 10901027 电阻 1 盒 1000 16k 1 / 4w 30000.0
+10.0 10901031 电阻 1 盒 1000 47k 1 / 4w 30000.0
+11.0 10901035 电阻 1 盒 1000 100k 1 / 4w 30000.0
+25.0 10904017 电阻 直插 150 ω / 2w 30000.0
+金属 玻璃 釉 电阻 10m ri40 高压 玻璃 釉膜 电阻 r6 r13 插件 5 * 29mm 20 2
+金属 玻璃 釉 电阻 100m ri40 高压 玻璃 釉膜 电阻 r12 r15 插件 5 * 29mm 20 2
+金属 玻璃 釉 电阻 1g ri40 高压 玻璃 釉膜 电阻 r16 插件 5 * 29mm 10 1
+金属 玻璃 釉 电阻 10g ri40 高压 玻璃 釉膜 电阻 r5 r18 插件 5 * 29mm 20 2
+电阻 直插 150k 3w 4.5 x15mm 30 90
 10k res r9 axial 0.6 res1 1 10k
 22k resistor r56 axial 0.3 res2 1 22k
-240r 2w resistor r60 r61 axial 0.5 res2 2 240r 2w
-y13 r03 s000002 3 毫欧 ± 1% bvs r003f 10.2 5.4 1.4 mm bvs a r003 1.0 isabellenhuette 金属 薄膜 电阻 50
-y13 r03 s000003 2 毫欧 ± 1% bvs r002f 10.2 5.4 1.4 mm 2p bvs a r002 1.0 isabellenhuette 金属 薄膜 电阻 50
-res 100k ohm 1 4w 0.1% axial a105968ct nd 0.42 3 1.26 phase iii pcb
-res 33k ohm 1 4w 0.1% xial 33kadct nd 0.46 6 2.76 phase iii pcb
-res 75k ohm 1 4w 0.1% axial 75kadct nd 0.46 4 1.84 phase iii pcb
+240r / 2w resistor r60 r61 axial 0.5 res2 2 240r / 2w
+res 100k ohm 1 / 4w 0.1% axial a105968ct nd 0.42 3 1.26 phase iii pcb
+res 33k ohm 1 / 4w 0.1% xial 33kadct nd 0.46 6 2.76 phase iii pcb
+res 75k ohm 1 / 4w 0.1% axial 75kadct nd 0.46 4 1.84 phase iii pcb
+r7 r8 r12 r4 r5 r6 r9 r11 r14 r10 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 220
+r2 r13 r3 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 10k
+r1 r16 r17 r18 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1k
+r15 r axial din0207 l6.3 mm d2.5 mm p7.62 mm horizontal 1.8 k
+resistor 18r / 3w dip 18r / 3w fn 950 5962 pc 550.0

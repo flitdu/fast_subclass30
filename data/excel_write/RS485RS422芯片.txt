@@ -1,6 +1,19 @@
-28 6c1721b0 u16 s000353 isl3295eihz t logic rs 485 driver 3.0 5.5 v sot 23 6 isl3295eihz t sot 450
-46 1 56a.45 iso30801 集成电路 iso3082dw rs485 隔离 收发器 soic16 40 85 ℃ 1 soic16 1 27 7 6 iso3082dw u6 12
-9 rs 422 485 收发器 max3490eesa so 8 d6 d14 2 6
+adm2483 收发器 u8 soic 16 宽体 10 1
+贴片 ic uart 转 max485esa sop8 * max485 sop8 1 20 2000 30000
+bl3085 so 8 芯片
+rs485 收发器 sn65hvd3082edr sn65hvd3082edr u4 soic 8n 1.0 1000
+u11 u12 u13 u14 u16 u17 u20 u21 集成电路 ic rs485 full dup rs 485 3.3 v iec61000 4 2 fail safe full duplex 5mbps minimum sn65hvd1474dr 8 8960
+u19 u22 集成电路 ic ltm2881iy 3 pbf rs485 trans iso bga ltm2881iy 3 pbf 2 linear tech 2240
+am26ls32aidr 4 receiver rs422 rs423 16 soic d16 u74 16.0 350.0
+am26ls32aidr 4 receiver rs422 rs423 16 soic d16 u74 16.0 350.0
+rs485 通讯 芯片 40 to 85 ° c 0.25 mbps 128bus ± 15kv esd protected max487eesa max soic 8 10
+max485csa t ic transceiver half 1 / 1 8soic integrated 1 1000
+max485csa t ic transceiver half 1 / 1 8soic integrated 1 5000
+u5 max3490eesa t 700 max3490eesat rs 422 / rs 485 interface ic 3.3 v powered 15kv esd protected 12mbps slew rate limited true rs 485 / rs 422 transceivers max3490eesa t 8 soic
+isl8483eibz t ic b interface transceiver adm483e rs485 5v 250kbps sop8
+28 6c1721b0 u16 s000353 isl3295eihz t logic rs 485 driver 3.0 5.5 v sot 23 6 isl3295eihz t / sot 450
+46 1 56a.45 iso30801 集成电路 iso3082dw / rs485 隔离 收发器 / soic16 / 40 85 ℃ 1 soic16 1 27 7 6 iso3082dw u6 12
+9 rs 422 / 485 收发器 max3490eesa so 8 d6 d14 2 6
 linear technology ltc1485cn8 pbf ic txrx differntial bus 8 dip alternate packaging exists
 mc3487n ic quad diff line driver 16 dip alternate packaging exists
-u4 ic rs485 rs 422 differential transceiver half duplex 8 soic st485ebdr digi key 497 2083 1 nd 0.74865
+u4 ic rs485 / rs 422 differential transceiver half duplex 8 soic st485ebdr digi key 497 2083 1 nd 0.74865

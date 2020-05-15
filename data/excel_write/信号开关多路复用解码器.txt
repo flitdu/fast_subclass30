@@ -1,4 +1,4 @@
 u3 4 bit bus switch tssop 14 fst3125mtc
 u1 u2 u5 8 bit bus switch tssop 20 fst3345mtc
-u8 quad 2 1 multiplexer demultiplexer bus switch tssop 16 fst3257mtc
+u8 quad 2 1 multiplexer / demultiplexer bus switch tssop 16 fst3257mtc
 ic4 ic9 4067n 2 771 74hct4067n 4067n
