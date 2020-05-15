@@ -23,7 +23,7 @@ from data_split import train_datas_split
 import pandas as pd
 from data_operation import OperateExcel
 import time
-from data_operation.function import load_stop_word_list, standard, label_new
+from data_operation.function import load_stop_word_list, standard, labelNewSubclass, path_clear
 from data_operation.txt_operate import OperateTXT
 import os
 from data_operation.constant import label_name_forbid
@@ -128,8 +128,7 @@ class FastTextModel:
         print('计算训练数据......')
         correct_labels_train = []
         texts1 = []
-        # with open("fasttext.train.txt", "r", encoding="utf-8") as ft_train:
-        # with open("train_split_data.txt", "r", encoding="utf-8") as ft_train:
+
         with open(train_file_path, "r", encoding="utf-8") as ft_train:
             for line in ft_train:
                 # print(line, '--------------------')
@@ -141,7 +140,7 @@ class FastTextModel:
                     continue
         # print('correct_labels 为：{}'.format(correct_labels_train))
         # 加载分类模型
-     #  for w in range(1, 2):
+
         for i in range(2, self.epoch):
             w = self.n_gram
             classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
@@ -153,7 +152,6 @@ class FastTextModel:
             # print(len(texts))
             accuracy_num = 0
             for j in range(len(texts1)):
-                # print(predict_labels[j][0],correct_labels_train[j],'--------------------')
                 if predict_labels[j][0] == correct_labels_train[j]:
                     accuracy_num += 1
             # print(accuracy_num,'--------------------')
@@ -177,45 +175,48 @@ class FastTextModel:
         plt.grid()
         time_temp = time.strftime("(T%Y-%m-%d-%H-%M)", time.localtime())
         plt.savefig(r"D:\dufy\code\fast_subclass30\pic\{}.png".format(time_temp+"rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss))
-        # plt.savefig("rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss + ".png")
-        # plt.figure()
         plt.show()
         logger.info('训练结束...')
 
 
-def predict_output(str1):
-    print('前3预测： ', classfier.predict([str1], k=3))
-    predict = classfier.predict([str1])
-    print(predict)
+def predict_output(str1, model):
+    print('前3预测： ', model.predict([str1], k=3))
+    predict = model.predict([str1])
     return predict
 
 
 class TestExcel(OperateExcel):  # 重写函数
-    pass
 
-    def predict_result(self): # 处理单个文件
+    def __init__(self, url):
+        OperateExcel.__init__(self, url)
+
+    def predict_result(self, model): # 处理单个文件
         true_false_list = []
+        probability_list = []
+
         _, row = self.excel_matrix() # 读取列
         row = list(range(1, row))
-        if row != []:
+        if row:
             j = 0
             for line_read in self.excel_content_all().splitlines():  # 先遍历行
                 j += 1
                 true_label = line_read.split()[0].replace('/', '')  # 替换标签里面 '/'
                 if true_label in label_name_forbid:
                     continue
-                true_label = label_new(true_label)
+                true_label = labelNewSubclass(true_label)
 
                 if true_label != 'nan':
                     print('#{}{}:'.format(j, true_label))
-                    # print('\033[1;32m # {}\033[0m,excel原始输入：{}'.format(0, line_read))
                     aa_description = " ".join(line_read.split()[1:])
                     aa_description_standard = standard(aa_description, stop_words)  # 标准化处理
-                    predicted_label_name = predict_output(aa_description_standard)
+                    predicted_result = predict_output(aa_description_standard, model)
                 else:
                     continue
 
-                predicted_label = predicted_label_name[0][0][0].replace('__label__', '')
+                predicted_label = predicted_result[0][0][0].replace('__label__', '')
+                predicted_probability = predicted_result[1][0][0]
+                print(predicted_probability, '!!!!!!')
+                probability_list.append(predicted_probability)
                 if true_label == predicted_label:
                     true_false_list.append(1)
                     print("预测实体为：\033[1;32m {} {}\033[0m".format(predicted_label, '√'))
@@ -224,18 +225,30 @@ class TestExcel(OperateExcel):  # 重写函数
                     print('\033[1;31m error!!【{}】\033[0m预测为\033[1;31m 【{}】\033[0m]'.format(
                         true_label, predicted_label))
                     print(self.file_path)
-                    error_infor = true_label + '     预测为     ' + predicted_label
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\aaa.txt', error_infor)
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\bbb.txt',
-                                   '__label__' + true_label + ' , ' + aa_description_standard)
-                    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\ccc.txt', '__label__' + true_label + ' , ' + aa_description)
+                    error_info = true_label + '     预测为     ' + predicted_label + ' '*10 + '概率:' + \
+                                 str(predicted_probability) + f'    \Bom片段：【{aa_description_standard[:10]}】 ' + \
+                                 str(self.file_path).replace(excel_path, '') + \
+                                 f'{model.predict([aa_description_standard], k=3)}'.replace('__label__', '')
+                    save_test_info(error_info, true_label, aa_description_standard, aa_description, predicted_probability)
                     true_false_list.append(0)
                     print("预测实体为：\033[1;31m {} {}\033[0m".format(predicted_label, '×'))
                 print('========================')
-            return true_false_list
+            return true_false_list, probability_list
         else:
-            return None
+            return None, None
 
+
+def save_test_info(error_info, true_label, aa_description_standard, aa_description, predicted_probability):
+    pass
+    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\aaa.txt', error_info)
+    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\bbb.txt',
+                                '__label__' + true_label + ' , ' + aa_description_standard)
+    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\ccc.txt',
+                                '__label__' + true_label + ' , ' + aa_description)
+    if predicted_probability > 0.6:
+        OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\error_0.6.txt', error_info + '\n'
+                                    +'__label__' + true_label + ' , '+aa_description+ '\n'
+                                    +'======' )
 
 if __name__ == '__main__':
     logger = get_logger()
@@ -246,7 +259,7 @@ if __name__ == '__main__':
 
     # excel_read2txt()
 
-    train_tag = 100
+    train_tag = 10
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         # # '''''''''''''''''data_selection_new.py
@@ -263,9 +276,6 @@ if __name__ == '__main__':
             for line in file.readlines():
                 OperateTXT().txt_write_line(r'.\data\train_split_data.txt', line.replace('\n', ''))
 
-        # OperateTXT().txt_write_line(target_path_temp, aa_description)
-
-
     # 4 训练-调参
     # 初始化
         epoch_begin = 2
@@ -277,8 +287,83 @@ if __name__ == '__main__':
         ft_.fit(r'.\data\train_split_data.txt')  # 训练
         ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
-    # ########## 5 测试
+    # 5 测试
     test_flag = 1
+
+    if test_flag == 1:
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
+        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\4.20(1)\4.20'
+
+        model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+        model_names = os.listdir(model_folder)
+
+        dict_model_test = {}
+        record_right_probability_list = []
+        record_wrong_probability_list = []
+
+        for i, name0 in enumerate(model_names):  # 文件夹下文件循环
+            modle_path = model_folder + '\\' + name0
+            prediciton_model = ff.load_model(modle_path)
+            path_clear(r'D:\dufy\code\fast_subclass30\test')
+
+            all_record = 0
+            right_record = 0
+
+            file_names = os.listdir(excel_path)
+            for i, name1 in enumerate(file_names):
+                file_path_combine = excel_path + '\\' + name1
+                aa = TestExcel(file_path_combine)
+
+                TF_record, probability_record = aa.predict_result(prediciton_model)  # 预测 excel 一行,除去标签
+                if probability_record:
+                    for index, value in enumerate(TF_record):
+                        if value:
+                            record_right_probability_list.append(probability_record[index])
+                        else:
+                            record_wrong_probability_list.append(probability_record[index])
+
+                if TF_record:
+                    print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
+                    all_record += len(TF_record)
+                    for i in TF_record:
+                        if i == 1:
+                            right_record += 1
+                else:
+                    print('{} 无法识别'.format(file_path_combine))
+                    logger.info(f'有问题的excel；{file_path_combine}')
+                print(file_path_combine)
+                print('\033[1;32m =\033[0m' * 120)
+                pass
+            print('标注数据量:{}'.format(all_record))
+            print('预测正确量:{}'.format(right_record))
+            print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
+            print('全部结束！！！！')
+            dict_model_test[name0] = right_record / all_record  # 此处。。。。
+        print(dict_model_test)
+
+        plt.scatter(list(range(len(record_wrong_probability_list))), record_wrong_probability_list, color="r",
+                    marker="x", linewidth=1, label="wrong label")
+        plt.scatter(list(range(len(record_right_probability_list))), record_right_probability_list, color="b",
+                    marker="o", linewidth=1, label="right label")
+        plt.grid()
+        plt.xlabel("Sample Number")
+        plt.ylabel("Probability")
+        plt.legend(loc='lower right')
+        plt.show()
+
+        x = []
+        y = []
+        for key, value in dict_model_test.items():
+            print(value)
+            x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
+            y.append(value)
+
+        plt.plot(x, y, "b-o", linewidth=2)
+        plt.xlabel("model")  # X轴标签
+        plt.ylabel("accu")  # Y轴标签
+        plt.title("Line plot")  # 图标题
+        plt.grid()
+        plt.show()  # 显示图
 
     if test_flag == 0:
         ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
@@ -300,77 +385,6 @@ if __name__ == '__main__':
     #
     # print(dir(classifier))
     # print(help(classifier.ge))
-    #
-    if test_flag == 1:
-        tag = 1
-        if tag == 1:
-            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-            excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\4.1'
-
-            model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
-            model_names = os.listdir(model_folder)
-            # excel_test1(txt_names)
-            dict_model_test = {}
-            for i, name0 in enumerate(model_names):  # 文件夹下文件循环
-                modle_path = model_folder + '\\' + name0
-                classfier = ff.load_model(modle_path)
-
-                f_train = open(r'D:\dufy\code\fast_subclass30\test\aaa.txt', 'w')
-                f_train.truncate()
-                f_train.close()
-                f_test = open(r'D:\dufy\code\fast_subclass30\test\bbb.txt', 'w')
-                f_test.truncate()
-                f_test.close()
-                f_test1 = open(r'D:\dufy\code\fast_subclass30\test\ccc.txt', 'w')  # 增加原始信息输出
-                f_test1.truncate()
-                f_test1.close()
-
-                all_record = 0
-                right_record = 0
-
-                file_names = os.listdir(excel_path)
-                for i, name1 in enumerate(file_names):
-                    file_path_combine = excel_path + '\\' + name1
-                    aa = TestExcel(file_path_combine)
-                    TF_record = aa.predict_result()  # 预测 excel 一行,除去标签
-                    print(TF_record)
-                    # if TF_record != None and []:  # 之前这样写，不对！！！！
-                    if TF_record:
-                        print(name1)
-                        print(TF_record, '~~~~~~~~~~~~~~~~')
-                        print('正确率:{:.2f}'.format(sum(TF_record) / len(TF_record)))
-                        all_record += len(TF_record)
-                        for i in TF_record:
-                            if i == 1:
-                                right_record += 1
-                    else:
-                        print('{} 无法识别'.format(file_path_combine))
-                    print(file_path_combine)
-                    print('\033[1;32m =\033[0m' * 120)
-                    pass
-                print('标注数据量:{}'.format(all_record))
-                print('预测正确量:{}'.format(right_record))
-                print('测试集全部数据正确率:{:.2f}'.format(right_record / all_record))
-                print('全部结束！！！！')
-                dict_model_test[name0] = right_record / all_record  # 此处。。。。
-            print(dict_model_test)
-
-            x = []
-            y = []
-            for key, value in dict_model_test.items():
-                print(value)
-                #     print(key.strip('model_w1_e'), value)
-                x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
-                y.append(value)
-
-            plt.plot(x, y, "b-o", linewidth=2)
-            plt.xlabel("model")  # X轴标签
-            plt.ylabel("accu")  # Y轴标签
-            plt.title("Line plot")  # 图标题
-            plt.grid()
-            plt.show()  # 显示图
-
-
 
 
 
