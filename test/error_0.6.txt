@@ -1,264 +1,63 @@
-开关二极管     预测为     肖特基二极管          概率:0.63378    \Bom片段：【d2 d4 d5 d】 \2c93ea3b6f7a65ef016f89897130061d-U891.xlsx([['肖特基二极管', '稳压二极管', '通用二极管']], [array([0.63378   , 0.1288151 , 0.05339169], dtype=float32)])
-__label__开关二极管 , D2, D4, D5 Diode LL4148 Diode Standard 100V 150mA Surface Mount Mini MELF SOD-80 Taiwan Semiconductor Corporation LL4148 L1G nan
+保险丝管     预测为     PTC自恢复保险          概率:0.8669112    \Bom片段：【保险管 f1 fus】 \2c93ea3b6e4f7e06016e5d538b1a0486-U745.xlsx([['PTC自恢复保险', '贴片式一次性保险丝', '通孔型保险丝']], [array([0.8669112 , 0.10932576, 0.02228681], dtype=float32)])
+__label__保险丝管 , nan nan nan 保险管 F1 FUSE-1812 1 5
 ======
-功率电感     预测为     贴片电感          概率:0.98731697    \Bom片段：【ind 1.5 uh】 \2c93ea3b6f7aa00c016f7da10f8e002d-U163.xls([['贴片电感', '功率电感', '磁珠']], [array([0.98731697, 0.00896172, 0.00122469], dtype=float32)])
-__label__功率电感 , IND 1.5uH Irat-3500mA 60mOhm -40°C - 85°C 2520 MURATA - DFE252012P-1R5M=P2 L4,L5,L6 3.0 nan nan nan 135000.0 135020.0
+MOSFET     预测为     数字三极管          概率:0.83857924    \Bom片段：【stb75nf75l】 \2c93ea3b6e4f7e06016e5d538b1a0486-U745.xlsx([['数字三极管', 'MOSFET', '双极晶体管(三极管)']], [array([0.83857924, 0.14355357, 0.00694675], dtype=float32)])
+__label__MOSFET , nan STB75NF75L nan N沟场效应管 Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14 TO252 14 70
 ======
-功率电感     预测为     贴片电感          概率:0.9705603    \Bom片段：【smd induct】 \2c93ea3b6f7aa00c016f7da10f8e002d-U163.xls([['贴片电感', '功率电感', '工字电感']], [array([9.7056031e-01, 2.9139351e-02, 1.8578801e-04], dtype=float32)])
-__label__功率电感 , SMD INDUCTOR 4u7H 1.2A *WURTH 74438333047 IND 4.7uH Isat-1.2A 136mOhm -40�C - � 125�C 3.00mm x 3.00mm x 1.50mm SMT L3 1.0 nan nan nan 45000.0 45020.0
+排针排母     预测为     插拔式连接器          概率:0.8683161    \Bom片段：【普通 接插件 插座 】 \2c93ea3b6e4f7e06016e5ee83efb0878-U927.xlsx([['插拔式连接器', '板对板连接器', '音频视频链接器']], [array([0.8683161 , 0.07630149, 0.0310106 ], dtype=float32)])
+__label__排针排母 , nan 普通接插件插座-立式-单排/5.08mm-绿色-2PIN-DIP 科发 HT5.08-2 绿色/KEFA 30
 ======
-电源连接器     预测为     直插电解电容          概率:0.99671584    \Bom片段：【dc 005 亿利 】 \2c93ea3b6f7aa00c016f7da9dc61002f-U441.xlsx([['直插电解电容', '线对板线对线连接器', 'DC-DC电源模块']], [array([9.9671584e-01, 8.2128373e-04, 5.6473247e-04], dtype=float32)])
-__label__电源连接器 , DC-005 亿利百斯特 电源插座,92.5*87.4*54,金属杆1.0，3P,DIP,黑色 J 1.0 1000.0 5000.0
+排针排母     预测为     插拔式连接器          概率:0.9983628    \Bom片段：【普通 接插件 插座 】 \2c93ea3b6e4f7e06016e5ee83efb0878-U927.xlsx([['插拔式连接器', '螺丝钉接线端子', '板对板连接器']], [array([9.9836278e-01, 8.6678530e-04, 5.0575705e-04], dtype=float32)])
+__label__排针排母 , nan 普通接插件插座-立式-单排/5.08mm-绿色-4PIN-DIP 科发 HT508V-5.08-04P-1-4 40
 ======
-高频电感     预测为     贴片电感          概率:0.86063975    \Bom片段：【高频 电感 cih0】 \2c93ea3b6f8a5b19016f9c81c584015d-U035.xlsx([['贴片电感', '高频电感', '功率电感']], [array([0.86063975, 0.08190815, 0.05358741], dtype=float32)])
-__label__高频电感 , 高频电感 CIH05T6N2SNC Fixed Inductor 6.2nH ±0.3nH 300mA 10000
+排针排母     预测为     插拔式连接器          概率:0.99753875    \Bom片段：【普通 接插件 插座 】 \2c93ea3b6e4f7e06016e5ee83efb0878-U927.xlsx([['插拔式连接器', '螺丝钉接线端子', '音频视频链接器']], [array([9.9753875e-01, 1.2758786e-03, 4.4797891e-04], dtype=float32)])
+__label__排针排母 , nan 普通接插件插座-立式-单排/5.08mm-橙色-4PIN-DIP 科发 HT508V-5.08-04P-1-5 75
 ======
-红外发射管     预测为     发光二极管          概率:0.99971265    \Bom片段：【ir11 21c /】 \2c93ea3b6f8a5b19016f9c81c584015d-U035.xlsx([['发光二极管', '无源晶体振荡器', '以太网连接器']], [array([9.9971265e-01, 1.4929497e-04, 9.4707342e-05], dtype=float32)])
-__label__红外发射管 , nan IR11-21C/TR8 LED, Infrared 10000
+共模扼流圈滤波器     预测为     磁珠          概率:0.76587677    \Bom片段：【共模电感 acm70】 \2c93ea3b6e4f7e06016e5ee83efb0878-U927.xlsx([['磁珠', '有源晶体振荡器', '轻触开关']], [array([0.76587677, 0.08047252, 0.06359307], dtype=float32)])
+__label__共模扼流圈滤波器 , nan 共模电感-ACM70V-701-2PL-TL00-700R@100MHz-4A-4PIN-SMD TDK ACM70V-701-2PL-TL00 10
 ======
-线对板线对线连接器     预测为     排针排母          概率:0.92697793    \Bom片段：【conector s】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['排针排母', '插拔式连接器', '线对板线对线连接器']], [array([0.92697793, 0.035197  , 0.01287716], dtype=float32)])
-__label__线对板线对线连接器 , CONECTOR STR HEADER W/FRLK 3VIAS 2,54MM 22272031 2 A2543WV-3P CJT 720 nan
+线对板线对线连接器     预测为     插拔式连接器          概率:0.9026363    \Bom片段：【弯脚 插座 mx1.】 \2c93ea3b6e4f7e06016e62aa99860a42-U133.xls([['插拔式连接器', '线对板线对线连接器', '排针排母']], [array([0.9026363 , 0.05530515, 0.03055497], dtype=float32)])
+__label__线对板线对线连接器 , nan 弯脚插座 MX1.25/2P，弯脚 2 BT1，CN11 nan 6000
 ======
-压接端子     预测为     排针排母          概率:0.6616293    \Bom片段：【conector h】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['排针排母', '连接器附件套件', '插拔式连接器']], [array([0.6616293 , 0.11387264, 0.03698963], dtype=float32)])
-__label__压接端子 , CONECTOR HSG 5VIAS 2,5MM 5P-SCN 3 B2512H-5P CJT 1210 Not Assembly, send just the conector
+触发器     预测为     74系列逻辑芯片          概率:0.84438044    \Bom片段：【3 触发器 sn74】 \2c93ea3b6e4f7e06016e62b1820d0a4e-U932.xls([['74系列逻辑芯片', '缓冲器驱动器接收器收发器', '门极反相器']], [array([0.84438044, 0.05435734, 0.01682252], dtype=float32)])
+__label__触发器 , nan 3 触发器 SN74HC273NSR SN74HC273NSR TI(德州仪器) SOIC-20_208mil 200 nan nan
 ======
-贴片电解电容     预测为     直插电解电容          概率:0.86623734    \Bom片段：【capacitor 】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['直插电解电容', '贴片电解电容', '超级电容器']], [array([8.6623734e-01, 1.3323012e-01, 2.3454269e-04], dtype=float32)])
-__label__贴片电解电容 , CAPACITOR PTH 6,3X5,8X6,1MM 47UF 25V 20% EEEFK1E470P 1 nan nan 510 nan
+通用二极管     预测为     肖特基二极管          概率:0.923956    \Bom片段：【6 二极管 m7 g】 \2c93ea3b6e4f7e06016e62b1820d0a4e-U932.xls([['肖特基二极管', '超快快恢复二极管', '通用二极管']], [array([0.923956  , 0.06834386, 0.00680273], dtype=float32)])
+__label__通用二极管 , nan 6 通用二极管 M7 GPP M7 MDD SMA(DO-214AC) 2000 nan nan
 ======
-通用二极管     预测为     整流器          概率:0.764189    \Bom片段：【diodo smd 】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['整流器', '肖特基二极管', '通用二极管']], [array([0.764189  , 0.1178384 , 0.06782252], dtype=float32)])
-__label__通用二极管 , DIODO SMD SMA 1A 600V STTH1L06A 7 nan nan 3520 nan
+磁珠     预测为     贴片电感          概率:0.91617596    \Bom片段：【贴片类 fb / 6】 \2c93ea3b6e4f7e06016e62cc730f0a76-U173.xlsx([['贴片电感', '磁珠', '功率电感']], [array([0.91617596, 0.05834012, 0.01267351], dtype=float32)])
+__label__磁珠 , nan 贴片类 FB/60ohm FB0805 15 L11 L12 L13 L14 L15 L16 L18 L19 L20 L21 L22 L23 L24 L25 FB1 128550
 ======
-开关二极管     预测为     肖特基二极管          概率:0.67744106    \Bom片段：【diodo sod1】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['肖特基二极管', '开关二极管', '整流器']], [array([0.67744106, 0.2877033 , 0.01888373], dtype=float32)])
-__label__开关二极管 , DIODO SOD123 100V 150MA 1N4148W-TP 1 nan nan 520 nan
+TVS二极管(瞬态电压抑制二极管)     预测为     数字三极管          概率:0.782479    \Bom片段：【贴片类 srv05 】 \2c93ea3b6e4f7e06016e62cc730f0a76-U173.xlsx([['数字三极管', '双极晶体管(三极管)', '电压基准芯片']], [array([0.782479  , 0.08663955, 0.05029074], dtype=float32)])
+__label__TVS二极管(瞬态电压抑制二极管) , nan 贴片类 SRV05-4 SOT-23-6 1 D8 8570
 ======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.89204276    \Bom片段：【transistor】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['双极晶体管(三极管)', '数字三极管', 'MOSFET']], [array([0.89204276, 0.06432493, 0.00729515], dtype=float32)])
-__label__数字三极管 , TRANSISTORES BIPOLARES BJT 100MA 30V NPN 863-BC848BLT1G 2 nan nan 1020 nan
+音频视频链接器     预测为     螺丝钉接线端子          概率:0.9158933    \Bom片段：【插件 dp bloc】 \2c93ea3b6e4f7e06016e62cc730f0a76-U173.xlsx([['螺丝钉接线端子', '压接端子', '插拔式连接器']], [array([0.9158933 , 0.01600615, 0.00629539], dtype=float32)])
+__label__音频视频链接器 , nan 插件类 DP block DP-47272-001 1 CN7 11370
 ======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.81441593    \Bom片段：【transistor】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['双极晶体管(三极管)', '数字三极管', '光耦']], [array([0.81441593, 0.12984693, 0.00978129], dtype=float32)])
-__label__数字三极管 , TRANSISTORES BIPOLARES BJT 100MA 30V PNP 863-BC858BLT1G 1 nan nan 520 nan
+稳压二极管     预测为     线性稳压芯片LDO          概率:0.9673738    \Bom片段：【smd regula】 \2c93ea3b6e4f7e06016e63d874b60e7d-U214.xls([['线性稳压芯片LDO', 'ESD二极管', '电池电源管理芯片PMIC']], [array([0.9673738 , 0.0140421 , 0.00913014], dtype=float32)])
+__label__稳压二极管 , nan SMD regulator 15V 1 / 2W 5% SOD-123 10000
 ======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.70300853    \Bom片段：【transistor】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['双极晶体管(三极管)', '数字三极管', 'MOSFET']], [array([0.70300853, 0.27087706, 0.00854695], dtype=float32)])
-__label__数字三极管 , TRANSISTOR BIPOLAR BJT 300MW 40V NPN MMBT2222A-F 2 nan nan 1020 nan
+贴片电阻     预测为     贴片高精密-低温漂电阻          概率:0.9983635    \Bom片段：【r23 resist】 \EVB-7220-B00_CORE_BOM.xls([['贴片高精密-低温漂电阻', '贴片电阻', '采样电阻']], [array([9.9836349e-01, 1.6553950e-03, 1.0856609e-05], dtype=float32)])
+__label__贴片电阻 , R23 RESISTOR 20K OHM 1/10W 0.1% 0603 SMD ERA-3YEB203V Yes
 ======
-开关二极管     预测为     肖特基二极管          概率:0.79663336    \Bom片段：【diodo sod1】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['肖特基二极管', '开关二极管', '贴片电感']], [array([0.79663336, 0.1556702 , 0.01599804], dtype=float32)])
-__label__开关二极管 , DIODO SOD123 100V 150MA 1N4148W-E3-08 5 nan nan 2550 nan
+贴片电阻     预测为     贴片高精密-低温漂电阻          概率:0.6395739    \Bom片段：【r30 r31 re】 \EVB-USB4624BCUH-01_A2-Bom-20150924.xls([['贴片高精密-低温漂电阻', '贴片电阻', '采样电阻']], [array([0.6395739 , 0.32823488, 0.01413044], dtype=float32)])
+__label__贴片电阻 , R30,R31 Resistor, 255, 1%, 1/10W, 0603 RC73A2X2550FTFERJ-3EKF2550V nan
 ======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.86164254    \Bom片段：【transistor】 \2c93ea3b6f8a5b19016f9c8443c1015e-U724.xls([['双极晶体管(三极管)', '数字三极管', '光耦']], [array([0.86164254, 0.10892925, 0.00494441], dtype=float32)])
-__label__数字三极管 , TRANSISTORES BIPOLARES BJT 100MA 30V NPN 863-BC848BLT1G 1 nan nan 520 nan
+贴片超低阻值电阻     预测为     采样电阻          概率:0.6035478    \Bom片段：【r8 r10 res】 \EVB-USB4624BCUH-01_A2-Bom-20150924.xls([['采样电阻', '贴片电阻', '贴片高精密-低温漂电阻']], [array([0.6035478 , 0.17604223, 0.16439363], dtype=float32)])
+__label__贴片超低阻值电阻 , R8,R10 Resistor, 0.020, 1%, 1/4W, 0805 ERJ-6BWJR020V nan
 ======
-稳压二极管     预测为     肖特基二极管          概率:0.9873959    \Bom片段：【d2 d4 d6 d】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['肖特基二极管', '通用二极管', '整流器']], [array([9.8739588e-01, 1.0630548e-02, 9.5148594e-04], dtype=float32)])
-__label__稳压二极管 , D2,D4-D6 Diode Schottky 100V 0.15A 2-Pin SOD-123 T/R BAT46W-7-F nan nan nan nan nan
+功率电感     预测为     贴片电感          概率:0.6114572    \Bom片段：【l1 l3 indu】 \EVB-USB4624BCUH-01_A2-Bom-20150924.xls([['贴片电感', '功率电感', '固定电感']], [array([0.6114572 , 0.37849638, 0.00444644], dtype=float32)])
+__label__功率电感 , L1,L3 Inductor, 4.7uH, Multi-layer, Shielded, 1100mA, 0805 LQM2MPN4R7NG0L 9Vout
 ======
-电压基准芯片     预测为     线性稳压芯片LDO          概率:0.6376926    \Bom片段：【d22 v ref 】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['线性稳压芯片LDO', '电压基准芯片', '电压比较器']], [array([0.6376926 , 0.10457855, 0.059223  ], dtype=float32)])
-__label__电压基准芯片 , D22 V-Ref Precision 1.225V 12mA 3-Pin SOT-23 T/R LM4041AIM3-1.2/NOPB nan nan nan nan nan
+特殊功能放大器     预测为     放大器          概率:0.6485012    \Bom片段：【u3 u5 ic c】 \EVB-USB4624BCUH-01_A2-Bom-20150924.xls([['放大器', '开关电源芯片', '电压比较器']], [array([0.6485012 , 0.12377021, 0.0612299 ], dtype=float32)])
+__label__特殊功能放大器 , U3,U5 IC, Current-Sense Amplifier, SOT23-5 MAX9934FAUA+ nan
 ======
-谐振器     预测为     无源晶体振荡器          概率:0.9358814    \Bom片段：【osc1 ceram】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['无源晶体振荡器', '谐振器', '贴片高精密-低温漂电阻']], [array([0.9358814 , 0.06084396, 0.00240799], dtype=float32)])
-__label__谐振器 , OSC1 Ceramic Resonator 8MHz ±0.5% (Tol) 33pF 6-Pin SMD T/R ECS-SR1-8.00-B-TR nan nan nan nan nan
+电子线材连接线     预测为     排针排母          概率:0.6313759    \Bom片段：【jmp1 j5 pi】 \EVB-USB4624BCUH-01_A2-Bom-20150924.xls([['排针排母', '鳄鱼夹测试夹', '连接器附件套件']], [array([0.6313759 , 0.09345932, 0.07716811], dtype=float32)])
+__label__电子线材连接线 , JMP1 {J5 (pins 3-4)}, JMP2 {J7 (pins 3-4)} Wire Jumper, 30 AWG or larger nan EVB
 ======
-谐振器     预测为     无源晶体振荡器          概率:0.6543853    \Bom片段：【osc1 ceram】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['无源晶体振荡器', '谐振器', '贴片高精密-低温漂电阻']], [array([0.6543853 , 0.305698  , 0.03191958], dtype=float32)])
-__label__谐振器 , OSC1 Ceramic Resonator 8MHz ±0.5% (Tol) 33pF 6-Pin SMD T/R EFOS8004E5 nan nan nan nan nan
+拨码开关     预测为     轻触开关          概率:0.8715222    \Bom片段：【sw1 sw2 sw】 \EVB-USB5807_A-BOM.xls([['轻触开关', '拨动开关', '拨码开关']], [array([0.8715222 , 0.04636649, 0.03395054], dtype=float32)])
+__label__拨码开关 , SW1, SW2 Switch SIP SPST 6POS Vertical, Unshielded, 20V SPA06B 611-SPA06B Yes nan
 ======
-插拔式连接器     预测为     排针排母          概率:0.97423273    \Bom片段：【p1 connect】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['排针排母', '板对板连接器', 'USB连接器']], [array([0.97423273, 0.02039341, 0.00310753], dtype=float32)])
-__label__插拔式连接器 , P1 CONNECTOR SMD MALE 5 PIN S5B-ZR-SM2-TF (LF)(SN) nan nan nan nan nan
-======
-数字电位器芯片     预测为     精密可调电阻          概率:0.72649115    \Bom片段：【u2 digital】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['精密可调电阻', '可调电阻电位器', '放大器']], [array([0.72649115, 0.10354534, 0.07076684], dtype=float32)])
-__label__数字电位器芯片 , U2 Digital Potentiometer 128POS 10KOhm Single 8-Pin SOIC N T/R AD5220BRZ10 nan nan nan nan nan
-======
-数字电位器芯片     预测为     精密可调电阻          概率:0.7424929    \Bom片段：【u2 digital】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['精密可调电阻', '放大器', '可调电阻电位器']], [array([0.7424929 , 0.08576082, 0.07493885], dtype=float32)])
-__label__数字电位器芯片 , U2 Digital Potentiometer 128POS 10KOhm Single 8-Pin SOIC N T/R AD5220BRZ10-REEL7 nan nan nan nan nan
-======
-电压比较器     预测为     放大器          概率:0.9619428    \Bom片段：【u5 u11 com】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['放大器', 'RS485RS422芯片', '电压比较器']], [array([0.9619428, 0.0080668, 0.0055746], dtype=float32)])
-__label__电压比较器 , U5,U11 Comparator Dual ±18V/36V 8-Pin SOIC N T/R LM2903DR2G nan nan nan nan nan
-======
-电压比较器     预测为     放大器          概率:0.97247475    \Bom片段：【u5 u11 com】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['放大器', 'RS485RS422芯片', '电压比较器']], [array([0.97247475, 0.00656046, 0.00446484], dtype=float32)])
-__label__电压比较器 , U5,U11 Comparator Dual ±18V/36V 8-Pin SOIC N T/R LM2903DR2 nan nan nan nan nan
-======
-电压比较器     预测为     放大器          概率:0.9619428    \Bom片段：【u5 u11 com】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['放大器', 'RS485RS422芯片', '电压比较器']], [array([0.9619428, 0.0080668, 0.0055746], dtype=float32)])
-__label__电压比较器 , U5,U11 Comparator Dual ±18V/36V 8-Pin SOIC N T/R LM2903DR2G nan nan nan nan nan
-======
-高速、宽带运放     预测为     放大器          概率:0.99949515    \Bom片段：【u9 op amp 】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['放大器', '圆柱体晶振', 'RS485RS422芯片']], [array([9.9949515e-01, 9.8228113e-05, 9.6483775e-05], dtype=float32)])
-__label__高速、宽带运放 , U9 Op Amp Dual High Speed Amplifier ±18V 8-Pin SOIC N T/R OP282GSZ nan nan nan nan nan
-======
-高速、宽带运放     预测为     放大器          概率:0.999386    \Bom片段：【u9 op amp 】 \2c93ea3b6f8a5b19016fa1ad35fd01d9-U026.xlsx([['放大器', 'RS485RS422芯片', '时基芯片']], [array([9.9938601e-01, 1.4694757e-04, 7.7341974e-05], dtype=float32)])
-__label__高速、宽带运放 , U9 Op Amp Dual High Speed Amplifier ±18V 8-Pin SOIC N T/R OP282GSZ-REEL7 nan nan nan nan nan
-======
-磁珠     预测为     贴片电感          概率:0.8881464    \Bom片段：【0805 10 10】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['贴片电感', '磁珠', '贴片电容']], [array([0.8881464 , 0.10064993, 0.00606623], dtype=float32)])
-__label__磁珠 , 0805，10欧@100MHz，额定电流大于400mA 0805 GZ2012D100TF Sunlord(国产） 固定电感器 1153 个
-======
-螺丝钉接线端子     预测为     插拔式连接器          概率:0.94181585    \Bom片段：【3.81 间距 14】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['插拔式连接器', '电源连接器', '线对板线对线连接器']], [array([0.94181585, 0.02119532, 0.01291172], dtype=float32)])
-__label__螺丝钉接线端子 , 3.81间距 14P 卧式座子 nan ME030-3.81-14P 国产 其他连接器 575 个
-======
-螺丝钉接线端子     预测为     插拔式连接器          概率:0.8821918    \Bom片段：【3.81 间距 20】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['插拔式连接器', '排针排母', '线对板线对线连接器']], [array([0.8821918 , 0.03405889, 0.0325479 ], dtype=float32)])
-__label__螺丝钉接线端子 , 3.81间距 20P 卧式座子 nan ME030-3.81-20P 国产 其他连接器 575 个
-======
-贴片超低阻值电阻     预测为     采样电阻          概率:0.85913044    \Bom片段：【res 0.25 o】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['采样电阻', '贴片超低阻值电阻', '贴片电阻']], [array([0.85913044, 0.06067088, 0.05174707], dtype=float32)])
-__label__贴片超低阻值电阻 , RES 0.25 OHM 5% 3/4W 2010 nan RL2010JK-070R25L YAGEO 芯片电阻 5779 个
-======
-磁珠     预测为     贴片电感          概率:0.80084246    \Bom片段：【0805 10 10】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['贴片电感', '磁珠', '贴片电容']], [array([0.80084246, 0.18394114, 0.00789814], dtype=float32)])
-__label__磁珠 , 0805，10欧@100MHz，额定电流大于400mA 0805 GZ2012D100TF Sunlord(国产） 固定电感器 615 个
-======
-螺丝钉接线端子     预测为     插拔式连接器          概率:0.9823362    \Bom片段：【3.81 间距 4p】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['插拔式连接器', '排针排母', '线对板线对线连接器']], [array([0.9823362 , 0.00729233, 0.00416804], dtype=float32)])
-__label__螺丝钉接线端子 , 3.81间距 4P 卧式 公座子 nan ME030-3.81-04P 国产 其他连接器 575 个
-======
-螺丝钉接线端子     预测为     插拔式连接器          概率:0.94711316    \Bom片段：【3.81 间距 16】 \2c93ea3b6f8a5b19016fa1cdcbcb01f2-U601.xls([['插拔式连接器', '排针排母', '圆柱体晶振']], [array([0.94711316, 0.04234464, 0.00432537], dtype=float32)])
-__label__螺丝钉接线端子 , 3.81间距 16P 直插公座子 nan ME040-3.81-16P 国产 其他连接器 575 个
-======
-背板连接器     预测为     排针排母          概率:0.6004581    \Bom片段：【泰克 插线 座 2 】 \2c93ea3b6f8a5b19016fa1e9961d0205-U209.xlsx([['排针排母', '内存连接器', '插拔式连接器']], [array([0.6004581 , 0.19316857, 0.07517456], dtype=float32)])
-__label__背板连接器 , 泰克插线座;2*14;2.00mm 1-1939638-4 1-1939638-4 nan 1 1-1939638-4 50
-======
-放大器     预测为     线性稳压芯片LDO          概率:0.63388175    \Bom片段：【运放 精密 低噪声 】 \2c93ea3b6f8a5b19016fa1e9961d0205-U209.xlsx([['线性稳压芯片LDO', '电池电源管理芯片PMIC', 'DC-DC芯片']], [array([0.63388175, 0.11730329, 0.0575145 ], dtype=float32)])
-__label__放大器 , 运放;精密低噪声;轨到轨输入输出;单通道;单电源2.7 V~5.5 V供电 AD8605ARTZ AD8605ARTZ ADI 1 SOT23-5 50
-======
-线对板线对线连接器     预测为     排针排母          概率:0.97288674    \Bom片段：【2.0 mm 3p 】 \2c93ea3b6f8a5b19016fa1e9961d0205-U209.xlsx([['排针排母', '可调电阻电位器', '连接器附件套件']], [array([0.97288674, 0.00825237, 0.00505531], dtype=float32)])
-__label__线对板线对线连接器 , 2.0MM;3P;卧式;红色 HY2.0-3P-AW-RED HY2.0-3P-AW-RED nan 1 PH2.0-3-AW 50
-======
-线对板线对线连接器     预测为     排针排母          概率:0.9819922    \Bom片段：【2.0 mm 3p 】 \2c93ea3b6f8a5b19016fa1e9961d0205-U209.xlsx([['排针排母', '插拔式连接器', '可调电阻电位器']], [array([0.9819922 , 0.00450941, 0.00211196], dtype=float32)])
-__label__线对板线对线连接器 , 2.0MM;3P;卧式;白色 HY2.0-3P-AW-WHITE HY2.0-3P-AW-WHITE nan 1 PH2.0-3-AW 50
-======
-电源监控芯片     预测为     线性稳压芯片LDO          概率:0.755054    \Bom片段：【reset ic /】 \2c93ea3b6f8a5b19016fa1e9961d0205-U209.xlsx([['线性稳压芯片LDO', '电池电源管理芯片PMIC', 'DC-DC芯片']], [array([0.755054  , 0.05046799, 0.04312152], dtype=float32)])
-__label__电源监控芯片 , RESET IC/2.93V/140ms/高电平使能 MAX809_EUR-T MAX809SEUR+T MAXIM 1 SOT-23 50
-======
-直插瓷片电容     预测为     安规电容          概率:0.7517995    \Bom片段：【瓷片 电容 103 】 \2c93ea3b6f8a5b19016fa2009c440215-U504.xlsx([['安规电容', '贴片高精密-低温漂电阻', '直插独石电容']], [array([0.7517995 , 0.07624271, 0.05905351], dtype=float32)])
-__label__直插瓷片电容 , 瓷片电容\103\3KV\脚长3.7-5.0mm\脚距7.62mm nan nan nan 1 90106 500
-======
-排针排母     预测为     金属膜电阻          概率:0.72707367    \Bom片段：【直插 座 vh 03】 \2c93ea3b6f8a5b19016fa2009c440215-U504.xlsx([['金属膜电阻', '排针排母', '蜂鸣器']], [array([0.72707367, 0.10631154, 0.03689867], dtype=float32)])
-__label__排针排母 , 直插座\VH-03\二针\2为空脚 nan nan nan 1 90121 500
-======
-压接端子     预测为     NTC热敏电阻          概率:0.77197254    \Bom片段：【铜线 耳 100a 】 \2c93ea3b6f8a5b19016fa2009c440215-U504.xlsx([['NTC热敏电阻', '贴片高精密-低温漂电阻', 'LED数码管']], [array([0.77197254, 0.02793954, 0.0271534 ], dtype=float32)])
-__label__压接端子 , 铜线耳\100A\Φ8.2 nan nan nan 1 90145 500
-======
-稳压二极管     预测为     TVS二极管(瞬态电压抑制二极管)          概率:0.8388377    \Bom片段：【贴片 稳压 二极管 】 \2c93ea3b6f8a5b19016fa2009c440215-U504.xlsx([['TVS二极管(瞬态电压抑制二极管)', '肖特基二极管', '稳压二极管']], [array([0.8388377 , 0.07689149, 0.04495511], dtype=float32)])
-__label__稳压二极管 , 贴片稳压二极管\15V nan nan nan 1 90263 500
-======
-超快快恢复二极管     预测为     肖特基二极管          概率:0.9971778    \Bom片段：【d12 schott】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['肖特基二极管', '稳压二极管', 'TVS二极管(瞬态电压抑制二极管)']], [array([9.9717778e-01, 1.4550274e-03, 4.2555234e-04], dtype=float32)])
-__label__超快快恢复二极管 , D12 Schottky Barrier Diode IF=0.2A, VR=40V, VF=0.6V, Case SOD123 SD103AW nan TE-S_DID_SOD_123 Diodes Inc. SD103AW-7-F
-======
-线对板线对线连接器     预测为     功率电感          概率:0.96141386    \Bom片段：【j7 conn pc】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['功率电感', '电源连接器', '排针排母']], [array([0.96141386, 0.03198994, 0.00358596], dtype=float32)])
-__label__线对板线对线连接器 , J7 CONN. PCB_HEADER 4P VERT. p.2.50mm 2A, 250VDC JST B4B-XH-A B4B-XH-A 2A, 250VDC TE-JST_B4B-XH-A JST B4B-XH-A(LF)(SN)
-======
-排针排母     预测为     功率电感          概率:0.92524606    \Bom片段：【j9 conn pc】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['功率电感', '电源连接器', '排针排母']], [array([0.92524606, 0.06835579, 0.00277595], dtype=float32)])
-__label__排针排母 , J9 CONN. PCB_HEADER 2P VERT. p.2.50mm 3A, 250VDC JST B2B-XH-A B2B-XH-A 3A, 250VDC TE-JST_B2B-XH-A JST B2B-XH-A(LF)(SN)
-======
-排针排母     预测为     功率电感          概率:0.7963621    \Bom片段：【j10 conn p】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['功率电感', '电源连接器', '线对板线对线连接器']], [array([0.7963621 , 0.1848589 , 0.00969146], dtype=float32)])
-__label__排针排母 , J10 CONN. PCB_HEADER 8P VERT. p.2.50mm 3A, 250VDC JST B8B-XH-A B8B-XH-A 3A, 250VDC TE-JST_B8B-XH-A JST B8B-XH-A(LF)(SN)
-======
-排针排母     预测为     功率电感          概率:0.94971764    \Bom片段：【j11 conn p】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['功率电感', '电源连接器', '排针排母']], [array([0.94971764, 0.04113022, 0.00597867], dtype=float32)])
-__label__排针排母 , J11 CONN. PCB_HEADER 4P VERT. p.2.50mm 2A, 250VDC JST B4B-XH-A B4B-XH-A 2A, 250VDC TE-JST_B4B-XH-A JST B4B-XH-A(LF)(SN)
-======
-磁珠     预测为     功率电感          概率:0.9436452    \Bom片段：【l3 ferri b】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['功率电感', '磁珠', '排针排母']], [array([9.4364518e-01, 5.5631436e-02, 4.7326449e-04], dtype=float32)])
-__label__磁珠 , L3 FERRITE BEAD IND. SMD 0603 2A 120R MURATA BLM18PG121SN1 BLM18PG121SN1 nan TE-S_IND_BLM18 MURATA BLM18PG121SN1D
-======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.8409152    \Bom片段：【q21 pdtc14】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['双极晶体管(三极管)', '数字三极管', 'MOSFET']], [array([0.8409152 , 0.12837668, 0.00765004], dtype=float32)])
-__label__数字三极管 , Q21 PDTC143EU NPN res.equipped transistor 100mA SC-70 PDTC143E 100mA TE-S_SC70-3 NXP PDTC143E
-======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.8164413    \Bom片段：【q22 pdtc14】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['双极晶体管(三极管)', '数字三极管', 'MOSFET']], [array([0.8164413 , 0.14837435, 0.00886652], dtype=float32)])
-__label__数字三极管 , Q22 PDTC143EU NPN res.equipped transistor 100mA SC-70 PDTC143E 100mA TE-S_SC70-3 NXP PDTC143E
-======
-32位微控制器-mcu     预测为     无源晶体振荡器          概率:0.7285511    \Bom片段：【u10 mcu m3】 \2c93ea3b6f8a5b19016fa71bd1ea058d-U426.xlsx([['无源晶体振荡器', '32位微控制器-mcu', '16位微控制器-mcu']], [array([0.7285511 , 0.17185251, 0.02041623], dtype=float32)])
-__label__32位微控制器-mcu , U10 MCU STM32F302RET6 Cortex M4 72MHz, 512KB FLASH, 64KB SRAM, LQFP64 -40°C/+85°C STM32F302RE nan TE-S_LQFP64_10X10 ST Microelectronics STM32F302RET6
-======
-开关电源芯片     预测为     DC-DC芯片          概率:0.9252842    \Bom片段：【dc dc conv】 \2c93ea3b6f8a5b19016fa84bcb1706b1-U832.xlsx([['DC-DC芯片', 'DC-DC电源模块', '电池电源管理芯片PMIC']], [array([0.9252842 , 0.02690482, 0.02517749], dtype=float32)])
-__label__开关电源芯片 , DC DC CONVERTER 0.8-6V 10A TO-PMOD-11,LMZ12010TZ/NOPB--等级A LMZ12010TZ/NOPB 10
-======
-开关二极管     预测为     肖特基二极管          概率:0.742534    \Bom片段：【d1 ll4148 】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['肖特基二极管', '开关二极管', '通用二极管']], [array([0.742534  , 0.12563673, 0.06459132], dtype=float32)])
-__label__开关二极管 , D1 LL4148 SOD-80 (MiniMELF) SMD Diode 200mA 1V Y LL4148 ON SEMICONDUCTOR nan
-======
-贴片电感     预测为     功率电感          概率:0.71238637    \Bom片段：【l1 2u2h 16】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['功率电感', '贴片电感', '高频电感']], [array([7.1238637e-01, 2.8754139e-01, 5.2348470e-05], dtype=float32)])
-__label__贴片电感 , L1 2u2H 1616 Fixed Inductors WE-MAPI SMD 1616 2.2uH 0.85A 388mOhm Y 74438313022 Wurth Elektronik nan
-======
-电压基准芯片     预测为     线性稳压芯片LDO          概率:0.9829857    \Bom片段：【u6 lm4040 】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['线性稳压芯片LDO', '数字三极管', '电压基准芯片']], [array([0.9829857 , 0.0063971 , 0.00478826], dtype=float32)])
-__label__电压基准芯片 , U6 LM4040 SOT23_REF 4.096V shunt reference Y LM4040CIM3-4.1 National nan
-======
-插拔式连接器     预测为     排针排母          概率:0.7295852    \Bom片段：【x1 733 335】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['排针排母', '板对板连接器', 'USB连接器']], [array([0.7295852 , 0.10204867, 0.0481615 ], dtype=float32)])
-__label__插拔式连接器 , X1 733-335 W-733-V-05 Wago male connector N WAGO 733-335 WAGO nan
-======
-插拔式连接器     预测为     排针排母          概率:0.7301483    \Bom片段：【x2 733 335】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['排针排母', '板对板连接器', 'USB连接器']], [array([0.7301483 , 0.12877381, 0.02581963], dtype=float32)])
-__label__插拔式连接器 , X2 733-335 W-733-V-05 Wago male connector N WAGO 733-335 WAGO nan
-======
-插拔式连接器     预测为     排针排母          概率:0.68584025    \Bom片段：【x3 733 335】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['排针排母', '板对板连接器', 'USB连接器']], [array([0.68584025, 0.08798443, 0.07268424], dtype=float32)])
-__label__插拔式连接器 , X3 733-335 W-733-V-05 Wago male connector N WAGO 733-335 WAGO nan
-======
-螺丝钉接线端子     预测为     插拔式连接器          概率:0.6086245    \Bom片段：【x9 mpt 05 】 \2c93ea3b6f8a5b3d016fa804e109021e-U716.xls([['插拔式连接器', '排针排母', '音频视频链接器']], [array([0.6086245 , 0.04299483, 0.03712172], dtype=float32)])
-__label__螺丝钉接线端子 , X9 MPT 0.5/6-2.54 MPT 0.5/6-2.54 Phoenix Contact Connector Terminal N Phoenix Contact MPT 0.5/ 6-2.54 Leiterplattenklemmleiste / Buchse, 6-polig / 1-reihig, Raster 2.54mm, Länge 15.7mm Phoenix Contact TME: MPT0.5/6-2.54 (1.12USD @ 200Stk.)
-======
-开关二极管     预测为     肖特基二极管          概率:0.63191324    \Bom片段：【d1 ll4148 】 \2c93ea3b6f8a5b3d016fa82e6645022b-U096.xls([['肖特基二极管', '开关二极管', '通用二极管']], [array([0.63191324, 0.18843892, 0.09431925], dtype=float32)])
-__label__开关二极管 , D1 LL4148 SOD-80 (MiniMELF) SMD Diode 200mA 1V 1 Y LL4148 ON SEMICONDUCTOR nan
-======
-贴片电感     预测为     功率电感          概率:0.84375924    \Bom片段：【1 lc makk2】 \2c93ea3b6f8a5b3d016fa87388ac0233-U295.xls([['功率电感', '贴片电感', '肖特基二极管']], [array([0.84375924, 0.14676158, 0.00202996], dtype=float32)])
-__label__贴片电感 , 1.LC.MAKK2016T1R0M 贴片电感 MAKK2016T1R0M/1.0uH 0806(ROHS) 8 pcs Y nan 0 nan nan nan
-======
-贴片电解电容     预测为     贴片电容          概率:0.9997707    \Bom片段：【1 cp060300】 \2c93ea3b6f8a5b3d016fa87388ac0233-U295.xls([['贴片电容', '贴片高精密-低温漂电阻', '贴片电感']], [array([9.9977070e-01, 1.9532180e-04, 5.1492127e-05], dtype=float32)])
-__label__贴片电解电容 , 1.CP.0603000018PFH 贴片电容 0603-X7R-18pF±1%-50V(ROHS) 30 pcs N nan 0 nan nan nan
-======
-贴片电感     预测为     功率电感          概率:0.9920154    \Bom片段：【1 lc rp501】 \2c93ea3b6f8a5b3d016fa87388ac0233-U295.xls([['功率电感', '贴片电感', '工字电感']], [array([0.9920154 , 0.00223687, 0.00159111], dtype=float32)])
-__label__贴片电感 , 1.LC.RP5015TA0220M 贴片电感 SRP5015TA-220M/22uH 5.2*5.2*1.5mm(ROHS) 5 pcs Y nan 0 nan nan nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.9348578    \Bom片段：【插件 2 * 13p】 \2c93ea3b6f8a5b3d016fa87c3a0d0234-U604.xls([['排针排母', '插拔式连接器', '圆柱体晶振']], [array([0.9348578 , 0.05464389, 0.00453294], dtype=float32)])
-__label__IDC连接器(牛角) , 插件简牛 2*13p-2.54mm 180°/5103309-6(ROHS) 20 pcs Y nan 0 nan nan nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.92005575    \Bom片段：【插件 5103308】 \2c93ea3b6f8a5b3d016fa87c3a0d0234-U604.xls([['排针排母', '插拔式连接器', '圆柱体晶振']], [array([0.92005575, 0.07807134, 0.00103703], dtype=float32)])
-__label__IDC连接器(牛角) , 插件简牛 5103308-1/2*5p-2.54mm 180°(ROHS) 20 pcs Y nan 0 nan nan nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.9069258    \Bom片段：【插件 5103309】 \2c93ea3b6f8a5b3d016fa87c3a0d0234-U604.xls([['排针排母', '插拔式连接器', 'IDC连接器(牛角)']], [array([0.9069258 , 0.08330731, 0.00481186], dtype=float32)])
-__label__IDC连接器(牛角) , 插件简牛 5103309-2/2*7p-2.54mm 180°(ROHS) 20 pcs Y nan 0 nan nan nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.7760993    \Bom片段：【插件 2 * 7p 】 \2c93ea3b6f8a5b3d016fac8b12c50268-U013.xls([['排针排母', '插拔式连接器', 'IDC连接器(牛角)']], [array([0.7760993 , 0.16022696, 0.04211269], dtype=float32)])
-__label__IDC连接器(牛角) , 插件简牛 2*7p-2.54mm 180°/C11215(ROHS)
-======
-插拔式连接器     预测为     排针排母          概率:0.89019555    \Bom片段：【插件 连接器 043】 \2c93ea3b6f8a5b3d016fac8b12c50268-U013.xls([['排针排母', '插拔式连接器', '线对板线对线连接器']], [array([0.89019555, 0.10607664, 0.00151901], dtype=float32)])
-__label__插拔式连接器 , 插件连接器 0430450800/2*4p-3.0mm 90°(ROHS) 82 pcs N nan nan nan nan nan
-======
-排针排母     预测为     插拔式连接器          概率:0.9486217    \Bom片段：【插件 挡墙 6404】 \2c93ea3b6f8a5b3d016fac8b12c50268-U013.xls([['插拔式连接器', '排针排母', 'IDC连接器(牛角)']], [array([0.9486217, 0.0417875, 0.003604 ], dtype=float32)])
-__label__排针排母 , 插件挡墙 640456-2/1*2p-2.54mm 180°(ROHS) 80 pcs Y nan nan nan nan nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.7760993    \Bom片段：【插件 2 * 7p 】 \2c93ea3b6f8a5b3d016fac8b12c50268-U013.xls([['排针排母', '插拔式连接器', 'IDC连接器(牛角)']], [array([0.7760993 , 0.16022696, 0.04211269], dtype=float32)])
-__label__IDC连接器(牛角) , 插件简牛 2*7p-2.54mm 180°/C11215(ROHS)
-======
-电容器阵列与网络     预测为     贴片电容          概率:0.9904014    \Bom片段：【贴片 排容 0603】 \2c93ea3b6f8a5b3d016fac8b12c50268-U013.xls([['贴片电容', '贴片电感', '电容器阵列与网络']], [array([0.9904014 , 0.00526669, 0.00207288], dtype=float32)])
-__label__电容器阵列与网络 , 贴片排容 0603*4-100nF±10%-50V/6124B104K500NT(ROHS) 160 pcs Y nan nan nan nan nan
-======
-DC-DC电源模块     预测为     DC-DC芯片          概率:0.6909915    \Bom片段：【dc dc conv】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['DC-DC芯片', 'DC-DC电源模块', '电池电源管理芯片PMIC']], [array([0.6909915 , 0.30604285, 0.00203141], dtype=float32)])
-__label__DC-DC电源模块 , DC DC CONVERTER 5V 1W CRE1S0505S3C/Murata 转换器 30 个 nan
-======
-DC-DC电源模块     预测为     DC-DC芯片          概率:0.9154035    \Bom片段：【dc dc conv】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['DC-DC芯片', 'DC-DC电源模块', '电池电源管理芯片PMIC']], [array([0.9154035 , 0.0805278 , 0.00403431], dtype=float32)])
-__label__DC-DC电源模块 , DC DC CONVERTER 3.3V 3W CC3-2403SF-E/TDK 转换器 10 个 nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.9978394    \Bom片段：【conn heade】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['排针排母', '线对板线对线连接器', '板对板连接器']], [array([9.9783939e-01, 1.8332003e-03, 2.8367489e-04], dtype=float32)])
-__label__IDC连接器(牛角) , CONN HEADER VERT 14POS 2.54MM 公插针，直插 0906631142/MOLEX 其他连接器 20 个 nan
-======
-IDC连接器(牛角)     预测为     排针排母          概率:0.9988387    \Bom片段：【conn heade】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['排针排母', '线对板线对线连接器', '板对板连接器']], [array([9.9883872e-01, 9.0515160e-04, 2.5549825e-04], dtype=float32)])
-__label__IDC连接器(牛角) , CONN HEADER VERT 20POS 2.54MM 公插针，直插 0906631202/MOLEX 其他连接器 40 个 nan
-======
-以太网连接器     预测为     电源连接器          概率:0.89719653    \Bom片段：【conn mod j】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['电源连接器', '连接器附件套件', 'D-Sub连接器附件']], [array([0.89719653, 0.01524404, 0.01281377], dtype=float32)])
-__label__以太网连接器 , CONN MOD JACK 8P8C R/A UNSHLD SS-6488-NF/Stewart Connector 其他连接器 40 个 nan
-======
-磁珠     预测为     贴片电感          概率:0.79341364    \Bom片段：【fixed ind 】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['贴片电感', '功率电感', '磁珠']], [array([0.79341364, 0.20568621, 0.00084489], dtype=float32)])
-__label__磁珠 , FIXED IND 10UH 500MA 300 MOHM 0805 MLZ2012N100LTD25/TDK 磁珠 32 个 nan
-======
-数字三极管     预测为     双极晶体管(三极管)          概率:0.78163403    \Bom片段：【trans npn 】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['双极晶体管(三极管)', '数字三极管', '电压基准芯片']], [array([7.8163403e-01, 2.1601881e-01, 7.7645318e-04], dtype=float32)])
-__label__数字三极管 , TRANS NPN GP 45V 800MA SOT-23 BCW66GLT1G/ON 普通三极管 62 个 nan
-======
-温湿度传感器     预测为     温度传感器          概率:0.99301225    \Bom片段：【sensor tem】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['温度传感器', 'NTC热敏电阻', '数模转换芯片']], [array([9.9301225e-01, 2.6698981e-03, 6.0975843e-04], dtype=float32)])
-__label__温湿度传感器 , SENSOR TEMPERATURE I2C 8SOIC LM92CIM/NOPB/Texas Instruments 温湿度传感器 10 个 nan
-======
-FET输入运放     预测为     放大器          概率:0.9999645    \Bom片段：【ic opamp j】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['放大器', 'DC-DC芯片', '无源晶体振荡器']], [array([9.9996448e-01, 2.6923744e-05, 2.4435805e-05], dtype=float32)])
-__label__FET输入运放 , IC OPAMP JFET 4MHZ 8SO TL082IDT/ST SO 10 个 nan
-======
-FET输入运放     预测为     放大器          概率:0.99999785    \Bom片段：【ic opamp j】 \2c93ea3b6f8a5b3d016fadb6bbcc02be-U619.xls([['放大器', 'RS485RS422芯片', 'EEPROM存储器']], [array([9.9999785e-01, 1.3584059e-05, 1.3265918e-05], dtype=float32)])
-__label__FET输入运放 , IC OPAMP JFET 3MHZ 14SOIC TL084IDR/Texas Instruments SOIC 50 个 nan
-======
-开关二极管     预测为     肖特基二极管          概率:0.9959761    \Bom片段：【贴片 二极管 1n4】 \2c93ea3b6f8a5b3d016fadce1f5802c3-U929.xls([['肖特基二极管', '开关二极管', '通用二极管']], [array([9.9597609e-01, 3.8147138e-03, 1.2373849e-04], dtype=float32)])
-__label__开关二极管 , 贴片二极管 1N4148W-TP/SOD-123(ROHS) 贴片二极管 1N4148W-TP/SOD-124(ROHS) pcs Y nan nan nan nan nan
-======
-音频视频链接器     预测为     板对板连接器          概率:0.66828525    \Bom片段：【贴片 音频 连接器 】 \2c93ea3b6f8a5b3d016fadce1f5802c3-U929.xls([['板对板连接器', 'RF同轴连接器', '插拔式连接器']], [array([0.66828525, 0.16735198, 0.12277064], dtype=float32)])
-__label__音频视频链接器 , 贴片音频连接器 SJ-43514-SMT-TR/4p 3.5MM (ROHS) 贴片音频连接器 SJ-43514-SMT-TR/4p 3.6MM (ROHS) pcs Y nan nan nan nan nan
-======
-开关二极管     预测为     肖特基二极管          概率:0.9959761    \Bom片段：【贴片 二极管 1n4】 \2c93ea3b6f8a5b3d016fadce1f5802c3-U929.xls([['肖特基二极管', '开关二极管', '通用二极管']], [array([9.9597609e-01, 3.8147138e-03, 1.2373849e-04], dtype=float32)])
-__label__开关二极管 , 贴片二极管 1N4148W-TP/SOD-123(ROHS) 贴片二极管 1N4148W-TP/SOD-124(ROHS) pcs Y nan nan nan nan nan
-======
-连接器附件套件     预测为     板对板连接器          概率:0.89286524    \Bom片段：【贴片 电话 连接器 】 \2c93ea3b6f8a5b3d016fadce1f5802c3-U929.xls([['板对板连接器', 'RF同轴连接器', '内存连接器']], [array([0.89286524, 0.08698862, 0.01427679], dtype=float32)])
-__label__连接器附件套件 , 贴片电话连接器 SJ-3524-SMT-TR(ROHS) 贴片电话连接器 SJ-3525-SMT-TR(ROHS) pcs Y nan nan nan nan nan
-======
-功率电感     预测为     贴片电感          概率:0.992991    \Bom片段：【贴片 电感 sdr1】 \2c93ea3b6f8a5b3d016fadce1f5802c3-U929.xls([['贴片电感', '功率电感', '工字电感']], [array([9.9299097e-01, 6.8114870e-03, 1.2487345e-04], dtype=float32)])
-__label__功率电感 , 贴片电感 SDR1307-680KL/68uH 13*13*7.3mm(ROHS) 贴片电感 SDR1307-680KL/68uH 13*13*7.4mm(ROHS) pcs Y nan nan nan nan nan
+门极反相器     预测为     74系列逻辑芯片          概率:0.9377547    \Bom片段：【u14 u15 u1】 \EVB-USB5807_A-BOM.xls([['74系列逻辑芯片', '缓冲器驱动器接收器收发器', '门极反相器']], [array([0.9377547 , 0.05627361, 0.00473838], dtype=float32)])
+__label__门极反相器 , U14, U15, U18, U19 IC BUFF 74LVC1G14SE-7 SNGL SOT-553 74LVC1G14SE-7 621-74LVC1G14SE-7 Yes nan
 ======

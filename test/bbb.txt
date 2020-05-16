@@ -1,232 +1,51 @@
-__label__通用二极管 , d1 d6 d7 diode s1m or m7 diode standard 1000v 1a surface mount 214ac sma 214ac taiwan semiconductor corporation s1mhm2g
-__label__开关二极管 , d2 d4 d5 diode ll4148 diode standard 100v 150ma surface mount mini melf sod 80 taiwan semiconductor corporation ll4148 l1g
-__label__TVS二极管(瞬态电压抑制二极管) , d3 diode smaj18ca 29.2 v clamp 13.7 a ipp tvs diode surface mount 214ac sma 214ac taiwan semiconductor corporation smaj18cahr3g
-__label__磁珠 , smd common mode usb 90r * 744231091 2k reel rosh compliant � cat a l / t 4 wks we cnsw series � p / no744231091 2k reel compliant l1 10 450000 450200
-__label__功率电感 , ind 1.5 uh irat 3500ma 60mohm 40 ° c 85 ° c 2520 dfe252012p 1r5m p2 l4 l5 l6 3.0 135000.0 135020.0
-__label__功率电感 , smd inductor 4u7h 1.2 a * 74438333047 ind 4.7 uh isat 1.2 a 136mohm 40 � c � 125 � c 3.00 mm x 3.00 mm x 1.50 mm smt l3 1.0 45000.0 45020.0
-__label__DDRSSD存储器 , ic ddr3 sdram 16bit 2gb 1600mhz fbga 96 issi is43tr16128cl 125kbli ic11 ic12 2.0 90000.0 90000.0
-__label__电池电源管理芯片PMIC , power management integrated circuit pmic for i mx 6 sololite / solox / ultralite processors mc32pf3001a3ep ic6 10 450000 450050
-__label__板对板连接器 , smd 0.4 mm skt 40 wy pan * axk740147g 3k reel rosh � compliant cat c l / t 12 wks or � 255 2534 6 nd mini reel or 40 way smd socket gds 0.45 sk1 1.0 45000.0 45020.0
-__label__arm微控制器-mcu , processors application specialised i mx6 solo rev 11 mcimx6s5evm10ab ic4 10 450000 450020
-__label__MCU监控芯片 , ic supervisory circuits dual triple ultra lo vltg supervisor sot 23 6 m6779ywb6f ic7 1.0 45000.0 45010.0
-__label__USB芯片 , ic 2 port usb 2.0 hi speed hub controller qfn 24 usb2422 i / mj ic10 1.0 45000.0 45002.0
-__label__采样电阻 , rl2512fr 07r005l res 0.005 r 2512 ± 1% 薄膜 电阻 r6 r16 2.0 2000.0 10000.0
-__label__肖特基二极管 , vdz5.1 b jcst ic 肖特基 二极管 2p sod 723 d4 1.0 1000.0 5000.0
-__label__电源连接器 , dc 005 亿利 百 斯特 电源插座 92.5 * 87.4 * 54 金属杆 1.0 3p dip 黑色 j 1.0 1000.0 5000.0
-__label__USB连接器 , mini u503 mup mini usb 5p j2 1.0 1000.0 5000.0
-__label__D-Sub连接器附件 , db9 母头 华龙 db9 插头 母头 232 / 485 接口 蓝灰色 j4 1.0 1000.0 5000.0
-__label__RF同轴连接器 , mcx ke p 东贝 射频 连接器 50 欧姆 5x5 j5 1.0 1000.0 5000.0
-__label__DC-DC芯片 , ltc3789 凌特 高效 同步 四 开关 升降 压 控制器 vin 4v 38v vout 0.8 v 38v u1 1.0 1000.0 5000.0
-__label__MOSFET , csd18501q5a ic nmos 功率管 8p son5 * 6 u2 u3 u4 u5 4.0 4000.0 20000.0
-__label__高频电感 , 高频 电感 cih05t6n2snc fixed inductor 6.2 nh ± 0.3 nh 300ma 10000
-__label__红外发射管 , ir11 21c / tr8 led infrared 10000
-__label__电池电源管理芯片PMIC , ln2054y42amr pmic battery management sot 23 5l 9000
-__label__开关二极管 , baw56 e3 08 diode array gp 70v 250ma sot23 9000
-__label__MCU监控芯片 , stwd100nywy3f waterdog time circuit sot23 5 9000
-__label__天线 , 2450at18d0100e antenna 2.45 ghz resilient 9000
-__label__线对板线对线连接器 , conector str header w / frlk 3vias 2 54mm 22272031 2 a2543wv 3p 720
-__label__压接端子 , conector hsg 3vias 2 5mm 3p scn 3 b2512h 3p 1210 assembly send just the conector
-__label__压接端子 , conector hsg 5vias 2 5mm 5p scn 3 b2512h 5p 1210 assembly send just the conector
-__label__螺丝钉接线端子 , bloco terminal 3vias 5mm 17 5a 1715035 mkds 1 5 / 3 1 db128v 5.0 3p dibo 510
-__label__螺丝钉接线端子 , bloco terminal 3vias 7 5mm 32a 1988118 3 db128v 7.5 3p dibo 2110
-__label__弹簧式接线端子 , bloco terminal 12vias 3 5mm 13 5a sptthr 1822859 2 nm121001a0000g anytek 710
-__label__螺丝钉接线端子 , bloco terminal 12vias 3 5mm 13 5a 1751345 mkds 1 / 12 3 5 1 yo1201500000g anytek 510
-__label__连接器附件套件 , terminal faston 6 35mm 180 º 1217167 1 1 710
-__label__贴片电解电容 , capacitor pth 6 3x5 8x6 1mm 47 uf 25v 20% eeefk1e470p 1 510
-__label__连接器附件套件 , terminal faston 6 35mm 180 º 1217167 1 1 510
-__label__整流桥 , ponte retificadora gsib5s 25a 800v gsib2580 e3 / 45 1 510
-__label__通用二极管 , diodo smd sma 1a 600v stth1l06a 7 3520
-__label__开关二极管 , diodo sod123 100v 150ma 1n4148w tp 1 520
-__label__继电器 , rele 32 5x27 4x20 4mm 12vdc 30a t9av1l12 12 1 505
-__label__MOSFET , transistor igbt d2pak3 10a / 600v stgb10nc60hdt4 1 510
-__label__数字三极管 , transistores bipolares bjt 100ma 30v npn 863 bc848blt1g 2 1020
-__label__数字三极管 , transistores bipolares bjt 100ma 30v pnp 863 bc858blt1g 1 520
-__label__数字三极管 , transistor bipolar bjt 300mw 40v npn mmbt2222a f 2 1020
-__label__电机马达点火驱动器IC , modulo igbt mdip24 15a 600v ikcm15l60gdxkma1 1 505
-__label__开关二极管 , diodo sod123 100v 150ma 1n4148w e3 08 5 2550
-__label__TVS二极管(瞬态电压抑制二极管) , diodo sot23 7v 400w cdsot23 sm712 1 520
-__label__LED显示模组 , display 0 36 7 segmentos 1 digito lts 367hr 4 2005
-__label__数字三极管 , transistores bipolares bjt 100ma 30v npn 863 bc848blt1g 1 520
-__label__稳压二极管 , d2 d4 d6 diode schottky 100v 0.15 a 2 pin sod 123 t / r bat46w 7 f
-__label__电压基准芯片 , d22 v ref precision 1.225 v 12ma 3 pin sot 23 t / r lm4041aim3 1.2 / nopb
-__label__开关二极管 , d7 d10 diode small signal switching 75v 0.5 a 2 pin mini melf t / r bas32l tp
-__label__开关二极管 , d7 d10 diode small signal switching 75v 0.5 a 2 pin mini melf t / r dl4151 tp
-__label__开关二极管 , d7 d10 diode small signal switching 75v 0.5 a 2 pin mini melf t / r pmll4153 115
-__label__开关二极管 , d7 d10 diode small signal switching 75v 0.5 a 2 pin mini melf t / r ll4151 gs08
-__label__模拟开关芯片 , u13 analog multiplexer single 8 1 16 pin soic n max4051acse
-__label__模拟开关芯片 , u13 analog multiplexer single 8 1 16 pin soic n max4051acse t
-__label__开关二极管 , d3 d13 d diode small signal switching 100v 0.15 a automotive 2 pin sod 123 t / r 1n4148w 7 f
-__label__开关二极管 , d3 d13 d diode small signal switching 100v 0.15 a automotive 2 pin sod 123 t / r 1n4148w e3 08
-__label__谐振器 , osc1 ceramic resonator 8mhz ± 0.5% tol 33pf 6 pin smd t / r ecs sr1 8.00 b tr
-__label__谐振器 , osc1 ceramic resonator 8mhz ± 0.5% tol 33pf 6 pin smd t / r efos8004e5
-__label__插拔式连接器 , p1 connector smd male 5 pin s5b zr sm2 tf lf sn
-__label__数字电位器芯片 , u2 digital potentiometer 128pos 10kohm single 8 pin soic n t / r ad5220brz10
-__label__数字电位器芯片 , u2 digital potentiometer 128pos 10kohm single 8 pin soic n t / r ad5220brz10 reel7
-__label__电压比较器 , u5 u11 comparator dual ± 18v / 36v 8 pin soic n t / r lm2903dr2g
-__label__电压比较器 , u5 u11 comparator dual ± 18v / 36v 8 pin soic n t / r lm2903dr2
-__label__电压比较器 , u5 u11 comparator dual ± 18v / 36v 8 pin soic n t / r lm2903dr2g
-__label__高速、宽带运放 , u9 op amp dual high speed amplifier ± 18v 8 pin soic n t / r op282gsz
-__label__高速、宽带运放 , u9 op amp dual high speed amplifier ± 18v 8 pin soic n t / r op282gsz reel7
-__label__卡缘连接器 , 9001 35321c 公头 din220 弯针 2 * 16p 欧式 插座 9001 35321 弯针 stx 连接器 575
-__label__磁珠 , 0805 10 100mhz 额定电流 大于 400ma 0805 gz2012d100tf sunlord 固定 电感器 1153
-__label__CAN芯片 , 高速 can 隔离 收发器 ctm1051 zlg 模块 575
-__label__红外接收管 , 4.5 17v 光谱 400 1100nm 波 900nm 4.6 * 4.6 mm * fu is0203 发光 二极管 576
-__label__螺丝钉接线端子 , 3.81 间距 14p 卧式 座子 me030 3.81 14p 连接器 575
-__label__螺丝钉接线端子 , 3.81 间距 20p 卧式 座子 me030 3.81 20p 连接器 575
-__label__直插独石电容 , 插件 独石 电容 220pf 50v x7r 10% p 2.5 mm cc1h221kc4pdb44b30mf dersonic 陶瓷 电容 2853
-__label__轨道式接线端子 , 公头 din220 弯针 20p 欧式 插座 9001 35201c00a 连接器 2876
-__label__贴片超低阻值电阻 , res 0.25 ohm 5% 3 / 4w 2010 rl2010jk 070r25l 芯片 电阻 5779
-__label__卡缘连接器 , 9001 35321c 公头 din220 弯针 2 * 16p 欧式 插座 9001 35321 弯针 stx 连接器 575
-__label__磁珠 , 0805 10 100mhz 额定电流 大于 400ma 0805 gz2012d100tf sunlord 固定 电感器 615
-__label__螺丝钉接线端子 , 3.81 间距 4p 卧式 公 座子 me030 3.81 04p 连接器 575
-__label__螺丝钉接线端子 , 3.81 间距 16p 直插 公 座子 me040 3.81 16p 连接器 575
-__label__背板连接器 , 泰克 插线 座 2 * 14 2.00 mm 1 1939638 4 1 1939638 4 1 1 1939638 4 50
-__label__板对板连接器 , 板对板 连接器 20pin 0.625 mm pitch 铜合金 55091 0274 55091 0274 1 55091 0274 50
-__label__放大器 , 运放 精密 低噪声 轨到 轨 输入输出 单通道 单 电源 2.7 v 5.5 v 供电 ad8605artz ad8605artz 1 sot23 5 50
-__label__串行接口芯片 , 桥接 芯片 / usb 转 串口 cp2102 gm cp2102 gmr silicon 2 qfn28 0.5 mm cp2102 100
-__label__串行接口芯片 , 桥接 芯片 / usb 转 串口 cp2102n a01 gqfn28r cp2102n a01 gqfn20 silicon 1 qfn28 0.5 mm cp2102 50
-__label__USB芯片 , usb2.0 hub / 1 to 4 / 5v fe1.1 s fe1.1 s terminus 2 ssop28 26 185 100
-__label__串行接口芯片 , usb 转 uart channel uart lqfp 64 ft4232hl reel ft4232hl reel 1 lc lqfp 64 10x10x05p 50
-__label__线对板线对线连接器 , 2.0 mm 3p 卧式 红色 hy2.0 3p aw red hy2.0 3p aw red 1 ph2.0 3 aw 50
-__label__线对板线对线连接器 , 2.0 mm 3p 卧式 白色 hy2.0 3p aw white hy2.0 3p aw white 1 ph2.0 3 aw 50
-__label__数字三极管 , 三极管 npn 140v 0.6 a sot 23 lmbt5551lt1g lmbt5551lt1g lrc 4 sot 23 200
-__label__开关电源芯片 , 电源 管理 ic 高侧 60v / 3a 降压 稳压器 lmr16030sddar lmr16030sddar 3 lmr16030 150
-__label__电源监控芯片 , reset ic / 2.93 v / 140ms / 高电平 使能 max809 eur t max809seur t 1 sot 23 50
-__label__IDC连接器(牛角) , idc 连接器 牛角 / 2.0 mm 间距 2x8 弯 插 phd 16awd a2006wr 2x8p 1 phd 16awd 50
-__label__TVS二极管(瞬态电压抑制二极管) , 30kv / 30kv / 500w / 1a sm24canb 02htg sm24canb 02htg 1 sot 323 50
-__label__数字三极管 , 三极管 npn 25v 1.5 a sot 23 ss8050 ss8050 5 sot 23 250
-__label__CAN芯片 , can 控制器 / soic 8 带 休眠 唤醒 控制 tja1040at tja1040t / cm 118 1 soic 14 50
-__label__USB芯片 , usb3.0 hub 1 拖 4 电源 管理 vl817 q7 b0 vl817 q7 b0 via 1 qfn76 040 0909l 50
-__label__无线模块 , lora 模组 efm32 sx1278 433mhz 2w 33dbm 23 * 26.5 * 3.5 mm yl 800mt 2w yl 800mt 2w 1 yl 800mt 2w 50
-__label__直插瓷片电容 , 瓷片 电容 471 1kv 脚长 3.7 5.0 mm 脚距 5.08 mm 2 90105 1000
-__label__直插瓷片电容 , 瓷片 电容 103 3kv 脚长 3.7 5.0 mm 脚距 7.62 mm 1 90106 500
-__label__IGBT管 , igbt 单管 60n60 士兰微 4 90107 2000
-__label__整流桥 , 扁桥 桥堆 50v 10 1 90108 500
-__label__连接器附件套件 , 直插 针 4 孔 3 针 辅电用 1 90111 500
-__label__电源变压器 , 互感 线圈 uu10.5 200 1 1 90112 500
-__label__电源变压器 , 辅助 电源 变压器 eer42 15 70 20 11 17 10 1 90114 500
-__label__排针排母 , 直插 座 xh 02 xh 02 5 90118 2500
-__label__排针排母 , 直插 座 xh 03 xh 03 3 90119 1500
-__label__排针排母 , 直插 座 xh 04 xh 04 2 90120 1000
-__label__排针排母 , 直插 座 vh 03 二针 2 空脚 1 90121 500
-__label__温控开关 , 开关 常开 75 ° br b2d 白色 引线 220mm xh 02 端子 商盈 1 90122 500
-__label__风扇散热片热管理产品 , 散热器 zea 014 b1 30 15 10 带 引脚 1 90123 500
-__label__风扇散热片热管理产品 , 散热器 zea 125a a1 26x35x75 nbc 200a 2 90124 1000
-__label__风扇散热片热管理产品 , 散热器 zea 125c a1 110x35x75 nbc 200a 1 90125 500
-__label__风扇散热片热管理产品 , 散热器 zea 125b a1 105x35x75 nbc 200a 1 90126 500
-__label__风扇散热片热管理产品 , 散热器 zea 123 a0 16 * 23 * 30 1 90127 500
-__label__螺丝紧固件硬件 , 接线柱 m4 铜 2 90128 1000
-__label__螺丝紧固件硬件 , 十字 槽 盘头 三 组合 螺钉 m3 12 彩 锌 5 90129 2500
-__label__螺丝紧固件硬件 , 弹性 组合 压片 12 25.5 1.5 镀白 锌 2 90130 1000
-__label__螺丝紧固件硬件 , 十字 槽 盘头 三 组合 螺钉 m4 8 彩 锌 8 90131 4000
-__label__螺丝紧固件硬件 , 管脚 套 h 11mm 4 90132 2000
-__label__线材配件附件 , 接插 线 1015 12 6.3 插扣 插 扣套 单面 200 红色 1 90133 500
-__label__线材配件附件 , 接插 线 1015 12 6.3 插扣 插 扣套 单面 黑色 260 1 90134 500
-__label__螺丝紧固件硬件 , 十字 槽 盘头 三 组合 螺钉 m3 8 彩 锌 3 90135 1500
-__label__温控开关 , 开关 盖 白色 塑料 1 90136 500
-__label__磁珠 , 磁珠 3.5 1.5 6 12 90137 6000
-__label__磁珠 , 磁通 10.5 20 5.5 1 90138 500
-__label__线对板线对线连接器 , 直插 座 vh 02 二针 1 90139 500
-__label__连接器附件套件 , 端子 壳 xh 02 2 90141 1000
-__label__压接端子 , 端子 连带 xh 1 90142 500
-__label__电源线 , 非标 16 平方 0.4 米 铜线 1 90143 500
-__label__圆形连接器 , 快速 插头 dkj 2 10 25 黑色 c 飞马 特 dkj 2 10 25 1 90144 500
-__label__压接端子 , 铜线 耳 100a 8.2 1 90145 500
-__label__压接端子 , 端子 连带 vh 2 90147 1000
-__label__压接端子 , 端子 壳 vh 03 1 90148 500
-__label__船型开关 , 船形 开关 6a 2 50v 单联 两位 kcd18 凯锐 1 90153 500
-__label__连接器附件套件 , 端子 壳 xh 03 xh 03 1 90155 500
-__label__连接器附件套件 , 端子 连带 xh 2 90156 1000
-__label__连接器附件套件 , 端子 壳 xh 04 xh 04 2 90157 1000
-__label__连接器附件套件 , 端子 连带 xh 8 90158 4000
-__label__连接器附件套件 , 端子 壳 xh 02 xh 02 2 90163 1000
-__label__连接器附件套件 , 端子 连带 xh 4 90164 2000
-__label__连接器附件套件 , 端子 连带 xh 8 90172 4000
-__label__连接器附件套件 , 端子 壳 xh 04 xh 04 2 90173 1000
-__label__连接器附件套件 , 端子 连带 xh 3 90176 1500
-__label__可调电阻电位器 , 碳 膜电位 器 2w 1k b102 1 90181 500
-__label__连接器附件套件 , 端子 连带 xh 3 90182 1500
-__label__连接器附件套件 , 端子 壳 xh 03 xh 03 1 90183 500
-__label__连接器附件套件 , 插扣 套 6.3 双线 1 90189 500
-__label__连接器附件套件 , 磷 铜 插 扣 连带 6.3 mm 镀银 1 90190 500
-__label__连接器附件套件 , 磷 铜 插 扣 连带 6.3 mm 镀银 1 90191 500
-__label__连接器附件套件 , 插扣 套 6.3 双线 1 90192 500
-__label__稳压二极管 , 贴片 稳压 二极管 15v 1 90263 500
-__label__FLASH存储器 , 16mbit flash uson8 gd25q16ceig 1 0 1000
-__label__超快快恢复二极管 , d6 esh1d ultrafast rectifier vr 200v if 1.0 ma sma esh1d s did 214ac sma esh1d
-__label__超快快恢复二极管 , d11 esh1d ultrafast rectifier vr 200v if 1.0 ma sma esh1d s did 214ac sma esh1d
-__label__超快快恢复二极管 , d12 schottky barrier diode if 02 a vr 40v vf 06 v case sod123 sd103aw s did sod 123 diodes inc sd103aw 7 f
-__label__电子线材连接线 , j1 conn hole metal 1p awg12 awg10 pad
-__label__电子线材连接线 , j2 conn hole metal 1p awg12 awg10 pad
-__label__电子线材连接线 , j3 conn hole metal 1p awg12 awg10 pad
-__label__电子线材连接线 , j4 conn hole metal 1p awg12 awg10 pad
-__label__线对板线对线连接器 , j7 conn pcb header 4p vert p2 50mm 2a 2 50v dc jst b4b xh a b4b xh a 2a 2 50v dc jst b4b xh a jst b4b xh a lf sn
-__label__线材配件附件 , j8 conn footprint 6p per cavo tc2030 mcp / nl tc2030 mcp p con tc2030 mcp tag connect tc2030 mcp fp
-__label__排针排母 , j9 conn pcb header 2p vert p2 50mm 3a 2 50v dc jst b2b xh a b2b xh a 3a 2 50v dc jst b2b xh a jst b2b xh a lf sn
-__label__排针排母 , j10 conn pcb header 8p vert p2 50mm 3a 2 50v dc jst b8b xh a b8b xh a 3a 2 50v dc jst b8b xh a jst b8b xh a lf sn
-__label__排针排母 , j11 conn pcb header 4p vert p2 50mm 2a 2 50v dc jst b4b xh a b4b xh a 2a 2 50v dc jst b4b xh a jst b4b xh a lf sn
-__label__磁珠 , l3 ferri bead ind smd 0603 2a 120r blm18pg121sn1 blm18pg121sn1 s ind blm18 blm18pg121sn1d
-__label__数字三极管 , q21 pdtc143eu npn res equipped transistor 100ma sc 70 pdtc143e 100ma s sc70 3 pdtc143e
-__label__数字三极管 , q22 pdtc143eu npn res equipped transistor 100ma sc 70 pdtc143e 100ma s sc70 3 pdtc143e
-__label__电流传感器 , u1 high prec linear hall eff current sensor acs781llrtr 100b t bidir 0 2mohm 100a 132 mv / a psof 7 40 / 150 ° c acs781llrtr 100b 100a s psof 7 lr allegro microsysms acs781llrtr 100b t
-__label__电流传感器 , u2 high prec linear hall eff current sensor acs781llrtr 100b t bidir 0 2mohm 100a 132 mv / a psof 7 40 / 150 ° c acs781llrtr 100b 100a s psof 7 lr allegro microsysms acs781llrtr 100b t
-__label__32位微控制器-mcu , u10 mcu m32f302ret6 corx m4 72mhz 512kb flash 64kb sram lqfp64 40 ° c / 85 ° c m32f302re s lqfp64 10x10 m32f302ret6
-__label__串行接口芯片 , u12 ft234xd convertitore usb uart usb 3.3 v 5.5 v dfn12 ft234xd s dfn 12p 3x3mm ftdi ft234xd
-__label__肖特基二极管 , diode mbrs140t3 d5
-__label__开关电源芯片 , dc dc converter 0.8 6v 10a to pmod 11 lmz12010tz / nopb 等级 a lmz12010tz / nopb 10
-__label__开关二极管 , d1 ll4148 sod 80 minimelf smd diode 200ma 1v y ll4148 on semiconductor
-__label__贴片电感 , l1 2u2h 1616 fixed inductors we mapi smd 1616 2.2 uh 0.85 a 388mohm y 74438313022
-__label__DC-DC电源模块 , u42 tsr 1 2490 dcdc regler 9v dcdc regler traco assembly assembly u42a instead ! traco power pay attention on assembly orientation !
-__label__DC-DC电源模块 , u42a preferred alternative to u42 k7809 1000r3 dcdc regler 9v dcdc regler mornsun y k7809 1000r3 mornsun supplier novitronic
-__label__电压基准芯片 , u6 lm4040 sot23 ref 4.096 v shunt reference y lm4040cim3 4.1 national
-__label__插拔式连接器 , x1 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x2 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x3 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x4 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x5 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x6 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x7 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__插拔式连接器 , x8 733 335 w 733 v 05 wago male connector n wago 733 335 wago
-__label__螺丝钉接线端子 , x9 mpt 05 / 6 254 mpt 05 / 6 254 phoenix connector terminal n phoenix mpt 05 / 6 254 leiterplattenklemmleiste / buchse 6 polig / 1 reihig raster 254 mm l ä nge 157 mm phoenix tme mpt05 / 6 254 112 200stk
-__label__开关二极管 , d1 ll4148 sod 80 minimelf smd diode 200ma 1v 1 y ll4148 on semiconductor
-__label__贴片电感 , 1 lc makk2016t1r0m 贴片 电感 makk2016t1r0m / 10 uh 0806 8 y 0
-__label__贴片电解电容 , 1 cp0603000018 pfh 贴片 电容 0603 x7r 18pf ± 1% 50v 30 n 0
-__label__贴片电感 , 1 lc rp5015ta0220m 贴片 电感 srp5015ta 220m / 22uh 52 * 52 * 15 mm 5 y 0
-__label__IDC连接器(牛角) , 插件 2 * 13p 2.54 mm 180 ° / 5103309 6 20 y 0
-__label__IDC连接器(牛角) , 插件 5103308 1 / 2 * 5p 2.54 mm 180 ° 20 y 0
-__label__IDC连接器(牛角) , 插件 5103309 2 / 2 * 7p 2.54 mm 180 ° 20 y 0
-__label__排针排母 , 插件 插座 连接器 1 215079 6 / 2 * 8p 2.54 mm 180 ° 10 y 0
-__label__IDC连接器(牛角) , 插件 2 * 7p 2.54 mm 180 ° / c11215
-__label__80 , y
-__label__排阻 , 贴片 排阻 4d03wgf499jt5e / 1206 49.9 r 82 free
-__label__插拔式连接器 , 插件 连接器 0430450800 / 2 * 4p 3.0 mm 90 ° 82 n
-__label__162 , y
-__label__发光二极管 , 贴片 rgb ws2813b b / 5050 82 y
-__label__排针排母 , 插件 挡墙 640456 2 / 1 * 2p 2.54 mm 180 ° 80 y
-__label__80 , y
-__label__IDC连接器(牛角) , 插件 2 * 7p 2.54 mm 180 ° / c11215
-__label__以太网连接器 , 插件 以太网 连接 起 ds1128 05 s8b8p / 8p8c 1 端口 80 y
-__label__电容器阵列与网络 , 贴片 排容 0603 * 4 100nf ± 10% 50v / 6124b104k500nt 160 y
-__label__D-Sub连接器附件 , 插件 d sub 连接器 ds1037 09mnakt74 0cc / 9p 2.77 mm 公座 90 ° 160 y
-__label__通用二极管 , diode ultra fast standard 400v 3a smd do214ab smc 2leads vf1.25 v murs340t3g / on 整流 二极管 40
-__label__DC-DC电源模块 , dc dc converter 5v 1w cre1s0505s3c / 转换器 30
-__label__DC-DC电源模块 , dc dc converter 3.3 v 3w cc3 2403sf e / 转换器 10
-__label__IDC连接器(牛角) , conn header vert 14pos 2.54 mm 公 插针 直插 0906631142 / 连接器 20
-__label__IDC连接器(牛角) , conn header vert 20pos 2.54 mm 公 插针 直插 0906631202 / 连接器 40
-__label__以太网连接器 , conn mod jack 8p8c r / a unshld ss 6488 nf / stewart connector 连接器 40
-__label__连接器附件套件 , pc test point miniature 2.67 mm x 1.02 mm x 1.52 mm 5015 / 连接器 620
-__label__磁珠 , fixed ind 10uh 500ma 300 mohm 0805 mlz2012n100ltd25 / 磁珠 32
-__label__数字三极管 , trans npn gp 45v 800ma sot 23 bcw66glt1g / on 普通 三极管 62
-__label__可控硅SCR , trans pnp 45v 0.8 a 100mhz 225mw sot 23 bcw68glt1g / on 晶体管 / 晶闸管 11
-__label__温湿度传感器 , sensor temperature i2c 8soic lm92cim / nopb / 温湿度 传感器 10
-__label__CAN芯片 , ic transceiver txrx can 5v 8sop 55 ° c 105 ° c iso1050dubr / sop 20
-__label__FET输入运放 , ic opamp jfet 4mhz 8so tl082idt / so 10
-__label__FET输入运放 , ic opamp jfet 3mhz 14soic tl084idr / soic 50
-__label__开关二极管 , 贴片 二极管 1n4148w tp / sod 123 贴片 二极管 1n4148w tp / sod 124 y
-__label__湿度传感器 , 湿度 传感器 shtc3 / dfn4 湿度 传感器 shtc3 / dfn5 y
-__label__音频视频链接器 , 贴片 音频 连接器 sj 43514 smt tr / 4p 3.5 mm 贴片 音频 连接器 sj 43514 smt tr / 4p 3.6 mm y
-__label__开关二极管 , 贴片 二极管 1n4148w tp / sod 123 贴片 二极管 1n4148w tp / sod 124 y
-__label__湿度传感器 , 湿度 传感器 shtc3 / dfn4 湿度 传感器 shtc3 / dfn5 y
-__label__以太网连接器 , 插件 以太网 连接器 g7lx a88s7 bp g / y / 8p8c 1 端口 90 ° 插件 以太网 连接器 g7lx a88s7 bp g / y / 8p8c 1 端口 91 ° y
-__label__连接器附件套件 , 贴片 电话 连接器 sj 3524 smt tr 贴片 电话 连接器 sj 3525 smt tr y
-__label__功率电感 , 贴片 电感 sdr1307 680kl / 68uh 13 * 13 * 7.3 mm 贴片 电感 sdr1307 680kl / 68uh 13 * 13 * 7.4 mm y
+__label__开关二极管 , 贴片 二极管 baw56wt1g sot323 123 baw56wt1g on
+__label__开关二极管 , 贴片 二极管 bav70wt1g sot323 123 bav70wt1g on
+__label__超快快恢复二极管 , 二极管 es1002fl sod123fl es1002fl panjit
+__label__稳压二极管 , 稳压管 mmbz5240blt1g sot23 123 mmbz5240blt1g on
+__label__稳压二极管 , 稳压管 mmbz5241blt1g / t3g sot23 123 mmbz5241blt1g / t3g on
+__label__RF同轴连接器 , 天线 插座 sma 四角 座 外螺 内孔 180 度直 母 pcb 头 3077400014000 插件 1 j2
+__label__肖特基二极管 , 2sm 肖特基 二极管 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 diode sma 16 80
+__label__保险丝管 , 保险管 f1 fuse 1812 1 5
+__label__MOSFET , stb75nf75l n 沟 场效应管 q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 q12 q13 q14 to252 14 70
+__label__排针排母 , 普通 接插件 插座 单排 / 5.08 mm 绿色 2pin dip ht5.08 2 绿色 / kefa 30
+__label__排针排母 , 普通 接插件 插座 单排 / 5.08 mm 绿色 4pin dip ht508v 5.08 04p 1 4 40
+__label__排针排母 , 普通 接插件 插座 单排 / 5.08 mm 橙色 4pin dip ht508v 5.08 04p 1 5 75
+__label__排针排母 , 矩形 连接器 针座 公 插针 3pin 接头 公形 引脚 1 排 / 间距 2.5 mm 3pin dip jst b3p shf 1aa lf sn 60
+__label__共模扼流圈滤波器 , 共模电感 acm70v 701 2pl tl00 700r 100mhz 4a 4pin smd acm70v 701 2pl tl00 10
+__label__肖特基二极管 , 12 dss14 sod 123 1.0 d1 400.0
+__label__MOSFET , 16 ao3407 sot23 3 1.0 q1 400.0
+__label__MOSFET , 17 ao3402 sot23 3 1.0 q2 400.0
+__label__肖特基二极管 , 贴片 二极管 ll103 1206d 2 d11 d14 6000
+__label__线对板线对线连接器 , 弯脚 插座 mx1.25 / 2p 弯脚 2 bt1 cn11 6000
+__label__扬声器喇叭 , 喇叭 8r / 0.5 w 28 * 4.5 mm awg28 1571 一头 带 1.25 端子 50mm 1 3000
+__label__触发器 , 3 触发器 sn74hc273nsr sn74hc273nsr soic 20 208mil 200
+__label__通用二极管 , 6 二极管 m7 gpp m7 mdd sma 214ac 2000
+__label__时基芯片 , 8 时基 集成 芯片 ne555dr ne555dr soic 8 150mil 600
+__label__压接端子 , 1pin m5 m5 压 铆 端子 m5 压 铆 端子 接插件 1050 紫铜 端子 m5 方 螺丝
+__label__MOSFET , 贴片 p 沟道 / ao4405 so8nb 2 u13 u26 17140
+__label__DC-DC芯片 , 贴片类 dc dc / sti3408b sot23 5 2 u8 u11 17140
+__label__ESD二极管 , 贴片 esd / sbc0524p ic 10p rclamp0524p 5 u19 u20 u21 u23 u24 42850
+__label__磁珠 , 贴片类 fb / 60ohm fb0805 15 l11 l12 l13 l14 l15 l16 l18 l19 l20 l21 l22 l23 l24 l25 fb1 128550
+__label__磁珠 , 贴片类 fb / 120ohm l0603 1 fb2 8570
+__label__TVS二极管(瞬态电压抑制二极管) , 贴片类 srv05 4 sot 23 6 1 d8 8570
+__label__MOSFET , 贴片类 ao3401 3407 代 sot23 100 1 q2 8570
+__label__排针排母 , 插件 6pin / 2.0 mm / 90angles cn6 20a 1 cn10 8570
+__label__音频视频链接器 , 插件 dp block dp 47272 001 1 cn7 11370
+__label__轻触开关 , 插件 2pin / 轻触 开关 / pts635sl 1 sw1 8570
+__label__开关电源芯片 , integrated circuit ic l6561d sop8 10000
+__label__稳压二极管 , smd regulator 15v 1 / 2w 5% sod 123 10000
+__label__贴片电阻 , r23 resistor 20k ohm 1 / 10w 0.1% 0603 smd era 3yeb203v
+__label__贴片电阻 , r30 r31 resistor 255 1% 1 / 10w 0603 rc73a2x2550ftferj 3ekf25 50v
+__label__贴片超低阻值电阻 , r8 r10 resistor 0.020 1% 1 / 4w 0805 erj 6bwjr020v
+__label__功率电感 , l1 l3 inductor 4.7 uh multi layer shielded 1100ma 0805 lqm2mpn4r7ng0l 9vout
+__label__连接器附件套件 , j12 j13 j14 j15 j27 j29 receptacle coax u fl smt vertical u fl r smt 1 uf l
+__label__MCU监控芯片 , u2 ic tc1270atvct mpu supervisor 3.08 v trip push pull sot23 5 tc1270atvct
+__label__特殊功能放大器 , u3 u5 ic current sense amplifier sot23 5 max9934faua
+__label__电子线材连接线 , jmp1 j5 pins 3 4 jmp2 j7 pins 3 4 wire jumper 30 awg or larger evb
+__label__拨码开关 , sw1 sw2 switch sip spst 6pos vertical unshielded 20v spa06b 611 spa06b
+__label__模拟开关芯片 , u5 quad 2 1 mux / demux fet busswitch pi3b3257qe 729 pi3b3257qe
+__label__门极反相器 , u14 u15 u18 u19 ic b uf f 74lvc1g14se 7 sngl sot 553 74lvc1g14se 7 621 74lvc1g14se 7
+__label__MOSFET , q1 mchp analog mosfet n ch 25v 100a 0.006 r mcp87050 u / mf pdfn 8 mcp87050t u / mf mcp87050t u / mf
+__label__MOSFET , q2 mchp analog mosfet n ch 25v 100a 0.0026 r mcp87022t u / mf pdfn 8 mcp87022t u / mf mcp87022t u / mf
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn utc2000
+__label__电池电源管理芯片PMIC , u2 utc2000 ic mcu 8bit 16qfn technology utc2000
