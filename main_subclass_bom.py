@@ -247,9 +247,9 @@ if __name__ == '__main__':
 
     # 1 读取excel写入不同的标签txt
 
-    excel_read2txt()
+    # excel_read2txt()
 
-    train_tag = 100
+    train_tag = 1
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         # # '''''''''''''''''data_selection_new.py
