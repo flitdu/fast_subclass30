@@ -1,1 +1,0 @@
-32 4b3901b0 u02 s000419 ic rfid reader 13.56 mhz 40vfqfn pn7150b0hn / c11002y / qfn 50

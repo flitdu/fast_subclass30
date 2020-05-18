@@ -1,3 +1,0 @@
-label 6x6mm io 88953z brady 084w000216000 2 200 lio 53301 / lio 53302 1.0 1.0
-label 20mmx6mm mb 9661x yeah sheng 1h0200061r 2 200 lio 53303 / lrc 53301 1.0 1.0
-label 30x10mm mb 8895z yeah sheng 170300101sr 1 100 lio 53303 1.0

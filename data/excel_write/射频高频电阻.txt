@@ -1,2 +1,0 @@
-37 1 e016309 res high frequency chip 50 r0402 0.1 1 / 20w r1 fc0402e50r0bst1 rel
-46 2 e012326 res high frequency chip 0402 50 r0402 1 1 / 20w r2 r98 fc0402e50r0fst1 rel

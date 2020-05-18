@@ -1,2 +1,0 @@
-97 16p8302b0 u20 s000145 ic inst amp 2 circuit 16lfcsp ad8426acpz r7 / 900
-u103 203 ad623 instrumentation amplifier 8 soic ad623arz ad623arz nd 3.4 y

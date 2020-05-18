@@ -1,2 +1,0 @@
-mt88l70an zarlink 3 volt integrated dtmf rcvr 20 pin ssop 1
-tx0 tx1 tx2 tx3 cypress cy7b923 jc hotlink transmitter plcc28 4

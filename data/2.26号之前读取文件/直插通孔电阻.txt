@@ -1,4 +1,0 @@
-resistor dip 5r6 4w pc 200 wp4s 5r6ja2 welwyn
-resistor 18r 3w dip 18r 3w pc 200 wa84 18rji welwyn
-resistor dip metal film resistors through hole 1watt 016 ohms 2% cpf1r16000gnb14 1 r36 ds 2 427 cpf 64917 pdf cpf1r16000gnb14 072 8 10wks
-resistor dip metal film resistors through hole 1watt 03 ohms 2% cpf1r30000gnb14 1 r6 ds 2 427 cpf 64917 pdf cpf1r30000gnb14 068 8 10wks

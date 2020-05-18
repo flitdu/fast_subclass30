@@ -1,5 +1,0 @@
-4 6c1721b0 f03 s000105 1206 fuse mount 2a 慢 熔断 63vac / vdc smd 0468002 nrhf / inc 保险丝 155
-60 1 84a.1243 045101 贴片 保险 3.5 a / 125v / 0.02 ohms / i2t 2.469 / 55 125 ℃ 2 f2 6127 045103.5 mrl f1 f2 24
-37 1 84a.1283 045101 贴片 保险 8a / 125v / 0.0077 hms / i2t 20.23 / 55 125 ℃ 1 f2 6127 0451008mrl f1 12
-fuserxef300 40v / 3a f 3.00 a 60v 1 fuserxef300 lcsc c14397
-500ma f1 1812 mf msmf110 / 16 2ct nd

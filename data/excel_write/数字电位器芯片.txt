@@ -1,4 +1,0 @@
-u2 digital potentiometer 128pos 10kohm single 8 pin soic n t / r ad5220brz10
-u2 digital potentiometer 128pos 10kohm single 8 pin soic n t / r ad5220brz10 reel7
-pot digital single 100k spi sm soic 8 mcp4131 104e / sn or equiv u20 1
-ad5254bruz50 quad i2c 50k digital potentiometer tssop20 farnell 1078377 6.24 4.0

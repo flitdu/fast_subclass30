@@ -1,5 +1,0 @@
-1 590 3007010282 夹 机械 夹 212000313 10.1 x2.2 x2.92 mm 01 s1 s2 s3 s4 s5 s6 s7 s8 s9 s10 10 20 b 200 dlk
-贴片 五金 夹 cp001 屏蔽罩 夹子 马口铁 ptc4944h 10 * 1.9 * 3mm via ptc4944h 11 220 22000 330000
-box 2 x1.5 flanged box painted black enclosure aluminum die cast box w / bottm flang 2.07 x1.5 blk 1590hfbk
-box for antenna pcb 4.37 x2.37 x1.98 diecast aluminum cu 479 563 cu 479 7.89 1 7.89
-box for controller 4.69 x3.69 x2.06 diecast aluminum cu 234 563 cu 234 11.6 1 11.6

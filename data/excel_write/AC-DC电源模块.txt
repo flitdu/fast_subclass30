@@ -1,5 +1,0 @@
-ic rac04 05sga conv ac / dc 4w 85 305vin 05vout t recom power rac04 05sga recom power 1050
-ps1 meanwell irm 03 12 ac / dc power modules 85 305vac 12vout 250ma 3w pcm mnt
-power supply / 12v 0.5 a table top aultsw301ma0012f0 d 271 2482 nd 68.8
-power supply / 12v 0.5 a table top mean well j 221702 49.95 49.95
-power cord 1 10v iec power supply d q126 nd 6.6

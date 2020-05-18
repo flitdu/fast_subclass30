@@ -1,1 +1,0 @@
-bloco terminal 12vias 3 5mm 13 5a sptthr 1822859 2 nm121001a0000g anytek 710

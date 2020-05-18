@@ -1,2 +1,0 @@
-usb 线 usb 线 a 公对 b 公 带 磁环 1 200
-miniusb cable / / sparkfun / products / 11301 395 359090909090909

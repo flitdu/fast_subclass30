@@ -1,5 +1,0 @@
-ad8021arz single channel low power operational amplifier 490 mhz bw 120 v / us sr industrial 8 pin soic r 8 tube u12 u20 r 8 n 2 10
-ad8055art r2 single channel low power operational amplifier 300 mhz bw 1.4 kv / us sr industrial 5 pin sot23 rj 5 reel u13 u21 rj 5 n 2 10
-u7 lmc6484aimx / nopb ic opamp gp 1.5 mhz rro 14soic
-u9 op amp dual high speed amplifier ± 18v 8 pin soic n t / r op282gsz
-u9 op amp dual high speed amplifier ± 18v 8 pin soic n t / r op282gsz reel7

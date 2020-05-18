@@ -1,6 +1,0 @@
-slpx222m050a1p3 cap alum 2200 uf 20% 50v radial 203 0.8772 8 12days arrow
-slpx472m035a3p3 cap alum 4700 uf 20% 35v radial 123 0.972 8 14days
-163 电解电容 80v22000 uf 50x80 1 4
-capacitor eletrol í tico 330 uf 400v 85 º 105 º snapin 30x40 electrolictic capacitor 330 uf 400v 85 º 105 º snapin 30x40 2000
-capacitor eletrolitico 1000 uf 2 50v 30x40 electrolictic capacitor 1000 uf 2 50v 30x40 1000
-а р capacitor 220 ф х 400v 20% dip 2 4 50v 220 uf 25 40 400.0 2.5

@@ -58,14 +58,6 @@ class FastTextModel:
                                              minCount=1,  # 词频阈值, 小于该值在初始化时会过滤掉
                                              minn=3,
                                              maxn=15)
-            # --------------------------------
-            # classifier = ff.train_supervised(train_file_path,
-            #                                   epoch=i,
-            #                                   loss=self.loss,
-            #                                   lr=self.lr,
-            #                                   wordNgrams=w)
-
-            # print(classifier.)
             print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
             classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
@@ -255,7 +247,7 @@ if __name__ == '__main__':
 
     # 1 读取excel写入不同的标签txt
 
-    # excel_read2txt()
+    excel_read2txt()
 
     train_tag = 100
     if train_tag == 1:
@@ -286,7 +278,7 @@ if __name__ == '__main__':
         ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
     # 5 测试
-    test_flag = 1
+    test_flag = 100
 
     if test_flag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'

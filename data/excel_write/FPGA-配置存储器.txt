@@ -1,2 +1,0 @@
-q06 20010042 1 62603000240 fpga 芯片 xc7z020 1clg400c 256kb 667mhz clg400 400pin smd xilinx xc7z020 1clg400c 7
-ic6 xcf04svo20c xcf00s series platform flash system programmable configuration 3.3 v prom 20 p tsop 4 megabit commercial grade vo20 n

@@ -1,2 +1,0 @@
-ic opamp jfet 4mhz 8so tl082idt / so 10
-ic opamp jfet 3mhz 14soic tl084idr / soic 50

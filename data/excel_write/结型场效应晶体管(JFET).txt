@@ -1,2 +1,0 @@
-q3e mpsa14 darlington 512 mpsa14 mpsa14 nd
-2n7002k q1 q2 sot23a 2n7002kct nd

@@ -1,3 +1,0 @@
-esp32 d2wd ic rf txrx mcu bluetooth 48vfqfn espressif systems 1 1000
-esp32 d2wd ic rf txrx mcu bluetooth 48vfqfn espressif systems 1 5000
-ic1 soc rf range 27 1050 mhz qfn40 axm0f243 1 tx40

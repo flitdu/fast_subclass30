@@ -1,3 +1,0 @@
-photodiode d1 el pd15 22c / tr8 el pd15 22c tr8 el pd15 22c / tr8 600
-69.0 ir 3.5 * 3.5 波长 940nm 功率 3w 1.0 d1 3000
-ir11 21c / tr8 led infrared 10000

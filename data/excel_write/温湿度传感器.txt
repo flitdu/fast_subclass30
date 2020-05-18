@@ -1,3 +1,0 @@
-直插 芯片 ds18b20 可编程 数字 传感器 to92 ds18b20 830
-sensor temperature i2c 8soic lm92cim / nopb / 温湿度 传感器 10
-u4 ic sensor temp humidity hts221 / 4.5% rh micro hts221tr digi key 497 15382 1 nd 1.7136

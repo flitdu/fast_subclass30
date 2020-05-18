@@ -1,6 +1,0 @@
-1.6 m melf mmu0204 res melf 1.6 m 1% 50ppm 1 / 4w 0204 2 2000 20000
-470k melf mmu0204 res melf 470k 1% 50ppm 1 / 4w 0204 2 2000 20000
-680k melf mmu0204 res melf 680k 1% 50ppm 1 / 4w 0204 2 2000 20000
-3m melf mmu0204 res melf 3m 1% 50ppm 1 / 4w 0204 1 1000 10000
-106 表贴 晶圆 电阻 10k 1% melf 1 / 4w 0204 10k 1 / 4w melf 0204 9.0 r141 r146 r145 r150 r151 r152 r153 r162 r167 看 / 交叉 方向 进行 贴片 7200
-470k carbon film 0207 / 10 1 / 4w 5%

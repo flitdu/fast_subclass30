@@ -1,3 +1,0 @@
-sensor current hall 200a ac / dc acs770ecb 200b pff t allegro microsystems llc 传感器 12
-u1 high prec linear hall eff current sensor acs781llrtr 100b t bidir 0 2mohm 100a 132 mv / a psof 7 40 / 150 ° c acs781llrtr 100b 100a s psof 7 lr allegro microsysms acs781llrtr 100b t
-u2 high prec linear hall eff current sensor acs781llrtr 100b t bidir 0 2mohm 100a 132 mv / a psof 7 40 / 150 ° c acs781llrtr 100b 100a s psof 7 lr allegro microsysms acs781llrtr 100b t

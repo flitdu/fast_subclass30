@@ -1,9 +1,0 @@
-62 variable inductor 70nh 146 03j08l coil craft pc 1600.0
-63 variable inductor 100nh 150 03j08l coil craft pc 1100.0
-64 variable inductor 170nh 150 05j08l coil craft pc 550.0
-65 variable inductor 40nh 164 03a06l coil craft pc 550.0
-66 variable inductor 68nh 164 04a06l coil craft pc 1100.0
-67 variable inductor 9nh 165 00a06l coil craft pc 550.0
-68 variable inductor 17nh 165 01a06l coil craft pc 1600.0
-69 variable inductor 28nh 165 02a06l coil craft pc 1600.0
-70 variable inductor 40nh 165 03a06l coil craft pc 1100.0

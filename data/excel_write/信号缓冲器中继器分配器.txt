@@ -1,6 +1,0 @@
-ltc4300 2cms8 hot swapable 2 wire bus b uf fers tssop8 aertronica ltc4300 2cms8 30 16.0 0.0
-pi2eqx4401zfe 2.5 gbps serial pciexpress repeater equalizer qfn36 delco sistemi pi2eqx4401zfe 6.2 0.0
-sy10ep11ukg 1 2 lvpecl b uf fer msoic8 partminer sy10ep11ukg 1.75 6.0 0.0
-sy58021umg 1 4 lvpecl fanout b uf fer / translator mlf16 576 1335 5 nd 3.4 2.0 0.0
-sy58023umg 2x2 cmc crosspoint switch mlf16 partminer sy58023umgtr nd 6.5 10.0 0.0
-dual b uf fer nlx2g16 ullga6 case613ae dual b uf fer nlx2g16 nlx2g16amx1tcg u9

@@ -1,1 +1,0 @@
-2.0 2d2430a0 s10 s000020 magnetic switch omnipolar sot23f tcs40dpr lf / toshiba 传感器 1006.0

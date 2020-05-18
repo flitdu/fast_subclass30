@@ -1,2 +1,0 @@
-mpxv7002dp ps4ps5 mpxv7002dp freescale semiconductor mount pressure sensors sop dual 2kpa
-mpxv7007dp ps0ps1ps2ps3 mpxv7007dp freescale semiconductor mount pressure sensors sop dual 7kpa

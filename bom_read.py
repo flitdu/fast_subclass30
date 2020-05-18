@@ -67,28 +67,27 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
         print('操作完成!')
 
 
-
 def excel_read2txt():
     # # 先清空：
-    txt_file_path = r'D:\dufy\code\fast_subclass30\data\excel_write'  # 读取文件夹路径,
+    txt_file_path = r'D:\dufy\code\ft_BOM\data\subclass_txt'  # 读取文件夹路径,
+
     # file_clear(txt_filePath)
     txt_names = os.listdir(txt_file_path)
     for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
         path = txt_file_path + '\\' + name0
         os.remove(path)
 
-    # filePath = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\bom_test_random'  # 读取文件夹路径
-    filePath = r'D:\dufy\code\ft_BOM\data\bom_subclass30'  # 读取文件夹路径!!!!!!!!!!!!
-    file_names = os.listdir(filePath)
+    bom_path = r'D:\dufy\code\ft_BOM\data\bom_subclass30'  # 读取文件夹路径!!!!!!!!!!!!
+    file_names = os.listdir(bom_path)
 
     for i, name0 in enumerate(file_names):  # 文件夹下文件循环
         logger.debug('==========================')
-        path = filePath + '\\' + name0
+        path = bom_path + '\\' + name0
         logger.debug('path为：{} '.format(path))
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         aa = OperateExcelSubclass(path)
         # aa.excel_data2temp_files()  # 生成temp @文件，为后续处理做准备
-        aa.excel_write_in(r'data\excel_write')  # 读取当前excel覆盖写入
+        aa.excel_write_in(txt_file_path)  # 读取当前excel覆盖写入
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         logger.debug('path为： '.format(path))
         logger.debug('==========================')
@@ -96,3 +95,8 @@ def excel_read2txt():
 if __name__ == "__main__":
     pass
 
+    path = r'C:\Users\Administrator\Desktop\2c93ea3b6e217bf2016e257babb70044-U954.xls'
+    # path = r'C:\Users\Administrator\Desktop\2c93ea3b6dd7ced7016dd86e98da0069-U558.xls'
+
+    aa = OperateExcelSubclass(path)
+    aa.excel_write_in(r'C:\Users\Administrator\Desktop\test')  # 读取当前excel覆盖写入

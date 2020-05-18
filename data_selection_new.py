@@ -28,14 +28,14 @@ def merge_txt_files(lines_number, shuffle_tag):
     f_1 = open(r'.\data\selection_data.txt', 'w')
     f_1.truncate()
     f_1.close()
-    PATH = r'D:\dufy\code\fast_subclass30\data\excel_write'
+    path = r'D:\dufy\code\ft_BOM\data\subclass_txt'
 
-    file_names = tuple(os.listdir(PATH))  # 转为tuple
+    file_names = tuple(os.listdir(path))  # 转为tuple
 
     label_number = {}
     # for i in range(len(file_names)):  # 遍历各txt
     for i, name0 in enumerate(file_names):  # 遍历各txt
-        txt_path = PATH + '\\' + name0
+        txt_path = path + '\\' + name0
         print('读取', txt_path)
         txt = open(txt_path, 'rb')
 
@@ -93,5 +93,7 @@ def merge_txt_files(lines_number, shuffle_tag):
         shuffle(r'.\data\selection_data.txt', r'.\data\selection_data_shuffle.txt')
     
     return list1
+
+
 if __name__ == '__main__':
     merge_txt_files(12, 1)

@@ -1,7 +1,0 @@
-贴片 ic 储存 k4e6e304eb egcf 178fbga 11 * 11.5 mm lpddr3 2gb * lpddr3 fbga178 bga178p0 8x0 65b13x11 5h1 13 1 20 2000 30000
-micron lpddr3 ud1 mt52l256m32d1pf 107 bga178p65b1150 1300h113 lpddr3 fbga178 32x1
-ddr3 128m x 16 1600mhz 1.5 v 工規 1 3000
-ic ddr3 sdram 16bit 2gb 1600mhz fbga 96 issi is43tr16128cl 125kbli ic11 ic12 2.0 90000.0 90000.0
-157 56a.06 mt41k201 ddr3l mt41k256m16tw 107 xit p / ddr3l / fbga 96 / 40 95 ℃ / 2megx16x8banks / 4gb 2 fbga 96 micron mt41k256m16tw 107 xit p u56 u57 110
-84 16p8302b0 u07 s000162 ic dram 8g parallel 800mhz mt41k512m16ha 125 it a / micron bga 360
-85 16p8302b0 u07 s000163 ic dram 4g parallel 96fbga mt41k256m16ha 125 it e / micron bga 180
