@@ -1,0 +1,4 @@
+diode schottky 1n5817 41 axl 1n5817 mdd
+diode schottky 1n5819 41 axl 1n5819 mdd
+diode schottky 1n5817 41 axl 1n5817 mdd
+diode schottky 1n5819 41 axl 1n5819 mdd

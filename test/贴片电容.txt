@@ -1,0 +1,9 @@
+capacitor cer 01 uf 50v / 10% 0603 x7r e 絡盟 1362556 cc0603krx7r9bb104
+capacitor cer 01 uf 50v / 10% 0805 wasson cc0805krx7r9bb104 e 絡盟 0805b104k500ct 2496944 0805b104k500ct
+capacitor cer 15pf 50v / 5% 0805 npo brand part cc0805drnpo9bn150 cc0805jrnp09bn150
+capacitor cer 01 uf 50v / 10% 0603 x7r e 絡盟 1362556 cc0603krx7r9bb104
+capacitor cer 01 uf 50v / 10% 0805 wasson cc0805krx7r9bb104 e 絡盟 0805b104k500ct 2496944 0805b104k500ct
+capacitor cer 15pf 50v / 5% 0805 npo brand part cc0805drnpo9bn150 cc0805jrnp09bn150
+电解电容 100 uf 50v cap d 8 * 11 20% 直插 dip 2000 0.07
+电解电容 100 uf 50v cap d 8 * 11 20% 直插 dip 2000 0.07
+电解电容 100 uf 50v cap d 8 * 11 20% 直插 dip 2000 0.07

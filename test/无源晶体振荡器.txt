@@ -1,0 +1,4 @@
+crystal 32.768 khz / 20ppm load capacitance 12.5 pf d 2mm h 6mm p 0.7 mm rad tfzbk0327060d e 絡盟 1701100 mcrj332768f1220how multicomp 1 110
+crystal 7.3728 mhz / 30ppm smd 49s 16pf short lfxtal003334reel iqd 1 110
+crystal 32.768 khz / 20ppm load capacitance 12.5 pf d 2mm h 6mm p 0.7 mm rad tfzbk0327060d e 絡盟 1701100 mcrj332768f1220how multicomp 1 110
+crystal 7.3728 mhz / 30ppm smd 49s 16pf short lfxtal003334reel iqd 1 110

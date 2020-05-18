@@ -1,0 +1,4 @@
+capacitor tant 22 uf 63 v / 10% case a taja226k006r taja226k006r 2 230
+capacitor tant 33 uf 63 v / 10% case a taja336k006r taja336k006r 1 120
+capacitor tant 22 uf 63 v / 10% case a taja226k006r taja226k006r 2 230
+capacitor tant 33 uf 63 v / 10% case a taja336k006r taja336k006r 1 120

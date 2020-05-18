@@ -1,0 +1,2 @@
+inductor 2.2 uh / 10% 100ma 0805 scw2012f2r2kst sunltech tech 1 150
+inductor 2.2 uh / 10% 100ma 0805 scw2012f2r2kst sunltech tech 1 150
