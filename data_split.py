@@ -11,6 +11,7 @@ Remark:   记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_
 import os
 import random
 import linecache
+from data_operation.function import path_clear
 # random.seed(42)  # 设置随机数，用于保证每次随机生成得到的数据是一致的
 
 
@@ -18,7 +19,8 @@ import linecache
 # f_all.truncate()
 # f_all.close()
 
-class Operate_txt:
+
+class OperateTxt:
     def __init__(self, url):
         self.url = url
 
@@ -121,8 +123,8 @@ class Operate_txt:
             print(ex)
             print('\033[1;31m 写文件时发生错误!\033[0m')
 
-
-    def txt_split(self, size):
+    def testSplit(self, ratio):
+        # 得到测试集
         txt = open(self.url, 'rb')
         data = txt.read().decode('utf-8')  # python3一定要加上这句不然会编码报错！
         txt.close()
@@ -130,7 +132,7 @@ class Operate_txt:
         n += 1
         print("总行数:", n)
         num = list(range(1, n))
-        test_size = round(size * n)
+        test_size = round(ratio * n)
         test_slice = random.sample(num, test_size)  # 从list中随机获取个元素，作为一个片断返回
         train_slice = []
         for item in num:
@@ -144,37 +146,62 @@ class Operate_txt:
             # print(line)
             if i in test_slice:
                 # print('test')
-                self.txt_write_line(r'.\data\test_split_data.txt', line)
+                self.txt_write_line(r'.\data\corpus\test_data.txt', line)
             else:
                 # print('train')
-                self.txt_write_line(r'.\data\train_split_data.txt', line)
+                self.txt_write_line(r'.\data\corpus\trains.txt', line)
 
-def train_datas_split():
-    f_train = open(r'.\data\train_split_data.txt', 'w')
-    f_train.truncate()
-    f_train.close()
-    f_test = open(r'.\data\test_split_data.txt', 'w')
-    f_test.truncate()
-    f_test.close()  # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
-    # a = Operate_txt(r'D:\dufy\code\2019-11-25\test.txt')  # 添加需要操作的文件路径
-    # a = Operate_txt(r'D:\dufy\code\2019-11-25\fasttext.test1125.txt')  # 添加需要操作的文件路径
-    a = Operate_txt(r'D:\dufy\code\fast_subclass30\data\selection_data_shuffle.txt')  # 添加需要操作的文件路径
+    def validationSplit(self, ratio):
+        # 得到验证集
+        txt = open(self.url, 'rb')
+        data = txt.read().decode('utf-8')  # python3一定要加上这句不然会编码报错！
+        txt.close()
+        n = data.count('\n')
+        n += 1
+        print("总行数:", n)
+        num = list(range(1, n))
+        test_size = round(ratio * n)
+        test_slice = random.sample(num, test_size)  # 从list中随机获取个元素，作为一个片断返回
+        train_slice = []
+        for item in num:
+            if item not in test_slice:
+                train_slice.append(item)
+        # print('测试取值：{}'.format(test_slice))
+        for i in num:
+            line = linecache.getline(self.url, i)  # 待写入文件行
+            if i%1000 == 0:
+                print('进度：{:.2f}'.format(i/n))
+            # print(line)
+            if i in test_slice:
+                # print('test')
+                self.txt_write_line(r'.\data\corpus\vali_data.txt', line)
+            else:
+                # print('train')
+                self.txt_write_line(r'.\data\corpus\train_data.txt', line)
+
+
+def datasSplit():
+    # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
+    path_clear(r'.\data\corpus')
+
+    a = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\selection_data_shuffle.txt')  # 添加需要操作的文件路径
     a.txt_print()
     # a.txt_write('text_write_test.txt')   # 写入文件路径
+    a.testSplit(0.2)  # 测试比例
 
-    a.txt_split(0.25)  # 测试比例
-    # a.txt_merge(r'D:\dufy\code\2019-11-25\data\class-labels')  # 待融合txt 合剂路径
+    b = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\corpus\trains.txt')  # 添加需要操作的文件路径
+    b.validationSplit(0.25)  # 验证集比例
     print('ENDDD!!!')
 
 if __name__ == '__main__':
 
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\test.txt')  # 添加需要操作的文件路径
     # a = Operate_txt(r'D:\dufy\code\2019-11-25\fasttext.test1125.txt')  # 添加需要操作的文件路径
-    a = Operate_txt(r'D:\dufy\code\2019-11-25\labels30.txt')  # 添加需要操作的文件路径
-    a.txt_print()
-    # a.txt_write('text_write_test.txt')   # 写入文件路径
-
-    a.txt_split(0.25)  # 测试比例
-    # a.txt_merge(r'D:\dufy\code\2019-11-25\data\class-labels')  # 待融合txt 合剂路径
-    print('ENDDD!!!')
-
+    # a = Operate_txt(r'D:\dufy\code\2019-11-25\labels30.txt')  # 添加需要操作的文件路径
+    # a.txt_print()
+    # # a.txt_write('text_write_test.txt')   # 写入文件路径
+    #
+    # a.txt_split(0.25)  # 测试比例
+    # # a.txt_merge(r'D:\dufy\code\2019-11-25\data\class-labels')  # 待融合txt 合剂路径
+    # print('ENDDD!!!')
+    pass

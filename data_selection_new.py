@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 from data_operation.txt_operate import OperateTXT
 from data_operation.constant import label_subclass_database
 from data_operation.function import get_logger
+from data_operation.function import path_clear, file_clear
+
 logger = get_logger()
 
 
@@ -24,10 +26,11 @@ def shuffle(origin_txt, shuffle_txt):
     out.close()
 
 
-def merge_txt_files(lines_number, shuffle_tag):
-    f_1 = open(r'.\data\selection_data.txt', 'w')
-    f_1.truncate()
-    f_1.close()
+def mergeLabelTxt(lines_number, shuffle_tag):
+    # f_1 = open(r'.\data\selection_data.txt', 'w')
+    # f_1.truncate()
+    # f_1.close()
+    file_clear(r'.\data\selection_data.txt')
     path = r'D:\dufy\code\local\corpus\bom_subclass\subclass_txt'
 
     file_names = tuple(os.listdir(path))  # 转为tuple
@@ -80,9 +83,12 @@ def merge_txt_files(lines_number, shuffle_tag):
 
     if shuffle_tag == 1:
         shuffle(r'.\data\selection_data.txt', r'.\data\selection_data_shuffle.txt')
-    
+        # shuffle(r'.\data\selection_data_shuffle.txt', r'.\data\selection_data_shuffle1.txt')
+        # shuffle(r'.\data\selection_data_shuffle1.txt', r'.\data\selection_data_shuffle2.txt')
+
     return list1
 
 
 if __name__ == '__main__':
-    merge_txt_files(12, 1)
+    pass
+    # merge_txt_files(12, 1)

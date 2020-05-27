@@ -69,7 +69,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
 
 def excel_read2txt():
     # # 先清空：
-    txt_file_path = r'D:\dufy\code\ft_BOM\data\subclass_txt'  # 读取文件夹路径,
+    txt_file_path = r'D:\dufy\code\local\corpus\bom_subclass\subclass_txt'  # 读取文件夹路径,
 
     # file_clear(txt_filePath)
     txt_names = os.listdir(txt_file_path)
@@ -77,7 +77,8 @@ def excel_read2txt():
         path = txt_file_path + '\\' + name0
         os.remove(path)
 
-    bom_path = r'D:\dufy\code\ft_BOM\data\bom_subclass30'  # 读取文件夹路径!!!!!!!!!!!!
+    # bom_path = r'D:\dufy\code\ft_BOM\data\bom_subclass30'  # 读取文件夹路径!!!!!!!!!!!!
+    bom_path = r'D:\dufy\code\local\corpus\bom_subclass\subclass_excel'  # 读取文件夹路径!!!!!!!!!!!!
     file_names = os.listdir(bom_path)
 
     for i, name0 in enumerate(file_names):  # 文件夹下文件循环

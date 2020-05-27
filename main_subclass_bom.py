@@ -18,8 +18,8 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 from data_operation.function import get_logger
 from bom_read import excel_read2txt
-from data_selection_new import merge_txt_files
-from data_split import train_datas_split
+from data_selection_new import mergeLabelTxt
+from data_split import datasSplit
 import pandas as pd
 from data_operation import OperateExcel
 import time
@@ -242,29 +242,26 @@ def save_test_info(error_info, true_label, aa_description_standard, aa_descripti
                                     +'__label__' + true_label + ' , '+aa_description+ '\n'
                                     +'======' )
 
+
 if __name__ == '__main__':
     logger = get_logger()
 
-    # 1 读取excel写入不同的标签txt
-
-    # excel_read2txt()
+    excel_read_tag = 10
+    if excel_read_tag == 1:
+        excel_read2txt()
 
     train_tag = 1
     if train_tag == 1:
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-        # # '''''''''''''''''data_selection_new.py
+        label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
 
-        label_list = merge_txt_files(1500000, shuffle_tag=1)  ## 选取行数
-
-        # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
-        # # # # # # # # # '''''''''''''''''data_split.py
-
-        train_datas_split()
+        # # # 3 划分数据集
+        datasSplit()
 
         with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
             # 读文件
             for line in file.readlines():
-                OperateTXT().txt_write_line(r'.\data\train_split_data.txt', line.replace('\n', ''))
+                OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
 
     # 4 训练-调参
     # 初始化
