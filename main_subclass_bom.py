@@ -15,6 +15,8 @@ import fasttext as ff
 # from fastText.build import fasttext as ff
 from sklearn.metrics import confusion_matrix
 from sklearn import metrics
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import classification_report
 import matplotlib.pyplot as plt
 from data_operation.function import get_logger
 from bom_read import excel_read2txt
@@ -26,6 +28,8 @@ import time
 from data_operation.function import load_stop_word_list, standard, labelNewSubclass, path_clear
 from data_operation.txt_operate import OperateTXT
 import os
+import numpy as np
+np.set_printoptions(threshold=np.inf)
 from data_operation.constant import label_name_forbid
 stop_words = load_stop_word_list("stopwords_subclass.txt")
 
@@ -47,7 +51,6 @@ class FastTextModel:
         '''
         for i in range(1, self.epoch):  # 迭代轮数
             w = self.n_gram
-            #for w in range(2, 3):  # 连词数，取1、2
             start_time = time.time()  # loss = softmax or hs
             classifier = ff.train_supervised(train_file_path,
                                              epoch=i,
@@ -59,7 +62,7 @@ class FastTextModel:
                                              minn=3,
                                              maxn=15)
             print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
-            classifier.save_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
+            classifier.save_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
         print('训练完成......')
 
@@ -170,6 +173,42 @@ class FastTextModel:
         plt.show()
         logger.info('训练结束...')
 
+    def verify(self, train_file_path, vali_file_path):
+        pass
+        vali_correct_labels = []
+        vali_texts = []
+        # 加载验证集
+        with open(vali_file_path, "r", encoding="utf-8") as ft_test:
+            for line in ft_test:
+                vali_correct_labels.append(line.strip().split(" , ")[0].replace('__label__',''))
+                vali_texts.append(line.strip().split(" , ")[1])
+
+        # 加载分类模型
+        for i in range(1, self.epoch):
+            print('============')
+            print(f'验证集标签：{vali_correct_labels}')
+            vali_predict_labels = []
+            w = self.n_gram
+            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
+            predict_labels = classifier_model_i.predict(vali_texts)[0]
+            for i in predict_labels:
+                vali_predict_labels.append(i[0].replace('__label__',''))
+            print(f'验证集预测标签：{vali_predict_labels}')
+            print(f'准确率计算：{accuracy_score(vali_correct_labels, vali_predict_labels)}')
+            print(f"宏平均：{metrics.precision_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
+
+            print(f'标签：{label_list}')
+            labels_ = []
+            for i in label_list:
+                labels_.append(i.replace('__label__',''))
+            logger.debug(confusion_matrix(vali_correct_labels, vali_predict_labels,labels=labels_))
+
+            confusion_matrix_model_i = confusion_matrix(vali_correct_labels, vali_predict_labels,labels=labels_)
+
+            print(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
+
+            logger.debug('分类报告:')
+            logger.debug(classification_report(vali_correct_labels, vali_predict_labels, target_names=labels_))
 
 def predict_output(str1, model):
     print('前3预测： ', model.predict([str1], k=3))
@@ -252,27 +291,25 @@ if __name__ == '__main__':
 
     train_tag = 1
     if train_tag == 1:
-        # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
+        # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
 
         # # # 3 划分数据集
-        datasSplit()
+        # datasSplit()
+        # 读取误分类数据到训练集
+        # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
+        #     for line in file.readlines():
+        #         OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
 
-        with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
-            # 读文件
-            for line in file.readlines():
-                OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
-
-    # 4 训练-调参
-    # 初始化
+        # 4 训练-调参
         epoch_begin = 2
-        epoch_ = 100
+        epoch_ = 5  # 100
         loss_name = 'softmax'
         learn_rate = 0.5  # 0.5, 0.8
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate)
-        ft_.fit(r'.\data\train_split_data.txt')  # 训练
-        ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
+        # ft_.fit(r'.\data\corpus\train_data.txt')  # 训练
+        ft_.verify(r'.\data\corpus\train_data.txt', r'.\data\corpus\vali_data.txt')   #
 
     # 5 测试
     test_flag = 1
