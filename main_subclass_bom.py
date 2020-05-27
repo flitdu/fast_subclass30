@@ -254,7 +254,7 @@ if __name__ == '__main__':
         # # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         # # '''''''''''''''''data_selection_new.py
 
-        label_list = merge_txt_files(1500, shuffle_tag=1)  ## 选取行数
+        label_list = merge_txt_files(1500000, shuffle_tag=1)  ## 选取行数
 
         # # # 3 划分数据集, 读取selection_data.txt'， 写入：'test_split_data.txt' 与 ‘train_split_data.txt'
         # # # # # # # # # '''''''''''''''''data_split.py
@@ -278,11 +278,11 @@ if __name__ == '__main__':
         ft_.evaluate(r'.\data\train_split_data.txt', r'.\data\test_split_data.txt')   # 评价
 
     # 5 测试
-    test_flag = 100
+    test_flag = 1
 
     if test_flag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-        # excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.14Mike'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.22Mike'
 
         model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
         model_names = os.listdir(model_folder)

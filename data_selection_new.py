@@ -28,7 +28,7 @@ def merge_txt_files(lines_number, shuffle_tag):
     f_1 = open(r'.\data\selection_data.txt', 'w')
     f_1.truncate()
     f_1.close()
-    path = r'D:\dufy\code\ft_BOM\data\subclass_txt'
+    path = r'D:\dufy\code\local\corpus\bom_subclass\subclass_txt'
 
     file_names = tuple(os.listdir(path))  # 转为tuple
 
@@ -51,13 +51,8 @@ def merge_txt_files(lines_number, shuffle_tag):
         label_name0 = '__label__' + name_ + ' , '
         if lines_number < n:
             test_slice = random.sample(num, lines_number)  # 从list中随机获取个元素，作为一个片断返回
-            # print('测试取值：{}'.format(test_slice))
             for i in num:
-                # print(linecache.getline(txt_path, i))
-                # if linecache.getline(txt_path, i):
                 line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                # print(line.strip('\n'))
-                # if linecache.getline(txt_path, i):
                 if i in test_slice:  # 如果在随机取的值里
                     # print('test')
                     OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
@@ -75,15 +70,9 @@ def merge_txt_files(lines_number, shuffle_tag):
     # print('标签列表 \n：{}'.format(list1))
     print('标签列表 \n：{}'.format([i.replace('__label__','') for i in list1]))
 
-    list_temp = [i.replace('__label__','') for i in list1]
-    # for i in list_temp:
-    #     if i not in label_name_refer:
-    #         logger.critical('产生新的标签：{}'.format(i))
-
-
     for i in label_number:
-        #     print(i, a[i])
         plt.plot(i, label_number[i], 'r:o')
+    plt.xticks(size=6)
     plt.grid()
     plt.xticks(rotation=270)  # 标签旋转
     plt.show()
