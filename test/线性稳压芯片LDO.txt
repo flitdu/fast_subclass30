@@ -1,2 +1,0 @@
-ic ldo voltage regulator 15v 3.3 v 800ma dpak ld1117dt33ctr e 絡盟 1261189 ld1117dt33ctr
-ic ldo voltage regulator 15v 3.3 v 800ma dpak ld1117dt33ctr e 絡盟 1261189 ld1117dt33ctr

@@ -1,0 +1,873 @@
+__label__绕线电阻 , 电阻 ewwr0010j200rt9 10w ± 5% 200 200 ω 200r ± 5%
+__label__电容器阵列与网络 , w2l1zc104mat1f w2l1zc104mat1f 电容器 阵列 网络 10v olts 1 uf 20%
+__label__NTC热敏电阻 , ntc mf51b473f3950 mf51b473f3950 nd thermistor ntc 47kohm bead
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl44jb1h221m085aa ckcl44jb1h221m085aa 电容器 阵列 网络 0805 50v 220pf jb 20% 4 n 1
+__label__CBB电容 , cbb 电容 cbb22 105 / 630v / 25mm 脚距 25mm 法拉 c1 cy4 1000
+__label__PTC热敏电阻 , ptc b59901d0080a040 495 7084 nd thermistor ptc 100 ohm radial
+__label__钽电容 , 7413 鉭 電容 1 uf 35v dip 2 p 163
+__label__电容器阵列与网络 , ca0508krnpo9bn470 ca0508krnpo9bn470 电容器 阵列 网络 47pf 50v npo 10%
+__label__绕线电阻 , rws03j39r0a750nh 39 ω 390 39 ± 5% 3w
+__label__直插电解电容 , 162 电解电容 1 uf / 400v 1 uf / 400v 6 24
+__label__钽电容 , 1 uf / 16v cc3216 a 2 400
+__label__安规电容 , x2 安規 電容 x2474k3 10v 225l4jf x2 電容 474p k% 3 10v p 22.5 mm 剪腳 4mm 26.5 * 19 * 10 2000
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a4yc102kat2a w2a4yc102kat2a 电容器 阵列 网络 1000pf 16v 10%
+__label__云母电容 , min02 002ec201j tf min02 002ec201j tf nd cap mica 200pf 5% 300v smd
+__label__无源晶体振荡器 , 2076 uxo 124b 晶振 crystal dip 4pin osc 16.2570 mhz uni 5
+__label__直插电解电容 , 18736 wlr103m0jldbr 電解 電容 10000 uf 6.3 v 20% 105 18x30mm jamicon 100
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a4yc103m4t2a w3a4yc103m4t2a 电容器 阵列 网络 16v olts 0.01 uf 20% 0612 x7r 4caps
+__label__NTC热敏电阻 , ntc mf51b222f3470 mf51b222f3470 nd thermistor ntc 2.2 kohm bead
+__label__无源晶体振荡器 , 42 晶振 x1 smd3225 射频 12.8 mhz 10ppm 4 1 100
+__label__直插电解电容 , electrolytic capacit ecd4u7 50v 0407j ec dip 4.7 uf 50v 4 * 7mm lmk4r7m 50v v47 2000
+__label__排阻 , r28 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 87.75 32.25 90
+__label__电容器阵列与网络 , w3a43c103mat2a w3a43c103mat2a 电容器 阵列 网络 25volts 0.01 uf 20% 0612 x7r 4caps
+__label__氧化铌电容 , nosv477m006s0075 nosv477m006s0075 nd cap niob oxi 470 uf 20% 6.3 v 2924
+__label__绕线电阻 , 电阻 ewwr0006j3k50t9 3.50 k ω 3k50 ± 5% 6w 3.5 k
+__label__压敏电阻 , varistor cnr271kd07 突波 吸收器 270v 7 ψ cnr 1000
+__label__金属膜电阻 , 56k 1 / 4w 1% metal film 0.114 3 0.114 271 56k rc xicon 271 56k quantity needed 3 271 56k rc 3
+__label__氧化铌电容 , nosv477m006r0075 478 3253 1 nd cap niob oxi 470 uf 20% 6.3 v 2924
+__label__圆柱体晶振 , 508 06a2010 6.0 m20pf ± 10ppm 80 ω 圆柱 晶体 / 圆柱体 晶振 ju3 * 8 ju3 * 8
+__label__圆柱体晶振 , k26135602020 13.560 mhz 20pf 20ppm radial 2x6mm
+__label__NTC热敏电阻 , ntc b57221v2472j060 b57221v2472j060 nd therm ntc 4.7 kohm 3940k 0402
+__label__无源晶体振荡器 , crystal hc 49us smd 27.000 mhz / 20pf ± 20ppm 1 bulk 5000 rcw shenzhen sctf hc 49smd smh27.000 f2020e30 0.02 0.02
+__label__绕线电阻 , 电阻 ewwr0003j4r00t9 4 ω 4r00 ± 5% 3w
+__label__排阻 , 排列 電阻 ar6p3rg10k 排阻 6p3r 2% 10k 9000
+__label__电容器阵列与网络 , w2l14z105mat1s w2l14z105mat1s 电容器 阵列 网络 4volts 1.0 uf 20% x7s 0508
+__label__贴片电感 , 15 inductor 0603 27nh fn 126 5468 pc 10.0
+__label__PTC热敏电阻 , ptc b59721a0130a062 495 4316 2 nd thermistor ptc 680 ohm 50% 0805
+__label__无源晶体振荡器 , y1 1 y xtal 6mhz 18pf 50ppm 70esr 7x5mm abracon llc abmm 6.000 mhz b2 t
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 1300pf ± 5% 500v 云母 55 ° c 150 ° c 通孔 / 引线 间距 0.350 8.90 mm / 0.661 x0.220 16.80 mmx5.60 mm 0.520 13.20 mm
+__label__直插电解电容 , 100 uf 50v cpol use2.5 7 e2 5 7 c61 c62 c63 c64 100 uf 50v 8 * 11.5 polarized capacitor american symbol 50pk100mefc8 * 11.5 2000.0 40.0 0.3 lc lc
+__label__NTC热敏电阻 , rb204r0j rb204r0j nd therm ntc 200kohm 4250k 0603
+__label__贴片电解电容 , electrolytic capacit ecs47u 50v 6377sw ec smd 47 uf 50v 6.3 * 7.7 mm 85 samwha sc1h476m6l07kvr 1800
+__label__采样电阻 , 3 r30 r31 r57 res smd 0.39 ohm 1% 1 / 4w 1206 erj 8rqfr39v 3000.0
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a45a271kat2a w2a45a271kat2a 电容器 阵列 网络 50v 270pf 10% tol
+__label__排阻 , 排列 電阻 ar8p4rg100r 排阻 8p4r 2% 100r 2000
+__label__PTC热敏电阻 , ptcsl20t071dbe 238167191102 nd thermistor ptc 100 ohm radial
+__label__绕线电阻 , rws01j4r70a520nh 4.7 1w ± 5% 4.7 ω 4r7
+__label__贴片电感 , inductor 3.3 nh unshielded multilayer inductor 130 mohm max 0805 aimc 0805 3n3s t 100 nbsu
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 220pf ± 1% 500v 云母 55 ° c 150 ° c 通孔 / 引线 间距 0.150 3.80 mm / 0.390 x0.220 9.90 mmx5.60 mm 0.382 9.70 mm
+__label__贴片电感 , l5 lqm21fn100m70l fixed ind 10uh 100ma 600 mohm chip inductor 0805 10.0 uh 1 sunlord 5000 lqm21fn100m70l 6000 0.0434 10 15days moq 3000 arrow
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca064x222k2racauto ca064x222k2racauto 电容器 阵列 网络 200volts 0022 uf 10% x7r auto
+__label__NTC热敏电阻 , ncp03wf333j05rl 490 4647 6 nd thermistor ntc 33kohm 4250k 0201
+__label__NTC热敏电阻 , ntc nc20mc0102kba nc20mc0102kba nd thermistor ntc 1kohm 3910k 1206
+__label__PTC热敏电阻 , ptc ygm1 c509 317 1111 nd thermistor ptc 250 ohm 10% rad
+__label__功率电感 , ind smd power 3u3 48a isat dcr 0r00165 srf 40mhz pbf l1 coilcraft inc ser2915l 332kl
+__label__PTC热敏电阻 , ptc tfpt0603l2200fz tfpt0603l2200fz nd thermistor ptc 220 ohm 1% 0603
+__label__PTC热敏电阻 , tfpt0603l5600jz tfpt0603l5600jz nd thermistor ptc 560 ohm 5% 0603
+__label__绕线电阻 , ewwr0010j3k00t9 3k ω 3k00 ± 5% 10w
+__label__电容器阵列与网络 , w2l1zc334mat1a w2l1zc334mat1a 电容器 阵列 网络 x7r 1 terminal 330000pf
+__label__PTC热敏电阻 , ptc tfpt0603l4700jv tfpt0603l4700jv nd thermistor ptc 470 ohm 5% 0603
+__label__PTC热敏电阻 , kty82 / 120 215 568 12307 2 nd thermistor ptc 1k ohm to236ab
+__label__金属膜电阻 , 100r 1 / 4w 1% metal film 0.114 1 0.342 271 100 rc xicon 271 100 quantity needed 1 271 100 rc 1
+__label__氧化铌电容 , nojy227m002rwj nojy227m002rwj nd cap niob oxi 220 uf 20% 2.5 v 2917
+__label__贴片电感 , smd inductors 0603 size 3.9 nh 36501j3n9jtdg
+__label__绕线电阻 , 电阻 ewwr0010j68r0t9 68 ω 68r0 ± 5% 10w
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 6pf ± 0.5 pf 500v 云母 55 ° c 150 ° c 通孔 / 引线 间距 0.150 3.80 mm / 0.358 x0.189 9.10 mmx4.80 mm 0.331 8.40 mm
+__label__NTC热敏电阻 , ntc nths0402n04n3503je 541 1098 6 nd therm ntc 350kohm 4247k 0402
+__label__绕线电阻 , ewwr0006j2r20t9 2.2 ω 2r20 ± 5% 6w
+__label__贴片电感 , smd inductors 0603 size 12nh 36501j012jtdg
+__label__高压电阻 , rn 1 / 2w 360k ω ± 2% t 360k 1 / 2w ± 2% 灰漆
+__label__无源晶体振荡器 , 18642 6v27000020 crystal 晶振 smd 27mhz 18pf 6x4x1mm txc 800
+__label__电容器阵列与网络 , w2a4yc104kat2f w2a4yc104kat2f 电容器 阵列 网络 16v olts 0.1 uf 10% x7r 0508 size
+__label__钽电容 , tpme227m016r0025 1 cap tan 220 uf / 20% 16v 40mohm 7343 43 tan7343 43
+__label__无源晶体振荡器 , 无源 晶振 32.768 khz ± 20ppm 12.5 pf 0 mc 146
+__label__安规电容 , y2 電容 y2681k2 50v x7r1808 y2 電容 1808 681p k% 2 50v x7r fk08x681k502efg 1970
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 62pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.142 3.60 mm / 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+__label__直插电解电容 , c227 c234 c241 c250 c259 radial cap alum 180 uf 25v 20% radial eeu fc1e181 capprd350w60d820h1170p p11217 nd 0.48 0.2
+__label__氧化铌电容 , nosd157m006r0070 478 3248 6 nd cap niob oxi 150 uf 20% 6.3 v 2917
+__label__NTC热敏电阻 , ntc 135 105qaf j01 135 105qaf j01 nd thermistor ntc 1mohm 4261k do35
+__label__NTC热敏电阻 , ntc nths0805n01n1502ku nths0805n01n1502ku nd thermistor ntc 15kohm 3964k 0805
+__label__功率电感 , inductors ind 10uh 1 ihlp2525czer100m01 smd 0.2
+__label__PTC热敏电阻 , ptc ptfl04bd471q2n34b0 490 7076 nd thermistor ptc 470 ohm disc
+__label__可调电容 , capacitor trim cap trim 9.8 50pf jaycar rv5720
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 180pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.150 3.80 mm / 0.382 x0.209 9.70 mmx5.30 mm 0.370 9.40 mm
+__label__NTC热敏电阻 , ntc ntcs0603e3104hxt bc2291ct nd ntc thermistor 100k 0603 1608 metric
+__label__PTC热敏电阻 , b59601a0135a062 495 2414 2 nd thermistor ptc 470 ohm 50% 0603
+__label__NTC热敏电阻 , ntc b57411v2221j62 495 3074 1 nd thermistor ntc 220ohm 3500k 0805
+__label__NTC热敏电阻 , ntc ncp15xm472e03rc 490 11808 6 nd therm ntc 4.7 kohm 3500k 0402
+__label__氧化铌电容 , nojf227m004rwj nojf227m004rwj nd cap niob oxide 220 uf 20% 4v 2312
+__label__直插电解电容 , electrolytic capacit ecd100u 16v 0511j ec dip 100 uf 16v 5 * 11mm lhk101m 16v v511 1000
+__label__氧化铌电容 , noja475m006rwj 478 3213 2 nd 4.7 ¦ ì f niobium oxide capacitor 6.3 v 1206 3216 metric 3.2 ohm
+__label__贴片电感 , 贴片 电感 33uh ± 10% rh104 33uh l10x10x4 inductor 2
+__label__排阻 , 排列 電阻 ar9p8rg1k 排阻 9p8r 2% 1k 2000
+__label__贴片电感 , inductance 100nh 805 0.05 ce201210 r10j ce201210 r10j 0.027 4000 / reel 8k 7 10days 90k 左右
+__label__电容器阵列与网络 , w3a45a221j4t2a w3a45a221j4t2a 电容器 阵列 网络 50v olts 220pf 5% 0612 c0g 4caps
+__label__有源晶体振荡器 , 50 crystal osc 25mhz osc fn 127 6647 pc 10.0 lfspxo025165 iqd frequency products
+__label__绕线电阻 , 电阻 knp2w 10 ω ± 5% t 2w 10 10 ω 100 ± 5%
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd15 电容 5pf ± 0.5 pf 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.232 5.90 mm / 0.449 x0.169 11.40 mmx4.30 mm 0.358 9.10 mm
+__label__绕线电阻 , 电阻 50w 680 ω ± 5% ± 5% 680 50w 680 ω 681 ± 5%
+__label__PTC热敏电阻 , ptc tfpt0805l1001fv 541 1172 6 nd thermistor ptc 1k ohm 1% 0805
+__label__NTC热敏电阻 , ntc rl1004 65.6 59 d1 kc001n nd ntc thermistor 100 圆 片式 2.8 mm x 3.0 mm
+__label__绕线电阻 , ewwr0006j2r00t9 2 ω 2r00 ± 5% 6w
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcm25c0g1h330k060aa ckcm25c0g1h330k060aa 电容器 阵列 网络 0504 50v 33pf c0g 10% 2 n 1
+__label__贴片电解电容 , cap alum poly 100 uf 25v 20% smd c1 1 united chemi con hhxb250ara101mf80g / / / product detail / en / united chemi con / hhxb250ara101mf80g / 565 4179 1 nd / 4915554 5000 10000
+__label__PTC热敏电阻 , b59701a0090a062 495 2608 1 nd thermistor ptc 680 ohm 50% 0805
+__label__PTC热敏电阻 , ptc ptfl04bf471q2n34b0 490 7078 nd thermistor ptc 470 ohm disc
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a43c471kat2f w2a43c471kat2f 电容器 阵列 网络 470pf 25v 10%
+__label__贴片电解电容 , 22 uf / 16v rvt 20
+__label__排阻 , 排列 電阻 ar8p4rg510r 排阻 8p4r 2% 510r 1000
+__label__圆柱体晶振 , tdxlf 206 32.768 khz 12.5 pf 20ppm tdxlf radial 2x6mm
+__label__PTC热敏电阻 , ptc lt7330002a3k0jte a106103dkr nd thermistor ptc 3k ohm 5% 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcm25c0g1h220k060aa ckcm25c0g1h220k060aa 电容器 阵列 网络 0504 50v 22pf c0g 10% 2 n 1
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd10 电容 130pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.142 3.60 mm / 0.382 x0.201 9.70 mmx5.10 mm 0.358 9.10 mm
+__label__绕线电阻 , 电阻 ewwr0010j33r0t9 33 ω 33r0 ± 5% 10w
+__label__NTC热敏电阻 , ncp15xw153j03rc 490 2422 2 nd thermistor ntc 15kohm 3950k 0402
+__label__直插电解电容 , dip 220 uf / 25v / 11 * 6mm 20000
+__label__电容器阵列与网络 , ca064c100k5gactu ca064c100k5gactu 电容器 阵列 网络 50v olts 10pf c0g 10%
+__label__绕线电阻 , 电阻 ewwr0008j470rt9 470 ω 470r ± 5% 8w
+__label__PTC热敏电阻 , ptc ptcsl03t131dt1e bc2969tr nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+__label__氧化铌电容 , nosd107m006r0100 478 1829 6 nd cap niob oxi 100 uf 20% 6.3 v 2917
+__label__排阻 , 排列 電阻 ar6p3rg100k 排阻 6p3r 2% 100k 11000
+__label__氧化铌电容 , nosb336m004r0600 nosb336m004r0600 nd cap niob oxide 33 uf 20% 4v 1210
+__label__NTC热敏电阻 , ntc abntc 0603 472j 3500f t 535 12844 1 nd therm ntc 4.7 kohm 3500k 0603
+__label__PTC热敏电阻 , ptc ptcsl03t111dt1e bc2967tr nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+__label__氧化铌电容 , nosv477m006r0075 478 3253 6 nd cap niob oxi 470 uf 20% 6.3 v 2924
+__label__电容器阵列与网络 , ckcl44jb1h102m085aa ckcl44jb1h102m085aa 电容器 阵列 网络 0805 50v 1000pf jb 20% 4 n 1
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 180pf ± 1% 100v 云母 55 ° c 125 ° c 贴装 / 1210 3225 引线 间距 rf q / 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+__label__绕线电阻 , ewwr0008j3k00t9 8w ± 5% 3k 3k ω 3k00 ± 5%
+__label__薄膜电容 , capacitor capa 103j 63v p 10 jimson capa 103j 63v p 10 1
+__label__绕线电阻 , 电阻 ewwr0010j22r0t9 22 ω 22r0 ± 5% 10w
+__label__NTC热敏电阻 , ntc ncp15wm474e03rc 490 8454 6 nd therm ntc 470kohm 4500k 0402
+__label__氧化铌电容 , nosd337m004r0100 478 1830 1 nd 330 ¦ ì f niobium oxide capacitor 4v 2917 7343 metric 100 mohm
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a43c332kat2a w2a43c332kat2a 电容器 阵列 网络 25volts 3300pf 10% 0508 x7r 4caps
+__label__直插通孔电阻 , 直插 电阻 1 r12 1 47k axial0.8 2w
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a4zc104m4t2a w2a4zc104m4t2a 电容器 阵列 网络 10v olts 0.1 uf 20% 0508 x7r 4caps
+__label__薄膜电容 , phe844rd6470mr06l2 cap film 0.47 uf 20% 440v radial 183 1.14 8 14days
+__label__直插电解电容 , 直插 电容 c9 1 47 uf / 400v ￠ 18 * 21
+__label__贴片高精密-低温漂电阻 , 12 精密 贴片 电阻 17k4 0.1% 603 2 r32 33 1.0
+__label__钽电容 , 19078 593d227x06r3e2t 鉭 電容 e case 220 uf 6.3 v 20% sprague 1150
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a41a330kat2a w3a41a330kat2a 电容器 阵列 网络 100volts 33pf 10% 4cap npo
+__label__PTC热敏电阻 , ptc b59641a0095a062 495 4304 1 nd thermistor ptc 470 ohm 50% 0603
+__label__贴片高精密-低温漂电阻 , 51k * 0.1% 0.125 w 25ppm r21 r33 0805r 2.0
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl22ch1h151k085aa ckcl22ch1h151k085aa 电容器 阵列 网络 0805 50v 150pf ch 10% 2 n 1
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a41a220j4t2a w3a41a220j4t2a 电容器 阵列 网络 100v 22pf 5% tol
+__label__金属膜电阻 , 270r 1 / 4w 1% metal film 0.114 1 0.114 271 270 rc xicon 271 270 quantity needed 1 271 270 rc 1
+__label__PTC热敏电阻 , tfpt1206l6801fv 541 1196 2 nd thermistor ptc 6.8 k ohm 1% 1206
+__label__薄膜电容 , capacitor capa 104 j100 mkt p 5mm jimson capa 104 j100 mkt p 5mm c25 c32 c28 x x 5
+__label__排阻 , 排列 電阻 ar10p9rg2k 排阻 10p9r 2% 2k 6800
+__label__贴片高精密-低温漂电阻 , at0402br 0710kl ± 0.1% 1 / 16 0402 1
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde mc 电容 6pf ± 0.5 pf 100v 云母 55 ° c 125 ° c 贴装 / 0805 2012 引线 间距 rf q / 0.079 x0.049 2.00 mmx1.25 mm 度 最大 0.055 1.40 mm
+__label__NTC热敏电阻 , ntc dc103j2k dc103j2k nd thermistor ntc 10kohm 3892k bead
+__label__钽电容 , 10 uf a cap tant 10 uf 20% 16v a 6.0 6000 60000 cap tant 10 uf 20% 16v a
+__label__水泥电阻 , cr l10w 5 ω j 10w 5 ω ± 5% axial
+__label__钽电容 , 51 capacitor tan 10v 100 uf 20% 6032 smd xrca45107m010cr ningxia xingri co ltd 62000
+__label__NTC热敏电阻 , ntc nths0402n02n1002je 541 1096 1 nd thermistor ntc 10kohm 3477k 0402
+__label__PTC热敏电阻 , ptc b59810t1120a62 b59810t1120a62 nd thermistor ptc 10 ohm 20% 4smd
+__label__贴片电感 , l3 fixed ind 1nh 1a 70 mohm smd lqg15hs1n0s02d 1000 1 1000
+__label__电容器阵列与网络 , w2a41a470kat2a w2a41a470kat2a 电容器 阵列 网络 100volts 47pf 10% 4cap npo
+__label__贴片电解电容 , 18419 eeefk0j101p 電解 電容 cap alum 100 uf 6.3 v 20% smd 1840
+__label__碳膜电阻 , р р cfr resistor chip 1w 120 / 5% mf 100 100 o cfr 100 dip 2 200 直插 电阻 1w 120r 5%
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl22c0g1h151k085aa ckcl22c0g1h151k085aa 电容器 阵列 网络 0805 50v 150pf c0g 10% 2 n 1
+__label__无源晶体振荡器 , 16353 hc 49 晶振 crystal smd 2p 24.576 mhz mec 280
+__label__电容器阵列与网络 , 电容器 阵列 网络 20105d1x104k5p 20105d1x104k5p 电容器 阵列 网络 5pin 1 uf 10% 50v olts x7r
+__label__云母电容 , cdv19ff751jo3f cdv19ff751jo3f nd cap mica 750pf 5% 1kv radial
+__label__圆柱体晶振 , cfv206 40.003 kdzf 40.003 khz 12.5 pf radial 2x6mm
+__label__安规电容 , y2 電容 y2472m300vy5v75 y2 安規 陶瓷 電容 472p m% 300v y5v p 7.5 mm 4000
+__label__薄膜电容 , 2 c7 c8 220nf film capacitor 305v polypropylene radial 0.709 l x 0.276 w 18.00 mm x 7.00 mm b32922c3224m 2000
+__label__可调电容 , capacitor trim cap trim 6.8 40pf jaycar rv5718
+__label__贴片电感 , 6.8 uh inductor 6.8 uh dcr 46.8 mohm ihlp2525czer6r8m11 2020.0
+__label__绕线电阻 , ewwr0008jr750t9 8w ± 5% 0.75 0.75 ω r750 ± 5%
+__label__云母电容 , cd19fd112go3 cd19fd112go3 nd cap mica 1100pf 2% 500v radial
+__label__安装型大容量电容 , 15839 電解 電容 牛角 電容 hs vent 2 pin 180 uf 400v 105 25x36mm capxon 8
+__label__NTC热敏电阻 , ntcds3sg104gc4nb 445 4829 nd therm ntc 100kohm 3850k do35
+__label__贴片电解电容 , 220 uf / 16v rvt 80
+__label__PTC热敏电阻 , ptc ptft0805l0030jv ptft0805l0030jv nd thermistor ptc 3 ohm 5% 0805
+__label__排阻 , 排列 電阻 cra034rj100rp05 smd 排阻 0603 * 4 8p4r 5% 100r 15000
+__label__PTC热敏电阻 , ptc tfpt0805l2201fm tfpt0805l2201fm nd thermistor ptc 2.2 k ohm 1% 0805
+__label__功率电感 , 10 * 10 * 4.5 100uh 2a 105
+__label__钽电容 , 399 4009 1 nd kemet va t520b107m006ate070 capacitor tant 100 uf 6.3 v 20% smd 48 399 4009 1 nd capacitor tant 100 uf 6.3 v 20% smd 0.972
+__label__PTC热敏电阻 , ptc b59811c0135a070 495 76375 nd thermistor ptc 2.6 ohm 25% disc
+__label__碳膜电阻 , 碳膜 电阻 75k ω 1 / 8w smd 0805 1 r7
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a45c222kat2a w3a45c222kat2a 电容器 阵列 网络 2200pf 50v 10%
+__label__NTC热敏电阻 , ntc nhq501b325t5 nhq501b325t5 nd thermistor ntc 500ohm 3250k 1206
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 10pf ± 0.5 pf 1kv 云母 55 ° c 125 ° c 贴装型 / 1210 3225 引线 间距 rf q / 0.126 x0.098 3.20 mmx2.50 mm 度 最大 0.079 2.00 mm
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 470pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.232 5.90 mm / 0.469 x0.220 11.90 mmx5.60 mm 0.402 10.20 mm
+__label__薄膜电容 , 18104 cbb65 400vac 50 uf 薄膜 容器 50 uf 400v 60x100mm xiamen faratronic 18
+__label__PTC热敏电阻 , ptc tfpt1206l8201km tfpt1206l8201km nd thermistor ptc 8.2 k ohm 10% 1206
+__label__绕线电阻 , 电阻 1300w 130 ω ± 10% ± 10% 1300w 130 ω 131
+__label__直插电解电容 , cap alum 82 uf 20% 400v radial upt2g820mhd upt2g820mhd
+__label__有源晶体振荡器 , 有源 晶振 1 2520 50mhz 3.3 v 1000
+__label__铝壳大功率电阻 , 56 1 e014206 res hi power thick film chip 0 r1206 1 / 2w r64 crcw12060000z0eahp rel
+__label__贴片电解电容 , 1000 uf / 16v rvt 30
+__label__氧化铌电容 , nojs106m004rwj 478 5844 6 nd cap niob oxide 10 uf 20% 4v 1206
+__label__贴片电容 , 470 uf 16v ± 20% syk 8mm * 10.5 mm 500.0 1500.0
+__label__NTC热敏电阻 , ntc es120 0029 480 6366 nd thermistor ntc 2kohm probe
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43x7r1h223m100aa ckca43x7r1h223m100aa 电容器 阵列 网络 1206 50v 0.022 uf x7r 20% 4 n 1
+__label__氧化铌电容 , nojt156m004rwj 478 3204 2 nd cap niob oxide 15 uf 20% 4v 1210
+__label__绕线电阻 , 电阻 ewwr0006j5r00t9 6w ± 5% 5 ω 5r00 ± 5%
+__label__NTC热敏电阻 , ntc ntcs0805e3103fmt bc2558dkr nd thermistor ntc 10kohm 3570k 0805
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd5 电容 15pf ± 0.5 pf 300v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.118 3.00 mm / 0.272 x0.118 6.90 mmx3.00 mm 0.189 4.80 mm
+__label__圆柱体晶振 , cfs 20632768ezfb 32.768 khz 12.5 pf ¡ à 10ppm 袋
+__label__PTC热敏电阻 , ptc tfpt1206l1200fv tfpt1206l1200fv nd thermistor ptc 120 ohm 1% 1206
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a45c102kat2a w2a45c102kat2a 电容器 阵列 网络 50v olts 1000pf 10% 0508 x7r 4caps
+__label__贴片电感 , ind fxd 300nh 2a ferrite bead lp2 pulse magnetic power p71701044 900 p71701044 pulse 1
+__label__排阻 , r17 res pack 0402 smd 4 75r ± 5% res pack exb28v alt top res array 75 ohm 5% 4 res smd ecg exb 28v750jx y7750ct nd 72.75 55.25 180
+__label__氧化铌电容 , nosa106m006r1000 478 8867 1 nd cap niob oxide 10 uf 6.3 v 1206
+__label__高压电阻 , mhr0422sa107f20 100m ± 1% 100m ω 1006
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a4yc102mat2a w3a4yc102mat2a 电容器 阵列 网络 1000pf 16v 20%
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca0612jrnpo9bn470 ca0612jrnpo9bn470 电容器 阵列 网络 47pf 50v npo 5%
+__label__有源晶体振荡器 , sit8208ai 33 33e 33.333333 t sitime osc 33.3333 m 有源 晶振 3.3 v 33.3333 m 4pin 5x3.2 mm osc smd5x3.2 2 8
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl44x5r1h102m085aa ckcl44x5r1h102m085aa 电容器 阵列 网络 0805 50v 0.001 uf x5r 20% 4 n 1
+__label__氧化铌电容 , nojt476m002rwj nojt476m002rwj nd cap niob oxid 47 uf 20% 2.5 v 1210
+__label__NTC热敏电阻 , ncp03wf333j05rl 490 4647 1 nd thermistor ntc 33kohm 4250k 0201
+__label__无源晶体振荡器 , 24mhz crystal 24mhz 9pf osc1 tsx 3225 24.0000 mf20g ac3 1
+__label__绕线电阻 , 电阻 nws03j4r70a750nh 4.7 ω 4r7 4.7 ± 5% 3w
+__label__PTC热敏电阻 , b59102r0130a010 495 76342 nd thermistor ptc 700 ohm 50% rect
+__label__NTC热敏电阻 , ntc nc20mc0102jba nc20mc0102jba nd thermistor ntc 1kohm 3910k 1206
+__label__绕线电阻 , 电阻 ewwr0006j2k70t9 2.70 k ω 2k70 ± 5% 6w 2.7 k
+__label__绕线电阻 , nknp5ws 0.08 ω ± 5% f 上脚 漆 0.08 上脚 漆 ± 5% 0.08 ω r08 5w 上脚 漆
+__label__高压电阻 , hr1206j100rp05z 100 ± 5% 500v 1 / 4w 100 ω 101
+__label__PTC热敏电阻 , b59603b1120b157 b59603b1120b157 nd thermistor ptc 470 ohm 50% rad
+__label__PTC热敏电阻 , ptc b59601a0125a062 495 2413 2 nd thermistor ptc 470 ohm 50% 0603
+__label__NTC热敏电阻 , nths0805n11n1502ke nths0805n11n1502ke nd thermistor ntc 15kohm 3700k 0805
+__label__金属膜电阻 , 1k5 1 / 4w 1% metal film 0.114 1 0.114 271 1.5 k rc xicon 271 1.5 k quantity needed 1 271 1.5 k rc 1
+__label__NTC热敏电阻 , ntc rl3004 46.8 73 d1 rl3004 46.8 73 d1 nd thermistor ntc 75ohm 3772k disc
+__label__绕线电阻 , nws01jr470a520nh 1w 0.47 ω r47 ± 5% 0.47
+__label__金属氧化膜电阻 , 金属 氧化膜 电阻 300k / 3w 插件 r2 r3 1000
+__label__直插电解电容 , 680 uf 16x25 cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a4yc473kat2a w2a4yc473kat2a 电容器 阵列 网络 16v olts 0.047 uf 10% 4cap x7r
+__label__氧化铌电容 , nojc686m006rwj 478 3218 6 nd cap niob oxid 68 uf 20% 6.3 v 2312
+__label__PTC热敏电阻 , ptc b59008c0090a040 b59008c0090a040 nd thermistor ptc 250 ohm radial
+__label__高压电阻 , hpc1 / 2ct52a102k ± 10% 1k ω 102
+__label__无源晶体振荡器 , y2 32.768 khz crystal 32.768 khz 12.5 pf smd citizen finedevice cm2012h32768dzft digi key 300 8818 1 nd 2 smd 2012 xtal205x120x60 2n 40 ° c 85 ° c
+__label__氧化铌电容 , noje477m006rwj noje477m006rwj nd cap niob oxi 470 uf 20% 6.3 v 2917
+__label__PTC热敏电阻 , tfpt1206l1001fy tfpt1206l1001fy nd thermistor ptc 1k ohm 1% 1206
+__label__贴片高精密-低温漂电阻 , 2 精密 贴片 电阻 68r 0.1% 603 1 r29 1.0
+__label__贴片电感 , 1 l1 15nh smd 0603 0.1 20000
+__label__钽电容 , tantalum capacitor case size y esr 0.1 68 uf / 10v tpsy686k0100r0100
+__label__功率电感 , 28 l1 l2 ind 3.3 uh shielded 5.5 a smt 7.6 x7.6 mm dr74 3r3 r cooper bussmann smd 4 8 2 200 200
+__label__绕线电阻 , 电阻 ewwr0006j33r0t9 33 ω 33r0 ± 5% 6w
+__label__贴片电解电容 , 贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0 3000.0
+__label__电容器阵列与网络 , w3a43c331kat2a w3a43c331kat2a 电容器 阵列 网络 25volts 330pf 10% 0612 x7r 4caps
+__label__贴片电解电容 , sanyo 贴片 铝 电解电容 10 uf / 50v smd 6.3 1k 1800 1660
+__label__绕线电阻 , 电阻 nws01jr100a520nh 0.1 1w 0.1 ω r10 ± 5%
+__label__贴片电感 , 94 贴片 电感 100uh 0805 1 4
+__label__直插电解电容 , 10 uf 50v c13 1 miniature aluminum electrolytic capacitor ekmg250ell470me11d nippon chemi con
+__label__PTC热敏电阻 , tfpt0805l3301jv 541 1182 6 nd thermistor ptc 3.3 k ohm 5% 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43c0g1h150k100aa ckca43c0g1h150k100aa 电容器 阵列 网络 1206 50v 15pf c0g 10% 4 n 1
+__label__电容器阵列与网络 , 电容器 阵列 网络 20108d1x103k5p 20108d1x103k5p 电容器 阵列 网络 01 uf 8p / 7caps 10%
+__label__PTC热敏电阻 , ptc prf18bc471qb5rb 490 8500 6 nd thermistor ptc 470 ohm 50% 0603
+__label__NTC热敏电阻 , ntc nhq474b435t10 nhq474b435t10 nd therm ntc 470kohm 4350k 1206
+__label__薄膜电容 , b32652a4104j189 0.1 uf 400v polypropylene film capacitor c25 0.1 uf 400v 0.1 uf 400v 1 200
+__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
+__label__钽电容 , 贴片 钽电容 smd tantalum cap 1.0 100 uf 10v 20% 2413 tajc107m010rnj 5636.0 100 uf 107 ± 20% 10v tajc107m010rnj case c 6032
+__label__贴片电感 , mlp2520s2r2mt0s1 2u2 2000 mlp2520s2r2mt0s1 mlp2520s2r2mt0s1 2000 0.1538 10 15days arrow
+__label__氧化铌电容 , nosc686m006s0200 478 7518 6 nd cap niob oxid 68 uf 20% 6.3 v 2312
+__label__PTC热敏电阻 , ptc b59604a85a62 b59604a85a62 nd thermistor ptc 470 ohm 50% 0603
+__label__钽电容 , 钽电容 22 uf 16v 0.2 c212 1 c th3c226m016e1000 70
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 47pf ± 5% 50v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.118 3.00 mm / 0.272 x0.118 6.90 mmx3.00 mm 0.189 4.80 mm
+__label__薄膜电容 , 15806 ca4hxb684k 金屬 化膜 電容 ppn dip 2pin 0.68 uf mfd 400v ± 10% 191
+__label__绕线电阻 , 电阻 ewwr0010j350rt9 350 ω 350r ± 5% 10w
+__label__电容器阵列与网络 , w2a4zc104m4t4a w2a4zc104m4t4a 电容器 阵列 网络 10v 1 uf 10% tol
+__label__薄膜电容 , 16969 金屬 膜 電容 pps 104pf 1000v ± 5% 1400
+__label__绕线电阻 , 电阻 ewwr0001j330rt9 330 1w ± 5% ± 5% 330 ω 330r
+__label__超级电容器 , 118 cap super 0.47 f 5.5 vdc thd eecs5r5h474 matsushita 4000
+__label__NTC热敏电阻 , ntc b57621c154m162 b57621c154m162 nd therm ntc 150kohm 4120k 1206
+__label__绕线电阻 , 电阻 ewwr0003jr250t9 0.25 ω r250 ± 5% 3w
+__label__圆柱体晶振 , 1tc125dfns019 / dt 38 12.5 pf 32.768 k 20ppm radial 3x8mm
+__label__绕线电阻 , 电阻 nknp2w 0.2 ω ± 5% t 0.2 2w 0.2 ω r20 ± 5%
+__label__PTC热敏电阻 , ptc tfpt0805l4700fv 541 1185 2 nd ptc thermistor 470 ohms 0805 2125 metric
+__label__直插电解电容 , 18440 電解 電容 47 uf 16v 105 ° c 5x11mm nichicon 3132
+__label__绕线电阻 , ewwr0008j220rt9 220 ω 220r ± 5% 8w
+__label__安装型大容量电容 , 18710 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 85 25x40mm jamicon 3
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca064x103k2ractu ca064x103k2ractu 电容器 阵列 网络 200votls 01 uf 10% x7r
+__label__PTC热敏电阻 , ptc b59880c0120a570 b59880c0120a570 nd thermistor ptc 70 ohm 25% radial
+__label__PTC热敏电阻 , ptc b59300m1090a70 b59300m1090a70 nd thermistor ptc 300 ohm radial
+__label__氧化铌电容 , nosv477m006r0075 478 3253 2 nd cap niob oxi 470 uf 20% 6.3 v 2924
+__label__直插瓷片电容 , 10nf / 1kv 高压 瓷片 电容 c1 c2 c4 ax 5p 7d 3.0 / 京瓷
+__label__无源晶体振荡器 , 无源 晶振 12.288 mhz 49smd 1 200 12.288 mhz 49smd 无源 晶振 yxc 200 0.356 lc
+__label__PTC热敏电阻 , tfpt0805l1001jv 541 1173 1 nd ptc thermistor 1 kohms 0805 2125 metric
+__label__NTC热敏电阻 , rth1 ntc thermistor 10k ohm 1% 0603 ncp18xh103f03rb 1050 1 1000
+__label__直插电解电容 , 2000 capacitor eletrolitico conv 330 uf x 35v 20% dl10x13 105 ∞ c
+__label__钽电容 , c67 captajb 33 uf 33 uf ± 10% rtaj b bottom capacitor case b 33 uf 6.3 v tantalum tajb336k006r fec 197040 82 79 0
+__label__PTC热敏电阻 , ptc b59721a0070a062 495 4310 1 nd thermistor ptc 680 ohm 50% 0805
+__label__NTC热敏电阻 , b57301v2103j060 b57301v2103j060 nd thermistor ntc 10kohm 3590k 0603
+__label__功率电感 , 功率 电感 1.5 uh 1.5 a 20% l3 l 4.0 s 1.0
+__label__贴片电感 , inductor 3.3 nh unshielded multilayer inductor 130 mohm max 0805 aimc 0805 3n3s t 100 nbsu
+__label__安装型大容量电容 , 15527 電解 電容 牛角 電容 ls vent 2 pin 180 uf 4 50v 85 ° c 30x32mm capxon 10
+__label__NTC热敏电阻 , ntc ncp15xm472e03rc 490 11808 1 nd therm ntc 4.7 kohm 3500k 0402
+__label__PTC热敏电阻 , ptcsl20t131dbe 238167191109 nd thermistor ptc 100 ohm radial
+__label__贴片电解电容 , electrolytic capacit ecs100u 16v 6354pa ec smd 100 uf 16v 6.3 * 5.4 mm 85 pansonic eee1ca101wp s v 4000
+__label__钽电容 , 钽电容 10 uf / 25v 10 uf / 25v ± 10 c / 200 200
+__label__贴片电解电容 , 7 c7 c6 c16 14 贴片 电解电容 47 uf / 25v ecap smd 6d ecap smd 6d 3
+__label__安装型大容量电容 , 15598 電解 電容 牛角 電容 2 pin 150 uf 4 50v 85 25x35mm capxon 6
+__label__PTC热敏电阻 , ptc tfpt0805l1201fv 541 1174 2 nd thermistor ptc 1.2 k ohm 1% 0805
+__label__PTC热敏电阻 , ptc b59805t1080a62 b59805t1080a62 nd thermistor ptc 4.75 ohm 15% 4smd
+__label__薄膜电容 , 214 capacitor film mpet 63v 01 uf 10% thd cl23b 63v 104k / j xiamen faratronic co ltd 37500
+__label__PTC热敏电阻 , ptc tfpt0805l5001fv 541 1201 1 nd ptc thermistor 5 kohms 0805 2125 metric
+__label__高频电感 , l10 3.3 nh fixed ind 3.3 nh 500ma 170 mohm lqp03hq3n3c02d digi key 490 13922 1 nd smd 0201 l0201 55 ° c 125 ° c
+__label__排阻 , 排列 電阻 ar9p8rg220r 排阻 9p8r 2% 220r 4000
+__label__PTC热敏电阻 , b59008c0100a040 b59008c0100a040 nd thermistor ptc 250 ohm radial
+__label__功率电感 , 1 l6 fixed ind 100uh 1.2 a 300 mohm srn8040ta 101m 1000.0
+__label__贴片电解电容 , 贴片 电解电容 c3 smd 100 uf / 50v 100 uf / 50v ± 20% 8 * 10.5 0.268 6.3 * 5.4 lc
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a41c472mat2a w2a41c472mat2a 电容器 阵列 网络 100v 4700pf 10% tol
+__label__直插独石电容 , 直插 dip 独石 电容 100nf / 50v 独石 脚距 5mm 6 1200 100nf / 50v 独石 1200 0.069 插件 p 5.08 mm lc
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 3300pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.343 8.70 mm / 0.681 x0.291 17.30 mmx7.40 mm 0.551 14.00 mm
+__label__直插电解电容 , 10 uf 63v cpol use2 5 6e e2 5 6e c48 10 uf 63v 20% 6.3 * 5.4 polarized capacitor american symbol cs1j100m cre54 1000.0 10.0 0.176 lc lc
+__label__直插电解电容 , 2 c5 c6 150 µ f 4 50v aluminum capacitors radial can 10000 hrs 105 ° c 450bxw150mefc18x45 2000
+__label__绕线电阻 , 电阻 rws03j1000a750nh 100 ω 101 100 ± 5% 3w
+__label__NTC热敏电阻 , 60 ntc 热敏电阻 nct 10d20 直插 2 8
+__label__贴片电感 , 电感 10uh 叠层 0.55 a 1206 smd 1 l6 taiyo yuden
+__label__金属膜电阻 , 7k68 1 / 4w 1% metal film 0.114 1 0.79 660 mf1 / 4cc7681f koa speer mf1 / 4cc7681f quantity needed 1 660 mf1 / 4cc7681f 1
+__label__绕线电阻 , 电阻 ewwr0003j1r00t9 1 ω 1r00 ± 5% 3w
+__label__氧化铌电容 , nosv687m004s0075 nosv687m004s0075 nd cap niob oxide 680 uf 20% 4v 2924
+__label__碳膜电阻 , 碳膜 电阻 200k ω 1 / 4w smd 1206 1 r2
+__label__无源晶体振荡器 , 32.768 khz 321 110
+__label__直插电解电容 , electrolytic capacit ecd22u 50v 0511j ec dip 22 uf 50v 5 * 11mm lhk220m 50v v511 3000
+__label__功率电感 , 236 inductor pw 47uh 20% 11 a smd 744777147 w ü gmbh co kg 4000 jane
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2l14c334mat1a w2l14c334mat1a 电容器 阵列 网络 33 uf 4v 10 a emi filter
+__label__NTC热敏电阻 , ntc mf52c1223f3470 mf52c1223f3470 nd thermistor ntc 22kohm 3470k bead
+__label__直插电解电容 , electrolytic capacit ecd100u25v0611a ec dip 100 uf 25v 6 * 11mm gr10125 2000
+__label__氧化铌电容 , nojc157m006rwj nojc157m006rwj nd cap niob oxi 150 uf 20% 6.3 v 2312
+__label__PTC热敏电阻 , tfpt0805l8200fm tfpt0805l8200fm nd thermistor ptc 820 ohm 1% 0805
+__label__高频电感 , 电感 5.1 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 r5 lqg15hn5n1s02d 电感 5.1 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn5n1s02d 2000 2000 0.0288 lc
+__label__绕线电阻 , 电阻 ewwr0006jr500t9 0.5 ω r500 ± 5% 6w
+__label__钽电容 , 14991 tpsd226m025r0200 鉭 電容 smd 22 uf 25v ± 20% d case 434
+__label__精密可调电阻 , 18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen / gz electron 100
+__label__NTC热敏电阻 , ntc ts3 65c3 317 1103 nd thermistor ntc to51 2 variant
+__label__绕线电阻 , ewwr0006j10r0t9 10 ω 10r0 ± 5% 6w
+__label__贴片电感 , l9 1nh fixed ind 1nh 300ma 120 mohm smd l0402
+__label__功率电感 , l3 15 µ h / 9a fixed ind 15uh 9a 28 mohm smd pa4343.153 nlt pulse corporation 553 3448 1 nd digi key 1
+__label__直插电解电容 , 680 uf 16x25 cap elec 680 uf 20% 63v d 16 d 0.8 f 7.5 1.0 1000 10000
+__label__排阻 , 排列 電阻 cra034rj33rp05 smd 排阻 0603 * 4 8p4r 5% 33r 115000
+__label__NTC热敏电阻 , ntc ntcg104bh103ht1 445 2551 1 nd ntc thermistor 10k 0402 1005 metric
+__label__氧化铌电容 , nose477m004r0075 478 3241 2 nd cap niob oxide 470 uf 20% 4v 2917
+__label__钽电容 , cap tant 47 uf 35v smd 55 to 125 ± 20% kemet t495x476m035ate200 cap7343 43 10 n / m / s / u
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43jb1h223m100aa ckca43jb1h223m100aa 电容器 阵列 网络 1206 50v 0.022 uf jb 20% 4 n 1
+__label__贴片电感 , smd inductors 1210 size 4.7 uh lqh32cn4r7m33l
+__label__绕线电阻 , ewwr0010j1k00t9 10w ± 5% 1k 1k ω 1k00 ± 5%
+__label__电容器阵列与网络 , w2l1zd474mat1s w2l1zd474mat1s 电容器 阵列 网络 0508 0.47 uf 10v olts z5u 20%
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a45c102kat2a w3a45c102kat2a 电容器 阵列 网络 1000pf 50v 10%
+__label__PTC热敏电阻 , ptc ptft0805l1000jw ptft0805l1000jw nd thermistor ptc 100 ohm 5% 0805
+__label__绕线电阻 , 电阻 nknp2ws 0.22 ω ± 5% t 2w 0.22 ± 5% 0.22 ω r22
+__label__直插瓷片电容 , 直插 电容 c13 1 103 1kv
+__label__贴片高精密-低温漂电阻 , 1k * 0.1% 0.1 w 25ppm r19 r32 r24 r37 0805r 4.0
+__label__排阻 , 排列 電阻 yc164jr0710kl smd 排阻 0603 * 4 8p4r 5% 10k 5000
+__label__氧化铌电容 , nojs106m002rwj nojs106m002rwj nd cap niob oxid 10 uf 20% 2.5 v 1206
+__label__钽电容 , c14 captaja 4 7 uf 4.7 uf ± 10% rtaj a top capacitor case a 4.7 uf 10v tantalum taja475k010r fec 498658 105 88.5 0
+__label__安装型大容量电容 , 18677 lsw392m2cq60m 電解 電容 牛角 電容 2 pin 3900 uf 160v 20% 85 35x60mm jamicon 10
+__label__水泥电阻 , cr l15w10 ω j ± 5% 10 ω 100 10 15w axial
+__label__电容器阵列与网络 , ca0612krnpo9bn330 ca0612krnpo9bn330 电容器 阵列 网络 33pf 50v npo 10%
+__label__绕线电阻 , 电阻 ewwr0010jr500t9 0.5 ω r500 ± 5% 10w
+__label__绕线电阻 , 电阻 ewwr0006j3r00t9 3 ω 3r00 ± 5% 6w
+__label__高压电阻 , hr2512f240ke04 240k ω 2403 ± 1% 1w 240k 800v
+__label__金属膜电阻 , 11k 1 / 4w 1% metal film 0.114 1 0.114 271 11k rc xicon 271 11k quantity needed 1 271 11k rc 1
+__label__贴片电解电容 , 贴片 铝电 220 uf 35v ± 20% 8 * 10.5 mm 500.0 220 uf 35v ± 20% 8 * 10.5 500.0 0.268 lc
+__label__压敏电阻 , varistor cnr221kd07 突波 吸收器 220v 7 ψ cnr 6000
+__label__水泥电阻 , cr l5w 200 ω j 200 ω 5w 200 ± 5% axial
+__label__氧化铌电容 , nojc107m006rwj 478 8863 2 nd 100 ¦ ì f niobium oxide capacitor 6.3 v 2312 6032 metric 400 mohm
+__label__氧化铌电容 , nosc107m002r0150 478 3224 2 nd cap niob oxi 100 uf 20% 2.5 v 2312
+__label__无源晶体振荡器 , 15 1.0 u1 40 mhz crystal ± 10 ppm 3225
+__label__绕线电阻 , 电阻 ewwr0010jr750t9 0.75 ω r750 ± 5% 10w
+__label__NTC热敏电阻 , ntc 199 104qag a01 199 104qag a01 nd thermistor ntc 100kohm
+__label__NTC热敏电阻 , ntcsmelfxx103jt bc1549tr nd therm ntc 10kohm 3997k do213aa
+__label__无源晶体振荡器 , 无源 晶振 y2 xtal3225 25mhz 1.0 25mhz 3225 4p 12pf 10ppm 0.7 lc
+__label__NTC热敏电阻 , ntc b57356v5473j260 b57356v5473j260 nd thermistor ntc 47kohm 4050k 0603
+__label__圆柱体晶振 , x30805msd2sc yt 38m 5mhz 20pf 20ppm 圆柱 插件 3 * 8
+__label__贴片电解电容 , nichicon uwt1h101mnl1gs electrolitic capacitor c44 100 uf 20% 63v 100 uf 1 200
+__label__绕线电阻 , 电阻 knp1w 4.7 ω ± 5% t 4.7 1w ± 5% 4.7 ω 4r7
+__label__氧化铌电容 , nojt685m010rwj 478 5842 6 nd cap niob oxid 6.8 uf 20% 10v 1210
+__label__PTC热敏电阻 , ptc tfpt0805l5001fy tfpt0805l5001fy nd thermistor ptc 5k ohm 1% 0805
+__label__氧化铌电容 , nojd227m006rwj nojd227m006rwj nd cap niob oxi 220 uf 20% 6.3 v 2917
+__label__贴片电感 , lqw15an27ng00d 27nh 0402 10000.0 lqw15an27ng00d 10000.0 0.138 lc
+__label__氧化铌电容 , nojd107m006rwj 478 1825 2 nd cap niob oxi 100 uf 20% 6.3 v 2917
+__label__PTC热敏电阻 , ptc tfpt0603l3900fv tfpt0603l3900fv nd thermistor ptc 390 ohm 1% 0603
+__label__钽电容 , ch tantalum 22 uf 10v 3528 cp18 corporation tpsb226k010r0700 900 tpsb226k010r0700 2000 1000 0.363 7 13days 1000
+__label__安规电容 , 10000 c47 c48 capacitor cap radial 1 uf 3 10v ac 20% x2 5x13 kemet f861ak104m310 b32921c3104m surge cmppac3 10v 104k10s5
+__label__安装型大容量电容 , 18675 ltz222m2cq45m 電解 電容 牛角 電容 2 pin 2200 uf 160v 20% 85 35x45mm 腳距 10mm jamicon 4
+__label__圆柱体晶振 , tdxlf 308 32.768 khz 12.5 pf 20ppm radial 3x8mm
+__label__直插电解电容 , 16704 電解 電容 470 uf 16v 105 ° c 8 * 11mm 255
+__label__钽电容 , 3 贴片 钽电容 100 uf / 25v c1812 2 c1 22
+__label__氧化铌电容 , nosb226m008r1800v 478 9705 1 nd cap niob oxid 22 uf 20% 8v 1210
+__label__碳膜电阻 , res 470 ohm 1 / 4w 5% axial erd s2tj471v 1 600
+__label__电容器阵列与网络 , w2a41a101jat2a w2a41a101jat2a 电容器 阵列 网络 100v 100pf 5% tol
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cd6 电容 39pf ± 2% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.173 4.40 mm / 0.276 x0.094 7.00 mmx2.40 mm 0.173 4.40 mm
+__label__直插电解电容 , electrolytic capacit ecd470u25v0814j ec dip 470 uf 25v 8 * 14mm lhk471m25vv814 15000
+__label__CBB电容 , 104msr102k c us225 062x268 c225 062x268 c15 c141 c225 062x268 capacitor american symbol 104msr102k illinois capacitor 100.0 24.0 0.5202 7 24 起出
+__label__功率电感 , 贴片 电感 do3316p 103mld 10uh / 39a 20 梅县 线艺
+__label__绕线电阻 , rws01jr220a520nh 1w 0.22 ± 5% 0.22 ω r22
+__label__钽电容 , t495b226k016ate600 22 uf / 16v 3528 5 kemet cap tant solid 22 uf 16v b case 10%
+__label__电容器阵列与网络 , ca064c331k5gactu ca064c331k5gactu 电容器 阵列 网络 50v olts 330pf c0g 10%
+__label__无源晶体振荡器 , 13.56 mhz nfc 线圈 * 41mm * 26mm 1 rf1 rf2 nfc 芯片 美思特 200 13.56 mhz nfc 线圈 * 41mm * 26mm 2000 2000
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl22jb1c224m085aa ckcl22jb1c224m085aa 电容器 阵列 网络 0805 16v 0.22 uf jb 20% 2 n 1
+__label__安装型大容量电容 , 18694 電解 電容 牛角 電容 2 pin 2200 uf 160v 20% 105 35x45mm jamicon 3
+__label__无源晶体振荡器 , 晶体 24mhz tsx 3225 24.0000 mf15x ac3 15ppm smd 1 y1
+__label__直插电解电容 , electrolytic capacitor 4.7 uf 63v 20% radial ee uf c1h4r7b 1 600
+__label__压敏电阻 , varistor cnr391kd14 突波 吸收器 390v 14 ψ cnr 500
+__label__绕线电阻 , 电阻 ewwr0010j3r00t9 3 ω 3r00 ± 5% 10w
+__label__直插电解电容 , 1000 uf / 25v 10 * 17 150
+__label__NTC热敏电阻 , ntc b57619c473k60 b57619c473k60 nd thermistor ntc 47kohm 3860k 0603
+__label__碳膜电阻 , res carb 33k 2w 5% 6491
+__label__钽电容 , 18998 t520x477m006ase035 鉭 電容 x case 470 uf 6v ± 20% kemet 362
+__label__无源晶体振荡器 , 晶体 24mhz tsx 3225 24.0000 mf15x ac3 15ppm smd 1 y1 tsx 3225 24.0000 mf15x ac3 晶体 24mhz 15ppm smd x1e000021020200 2000 2000 0.63 tsx 3225 24mhz 9pf 10ppm 南山
+__label__氧化铌电容 , nljt476m006r1600 478 5656 2 nd cap niob oxid 47 uf 20% 6.3 v 1210
+__label__无源晶体振荡器 , 无源 晶振 y2 xtal3225 25mhz 25mhz 3225 4p 12pf 10ppm 0.7 lc
+__label__安规电容 , x2 安規 電容 x2224k3 10v 15l4jf x2 電容 224p k% 3 10v p 15mm 剪腳 4mm 18 * 14.5 * 8.5 mm 2000
+__label__无源晶体振荡器 , ecs 327 125 34b tr ecs inc crystal 327680 khz 125 pf smd 25
+__label__氧化铌电容 , nojp226m002rwj nojp226m002rwj nd cap niob oxid 22 uf 20% 2.5 v 0805
+__label__钽电容 , tantalum t529p475m025aae300 4.7 uf 25v p case m% kemet esr 300 25
+__label__功率电感 , 4.7 uh ind pwr 4.7 uh 100khz 1.2 a 20% smt coilcraft lps3015 472ml l1 ind coilcraft 3x3mm 20
+__label__电容器阵列与网络 , w2a2zc104mat2f w2a2zc104mat2f 电容器 阵列 网络 10v olts 0.1 uf 20% 0508 x7r 2caps
+__label__高压电阻 , hr1206j47r0p05z 47 ± 5% 47 ω 470 500v 1 / 4w
+__label__贴片电感 , l503 ind shielded power coilcraft pfl3215 681meb 680nh lsml126w90h59 1206 20
+__label__水泥电阻 , 1623789 9 ± 5% 22 ω 220 through hole
+__label__碳膜电阻 , 碳膜 电阻 510 ω 1 / 4w smd 1206 1 r10
+__label__直插电解电容 , electrolytic capacit ecd100u 10v 0507j ec dip 100 uf 10v 5 * 7mm lmk101m 10v v57 1000
+__label__排阻 , y4100ct nd ecg va exb v8v100jv res array 10 ohm 5% 4 res smd 504 y4100ct nd res array 10 ohm 5% 4 res smd 0.074
+__label__功率电感 , 贴片 电感 inductor 3.3 uh swpa5040s3r3nt / 5.0 * 5.0 * 4.0 / 30% 15 000 0 2017 09 21 2017 09 21 swpa5040s3r3nt 15000 0.268 2
+__label__NTC热敏电阻 , ntc ks502j2 615 1073 nd thermistor ntc 5kohm 3892k bead
+__label__贴片电感 , l4 fixed ind 3nh 800ma 170 mohm smd lqg15hs3n0s02d 1000 1 1000
+__label__功率电感 , 1 l1 inductor 6.8 uh 4.0 a 30% smd taiyo yuden nr8040t6r8n
+__label__电容器阵列与网络 , w3l1yc104kat1s w3l1yc104kat1s 电容器 阵列 网络 16v olts 0.1 uf 10% x7r 0612 size
+__label__电容器阵列与网络 , w3a45c472kat2a w3a45c472kat2a 电容器 阵列 网络 50v olts 4700pf 10% 0612 x7r 4caps
+__label__贴片电解电容 , electrolytic capacit ecs47u 50v 6377hsw ec smd 47 uf 50v 6.3 * 7.7 mm 105 samwha rc1h476m6l07kvr 1800
+__label__功率电感 , 49 l3 47 功率 电感 10uh 4a 7x7mm gcda0630 100m cd7x7 1
+__label__PTC热敏电阻 , thermistor rtfpl13s2032200xv220 dip ptc 熱敏 電阻 130 ℃ 19.5 d 20r ± 25% 220v fpl13s2032 200xv220 810
+__label__直插电解电容 , 1000u 50v 0.858 1 1.9 667 eca 1hhg102 ecg eca 1hhg102 nhg series / ps cap
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 4300pf ± 5% 1.5 kv 云母 55 ° c 125 ° c 通孔 / 引线 间距 /
+__label__NTC热敏电阻 , ntc nths1005n02n1502jg nths1005n02n1502jg nd thermistor ntc 15kohm 3477k 1005
+__label__贴片高精密-低温漂电阻 , era 8aeb203v 20k 0.1% 1206 3 res thin film 1206 20kohm 0.1% 0.25 w 1 / 4w ± 25ppm / c aec q200
+__label__贴片电感 , smd inductor 0805 size 270nh pc 200 36502ar27jtdg
+__label__安装型大容量电容 , 18695 電解 電容 牛角 電容 2 pin 1500 uf 200v 20% 85 35x40mm jamicon 7
+__label__CBB电容 , capacitor cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm jimson cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm 5% c7 c8 c9 c10 4
+__label__无源晶体振荡器 , 无源 晶振 16mhz ± 20ppm 20pf 49smd 无源 晶振 16mhz ± 20ppm 20pf 49smd 无源 晶振 f 16mhz ± 30ppm c 20pf rs 40 ω 40 ° c 85 ° c l 4.7 mm w 11.4 mm h 4.2 mm jf16.000 m9s / sm20f30 晶峰 晶体
+__label__氧化铌电容 , nosv108m002s0050 nosv108m002s0050 nd cap niob oxide 1000 uf 2.5 v 2924
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a45c221kat2a w3a45c221kat2a 电容器 阵列 网络 50v olts 220pf 10% 0612 x7r 4caps
+__label__无源晶体振荡器 , crystal 32.768 khz 9pf 200ppm x1 1 abracon abs05 32.768 khz 9 t
+__label__贴片电解电容 , 18669 mp6vl680md10 電解 電容 cap polymer 680 uf 6.3 v 20% smd 8x9.7 mm matsuki 100
+__label__氧化铌电容 , nojc227m001rwj nojc227m001rwj nd cap niob oxi 220 uf 20% 1.8 v 2312
+__label__NTC热敏电阻 , ntc b57550g1303f000 495 5821 nd thermistor ntc 30kohm 3973k bead
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca0612krx7r9bb102 ca0612krx7r9bb102 电容器 阵列 网络 1nf 50v x7r 10%
+__label__电容器阵列与网络 , 电容器 阵列 网络 lg224z474mat2s1 lg224z474mat2s1 电容器 阵列 网络 4volts 47 uf 20% 0306 x7s
+__label__PTC热敏电阻 , b59102r0090a010 b59102r0090a010 nd thermistor ptc 700 ohm 50% rect
+__label__直插电解电容 , e2 电解电容 100 uf / 16v 5 * 7mm p 2.54 mm 直插 1 40 105
+__label__电容器阵列与网络 , w3a4yc683kat2a w3a4yc683kat2a 电容器 阵列 网络 0.068 uf 16v olts 10% 6012 x7r 4caps
+__label__贴片电解电容 , 16.0 电解电容 ucz1c470mcl1gs c 47 uf 20% 16v 6.3 * 5.8 mm nichicon 16 ucz1c470mcl1gs
+__label__绕线电阻 , 电阻 ewwr0010j5k00t9 5k ω 5k00 ± 5% 10w
+__label__有源晶体振荡器 , 晶振 40.000 mhz 有源 7050 40.000 mhz 有源 7050 ± 2ppm smd 4 txc 50 50
+__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
+__label__贴片电感 , inductance 6.8 nh 0402 4 40000 0
+__label__氧化铌电容 , nojb156m006rwj 478 1822 2 nd cap niob oxid 15 uf 20% 6.3 v 1210
+__label__功率电感 , indutor smd ferrite blindado 2 2uh 20% 10 9a dr125 2r2 r 19
+__label__压敏电阻 , 0 压敏 电阻 fnr 10k680 d10 500 1000 320 1000.0
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43c0g1h220k100aa ckca43c0g1h220k100aa 电容器 阵列 网络 1206 50v 22pf c0g 10% 4 n 1
+__label__钽电容 , taja106k016rnj tc 10u 10% 16v 3216 2.0 2.0 10
+__label__钽电容 , э 540339 b45196 h3226 206 size b 22 ф ± 20% 16v kemet 4.95 74 366.15 74 366.15 р 6 03 2009
+__label__直插电解电容 , 2 c59 c63 1000 uf / 25v 10 * 20mm cap 10x20 dip capxon / /
+__label__电容器阵列与网络 , w3a4ya101kat2a w3a4ya101kat2a 电容器 阵列 网络 16v olts 100pf 10% 0612 c0g 4caps
+__label__氧化铌电容 , nosb476m002r0500 nosb476m002r0500 nd cap niob oxid 47 uf 20% 2.5 v 1210
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2l1yc473mat1s w2l1yc473mat1s 电容器 阵列 网络 16v olts 047 uf 20%
+__label__PTC热敏电阻 , ptc lt7330002a1k0jte a106102dkr nd thermistor ptc 1k ohm 5% 0805
+__label__水泥电阻 , 水泥 电阻 75r / 10w 插件 r6 1000
+__label__功率电感 , 72 power chip inductor 1812ps series 4532 100uh 600 / reel 1812ps 104mlc coil craft reel 3.0
+__label__绕线电阻 , 电阻 nws01j5r10a520nh 1w ± 5% 5.1 5.1 ω 5r1
+__label__电容器阵列与网络 , ca0612jrnpo9bn680 ca0612jrnpo9bn680 电容器 阵列 网络 68pf 50v npo 5%
+__label__无源晶体振荡器 , 32768 khz crystal 327680 khz 125 pf smd ecs 327 125 34b tr ecs inc xtal ecs p327
+__label__绕线电阻 , 电阻 knp1w 3.3 ω ± 5% t 1w 3.3 ± 5% 3.3 ω 3r3
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a46a470kat2a w2a46a470kat2a 电容器 阵列 网络 6volts 47pf 10% 0508 c0g 4caps
+__label__氧化铌电容 , nojs156m002rwj 478 5845 2 nd cap niob oxid 15 uf 20% 2.5 v 1206
+__label__NTC热敏电阻 , rl1006 475 85 d1 rl1006 475 85 d1 nd thermistor ntc 800ohm 3772k disc
+__label__PTC热敏电阻 , b59830c0160a070 495 76377 nd thermistor ptc 3.7 ohm 25% disc
+__label__直插电解电容 , 16966 電解 電容 22 uf 25v 105 ℃ 5 * 11mm 2000
+__label__无源晶体振荡器 , commercial grade 32.768 khz crystal abracon corporation ab38t 32.768 khz 1 700
+__label__圆柱体晶振 , 508 1893a2010 18.9375 m20pf ± 10ppm 40 ω 圆柱 晶体 / 圆柱体 晶振 ju3 * 8 ju3 * 8
+__label__PTC热敏电阻 , prf21bb471qb5ra prf21bb471qb5ra nd thermistor ptc 470 ohm 50% 0805
+__label__圆柱体晶振 , cfv20632000azfb 6pf ¡ à 30ppm 32.000 kh radial 2x6mm
+__label__圆柱体晶振 , 1tg100dhns003r 77.503 khz 10pf through hole
+__label__PTC热敏电阻 , b59339a1201p020 b59339a1201p020 nd thermistor ptc 200 ohm 25%
+__label__安装型大容量电容 , 18678 ltz472m2aq45m 電解 電容 牛角 電容 2 pin 4700 uf 100v 20% 85 35x45mm jamicon 8
+__label__绕线电阻 , 电阻 ewwr0008j35r0t9 35 ω 35r0 ± 5% 8w
+__label__安装型大容量电容 , 15597 電解 電容 牛角 電容 2 pin 220 uf 400v 85 20x40mm ost 20
+__label__NTC热敏电阻 , ntcle203e3272jb0 bc2454 nd therm ntc 2.7 kohm 3977k bead
+__label__钽电容 , 47 uf 25v tant d 500 tajd476k025r capacitor case d 47 uf 25v descriptioncapacitor case d 47 uf 25v application solid capacitance 47 µ f tolerance capacitance ± 10% series taj voltage rating 25v dc capacitor dielectric type tantalum case style d termination type smd current leakage 117 µ a depth external 29 mm frequency esr 100khz length / height external 73 mm quantity reel 500 resistance esr 09 ohm temp op max 85 ° c temp op min 55 ° c temperature esr 25 ° c temperature operating range 55 ° c to 85 ° c terminal type surface mount smd smt tolerance 10% tolerance 10% voltage rating dc 25v width external 43 mm width tape 12mm
+__label__贴片电解电容 , 160 电解电容 47 uf / 50v smd ec f6.3 2 8
+__label__贴片电感 , l306a l306b l306c l306d l307a l307b l307c l307d ind rf chip 1.360 a 0.045 ohm dcr coilcraft 0402cs 1n0xglu 1nh l0402 2 402 2
+__label__绕线电阻 , 电阻 ewwr0003j900rt9 900 ω 900r ± 5% 3w
+__label__压敏电阻 , vr1 压敏 电阻 1.0 10d241k 1 1 10v 10d241k 袋装 10d241k ruilon 2100.0
+__label__绕线电阻 , 电阻 nknp5w 0.1 ω ± 2% t 5w 0.1 ± 2% 0.1 ω r10 ± 2%
+__label__绕线电阻 , nws01jr330a520nh 1w 0.33 ω r33 ± 5% 0.33
+__label__可调电阻电位器 , 20k % 1 r42 res sm 变阻器 1 10
+__label__水泥电阻 , cr l5w 220 ω j 220 ω 5w 220 ± 5% axial
+__label__薄膜电容 , r413i21000000m cap film 10000pf 20% 300v radial 183 0.222 8 14days
+__label__采样电阻 , resistor res 0.02 r 1 wsl0805r0200fea18 smd 0.01
+__label__PTC热敏电阻 , ptc tfpt1206l1002fv 541 1189 1 nd thermistor ptc 10k ohm 1% 1206
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a4yc104mat2a w3a4yc104mat2a 电容器 阵列 网络 0612 16v 1 uf 20%
+__label__PTC热敏电阻 , ptc tfpt0805l1000fv 541 3529 1 nd ptc thermistor 100 ohms 0805 2125 metric
+__label__贴片电容 , 247 capacitor cer 100v 01 uf 10% x7r 0805 sm c2012x7r2a104kt co ltd 26000
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca064x222k2ractu ca064x222k2ractu 电容器 阵列 网络 200votls 0022 uf 10% x7r
+__label__NTC热敏电阻 , ntc nxft15xv103fa2b040 nxft15xv103fa2b040 nd thermistor ntc 10kohm 3936k bead
+__label__绕线电阻 , ewwr0006j7r50t9 6w ± 5% 7.5 7.5 ω 7r50 ± 5%
+__label__压敏电阻 , 3.0 vr1 压敏 电阻 1.0 10d471k 220v 10d471k 袋 10d471k ruilon 510.0
+__label__PTC热敏电阻 , ptc kty236 kty236inct nd thermistor ptc 1k ohm 3% sot23 3
+__label__无源晶体振荡器 , y3 crystal 24.0000 mhz 18pf smd 405i35d24m00000 cts frequency controls 1000 1 1000
+__label__PTC热敏电阻 , tfpt0805l1801jz tfpt0805l1801jz nd thermistor ptc 1.8 k ohm 5% 0805
+__label__贴片电解电容 , 220 uf / 16v cap pol1 c35 c39 c52 7 * 7 16v 3 1000
+__label__贴片电感 , smd inductor 0402 size 15nh pc 400 36501e15njtdg
+__label__钽电容 , 4 tantalum capacitor case size b esr 3.5 4.7 uf / 16v fn 498 725 pc 4000.0 tajb475k016rnj 4000 0.356 lc
+__label__无源晶体振荡器 , 16362 hc 49 晶振 crystal smd 2p 14.7456 mhz 880
+__label__排阻 , 排列 電阻 ar9p8rg4k7 排阻 9p8r 2% 4.7 k 4800
+__label__NTC热敏电阻 , ntc ntc0805j10k a106104dkr nd thermistor ntc 10kohm 0805
+__label__功率电感 , 5000 l2 inductor inductor 3.6 uh 13.4 a smt coiltronics hc1 3r6 r newava csb1280 3r3m
+__label__氧化铌电容 , nojw686m004rwj nojw686m004rwj nd cap niob oxide 68 uf 20% 4v 2312
+__label__直插电解电容 , 220 uf / 35v c56 c57 电解电容 8 * 12mm 电解电容 2 20
+__label__NTC热敏电阻 , 2322 615 26473 bc1535ct nd thermistor ntc 47kohm 3977k 0603
+__label__电容器阵列与网络 , ca064c102m5ractu ca064c102m5ractu 电容器 阵列 网络 50v olts 1000pf x7r 20%
+__label__云母电容 , cdv19ff101jo3f 338 3132 nd cap mica 100pf 5% 1kv radial
+__label__NTC热敏电阻 , ntc ntcg203nh103jtds 445 180089 6 nd thermistor ntc 10kohm 3590k 0805
+__label__NTC热敏电阻 , b57411v2331k62 b57411v2331k62 nd thermistor ntc 330ohm 3500k 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a45a101k4t2a w3a45a101k4t2a 电容器 阵列 网络 50v olts 100pf 10% 0612 c0g 4caps
+__label__氧化铌电容 , nojc336m010rwj 478 3125 6 nd cap niob oxide 33 uf 20% 10v 2312
+__label__无源晶体振荡器 , 41 cystal 贴片 无源 晶振 fc135 g12o 32.768 khz fc135 jfvny fc135 g12o 32.768 khz 1
+__label__贴片电解电容 , 18789 mp 16v l270md10 電解 電容 cap polymer 270 uf 16v 20% smd 8x9.7 mm matsuki 50
+__label__钽电容 , 贴片 钽电容 贴片 钽电容 贴片 钽电容 47 uf 6.3 v b 3258 47 uf 6.3 v case b 3528 8000.0 0.414 lc
+__label__直插电解电容 , 16964 電解 電容 2.2 uf 160v 105 ℃ 6.3 * 11mm 280
+__label__云母电容 , mc08ca040d f mc08ca040d f nd cap mica 4pf 0.5 pf 100v 0805
+__label__氧化铌电容 , nosd227m004r0040 nosd227m004r0040 nd cap niob oxide 220 uf 20% 4v 2917
+__label__功率电感 , vlc6045t 4r7m 4.7 uh 445 6538 1 nd
+__label__PTC热敏电阻 , ptc lt7339002a3k0jtg lt7339002a3k0jtg nd thermistor ptc 3k ohm 5% 0805
+__label__钽电容 , 47 uf / 16v cc3528 b 2 400
+__label__绕线电阻 , 电阻 ewwr0010j4k00t9 4k ω 4k00 ± 5% 10w
+__label__直插电解电容 , 18724 wlr471m1ji25r 電解 電容 470 uf 63v 20% 105 12x25mm jamicon 100
+__label__高压电阻 , hr1206f680kp05 680k ± 1% 680k ω 6803 500v 1 / 4w
+__label__压敏电阻 , 压敏 电阻 fnr 07k431b 0 1k 17950 17700
+__label__云母电容 , 云母 ptfe 电容器 cornelldubilierelectronics cde 有源 电容 330pf ± 1% 100v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.150 3.80 mm / 0.390 x0.220 9.90 mmx5.60 mm 0.382 9.70 mm
+__label__压敏电阻 , 压敏 电阻 myg20k621 插件 zv1 1000
+__label__直插电解电容 , 16706 電解 電容 10 uf 35v 105 ° c 5 * 11mm 655
+__label__氧化铌电容 , nljt476m006r1600 478 5656 1 nd cap niob oxid 47 uf 20% 6.3 v 1210
+__label__贴片电感 , smd inductors 1210 size 10uh lqh32cn100k33l
+__label__绕线电阻 , 电阻 ewwr0003j750rt9 750 ω 750r ± 5% 3w
+__label__圆柱体晶振 , cmr200t32768dzyt 32.768 khz 7pf ¡ à 20pp radial 2x6mm
+__label__氧化铌电容 , nojv687m004rwj 478 3212 1 nd 680 ¦ ì f niobium oxide capacitor 4v 2924 7361 metric 300 mohm
+__label__压敏电阻 , varistor cnr180kd07 突波 吸收器 18v 7 ψ cnr 2000
+__label__云母电容 , mcm01 001ed102j f mcm01 001ed102j f nd cap mica 1000pf 5% 500v smd
+__label__无源晶体振荡器 , 15 crystal thd crystal 27mhz cinetech ju2627000khz316r 1 50000 / / cinetech tw / upload / 2011 / 09 / 20110913172224 pdf 50000 ju2627000khz316r cinetech 这个 牌子 之前 nicho 有旬 过
+__label__薄膜电容 , cap multi layer ceramic 0.1 uf 50v 10% radial k104k10x7rf5uh5 1 600
+__label__圆柱体晶振 , x206017734475msd2sc 17.734475 mhz yt 26m 20pf 20ppm radial 2x6mm
+__label__直插电解电容 , electrolytic capacit ecd33u 16v 0511a ec dip 33 uf 16v 5 * 11mm gr33016 4000
+__label__直插电解电容 , electrolytic capacit ecd470u 10v 0611jpet ec dip 470 uf 10v 6 * 11mm pet lhk471m 10v e611 2000
+__label__直插电解电容 , electrolytic capacit ecd1000u25v1017j ec dip 1000 uf 25v 10 * 17mm lhk102m25vv1017 7000
+__label__绕线电阻 , 电阻 knp1w 62 ω ± 5% t 1w 62 62 ω 620 ± 5%
+__label__无源晶体振荡器 , 晶振 8m hc 49s 100
+__label__绕线电阻 , 电阻 ewwr0008j8k20t9 8.2 k ω 8k20 ± 5% 8w
+__label__氧化铌电容 , nosb156m008r1000v 478 9704 1 nd cap niob oxid 15 uf 20% 8v 1210
+__label__直插电解电容 , electrolytic capacit ecd100u25v0611j ec dip 100 uf 25v 6 * 11mm lhk101m25vv611 10000
+__label__贴片电解电容 , 1.21 220 uf alum capacitor 220 uf 铝电容 cap alum 220 uf 20% 16v smd kemet edk227m016a9haa
+__label__PTC热敏电阻 , tfpt0805l3301jv 541 1182 2 nd thermistor ptc 3.3 k ohm 5% 0805
+__label__圆柱体晶振 , x206024mpd2sc yt 26m 15pf 24mhz 20ppm radial 2x6mm
+__label__钽电容 , 220 uf 6.3 v ± 10% case c 6032 500.0 4500.0
+__label__贴片电感 , 0805 15uh 50 0 uygun enduktans de ğ erli fb muadil
+__label__无源晶体振荡器 , osc asem1 12.000 mhz lc t oscillator 12mhz 0302 ase
+__label__绕线电阻 , 电阻 ewwr0001j20r0t9 20 1w 20 ω 20r0 ± 5% ± 5%
+__label__氧化铌电容 , nosd337m004r0100 478 1830 2 nd 330 ¦ ì f niobium oxide capacitor 4v 2917 7343 metric 100 mohm
+__label__安规电容 , 电容 mkp62 x2 105k 脚距 22mm 法拉 cx1 1000
+__label__钽电容 , 贴片 钽电容 贴片 钽电容 贴片 钽电容 4.7 uf / 16v 3258 4.7 uf 16v case b 3528 4000.0 0.356 lc
+__label__氧化铌电容 , nojs156m001rwj nojs156m001rwj nd cap niob oxid 15 uf 20% 1.8 v 1206
+__label__薄膜电容 , 5000 c101 capacitor cap radial 2.2 uf 305vac 20% 26.5 x12 b32923c3225m surge cmppac3 10v 225k22.5 s6
+__label__贴片电解电容 , cap smd eletr 220 uf / 16v 85g 20% r edk227m016a9haa kemet 17400 edk227m016a9haa kemet 8000.0 0.0852 10 8000p verical
+__label__PTC热敏电阻 , ptc tfpt1206l6800jf tfpt1206l6800jf nd thermistor ptc 680 ohm 5% 1206
+__label__NTC热敏电阻 , ec95g503v ec95g503v nd thermistor ntc 50kohm 4252k bead
+__label__功率电感 , slf12575t 470m2r7 pf l 47u 20% 3a 12.5 x12.5 x7.5 smd12.5 x12.5 x7.5 1.0 1.0 5
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcm25jb1h472m060aa ckcm25jb1h472m060aa 电容器 阵列 网络 0504 50v 4700pf jb 20% 2 n 1
+__label__NTC热敏电阻 , ntcle201e3c90028 bc3405 nd thermistor ntc 10kohm 3977k bead
+__label__贴片电解电容 , 62 6 c191 c230 c237 c244 c253 c262 330 uf 8 3mmx8 3mm cap alum 330 uf 25v 20% smd ecg eee fk1e331p capae830x1050d995dd305l335n pce3803ct nd 0.93 5.58 0.53 3.18
+__label__圆柱体晶振 , cfs20632768hzf 12.5 pf 32.768 khz radial 2x6mm
+__label__PTC热敏电阻 , tfpt1206l5000fm tfpt1206l5000fm nd thermistor ptc 500 ohm 1% 1206
+__label__直插瓷片电容 , vy2332m41y5us63v7 3300pf 7.5 mm y2 vy2 300vac c3 c5 3300pf 20% 300vac 3300pf 2 400
+__label__贴片电感 , 电感 2.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 l3
+__label__贴片电感 , 4.7 uh 1210 1 200
+__label__氧化铌电容 , nojv108m004rwj nojv108m004rwj nd cap niob oxid 1000 uf 20% 4v 2924
+__label__NTC热敏电阻 , ntc acw105 570 1202 nd ntc thermistor 30k bead
+__label__绕线电阻 , 电阻 ewwr0003j560rt9 560 ω 560r ± 5% 3w
+__label__电容器阵列与网络 , ca0612krx7r8bb223 ca0612krx7r8bb223 电容器 阵列 网络 22nf 25v x7r 10%
+__label__直插独石电容 , 直插 dip 独石 电容 100nf / 50v 独石 脚距 5mm 6 1200 100nf / 50v 独石
+__label__金属膜电阻 , 3.9 me 1% 1 / 4w axial metal film cmf553m9200gnek 1 600
+__label__绕线电阻 , 电阻 ewwr0006j8k20t9 8.20 k ω 8k20 ± 5% 6w 8.2 k
+__label__NTC热敏电阻 , ntc ntcle100e3683jt2 ntcle100e3683jt2 nd therm ntc 360kohm 4190k bead
+__label__钽电容 , tantalum capacitor case size c esr 0.075 100 uf / 6.3 v esr tpsc107k006r0075
+__label__贴片超低阻值电阻 , r261 002 res smd 002 ohm 1% 1w 1206 dale wslp1206r0200fea digi key wslp 02tr nd r1206 kelvin
+__label__氧化铌电容 , npvv477m004r0003 478 6243 2 nd cap niob oxide 470 uf 20% 4v 2924
+__label__贴片电感 , c1116 43 nh fixed ind 43 nh 300ma 240 mohm johanson technology inc l 07c4n3sv6t digi key 712 1460 2 nd rc0402
+__label__功率电感 , 495 1783 1 nd inc va b82442h1103k inductor 10uh 1000ma 2220 10% 48 495 1783 1 nd inductor 10uh 1000ma 2220 10% 1.476
+__label__圆柱体晶振 , k26250002020 20pf 25.000 mhz 20ppm radial 2x6mm
+__label__安装型大容量电容 , 18846 電解 電容 / 螺絲型 電容 eps 5600 uf 400v 20% 105 75x143mm jamicon 1
+__label__无源晶体振荡器 , 16478 11134x0312 晶振 crystal smd 2p 4.096 mhz 28pf taitien 1582
+__label__NTC热敏电阻 , ntc ncp15wf104f03rc 490 4803 2 nd therm ntc 100kohm 4250k 0402
+__label__电容器阵列与网络 , ckcl44x7r1h102m085aa ckcl44x7r1h102m085aa 电容器 阵列 网络 0805 50v 1000pf x7r 20% 4 n 1
+__label__钽电容 , c206 c207 330 uf tant 2.5 v capacitor kemet t520v337m2r5ate025 capmp7343x180n alt1 399 4105 1 nd 3.69 2.56
+__label__氧化铌电容 , nojx107m004rwj nojx107m004rwj nd cap niob oxide 100 uf 20% 4v 2917
+__label__安装型大容量电容 , 15841 電解 電容 牛角 電容 sps 2 pin 220 uf 400v 85 25x41mm ost 12
+__label__钽电容 , tantalum capacitor case size c esr 1.8 10 uf / 25v pc 200 tajc106k025rnj
+__label__绕线电阻 , 电阻 ewwr0008j4r00t9 4 ω 4r00 ± 5% 8w
+__label__PTC热敏电阻 , ptc rl2006 100 60 30 pte rl2006 1006030pte nd thermistor ptc 150 ohm 5% to220
+__label__NTC热敏电阻 , ntc ncp18xw222e03rb 490 12103 6 nd therm ntc 2.2 kohm 3950k 0603
+__label__氧化铌电容 , nojt226m004rwj 478 5848 2 nd cap niob oxide 22 uf 20% 4v 1210
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43x7r1h472m100aa ckca43x7r1h472m100aa 电容器 阵列 网络 1206 50v 4700pf x7r 20% 4 n 1
+__label__电容器阵列与网络 , ckcl22x5r1c105m085ab ckcl22x5r1c105m085ab 电容器 阵列 网络 0805 16v 1 uf x5r 20% 2 n 1
+__label__钽电容 , 7417 鉭 電容 22 uf 16v dip 2 p 316
+__label__氧化铌电容 , nojc476m010rwj 478 3126 2 nd cap niob oxide 47 uf 20% 10v 2312
+__label__水泥电阻 , cr l5w5.1 k ω j 5.1 k 5w ± 5% 5.1 k ω 512 ± 5% axial
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43x7r1h102m100aa ckca43x7r1h102m100aa 电容器 阵列 网络 1206 50v 0.001 uf x7r 20% 4 n 1
+__label__高压电阻 , hr2512f560ke04z ± 1% 1w 560k ω 5603 560k 800v
+__label__绕线电阻 , ewwr0010j270rt9 270 ω 270r ± 5% 10w
+__label__安规电容 , x2 电容 1 uf / 275v ± 10 ％ 直插 脚距 22.5 1
+__label__云母电容 , cd15ed680fo3f 338 2961 nd 68pf mica capacitor 500v radial
+__label__贴片电解电容 , ucz1h470mcl6gs / syk1h470m c 47 uf 20% 50v 8 * 10 nichicon / syk 2.0 2.0 10
+__label__功率电感 , c24001 indutor pth 68uh 1a emg0580 599
+__label__安装型大容量电容 , 18698 電解 電容 牛角 電容 2 pin 470 uf 4 50v 20% 85 35x45mm jamicon 5
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcm25c0g1h101k060aa ckcm25c0g1h101k060aa 电容器 阵列 网络 0504 50v 100pf c0g 10% 2 n 1
+__label__贴片电感 , smd inductors 0603 size 15nh 36501j15njtdg
+__label__电容器阵列与网络 , w3a45a470kat2a w3a45a470kat2a 电容器 阵列 网络 0612 50v 47pf 10%
+__label__氧化铌电容 , nosd157m006r0050 nosd157m006r0050 nd cap niob oxi 150 uf 20% 6.3 v 2917
+__label__直插瓷片电容 , 2.2 nf 1 kv disc ceramic 562r5gad22 1 600
+__label__NTC热敏电阻 , nhqmm102b325t10 nhqmm102b325t10 nd thermistor ntc 1kohm 3250k 0603
+__label__安装型大容量电容 , 15528 a 電解 電容 牛角 電容 lp vent 2 pin 330 uf 4 50v 85 ° c 30x42mm capxon 1
+__label__圆柱体晶振 , xamchcndnd 32.768 m 32.768 mhz 12.5 pf 20ppm 20 70 ℃ 圆柱 插件 3x8
+__label__无源晶体振荡器 , 116 c9100002 晶振 贴片 晶振 13mhz 20ppm 电容 20pf 3225 1.00 1000
+__label__NTC热敏电阻 , ntc b57045k0222k000 495 75192 nd therm ntc 2.2 kohm 3900k stud
+__label__NTC热敏电阻 , ntc ntcg104lh154jt1 445 174318 6 nd therm ntc 150kohm 4485k 0402
+__label__PTC热敏电阻 , ptc tfpt0805l3900jv tfpt0805l3900jv nd thermistor ptc 390 ohm 5% 0805
+__label__绕线电阻 , 电阻 ewwr0003j200rt9 3w 200 ± 5% ± 5% 200 ω 200r
+__label__氧化铌电容 , nojp106m002rwj 478 3197 2 nd cap niob oxid 10 uf 20% 2.5 v 0805
+__label__安装型大容量电容 , 18709 電解 電容 牛角 電容 2 pin 220 uf 400v 20% 105 25x40mm jamicon 6
+__label__绕线电阻 , 电阻 rws02j5r10a520nh 5.1 2w ± 5% 5.1 ω 5r1
+__label__PTC热敏电阻 , ptc prf15be103rb6rc 490 14735 2 nd thermistor ptc 10k ohm 0402
+__label__氧化铌电容 , nojx686m006rwj nojx686m006rwj nd cap niob oxid 68 uf 20% 6.3 v 2917
+__label__PTC热敏电阻 , ptc b59840c0160a070 495 75881 nd thermistor ptc 6 ohm 25% disc
+__label__PTC热敏电阻 , ptc ptft1206l2201jw ptft1206l2201jw nd thermistor ptc 2.2 k ohm 5% 1206
+__label__水泥电阻 , cr m5w 0.1 ω j 0.1 5w ± 5% 0.1 ω axial
+__label__云母电容 , cdv16ff221jo3f 338 3988 nd 220pf mica capacitor 1kv radial
+__label__氧化铌电容 , nojb156m010rwj 478 3220 6 nd cap niob oxide 15 uf 20% 10v 1210
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl22c0g1h220k085aa ckcl22c0g1h220k085aa 电容器 阵列 网络 0805 50v 22pf c0g 10% 2 n 1
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a41c472kat2a w2a41c472kat2a 电容器 阵列 网络 100volts 4700pf 10% 4cap x7r
+__label__直插电解电容 , 470 uf 10v ± 20% 6.3 * 7.7 mm 500.0 1000.0
+__label__PTC热敏电阻 , ptc tfpt0603l1000fv 541 3526 6 nd thermistor ptc 100 ohm 1% 0603
+__label__绕线电阻 , 电阻 ewwr0001j75r0t9 1w ± 5% 75 75 ω 75r0 ± 5%
+__label__NTC热敏电阻 , ntc ec95g503w 235 1014 nd thermistor ntc 50kohm 3470k bead
+__label__电容器阵列与网络 , w3a45c153kat2a w3a45c153kat2a 电容器 阵列 网络 50v olts 0.015 uf 10% x7r 0612 size
+__label__氧化铌电容 , noje337m006rwj 478 1828 1 nd 330 ¦ ì f niobium oxide capacitor 6.3 v 2917 7343 metric 300 mohm
+__label__无源晶体振荡器 , y1 24mhz crystal 24.00 mhz 9.0 pf smd tsx 3225 24.0000 mf15x ac6 digi key ser4180ct nd 4 smd 3225 xtal320x250x60 4n 40 ° c 85 ° c
+__label__NTC热敏电阻 , mf11 3300010 317 1304 nd thermistor ntc 33kohm disc
+__label__PTC热敏电阻 , ptcsl20t121dbe 238167191107 nd thermistor ptc 100 ohm radial
+__label__水泥电阻 , cr l5w 15 ω j 15 ω 5w 15 ± 5% axial
+__label__贴片电解电容 , c3 elec 47 uf 4 50v smt uug2w4r7mnq1ms nichicon corporation smd 2 2 1 100 105
+__label__色环电感 , l1 1 1.0 mh 色环 电感 1w
+__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
+__label__NTC热敏电阻 , b57431v2333k062 b57431v2333k062 nd thermistor ntc 33kohm 0805
+__label__贴片电感 , 贴片 电感 ihlp3232dz100m11 10uh 8.64 mm x 8.18 mm x4.00 mm 1 ihlp3232dzer100m11 1000 5.353 5353.0 5000 5.3448 26724.0 6500 5.3448 34741.2 剩下 6500 10 15days dgk 2000p 4500p
+__label__绕线电阻 , 电阻 ewwr0003j450rt9 450 ω 450r ± 5% 3w
+__label__绕线电阻 , 电阻 ewwr0001j2r00t9 1w ± 5% 2 2 ω 2r00 ± 5%
+__label__直插电解电容 , e1 e4 电解电容 470 uf / 25v 8 * 12 p 4mm 直插 2 40 105
+__label__功率电感 , 32 1 e019591 inductor power 2.2 uh lsml75w79h39 20 l4 coilcraft xpl2010 222mlb rel
+__label__贴片电感 , ind ind 10 µ h 300ma 572 mohm 1210 l1 1 lqh32cn100k23l
+__label__绕线电阻 , 电阻 ewwr0006j150rt9 150 ω 150r ± 5% 6w
+__label__氧化铌电容 , nojc476m010rwj 478 3126 6 nd cap niob oxide 47 uf 20% 10v 2312
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckcl22x7r1e104m085aa ckcl22x7r1e104m085aa 电容器 阵列 网络 0805 25v 0.1 uf x7r 20% 2 n 1
+__label__绕线电阻 , ewwr0010j180rt9 10w ± 5% 180 180 ω 180r ± 5%
+__label__钽电容 , 7422 鉭 電容 2.2 uf 16v dip 2 p 1100
+__label__贴片电解电容 , 470 uf / 35v cap pol1 c34 c38 10 * 10 50v 2
+__label__PTC热敏电阻 , kty82 / 220 215 568 12308 6 nd thermistor ptc 2k ohm to236ab
+__label__功率电感 , 贴片 功率 电感 贴片 功率 电感 lqh5bpb4r7nt0 ind5.0 x5.0 x2.0 ind5x5 1
+__label__无源晶体振荡器 , 8mhz 5032 2p 180
+__label__NTC热敏电阻 , dc95y103v dc95y103v nd thermistor ntc 10kohm 3690k bead
+__label__采样电阻 , smd 1206 0.01 ω / 1 2w 20000
+__label__无源晶体振荡器 , crystal 32.768 k 12pf 3.2 * 1.5 mm 0.032768 mhz x1 hsx2 0302
+__label__圆柱体晶振 , y206327681252075 12.5 pf 32.768 khz 2 * 6 20ppm radial 2x6mm
+__label__NTC热敏电阻 , ntc ntcds3hg103gc3nb 445 4828 nd ntc thermistor 10k 204ah 35 axial
+__label__绕线电阻 , ewwr0008j2r20t9 2.2 ω 2r20 ± 5% 8w
+__label__绕线电阻 , 电阻 ewwr0006j12r0t9 12 ω 12r0 ± 5% 6w
+__label__NTC热敏电阻 , b57551g1303g005 b57551g1303g005 nd thermistor ntc 30kohm 3973k bead
+__label__PTC热敏电阻 , ptc ptft0805l1500jv ptft0805l1500jv nd thermistor ptc 150 ohm 5% 0805
+__label__PTC热敏电阻 , ptc tfpt0805l3900jy tfpt0805l3900jy nd thermistor ptc 390 ohm 5% 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca0612jrnpo9bn471 ca0612jrnpo9bn471 电容器 阵列 网络 470pf 50v npo 5%
+__label__安规电容 , 法拉 x 型安规 电容 1nf / 275v 间距 10mm 500 5600 4800
+__label__绕线电阻 , 电阻 ewwr0003j220rt9 3w 220 ω 220r 220 ± 5% ± 5%
+__label__水泥电阻 , cr m7w100 ω j 100 ω 101 100 ± 5% 7w through hole p 4.5 mm
+__label__贴片电容 , 1 c36 c46 c72 cap 1500 uf 20% 25 v 860010000000 1000.0
+__label__无源晶体振荡器 , y1 crystal 32.768 khz 12.5 pf smd fc 135 32.7680 ka a0 1000 1 1000
+__label__贴片电感 , l304a l304b l304c l304d l305a l305b l305c l305d ind cer chip coilcraft 0805cs 561xjlb 560nh l0805 a 805 5
+__label__绕线电阻 , 电阻 nknp3w 0.2 ω ± 5% t 0.2 0.2 ω r20 ± 5% 3w
+__label__贴片电解电容 , 161 电解电容 10 uf / 25v smd ec f4 9 36
+__label__PTC热敏电阻 , ptc tfpt0805l3301jz tfpt0805l3301jz nd thermistor ptc 3.3 k ohm 5% 0805
+__label__氧化铌电容 , nosb156m008r1000v 478 9704 6 nd cap niob oxid 15 uf 20% 8v 1210
+__label__PTC热敏电阻 , tfpt0603l1500fv 541 1167 1 nd ptc thermistor 150 ohms 0603 1608 metric
+__label__绕线电阻 , ewwr0006jr150t9 0.15 ω r150 ± 5% 6w
+__label__直插电解电容 , 11013 uhv1a681mpd 電解 電容 小型化 680 uf 10v ± 20% 13 * 8mm nichicon 100
+__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
+__label__PTC热敏电阻 , ptc ptft1206l1502jw ptft1206l1502jw nd thermistor ptc 15k ohm 5% 1206
+__label__高压电阻 , hr1206f430kp05z 430k ω 4303 ± 1% 430k 500v 1 / 4w
+__label__PTC热敏电阻 , ptc ygm1 c512 317 1114 nd thermistor ptc 250 ohm 10% rad
+__label__绕线电阻 , 电阻 nknp2ws 10 ω ± 5% f 2w 10 10 ω 100 ± 5%
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca0612krx7r9bb103 ca0612krx7r9bb103 电容器 阵列 网络 10nf 50v x7r 10%
+__label__PTC热敏电阻 , ptc tfpt1206l1000jm tfpt1206l1000jm nd thermistor ptc 100 ohm 5% 1206
+__label__氧化铌电容 , nojc107m001rwj nojc107m001rwj nd cap niob oxi 100 uf 20% 1.8 v 2312
+__label__PTC热敏电阻 , tfpt0805l8200jm tfpt0805l8200jm nd thermistor ptc 820 ohm 5% 0805
+__label__PTC热敏电阻 , ptc ptcsl03t141dt1e bc2970ct nd ptc thermistor disc 4.0 mm dia x 3.0 mm w
+__label__可变电感器套件配件 , 70 variable inductor 40nh 165 03a06l coil craft pc 1100.0
+__label__水泥电阻 , cr l2w 39 ω j 2w 39 39 ω ± 5% axial
+__label__氧化铌电容 , noja156m006rwj 478 5851 2 nd 15 ¦ ì f niobium oxide capacitor 6.3 v 1206 3216 metric 2 ohm
+__label__绕线电阻 , 电阻 nws02j22r0a520nh 2w 22 ± 5% 22 ω 220
+__label__碳膜电阻 , carbon film resistor cr14w2k4jt 碳膜 電阻 1 / 4w 5% 2.4 k t 5000
+__label__NTC热敏电阻 , ntc acl011 570 1216 nd ntc thermistor 50k bead
+__label__贴片电感 , 18987 lqh3n4r7k34 電感 1210 4.7 uh ± 10% 1950
+__label__NTC热敏电阻 , ntc ert j0es104j p13580ct nd therm ntc 100kohm 4330k 0402
+__label__PTC热敏电阻 , tfpt0805l4701jm tfpt0805l4701jm nd thermistor ptc 4.7 k ohm 5% 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a45c103mat2a w2a45c103mat2a 电容器 阵列 网络 50v olts 0.01 uf 20% 4cap x7r
+__label__NTC热敏电阻 , ntc ntcg164qh224jt1 445 174336 2 nd therm ntc 220kohm 4661k 0603
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a43c473m4t2a w3a43c473m4t2a 电容器 阵列 网络 25v 047 uf 20% tol
+__label__圆柱体晶振 , 1tc125afns027 32.768 khz 12.5 pf through hole
+__label__NTC热敏电阻 , ec95f502v ec95f502v nd thermistor ntc 5kohm 3969k bead
+__label__NTC热敏电阻 , ntc nths0603n01n6802jr nths0603n01n6802jr nd thermistor ntc 68kohm 3964k 0603
+__label__排阻 , 排列 電阻 cra034rj330rp05 smd 排阻 0603 * 4 8p4r 5% 330r 15000
+__label__贴片电解电容 , cap alum 330 uf 20% 50v smd c9 1 eee fk1h331aq digi key pce4849ct nd surface mount eee fk1h331aq 500.0 4.7165 7 10days
+__label__氧化铌电容 , nosd157m006r0070 478 3248 2 nd 150 ¦ ì f niobium oxide capacitor 6.3 v 2917 7343 metric 70 mohm
+__label__精密可调电阻 , 74 精密 可调 电阻 20k 3296 1 4 低温 漂 25ppm
+__label__氧化铌电容 , nljt476m006r1600 478 5656 6 nd cap niob oxid 47 uf 20% 6.3 v 1210
+__label__安规电容 , y2 電容 y2222m300vy5v95 y2 安規 陶瓷 電容 222p m% 300v y5v p 9.5 mm 1000
+__label__钽电容 , tantalum 293d106x9025c2te3 10 uf 25v c case k% sprague 1000
+__label__云母电容 , mc08ca060d f mc08ca060d f nd cap mica 6pf 0.5 pf 100v 0805
+__label__无源晶体振荡器 , y2 32.768 khz ± 20ppm crystal 12.5 pf 50 kohm 40 ° c 85 ° c surface mount 4 soj 5.50 mm pitch abs25 32.768 khz t abracon llc abs25 32.768 khz t xtal abs25
+__label__钽电容 , 14982 tpsd336k020r0200 鉭 電容 ta d 33 uf 20v ± 10% 440
+__label__贴片电解电容 , nichicon uwx1e100mcl1gb elec smd capacitor c60 uwx1e100mcl1gb 10 uf 1 50
+__label__功率电感 , l7 l9 1 15uh inductor ww pwr 15uh 450ma 10% nlc453232t 150k pf indm4532x340n 445 1958 6 nd 0.47 0.3105
+__label__贴片电感 , 电感 22uh mlz1608m220wtd25 0603 20 fixed inductors 0603 22uh 2.4 ohms 55ma aec q200
+__label__贴片电解电容 , 18.0 电解电容 uwh1v101mcl1gs c 100 uf 20% 35v 10 * 10mm nichicon 3 uwh1v101mcl1gs
+__label__直插电解电容 , 16678 電解 電容 1000 uf 6.3 v 105 ° c 8 * 11mm 500
+__label__圆柱体晶振 , tmxli 206f 32.768 khz 12.5 pf 20ppm cylindrical can radial
+__label__PTC热敏电阻 , ptc tfpt0805l4701jz tfpt0805l4701jz nd thermistor ptc 4.7 k ohm 5% 0805
+__label__氧化铌电容 , noja226m006rwj 478 8860 1 nd 22 ¦ ì f niobium oxide capacitor 6.3 v 1206 3216 metric 1.8 ohm
+__label__圆柱体晶振 , k153276812520 12.5 pf 32.768 khz 20ppm radial 1x5mm
+__label__绕线电阻 , rws01j15r0a520nh 1w 15 ± 5% 15 ω 150
+__label__绕线电阻 , 电阻 ewwr0001j120rt9 120 1w ± 5% ± 5% 120 ω 120r
+__label__钽电容 , c233 c240 c247 c249 c256 c258 c265 c267 330 uf low esr cap tant 330 uf 10v 10% 2917 kemet b45197a2337k409 capmp7343x310n alt1 495 1535 1 nd 2.43 1.41
+__label__无源晶体振荡器 , crystal 32768 khz 125 pf smd 2 smd ecs 327 125 39 tr ecs inc 1050 ecs 327 125 39 tr ecs inc 1050 10
+__label__氧化铌电容 , noja106m010rwj 478 3121 6 nd cap niob oxide 10 uf 20% 10v 1206
+__label__水泥电阻 , cr l5w 033 ω j ± 5% 033 ω axial
+__label__NTC热敏电阻 , ntc ert j0er103j p10574ct nd ntc thermistor 10k 0402 1005 metric
+__label__直插电解电容 , 电解电容 1 uf / 50v rad 810 1000
+__label__贴片电感 , 23 1 l3 ind 39nh 200ma 1.06 ohm 0402 lqg15hn39nj02 0.0
+__label__安装型大容量电容 , 18805 ekmr451vsn271mr30s 電解 電容 牛角 電容 2 pin 270 uf 4 50v 20% 105 30x30mm nippon 20
+__label__绕线电阻 , nknp5ws 0.07 ω ± 5% f 上脚 漆 0.07 上脚 漆 ± 5% 0.07 ω r07 5w 上脚 漆
+__label__云母电容 , mc08ea220j tf mc08ea220j tf nd cap mica 22pf 5% 100v 0805
+__label__钽电容 , 钽电容 3.3 uf / 35v 3.3 uf / 35v b / 100 100
+__label__电容器阵列与网络 , 电容器 阵列 网络 w4l14z104mat1s w4l14z104mat1s 电容器 阵列 网络 0306 1 uf 4v x7s 20%
+__label__电容器阵列与网络 , 电容器 阵列 网络 20110d4x103k5p 20110d4x103k5p 电容器 阵列 网络 0.1 uf 10v x5r 0.1 0.5 ls x5f
+__label__薄膜电容 , 1 c4 330nf ± 10% film capacitor 2 50v 520v polypropylene metallized radial r71vi33304030k 1000
+__label__圆柱体晶振 , 1tg100dhns002r 60.003 khz 10pf through hole
+__label__NTC热敏电阻 , ntc b57871s0303f000 b57871s0303f000 nd thermistor ntc 30kohm 3964k bead
+__label__圆柱体晶振 , 1td125dhns004 dt 26 32.768 k 20ppm 12.5 pf / radial 2x6mm
+__label__绕线电阻 , 电阻 knp5ws 20 ω ± 5% t 20 5w ± 5% 20 ω 200 ± 5%
+__label__氧化铌电容 , nojb336m004rwj nojb336m004rwj nd cap niob oxide 33 uf 20% 4v 1210
+__label__贴片电解电容 , c8 9 cap alum 47 uf 35v 20% smd uwt1v470mcl1gs nichicon 925 2 900
+__label__水泥电阻 , cr m10w100 ω j 100 10w 100 ω 101 ± 5% through hole p 4.5 mm
+__label__排阻 , 排列 電阻 ar10p9rg3k3 排阻 10p9r 2% 3.3 k 5000
+__label__圆柱体晶振 , x20606msd2sc yt 26m 20pf 6mhz 20ppm radial 2x6mm
+__label__绕线电阻 , 电阻 ewwr0010j75r0t9 75 ω 75r0 ± 5% 10w
+__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 / / / ds / 2 / 54 / 296 776415 pdf
+__label__云母电容 , cdv16ff102jo3 338 3095 nd 1000pf mica capacitor 1kv radial
+__label__电容器阵列与网络 , ca0612mrx7r7bb104 ca0612mrx7r7bb104 电容器 阵列 网络 100nf 16v x7r 20%
+__label__采样电阻 , 0805 0.03 欧姆 res 1% 200
+__label__NTC热敏电阻 , ntc ntcg164bh103ht1 445 2555 2 nd thermistor ntc 10kohm 4067k 0603
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cdv30 电容 150pf ± 1% 2.5 kv 云母 55 ° c 125 ° c 通孔 / 引线 间距 /
+__label__高压电阻 , hr1206f3m60p05z ± 1% 3.6 m ω
+__label__NTC热敏电阻 , ncp18wb473e03rb 490 6941 1 nd thermistor ntc 47kohm 4050k 0603
+__label__直插电解电容 , 1272 utwhm c 0x3 電解 電容 47 uf 200v 105 13x21mm tk 69
+__label__云母电容 , mc18fd101f f mc18fd101f f nd cap mica 100pf 1% 500v 1812
+__label__功率电感 , 10 * 10 * 4.5 100uh / 2a 230
+__label__PTC热敏电阻 , tfpt1206l3300jv tfpt1206l3300jv nd thermistor ptc 330 ohm 5% 1206
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a43c473kat2a w3a43c473kat2a 电容器 阵列 网络 25volts 047 uf 10%
+__label__无源晶体振荡器 , 117 c9100011 晶振 贴片 晶振 24mhz 20ppm 电容 12pf 3225 1.00 1000
+__label__PTC热敏电阻 , ptc b59008c155a40 b59008c155a40 nd thermistor ptc 250 ohm radial
+__label__功率电感 , 6.8 uh inductor 6.8 uh 4.0 a 30% smd l1 taiyo yuden nr8040t6r8n 1
+__label__钽电容 , э 539918 b45196 h2107 m306 size c 100 ф ± 20% 10v 26.99 153 4129.71 153 4129.71 03 2009
+__label__钽电容 , 1 贴片 钽电容 4.7 uf / 16v c1210 1 c59
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3l14d335mat1a w3l14d335mat1a 电容器 阵列 网络 0612 3.3 uf 4volts x5r
+__label__氧化铌电容 , nojt336m004rwj nojt336m004rwj nd cap niob oxide 33 uf 20% 4v 1210
+__label__贴片电解电容 , cap smd eletr 180 uf / 16v 105g 20% 16svp180mx sanyo 17600 16svp180mx 7500.0 0.2707 7 dgk
+__label__直插电解电容 , electrolytic capacitor 1000 uf 50v 20% radial eca 1hm102b 1 600
+__label__钽电容 , 2 贴片 钽电容 10 uf / 16v c1210 7 c10 15 26 27 29 32 34
+__label__绕线电阻 , ewwr0008jr500t9 8w ± 5% 0.5 0.5 ω r500 ± 5%
+__label__排阻 , 16708 ra 03104j 排阻 2800
+__label__安装型大容量电容 , 15518 電解 電容 牛角 電容 lp vent 2 pin 420 uf 420v 85 ° c 30x47mm capxon 50
+__label__氧化铌电容 , nosb226m006r0600 478 3244 2 nd 22 ¦ ì f niobium oxide capacitor 6.3 v 1411 3528 metric 1210 600 mohm
+__label__云母电容 , 电容器 云母 ptfe 电容器 cornelldubilierelectronics cde cmr 电容 51pf ± 5% 500v 云母 55 ° c 125 ° c 通孔 / 引线 间距 0.150 3.80 mm / 0.370 x0.189 9.40 mmx4.80 mm 0.339 8.60 mm
+__label__氧化铌电容 , nojc227m006rwj 478 8864 1 nd 220 ¦ ì f niobium oxide capacitor 6.3 v 2312 6032 metric 400 mohm
+__label__贴片电解电容 , capacitor smd 22 uf / 35v 20% uwx0g220mcl2gb 50
+__label__氧化铌电容 , noja475m010rwj 478 3120 2 nd 4.7 ¦ ì f niobium oxide capacitor 10v 1206 3216 metric 3.1 ohm
+__label__PTC热敏电阻 , ptc b59721a0110a062 495 4314 1 nd ptc thermistor 680 ohms 0805 2012 metric
+__label__金属膜电阻 , 182k 1 / 4w 1% metal film 0.114 1 0.114 271 182k rc xicon 271 182k quantity needed 1 271 182k rc 1
+__label__采样电阻 , 采样 电阻 10mr 1812
+__label__氧化铌电容 , nojd157m006rwj 478 1826 1 nd cap niob oxi 150 uf 20% 6.3 v 2917
+__label__NTC热敏电阻 , ntc nk182c2r2 235 1530 nd thermistor ntc 1800ohm
+__label__高压电阻 , hr2512f750re04 750 ± 1% 1w 750 ω 7500 800v
+__label__无源晶体振荡器 , y1 abm3b 25.000 mhz b2 t abracon abm3b 25.000 mhz b2 t crystal 25mhz 18pf cl smd abracon abm3b 2 abm3b 25.000 mhz b2 t crystal 25.0000 mhz 18pf smd abracon llc
+__label__氧化铌电容 , nojc336m006rwj 478 3216 2 nd cap niob oxid 33 uf 20% 6.3 v 2312
+__label__云母电容 , min02 002cc070d f min02 002cc070d f nd cap mica 7pf 0.5 pf 300v smd
+__label__PTC热敏电阻 , ptc b59641a0105a062 495 4305 2 nd thermistor ptc 470 ohm 50% 0603
+__label__氧化铌电容 , nojt106m010rwj 478 5847 6 nd cap niob oxide 10 uf 20% 10v 1210
+__label__PTC热敏电阻 , ptc b59100c150a51 b59100c150a51 nd thermistor ptc 100 ohm radial
+__label__电容器阵列与网络 , 电容器 阵列 网络 cllc1ax7r0g104m050ac cllc1ax7r0g104m050ac 电容器 阵列 网络 0603 4v 0.1 uf x7r 20% 60ph esl
+__label__绕线电阻 , ewwr0006j2k20t9 2.20 k ω 2k20 ± 5% 6w 2.2 k
+__label__氧化铌电容 , nosb226m006r0600 478 3244 1 nd 22 ¦ ì f niobium oxide capacitor 6.3 v 1411 3528 metric 1210 600 mohm
+__label__直插电解电容 , electrolytic capacit ecd10u25v0407j ec dip 10 uf 25v 4 * 7mm lmk100m25vv47 2000
+__label__薄膜电容 , 聚酯薄膜 電容 深紅 r mef105k2 50v 20u mef 105k 2 50v p 20mm 1500
+__label__安装型大容量电容 , 18800 電解 電容 牛角 電容 2 pin 390 uf 400v 20% 85 25x44mm nippon 27
+__label__可调电容 , capacitor trim capacitor trim3 10pf jaycar rv5714
+__label__色环电感 , 10uh inductor l1 1mh dip 1
+__label__安装型大容量电容 , slpx222m050a1p3 cap alum 2200 uf 20% 50v radial 203 0.8772 8 arrow
+__label__钽电容 , c20 captajb 33 uf 33 uf ± 10% rtaj b bottom capacitor case b 33 uf 6.3 v tantalum tajb336k006r fec 197040 32.5 80.75 180
+__label__直插电解电容 , electrolytic capacit ecd470u 16v 0811a ec dip 470 uf 16v 8 * 11mm gr47116 6000
+__label__绕线电阻 , 电阻 ewwr0001j1r00t9 1w 1 ω 1r00 ± 5%
+__label__PTC热敏电阻 , tfpt0603l3900jv 541 1170 2 nd thermistor ptc 390 ohm 5% 0603
+__label__NTC热敏电阻 , ntc ntcg164bh472jtds 445 174522 1 nd therm ntc 4.7 kohm 4096k 0603
+__label__圆柱体晶振 , cfs20632768dzb 6pf 32.768 khz radial 2x6mm
+__label__直插电解电容 , electrolytic capacit ecduhv1e681mpd ec dip 680 uf 25v 10 * 16mm 105 nichicon uhv1e681mpd 10000
+__label__氧化铌电容 , nojp156m001rwj nojp156m001rwj nd cap niob oxid 15 uf 20% 1.8 v 0805
+__label__电容器阵列与网络 , 电容器 阵列 网络 ca064c473m4ractu ca064c473m4ractu 电容器 阵列 网络 16v olts 47000pf x7r 20%
+__label__NTC热敏电阻 , ntc nths1012n02n3001kb nths1012n02n3001kb nd thermistor ntc 3kohm 3477k 1012
+__label__水泥电阻 , cr l5w33 ω j 6w 33 33 ω 330 ± 5% axial
+__label__电容器阵列与网络 , 电容器 阵列 网络 w3a41a470jat2a w3a41a470jat2a 电容器 阵列 网络 100v 47pf 5% tol
+__label__钽电容 , ch tantalum cap 10 uf 6.3 v 3216 dcg23 dcj23 corporation tpsa106k006r1500 1800 tpsa106k006r1500 2000 1800 0.134 7 13days
+__label__电容器阵列与网络 , 电容器 阵列 网络 clle1ax7s0g475m050ac clle1ax7s0g475m050ac 电容器 阵列 网络 0805 4v 4.7 uf x7s 20% 70ph esl
+__label__金属膜电阻 , 82r 1 / 4w 1% metal film 0.114 1 0.228 271 82 rc xicon 271 82 rc quantity needed 1
+__label__绕线电阻 , 电阻 rws02j3r30a520nh ± 5% 2w 3.3 3.3 ω 3r3
+__label__贴片电解电容 , c3 4.7 µ f / 50v cap 4.7 uf 20% 50 v 865080640004 732 8449 1 nd digi key 1
+__label__电容器阵列与网络 , w3a41c103m4z2a w3a41c103m4z2a 电容器 阵列 网络 100v 01 uf 10% tol
+__label__有源晶体振荡器 , crystal osc 16.384 mhz lf vcxo021634
+__label__氧化铌电容 , nojw336m006rwj nojw336m006rwj nd cap niob oxid 33 uf 20% 6.3 v 2312
+__label__直插电解电容 , 16970 電解 電容 220 uf 50v 105 ℃ 10 * 16mm 800
+__label__NTC热敏电阻 , sm08 103370 570 1092 6 nd thermistor ntc 10kohm 3782k 0805
+__label__直插电解电容 , 19091 lhk221m200v1831 電解 電容 220 uf 200v 20% 105 18x31mm jackcon 500
+__label__直插电解电容 , 19094 lhk331m 10v 611tb2.5 電解 電容 330 uf 10v 20% 105 腳距 2.5 mm 6x11mm jackcon 626
+__label__钽电容 , 10 uf / 10v electrolytic capacitor c49 6032 electro1 5000
+__label__直插瓷片电容 , capacitor pth ceramico 100nf / 50v 50
+__label__采样电阻 , 59 r90 1 0.01 r res thick film 0.01 ohm / 5% 1 / 16w smd1206 r1206 100 1206 0.01 r 1% 500 5000 0.0586 lc
+__label__钽电容 , 7414 鉭 電容 10 uf 16v dip 2 p 387
+__label__PTC热敏电阻 , ptc b59641a0095a062 495 4304 6 nd thermistor ptc 470 ohm 50% 0603
+__label__NTC热敏电阻 , ntc c100f202j c100f202j nd thermistor ntc 2kohm bead
+__label__无源晶体振荡器 , 18956 tcxo 002 晶振 crystal oscillator 24.00014 mhz dip 3pin siward 42
+__label__圆柱体晶振 , xamczlndnd 32.768 k 圆柱体 晶振 / 32.768 khz 12.5 pf 20ppm 40 85 ℃ 圆柱 插件 3x8
+__label__PTC热敏电阻 , ptc tfpt1206l1801km tfpt1206l1801km nd thermistor ptc 1.8 k ohm 10% 1206
+__label__贴片电感 , 贴片 叠层 电感 4.7 nh / ± 5% / dcr0.45 r / cmcc0603c4n7ssp l0603 l2 1 27000
+__label__NTC热敏电阻 , ntc nths0805n01n2202ke nths0805n01n2202ke nd thermistor ntc 22kohm 3964k 0805
+__label__无源晶体振荡器 , 25mhz quarzo 25mhz 18pf 30ppm d 3.2 x2.5 abm8g 25.000 mhz 18 d2y t smt fae smd y abm8g 29658 abm8g 25.000 mhz 18 d2y t abracon
+__label__氧化铌电容 , nojs475m006rwj 478 3214 2 nd cap niob oxi 4.7 uf 20% 6.3 v 1206
+__label__绕线电阻 , 电阻 ewwr0006j2k00t9 6w ± 5% 2k 2k ω 2k00 ± 5%
+__label__压敏电阻 , 3.0 vr1 压敏 电阻 1.0 10d241k 1 1 10v 10d241k 袋装 10d241k ruilon 2100.0
+__label__功率电感 , 271 inductor pw 10uh 20% 125 a smd 74437368100 w ü gmbh co kg 500 jane
+__label__绕线电阻 , ewwr0008j750rt9 750 ω 750r ± 5% 8w
+__label__电容器阵列与网络 , 电容器 阵列 网络 ckca43c0g1h470k100aa ckca43c0g1h470k100aa 电容器 阵列 网络 1206 50v 47pf c0g 10% 4 n 1
+__label__无源晶体振荡器 , crystal am 24.000 mage t 10.0 am 24.000 mage t txc
+__label__功率电感 , l11 22uh vlf10040t 220m2r5 inductor 22uh 2.8 a 20% vlf10040t 220m2r5 newark 22t4922 ind vlf10040
+__label__绕线电阻 , ewwr0008j68r0t9 68 ω 68r0 ± 5% 8w
+__label__贴片电解电容 , eee fk1e101xp 100 uf / 25v smdg 1 cap aluminum lytic 100 uf 25v 20% aec q200
+__label__直插电解电容 , 2 c61 c65 470 uf / 50v 10 * 20mm cap 10x20 dip capxon / /
+__label__NTC热敏电阻 , ntc b57891m0474j052 b57891m0474j052 nd therm ntc 470kohm 5000k disc
+__label__NTC热敏电阻 , b57867s104g140 b57867s104g140 nd therm ntc 100kohm 4540k bead
+__label__直插电解电容 , 1 c33 cap alum 82 uf 20% 400v radial upt2g820mhd 1000.0
+__label__功率电感 , indutor pth 68uh 1a emg0580 599
+__label__安装型大容量电容 , 19303 電解 電容 牛角 電容 3 種 混合 150 uf 420v 85c lp vent 150 uf 4 50v 105c ce 180 uf 420v 85c lp vent 22x36mm capxon 3
+__label__电容器阵列与网络 , 电容器 阵列 网络 w2a45a470kat2a w2a45a470kat2a 电容器 阵列 网络 50v olts 47pf 10% 0508 c0g 4caps
+__label__功率电感 , 18 4 l24 l25 l26 l27 inductor 4.7 uh 3.2 a smd dale ihlp2020bzer4r7m11 indm5551x200n 541 1222 1 nd 2.4 9.6 1.66 6.64
+__label__可调电阻电位器 , 微调 电位器 50k 50k 3224j 50 50
+__label__功率电感 , inductance 2.7 uh 1210 / coil 0.05 nlv32t 2r7j ef nlv32t 2r7j ef 0.07 2000 / reel 24k 15 17wks
+__label__电容器阵列与网络 , w2a25c104k4z2a w2a25c104k4z2a 电容器 阵列 网络 50v 1 uf 10% tol

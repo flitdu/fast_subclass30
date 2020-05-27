@@ -1,2 +1,0 @@
-relay 2p2t 12vdc rate 2a 30vdc massuse p / n me 5 12 8 0 供料
-relay 2p2t 12vdc rate 2a 30vdc massuse p / n me 5 12 8 0 供料

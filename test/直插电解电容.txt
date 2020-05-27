@@ -1,4 +1,0 @@
-capacitor elect 100 uf 25v / 20% rad d 5mm h 12mm p 2mm brand jackcon rga101m1ebk 0511 lelon 1 110
-capacitor elect 330 uf 25v / 20% rad d 10mm h 125 mm p 5mm rga331m1ebk 1012g lelon 1 110
-capacitor elect 100 uf 25v / 20% rad d 5mm h 12mm p 2mm brand jackcon rga101m1ebk 0511 lelon 1 110
-capacitor elect 330 uf 25v / 20% rad d 10mm h 125 mm p 5mm rga331m1ebk 1012g lelon 1 110
