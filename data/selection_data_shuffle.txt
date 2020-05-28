@@ -1,151 +1,151 @@
-__label__精密可调电阻 , 74 精密 可调 电阻 20k 3296 1 4 低温 漂 25ppm
-__label__高频电感 , 贴片 电感 sdcl1005c33njtdf / 0402 10 000 0 2017 09 21 2017 09 21 sdcl1005c33njtdf 10000 0.01 2
-__label__直插瓷片电容 , 瓷片 电容 ct81n7y5v1b472mse 4700p / 1kv 间距 5mm 1k 2800 2400
-__label__碳膜电阻 , res 10k ohm 1 / 4w 5% axial erd s2tj103v 1 600
+__label__CBB电容 , 104msr102k c us225 062x268 c225 062x268 c15 c141 c225 062x268 capacitor american symbol 104msr102k illinois capacitor 100.0 24.0 0.5202 7 24 起出
+__label__高频电感 , l9 2.2 uh fixed ind 2.2 uh 750ma 375 mohm lqm18pn2r2mfrl digi key 490 10764 1 nd smd 0603 l0603 40 ° c 85 ° c
+__label__采样电阻 , 3 r30 r31 r57 res smd 0.39 ohm 1% 1 / 4w 1206 erj 8rqfr39v 3000.0
+__label__采样电阻 , 贴片 电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 / 6w 0402 r36 r37 2 20
+__label__高频电感 , 27 电感 l3 0603 5% 电感 射频 22nh 2 1 100
+__label__直插瓷片电容 , 直插 电容 c5 1 102 1kv
+__label__有源晶体振荡器 , sit8103ac 32 33e 60.00000 sitime osc 60mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 12
+__label__采样电阻 , smd 1206 0.01 ω / 1 2w 20000
+__label__直插瓷片电容 , 瓷片 电容 ct81n5y5p1b471kse 470p / 1kv 间距 5mm 1k 2800 800
+__label__采样电阻 , 采样 电阻 10mr 1812
+__label__碳膜电阻 , р р cfr resistor chip 1w 56 k / 5% mf 100 56 ko cfr 100 dip 2 500 直插 电阻 1w 56k 5%
+__label__有源晶体振荡器 , crystal osc 16.384 mhz lf vcxo021634
+__label__碳膜电阻 , 碳膜 电阻 75k ω 1 / 8w smd 0805 1 r7
+__label__采样电阻 , res smd 0r006 thick film 3w 1% aec q200 1225 case pbf r3 r4 susumu co ltd krl6432e m r006 f t1
+__label__高频电感 , 贴片 电感 39nh ± 5% 0402l 高频 l 5
+__label__直插瓷片电容 , rder71h104k0k1h03b cap cer 0.1 uf 50v x7r radial 183 0.08 8 14days
+__label__高频电感 , smd 高频 电感 1.2 nh film type rf ind 1.2 nh ± 0.1 nh 0402 l0402 lqg15hs1n2s02 l304 1.0 5
+__label__采样电阻 , 贴片 电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 / 8w 0805 r18 1 10
+__label__直插瓷片电容 , 10nf / 1kv 高压 瓷片 电容 c1 c2 c4 ax 5p 7d 3 / 京瓷
+__label__碳膜电阻 , 10m 1 / 4w 5% carbon film 0.097 1 291 10m rc xicon 291 10m quantity needed 1 291 10m rc 1
+__label__碳膜电阻 , res carb 33k 2w 5% 6491
+__label__碳膜电阻 , carbon film resistor cr14w820rjf 碳膜 電阻 1 / 4w 5% 820r f 50000
+__label__精密可调电阻 , 6 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 50k fn 935 2767 pc 10.0
+__label__碳膜电阻 , res 470 ohm 1 / 4w 5% axial erd s2tj471v 1 600
+__label__直插瓷片电容 , 直插 电容 c2 1 c4 1 c39 104
+__label__碳膜电阻 , r3 1 6.8 m ± 5% 1 / 4 色环 sei
+__label__采样电阻 , 贴片 电阻 10m / 2512 10m 1% 2w smd 2512 erj mp4pf10mu
+__label__高频电感 , 电感 6.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 l2 lqg15hn6n2s02d 电感 6.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn6n2s02d 2000 2000 0.2078 8 arrow
+__label__直插瓷片电容 , 100pf 500v ceramic y5s vy1101k31y5sq63v0 3 1800
+__label__采样电阻 , 2 r72 r80 res smd 0.2 ohm 5% 1w 2512 73l7r20j 2000.0
+__label__直插瓷片电容 , 100 nf 50 v ceramic disc x7r rper71h104k2p1a03b 1 600
+__label__高频电感 , 26 电感 l2 0603 5% 电感 射频 39nh 2 1 100
+__label__碳膜电阻 , р р cfr resistor chip 1w 120 / 5% mf 100 100 o cfr 100 dip 2 200 直插 电阻 1w 120r 5%
+__label__高频电感 , 电感 2.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 l3 lqg15hs2n2s02d 电感 2.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hs2n2s02d 2000 10000 0.02 湘海
+__label__采样电阻 , smd 1206 0.01 ω / 1 2w 20000
+__label__碳膜电阻 , 碳膜 电阻 1r / 2w 15.5 mm 800 800 0.05
+__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 / / / ds / 2 / 54 / 296 776415 pdf
+__label__高频电感 , smd 高频 电感 2.7 nh film type rf ind 2.7 nh ± 0.1 nh 0402 l0402 lqg15hs2n7s02 l302 l307 2.0 10
+__label__碳膜电阻 , res 6.8 ohm 1 / 4w 5% axial erd s2tj6r8v 1 600
+__label__碳膜电阻 , res 1k ohm 1 / 4w 5% axial erd s2tj102v 1 600
+__label__有源晶体振荡器 , sit9121ai 2c2 33e125.000000 sitime osc 125mhz 有源 晶振 lvds 3.3 v smt 5.0 mm x 3.2 mm osc lvds7x5 1 12
+__label__直插瓷片电容 , 3.3 nf 1 kv high voltage ceramic disc 562r5gad33 2 1200
+__label__高频电感 , 电感 2.4 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 2 l1 l5 lqg15hn2n4s02d 电感 2.4 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn2n4s02d 4000 4000 0.1632 7 10days
+__label__采样电阻 , smd 电阻 rc1206 0.05 ω r050 ± 1 ％ 1 / 4w
+__label__CBB电容 , 金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
+__label__CBB电容 , cbb22 105j 400v capacitance 1 µ frated voltage 400vtolerance 5% 10.0 c1
+__label__采样电阻 , 贴片 电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 / 6w 0402 r36 r37 2 20
+__label__采样电阻 , res smd 0.2 ohm 5% 1w 2512 73l7r20j 73l7r20j
 __label__采样电阻 , res smd 0.39 ohm 1% 1 / 4w 1206 erj 8rqfr39v erj 8rqfr39v
+__label__碳膜电阻 , res 10k ohm 1 / 4w 5% axial erd s2tj103v 1 600
+__label__碳膜电阻 , carbon film resistor cr14w2k4jt 碳膜 電阻 1 / 4w 5% 2.4 k t 5000
+__label__碳膜电阻 , 碳膜 电阻 43k ω 1 / 8w smd 0805 1 r6
+__label__碳膜电阻 , 碳膜 电阻 2.7 ω 1 / 4w smd 1206 1 r3
+__label__采样电阻 , 20m res smd 0.02 ohm 1% 1w 2512 wslt2512r0200fea dale rc2512
+__label__有源晶体振荡器 , 晶振 40.000 mhz 有源 7050 40.000 mhz 有源 7050 ± 2ppm smd 4 txc 50 50
+__label__CBB电容 , 2.2 uf 630v c1 1 capacitor metallized polyester film mmx0630k225 nissei denki
+__label__碳膜电阻 , res 1 ohms 1 / 4w 5% axial frm 25jt 52 1r 1 600
+__label__高频电感 , l10 3.3 nh fixed ind 3.3 nh 500ma 170 mohm lqp03hq3n3c02d digi key 490 13922 1 nd smd 0201 l0201 55 ° c 125 ° c
+__label__精密可调电阻 , 18751 3296w 1 103lf 微調 電阻 可變 電阻 trimmer resistors 10kohm 05 w 14
+__label__碳膜电阻 , 碳膜 电阻 39k ω 1 / 8w smd 1% 0805 1 r5
+__label__碳膜电阻 , 碳膜 电阻 5.35 k ω 1 / 8w smd 1% 0805 1 r4
+__label__直插瓷片电容 , 直插 电容 c1 1 221k 1kv
+__label__采样电阻 , rc lr1206f0r009e041w 金屬 合金 微電阻 1206 1% 0.009 ohm ever 1w 4000
+__label__精密可调电阻 , 18753 3296w 1 501lf 微調 電阻 可變 電阻 trimmer resistors 500ohm 05 w 27
+__label__碳膜电阻 , res 270 ohm 1 / 4w 5% axial erd s2tj271v 1 600
+__label__高频电感 , 25 电感 l1 0603 5% 电感 射频 33nh 2 1 100
+__label__采样电阻 , 57 r76 1 0.02 r res thick film 0.02 ohm / 5% 1 / 16w smd1206 r1206 100 1206 1% 0.02 r 200 5000 0.077 lc
+__label__采样电阻 , 1.0 0.02 / 1% r174 0805 1.0 1.0 0.0 20000.0
+__label__直插瓷片电容 , capacitor disc 2.2 nf 500v 20% vy1222m47y5uq63v0 0.0539 vy1222m47y5uq63v0 0.0914 15 17wks
 __label__CBB电容 , cbb 电容 cbb22 105 / 630v / 25mm 脚距 25mm 法拉 c1 cy4 1000
 __label__碳膜电阻 , 1w / 24k 5% 碳膜 电阻 1
-__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
-__label__有源晶体振荡器 , 有源 晶振 1 2520 50mhz 3.3 v 1000
-__label__采样电阻 , 贴片 电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 / 8w 0805 r18 1 10
-__label__高频电感 , smd 高频 电感 2nh film type rf ind 2nh ± 0.1 nh 0402 l0402 lqg15hs2n0s02 l303 l305 l306 3.0 15
-__label__CBB电容 , capacitor cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm jimson cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm 5% c7 c8 c9 c10 4
-__label__有源晶体振荡器 , sit9121ai 2c2 33e125.000000 sitime osc 125mhz 有源 晶振 lvds 3.3 v smt 5.0 mm x 3.2 mm osc lvds7x5 1 12
-__label__碳膜电阻 , 碳膜 电阻 1.5 m ω 1 / 4w smd 1206 1 r1
-__label__碳膜电阻 , 碳膜 电阻 51k ω 1 / 8w smd 0805 2 r8 r9
-__label__碳膜电阻 , carbon film resistor cr18w68kjm1010 碳膜 電阻 1 / 8w 5% 68k m 10 * 10 * 10 20000
-__label__采样电阻 , smd 电阻 rc1206 0.05 ω r050 ± 1 ％ 1 / 4w
-__label__碳膜电阻 , r3 1 6.8 m ± 5% 1 / 4 色环 sei
-__label__高频电感 , 电感 2.4 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 2 l1 l5 lqg15hn2n4s02d 电感 2.4 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn2n4s02d 4000 4000 0.1632 7 10days
-__label__直插瓷片电容 , 直插 电容 c1 1 221k 1kv
-__label__碳膜电阻 , 碳膜 电阻 200k ω 1 / 4w smd 1206 1 r2
-__label__高频电感 , l10 3.3 nh fixed ind 3.3 nh 500ma 170 mohm lqp03hq3n3c02d digi key 490 13922 1 nd smd 0201 l0201 55 ° c 125 ° c
 __label__CBB电容 , cbb 电容 cbb22 104 / 4 50v / 10mm cbb10mm 法拉 cbb1 1000
-__label__直插瓷片电容 , vy2332m41y5us63v7 3300pf 7.5 mm y2 vy2 300vac c3 c5 3300pf 20% 300vac 3300pf 2 400
-__label__CBB电容 , cbb22 334j 400v capacitance 0.33 µ frated voltage 400vtolerance 5% 10.0 c8
-__label__有源晶体振荡器 , osc1 mems osc cmems 50mhz 50ppm 3.3 v 2520 asemb 50.000 mhz lc t abracon 1 5 ct
-__label__高频电感 , 26 电感 l2 0603 5% 电感 射频 39nh 2 1 100
-__label__直插瓷片电容 , cap cer 2200pf 2 50v ac 20% x1y1 radial 0.394 dia 0.551 h 0.394 ls murta de1ekx222mn5aa01 or equiv c127 c128 2 500
-__label__CBB电容 , 104msr102k c us225 062x268 c225 062x268 c15 c141 c225 062x268 capacitor american symbol 104msr102k illinois capacitor 100.0 24.0 0.5202 7 24 起出
-__label__碳膜电阻 , 碳膜 电阻 1r / 2w 15.5 mm 800 800 0.05
-__label__高频电感 , 31 c0602040 inductor 33nh 200ma lqg15hs33nj02d 0402 smd 1 l7 lqg15hn33ng02 l0402 5.0
-__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
 __label__采样电阻 , resistor res 0.02 r 1 wsl0805r0200fea18 smd 0.01
-__label__碳膜电阻 , р р cfr resistor chip 1w 1 2 / 5% mf 100 1 2 o cfr 100 dip 2 200 直插 电阻 1w 1.2 r 5%
-__label__碳膜电阻 , 碳膜 电阻 43k ω 1 / 8w smd 0805 1 r6
-__label__直插瓷片电容 , 3.3 nf 1 kv high voltage ceramic disc 562r5gad33 2 1200
-__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed 3296x 1 202r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
-__label__碳膜电阻 , res 470 ohm 1 / 4w 5% axial erd s2tj471v 1 600
-__label__碳膜电阻 , р р cfr resistor chip 1w 56 k / 5% mf 100 56 ko cfr 100 dip 2 500 直插 电阻 1w 56k 5%
-__label__采样电阻 , 采样 电阻 8mr 1812
-__label__采样电阻 , res smd 0.001 ohm 3w 2512 wide 5% r1 r2 r60 susumu co ltd krl6432e m r001 j t1
-__label__有源晶体振荡器 , 1 crystal oscillator 100mhz fn 144 8089 pc 10.0 must operate 40 60oc o100m000000l434 ael crystals 10 4.0782 6 13days e
-__label__高频电感 , 27 电感 l3 0603 5% 电感 射频 22nh 2 1 100
+__label__直插瓷片电容 , 10 ck45 b3ad101kyan c cap 1kv 100pf ck45 b3ad101kyan 陶瓷 电容 3000
 __label__采样电阻 , 0805 0.03 欧姆 res 1% 200
-__label__直插瓷片电容 , 交流 高压 瓷片 电容 2.2 nf / 400v 脚 间距 10mm m 1.00 5k
-__label__碳膜电阻 , res 22k ohm 1 / 4w 5% axial erd s2tj223v 1 600
-__label__有源晶体振荡器 , sit8208ai 33 33e 33.333333 t sitime osc 33.3333 m 有源 晶振 3.3 v 33.3333 m 4pin 5x3.2 mm osc smd5x3.2 2 8
-__label__采样电阻 , 1.0 0.02 / 1% r174 0805 1.0 1.0 0.0 20000.0
-__label__碳膜电阻 , 碳膜 电阻 5.35 k ω 1 / 8w smd 1% 0805 1 r4
-__label__直插瓷片电容 , 直插 电容 c13 1 103 1kv
-__label__碳膜电阻 , carbon film resistor cr14w820rjf 碳膜 電阻 1 / 4w 5% 820r f 50000
-__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 103r rt2 1 / / / ds / 2 / 54 / 296 776415 pdf
-__label__采样电阻 , 贴片 电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 / 8w 0805 r18 1 10
-__label__碳膜电阻 , res 6.8 ohm 1 / 4w 5% axial erd s2tj6r8v 1 600
 __label__碳膜电阻 , 碳膜 电阻 510 ω 1 / 4w smd 1206 1 r10
-__label__碳膜电阻 , 碳膜 电阻 2.7 ω 1 / 4w smd 1206 1 r3
+__label__有源晶体振荡器 , osc1 mems osc cmems 50mhz 50ppm 3.3 v 2520 asemb 50.000 mhz lc t abracon 1 5 ct
 __label__高频电感 , 电感 5.1 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 r5 lqg15hn5n1s02d 电感 5.1 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn5n1s02d 2000 2000 0.0288 lc
-__label__直插瓷片电容 , 100pf 500v ceramic y5s vy1101k31y5sq63v0 3 1800
-__label__采样电阻 , rc lr1206f0r009e041w 金屬 合金 微電阻 1206 1% 0.009 ohm ever 1w 4000
-__label__碳膜电阻 , 碳膜 电阻 75k ω 1 / 8w smd 0805 1 r7
-__label__高频电感 , smd 高频 电感 1.2 nh film type rf ind 1.2 nh ± 0.1 nh 0402 l0402 lqg15hs1n2s02 l304 1.0 5
-__label__高频电感 , l9 2.2 uh fixed ind 2.2 uh 750ma 375 mohm lqm18pn2r2mfrl digi key 490 10764 1 nd smd 0603 l0603 40 ° c 85 ° c
+__label__碳膜电阻 , 3m9 1 / 4w 5% carbon film 0.097 1 0.493 291 3.9 m rc xicon 291 3.9 m quantity needed 1 291 3.9 m rc 1
+__label__有源晶体振荡器 , sit8103ac 32 33e 40.00000 sitime osc 40mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc smd5x3.2 1 12
 __label__直插瓷片电容 , 2.2 nf 1 kv disc ceramic 562r5gad22 1 600
-__label__碳膜电阻 , 1k1 1w 5% carbon film 0.158 1 0.114 294 1.1 k rc xicon 294 1.1 k rc quantity needed 1 294 1.1 k rc 1
-__label__采样电阻 , 康铜 电阻 5m ω / 3w 1% 插件 rs1 rs2 rs3 1000
-__label__CBB电容 , 2.2 uf 630v c1 1 capacitor metallized polyester film mmx0630k225 nissei denki
-__label__碳膜电阻 , res 1k ohm 1 / 4w 5% axial erd s2tj102v 1 600
-__label__采样电阻 , res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf / / / product detail / en / cra2512 fz r010elf / cra2512 fz r010elfct nd / 1775054 10000 20000
-__label__直插瓷片电容 , rder71h104k0k1h03b cap cer 0.1 uf 50v x7r radial 183 0.08 8 14days
-__label__直插瓷片电容 , 瓷片 电容 ct81n5y5p1b471kse 470p / 1kv 间距 5mm 1k 2800 800
-__label__有源晶体振荡器 , sit8103ac 32 33e 60.00000 sitime osc 60mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 12
+__label__CBB电容 , 2.2 uf 630v c2 1 capacitor metallized polyester film mmx0630k225 nissei denki
+__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
+__label__直插瓷片电容 , 1 nf 2 50v ac line rated ceramic disc capacitors 440ld10 r 1 600
+__label__直插瓷片电容 , 交流 高压 瓷片 电容 2.2 nf / 400v 脚 间距 10mm m 1.00 5k
+__label__直插瓷片电容 , cap cer 2200pf 2 50v ac 20% x1y1 radial 0.394 dia 0.551 h 0.394 ls murta de1ekx222mn5aa01 or equiv c127 c128 2 500
+__label__CBB电容 , 2.2 uf 630v c3 1 capacitor metallized polyester film mmx0630k225 nissei denki
+__label__CBB电容 , 2.2 uf 630v c1 c2 c3 3 capacitor metallized polyester film mmx0630k225 nissei denki
+__label__高频电感 , 31 c0602040 inductor 33nh 200ma lqg15hs33nj02d 0402 smd 1 l7 lqg15hn33ng02 l0402 5.0
+__label__CBB电容 , capacitor cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm jimson cbb21 c400v4 / 7u 26 * 21.5 * 12.5 pitch 26mm 5% c7 c8 c9 c10 4
+__label__精密可调电阻 , 18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen / gz electron 100
 __label__有源晶体振荡器 , 20mhz tcxo 2.5 ppm 3.3 v 1 ic41 smd 5x3.2 mm fox924b 20 fox 924b 20.000 fox 718 20.000 mhz
-__label__采样电阻 , res smd 0.2 ohm 5% 1w 2512 73l7r20j 73l7r20j
-__label__有源晶体振荡器 , ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
-__label__采样电阻 , smd 1206 0.01 ω / 1 2w 20000
-__label__精密可调电阻 , 18954 vr50k l4ga 變 電阻 調式 電阻 potentiometer 3 pin 50k ω 2500
-__label__精密可调电阻 , 6 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 50k fn 935 2767 pc 10.0
+__label__有源晶体振荡器 , sit8208ai 33 33e 33.333333 t sitime osc 33.3333 m 有源 晶振 3.3 v 33.3333 m 4pin 5x3.2 mm osc smd5x3.2 2 8
+__label__碳膜电阻 , carbon film resistor cr18w68kjm1010 碳膜 電阻 1 / 8w 5% 68k m 10 * 10 * 10 20000
+__label__碳膜电阻 , 碳膜 电阻 1r / 2w 15.5 mm 800 800 0.05
+__label__CBB电容 , ecq e4474kf 0.47 uf 15mm film 400v c4 0.47 uf 10% 400v 0.47 uf 1 200
 __label__精密可调电阻 , 73 精密 可调 电阻 10k 3296 6 24 低温 漂 25ppm
 __label__高频电感 , smd 高频 电感 10nh film type rf ind 10nh ± 0.1 nh 0402 l0402 lqg15hs10nj02 l300 l301 2.0 10
-__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
-__label__采样电阻 , 2 r72 r80 res smd 0.2 ohm 5% 1w 2512 73l7r20j 2000.0
-__label__直插瓷片电容 , 10nf / 1kv 高压 瓷片 电容 c1 c2 c4 ax 5p 7d 3 / 京瓷
-__label__有源晶体振荡器 , sit9121ai 2c2 33e200.000000 sitime osc 200mhz osc lvds 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 4
 __label__碳膜电阻 , 2m2 1 / 4w 5% carbon film 0.114 2 0.097 291 2.2 m rc xicon 291 2.2 m rc quantity needed 2 291 2.2 m rc 2
-__label__碳膜电阻 , 碳膜 电阻 39k ω 1 / 8w smd 1% 0805 1 r5
-__label__采样电阻 , 0.02 res mf 0.02 ohm 1 / 10w 1% 0603 intertechnology wsl0603r0200fea r14 rc0603 ov 20
-__label__采样电阻 , 20m res smd 0.02 ohm 1% 1w 2512 wslt2512r0200fea dale rc2512
-__label__采样电阻 , 贴片 电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 / 6w 0402 r36 r37 2 20
-__label__碳膜电阻 , 碳膜 电阻 1r / 2w 15.5 mm 800 800 0.05
-__label__碳膜电阻 , res 100k ohm 1w 5% axial multi comp mcf 1w 100k 1 600
-__label__CBB电容 , 金属化 聚酯 膜 c22 电容 1.0 10nf 630vdc p 7.5 mm mpp103j6130508lc 6061.0 法拉
-__label__碳膜电阻 , res 330 ohm 1 / 4w 5% axial erd s2tj331v 1 600
-__label__高频电感 , 28 电感 l4 l5 0603 5% 电感 射频 15nh 2 2 200
-__label__精密可调电阻 , 7 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 100k fn 935 2660 pc 10.0
-__label__精密可调电阻 , 18751 3296w 1 103lf 微調 電阻 可變 電阻 trimmer resistors 10kohm 05 w 14
-__label__直插瓷片电容 , 10nf / 1kv 高压 瓷片 电容 c1 c2 c4 ax 5p 7d 3.0 / 京瓷
-__label__采样电阻 , res smd 0r006 thick film 3w 1% aec q200 1225 case pbf r3 r4 susumu co ltd krl6432e m r006 f t1
-__label__碳膜电阻 , р р cfr resistor chip 1w 120 / 5% mf 100 100 o cfr 100 dip 2 200 直插 电阻 1w 120r 5%
-__label__碳膜电阻 , 3m9 1 / 4w 5% carbon film 0.097 1 0.493 291 3.9 m rc xicon 291 3.9 m quantity needed 1 291 3.9 m rc 1
-__label__有源晶体振荡器 , tcxo 16.384 mhz pc 30 lftvxo009915 iqd frequency products
-__label__直插瓷片电容 , 直插 电容 c2 1 c4 1 c39 104
-__label__直插瓷片电容 , s102k29y5pn6tj5r 1000pf 5mm cer 1kv c11 1000pf 10% 1kv 1000pf 1 50
-__label__CBB电容 , cbb22 105j 400v capacitance 1 µ frated voltage 400vtolerance 5% 10.0 c1
-__label__CBB电容 , ecq e4474kf 0.47 uf 15mm film 400v c4 0.47 uf 10% 400v 0.47 uf 1 200
-__label__CBB电容 , 2.2 uf 630v c3 1 capacitor metallized polyester film mmx0630k225 nissei denki
-__label__采样电阻 , 1.0 25mr / 1% r324 r1206 1.0 1.0 0.0 20000.0
-__label__碳膜电阻 , 4.3 r 1 / 4w 5% carbon film 0.097 2 0.114 291 4.3 rc xicon 291 4.3 rc quantity needed 2
-__label__采样电阻 , 3 r30 r31 r57 res smd 0.39 ohm 1% 1 / 4w 1206 erj 8rqfr39v 3000.0
-__label__高频电感 , 29 电感 l6 0603 5% 电感 射频 8.2 nh 2 1 100
-__label__碳膜电阻 , resistor through hole 620e 0.25 w axial through hole erd s2tj621v 1 600
-__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
-__label__碳膜电阻 , res 270 ohm 1 / 4w 5% axial erd s2tj271v 1 600
-__label__直插瓷片电容 , 高压 瓷片 电容 4.7 nf / 1kv 脚 间距 5mm m 1.00 5k
-__label__直插瓷片电容 , 10 ck45 b3ad101kyan c cap 1kv 100pf ck45 b3ad101kyan 陶瓷 电容 3000
-__label__直插瓷片电容 , 直插 电容 c5 1 102 1kv
-__label__高频电感 , smd 高频 电感 2.7 nh film type rf ind 2.7 nh ± 0.1 nh 0402 l0402 lqg15hs2n7s02 l302 l307 2.0 10
-__label__精密可调电阻 , 18749 3296w 1 101 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w bochen / gz electron 100
-__label__直插瓷片电容 , capacitor disc 2.2 nf 500v 20% vy1222m47y5uq63v0 0.0539 vy1222m47y5uq63v0 0.0914 15 17wks
-__label__直插瓷片电容 , 100 nf 50 v ceramic disc x7r rper71h104k2p1a03b 1 600
-__label__碳膜电阻 , 10m 1 / 4w 5% carbon film 0.097 1 291 10m rc xicon 291 10m quantity needed 1 291 10m rc 1
-__label__精密可调电阻 , 18752 3296w 1 201lf 微調 電阻 可變 電阻 trimmer resistors 200ohm 05 w 25
-__label__采样电阻 , 贴片 电阻 402 0.1 erj 2bsjr10x res smd 0.1 ohm 5% 1 / 6w 0402 r36 r37 2 20
 __label__有源晶体振荡器 , 50 crystal osc 25mhz osc fn 127 6647 pc 10.0 lfspxo025165 iqd frequency products
-__label__采样电阻 , 2.0 0.02 / 1% r176 r177 r0603 1.0 2.0 0.0 40000.0
-__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
-__label__高频电感 , 电感 6.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 l2 lqg15hn6n2s02d 电感 6.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hn6n2s02d 2000 2000 0.2078 8 arrow
-__label__直插瓷片电容 , 1 nf 2 50v ac line rated ceramic disc capacitors 440ld10 r 1 600
-__label__精密可调电阻 , 可调 电位器 多圈 精密 5k 3pin 2.54 mm
-__label__CBB电容 , 2.2 uf 630v c1 c2 c3 3 capacitor metallized polyester film mmx0630k225 nissei denki
-__label__高频电感 , 25 电感 l1 0603 5% 电感 射频 33nh 2 1 100
-__label__直插瓷片电容 , capacitor pth ceramico 100nf / 50v 50
-__label__采样电阻 , 57 r76 1 0.02 r res thick film 0.02 ohm / 5% 1 / 16w smd1206 r1206 100 1206 1% 0.02 r 200 5000 0.077 lc
-__label__采样电阻 , 59 r90 1 0.01 r res thick film 0.01 ohm / 5% 1 / 16w smd1206 r1206 100 1206 0.01 r 1% 500 5000 0.0586 lc
-__label__有源晶体振荡器 , crystal osc 16.384 mhz lf vcxo021634
-__label__采样电阻 , 采样 电阻 10mr 1812
-__label__CBB电容 , 2.2 uf 630v c2 1 capacitor metallized polyester film mmx0630k225 nissei denki
-__label__碳膜电阻 , р р cfr resistor chip 2w 110 k / 5% mf 200 100 ko cfr 100 dip 2 200 直插 电阻 1w 100k 5%
-__label__高频电感 , 贴片 电感 39nh ± 5% 0402l 高频 l 5
-__label__高频电感 , 电感 2.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd 1 l3 lqg15hs2n2s02d 电感 2.2 nh 叠层 non magnetic core 0.3 nh / 0.3 nh 0.3 a 0402 smd lqg15hs2n2s02d 2000 10000 0.02 湘海
-__label__有源晶体振荡器 , ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
-__label__碳膜电阻 , 1w / 24k 5% 碳膜 电阻 1
-__label__碳膜电阻 , res 1 ohms 1 / 4w 5% axial frm 25jt 52 1r 1 600
-__label__精密可调电阻 , 18750 3296w 1 101lf 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w 33
-__label__碳膜电阻 , carbon film resistor cr14w2k4jt 碳膜 電阻 1 / 4w 5% 2.4 k t 5000
-__label__采样电阻 , 贴片 电阻 10m / 2512 10m 1% 2w smd 2512 erj mp4pf10mu
-__label__采样电阻 , smd 1206 0.01 ω / 1 2w 20000
-__label__有源晶体振荡器 , 晶振 40.000 mhz 有源 7050 40.000 mhz 有源 7050 ± 2ppm smd 4 txc 50 50
-__label__碳膜电阻 , res carb 33k 2w 5% 6491
-__label__有源晶体振荡器 , sit8103ac 32 33e 40.00000 sitime osc 40mhz 有源 晶振 4pin 3.3 v smt 5.0 mm x 3.2 mm osc smd5x3.2 1 12
 __label__采样电阻 , 贴片 电阻 rc1206 0.033 ω r033 ± 1 ％ 合金
-__label__精密可调电阻 , 18753 3296w 1 501lf 微調 電阻 可變 電阻 trimmer resistors 500ohm 05 w 27
+__label__精密可调电阻 , 18750 3296w 1 101lf 微調 電阻 可變 電阻 trimmer resistors 100ohm 05 w 33
+__label__采样电阻 , res smd 0.001 ohm 3w 2512 wide 5% r1 r2 r60 susumu co ltd krl6432e m r001 j t1
+__label__采样电阻 , 贴片 电阻 805 0.02 wsl0805r0200fea res smd 0.02 ohm 1% 1 / 8w 0805 r18 1 10
+__label__有源晶体振荡器 , 有源 晶振 1 2520 50mhz 3.3 v 1000
+__label__直插瓷片电容 , s102k29y5pn6tj5r 1000pf 5mm cer 1kv c11 1000pf 10% 1kv 1000pf 1 50
+__label__碳膜电阻 , 碳膜 电阻 200k ω 1 / 4w smd 1206 1 r2
+__label__碳膜电阻 , р р cfr resistor chip 1w 1 2 / 5% mf 100 1 2 o cfr 100 dip 2 200 直插 电阻 1w 1.2 r 5%
+__label__碳膜电阻 , res 330 ohm 1 / 4w 5% axial erd s2tj331v 1 600
+__label__有源晶体振荡器 , 1 crystal oscillator 100mhz fn 144 8089 pc 10.0 must operate 40 60oc o100m000000l434 ael crystals 10 4.0782 6 13days e
+__label__采样电阻 , 采样 电阻 8mr 1812
+__label__采样电阻 , 0.02 res mf 0.02 ohm 1 / 10w 1% 0603 intertechnology wsl0603r0200fea r14 rc0603 ov 20
+__label__精密可调电阻 , 18752 3296w 1 201lf 微調 電阻 可變 電阻 trimmer resistors 200ohm 05 w 25
+__label__有源晶体振荡器 , sit9121ai 2c2 33e200.000000 sitime osc 200mhz osc lvds 3.3 v smt 5.0 mm x 3.2 mm osc lvds5x3.2 1 4
+__label__采样电阻 , 0.01 res 0.01 ohm 1% 1 / 2w 0805 erj 6cwfr0 10v 6060.0
+__label__碳膜电阻 , 碳膜 电阻 51k ω 1 / 8w smd 0805 2 r8 r9
+__label__碳膜电阻 , р р cfr resistor chip 2w 110 k / 5% mf 200 100 ko cfr 100 dip 2 200 直插 电阻 1w 100k 5%
+__label__碳膜电阻 , 1w / 24k 5% 碳膜 电阻 1
+__label__精密可调电阻 , 74 精密 可调 电阻 20k 3296 1 4 低温 漂 25ppm
+__label__有源晶体振荡器 , ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
+__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed 3296x 1 202r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
+__label__CBB电容 , cbb22 334j 400v capacitance 0.33 µ frated voltage 400vtolerance 5% 10.0 c8
+__label__精密可调电阻 , 可调 电位器 多圈 精密 5k 3pin 2.54 mm
+__label__采样电阻 , 2.0 0.02 / 1% r176 r177 r0603 1.0 2.0 0.0 40000.0
+__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
+__label__高频电感 , smd 高频 电感 2nh film type rf ind 2nh ± 0.1 nh 0402 l0402 lqg15hs2n0s02 l303 l305 l306 3.0 15
+__label__有源晶体振荡器 , tcxo 16.384 mhz pc 30 lftvxo009915 iqd frequency products
+__label__直插瓷片电容 , capacitor pth ceramico 100nf / 50v 50
+__label__碳膜电阻 , 碳膜 电阻 1.5 m ω 1 / 4w smd 1206 1 r1
+__label__高频电感 , 28 电感 l4 l5 0603 5% 电感 射频 15nh 2 2 200
+__label__碳膜电阻 , resistor through hole 620e 0.25 w axial through hole erd s2tj621v 1 600
+__label__采样电阻 , 康铜 电阻 5m ω / 3w 1% 插件 rs1 rs2 rs3 1000
+__label__碳膜电阻 , res 100k ohm 1w 5% axial multi comp mcf 1w 100k 1 600
+__label__碳膜电阻 , 4.3 r 1 / 4w 5% carbon film 0.097 2 0.114 291 4.3 rc xicon 291 4.3 rc quantity needed 2
+__label__高频电感 , 29 电感 l6 0603 5% 电感 射频 8.2 nh 2 1 100
+__label__直插瓷片电容 , 高压 瓷片 电容 4.7 nf / 1kv 脚 间距 5mm m 1.00 5k
+__label__精密可调电阻 , 7 1 / 4 6.35 mm multi turn cermet trimmers 3266w series 0.25 w 100k fn 935 2660 pc 10.0
+__label__直插瓷片电容 , vy2332m41y5us63v7 3300pf 7.5 mm y2 vy2 300vac c3 c5 3300pf 20% 300vac 3300pf 2 400
+__label__精密可调电阻 , 18954 vr50k l4ga 變 電阻 調式 電阻 potentiometer 3 pin 50k ω 2500
+__label__有源晶体振荡器 , ecs 3963 270 bn tr 1 oscillator standard 27mhz / 50ppm 3.3 v 35ma smd 5mm x 3.2 mm smd 5.0 mmx3.2 mm
+__label__碳膜电阻 , res 22k ohm 1 / 4w 5% axial erd s2tj223v 1 600
+__label__直插瓷片电容 , 陶瓷 电容 3kv331 300pf rad0.2 810
+__label__采样电阻 , 59 r90 1 0.01 r res thick film 0.01 ohm / 5% 1 / 16w smd1206 r1206 100 1206 0.01 r 1% 500 5000 0.0586 lc
+__label__采样电阻 , res smd 001 1% 3w 2512 cur sen r14 r17 2 inc cra2512 fz r010elf / / / product detail / en / cra2512 fz r010elf / cra2512 fz r010elfct nd / 1775054 10000 20000
+__label__直插瓷片电容 , 直插 电容 c13 1 103 1kv
+__label__直插瓷片电容 , 瓷片 电容 ct81n7y5v1b472mse 4700p / 1kv 间距 5mm 1k 2800 2400
+__label__直插瓷片电容 , 10nf / 1kv 高压 瓷片 电容 c1 c2 c4 ax 5p 7d 3.0 / 京瓷
+__label__精密可调电阻 , trimmer resistors trimmer resistors through hole sealed vertical adjust 3296w 1 502r rt1 1 / / / ds / 2 / 54 / 296 776415 pdf
+__label__碳膜电阻 , 1k1 1w 5% carbon film 0.158 1 0.114 294 1.1 k rc xicon 294 1.1 k rc quantity needed 1 294 1.1 k rc 1
+__label__采样电阻 , 1.0 25mr / 1% r324 r1206 1.0 1.0 0.0 20000.0
+__label__高频电感 , 贴片 电感 sdcl1005c33njtdf / 0402 10 000 0 2017 09 21 2017 09 21 sdcl1005c33njtdf 10000 0.01 2

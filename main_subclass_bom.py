@@ -45,7 +45,7 @@ class FastTextModel:
         self.n_gram = 2
         pass
 
-    def fit(self, train_file_path):
+    def train(self, train_file_path):
         '''
         依据训练数据不断更新权重
         '''
@@ -66,7 +66,7 @@ class FastTextModel:
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
         print('训练完成......')
 
-    def evaluate(self, train_file_path, test_file_path):
+    def evaluate1(self, train_file_path, test_file_path):
         '''
         调参
         :return:
@@ -173,42 +173,52 @@ class FastTextModel:
         plt.show()
         logger.info('训练结束...')
 
-    def verify(self, train_file_path, vali_file_path):
+    @staticmethod
+    def loadTrainData(file_path):
+        """ 加载 BOM标注数据路径
+        :return:标签和样本描述
+        """
         pass
-        vali_correct_labels = []
-        vali_texts = []
-        # 加载验证集
-        with open(vali_file_path, "r", encoding="utf-8") as ft_test:
+        correct_labels = []
+        texts_content = []
+        with open(file_path, "r", encoding="utf-8") as ft_test:
             for line in ft_test:
-                vali_correct_labels.append(line.strip().split(" , ")[0].replace('__label__',''))
-                vali_texts.append(line.strip().split(" , ")[1])
+                correct_labels.append(line.strip().split(" , ")[0].replace('__label__',''))
+                texts_content.append(line.strip().split(" , ")[1])
+        return correct_labels, texts_content
 
-        # 加载分类模型
-        for i in range(1, self.epoch):
-            print('============')
-            print(f'验证集标签：{vali_correct_labels}')
-            vali_predict_labels = []
-            w = self.n_gram
-            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
-            predict_labels = classifier_model_i.predict(vali_texts)[0]
-            for i in predict_labels:
-                vali_predict_labels.append(i[0].replace('__label__',''))
-            print(f'验证集预测标签：{vali_predict_labels}')
-            print(f'准确率计算：{accuracy_score(vali_correct_labels, vali_predict_labels)}')
-            print(f"宏平均：{metrics.precision_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
+    def evaluate(self, classifier_model, file_path):
+        """
+        评价模型效果
+        :param classifier_model: 单个分类模型
+        :param file_path:  Bom标注数据路径
+        :return:
+        """
+        vali_correct_labels, vali_texts = self.loadTrainData(file_path)
 
-            print(f'标签：{label_list}')
-            labels_ = []
-            for i in label_list:
-                labels_.append(i.replace('__label__',''))
-            logger.debug(confusion_matrix(vali_correct_labels, vali_predict_labels,labels=labels_))
+        # print(f'验证集标签：{vali_correct_labels}')
+        predict_labels = []
+        model_predict_labels = classifier_model.predict(vali_texts)[0]
+        for i in model_predict_labels:
+            predict_labels.append(i[0].replace('__label__', ''))
+        # print(f'验证集预测标签：{vali_predict_labels}')
+        # print(f'准确率计算：{accuracy_score(vali_correct_labels, vali_predict_labels)}')
+        # print(f"f1宏平均：{metrics.f1_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
 
-            confusion_matrix_model_i = confusion_matrix(vali_correct_labels, vali_predict_labels,labels=labels_)
+        logger.debug(f'标签：{label_list}')
+        labels_ = []
+        for i in label_list:
+            labels_.append(i.replace('__label__',''))
+        logger.debug(confusion_matrix(vali_correct_labels, predict_labels,labels=labels_))
 
-            print(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
+        confusion_matrix_model_i = confusion_matrix(vali_correct_labels, predict_labels,labels=labels_)
 
-            logger.debug('分类报告:')
-            logger.debug(classification_report(vali_correct_labels, vali_predict_labels, target_names=labels_))
+        logger.debug(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
+
+        logger.debug('分类报告:')
+        logger.debug(classification_report(vali_correct_labels, predict_labels, target_names=labels_))
+
+        return accuracy_score(vali_correct_labels, predict_labels), metrics.f1_score(vali_correct_labels, predict_labels, average='macro')
 
 def predict_output(str1, model):
     print('前3预测： ', model.predict([str1], k=3))
@@ -308,8 +318,54 @@ if __name__ == '__main__':
         learn_rate = 0.5  # 0.5, 0.8
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate)
-        # ft_.fit(r'.\data\corpus\train_data.txt')  # 训练
-        ft_.verify(r'.\data\corpus\train_data.txt', r'.\data\corpus\vali_data.txt')   #
+        # ft_.train(r'.\data\corpus\train_data.txt')  # 训练
+        # ft_.evaluate(r'.\data\corpus\train_data.txt', r'.\data\corpus\vali_data.txt')   #
+
+        # 记录
+        train_accuracy_list = []  # 准确率
+        train_f1_macro_list = []  # f1 宏平均
+        val_accuracy_list = []
+        val_f1_macro_list = []
+
+        for i in range(1, epoch_):
+            pass
+            w = ft_.n_gram
+            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
+            logger.debug('============')
+            logger.debug(f'epoch_{i}, 训练集: ')
+            accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\train_data.txt')
+            train_accuracy_list.append(accuarcy)
+            train_f1_macro_list.append(f1_score)
+
+            logger.debug('============')
+            logger.debug(f'epoch_{i}, 验证集: ')
+            accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\vali_data.txt')
+            val_accuracy_list.append(accuarcy)
+            val_f1_macro_list.append(f1_score)
+
+        print(f'训练集准确率：{train_accuracy_list}')
+        print(f'训练集f1：{train_f1_macro_list}')
+        print(f'验证集准确率：{val_accuracy_list}')
+        print(f'验证集f1：{val_f1_macro_list}')
+
+        plot_x = list(range(1, epoch_))
+        plt.figure()
+        plt.plot(plot_x, train_accuracy_list, color="k", linestyle="-", marker="^", linewidth=1, label="train_accu")
+        plt.plot(plot_x, train_f1_macro_list, color="k", linestyle="-", marker="X", linewidth=1, label="train_f1")
+        plt.plot(plot_x, val_accuracy_list, color="r", linestyle="-", marker="^", linewidth=1, label="val_accu")
+        plt.plot(plot_x, val_f1_macro_list, color="r", linestyle="-", marker="X", linewidth=1, label="val_f1")
+        # plt.legend(loc='upper left', bbox_to_anchor=(0.1, 0.95))
+        plt.xlabel("epoch", fontsize=20)
+        plt.ylabel("property", fontsize=20)
+        plt.legend()
+        # plt.title("{}-gram".format(w))
+        plt.grid()
+        # time_temp = time.strftime("(T%Y-%m-%d-%H-%M)", time.localtime())
+        time_temp = time.strftime("(T%Y-%m-%d-%H)", time.localtime())
+        plt.savefig(r".\pic\{}.png".format(time_temp + "rate" + str(ft_.lr) + '_' + str(w) + '-gram_' + ft_.loss))
+        plt.show()
+
+
 
     # 5 测试
     test_flag = 1
