@@ -24,5 +24,17 @@ label_subclass_database = ['压敏电阻', '贴片高精密-低温漂电阻', '�
 
 jieba_dict = []
 
+
+class SubclassLabelList():
+    label_list = []
+
+    @classmethod
+    def setLabel(cls, label_new):
+        cls.label_list = label_new
+
+    @classmethod
+    def getLabel(cls):
+        return cls.label_list
+
 if __name__ == "__main__":
     pass

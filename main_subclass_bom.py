@@ -27,22 +27,25 @@ from data_operation import OperateExcel
 import time
 from data_operation.function import load_stop_word_list, standard, labelNewSubclass, path_clear
 from data_operation.txt_operate import OperateTXT
-import os
+import os, pickle
 import numpy as np
+from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid
+from data_operation.constant import label_name_forbid, SubclassLabelList
+
 stop_words = load_stop_word_list("stopwords_subclass.txt")
 
 
 class FastTextModel:
-    def __init__(self, epoch, loss, learn_rate):
+    def __init__(self, epoch, loss, learn_rate, n_gram):
         '''
         初始化网络，设置损失函数，迭代数///
         '''
         self.epoch = epoch
         self.loss = loss
         self.lr = learn_rate
-        self.n_gram = 2
+        self.n_gram = n_gram
+
         pass
 
     def train(self, train_file_path):
@@ -62,116 +65,9 @@ class FastTextModel:
                                              minn=3,
                                              maxn=15)
             print("ngram=%d,训练第%d轮，用时%s" % (w, i, time.time() - start_time))
-            classifier.save_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
+            classifier.save_model(r"D:\dufy\code\local\model\ft_subclass\train_models\model_w" + str(w) + "_e" + str(i))
             print('============训练进度{:.2}============='.format((i - 1)/(self.epoch - 2)))
         print('训练完成......')
-
-    def evaluate1(self, train_file_path, test_file_path):
-        '''
-        调参
-        :return:
-        '''
-        plot_x_epoch = list(range(2, self.epoch))
-        # 加载测试数据
-        correct_labels = []
-        texts = []
-        test_accuracy = []
-        train_accuracy = []
-        test_f1 = []
-        with open(test_file_path, "r", encoding="utf-8") as ft_test:
-            for line in ft_test:
-                # print(line)
-                correct_labels.append(line.strip().split(" , ")[0])
-                texts.append(line.strip().split(" , ")[1])
-        # print('correct_labels 为：{}'.format(correct_labels))
-        # 加载分类模型
-        #for w in range(1, 2):
-        for i in range(2, self.epoch):
-            w = self.n_gram
-            classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
-            # print("Model/model_w" + str(w) + "_e" + str(i))
-            # 预测
-            # classifier.get_word_vector()
-            predict_labels = classifier.predict(texts)[0]
-            # print(dir(classifier),';;;;;;;')
-            # print('测试集predict_labels 为：', predict_labels, type(predict_labels))
-            print(confusion_matrix(correct_labels, predict_labels,
-                                   labels=label_list))
-            f1_score = metrics.f1_score(correct_labels, predict_labels,
-                                        average='weighted')
-            print('\033[1;32m 测试集F1: {:.3}\033[0m'.format(f1_score))
-            test_f1.append(f1_score)
-            # 计算预测结果
-            # print(len(texts))
-            accuracy_num = 0
-            for j in range(len(texts)):
-                if predict_labels[j][0] == correct_labels[j]:
-                    # print(predict_labels[j][0], correct_labels[j], '===~~~~~~~')
-                    accuracy_num += 1
-
-            accuracy = accuracy_num / len(texts)
-            test_accuracy.append(accuracy)
-            # print("正确率：%s" % accuracy)
-            print('Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
-            print('=====分隔符======')
-        print(test_accuracy, test_f1)  # 包括了n1, 和n2
-        test_accuracy_n1 = test_accuracy
-        # test_accuracy_n2 = test_accuracy[(epoch_ - epoch_begin):]
-        test_f1_n1 = test_f1
-        # test_f1_n2 = test_f1[(epoch_ - epoch_begin):]
-        # ====================训练数据==================
-        print('计算训练数据......')
-        correct_labels_train = []
-        texts1 = []
-
-        with open(train_file_path, "r", encoding="utf-8") as ft_train:
-            for line in ft_train:
-                # print(line, '--------------------')
-                # print(line.strip().split(" , ")[0], '--------------------')
-                try:
-                    correct_labels_train.append(line.strip().split(" , ")[0])
-                    texts1.append(line.strip().split(" , ")[1])
-                except:
-                    continue
-        # print('correct_labels 为：{}'.format(correct_labels_train))
-        # 加载分类模型
-
-        for i in range(2, self.epoch):
-            w = self.n_gram
-            classifier = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w" + str(w) + "_e" + str(i))
-            # print("Model/model_w" + str(w) + "_e" + str(i))
-            # 预测
-            predict_labels = classifier.predict(texts1)[0]
-            # print(predict_labels,'--------------------')
-            # 计算预测结果
-            # print(len(texts))
-            accuracy_num = 0
-            for j in range(len(texts1)):
-                if predict_labels[j][0] == correct_labels_train[j]:
-                    accuracy_num += 1
-            # print(accuracy_num,'--------------------')
-            accuracy = accuracy_num / len(texts1)
-            train_accuracy.append(accuracy)
-            # print("训练集正确率：%s" % accuracy)
-            print('训练集Model/model_w{}_e{}正确率：{:.2}'.format(w, i, accuracy))
-
-        train_accuracy_n1 = train_accuracy
-        # train_accuracy_n2 = train_accuracy[(epoch_ - epoch_begin):]
-        plt.figure()
-        plt.plot(plot_x_epoch, test_accuracy_n1, color="r", linestyle="-", marker="^", linewidth=1,
-                 label="validation_accu")
-        plt.plot(plot_x_epoch, test_f1_n1, color="b", linestyle="-", marker="o", linewidth=1, label="validation_f1")
-        plt.plot(plot_x_epoch, train_accuracy_n1, color="k", linestyle="-", marker="s", linewidth=1, label="train_accu")
-        # plt.legend(loc='upper left', bbox_to_anchor=(0.1, 0.95))
-        plt.xlabel("epoch")
-        plt.ylabel("accuracy")
-        plt.legend()
-        plt.title("{}-gram".format(w))
-        plt.grid()
-        time_temp = time.strftime("(T%Y-%m-%d-%H-%M)", time.localtime())
-        plt.savefig(r"D:\dufy\code\fast_subclass30\pic\{}.png".format(time_temp+"rate" + str(self.lr) + '_'+str(w)+'-gram_' + self.loss))
-        plt.show()
-        logger.info('训练结束...')
 
     @staticmethod
     def loadTrainData(file_path):
@@ -194,11 +90,11 @@ class FastTextModel:
         :param file_path:  Bom标注数据路径
         :return:
         """
-        vali_correct_labels, vali_texts = self.loadTrainData(file_path)
+        correct_labels, texts = self.loadTrainData(file_path)
 
         # print(f'验证集标签：{vali_correct_labels}')
         predict_labels = []
-        model_predict_labels = classifier_model.predict(vali_texts)[0]
+        model_predict_labels = classifier_model.predict(texts)[0]
         for i in model_predict_labels:
             predict_labels.append(i[0].replace('__label__', ''))
         # print(f'验证集预测标签：{vali_predict_labels}')
@@ -206,19 +102,56 @@ class FastTextModel:
         # print(f"f1宏平均：{metrics.f1_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
 
         logger.debug(f'标签：{label_list}')
-        labels_ = []
-        for i in label_list:
-            labels_.append(i.replace('__label__',''))
-        logger.debug(confusion_matrix(vali_correct_labels, predict_labels,labels=labels_))
+        labels_ = list(set(correct_labels+predict_labels))
+        # for i in label_list:
+        #     labels_.append(i.replace('__label__',''))
+        logger.debug(confusion_matrix(correct_labels, predict_labels,labels=labels_))
 
-        confusion_matrix_model_i = confusion_matrix(vali_correct_labels, predict_labels,labels=labels_)
+        confusion_matrix_model_i = confusion_matrix(correct_labels, predict_labels,labels=labels_)
 
         logger.debug(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
 
         logger.debug('分类报告:')
-        logger.debug(classification_report(vali_correct_labels, predict_labels, target_names=labels_))
+        logger.debug(classification_report(correct_labels, predict_labels, target_names=labels_))
 
-        return accuracy_score(vali_correct_labels, predict_labels), metrics.f1_score(vali_correct_labels, predict_labels, average='macro')
+        return accuracy_score(correct_labels, predict_labels), metrics.f1_score(correct_labels, predict_labels, average='macro')
+
+    @classmethod
+    def test(cls, classifier_model, file_path):
+        """
+        测试集查看最终效果
+        :param classifier_model: 单个分类模型
+        :param file_path:  Bom标注数据路径
+        :return:
+        """
+        correct_labels, texts = cls.loadTrainData(file_path)
+
+        # print(f'验证集标签：{vali_correct_labels}')
+        predict_labels = []
+        model_predict_labels = classifier_model.predict(texts)[0]
+        for i in model_predict_labels:
+            predict_labels.append(i[0].replace('__label__', ''))
+        # print(f'验证集预测标签：{vali_predict_labels}')
+        # print(f'准确率计算：{accuracy_score(vali_correct_labels, vali_predict_labels)}')
+        # print(f"f1宏平均：{metrics.f1_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
+
+        # label_list = SubclassLabelList.getLabel() # 想通过类加载，实现不了、、、
+        f = open(r'.\data\variant\label_list.txt', 'rb')
+        label_list = pickle.load(f)
+        f.close()
+        logger.debug(f'标签：{label_list}')
+        labels_ = list(set(correct_labels + predict_labels))
+        logger.debug(confusion_matrix(correct_labels, predict_labels,labels=labels_))
+
+        confusion_matrix_model_i = confusion_matrix(correct_labels, predict_labels,labels=labels_)
+
+        logger.debug(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
+
+        logger.debug('分类报告:')
+        logger.debug(classification_report(correct_labels, predict_labels, target_names=labels_))
+
+        return accuracy_score(correct_labels, predict_labels), metrics.f1_score(correct_labels, predict_labels, average='macro')
+
 
 def predict_output(str1, model):
     print('前3预测： ', model.predict([str1], k=3))
@@ -281,47 +214,52 @@ class TestExcel(OperateExcel):  # 重写函数
 
 def save_test_info(error_info, true_label, aa_description_standard, aa_description, predicted_probability):
     pass
-    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\aaa.txt', error_info)
-    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\bbb.txt',
+    OperateTXT().txt_write_line(r'.\test\aaa.txt', error_info)
+    OperateTXT().txt_write_line(r'.\test\bbb.txt',
                                 '__label__' + true_label + ' , ' + aa_description_standard)
-    OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\ccc.txt',
+    OperateTXT().txt_write_line(r'.\test\ccc.txt',
                                 '__label__' + true_label + ' , ' + aa_description)
     if predicted_probability > 0.6:
-        OperateTXT().txt_write_line(r'D:\dufy\code\fast_subclass30\test\error_0.6.txt', error_info + '\n'
-                                    +'__label__' + true_label + ' , '+aa_description+ '\n'
-                                    +'======' )
+        OperateTXT().txt_write_line(r'.\test\error_0.6.txt', error_info + '\n'
+                                    +'__label__' + true_label + ' , '+aa_description+ '\n' +'======' )
 
 
 if __name__ == '__main__':
     logger = get_logger()
 
-    excel_read_tag = 10
+    excel_read_tag = 100
     if excel_read_tag == 1:
         excel_read2txt()
+
+# ===============训练========================
+    epoch_begin = 2
+    epoch_ = 300  # 100
+    loss_name = 'softmax'
+    learn_rate = 0.5  # 0.5, 0.8
+    n_gram = 2
 
     train_tag = 1
     if train_tag == 1:
         # 2 读取上一步不同txt 融合，写入'selection_data.txt'
         label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
+        # SubclassLabelList.setLabel(label_list)
+
+        f = open(r'.\data\variant\label_list.txt', 'wb')
+        pickle.dump(label_list, f)
+        f.close()
 
         # # # 3 划分数据集
-        # datasSplit()
+        datasSplit()
         # 读取误分类数据到训练集
         # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
         #     for line in file.readlines():
         #         OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
 
         # 4 训练-调参
-        epoch_begin = 2
-        epoch_ = 5  # 100
-        loss_name = 'softmax'
-        learn_rate = 0.5  # 0.5, 0.8
 
-        ft_ = FastTextModel(epoch_, loss_name, learn_rate)
-        # ft_.train(r'.\data\corpus\train_data.txt')  # 训练
-        # ft_.evaluate(r'.\data\corpus\train_data.txt', r'.\data\corpus\vali_data.txt')   #
+        ft_ = FastTextModel(epoch_, loss_name, learn_rate, n_gram)
+        ft_.train(r'.\data\corpus\train_data.txt')  # 训练
 
-        # 记录
         train_accuracy_list = []  # 准确率
         train_f1_macro_list = []  # f1 宏平均
         val_accuracy_list = []
@@ -330,7 +268,7 @@ if __name__ == '__main__':
         for i in range(1, epoch_):
             pass
             w = ft_.n_gram
-            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\model_w" + str(w) + "_e" + str(i))
+            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\train_models\model_w" + str(w) + "_e" + str(i))
             logger.debug('============')
             logger.debug(f'epoch_{i}, 训练集: ')
             accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\train_data.txt')
@@ -348,33 +286,34 @@ if __name__ == '__main__':
         print(f'验证集准确率：{val_accuracy_list}')
         print(f'验证集f1：{val_f1_macro_list}')
 
-        plot_x = list(range(1, epoch_))
-        plt.figure()
-        plt.plot(plot_x, train_accuracy_list, color="k", linestyle="-", marker="^", linewidth=1, label="train_accu")
-        plt.plot(plot_x, train_f1_macro_list, color="k", linestyle="-", marker="X", linewidth=1, label="train_f1")
-        plt.plot(plot_x, val_accuracy_list, color="r", linestyle="-", marker="^", linewidth=1, label="val_accu")
-        plt.plot(plot_x, val_f1_macro_list, color="r", linestyle="-", marker="X", linewidth=1, label="val_f1")
-        # plt.legend(loc='upper left', bbox_to_anchor=(0.1, 0.95))
-        plt.xlabel("epoch", fontsize=20)
-        plt.ylabel("property", fontsize=20)
-        plt.legend()
-        # plt.title("{}-gram".format(w))
-        plt.grid()
-        # time_temp = time.strftime("(T%Y-%m-%d-%H-%M)", time.localtime())
-        time_temp = time.strftime("(T%Y-%m-%d-%H)", time.localtime())
-        plt.savefig(r".\pic\{}.png".format(time_temp + "rate" + str(ft_.lr) + '_' + str(w) + '-gram_' + ft_.loss))
-        plt.show()
+        # 绘制训练集和验证集数据比较
+        plotTrainEffect(ft_,train_accuracy_list,train_f1_macro_list,val_accuracy_list,val_f1_macro_list)
+
+    # ===============测试集========================
+    test_tag = 1  # 查看测试集效果
+    if test_tag == 1:
+        pass
+        test_accuracy_list = []
+        test_f1_macro_list = []
+
+        classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\test_models\model_w2_e3")
+        logger.debug('============')
+        logger.debug(f'测试集: ')
+        accuarcy, f1_score = FastTextModel.test(classifier_model_i, r'.\data\corpus\test_data.txt')
+        test_accuracy_list.append(accuarcy)
+        test_f1_macro_list.append(f1_score)
+
+        print(f'测试集准确率：{test_accuracy_list}')
+        print(f'测试集f1：{test_f1_macro_list}')
 
 
-
-    # 5 测试
+    # ===============BOM测试========================
     test_flag = 1
-
     if test_flag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.22Mike'
 
-        model_folder = r'D:\dufy\code\ft_BOM\model_1'  # 单个模型测试
+        model_folder = r'D:\dufy\code\local\model\ft_subclass\test_models'  #
         model_names = os.listdir(model_folder)
 
         dict_model_test = {}
@@ -384,7 +323,7 @@ if __name__ == '__main__':
         for i, name0 in enumerate(model_names):  # 文件夹下文件循环
             modle_path = model_folder + '\\' + name0
             prediciton_model = ff.load_model(modle_path)
-            path_clear(r'D:\dufy\code\fast_subclass30\test')
+            path_clear(r'.\test')
 
             all_record = 0
             right_record = 0
@@ -421,29 +360,11 @@ if __name__ == '__main__':
             dict_model_test[name0] = right_record / all_record  # 此处。。。。
         print(dict_model_test)
 
-        plt.scatter(list(range(len(record_wrong_probability_list))), record_wrong_probability_list, color="r",
-                    marker="x", linewidth=1, label="wrong label")
-        plt.scatter(list(range(len(record_right_probability_list))), record_right_probability_list, color="b",
-                    marker="o", linewidth=1, label="right label")
-        plt.grid()
-        plt.xlabel("Sample Number")
-        plt.ylabel("Probability")
-        plt.legend(loc='lower right')
-        plt.show()
+        # 绘制分类正确、错误的散点图
+        plotScatterRightWrongMark(record_wrong_probability_list, record_right_probability_list)
+        # 绘制不同模型的准确率比较
+        plotCompareModelAccuracy(dict_model_test)
 
-        x = []
-        y = []
-        for key, value in dict_model_test.items():
-            print(value)
-            x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
-            y.append(value)
-
-        plt.plot(x, y, "b-o", linewidth=2)
-        plt.xlabel("model")  # X轴标签
-        plt.ylabel("accu")  # Y轴标签
-        plt.title("Line plot")  # 图标题
-        plt.grid()
-        plt.show()  # 显示图
 
     if test_flag == 0:
         ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
