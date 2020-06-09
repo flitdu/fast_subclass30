@@ -47,6 +47,26 @@ class FastTextModel:
         self.n_gram = n_gram
 
         pass
+    def trainWithAllDatas(self, train_file_path):
+        '''
+        拿所有数据训练最终模型
+        '''
+
+        w = self.n_gram
+        start_time = time.time()  # loss = softmax or hs
+        classifier = ff.train_supervised(train_file_path,
+                                         epoch=self.epoch,
+                                         loss=self.loss,
+                                         lr=self.lr,
+                                         dim=35,
+                                         wordNgrams=w,
+                                         minCount=1,  # 词频阈值, 小于该值在初始化时会过滤掉
+                                         minn=3,
+                                         maxn=15)
+        print("训练用时%s" % (time.time() - start_time))
+        classifier.save_model(r"D:\dufy\code\local\model\ft_subclass\final_models\model" + "_e" + str(self.epoch))
+        print('最终模型训练完成......')
+
 
     def train(self, train_file_path):
         '''
@@ -101,15 +121,11 @@ class FastTextModel:
         # print(f'准确率计算：{accuracy_score(vali_correct_labels, vali_predict_labels)}')
         # print(f"f1宏平均：{metrics.f1_score(vali_correct_labels, vali_predict_labels, average='macro')}" )
 
-        logger.debug(f'标签：{label_list}')
         labels_ = list(set(correct_labels+predict_labels))
-        # for i in label_list:
-        #     labels_.append(i.replace('__label__',''))
-        logger.debug(confusion_matrix(correct_labels, predict_labels,labels=labels_))
 
-        confusion_matrix_model_i = confusion_matrix(correct_labels, predict_labels,labels=labels_)
-
-        logger.debug(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
+        # logger.debug(confusion_matrix(correct_labels, predict_labels,labels=labels_))
+        # confusion_matrix_model_i = confusion_matrix(correct_labels, predict_labels,labels=labels_)
+        # logger.debug(f'混淆矩阵：{confusion_matrix_model_i}')  # 横为预测，  竖为真实
 
         logger.debug('分类报告:')
         logger.debug(classification_report(correct_labels, predict_labels, target_names=labels_))
@@ -137,9 +153,7 @@ class FastTextModel:
 
         # label_list = SubclassLabelList.getLabel() # 想通过类加载，实现不了、、、
         f = open(r'.\data\variant\label_list.txt', 'rb')
-        label_list = pickle.load(f)
-        f.close()
-        logger.debug(f'标签：{label_list}')
+
         labels_ = list(set(correct_labels + predict_labels))
         logger.debug(confusion_matrix(correct_labels, predict_labels,labels=labels_))
 
@@ -238,27 +252,28 @@ if __name__ == '__main__':
     learn_rate = 0.5  # 0.5, 0.8
     n_gram = 2
 
-    train_tag = 1
+    train_tag = 10
     if train_tag == 1:
         # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-        label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
-        # SubclassLabelList.setLabel(label_list)
-
-        f = open(r'.\data\variant\label_list.txt', 'wb')
-        pickle.dump(label_list, f)
-        f.close()
+        # label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
+        # # SubclassLabelList.setLabel(label_list)
+        #
+        # f = open(r'.\data\variant\label_list.txt', 'wb')
+        # pickle.dump(label_list, f)
+        # f.close()
 
         # # # 3 划分数据集
-        datasSplit()
+        # datasSplit()
+
         # 读取误分类数据到训练集
         # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
         #     for line in file.readlines():
         #         OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
 
-        # 4 训练-调参
+        # 4 训练-评价
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate, n_gram)
-        ft_.train(r'.\data\corpus\train_data.txt')  # 训练
+        # ft_.train(r'.\data\corpus\train_data.txt')  # 训练
 
         train_accuracy_list = []  # 准确率
         train_f1_macro_list = []  # f1 宏平均
@@ -267,51 +282,70 @@ if __name__ == '__main__':
 
         for i in range(1, epoch_):
             pass
-            w = ft_.n_gram
-            classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\train_models\model_w" + str(w) + "_e" + str(i))
-            logger.debug('============')
-            logger.debug(f'epoch_{i}, 训练集: ')
-            accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\train_data.txt')
-            train_accuracy_list.append(accuarcy)
-            train_f1_macro_list.append(f1_score)
+            try:
+                w = ft_.n_gram
+                classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\train_models\model_w" + str(w) + "_e" + str(i))
+                logger.debug('============')
+                logger.debug(f'epoch_{i}, 训练集: ')
+                accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\train_data.txt')
+                train_accuracy_list.append(accuarcy)
+                train_f1_macro_list.append(f1_score)
 
-            logger.debug('============')
-            logger.debug(f'epoch_{i}, 验证集: ')
-            accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\vali_data.txt')
-            val_accuracy_list.append(accuarcy)
-            val_f1_macro_list.append(f1_score)
+                logger.debug('============')
+                logger.debug(f'epoch_{i}, 验证集: ')
+                accuarcy, f1_score = ft_.evaluate(classifier_model_i, r'.\data\corpus\vali_data.txt')
+                val_accuracy_list.append(accuarcy)
+                val_f1_macro_list.append(f1_score)
+            except ValueError as err:
+                print(err)
+                continue
 
-        print(f'训练集准确率：{train_accuracy_list}')
-        print(f'训练集f1：{train_f1_macro_list}')
-        print(f'验证集准确率：{val_accuracy_list}')
-        print(f'验证集f1：{val_f1_macro_list}')
+        logger.debug(f'训练集准确率：{train_accuracy_list}')
+        logger.debug(f'训练集f1：{train_f1_macro_list}')
+        logger.debug(f'验证集准确率：{val_accuracy_list}')
+        logger.debug(f'验证集f1：{val_f1_macro_list}')
 
         # 绘制训练集和验证集数据比较
         plotTrainEffect(ft_,train_accuracy_list,train_f1_macro_list,val_accuracy_list,val_f1_macro_list)
 
     # ===============测试集========================
-    test_tag = 1  # 查看测试集效果
+    test_tag = 10  # 查看测试集效果
     if test_tag == 1:
         pass
         test_accuracy_list = []
         test_f1_macro_list = []
+        dict_model_test_accu = {}
+        dict_model_test_f1 = {}
+        model_folder = r'D:\dufy\code\local\model\ft_subclass\test_models'
+        model_names = os.listdir(model_folder)
 
-        classifier_model_i = ff.load_model(r"D:\dufy\code\local\model\ft_subclass\test_models\model_w2_e3")
-        logger.debug('============')
-        logger.debug(f'测试集: ')
-        accuarcy, f1_score = FastTextModel.test(classifier_model_i, r'.\data\corpus\test_data.txt')
-        test_accuracy_list.append(accuarcy)
-        test_f1_macro_list.append(f1_score)
+        for i, name0 in enumerate(model_names):  # 文件夹下文件循环
+            modle_path = model_folder + '\\' + name0
+            classifier_model_i = ff.load_model(modle_path)
+            logger.debug('============')
+            logger.debug(f'测试集: ')
+            accuarcy, f1_score = FastTextModel.test(classifier_model_i, r'.\data\corpus\test_data.txt')
+            test_accuracy_list.append(accuarcy)
+            test_f1_macro_list.append(f1_score)
+            dict_model_test_accu[name0] =accuarcy
+            dict_model_test_f1[name0] =f1_score
 
         print(f'测试集准确率：{test_accuracy_list}')
         print(f'测试集f1：{test_f1_macro_list}')
+        plotCompareModelAccuracy(dict_model_test_accu)
+
+    # ===============利用所有数据重新训练得到最终模型========================
+    trian_with_alldatas = 10
+    if trian_with_alldatas == 1:
+        ft_ = FastTextModel(150, loss_name, learn_rate, n_gram)
+        ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
 
     # ===============BOM测试========================
     test_flag = 1
     if test_flag == 1:
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.22Mike'
+        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.29Mike标注\标注'
 
         model_folder = r'D:\dufy\code\local\model\ft_subclass\test_models'  #
         model_names = os.listdir(model_folder)

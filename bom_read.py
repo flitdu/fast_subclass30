@@ -23,6 +23,7 @@ jieba.load_userdict('dict_boom.txt')  # 组合使用】
 stop_words = load_stop_word_list("stopwords_subclass.txt")
 logger = get_logger()
 
+
 class OperateExcelSubclass(OperateExcel):  # 重写函数
     def excel_write_in(self, target_path):
         pass

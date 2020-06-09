@@ -17,12 +17,13 @@ import matplotlib.pyplot as plt
 
 def plotTrainEffect(ft_,train_accuracy_list,train_f1_macro_list,val_accuracy_list,val_f1_macro_list):
     # 绘制训练集和验证集数据比较
-    plot_x = list(range(1, ft_.epoch))
+    plot_x = list(range(1, len(train_accuracy_list)+1))
+    plot_xx = list(range(1, len(val_accuracy_list)+1))
     plt.figure()
     plt.plot(plot_x, train_accuracy_list, color="k", linestyle="-", marker="^", linewidth=1, label="train_accu")
-    plt.plot(plot_x, train_f1_macro_list, color="k", linestyle="-", marker="X", linewidth=1, label="train_f1")
-    plt.plot(plot_x, val_accuracy_list, color="r", linestyle="-", marker="^", linewidth=1, label="val_accu")
-    plt.plot(plot_x, val_f1_macro_list, color="r", linestyle="-", marker="X", linewidth=1, label="val_f1")
+    plt.plot(plot_x, train_f1_macro_list, color="k", linestyle="-", marker="X", linewidth=1, label="train_F1")
+    plt.plot(plot_xx, val_accuracy_list, color="r", linestyle="-", marker="^", linewidth=1, label="val_accu")
+    plt.plot(plot_xx, val_f1_macro_list, color="r", linestyle="-", marker="X", linewidth=1, label="val_F1")
     # plt.legend(loc='upper left', bbox_to_anchor=(0.1, 0.95))
     plt.xlabel("epoch", fontsize=20)
     plt.ylabel("property", fontsize=20)
@@ -41,13 +42,15 @@ def plotCompareModelAccuracy(dict_model_record):
     y = []
     for key, value in dict_model_record.items():
         print(value)
-        x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
+        # x.append(key.strip('model_'))  # append() 方法用于在列表末尾添加新的对象。
+        x.append(key.replace('model','M'))  # append() 方法用于在列表末尾添加新的对象。
         y.append(value)
 
     plt.plot(x, y, "b-o", linewidth=2)
     plt.xlabel("model", fontsize=20)  # X轴标签
     plt.ylabel("accu", fontsize=20)  # Y轴标签
-    plt.title("不同模型准确率比较")  # 图标题
+    plt.title("不同模型准确率比较", fontsize=20)  # 图标题
+    plt.xticks(rotation=270)  # 标签旋转
     plt.grid()
     plt.show()  # 显示图
 
@@ -58,8 +61,8 @@ def plotScatterRightWrongMark(record_wrong_probability_list, record_right_probab
     plt.scatter(list(range(len(record_right_probability_list))), record_right_probability_list, color="b",
                 marker="o", linewidth=1, label="right label")
     plt.grid()
-    plt.xlabel("Sample Number")
-    plt.ylabel("Probability")
+    plt.xlabel("Sample Number", fontsize=20)
+    plt.ylabel("Probability", fontsize=20)
     plt.legend(loc='lower right')
     plt.show()
 
