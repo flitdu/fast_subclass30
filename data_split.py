@@ -187,7 +187,7 @@ def datasSplit():
     a = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\selection_data_shuffle.txt')  # 添加需要操作的文件路径
     a.txt_print()
     # a.txt_write('text_write_test.txt')   # 写入文件路径
-    a.testSplit(0.2)  # 测试比例
+    a.testSplit(0.15)  # 测试比例
 
     b = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\corpus\trains.txt')  # 添加需要操作的文件路径
     b.validationSplit(0.25)  # 验证集比例

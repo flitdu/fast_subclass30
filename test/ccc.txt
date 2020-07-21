@@ -1,285 +1,598 @@
-__label__卡缘连接器 , CONNECTOR PRINTED CIRCUIT 50 PINS PHEC50P-R11_LF FCI
-__label__EEPROM存储器 , SERIAL I2C EEPROM AT24C04B-TH ATMEL
-__label__无源晶体振荡器 , OSC SMT 50MHZ 15PF +/-30PPM SO5032-050000-O3-33-30-AS YOKE
-__label__D-Sub连接器附件 , CON DB9 90 GRAUS FEM UL ROHS JEY-9S-1A3B(LF)(SN) JST
-__label__连接器附件套件 , JUMPER 1X2 180 2.54MM UL ROHS TSW-102-24-F-S SAMTEC
-__label__PTC自恢复保险 , PTC 500mA 6V 1206 MF-NSMF050 BOURNS
-__label__拨码开关 , DIP SWITCH 10 POS SMD FULL 219-10MST CTS
-__label__D-Sub连接器附件 , DB9 COM BOARD PCB MP-4200 FT390002201 HANSONIC
-__label__板对板连接器 , CONN RECEPT 30POS 3MM SMD .5MM 52991-0308 MOLEX
-__label__无源晶体振荡器 , CRYSTAL 32.768KHZ 12.5PF 3.2x1.5MM 20500327618 YOKE
-__label__MOSFET , N Mos Transistor HM2302BSR SOT-523 nan HM2302BSR 8000 pcs
-__label__MOSFET , P MOS transistor HM2301BSR SOT-523 nan HM2301BSR 8000 pcs
-__label__排针排母 , 贴片连接器 P4 FFC扁平电缆式插座 0.5mm 8p nan 8Pin 0.5mm 翻盖下接式 1 nan 5000 nan nan nan nan
-__label__实时时钟芯片 , RTC Serial - M41T81M6F IC4 nan M41T81M6F nan nan Sim nan nan nan nan nan nan nan nan nan nan nan nan nan 9.7844 9.8876 6.5/13+ 7.5
-__label__FLASH存储器 , IC 32-Bit 50MHz 128KB (128K x 8) FLASH 64-LQFP (10x10) IC1 nan MCF51QE128CLH-ND nan nan Sim nan nan nan nan nan nan nan nan nan nan nan nan nan 39.8395 nan 44.2/12+ nan
-__label__无线模块 , RF TXRX MODULE ISM Frequency : 908.4 MHz, 916 MHz IC15 nan ZM5304AU-CME3R nan nan Não nan nan nan nan nan nan nan nan nan nan nan nan nan 59.1278 55.527 nan nan
-__label__无源晶体振荡器 , Cristal 32.768KHz cylindrico 12.5pF Abracon AB38T-32.768KHZ Q1 nan Abracon AB38T nan nan Sim nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__贴片式一次性保险丝 , 一次性保险丝,LITTELFUSE,0451007.MRL,125 VAC,125 VDC,7A,50A,表面贴装,6.1mm*2.69 mm 0451007.MRL LITTELFUSE 95 nan nan nan nan
-__label__贴片式一次性保险丝 , 一次性保险丝,LITTELFUSE,0451002.MRL,125VAC,125VDC,2A,300A @ 32VDC,表面贴装,6.1mm*2.69mm*2.69mm 0451002.MRL LITTELFUSE 100 nan nan nan nan
-__label__IDC连接器(牛角) , 电子配线连接器,高炬,A011P03238,简牛,8P,2.0mm,2ROW,表面贴装 A011P03238 高炬 90 nan nan nan nan
-__label__贴片超低阻值电阻 , 金属膜电阻,YAGEO,PE2010FKE070R02L,20mΩ,±1%,1/2W,2010,表面贴装 PE2010FKE070R02L YAGEO 150 nan nan nan nan
-__label__排针排母 , 电子配线连接器,MOLEX,53426-0310,直角针座,3P,2.50mm,1ROW,通孔安装 53426-0310 MOLEX 90 nan nan nan nan
-__label__排针排母 , 电子配线连接器,MOLEX,53426-0410,直角针座,4P,2.50mm,1ROW,通孔安装 53426-0410 MOLEX 90 nan nan nan nan
-__label__发光二极管 , 发光二极管,CREE INC.,XHP50B-4000K-J2/J4-70RA/80RA,白色,1120lm,表面贴装,5.0*5.0mm XHP50B-4000K-J2/J4-70RA/80RA CREE INC. 90 nan nan nan nan
-__label__功率电感 , 线圈贴片电感,WURTH,744045004,4.7µH,±20%,1.24A,150mΩ,1812 744045004 WURTH 100 nan nan nan nan
-__label__共模扼流圈滤波器 , 共模扼流圈,WURTH,744226S,920Ω @ 110MHz,1.6A,80mΩ,表面贴装,9.20mm*6.00mm*5.20mm 744226S WURTH 90 nan nan nan nan
-__label__共模扼流圈滤波器 , 共模扼流圈,WURTH,7448031501,电感1mH @ 10kHz,15A,3.3mΩ,通孔安装,23.00mm*17.00mm*25.00mm 7448031501 WURTH 88 nan nan nan nan
-__label__电流传感器 , 传感器IC,ALLEGRO,ACS712ELCTR-05B-T,SENSOR,电流传感器,-40℃-80℃,±15V,13mA,表面贴装,SOIC-8 ACS712ELCTR-05B-T ALLEGRO 178 nan nan nan nan
-__label__隔离芯片 , 接口IC,ADI,ADUM1200BRZ-RL7,数字隔离器,磁耦合,2.7V~5.5V,表面贴装,8-SOIC ADUM1200BRZ-RL7 ADI 1060 nan nan nan nan
-__label__隔离芯片 , 接口IC,ADI,ADUM1201BRZ-RL7,数字隔离器,/,2.7V-5.5V,表面贴装,SOIC-8 ADUM1201BRZ-RL7 ADI 1860 nan nan nan nan
-__label__磁性传感器 , 传感器IC,AMS,AS5047P-ATSM,板机接口霍耳效应/磁性传感器,14 bit core res Up to 28krpm,- 40 C to + 125 C,5 V, 3.3 V,15 mA,表面贴装,TSSOP-14 AS5047P-ATSM AMS 264 nan nan nan nan
-__label__插拔式连接器 , 电子配线连接器,JST,B02B-VYHSK-1(LF)(SN),母形插口,2P,6.50mm,1ROW,通孔安装 B02B-VYHSK-1(LF)(SN) JST 184 nan nan nan nan
-__label__插拔式连接器 , 电子配线连接器,JST,B04B-VYHSK-1(LF)(SN),插座,4P,6.5mm,1ROW,通孔安装 B04B-VYHSK-1(LF)(SN) JST 266 nan nan nan nan
-__label__插拔式连接器 , 电子配线连接器,JST,B2P-VH-FB-B(LF)(SN),针座，公插针,2P,3.96mm,1ROW,通孔安装 B2P-VH-FB-B(LF)(SN) JST 710 nan nan nan nan
-__label__放电管 , 气体放电管 2087-120 GDT-2R-4 胡翔 0.0 nan nan nan nan
-__label__绕线电阻 , 电阻 6W/68欧 nan 0.0 nan nan nan nan
-__label__电阻套件及附件: , 电位器旋钮A-04 nan nan 0.0 nan nan nan nan
-__label__精密可调电阻 , TOCOS电位器 RV24YN 20S B202 nan 0.0 nan nan nan nan
-__label__精密可调电阻 , BOCHEN电位器 WXD3-13-2W 5KΩ±5%（±0.3%） 王伟， 0.0 nan nan nan nan
-__label__钽电容 , 钽电解电容 22uF/25V， 6032封装 金吉庆 100.0 nan nan nan nan
-__label__钽电容 , 贴片钽电解电容 10uf/16v 3528封装 nan 0.0 nan nan nan nan
-__label__LED数码管 , 数码管 0.5共阴 nan 2.0 nan nan nan nan
-__label__稳压二极管 , 稳压二极管，直插，同11104011 1N4739/9.1V 1W nan 714.0 nan nan nan nan
-__label__稳压二极管 , 贴片稳压二极管，同11205003/11203019 5V1 (1206封装) 2500/盘 nan 0.0 nan nan nan nan
-__label__稳压二极管 , 贴片稳压二极管 12V 1206封装 nan 2500.0 nan nan nan nan
-__label__稳压二极管 , 稳压二极管 IN4746/18V 1W （直插） nan 472.0 nan nan nan nan
-__label__通用二极管 , 6A 二极管，同11202007 6A 直插 nan 41.0 nan nan nan nan
-__label__稳压二极管 , 12V稳压管（一泽专用） 12V-SMA 2500/盘 候良霄 0.0 nan nan nan nan
-__label__谐振器 , 晶震 8M，直插 nan 0.0 nan nan nan nan
-__label__无源晶体振荡器 , 晶振 4.096M 直插 nan 49.0 nan nan nan nan
-__label__磁珠 , 贴片电感 Bead_180ohm 0805 娄红舟 4000.0 nan nan nan nan
-__label__谐振器 , 贴片晶振 8M-蓝 姬聪飞 50.0 nan nan nan nan
-__label__线对板线对线连接器 , 连接器 ZH-4A pcs 3 P104, P105, P106 nan nan
-__label__红外发射管 , 红外发射管 E-IR3411C-2A 封装:φ3直插 pcs 3 D104, D105, D106 nan nan
-__label__红外接收管 , 红外接收管 3M4FT-WR001 封装:φ3直插 pcs 3 Q104, Q105, Q106 nan nan
-__label__线对板线对线连接器 , 连接器 ZH-5A pcs 3 P101, P102, P103 nan nan
-__label__红外发射管 , 红外发射管 IR204C L/M 封装:φ3直插 pcs 3 D101, D102, D103 nan nan
-__label__红外接收管 , 红外接收管 PT204-6B 封装:φ3直插 pcs 3 Q101, Q102, Q103 nan nan
-__label__红外接收管 , 红外接收头 IRM3638T pcs 3 U101, U102, U104 nan nan
-__label__轻触开关 , 微动开关 K9-1910F pcs 2 焊线 nan nan
-__label__线对板线对线连接器 , 连接器 XH-4AW pcs 1 P201 nan nan
-__label__船型开关 , 船型开关 XL601-101-2P pcs 1 S201 nan nan
-__label__红外发射管 , 红外发射管 IR928-6C 封装:扁平直插 pcs 2 D201, D202 nan nan
-__label__红外接收管 , 红外接收管 PT928-6C 封装:扁平直插 pcs 2 Q11, Q201, Q202 nan nan
-__label__无源晶体振荡器 , 晶振 32.768KHZ±20PPM 封装:圆形双脚直插2*6mm pcs 1 Y1 nan nan
-__label__功率电感 , 贴片电感 30uH ±20% 1.5A 封装:6x6x4.5 pcs 1 L1 nan nan
-__label__插拔式连接器 , 连接器 PHD-2*6AW pcs 1 P1 nan nan
-__label__插拔式连接器 , 连接器 PHD-2*10AW pcs 1 P2 nan nan
-__label__插拔式连接器 , 连接器 XH-6AWD pcs 1 P3 nan nan
-__label__插拔式连接器 , 连接器 ZH-4AWD pcs 1 P7 nan nan
-__label__插拔式连接器 , 连接器 XH-2AW pcs 2 P9, P10 nan nan
-__label__红外发射管 , 红外发射管 墙检专用3mm发射管：IR204C L/M等级 透明胶体 亿光 pcs 2 D4, D6 nan nan
-__label__红外发射管 , 红外发射管 5mm发射管： IR333C-A 蓝色/透明 pcs 2 D5, D7 nan nan
-__label__插拔式连接器 , 连接器 XH-2AW pcs 2 P1, P2 nan nan
-__label__直插通孔电阻 , 插件电阻 R49 1W 100R nan 1.0
-__label__无源晶体振荡器 , 晶振 X1 32678 2*6 15PF nan 1.0
-__label__开关二极管 , 贴片二极管 D10 D7 D11 D21 D22 D23 D24 1N5819 7
-__label__金属膜电阻 , 插件电阻 R49 1W 100R 1
-__label__排针排母 , 贴片 YCN20600 接插件 1.0*6PIN*立贴 1.0 pcs P1 30000.0 nan 0.0 nan nan 0.2 0.2
-__label__排针排母 , 接插件 1.0*6PIN*立贴 P1
-__label__排针排母 , 接插件 1.0*6PIN*卧贴 nan 1.0 pcs P2 nan 0.0 nan 30000.0 0.2 0.2
-__label__插拔式连接器 , 插座 BTB*0.5mm*2x5P*单槽母座*高2.5mm（合高2.5mm）*无柱 nan 1.0 pcs P3 nan 0.0 nan 30000.0 0.49 0.49
-__label__磁珠 , 贴片磁珠 0402*120R*±25% nan 1.0 pcs B1 nan 0.0 nan 30000.0 0.0428 0.0428
-__label__插拔式连接器 , 插头 BTB*0.5mm*2x5P*单槽公座*高1.5mm（合高2.5mm）*无柱 nan 1.0 pcs P1 nan 0.0 nan 30000.0 0.49 0.49
-__label__发光二极管 , 焊接&贴片 高亮蓝色发光二极管 0805*HTG-2012UBC*光强:140-180mcd*波长:465-467nm*电压:3.0-3.2V*HTC 12.0 pcs nan D21.D22.D23.D24.D25.D26.D27.D28.D29.D30.D31.D32 360000.0 0.0 nan nan 0.046 0.552
-__label__开关二极管 , 焊接&贴片 贴片二极管 SOD-323*1N4148WS 1.0 pcs nan D4 30000.0 0.0 nan nan 0.0378 0.0378
-__label__电池 , BAT1 BAT3.0V CR1220_2 BAT 20
-__label__开关二极管 , CN1 1.25-1-2A dip_1_25-2p nan 20
-__label__通用二极管 , D1 NSR0320 SOD323 DIODE SCH PWR RECT LOW VF 1A 20V SOD323 20
-__label__开关二极管 , D9 BAT54CLT1 sot23_d95_3sp_1d3w2d92l DIODE SCH DUAL CC 200MA 30V SOT23 20
-__label__通用二极管 , D10 SMLJ60S6 do214ab_sm DIODE RECT 6.0A 600V DO-214AB 20
-__label__开关二极管 , D11 BAT54HT1 SOD323 DIODE SCH 30V 200MA -- SOD323 20
-__label__磁珠 , FB7 @120OHM/2A lc0603 IND FER BEAD 120OHM@100MHZ 2A 25% 0603 20
-__label__磁珠 , FB8 &120OHM/2A lc0603 IND FER BEAD 120OHM@100MHZ 2A 25% 0603 20
-__label__磁珠 , FB1M0,FB39 120OHM/3A LC0805 IND FER BEAD 120OHM@100MHZ 3A 25% 0805 40
-__label__电源连接器 , P1 CONN PWR 1 PJ-202B CON 1 PWR PLUG DIAM 2.0MM RA TH HIGH CURRENT-- 430H NI 140L 20
-__label__无源晶体振荡器 , 晶震 8M，直插 30000.0 nan nan nan nan
-__label__功率电感 , 贴片电感 47uH/2A8/20% XLn 30000.0 nan nan nan nan
-__label__磁珠 , 贴片电感 Bead_180ohm 0805 30000.0 nan nan nan nan
-__label__功率电感 , L3 PZ2012D121-2R5TF 0805 磁珠//120Ω/±25%/0.06Ω/2.5A/0805/PZ2012D121-2R5TF/Sunlord PZ2012D121-2R5TF SUNLORD
-__label__射频开关 , U8 SKY13370-374LF SKY13370-374LF SKY13370-374LF: 0.5 to 6.0 GHz SPDT Switch,50 Ω Terminated SKY13370-374LF SKYWORKS
-__label__高速宽带运放 , U9 SKY67150-396LF SKY67150 SKY67150-396LF: 300 to 2200 MHz Ultra Low-NoiseAmplifier SKY67150-396LF SKYWORKS
-__label__咪头麦克风 , 麦克风咪头 电容式 6*2.7 10000 MIC
-__label__插拔式连接器 , 贴片插座 ZH-4P 卧式贴片 1.5间距 10000 J1
-__label__稳压二极管 , BZX84-C4V7 (NXP) Voltage regulator diodes BZX84-C4V7 / Pakage SOT23 - Automotive 8weeks SPQ:3K 21000 0.0085 178.5
-__label__稳压二极管 , BZX84-C4V7 (NXP) Voltage regulator diodes BZX84-C4V7 / Pakage SOT23 - Automotive 8weeks SPQ:3K 21000 0.0085 178.5
-__label__通用二极管 , BTS6143D(Infineon) Smart Highside Power Switch / Pakage TO-252-5-1 / Automotive 8weeks nan 50000 0.97 48500
-__label__线性稳压芯片LDO , NCV4275ADT50RKG(On) Low-Dropout Voltage Regulator / Pakage DPAK, 5−PIN DT SUFFIX CASE 175AA 12weeks nan 10000 0.5 5000
-__label__CAN芯片 , TJA1055T/C,518(NXP) Enhanced fault-tolerant CAN transceiver / SOT108-1 (SO14)/Automotive 8weeks nan 10000 0.5 5000
-__label__贴片高精密-低温漂电阻 , 贴片电阻Chip Res.0603 150Ω 1/16W 士0.5%(RoHS) 10000
-__label__贴片高精密-低温漂电阻 , (CD)贴片电阻Chip Res.0603 301Ω 1/16W 土0.1%(RoHS) 15000
-__label__共模扼流圈滤波器 , 贴片共模电感 Ind,Common,Mode,Filter,0-10000,ohm,DC=1ohm，230mA,,RoHS 钧宝 WCM-453228-510YT06
-__label__ESD二极管 , ESD保护管 TVS,ESD Diode,±15kV (air),±8kV (contact),15pF,SOT-23,RoHS 瞬雷 AESD24G2B
-__label__PTC自恢复保险 , 自恢复保险丝 2.6A/24V 3.64A/-40℃ 1.48A/85℃ POLYTRONICS SMD2920P260TF/24
-__label__内存连接器 , SD卡座 CN30_15,CONN9 nan CONN9
-__label__IC与器件插座 , MCU升级座 CON5P_2_5 nan 4P_2.54mm排针
-__label__插拔式连接器 , Socket Conn,SMT straight,12pin,White IRISO IMSA-13065B-2-12A-TR
-__label__数字三极管 , BC847PN-7-F BC847PN BC847PN-7-F/对管NPN/PNP，Ic100mA Q1001 DIODES 1000
-__label__放电管 , ESD静电抑制器 ESD9N5BL-2/TR/DFN1006 /-55~150℃ ESD9N5BL-2/TR 韦尔 PCS 12000 ED1, ED2, ED3, ED4 nan 贴片
-__label__放电管 , 气体放电管 2RM090M-8/90V±20%/贴片气体放电管 2RM090M-8 君耀 PCS 3000 G1 nan 贴片
-__label__放电管 , 气体放电管 2RM600M-8/贴片 2RM600M-8 君耀 PCS 6000 G2, G3 nan 贴片
-__label__高频电感 , 贴片电感 4.7nH/0402/±0.3nH/300mA/0.18Ω LQG15HS4N7S02D Murata PCS 3000 L4 nan 贴片
-__label__连接器附件套件 , 跳线 SPI-2 针 12 48 nan nan nan
-__label__连接器附件套件 , 跳线 SPI-2 针 4 16 nan nan nan
-__label__连接器附件套件 , 跳线帽 SPI-2 个 6 24 nan nan nan
-__label__连接器附件套件 , 跳线帽 SPI-2 个 1 4 nan nan nan
-__label__连接器附件套件 , 跳线 三针 组 1 4 nan nan nan
-__label__连接器附件套件 , 跳线帽 SPI-2 个 1 4 nan nan nan
-__label__连接器附件套件 , 跳线 配短路帽 对 1 4 nan nan nan
-__label__连接器附件套件 , 跳线帽 SPI-2 个 1 4 nan nan nan
-__label__直插独石电容 , 独石电容 50V/104K/0805 个 63 252 0805B104K500CT 通用 YAGEO/SAMSUNG/mutara
-__label__直插独石电容 , 独石电容 50V/103K/0805 个 61 244 0805B103K500CT 通用 YAGEO/SAMSUNG/mutara
-__label__薄膜电容 , 薄膜电容 50V/103J/1206（尼龙材质的薄膜电容。松下型号为：ECWU1H103JB5，其他品牌可按此要求购买。） 个 13 52 1206B103J500CT 通用 YAGEO/SAMSUNG
-__label__电池 , 纽扣电池 BR2032，电压要高于2V 个 1 4 nan nan nan
-__label__隔离芯片 , 隔离IC AD7400AYRWZ-RL 隔离式Σ-Δ调制器，10MHZ的时钟速率，16位无失码，5V供电，温度-40℃至+125℃，封装：SOIC SOIC16 ADI PCS 2 1000 nan nan nan nan
-__label__功率电感 , 贴片电感 nan 6R8M，6D28，6.8μH，M，±20%，6.7*6.7*28，SMD SMD 博罗达鑫 PCS 1 500 nan nan nan nan
-__label__PTC自恢复保险 , 保险电阻 贴片保险丝 2A 63V 1206 nan nan PCS F1 nan nan
-__label__线对板线对线连接器 , 插子座 XH2.54 4P直针 个 1 50.0 nan nan
-__label__放电管 , 气体放电管 nan CG3 3.0L DC 3kV 5kA Axial 6MM*D8.0MM RoHS
-__label__板对板连接器 , 连接器 nan XH4A-4031-2A DIP 40PIN 2.54 ROHS
-__label__数字三极管 , 二极管 nan PMLL4448 SOD-80C 75V 200mA ROHS
-__label__数字三极管 , 二极管 0.05 1SS379(TE85L F) TO-236MOD 400V 0.1A ROHS
-__label__开关二极管 , 开关二极管 0.05 DAN217 T146 SOT23(DK1530) 80V 0.3A ROHS
-__label__共模扼流圈滤波器 , 滤波器 0.05 NFE61PT472C1H9L 2706 ROHS
-__label__共模扼流圈滤波器 , 滤波器 0.05 NFM41PC204F1H3L 4.5*1.6*1mm ROHS
-__label__共模扼流圈滤波器 , 滤波器 nan MEM2012S25R0 0805 RoHS
-__label__高频电感 , 电感 0.05 LQH32CN4R7M23 1210 4.7uH 0.45A 0.2 ROHS
-__label__IC与器件插座 , IC（插座） nan PLM32-H SMT 1.27 ROHS
-__label__继电器 , 继电器 nan G3VM-SY sop8 48V ROHS
-__label__PTC自恢复保险 , 保险丝 0.5A 6V 0805 0805 SMD JK-SMD0805-050 金科 贴片保险丝 0805 0.5A 610
-__label__整流桥 , 整流桥 nan SOP-4 SMD 晶导微MB10S-10（1A） nan nan 210
-__label__超快快恢复二极管 , nan nan DO-214 SMD SS2200肖特基二极管（辰达行SMA）200V,2A,VF=0.95V@2A 辰达行 SS2200肖特基二极管（辰达行SMA）200V,2A,VF=0.95V@2A 0
-__label__超快快恢复二极管 , nan nan DO-214 SMD SS1200肖特基二极管（辰达行SMA）200V,1A,VF=0.95V@1A 辰达行 SS1200肖特基二极管（辰达行SMA）200V,1A,VF=0.95V@1A 210
-__label__隔离芯片 , nan nan SOP-8 SMD 高可靠性2通道标准数字隔离器 nan NOVOSENSE(纳芯微) 200
-__label__电子线材连接线 , 导线 红 黑 线 Ф0.5*50MM nan SIP-2 2 D1 D2 100
-__label__可调电阻电位器 , 可调电阻 10KΩ±25% 停产 编带 SMD 30.0 PANASONIC(松下) nan
-__label__拨码开关 , 拨码开关 VDG/S-08L-H-R红色 管装 8位 30.0 TONVER(东威) nan
-__label__IDC连接器(牛角) , PCB连接器 - 针座，公插针 2.54mm 2*7P 直 简牛 2X7 30.0 BOOMELE(博穆精密) nan
-__label__插拔式连接器 , PCB连接器 - 针座，公插针 VH插座 1*2P 间距3.96mm 弯针 盒装 - 30.0 JST nan
-__label__弹簧式接线端子 , 接插件 DG243板载直头单排 D5.0 灰 nan nan
-__label__插拔式连接器 , 接插件 63080直头板载单排公 镀金 PIN3D6.3 nan nan
-__label__插拔式连接器 , 接插件 2EDGK弯头板载单排公 灰色 PIN4D5.0 nan nan
-__label__D-Sub连接器附件 , 接插件 DB9板载弯头双排母 镀金 PIN9D2.77 nan nan
-__label__功率电感 , 贴片电感 贴片电感-2.2uH±30%-6A-6x6x4.5mm-2PIN-SMD BOURNS SRN6045-2R2Y 48 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__电平转换移位器 , 电压转换器 电压转换器-MC14504B-十六进制电平转换器-SOIC-16PIN-SMD ON MC14504BDR2G 18 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
-__label__电池座夹附件 , 元器件/电阻 BT1 CR927 CR927-DIP,3V, 插件， ROHS nan
-__label__内存连接器 , 元器件/连接器 J9 TFK_OUT TF卡座 自弹外焊 070-01C-08 郎思达 nan
-__label__插拔式连接器 , 元器件/连接器 J3,J6,J7 2PIN_1.25MM 连接器 立式贴片针座，1.25mm间距，2pin 耐高温 nan
-__label__插拔式连接器 , 元器件/连接器 J2 2PIN_1.5MM 连接器 立式贴片针座，1.5mm间距，2pin 耐高温 nan
-__label__插拔式连接器 , 元器件/连接器 S1,S2 2PIN_2.0MM 连接器 立式插件座，2.0mm间距，2pin 耐高温 nan
-__label__红外发射管 , 元器件/二极管 D3,D4 红外灯珠，850nm，28u, SMD3535 SMD3535 2 200
-__label__咪头麦克风 , 元器件/电声器件 J2 咪头，硅麦，VM1000 VM1000 1 100
-__label__电池座夹附件 , Q&J CR1220 12-4*6插件 卧式焊脚电池 CR1220 200
-__label__贴片超低阻值电阻 , 贴片电阻 贴片电阻 R1206/1.2mm 50mR 1% nan 0603 R113 R606 R609 R611 R622 R629 厚声/国巨 6 30000
-__label__贴片超低阻值电阻 , 贴片电阻 贴片电阻 R1210 120mR 1% nan 0603 R114 厚声/国巨 1 5000
-__label__红外接收管 , 贴片红外接收管 贴片红外接收管 PT67-21B PT67-21B nan Q501 Q508-514 亿光 8 40000
-__label__红外发射管 , 贴片红外发射管 贴片红外发射管 IR26-21C IR26-21C nan D501-508 亿光 8 40000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1250RS10 1.25mm 10P 卧式 C1250RS10 nan CN501 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1250VS10 1.25mm 10P 立式 C1250VS10 nan CN501A 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1250VS04 1.25mm 4P 立式 C1250VS04 nan CN503-504 康瑞电子 2 10000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1250VS08 1.25mm 8P 立式 C1250VS08 nan CN502 CN502A 康瑞电子 2 10000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS02 1.50mm 2P 卧式 C1501RS02 nan CN307 CN610-611 CN612 康瑞电子 4 20000
-__label__插拔式连接器 , 贴片插座 贴片插座 C2001RS02 2.00mm 2P 卧式 C2001RS02 nan CN101 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS03 1.50mm 3P 卧式 C1501RS03 nan CN302 CN605 CN605A 康瑞电子 3 15000
-__label__插拔式连接器 , 贴片插座 贴片插座 C2001RS03 2.00mm 3P 卧式 C2001RS03 nan CN103 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS04 1.50mm 4P 卧式 C1501RS04 nan CN402 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C2001RS04 2.00mm 4P 卧式 C2001RS04 nan CN608 康瑞电子 1 5000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS05 1.50mm 5P 卧式 C1501RS05 nan CN102 CN106 CN301 康瑞电子 3 15000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS06 1.50mm 6P 卧式 C1501RS06 nan CN401 CN403 CN603 CN603A 康瑞电子 4 20000
-__label__插拔式连接器 , 贴片插座 贴片插座 C1501RS08 1.50mm 8P 卧式 C1501RS08 nan CN607 CN613 康瑞电子 2 10000
-__label__插拔式连接器 , 贴片插座 贴片金手指插座 C1270RS206 1.27 12P 立式 C1270RS206 nan CN602 CN606 CN609 广亿联科技 3 15000
-__label__电子线材连接线 , 连接排线 26# 1061 2PIN L140mm/70mm DC+/DC- 带C2001RS02端子 nan CN101A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 2PIN L150mm 开关 带C1501RS02端子 nan CN612B 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 5PIN L120mm TOUCH 带C1501RS05端子2头 nan CN102A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 5PIN L340mm 下载口 带C1501RS05端子 nan CN301A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 2PIN L370mm 喇叭 带C1501RS02端子 nan CN307A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 6PIN L120mm 左/右碰撞悬崖 带C1501RS06端子 nan CN401C CN403C 康瑞电子 2 10000
-__label__电子线材连接线 , 连接排线 28# 2651 4PIN L90mm 中间悬崖 带C1501RS04端子 nan CN402A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 8PIN L60mm 二郎神 带C1250VS08端子2头 nan CN502B 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 1061 10PIN L100mm 线灰色 防撞条 带C1250RS10端子2头 nan CN501B 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 28# 2651 4PIN L80mm 左/右红外沿边 带C1250VS04端子 nan CN503A CN504A 康瑞电子 2 10000
-__label__电子线材连接线 , 连接排线 26# 1061 6PIN L300mm 线灰色 左驱动轮组 带C1501RS06端子2头 nan CN603B 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 26# 1061 2PIN L70mm 左/右边刷马达 带C1501RS02端子 nan CN610A CN611A 康瑞电子 2 10000
-__label__电子线材连接线 , 连接排线 28# 2651 3PIN L60mm 尘盒HALL 带C1501RS05端子 nan CN605_CN605A 康瑞电子 1 5000
-__label__电子线材连接线 , 连接排线 26# 1061 2PIN L120mm 滚刷马达 nan nan CN609B 康瑞电子 1 5000
-__label__船型开关 , 船型开关 船型开关 HS8-Y9-5-01H300-BB03 HS8-Y9-5-01H300-BB03 nan SW603 德沃电子科技 1 5000
-__label__连接器附件套件 , SIM卡座-NANO-掀盖式-1.40H-6PIN-SMD nan 深圳连欣 XDSM-0639-0250 nan nan nan 400
-__label__功率电感 , 贴片电感-1.5uH±30%-12mR-5.4A-6*6*4.5mm-6045-2PIN-SMD nan SUNLORD SWPA6045S1R5NT nan nan nan 400
-__label__8位微控制器-mcu , 单片机-STM8L151K6T6-16MHz-8位-LQFP-32PIN-SMD LQFP-32PI ST STM8L151K6T6 nan nan nan 400
-__label__开关电源芯片 , 电压调整器-TPS63020-可调式-1.2V^5.5V-3.5A-VSON-14PIN-SMD TPS63020 TI TPS63020DSJR nan nan nan 400
-__label__以太网连接器 , J1 50 nan RJHSE-3381 CONN MOD JACK 8P8C SHIELDED Through Hole Digikey nan
-__label__DC-DC电源模块 , VR1 51 nan R-78B5.0-2.0 DC DC Converter 1 Output 5V 2A 6.5V - 32V Input Through Hole Digikey
-__label__插拔式连接器 , 1-1827872-6 CONNECTOR SIDE 2.0MM 2*16-32PIN 1-1827872-6 1-1827872-6 1 10 J2 TE
-__label__插拔式连接器 , 1-1939638-7 CONNECTOR SIDE 2.0MM 2*17-34PIN 1-1939638-7 1-1939638-7 1 10 J3 TE
-__label__插拔式连接器 , 1-1939638-5 CONNECTOR SIDE 2.0MM 2*15-30PIN 1-1939638-5 1-1939638-5 1 10 J4 TE
-__label__线对板线对线连接器 , 线至板连接器 70543-0003 1*4 2.54mm 1 10 J5 Molex
-__label__磁珠 , nan IND FB 120R 6.0A N L1206 BLM31KN121SH1L, Inductor L1206 2 20 L1, L2 Inductor
-__label__磁珠 , nan IND FB 60R 3000MA N L0805 BLM21PG600SN1 BLM21PG600SN1 18 180 L18, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37 nan
-__label__ESD二极管 , SOT23_PESD15VL2BT DIODE TVSE PESD15VL2BT SOT23_PESD15VL2BT 18.8V 5A SOT23_PESD15VL2BT 3 30 TVS1, TVS2, TVS3 DIODE PESD15VL2BT
-__label__IDC连接器(牛角) , 牛角座 DC3-10P 2.54MM 直 nan CN5,CN6 2.0 200.0 8267-6 300S-10P黑色材质PA6T Ckmtw（灿科盟） 200.0 2-4工作日 流动库存
-__label__板对板连接器 , PCB针座 5177984-3 TE 40X2P-0.8MM 40X2P-0.8MM U5,U17 2.0 200.0 8267-30 40X2P-0.8MM nan 200.0 nan nan
-__label__磁珠 , 磁珠/电感 Inductor SMD 4.3uH±20% 8A 10.2mm*10.5mm(7443552430)(-55～+125) nan L4 1.0 100.0 8267-42 7443552430 Wurth(伍尔特) 100.0 7-12工作日 流动库存，如果美国产地+25%额外关税
-__label__PTC自恢复保险 , 自恢复保险 SMD 3A SMD1812B300TFT (-40～+85) SMD1812B300TFT FS2 1.0 100.0 8267-50 SMD1812B300TFT Brightking(君耀) 100.0 2-4工作日 流动库存
-__label__直插独石电容 , 独石电容 100V 0.1UF 10% 黄 nan M39 1.0 100.0 8267-75 0603B104K101NT Fenghua(风华) 100.0 2-4工作日 流动库存
-__label__线对板线对线连接器 , 5569系列端子 5569-4A 2x2 直针 4.2mm nan XP1 1.0 100.0 8267-79 C4201WVA-2x2P CJT(长江连接器) 100.0 2-4工作日 流动库存
-__label__内存连接器 , SD卡座 SDCN15-A0-R000_5合1 SD卡槽 （自弹式 11P SD卡座） SDCN15-A0-R000 U20 1.0 100.0 8267-80 SDCN15-A0-R000 nan 100.0 nan 信息不全, 无法识别产品，请提供完整参数规格参数
-__label__直插独石电容 , 独石电容 63V 0.01UF 10% nan M37,M38 2.0 200.0 8267-103 CT4G-0805-2X1-63V-0.01μF-K Torch(火炬) 200.0 2-4工作日 流动库存
-__label__连接器附件套件 , 跳线帽（接插件） 2.54MM（短路子） nan nan 4.0 400.0 8267-108 2.54mm 短路帽 BMP(博穆精密) 400.0 2-4工作日 流动库存
-__label__连接器附件套件 , 跳线帽（短路帽） 2.0MM nan nan 35.0 3500.0 8267-109 2.0mm 短路帽 BMP(博穆精密) 3500.0 2-4工作日 流动库存
-__label__贴片电解电容 , 220uF nan C16, C24 CC6.56.5 CAP 2
-__label__功率电感 , 4.7uH nan L1 L_SOP74 L_SOP 1
-__label__ESD二极管 , PESD5V0F1BL,315 15V Clamp 2.5A (8/20μs) Ipp Tvs Diode Surface Mount SOD-882 PESD5V0F1BL_SOD-882 D3 Diodes 1 35
-__label__插拔式连接器 , 5569-06A2G Con, Molex, 9A 600V AC/DC, R contact 10mOhm max, 5569-06A2G/5569-06A2/39-30-1060 5569-06A2G J1 Molex 1 35
-__label__插拔式连接器 , 5566-06A Con, Molex, 9A 600V AC/DC, R contact 10mOhm max, , 5566-06A/39-28-1063 C4201WVA-2X3P J3 Molex 1 35
-__label__插拔式连接器 , 5566-04A Con, Molex, 9A 600V AC/DC, R contact 10mOhm max, 5566-04A/39-28-1043 C4201WVA-2X2P J4 Molex 1 35
-__label__插拔式连接器 , A2001WV-4P 2.00mm pitch wire to board connector, 2A 100V, Contact resistance:10m Max. Insulation resistance:1000M Min. A2001WV-4P J5 CJT 1 35
-__label__插拔式连接器 , 5557S-2*1P Con, 9A 600V AC/DC, R contact 10mOhm max 5557S-2*1P J6 Ckmtw 1 35
-__label__船型开关 , SS21-BBIWA2-R Double-Pole, Single-Throw Switch SS21-BBIWP2-R S1 Legion 1 35
-__label__DC-DC芯片 , LM3150MH/NOPB IC Buck Regulator Positive Output Step-Down DC-DC Controller IC 14-HTSSOP LM3150MH/NOPB_HTSSOP-14 U1, U2 TI 2 70
-__label__插拔式连接器 , 插座 PH2.0-4P nan PH2.0/4P/脚距2.0mm/弯脚插座 P1 nan 1 100 nan nan
-__label__插拔式连接器 , 插座 5569AW-4PIN nan 2*2P/脚距4.2mm/弯针插座/白色 P2 nan 2 200 nan https://item.taobao.com/item.htm?spm=a230r.1.14.140.24a54043UPdtUl&id=520896478393&ns=1&abbucket=4#detail
-__label__插拔式连接器 , 插座 5569AW-4PIN nan 2*2P/脚距4.2mm/弯针插座/黑色 P3 nan 2 200 nan https://item.taobao.com/item.htm?spm=a230r.1.14.30.573c7f28BOKX8t&id=581048770361&ns=1&abbucket=4#detail
-__label__插拔式连接器 , 插座 PH2.0-2P nan PH2.0/2P/脚距2.0mm/90度弯脚插座 P5,P8 nan 2 200 nan nan
-__label__插拔式连接器 , 插座 PH2.0-2P nan PH2.0/2P/脚距2.0mm/直脚插座 P4，P11 nan 2 200 nan nan
-__label__插拔式连接器 , 插座 PH2.0-2*8P nan PH2.0/2*8P/双排/脚距2.0mm/90度弯脚插座 P6 nan 1 100 nan nan
-__label__螺丝钉接线端子 , 插座 DG/KF128 nan 2P/脚距5.08mm/螺钉式接线端子/直脚插座 P7,P10 nan 2 200 nan https://detail.tmall.com/item.htm?spm=a230r.1.14.9.1cc1211fLD1pa7&id=564777567896&cm_id=140105335569ed55e27b&abbucket=4
-__label__插拔式连接器 , 插座 PH2.0-6P nan PH2.0/6P/脚距2.0mm/90度弯脚插座 P9 nan 1 100 nan nan
-__label__数字三极管 , 三极管 nan SS8550 SS8550/贴片PNP三极管/1.5A/25V/SOT-23 Q8 SOT-23 1 一盘 CJ江苏长电 nan
-__label__IO扩展器 , I/O 扩展器 (ROHS) MCP23008T-E/SS SSOP-20 nan 300 pcs Y nan nan
-__label__特殊功能放大器 , TM2291,红外传感器信号处理器，工作电压-0.5-6V,9.9X5.84X1.35MM,Pitch:1.27mm,SOP16, TM2291 nan nan 300 pcs Y nan nan
-__label__温湿度传感 , 插件温湿度传感器 DHT11/16X13X5.6mm 4pin(ROHS) nan nan nan 300 pcs Y nan nan
-__label__精密可调电阻 , 插件可调电位器 3362P-1-103LF/10K-,深蓝色,6.99x6.6x4.7mm(ROHS) 3362P-1-103LF/10K nan nan 303 pcs Y nan nan
-__label__咪头麦克风 , 插件麦克风，OF9767P插件MIC,2Pin,直径9.7mm,高度6.7mm,针长10mm,-28±3DB, nan nan nan 300 pcs Y nan nan
-__label__专用开关 , 插件滚珠倾斜开关,SW-200D,2PIN,体长12mm,直径3.2mm,针长9.5mm，黑色, nan nan nan 300 pcs Y nan nan
-__label__插拔式连接器 , HY2.0-2P,2PIN,2.0间距,HY立式带扣,白色,直插,插件母座, nan nan nan 302 pcs N nan nan
-__label__插拔式连接器 , HY2.0-4P,4PIN,2.0间距,HY立式带扣,白色,直插,插件母座, nan nan nan 302 pcs N nan nan
-__label__线对板线对线连接器 , 插件XHB2.54-5P,2.54间距,立式带扣,白色,直插,插件母座(ROHS) nan nan nan 302 pcs N nan nan
-__label__LED数码管 , 8*8LED共阴点阵,1588AS,红色高亮16脚,38X38X7.2MM,孔径：3.75mm, nan nan nan 300 pcs Y nan nan
-__label__LCD显示模组 , LCD1602显示屏,1602A,蓝膜白字,STN,80X36X12mm,工作电压5V,冠晶达电子, nan nan 冠晶达电子 300 pcs Y nan nan
-__label__超声波传感器 , 超声波传感器模块,HC-SR04,，工作电压5V,45.2X20.4X15.2mm, nan nan nan 300 pcs Y nan nan
-__label__红外传感器 , 菲尼尔透镜 8120-5 热释电人体红外传感器 PIR 透镜 感应灯透镜帽,D12.8MM,高10.7MM, nan nan nan 300 pcs Y nan nan
-__label__螺丝钉接线端子 , 插件螺钉式PCB接线端子 DG/KF128-3P/3p-5.08mm 15.1X7.8X10mm,浅绿色 (ROHS) nan nan nan 300 pcs N nan nan
-__label__音频视频链接器 , 卧式双面焊接HDMI公座，A型，宽13.9X厚4.45MM,长度12.6mm, nan nan nan 300 pcs N nan nan
-__label__音频视频链接器 , HDMI-1 PCB,18.2X14X1.6MM,黑色， nan nan nan 300 pcs nan nan nan
-__label__音频视频链接器 , 插件立式HDMI公座，A型，宽13.9X厚4.45MM,长度：12.6mm, nan nan nan 300 pcs N nan nan
-__label__音频视频链接器 , HDMI-2 PCB,18.2X14.4X1.6MM,黑色， nan nan nan 300 pcs nan nan nan
-__label__音频视频链接器 , HDMI D型立式插件公座,带固定脚，,PIN间距0.7mm, nan nan nan 300 pcs N nan nan
-__label__数据线信号线 , 压线板/压线夹 规格：黑色026-4B型（压紧编织套管）,长宽高：24.2x7.4x4.2MM,口径6.5MM,弧型口径高度2.2MM,螺丝孔直径3.5x2（ROHS) nan nan nan 900 pcs nan nan nan
-__label__音频视频链接器 , HDMI-1 卧式（接7寸屏）：PCBA小板（Gerber+BOM）+ 金属头 + FPC座子（ROHS) nan nan nan 300 pcs nan nan nan
-__label__数据线信号线 , HDMI软排线 20PIN,黑色软排线,长宽：500x10mm,一面带黑色屏蔽布，总厚0.35mm, nan nan nan 300 pcs nan nan nan
-__label__电源线 , 电源线 定制线：总长50cm，共三个接头。连接树莓派一端分别为4PIN电源输入公座接头（线长80mm），和USB接头（线长150mm）；连接屏幕一端为Micro USB接头。注：线材通电电流至少达到2A以上 nan nan nan 300 pcs nan nan nan
-__label__数据线信号线 , PET编织套管 规格：φ10*150mm长（保护排线）（ROHS) nan nan nan 300 pcs nan nan nan
-__label__螺丝紧固件硬件 , 内嵌铜螺母B 规格：M2.5*3.8*3mm（固定树莓派）（ROHS) nan nan nan 1200 pcs nan nan nan
-__label__螺丝紧固件硬件 , 铜柱/间隔柱A 规格：M3*8+3mm（除树莓派孔位）（ROHS) nan nan nan 3600 pcs nan nan nan
-__label__螺丝紧固件硬件 , 铜柱/间隔柱B 规格：M3*5+5mm（固定屏幕）（ROHS) nan nan nan 1200 pcs nan nan nan
-__label__螺丝紧固件硬件 , 铜柱/间隔柱C 规格：M2.5*8+3mm（固定树莓派）（ROHS) nan nan nan 1200 pcs nan nan nan
-__label__罩类盒类及壳类产品 , 塑料外箱 黑色，ABS箱体，左侧120°曲手，加装CrowPi金属标牌(ROHS） nan nan nan 300 pcs nan nan nan
-__label__数据线信号线 , 40pin GPIO灰排线组件 2个FC-40PIN黑色母座 + 一条灰色40PIN的排线（ROHS) nan nan nan 300 pcs nan nan nan
-__label__音频视频链接器 , 耳机转接头 3.5mm90度转接头（ROHS) nan nan nan 300 pcs nan nan nan
-__label__环境光传感器 , 感应器 APDS-9960(SENSOR OPT 560NM AMBIENT MODULE) Broadcom Limited APDS-9960 Broadcom Limited PCS 1000
-__label__贴片电感 , 电感(SMD) L BLM18PG121SN1D(FERRITE CHIP 120 OHM 0603 ) Murata L BLM18PG121SN1D Murata PCS 2000
-__label__直插通孔电阻 , 直插电阻 AC03000001800JAC00(RES 180 OHM 3W 5% AXIAL) Vishay BC Components AC03000001800JAC00 Vishay BC Components PCS 2000
-__label__直插瓷片电容 , 陶瓷电容(Y1) C C921U222MUVDBA7317（CAP CER 2200PF 400VAC Y5V RADIAL）Kemet(01.08.80018) C C921U222MUVDBA7317 Kemet PCS 2000
-__label__放电管 , 放电二极管 1.5KE600A （TVS DIODE 512V 828V DO201)Littelfuse Inc. 1.5KE600A Littelfuse Inc. PCS 3000
-__label__蜂鸣器 , 贴片蜂鸣器 CMT-1203-SMT-TR(ROHS) 贴片蜂鸣器 CMT-1203-SMT-TR nan 10 pcs Y
+__label__压力传感器 , 1 4M0001AA 压力传感器（Pressure sensor) SDPX31-500P PRES1 1 PCS sensirion（盛思锐） nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__安全(加密)IC , 7 4U0006AA 芯片（IC） ATHSA204A;UDFN8 IC1 1 PCS Microchip Technology Inc（美国微芯） nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__超快快恢复二极管 , nan 29 1 Amp Fast Recovery Rectifier RS1J DI2, DI3 DO-214AC 2 nan SMD Assembeled nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , CAP,CHIP,220UF,±20%,16V,X5R,CE0625S,,RoHS nan TC1 CE0625S SMT 15 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , Header 5 22AWG Header 5 22AWG P3 Header 5 22AWG Header 5 22AWG 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , Header 31 22AWG Header 31 22AWG P2 Header 31 22AWG Header 31 22AWG 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , D1, D2 SOD123-2N_2 Nexperia USA Inc. BAT54GWJ 2 nan 11039 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电解电容 , 5 07-D051639 Aluminum Electrolytic Capacitor,SMD,47uF,50V,+-20%,LV470M050F065R,8*6.5 mm,Capxon(豐賓),For QPG Tool,Green 4 CP1,CP2,C2,CP3,CP4,C4,CP5,CP6,C6,C8,C11,C13,C15,C16,C19,C21,C23,C25,C27,C29 nan 201 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 61 21-D051198 PLD,W78L058A24PL,PLCC-44,Winbond(華邦),For QPG Tool,Green 4 U12,U13 44PIN PLCC座 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__RF同轴连接器 , 74 ANT CONN RF Connector 2*2*0.9mm S2 RF_SWITCH 1 Murata MM8030-2610RJ3 233-00170-1D3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝紧固件硬件 , 2 Spring Spring 2.4*1.1*1.85mm Al alloy ANT1, ANT3, ANT4, ANT6 2.4*1.1*1.85mm 4 JITS 10106118514 new part nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 59 R431 30K 1%/NC R0402 131 151 271 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 52 白色胶壳连接器-2PIN-直脚-2.0mm间距 2PIN-2.0mm间距 直插 1 PCS nan J3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__加速度传感器 , SPEC Sensor ECS2 0 SPEC nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , IC, TPRH, VOC U2 1 Bosch BME680 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__脉冲变压器 , 11 T2 1 BO-02-3 SMD Trigger Coil Transformer 5KV nan nan nan SMD BO-02-3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音频及信号变压器 , 10 T1 1 Audio Transformers / Signal Transformers DA2033 Cap Chrgr For Linear LT3750/51 10uH 5A 17,4x17x9.78 mm SMD DA2033-ALB nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , 4 IC EMMC 16G KLMBG2JETF-B041 BGA169_18R00X14R00X1R20 U5 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 19 LMZM23600V5SILR LMZM23600V5SILR SIL0010A U2 nan 6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__拨码开关 , 95 SW4 SW SPST DIP 50V 100MA TH DIPTRONICS MANUFACTUING INC. NDS(R)-08-V SW_DIP16_8POS_TH 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 63 白色胶壳连接器-8PIN-直脚-2.54mm间距 8PIN-2.54mm间距 直插 1 nan J5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电压基准芯片 , 57 电压基准芯片 TL431 SOT23 2 TI U3,U9 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__安规电容 , 16 安规电容-400V-2.2nF 2.2nF/400V 直插 1200 nan CY1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__天线 , 5300055019 121 2000512 Wurth Electronics(HK) Limited 402-00010-1G3-01 402-00010-1G3 ANTENNA MULTILAYER 2.4-2.5GHZ RoHS 7488930245 WURTH WURTH 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 5300054906 121 2000054 AVNET TECHNOLOGY HONG KONG LIMITED 151-00060-1G3-01 151-00060-1G3 IC SWITCHING REG MAX77596 3.3V Fixed 300 MAX77596ETBB+T MAXIM MAXIM 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 54 REL3 HK19F-DC5V-SHG HRS2 rel HRS2 rel HK19F-DC5V-SHG Huike HK19F-DC5V-SHG 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__arm微控制器-mcu , CPN110171 1001 U805 Kinetis KL17 Microcontroller, 48MHz ARM Cortex-MO+, 256kFlash 32kRAM, QFN48 Package NXP USA Inc. MKL17Z256VFT4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , ADP2164ACPZ-R7 ADP2164 16-Lead LFCSP ADP2164 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关电源芯片 , ADM1177-1ARMZ-R7 ADM1177 MSOP-UN10_N ADM1177 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号缓冲器中继器分配器 , TCA9517DGKR TCA9517DGKR S-PDSO-G8 TCA9517DGKR 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电比较器 , 36 IC4 IC_COMPARADOR_00_1-1 Microchip MIC7221YM5-TR 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源连接器 , 14 CON5,CON7 CON_JACK-2MM_00_1-1 CUI PJ-002AH-SMT-TR 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 3 BT1_C5,C2,C3 C_10UF_00_1-0 SAMSUNG CL10A106MO8NQNC 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 24 C30,C31 100pF c0402 100pF Yageo CC0402JRNPO9BN101 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , 56 IC-FLJR0000 KLM8G1GEME-B041 U9 1 153FBGA 153 Pin nan nan Flash : EMMC 8 GB (embedded MultiMediaCard Ver. 5.1 compatible) Samsung 6 51 101 201 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 1 2P7408A0 J25 D000621 9.5MM 1x3P 可拼接螺钉式接线端子 KF950-3P/国产 其他连接器 5 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他模块 , 26 6P7409A0 Q03 D000025 MOSFET MODULE 1200V 50A FS45MR12W1M1B11BOMA1/Infineon 晶体管/晶闸管 8 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 4 R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12 3.9 Ohms ±1% 0.333W, 1/3W Chip Resistor 0805 (2012 Metric) Current Sense Thin Film Susumu RL1220S-3R9-F 12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , 2 IC1 S-5813A-I4T1U ABLIC U.S.A. Inc. S-5813A-I4T1U 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片高精密-低温漂电阻 , 2 R1,R2,R3,R4 10kΩ 0402 Thin Film SMD Resistor ±0.1% 0.063W R0402 R0402 10kΩ 0402 Thin Film SMD Resistor ±0.1% 0.063W Panasonic ERA2AEB103X 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 10 APQ0700001 1K 1Kohm,1%,1/16W,0402 R11，R12，R16，R17，R18，R19 R0402 YAGEO RC0402FR-071KL nan nan 120 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__双极晶体管(三极管) , 44 Q14 1 Transistor NPN Transistor Pre-Biased Bipolar Transistor (BJT) NPN - Pre-Biased 50V 100mA 246mW Automotive SOT-23-3 ON Semiconductor NSVMMUN2235LT1G 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电解电容 , 23 C21 1 E.Capacitor 33uF / ±20% Cap 33uF / ±20% / 25V / Automotive / Radial Radial KEMET Corporation EDK336M025A9GAA 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__WiFi物联网模块 , 37 U11 ESP-32 WROOM, 4MB FLASH SMD: ESP32-WROOM ESPRESSIF ESP32-WROOM 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__精密可调电阻 , 33 贴片可调电位器 3224W-102(1K) 顶调 Bourns P3, P4 SMD3 2 SMD nan 50 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , nan nan AVX 12101C225K4Z*A nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MCU监控芯片 , 58 6217091903311 复位芯片 SM708SESA SOP8 –55℃~+125℃ 国微 Pcs U43 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__EPROM存储器 , 87 6203033701211 E2PROM芯片 FM24C16D-TS-T-R TSSOP 工业级 –55℃~+125℃ 复旦微电子 Pcs U111,U112 nan 16 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无线模块 , 39 1 U300 BMD-350 BMD-350 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__磁珠 , 25 1 R111 33kR@1% CRCW040233K0FKED 402 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__通孔型保险丝 , 32 F1,F2 CON2 力特 力特392 T2A 250V 方形 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源连接器 , 30 J3 1*4电源座 JB CH3.96MM-4P直针 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关二极管 , 17 DI7,DI8,DI9,DI4,DI5,DI6,DI12,DI13,DI87,DI88,DI10,DI11,DI18,DI19,DI1,DI20,DI0,DI17,DI2,DI3,DI89,DI37,DI38,DI39,DI14,DI35,DI36,DI80,DI32,DI33,DI34,DI83,DI84,DI85,DI81,DI82,DI86,DI31,DI22,DI23,DI24,DI15,DI16,DI21,DI28,DI29,DI30,DI25,DI26,DI27（反方向贴装） E1206 ST LL4148 50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__USB芯片 , 23 U1 TQFP128 CYPRESS CY7C68013A-128AXC 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号开关多路复用解码器 , ADG731BCPZ ADI TQFP-48 2 U301 U302 200 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝紧固件硬件 , 塑料支柱（支柱、螺丝、螺帽） ；直径3mm，高度18mm nan nan nan 6 套 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 16 IC 2CR TPD4E001DCKR SC70-6 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__锁存器 , 12 IC HC373 SN74HC373PWR TSSOP20 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电压比较器 , Buzzer_PCBA IC7,IC9 2 10022148 TLV3011AIDBVR IC, COMPARATOR WITH VOLTAGE REF, 1.8V, SOT23 TEXAS INSTRUMENTS_RMS1 IC hao hut it nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__锁存器 , 3 IC HC373 SN74HC373PWR TSSOP20 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , MP2015AGG-Z 线性稳压芯片 MPS U4 QFN-6 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 24 ZB 301-3P POWER3/5mm spacing J3 3pole terminal adaptor KEFA KF301-5.0-3P nan 101 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC电源模块 , 90 FA10-220S12E2D4 Aipulnion nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 26 XH-2.54-5F KONSON nan 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 硅胶线带插头 26AWG 红 黑 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MCU监控芯片 , 6217001101011 汇总 复位芯片 复位芯片IMP811SEUS-T 4-SOT143 IMP 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__钽电容 , 6113227821411 汇总 贴片钽电容 10TPE220ML,220uF±20％, D型，Polymer,10V,-55℃～105℃,SANYO 80 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , U050153001 IC 线性DC/DC TPS7A3001DGNT TPS7A3001DGNT nan TI MSOP8-26-120-PAD 1 U2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片高精密-低温漂电阻 , R2103B0001 电阻 薄膜电阻 10K 10K,0.1%,10PPM ±0.1%,1/10W,10PPM nan R0603 6 R26,R33,R38,R58,R60,R74 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , G5NB-1A-E-DC12V G5NB-1A-E-DC12V K1, K2, K3, K4, K5, K6, K7, K8, K10, K11, K12, K13, K14, K15, K16, K17 16 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 功放 8002A SOP-8_150mil 200 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__模拟开关芯片 , IC SN74LV4052AD SOIC-16_150mil 600 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电机马达点火驱动器IC , nan nan nan nan nan nan nan nan TI DRV8860PWPR 5 25 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片超低阻值电阻 , nan 9 2 R18,R20 nan 0.05R 1206 1% 1206 Stackpole Electronics Inc CSR1206FT50L0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 5 2C8004A0 J03 D000099 TERM BLK 3POS SIDE ENTRY 5MM PCB 691137710003/Wurth Electronics 接线座 80 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__触发器 , 33 4P3938A0 U13 S000060 IC FF D-TYPE SNGL 8BIT 20SO 74LVT374D/NXP SO 120 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__USB芯片 , 32 4P3938A0 U06 S000280 IC MCU USB PERIPH HI SPD 128LQFP CY7C68013A-128AXC/CYPRESS QFP 120 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 3 C2, C4 Capacitor FH 0603CG220J500NT 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__锁存器 , 21 nan U4 nan nan SOJ-20 nan MC74HC573 nan nan 1 50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 1 nan nan nan nan nan nan nan VISHAY VBUS05L1-DD1-G-08 16 82 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 25 M0F768F nan nan nan nan nan nan TI(德州仪器) UA7805CKTTR 1 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 7 nan nan nan nan nan nan nan JST B12B-PHDSS-B(LF)(SN) 1 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__金属膜电阻 , 8 nan R9 nan 68K/2W nan nan nan nan nan 1 510 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__板对板连接器 , 6 M656AC7 nan nan nan nan nan nan nan FX18-40S-0_8SV15 4 80 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__双向触发二极管DIAC , 5 M9D2B0E nan nan nan nan nan nan BOURNS TISP4350H3BJR-S 2 42 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__机电电气 , 16 M702821 nan nan nan nan nan Motor DC Motor Vibration, ERM 15000 RPM 2.7VDC Jinlong Machinery & Electronics, Inc. Z30C1T8219731 1 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__缓冲器驱动器接收器收发器 , 35 M6A9F31 nan nan nan nan nan Buffer, Non-Inverting 1 Element 1 Bit per Element Push-Pull Output SC-70-5 Texas Instruments SN74LVC1G17DCKR 1 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__时钟计时芯片 , 10 M9347D7 nan nan nan SOIC-8 nan IC EC340EGB SOIC-8 nan IC EC340EGB SOIC-8 1 300 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__网口变压器 , 43 M4D452F nan nan nan HR601680 nan 滤波器 HR601680 HANRUN(汉仁) HR601680 1 300 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__32位微控制器-mcu , 13 M61AF43 nan nan nan nan nan F280049CPZQR TI nan 1 8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 5 M2750B0 nan nan nan nan nan BAT54S/SOT23 强茂 nan 17 138 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__PTC自恢复保险 , 10 M463F3A nan PTC电阻 nan PTC1206 nan LP-NSM012 nan nan 2 82 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , 18 M33E0B3 nan 普通IC nan WLCSP-12 nan KTS1680CEUZ-TR nan nan 3 120 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__超快快恢复二极管 , 62 M94AC67 nan nan nan nan nan UF5404 nan nan 1 22 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__稳压二极管 , 2 M77CA54 nan nan nan LL-41 nan IN4747A ON(安森美) nan 1 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , nan nan 810225987 R-整流二极管SK26$SK26D$SS26 SK26 2000 D106,D107 nan nan nan nan nan nan nan 强茂 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , SWPA4018S4R7MT Sunlord(顺络) 250 POWER INDUCTOR，SWPA4018S4R7MT,4.7uH,±20%,4018,sunlord nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__仪表运放 , 27 6C1721B0 U04 S000005 IC OPAMP INSTR 1MHZ RRO 8SON INA826AIDRGT/Texas Instruments SON 900 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LED驱动 , 1 U1 AL8861 LED Driver TSOT89-5 AL8861Y-13 AL8861Y-13DICT-ND 4 4 600-0030 2000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , 8 U1 SENSOR芯片 QFN40 BF5325A-S 圆直径12.8MM BYD BF5325A-S 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 6 J10 插件连接器 nan 线对板连接器 PH6Pin 2.0间距 PHD2X4 卧式弯针 XHL PH2.0弯插-2*4P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__磁性传感器 , 3 G1 干黄管 2X14mm MKA-14103 MK MKA-14103 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 2 J5 贴片连接器 nan 线对板连接器 2Pin 1.25间距 卧式 耐高温 XHL MX1.25卧贴-2P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 4 J5 贴片连接器 nan 线对板连接器 3Pin 1.25间距 卧式 耐高温 XHL MX1.25卧贴-3P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__磁性传感器 , 1 U1 SOT-23-3 LINEAR ANALOG SENSOR TEXAS INSTRUMENTS DRV5053RAQDBZR 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号开关多路复用解码器 , 31 214010016 U4 通用逻辑芯片 74HC4051PWT,TSSOP16 TI CD74HC4051PWR 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 1 202001238 C1, C2 贴片电阻 10uF,0603,±20%,16V,X7R SAMSUNG CL10A106MO8NQNC 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , 4 208004003 U1 温湿度传感器 LM73CIMK-0/NOPB,SOT-23-6 TI LM73CIMK-0/NOPB 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , 79 214001003 U7, U8, U10, U12 单片机芯片 TDC-GP22,QFN22 ACAM TDC-GP22 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__光耦 , 5 212006001 U2 光电耦合器 HEDS-9701#H54 Broadcom / Avago HEDS-9701#H54 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__USB芯片 , 49 IC USB TO SERIAL BRIDGE U9 32-pin QFN 1 -40C to +85C Cypress CY7C65215-32LTXI nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 3 7 Rectangular Connectors - Housings Receptacle Natural 0.098" (2.50mm) nan 7-pin recep 1 -25C to +85C JST Sales America Inc. XHP-7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__晶振 , S2211384004LA 38.4MHz 晶振 Crystal-38.4MHz CRYSTAL,38.400MHZ 10PPM 8PF W/THERMISTOR GPS 0.65MM MAX KYO CT1612DB38400D0FLHA2 1k nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__ESD二极管 , 13 4G2417D0 D07 S000233 TVS DIODE 3.3VWM 12.3VC SOT23 GSOT03C-E3-08/Vishay 齐纳二极管 4015 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , JW5211 替代产品TLV62565DBVR/SY8088 U3 1 SOT95P245X145-5N nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__CBB电容 , 16 C8 FILM CAPACITOR 104J 100V SRD(圣融达) MPP104J4100510LC 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__CBB电容 , 14 C20 CERAMIC CAPACITOR 2E104J Dersonic CFC2E104JD1IJ5074CW1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , nan 電阻 4 Thick Film Resistors - SMD 0402 33 OHM 1% nan nan nan nan YAGEO nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , nan connector 1 J_FLEX_20_HIROSE_FH28E-20S-0.5S nan nan nan nan HIROSEFH28E-20S-0.5SH(05) nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__cpld-fpga芯片 , 33 6B4703A0 U06 S000354 IC FPGA 102 I/O 144TQFP XC6SLX9-3TQG144C/Xilinx QFP 20 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温控开关 , 19 nan 2 nan nan 温控开关 1 80度10A nan nan nan nan nan 自购 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 29 112132 SL04-GS08 1 SMF__R D9 nan nan nan nan nan nan nan nan nan Vishay:SL04-GS08 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , 31 贴片IC 触摸芯片 RH6015C AX版 SOT-23-6L RONGHE(融和) RH6015C nan U3 SOT23-6 RH6015C 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__移位寄存器 , 97 1 74LV595 sop16_127_390 U28 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 66 1 WM8960GEFL qfn32_050_330sq U17 语音驱动芯片 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 21 2510S-16P CN1 2510S-16P 1 2510S-16P Ckmtw LCSC C169036 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 105 1 U12 HI3531DRBCV100 HI3531DRBCV100 BGA805-32-3333 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 高速IO ESD保护IC 片 2 D3,D8 AZ1045-04F.R7G ? ? DFN1R0X2R5-10-1-N nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__风扇散热片热管理产品 , M-C448 418-M-C448 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__高频电感 , 1 L1 L-07C6N8JV6T Surface Mount High Frequency Inductor, 6.8 nH, L-07C Series, 250 mA, 0402 [1005 Metric], Multilayer 0402L Johanson Tech L-07C6N8JV6T nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 193 1 nan UO39 SMD MC33063ADR TI SOIC-8 IC芯片 MC33063ADR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , ST-801充电板 30 贴片电感 CD75 47UH (470) 功率电感 L1 1 PCS 不用报价 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__RS485RS422芯片 , nan nan nan A56U09 SP3485 SP3485EN-L/TR EXAR(艾科嘉) 1 U8 SMT nan 芯片 nan SOIC-8_150mil nan 120 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 贴片LDO LDO, SC4215HSETRT, SC4215HSETRT, 2A sop8_127_150_epad Semtech 10 U22,U34,U39,U42,U43,U46,U1004,U1005,U1006,U1007 SC4215HSETRT.PDF nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , DDR2随机存取存储器 DDR2, NT5TU64M16HG-AC, NT5TU64M16HG, 1.8V bga84_08_8X13 NANYA 2 U53,U1019 NTC-DDR2-1Gb-H-R1-9.pdf nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 93 XH2.54mm插座_2PIN 插焊 XH2.54mm插座_2PIN 3 J3,J6,J14 XH2.54mm插座_2PIN XH2.54mm_2PIN nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__ESD二极管 , 9 1 D4 ESD5Z3.3 ON Semiconductor nan SOD523 SMD TVS-Diode, Vb=3,3V, +-30kV/40A, SOD523 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池座夹附件 , 1 BT1 CR1220 贴片电池座 (BS-1220-2 ) 贴片电池座BS-1220-2 + CR1220电池 BS-1220-2 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , 24 ABHXbNm28n4= U42 nan nan nan nan 板上安装温度传感器 2.4V,10uA,DSBGA Temp Sensor Texas Instruments LMT88DCKR nan 1001 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__门驱动器 , 9 D1304 TBD62083AFWG(Z,EHZ 贴片芯片 SOP-18_300mil 贴片 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC电源模块 , 22 K7805-500R3 DQ01000029 DIP3 件 1 60 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__门驱动器 , 27 芯片TBD62083 DQ01000018 SOP-18 件 1 60 nan TOSHIBA nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__光耦 , 49 SOP8贴片IC TLP521-2 SOP8贴片IC 1 200 200 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关电源芯片 , 48 SO-8贴片IC TL3844P SO-8贴片IC 2 200 400 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__板对板连接器 , nan CLM-110-02-XX-D Low profile Socket Strip, 1 mm Pitch, 20 Pins. J1 CLM-110-02-XX-D CLM-110-02-XX-D 1 nan CLM-110-02-XX-D samtec nan 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线材配件附件 , 13 热缩管 nan ￠12,高度16mm nan 1 用于套上L5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__安规电容 , 3 安规电容Y2 直插 0.1uF/400V nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 11 表贴电阻 603 0603-1K 国巨 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 45 差模电感 直插 DM inductor 22uH nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池座夹附件 , 15 白色电池座 SIP2 间距2.54mm nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__保险丝管 , 直插保险管 5X20MM-F5AL250V 1 F2 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 673-PA4310.104NLT L12.8*12.8 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__稳压二极管 , 821-1SMA4744 DO-214AC-2 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片式一次性保险丝 , 4 保险丝 6.1x2.69mm 4A 125V 1808 F1 20 0451004.MRL 力特 是 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 19 2D2827B0 J25 S000470 贴片连接器 0.5Pitch H=2.0 50P FPC ZIF 抽拉下接 卧式 0.5Pitch H=2.0 50P FPC ZIF 抽拉下接/新元普 其他连接器 498 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__整流器 , nan 1 1 D1 Diode SD560CTR Diode, 600V, 5A, SD560CTR, DO-214AB DO-214AB SMC Diode Solutions SD560CTR 1655-1531-1-ND 600-1016 RoHS Compliant 600-1016SP_REV01.pdf 500 nan 1000 nan 2500 nan 5000.0 nan 10000 nan SD560CTR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 164 连接器 1075053 CONN FFC TOP BOTTOM 8POS 0.50MM R/A CON FFC 8 P BOT XF2M-0815-1A Omrom - - - - nan nan nan nan 6000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__安全(加密)IC , 21 nan IC,ATSHA204-MAH-DA-T,UDFN-8,ATMEL U1801 1 nan 2000 nan ATSHA204-MAH-DA-T nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__法拉电容 , 18 B2-010-XH414H 贴片法拉电容 XH414HG-IV01E 贴片法拉电容 精工或高奇普SM3R3703T01U PCS 1 C84 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__安全(加密)IC , 61 A1-010-FM1280 贴片加密芯片 FM1280 加密芯片 FM SE-E245-DNF-A-G DFN12封装 上海复旦微电子 PCS 1 U1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MCU监控芯片 , 6 D1535 MAX809SEUR+T 贴片 贴片芯片 SOT-23-3 10 nan MAXIM nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__RS232芯片 , 7 D1538 FT232RQ-REEL 贴片 贴片芯片 QFN-32_5x5x05P 10 nan FTDI CHIP nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 29 nan nan 2000 SMD FPC连接器,60PIN,0.5mm间距,旋转翻盖,金属触点下接 J401 1 J401 nan 详见焊接说明 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , 7 THGBM5G6A2JBAIR nan 2000 IC,THGBM5G6A2JBAIR,P-FBGA153,TOSHIBA U801 1 U801 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , nan 7 J6 1 4POS 600V 17.5A CON-TH-4PIN-10.16MM SCREW TERM 4POS SIDE ENT 600V 17.5A TE-Connectivity-AMP-Connectors 282843-4 Digi-Key A98086-ND nan nan 282843-4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他处理器 , 18 nan IC,OV00426,WCSP-64,Omnivision U1701 1 nan 200 nan OV00426 Omnivision nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 13 nan IC,TPS62040DGQ,MSOP-10,TI U1401,U1403,U1405 3 nan 600 nan TPS62040DGQ TI nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 400 4 C14,15,22,25 C1,0U-0805 C1,0U-0805 1,0uF S 805 Capacitor X7R 1,0uF/10V nan Farnell 471-6619 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关电源芯片 , 100 1 U9 UMC34063 UMC34063 MC34063 S SO8 Switcher - nan RS 661-8436 原装 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 压线端子胶壳（黑色） HX20016-6Y 1 10 红星连接器 商品编号：C469788 2mm-2*3P nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC电源模块 , 直插电源模块 HZD10B-24S05W 1 10 北京汇众 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__图像传感器 , 主控 感光片 AR0521-mPLCC AR0521-mPLCC nan U1 AR0521-mPLCC 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数据线信号线 , 电源板 排线 1.0MM 20P 1.0MM 20P nan P5 nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__按键开关 , 开关 PS22F02L-2B1-21 SW1 SW-DIP-12.2X7.2 1 nan 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电感 , 贴片电感 10mH L7 电感6045 1 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 三极管 KTC3876S-Y-RTK/P Q5, Q6, Q7, Q8 SOT_23 4 8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 排线座 翻盖下接触 1.0MM 20P Header, 20-Pin P1 翻盖下接触 1.0MM 20P Header 20 1 nan 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__驱动芯片 , 24 MX113L nan U4 SOT-23-6 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 1 1 CON1 MKDSN_2.5/2_5.08 MKDSN_2.5/2_5.08_REV1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外传感器 , 红外传感器 人体测温探头 DIP4 5.5X3MM 1 nan nan nan nan 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外传感器 , 红外传感器 人体测温探头 带线 nan 1 nan nan nan nan 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外传感器 , 红外传感器 人体测温探头 DIP4 5.5X3MM 1 nan nan nan nan 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__稳压二极管 , BCC-AI-CONN PCB .1 A-0V-00017 二极管 ZMM3V6ST 个 1 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , BCC-AI-S3_20190709 PCB .1 A-0R-00080 电阻(外协) RC-0402-102-J 个 4 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , BCC-AI-CONN PCB .1 A-IC-00278 芯片 SGM6607YTN6G/TR 个 1 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , BCC-AI-S3_20190709 PCB .1 A-0R-00082 电阻(外协包料) RC-0603-102-J 个 1 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 67 插座D1000 2X4 P 1-1827875-4 AMP1200-4x2 TE 9 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 3 SS34 SMA(DO-214AC)_S1 东芝 1 Amp General Purpose Rectifier 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 1 DIN连接器 DIN41612 Type B / 284164 nan 64/32pin;RM2.54;V-F 2 PCS P3,P4 ERNI nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__模拟开关芯片 , U307B SN74LVC1G3157 1 SPDT, 1-channel general-purpose analog switch DRL0006A SN74LVC1G3157 TI SN74LVC1G3157DRLR 15 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开发版套件 , X105 RPI4B 1 Raspberry PI 4B RPI4B-IDC-40x0.90/1.45 RPI4B nan Berg Female 20x2x2,54 11+6mm 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , KH14212015 D0145 直插芯片 STC12C5410AD DIP28 直插 1 STC nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电池座夹附件 , KH14212041 CR0001 电池座+电池 CR2032 nan nan 1 国产 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__弹簧式接线端子 , KH14212055 J0045 橙色端子座 2EDGERM-3.5-20P 3.5MM-20P弯 橙色 1 科发 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 30 J2 CONN_10 SHF-105-01-L-D-TH-LC SHF-105-01-L-D-TH-LC Samtec SHF-105-01-L-D-TH-LC 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 41 M1,M2,M3,M4,M5 39301021 39301021 39301021-JB JB 39301021-JB 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电子线材连接线 , 80mm2P-1.25mm单头插线 线距：1.25mm,连线为红、黑导线;剖线2mm镀锡 SPK 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__配件 , φ12xφ9.5x7mm圆形咪套 φ12xφ9.5x7mm，黑色海绵 nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 5 电阻 820R %1 1/8W 1 R2 805 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MCU监控芯片 , 41 芯片 MAX690AMJA maxim 1 U3 DIP8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 50 线孔 Header nan 1 J5 SIP5 不焊接 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 3 nan 连接器 连接器 XH-2AW 2.54mm 2PIN 直插 红色 1 P5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 100626 针座 S2B-PH-SM4-TB JST 2Pin,2.0mm间距,表贴侧装 nan 104376 140 140 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 21 1 FG1 P-830 CON-DINKLE-P830-FG DINKLE 接地端子 P-830 nan 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__网口变压器 , 18 H1102/PM44-11BG网络变压器 型号:H1102/PM44-11BG TR1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 56 4P-XH立贴针座 XH型立贴，间距：2.0mm J7 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 6 贴片三极管 2301 国产 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , 78 U12 BQ24045DSQR WSON10 original 1 nan 160 nan BQ24045DSQR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__金属膜电阻 , 40 R0805 RJ14-1W 150KΩ 6 R70, R71, R72, R73,?R74, R75 0.01 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电流传感器 , 44 K0030 2MMA/2MA ZMPT112 3 T5, T6, T7 管脚长3mm nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__金属膜电阻 , 37 R0819 RJ14-1W 100KΩ 2 R35.R36 0.01 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__色环电感 , 40 L0050 AL0410(1/2W) 100UH 2 L1.L2 直插 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 9 C0188 805 33NF/50V 9 C30.C32.C34.C36.C38.C40.C14.C17.C18 0.1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他处理器 , 14 D0318 QPF48 LPC1114-302 1 U2 贴片 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电流传感器 , 40 K0030 2MMA/2MA ZMPT112 6 T2, T3, T4 ,T5, T6, T7 管脚长3mm nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__实时时钟芯片 , 贴片芯片 TSOP8-DS1339U-33 1 U13 8 MAXIM nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__32位微控制器-mcu , 6 D0432 TSSOP20 STM32F030F4P6 1 u0 贴片 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 4 R0495 603 330Ω 4 R17.R18.R19.R20 0.01 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外发射管 , 1 D0433 603 MIR60363T-D(透明） 5 D0.D1.D2.D3.D4 亿光 贴片 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外接收管 , 2 D0434 603 MPT60363T-A1(黑色） 5 Q0.Q1.Q2.Q3.Q4 亿光 贴片 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 贴片芯片 TSSOP20-STM8S103F3P6 1 U3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 贴片芯片 SOP8-SI4435 1 Q1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 直插继电器 G5NB-1A-E-24VDC(欧姆龙) 2 K1, K2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__排阻 , 贴片电阻排 0603*4P-1KR/5% 1 RG7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关二极管 , 贴片二极管 SOT-23-BAV99LT1 16 D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__模拟开关芯片 , 贴片芯片 SOP-16-ADG408BR 2 U3,U4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电子线材连接线 , 绝缘电缆线 0.75²-5.8CM 1 J6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 直插芯片 DIP40-AT89S52-24PU 1 U2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 贴片芯片 SOP14-LM324D 1 U5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__D-Sub连接器附件 , 插头座 DB9弯针 2 JP3 JP4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 十位光柱红色 DIP20-LG102510H 4 LED1,LED3，LED5，LED7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LED数码管 , 十位光柱绿色 DIP20-LG102510G 4 LED0,LED2，LED4，LED6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__有源晶体振荡器 , 贴片芯片 SOT353-ESDA6V1W5 1 D1 意法半导体 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 功率继电器 JQX-115F005 2 JD5/JD6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__直插独石电容 , 独石电容 104 3 C1/C2/C3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源变压器 , 电压互感器 TV16 3 T2/T3/T4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__RS485RS422芯片 , 直插芯片 DIP-8-SN65176BP 1 U13 TI nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 直插三极管 TO220_7824 1 LM1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 贴片芯片 SOP-8_OP07CSZ 1 U3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 绕线电感 CD54-47UH 1 L1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 二极管 5819-SMA 1 D1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 芯片 0P07-DIP8 1 U10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 电阻 1/4W-120Ω 5 R6、R7、R8、RC1、RC2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 贴片芯片 LQFP64-STC15W4K32S4-30I 1 U1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他模块 , 贴片模块 SMD-14-RF4463PRO-433 1 U2A nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 直插绿色端子头 KF2EDGKM-3.81间距-5P带耳朵 1 J5 科发 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 直插绿色端子座 KF2EDGVM-3.81间距-4P带耳朵固定孔-直脚 1 J4 科发 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 贴片门铃芯片 SOP8-FR2012-004B 1 U1 东芝，ti,st nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 直插连接器 XH2.54-4P直针 1 J2 BOOMELE/红星/南士 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 直插连接器 XH2.54-2P 直针 1 J1 BOOMELE/红星/南士 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 52 EEA218 L1 nan 17mH @ 10kHz 2 Line Common Mode Choke Through Hole 4A DCR 50mOhm Wurth Electronics Inc. 7448030417 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__汽车连接器 , 318 EED194 J2 nan 4 Position Automotive LAN Connector Plug Connector Solder Through Hole Hirose Electric Co Ltd GT17H-4P-2DSA 110 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , Kingston金士顿 D2516EC4BXGGB DDR3， nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , MT6392A， nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , SDINBDG4-8G 8Gbit eMMC闪存， nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , MT8167A， nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电路保护套件 , 9 U9 浪涌保护 ZEN164V130A24LS 表贴 表贴 ZEN164V130A24LS TE ZEN164V130A24LS 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无线收发芯片 , 蓝牙芯片CH9141 U1 QFN28 4*4 1 29 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__D-Sub连接器附件 , DB-9S母焊接头 JP1 Through Hole - DB9 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__高频电感 , 贴片0805电感-4.7uH 额定电流大于500MA L1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数模转换芯片 , 贴片芯片 SOP-8-DAC7612U 1 U8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 松乐继电器 SRA-12VDC-CL 2 LS1, LS2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音频视频链接器 , 莲花头 莲花座AV-5A 2 AP1, AP2 豪华版此原件不安装 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 小白座 XH2.54直针座-4P 1 P3 深圳(乐清)韵和电子 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LCD显示模组 , 液晶屏 管家婆编号H0015 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 4 R0502 603 300Ω 2 nan R49.R55 厚生 0.01 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__排阻 , 10 R0742 DIP7 A07-103J 1 nan RA1 nan 10KR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 44 D0804 TO-92 Q8050 1 nan Q1 nan 直插 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__超级电容器 , 50 固态电解电容 VE-101M1CTR-0605 100uF 16V 20% 6.3x5.3mm 立隆 2 C3.C4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无源晶体振荡器 , 52 晶振 X206032768KGB2SI 1 X2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无源晶体振荡器 , 51 晶振 X49SM8MSB2SI 1 X1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 38 贴片IC LM358DR SOP-8 ON 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无源晶体振荡器 , 45 晶振 X49SM8MSB2SI 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 继电器 HF3FA005-HSTF 10A 250VAC DC5V 宏发 PCS 2 K2 K3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__轻触开关 , 插件按键 TC-00100A H=7mm 金倍利 PCS 1 K5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__天线 , A1 2450AT42A100_2450AT42A100_2450A 2450AT42A100E nan 2450AT42A100 9.2 3.8 0 NO nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__通孔型保险丝 , 13400120 插件 贴片保险丝 SRT0500A 0.5A 250V φ8.5*7.2mm P=5.08mm Lanson F2 1 2000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__精密运放 , 31 OPA2376AIYZDT IC 精密放大器 Prec/Low noise Op- Amp 1 U4 OPA2376AIYZD OPA2376AIYZDT TI nan nan nan OPA2376AIYZDT nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 27 ATB322515-0110-T000 IC 1:10 Surface Mount Telecom Transformer, 7uH, 0.5 1 T1 ATB322515 ATB322515-0110-T000 TDK nan nan nan ATB322515 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , 温度传感器芯片 DFN8-SHT30 U1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放电管 , 气体放电管 SPA090F-SPA090F 16 D2, D5, D11, D12, D13, D14, D15, D17, D20, D21, D24, D25, D26, D27, D30, D31 SPA090F气体放电管 INFIN nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , 贴片芯片 QFN48（0707）-MAX1978ETM 1 U13 nan MAX nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 贴片电感 6*6*2-3.3uH 2 L1, L2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 
+__label__贴片芯片 , SOP-8_EP_150mil-MP2482 1 U7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝钉接线端子 , 绿端子 座+头 KF128-3.81-4P 弯脚 1 CN2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__断路器 , 熔断器 1210-100mA 1 F9 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 贴片电感 B82462A4-10uH 1 L1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 绿色端子座+头 2EDGR3.81-4P弯 8 COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 绿色端子座+头 2EDGR-3.81-12P弯 2 COM9, COM10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__射频卡芯片 , 贴片芯片 SOP-20-AD630ARZ 1 U310 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , 贴片芯片 TQFN20-MAX31865ATP+ 1 U401 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他模块 , 直插模块 DIP5-FS-TD01D 1 U7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 贴片芯片 MSOP-8-AD8616ARMZ 1 U5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 贴片芯片 SOT23-5-LP5907QMFX-3.0Q1 1 U4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 贴片FPC连接器 0.5mm间距-14P 下接上翻盖 1 P2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 贴片芯片 wson-6-TLV75901PDRVR 1 U2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数据线信号线 , FPC排线 0.5mm间距-20CM同面 1 P3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 贴片芯片 TO-252-2-STD10NF10T4 2 Q2, Q5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__D-Sub连接器附件 , 贴片连接器 CON0C,CON0D-B2B_0D50_80P_FEMALE 母头 2 CON0C,CON0D nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__D-Sub连接器附件 , 贴片连接器 CON0A,CON0B-B2B_0D50_80P_MALE 公头 2 CON0A,CON0B nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 贴片共模滤波器 B82793C0502N201 4 L1.L2.L3.L5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 直插三极管 TO-220-IRF4905PBF 4 Q1.Q2.Q3.Q4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数据线信号线 , FPC软排线 1mm间距-8P-20cm 1 FPC1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字电位器芯片 , 贴片芯片 MSOP-8-MCP4561T-103E/MS 1 U4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数据线信号线 , FPC排线 FPC-0.5mm-14P-长7cm 1 P2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , FPC连接器 1.0MM-8P-抽拉式下接 1 FPC1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__门极反相器 , ZKPCBA-BOM-V1.7 3 贴片IC 贴片IC TSSOP-14 74HC14 U10,U11 2 nan 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 24 插件连接器 15EDGV-10P con_TY_15EDGV-10P J2, J3, J4, J6, J9, J10 6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , CN5 DF11-8DP-2DSA CONN HEADER VERT 8POS 2MM 1 Hirose DIP nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , L1 FP0404R1-R065-R FIXED INDUCTOR 65NH 24A SMT 1 Eaton - Electronics Division SMD nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__4000系列逻辑芯片 , U1 SO14 1 nan nan HEF4093B nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , Q109/Q111/Q113/Q115/Q117/Q118 BC856BL 6 nan nan BC856BL nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__32位微控制器-mcu , 贴片芯片 STM32F767IGK6 U10 2 203 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__特殊功能放大器 , 跨阻放大器 MAX40658ETA,MAXIM U8 1 112 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__RF同轴连接器 , 12-9-00-0019 IPEX座 J10 IPEX-MHF 20279-001E 2 PCS 其中一个焊天线板上 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__馈通式电容器 , 06-1-00-0001 三端式电容器 C13-14 SMD 4.7uf 20% 10V NFM21PC475B1A3 0805 (村田） 2 PCS nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 12-1-00-0004 插座 J12 SMD 1.5mm 5pin 立式 nan 1 PCS nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__射频卡芯片 , 01-5-02-0001 IC U2 SMD TRF7962 QFN32 TI 1 PCS nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__网口变压器 , 13-1-00-0003 变压器 J37 HY601742E(网口隔离变压器） nan 1 PCS nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 51 T002-000002 二极管, TVS管, 5.5V, TPD2EUSB30DRT, SOT-3, TI TPD2EUSB30DRTR D21 1 5 SOT1X1-3-20M TPD2EUSB30DRTR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__cpld-fpga芯片 , 24 T001-000002 IC, FPGA, EP4CE30F23C6N, FBGA-484, Altera EP4CE30F23C6N U29 1 5 BGA-484 EP4CE30F23C6N nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音频视频链接器 , 115 T008-000009 连接器, HDMI插座, HDMI-019S, 硕方 HDMI-019S J12 1 5 SMD_HDMIA_RA nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , FPC40P-0M5-T FPC接线端子40P 0.5mm下接触 翻盖式 J2 FPC40P-0M5-T CON40_1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__USB连接器 , 105017-1001 50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__湿度传感器 , TMP112AQDRLRQ1 111 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源监控芯片 , INA226AIDGS(R,T) 111 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__时基芯片 , TLC555CDR 50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 136 nan R491 nan RES 10K5 MF 1/16W B 0603CS THNF 25PPM/C nan 0603.R1_Primary 10.5K_0.1% 0603 1/16W nan nan 1 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 8 nan R17 nan RES 7K87 MF 1/16W B 0603CS THNF 25PPM/C nan 0603.R1_Secondary 7K87_0.1% 0603 1/16W nan nan 1 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__压敏电阻 , 10 2B3303C0 F06 S000020 VARISTOR 8.2V 120A 0805 V5.5MLA0805H/Littelfuse 变阻器 425 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 12 2B3303C0 J03 D000098 Conn, JST PH Series Header, 2mm pitch, 6 position, thru-hole, vertical B6B-PH-K-S(LF)(SN)-JB/STX 接线座 475 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__微处理器-MPU , 34 微控制器 LFBGA_217_0.8 AT91SAM9G10-CU U1 nan nan 501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝紧固件硬件 , 35 直径Φ=3.0mm 固定孔 NTH 直径Φ=3.0mm J4 nan nan 510 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 58 2.0直针插座_4P 2.0直针插座_4P 2.0直针插座_4P CN3 nan nan 560 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 46 电源芯片 SOT23-5 SPX3819M5-L/TR PU6, PU7 nan nan 1010 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__圆形连接器 , 1 3芯卡农头 3芯卡农头 SPF-09B 501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__卡缘连接器 , 1 PCIE插槽卡座 传统导柱式带肋36P镀金 PCIE插槽卡座 传统导柱式带肋36镀金 PCI_E_36 镀金 CON1, CON2, CON3, CON4,CON5,CON6 如图2.1镀金 3003 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 2 2.0直针插座_5P 2.0直针插座_5P 2.0直针插座_5P CN2,CN3 图2.2 1010 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__PTC自恢复保险 , 41 直插自恢复保险丝 DIP X30UF400 30V 4A PF2 nan 510 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 54 音频芯片 QFN32 WM8978 IC7 nan 501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 37 汇港信号继电器 HRS1H-S-DC12V HRS1H-S-DC12V Relay1,Relay2 如图4.5 1010 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 53 绿端子_5P_3.81弯针一套 绿端子_5P_3.81弯针 绿端子_5P_3.81弯针一套 CON2 nan 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 2 2.0直针插座_6P 2.0直针插座_6P 2.0直针插座_6P 560 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外接收管 , 7 VS1838B 红外_3pin VS1838B 501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 17 2.0白色直插座 插座2.0_2P CON_2.0mm_2pin CON7 图3 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 20 集成芯片 FR9801 FR9801 PU2 nan 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__卡缘连接器 , 41 金手指（NC） PCIE_36 PCI_E_36 CON1 nan 501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 37 电源芯片 SOT23-5 SPX3819M5-L/TR PU4, PU7 nan 1010 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__风扇散热片热管理产品 , 25 散热片 14*14*6MM nan 散热片 14*14*6MM nan 如图2 1501 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电子线材连接线 , .1 3.26.USB005-0180 VIU-815 FS89指纹连接线 线材:UL1007,#26AWG,其中一头5P带扣，间距1.25MM,另一头为mini usb铁壳头（不要包塑胶，包热缩套管），线长180MM.料号标贴. 外购 nan PCS 1 1 100 0 nan nan nan 普通件 nan nan True 使用 True nan nan nan nan 5.16 nan USB005 nan 100.0 180 nan nan VIU-815 FS89指纹连接线 nan nan nan nan nan nan .1 1.0 使用 否 5.16
+__label__电子辅料 , .1 4.17.SM1000-0102 屏支架导电海绵 导电海绵，40*5.0,厚度2.0MM 外购 nan PCS 4 4 100 0 nan nan nan 普通件 nan nan True 使用 True nan nan nan nan 0 nan nan nan 100.0 1000 010 2.0MM nan nan 屏支架导电海绵 nan nan nan nan nan nan .1 1.0 使用 否 0
+__label__DC-DC芯片 , 
+__label__D-Sub连接器附件 , nan 21 CONN D-SUB RCPT 9POS R/A SOLDER J5 Assmann A-DF09A/KG-T2S nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__PTC自恢复保险 , 07-3-02-0005 保险丝 F1 F6 SMD PTC SMD0603P005TF 50mA/16V 0603 (瑞隆源) nan 2 nan 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__气体传感器 , 36 U17 SENSOR PRESSURE ABS Bosch Sensortec BMP280 40000 0 1 42000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__WiFi物联网模块 , 34 U14 WIFI MODULE 64MBITS SPI FLASH Espressif Systems ESP32-WROOM-32D (8MB) 40000 0 1 42000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 贴片三极管 BATT LITH 3V 17MAH COIN 12.5MMP/N ML-1220/F1AN BT2 1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 贴片场效应管 IC RTC/CALENDAR 8SOICP/N PCF8523T/1,118 U9 1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , nan D6T-44L-06 o2 5 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__按键开关 , nan nan 按键,1.57N,6*6*4.3,插件,TOP PUSH,SKHHALA010 1 PCS SW20 ALPS nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , nan Q1 MMBF170 SOT-23 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__IO扩展器 , 27 G 16路呼吸灯控制器 2.4V~5.5V TQFN-24L MOQ=MPQ=6K MSL=3 卷装 AW9523BTQR 2 U1,U2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__弹簧式接线端子 , 30 G 接线端子/6芯/公座/间距3.81mm/绿色 RoHS KF2EDGV-3.81-06P 1 J3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号继电器 , 38 G 超小型功率磁保持继电器双线圈5VDC 1A ADW1205HLW RoHS ADW1205HLW 3 K1,K2,K3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__咪头麦克风 , 贴片麦克风 MSM381A3526H9BPC 1 U1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电感 , 51 1 L13 2.7uH R0603 nan nan 10%，顺络0603 2.7UH nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LED驱动 , 120 1 U9 YS8101D SOP8-6.0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , ESD保护IC 片 4 D22,D24,D27,D28 ACFE1A2G900E ? ? FILTER-1R0X1R27-6SM-N nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__通信卫星定位模块 , 16 1 U101 BG96 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源连接器 , 15 2 J100,J401 781715006 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 13 1 D103 SD32305TR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源连接器 , 6 1 J100 781715006 781715006 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , 10 1 U101 CAP1203 CAP1203-1-AC3-TR nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__直插电解电容 , 125 nan C05 D000262 插件铝电解电容 ORZ271M1CBK-0808 270uF\16V\8*8mm 立隆 C317,C325,C330,C332 4 ORZ271M1CBK-0808 A.03.04.06 12000 nan ORZ271M1CBK-0808 立隆 否 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , MLX90614ESF-BCI-000-TU nan nan nan nan 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__时钟计时芯片 , 单片机芯片TDC_GP22，QFN22 nan nan nan nan 2000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__缓冲器驱动器接收器收发器 , MC74HC125ADR2G nan SOIC-14_150mil nan ON 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 24 4B3902A0 J25 D000851 TERM BLOCK PLUG 2POS STR 5.08MM 691351500002/Wurth 其他连接器 51 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 电阻0欧 R9, R15 603 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__天线 , GSM弹簧天线 J2 SIP1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 15 70-0114-0104 J1 SM02B-BHSS-1-TB(LF)(SN) CONN HEADER 2POS 3.5MM R/A SMD JST SM02B-BHSS-1-TB(LF)(SN) 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__精密可调电阻 , 39 70-0738-0256 VR1 10K POT 10K 1/4W CERMET 12T TOP SMD Bourns Inc. 3224W-1-103E 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 4 1 J3 HEADER SM02B-SRSS-TB 5-PIN 1.00MM ANGLE SM HEADER_SM02B-SRSS-TB_SM SM02B-SRSS-TB nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 13 1 RES 50 OHM 1% .1W 0805 SM R13 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__移位寄存器 , 246 IC 74HC597D IC,Shift register, 74HC597D,SMD,SOP16 SMD SOP16P0127W062H018 NXP nan nan 1K nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FLASH存储器 , 234 IC 24LC02B-I/P IC,EEPROM,24LC02B-I/P,2.5V,DIP,DIP8 DIP DIP8P0254W083H044 MICROCHIP nan nan 1K nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片高精密-低温漂电阻 , 117 476-51005 R140 R233 R242 R246 Res, RoHS, 1.00K, 1/8, 0.1%, 0805 KOA RN732ATTD1001B25 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片高精密-低温漂电阻 , 178 476-99666R R145 Res, RoHS, 6.65K, 1/8W, 0.1%, 0805 Panasonic ERJPB6B6651V 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__模拟开关芯片 , ADG812YRUZ 600 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , MC78M15BDT 1350 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 91 U9 AVR 8-bit RISC MCU Attiny416 QFN-20 nan 空贴 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 25 C67 Capacitor 100pF Yageo CC0402JRNPO9BN101 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , L8040 nan 3.3uH/5A L8,L33 nan 贴片 2 nan 电感磁珠 nan 客供 6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__可调电阻电位器 , 9 4B2204A0 R03 S000004 可调电阻 200KΩ ±20% ±100ppm/℃ G32AT-B204/TOCOS 金属薄膜电阻 62 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 1 2D2828A0 J25 S000411 FPC-4P-1mm 抽拉上接 卧式连接器 FPC-4P-1mm-s/新元普 其他连接器 498 个 无需报价 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__加速度传感器 , 21 M0821E5 U800 芯片 nan LCC-8 nan Dual-Axis/5G/SPI/LCC-8 MEMSIC MXP7205VF 1 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 20 M4C7C4D D3 nan DIO,PESD,24V,200W,SOT23 nan nan PESD_S2_PESD1CAN,24V/200W NXP PESD1CAN 1 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 376 C1，C2 0603C FH 0603CG220J500NT 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__排阻 , 297 R1,R2 0603R四位一体 UNI-ROYAL(厚声) 4D03WGF1002T5E 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片式一次性保险丝 , 17 M5BA9A8 F2 Fuse 2.5A F1206 nan REF SPEC JDT JFC1206-1250FS 1 102 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__高频电感 , 56 1 TAIYO YUDEN HK 1005 5N6S-T L0003 IND-CER-5.6NH-0402,3.6nH,+/-0.3nH IND CER;3.6nH;+/-0.3nH;0402 3.6nH +/-0.3nH nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 25 2B4706A0 R01 S006140 RES SMD 51K OHM 1% 1/3W 1210 KTR25JZPF5102/ROHM 芯片电阻 25 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 27 nan U2 IC BL1085-33 to2633 nan nan nan nan nan 1 12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__排阻 , 44 MCBE09A RN9 贴片排阻 YC124-JR-071KL 0402 8P4R 1K 5% REF SPEC nan REF SPEC DIODES YC124-JR-071KL 0402 8P4R 1K 5% 1 67 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__板对板连接器 , 22 MCB98AB CN1 CN1_1 连接器 3-1827253-6 CONN PLUG 220POS VERT .50MM nan nan nan nan 3-1827253-6 CONN PLUG 220POS VERT .50MM 2 30 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 5 D1 SMA_L4.4-W2.8-LS5.4-RD Vishay VSSA310SHM3_A/H 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 1 J1 WJ300V-5.00-2P ReliaPro WJ300V-5.0-2P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__轻触开关 , nan 2 RESET, SWITCH nan EVP-AA002K MiniSwitch EVPAA002K = 1.0 N, EVPAAU02Q = 7.0 N Panasonic EVP-AA002K Volume Production nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外接收管 , 4 红外接收 CHQ0038G-1 nan 3pin_2.54mm U1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 16 1 D1 BAT54CW nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__压接端子 , 47 L11 S000003 J2,J3,J4,J5 镀锡接插片 镀锡接插片 Longda 6.3插片 无防倒 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 84 U03 S000828 IC DVR VID FILTER SD/HD 14TSSOP FMS6364AMTC14X/ON SOP 6006 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__触发器 , 19 nan UB12UDB13 贴片集成电路 nan nan nan 74HC374 SOP-20(200mil body) nan 74HC374 SOP-20(200mil body) 2 300 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 46 nan R802 电阻 2M 精度±1% 603 nan 2M 精度±1% 风华 nan 1 84 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__光电开关 , 55 槽型光耦 插件 ITR8402-F-A EVERLIGHT ITR8402-F-A 1500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 11 XH直针座连接器 2.54mm*3pin 2.54mmx3P直针 BOOMELE XH-3A 2000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__光电开关 , 64 槽型光耦 插件 ITR1120 EVERLIGHT ITR1120 1500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 12 M5C7D86 J2 nan 1.25MM间距,3pin侧贴连接器,有锁扣 con1*3 smd 90 nan nan nan SM03B-GHS-TB 1 94 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池座夹附件 , 1 M705B48 BT1 贴片钽电容 CR1225带座纽扣电池,脚距12mm CR1225_DIP nan nan DIODES(美台) Battery 1 63 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源连接器 , 29 M897C90 J1 nan PWC3_A PWC0103-M-N nan MT DC005 单头电源线 圆柱母头 nan PWC3_A 1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__温度传感器 , nan 4 PROXIMITY SENSOR IR EMITTER SMD U1 Vishay Semiconductors VCNL3020-GS08 10-SMD, No Lead 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__磁性传感器 , nan 5 HONEYWELL SM351LT HALL EFFECT SENSOR, NANOPOWER, SOT-23-3 U4 Honeywell SM351LT nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__实时时钟芯片 , nan 12 IC RTC/CALENDAR 8SOIC U2 NXP Semiconductors PCF8523T/1,118 nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 38 nan X2 nan X_1.27_6pin_header_20021121 X_1.27_6pin_header_20021121 nan 1.27_6pin_header_20021121 nan nan 1 102 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他处理器 , 99 U3 QCN5054 QUALCOMM QCN5054 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 56 L6201,L6203,L6204 2.2uH@2.6A/MWTC201610S2R2 Sunlord MWTC201610S2R2NT 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__轻触开关 , nan M5D7A82 ＳＷ１-ＳＷ5 贴按键板 按键 贴片按键6*6*8 nan nan nan nan nan 5 5005 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DDRSSD存储器 , nan MD5B859 U7 DDR2,512M IC-W9751G6KB-25 GDDR2,64MB,32*16 FBGA-84 SMD ROHS nan nan nan nan nan 1 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电感 , nan MC8BF14 L4 贴片高频电感 8.2nH 5% LC-0603_L nan nan nan nan 1 67 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 13 M3B6DBC Q8 nan MOS:FDMC7678 MLP 3.3x3.3 SMD nan nan nan nan nan 1 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__74系列逻辑芯片 , nan nan U38, U43 nan SN74LVC2G17DBVT SOT-23-6 nan IC nan IC 2 8 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 214008024 集成电路 电源芯片 SPX3819M5-L-3-3,SOT-23-5 nan U2 1 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 216001076 连接器 Molex插头7p 051021-0700,Housing,7-pin nan P1' 1 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__板对板连接器 , 216001074 接插件 板对板连接器 2.0双排贴片排针,6p,塑高2 nan P1 1 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 203005006 电感 贴片共模电感 2x51uH,9.2x6x5,±30%,1A, 744227S L17 1 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__压接端子 , 216001122 连接器 印刷线路板连接器 SEH-001T-P0.6 nan P1'' 4 4000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__罩类盒类及壳类产品 , 16 1A1026J0 M16 S000004 五金屏蔽罩 14.2*13.3*4.65mm 带L型脚 GENLEDPCBSH-A2/国产定做 屏蔽罩 6504 个 无需报价 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片超低阻值电阻 , 6 nan 0.25R ±5% 1210 R1210 R26 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__缓冲器驱动器接收器收发器 , 27 U103 Integrated circuits Level translator Texas Instruments SN74LV1T34DCKR 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__压接端子 , ..2 Y.JL.278.002 叉型预绝缘端头 SVS5.5-4 乙供 7224 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝紧固件硬件 , ...3 Y.ML.024.000 螺母 螺母ф2.5mm/不锈钢/ 乙供 1204 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__功率电感 , 60 4.7uH/1A 电感 封装：7.3*6.6*4.8 4.7uH/1A L7D30X6D60X4D8MM 4 L9,L10,L11,L12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源监控芯片 , 117 SMT 80592 1 U15 IC - Hi-Side Current Monitor ZXCT1109 Diode Inc. ZXCT1109SA-7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__旋转编码开关 , JP-530UP nan 旋钮编码器 805 个 2 S1，S2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__放大器 , 35 D0536 贴片芯片 RM-8 AD8616ARMZ 贴片 2 U4, U7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 41 J0562 贴片FPC连接器 白色 0.5间距-14P 下接上翻盖 1 FPC1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan 23 插件白色直针插座端子-4PIN-2.54mm 1 J11, 深圳市德柯电气科技有限公司 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__32位微控制器-mcu , 35 1150000008 U1 贴片式集成电路IC MCV/R7F0C905B2DFP RENESAS R7F0C905B2DFP 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , nan nan 3 C54 C57 C60 10UF ±20% 0805 SMD nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan nan 3 J5 J11 J12 1.25mm 16P 卧式贴片座 SMD16 DIP nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , nan nan 1 P3 TPS62175DQCR WSON10 SMD nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 直插小白座 2.0MM-4P直针 1 P1 Hongxing（红星） HX20007-4A nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__弹簧式接线端子 , nan 2 CN1 1098003 - CONECTOR CAGE CLAMP 18 POS - RIGHT 1 CON_WAGO_250-218 250-118/000-023 WAGO 250-218/000-023 WAGO 250-218/000-023 HM nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__螺丝紧固件硬件 , nan 16 - 1277008 - ALUMINIUM RIVET 2,4 x 6 MM N-206 2 - - - - - - - nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__内存连接器 , nan 79 nan nan nan nan nan nan SF7W006S1BE1000 JAE nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他模块 , nan 11 U1 1082024 nan GNSS Module 1 XM1110 XM1110 Sierra - - - - nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan 4 CN4, CN6 1100003 - CON_KK_VERTICAL_5POS 2 CON_KK_VERTICAL_5POS 22-04-1051 MOLEX PCMC1-05 METALTEX 251205WV054 EXCON nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan 3 CN3 1100004 - CON_KK_VERTICAL_6POS 1 CON_KK_VERTICAL_6POS 22-04-1061 MOLEX PCMC1-06 METALTEX 251206WV054 EXCON nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan 2 CN1, CN4 1100002 nan CON_KK_VERTICAL_4POS 2 CON_KK_VERTICAL_4POS 22-04-1041 MOLEX PCMC1-04 METALTEX 251204WV054 EXCON nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 3 1300010007 X1, X2, X3, X4, X5, X6 PCB接线端子 PCB-73（M4）脚距6.5*10.2mm nan nan 6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 4 1300110004 P_A (XH)连接器 XH-4A-2.5（白色/立式）/(HX25003-4A)/ROHS BMP XH-4A 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LED灯柱导光管配件 , 22 Display 【1400100067】灯柱 Ф5*4mm白色两孔间隔柱 JB Ф5*4mm白色两孔间隔柱 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片超低阻值电阻 , 9 贴片电阻 0.1欧/R100 (1206) 1 R14 0.05 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOSFET , 22 贴片MOS NCE9926 SOP-8(原装正品) 1 U4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电容器阵列与网络 , 贴片电容排 C0603*4-100NF-50V-10% 3 CP1.CP2.CP3 三星/村田/风华/TDK nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 贴片芯片 SOP8-FR2012-004B 1 U4 思泽远 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOS驱动 , 43 2Y1301B0 U16 S000829 IC GATE DRVR LOW-SIDE SOT23-5 MCP1416T-E/OT/MICROCHIP SOT 2500 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__金属膜电阻 , 40 2Y1301B0 R03 S000002 3毫欧 ±1% BVS R003F 10.2*5.4*1.4mm BVS-A-R003-1.0/ISABELLENHUETTE 金属薄膜电阻 2499 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__弹簧式接线端子 , 弹簧式接线端子（灰色） LS250-3.5mm-16P直脚 1 J5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 贴片卧式连接器(米黄色） MX1.25mm-6P 1 J7 XFCN(台湾兴飞) nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 贴片卧式连接器(米黄色） MX1.25mm-4P 1 J1 XFCN(台湾兴飞) https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.21.128c834fUxClVK&id=548398934310&skuId=3327534453530&areaId=110100&user_id=2207691322&cat_id=2&is_b=1&rn=8a9eed81578de170aa760137c580571f nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__门极反相器 , 117 1079180 U27 SC70-5L65P(P5)210X110-5N IC SNGL 2IN POS-AND GATE SC70-5 SN74AUP1G08DCKR Texas Instruments 74AHC1G08SE-7 Diodes nan nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__SRAM存储器 , 48 1079190 U9 DFN8L1.27P600X500X85-8N 32KB Serial SPI MRAM (magneto resistive random acess memory) MR25H256ACDF Everspin MR25H256CDC Everspin - - 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 2 1086008 CN1 CON-MINI CT 1.50P4L - TYCO CONN HEADER 4POS VERT 1.5MM TIN 2-292207-4 Tyco 292207-4 Tyco nan - 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 2 1075062 CN1 CON MICRO-FIT 2 VIAS 180º HEADERS & WIRE HOUSINGS MICROFIT 3.0 HDR VER R VERT CPI 2 CKT 208 44914-0201 Molex - - - - 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 5 1075064 CN5 CON MICRO-FIT 12 VIAS 180° HEADERS & WIRE HOUSINGS MICROFIT 3.0 HDR VER R VERT CPI 12 CKT 208 44914-1201 Molex - - - - 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 3 1086008 CN1, CN2 CON-MINI CT 1.50P4L - TYCO CONN HEADER 4POS VERT 1.5MM TIN 2-292207-4 Tyco 292207-4 Tyco nan - 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 7 1075053 CN3 CON FFC 8 P BOT CONN FFC TOP BOTTOM 8POS 0.50MM R/A XF2M-0815-1A Omrom - - - - 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 28 nan 连接座 FPC 6PIN 间距0.5mm 下接触 翻盖 2.0H FPC05006-09100 ATOM J13 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__配件 , 79 5.5003 Assistant Material Silica gel（硅胶片）白色 23x14x1.2mm 榕品 nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__发光二极管 , 2 D1000, D1001 Wurth 150060BS75000 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 3 D1002 NEXPERIA PUSB3F97X 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 4 D1003 NEXPERIA PUSB3F97X 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 80 U1 nan STMicroelectronics TDA7376PDTR 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 60 R13 603 RALEC RTT036342FTP 5000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 3 CN2,CN3,CN4,CN5,CN6,CN7,CN8,CN9,CN10,CN12,CN15,CN16 连接器插座 DIP_2 5.08mm脚距 3pin JST B02B-VYHSK-1 12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__达林顿管 , 19 IC3,IC4 IC芯片 DIP DIP16Pin TI ULN2003AN 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__可控硅SCR , 5 TR1，TR2 3Pin可控硅 DIP_3 TO-3P ST BTA26-600BRG 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__16位微控制器-mcu , 27 U1 IC芯片 RENESAS单片机 QFP R5F104GCAFB 协荣电子 R5F104GCAFB/IC（RoHS） 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 33 CN7,CN8,CN11,CN12 4PIN连接器母座 DIP 2.54mm脚距 JST B04B-XARK-1 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__风扇散热片热管理产品 , 38 U5，U6 散热片 14.8*9.8*20 nan 嘉德 nan 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 93 L5005M0D0058 T1 共模磁环电感 共模磁环电感,T10*6*5 5mH,线径0.35mm 直插90度 共模磁环电感,T10*6*5 5mH,线径0.35mm，两组线圈。 JB 共模磁环电感,T10*6*5 5mH,线径0.35mm，两组线圈。 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__直插电解电容 , C01 D000031 插件电容 DE1E3KX222MN4AN01F CAP CER 2200PF 250V RADIAL muRata C103 1 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , J25 D000667 插件座子 B7B-PH-K-S(LF)(SN) CONN HEADER VERT 7POS 2MM 直插 JST CON2 1 500 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan nan 白色插座CON4-2.54 DQ010292 XH2.54-4P CON4*2.54 件 2 JP6, JP7 HX(红星) nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__8位微控制器-mcu , 贴片芯片 LQFP-32-STC15W4K32S4-30I 1 U17 宏晶 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 13 J2, J3, J7, J9 CONN HEADER SMD 2POS 1MM VERTICAL Molex 2035560207 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 33 - CONNECTOR, RCPT, 4POS, 1ROW, 1MM Molex 501330-0400 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电子辅料 , 62 nan G16 D000008 组装泡棉 EVA黑色泡沫膠帶 EVA黑色泡沫膠帶 国产 nan 1 nan 50 nan EVA黑色泡沫膠帶 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 7 nan R01 S005881 贴片电阻 ERJ-12ZYJ201U SMD 2010 200 ohms 5% Tol AEC-Q200 Panasonic R1 1 ERJ-12ZYJ201U nan 200 nan ERJ-12ZYJ201U Panasonic nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__其他模块 , BLUETOOTH-HC06 1 HC1 BLUETOOTH-HC06 Modulo HC06 BLUETOOTH-HC06 HC-06 is the higher version of LV_BC_2.0. Linvor is the former of wavesen www.wavesen.com P nan Datasheet nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MCU监控芯片 , 29 IC5 SOIC-8/SOP8 贴片 芯片MAX706 IMP IMP706JESA/T 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 8 GND1 SW1 HDR-TH_1P-P2.54-V-M Pin Header Male Pin 1 1 Through Hole Pin Header & Female Header RoHS BOOMELE(Boom Precision Elec) C81276 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__通用二极管 , 1N4148 星海 50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__以太网连接器 , 66 J25 S000438 T1 贴片网口 CONN MAGJACK 1PORT 100BASE-T SMD Wurth 7498210002 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__高频电感 , 45 L12 S000371 L5,L6 贴片电感 FIXED IND 6.8NH 600MA 240 MOHM 0402 Murata LQG15HS6N8J02D 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__保险丝座夹 , 4 J14 D000015 F1,F2 保险座 FUSE HLDR CARTRIDGE 250V 5A PCB Keystone Electronics 4527 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__罩类盒类及壳类产品 , 16 G05 D000031 nan 纸箱 中号纸箱 35*30*25 K=K 5层印字本色 国产 纸箱 1/50 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__环境光传感器 , nan 8 PROXIMITY SENSOR IR EMITTER SMD U3 Vishay Semiconductors VCNL3020-GS08 10-SMD, No Lead 1 425 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__接口 , - 专用 20 MWgDpGBP6VA= U21 nan ADV7611BSWZ LQFP64_EP_10X10MM nan nan nan ADV7611BSWZ 1 5 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__直插电解电容 , 4 tvAiHwuLO18= C1261 nan 330UF/6.3V STC3528 nan nan nan 330UF/6.3V 1 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__ESD二极管 , 22 U7-8、U17、U20 SOT665 ESD 抑制器/TVS 二极管 Diode TVS Quad Bi-Dir 5V 5-Pin Nexperia USA PESD5V0U4BW 4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源变压器 , 48 Transformer SMD-8 A-0399-0001 nan nan 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 78 C72, C81, C92 C117, C119 5 SR305C105KAA Multilayer Ceramic Capacitor 1uF; 50V; 10% X7R AVX nan nan SR305C105KAA nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MELF晶圆电阻 , 21 RA5 CFS碳膜晶圆电阻 47Ω/2%/CFS0204/1/4W/DO-213AA/SMD Thunder MELF-MFR02041/4WS47ΩFT50 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 稳压电源 TLE4275G,PG-TO263-5-1,450mA,5V,2%,150℃,ESD>4KV,Infineon U16 PG-TO263-5-1 1 2000 Infineon nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 42 TOP 贴片插座 4PIN/2MM间距卧式贴片插座 10230002325 KL\HEADER SIDE SMD PH-4AWB J2 1 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 41 TOP 贴片插座 2PIN/2.54MM间距卧式贴片插座 10230004173 KL\HEADER SIDE SMD XH-2AWT_LCP UL94V-0 J1 1 22 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 16 nan nan 线对板连接器插头（配套来料，不需焊接，20个是这批板子总共配套数量，下同） nan nan P1 HX20006--4Y 个 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__IC与器件插座 , 直插芯片座 2.54-2*7P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 18 Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/) Conn_02x05_Odd_Even J2 Conn_02x05_Odd_Even PinSocket_2x05_P1.00mm_Vertical_SMD 1 ~ nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电子线材连接线 , nan CA1 1 Fitted 8-Way Cable Assembly nan nan 2mm Pitch 8-Way Cable Assembly2mm Pitch AP APxxxxx_x nan nan nan Fitted nan 12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__金属膜电阻 , nan R55, R60 2 Fitted NOFIT 0.1W Thick Film 0.01 603 NOFIT0.1W Thick Film1%603 nan nan nan nan nan Fitted nan 24 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , nan U12 1 Fitted AK4490 nan nan LQFP-48 AK4490LQFP-48 AKM AK4490EQ nan nan nan Fitted nan 12 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线性稳压芯片LDO , 12 芯片 662k p3 SOT23 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__音视频IC , 14 nan XPT8871 P5 SOP8 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__D-Sub连接器附件 , nan 39 P2194 全能王拓展版PRO-贴片电路板 P1436 全能王拓展板-DB15/双排公头/侧卧直插 Connectors, Interconnects D-Sub Connectors Amphenol Commercial Products L717SDA15PA4CH4F J2 DB15,2ROWS,Through Hole, Right Angle 1 DB15/双排公头/侧卧直插 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , 32 pmu QFN68-7X7 RK818-1 QFN68-7X7 1 U6 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电感 , 5 A-0L-00062 L1, L2, L3, L4, L5, L6, L7 GLFR1608T1R0M L0603 电感、线圈类 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电感 , 93000019 贴片电感 1UH ±20% 0805 L5 1 muRata(村田) 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 91 18P连接器(174935-1) nan TE/AMP系18P连接器 针座174935-1 1 J1 TE nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , 42 43180101 LCD连接器 Connector,LCD FH26w-25S-0.3SHW60 HRS FH26-25S-0.3SHW05 744 J304 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__共模扼流圈滤波器 , 006-000005 / 插件电感 磁性元件 共模电感,100uH@100MHz,5%,GM-048SH,晶利来 / 1 PCS C 外购 L3 晶利来 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 004-000001 / 电阻 电子类 10K,1%,1/10W,0603 / 1 PCS C 外购 R8 厚声 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 008-000006 / 连接器 连接器类 2.0插座，B3B-PH-K-S,3P,立式,插件,JST / 1 PCS C 外购 JH1 JST nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 008-000006 / 连接器 连接器类 2.0插座，B3B-PH-K-S,3P,立式,插件,JST / 1 PCS C 外购 JH1 JST nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 008-000036 / 连接器 连接器类 2.54插座,XHB2.54mm 2pin卧贴 带扣 / 1 PCS C 外购 CN1 / nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__光电开关 , 011-000027 / 插件光耦 半导体光电器件 槽型光耦,GK-122 / 1 PCS C 外购 OP1 深圳市世华高半导体有限公司 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , FPC_16 nan DIN FPC0.5 2H-WS-16P FPC_16 1 300 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__发光二极管 , 5050-RGB-LED 5050RGB 全彩灯珠,缺口为正极，亮度0.1w L1_M1, L1_M2, L1_M3, L1_M4, L2_M1, L2_M2, L2_M3, L2_M4, L3_M1, L3_M2, L3_M3, L3_M4, L4_M1, L4_M2, L4_M3, L4_M4, L5_M1, L5_M2, L5_M3, L5_M4, L6_M1, L6_M2, L6_M3, L6_M4, L7_M1, L7_M2, L7_M3, L7_M4, L8_M1, L8_M2, L8_M3, L8_M4, L9_M1, L9_M2, L9_M3, L9_M4, L10_M1, L10_M2, L10_M3, L10_M4, L11_M1, L11_M2, L11_M3, L11_M4, L12_M1, L12_M2, L12_M3, L12_M4, L13_M1, L13_M2, L13_M3, L13_M4, L14_M1, L14_M2, L14_M3, L14_M4, L15_M1, L15_M2, L15_M3, L15_M4, L16_M1, L16_M2, L16_M3, L16_M4, L17_M1, L17_M2, L17_M3, L17_M4, L18_M1, L18_M2, L18_M3, L18_M4, L19_M1, L19_M2, L19_M3, L19_M4, L20_M1, L20_M2, L20_M3, L20_M4, L21_M1, L21_M2, L21_M3, L21_M4, L22_M1, L22_M2, L22_M3, L22_M4, L23_M1, L23_M2, L23_M3, L23_M4, L24_M1, L24_M2, L24_M3, L24_M4, L25_M1, L25_M2, L25_M3, L25_M4, L26_M1, L26_M2, L26_M3, L26_M4, L27_M1, L27_M2, L27_M3, L27_M4, L28_M1, L28_M2, L28_M3, L28_M4, L29_M1, L29_M2, L29_M3, L29_M4, L30_M1, L30_M2, L30_M3, L30_M4, L31_M1, L31_M2, L31_M3, L31_M4, L32_M1, L32_M2, L32_M3, L32_M4, L33_M1, L33_M2, L33_M3, L33_M4, L34_M1, L34_M2, L34_M3, L34_M4, L35_M1, L35_M2, L35_M3, L35_M4, L36_M1, L36_M2, L36_M3, L36_M4, L37_M1, L37_M2, L37_M3, L37_M4, L38_M1, L38_M2, L38_M3, L38_M4, L39_M1, L39_M2, L39_M3, L39_M4, L40_M1, L40_M2, L40_M3, L40_M4, L41_M1, L41_M2, L41_M3, L41_M4, L42_M1, L42_M2, L42_M3, L42_M4, L43_M1, L43_M2, L43_M3, L43_M4, L44_M1, L44_M2, L44_M3, L44_M4, L45_M1, L45_M2, L45_M3, L45_M4, L46_M1, L46_M2, L46_M3, L46_M4, L47_M1, L47_M2, L47_M3, L47_M4, L48_M1, L48_M2, L48_M3, L48_M4, L49_M1, L49_M2, L49_M3, L49_M4, L50_M1, L50_M2, L50_M3, L50_M4, L51_M1, L51_M2, L51_M3, L51_M4, L52_M1, L52_M2, L52_M3, L52_M4, L53_M1, L53_M2, L53_M3, L53_M4, L54_M1, L54_M2, L54_M3, L54_M4, L55_M1, L55_M2, L55_M3, L55_M4, L56_M1, L56_M2, L56_M3, L56_M4, L57_M1, L57_M2, L57_M3, L57_M4, L58_M1, L58_M2, L58_M3, L58_M4, L59_M1, L59_M2, L59_M3, L59_M4, L60_M1, L60_M2, L60_M3, L60_M4, L61_M1, L61_M2, L61_M3, L61_M4, L62_M1, L62_M2, L62_M3, L62_M4, L63_M1, L63_M2, L63_M3, L63_M4, L64_M1, L64_M2, L64_M3, L64_M4 5050-LED 5050-RGB-LED 256 76800 256000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FPCFFC连接器 , FPC_16 FPC连接器 0.5MM 16P 翻盖下接 DOUT FPC0.5 2H-WS-16P FPC_16 1 300 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 21 2Y1302C0 Q03 S000230 TRANS NPN 160V 0.6A SOT-23 MMBT5551LT3G/ON Semiconductor 晶体管/晶闸管 790 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__红外接收管 , Vishay-TSOP361-IR-Receiver Infrared Receiver 56 kHz TSOP36356TT IC605 Vishay TSOP36356TT Infrared Receiver 56 kHz 1 10 nan 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__CAN芯片 , 114 nan 集成块（贴片） SN65HVD256D 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 102 nan 集成块（贴片） TLV62090RGT 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__标准时钟振荡器 , 14 OSC_LTC6930 SOIC-MS8 SMD OSCILLATOR-8.192MHz LTC6930IMS8-8.19#PBF LTC6930IMS8-8.19#PBF-ND 1 170 180 Yes 100 nan 170 nan LTC6930IMS8-8.19#PBF nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__精密运放 , 82 8M2101A0 U16 S000900 IC OPAMP JFET 1 CIRCUIT SOT23-5 OPA140AIDBVT/TI SOT 5 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 38 8M2101A0 L01 S000364 磁珠 220Ω ±25%@100MHz 0603 BLM18EG221TN1D/村田 磁珠 36 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__通用二极管 , 15 一般二极管 M7,DO-214AC 2 D1、D3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__门极反相器 , 2140 2 nan SO14 nan nan nan HEF4081BT Nexperia CMOS Quad 2-Input AND Gate 14-SOIC nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__DC-DC芯片 , 41 01.011.0078 贴片电源IC LM2703-ADJ/NOPB U3 SOT23-5 1 pcs TI nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电源变压器 , 54 01.011.0090 变压器 TRN1010 T1 TRN1010 1 pcs nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__肖特基二极管 , 
+__label__Diodes , 1 D1 Mouser 863-BAT54HT1G BAT54HT1G nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , Resistors 1 R2 DIGIKEY 311-2445-1-ND 17K8_W1-0603 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , Resistors 2 R3-R4 DIGIKEY 311-1.00MHRCT-ND 1M_W1-0603 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , nan 12 B3B-XH-A (LF)(SN) - Wire-To-Board Connector, Vertical, 2.5 mm, 3 Contacts, Header, XH Series, Through Hole, 1 Rows B3B-XH-A nan JST3_PTH nan J1,J3,J4 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__USB芯片 , nan 28 FT4222HQ-D-T - Interface Bridges, USB to SPI, I2C, 4.5 V, 5.5 V, VQFN, 32 Pins, -40 °C FT4222HQ-D-T 2860315 nan FT4222H U2 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 366 Q701 ZXTP25040 nan nan SOT-23 nan nan 1 1 nan 10000 nan ZXTP25040 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__LED驱动 , 15 1A3920A0 U16 S000709 IC LED DRVR REG PWM 1.5A SOT89-5 AL8861Y-13/DIODES SOT 3006 个 无需报价 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__FLASH存储器 , M24C02-WMN6TP EEPROM Serial-I2C, 2Kbit, 2.5 to 5.5 V, 400 kHz, 8-Pin SO, -40 to 85 degC, RoHS, Tape and Reel U6 STM-M24C02-WMN6TP-8_M CMP-2000-05370-1 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__谐振器 , 2 12MHz CSTCE 12M 12MHZ 12.000MHZ CSTCE12M0G52-RO 村田晶振 3213贴片 3213 XTAL-3PIN 1 SMT 村田 1000 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 24 2C6807A0 Q03 D000031 TRANS PNP 45V 0.8A TO-92 BC32725TA/ON SEMIC. 晶体管/晶闸管 203 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__数字三极管 , 45 2C6808A0 Q03 D000029 TRANS NPN 45V 0.8A TO-92 BC33725TA/ON 晶体管/晶闸管 82 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__模数转换芯片 , 26 芯片 AD7124-4BRUZ nan 16MHz ±10PPM TSSOP-24 1 1 U303 ADI 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电池电源管理芯片PMIC , 3 电阻 TPS62135RGXR 22R ±1% 1K ±0.1% 603 14 14 R101 R102 R103 R104 R105 R106 R107 R108 R109 R205 R206 R211 R212 R332 TI(德州仪器) 100 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 29 连接器 HY2_0-4P 2.0 间距 90度 带扣 nan SMD-4 1 1 J202 BOOMELE 10 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__信号开关多路复用解码器 , 27 芯片 ADG731BCPZ nan 12MHz TQFP-48 2 2 U301 U302 ADI 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__电量计芯片 , 28 u1 贴片集成 TSSOP24 AD ADE7755ARSZ 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__罩类盒类及壳类产品 , 25 nan nan RF模块屏蔽罩 定制 1 nan nan nan 80 0.4 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 10 2C8003A0 J25 D000568 CONN HEADER R/A 4POS 2MM 4-位-接头-连接器-0.079"（2.00mm）-通孔-直角-锡 S4B-PH-K-S(LF)(SN)/JST 其他连接器 52 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__保险丝座夹 , 8 2C8003A0 J14 D000015 FUSE HLDR CARTRIDGE 250V 5A PCB 4527/Keystone Electronics 保险座 94 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__开关电源芯片 , 13 6L7229C0 U03 S000931 IC REG BUCK ADJ 2.5A 10MSOP TPS54260DGQR/TI SOP 20 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__时基芯片 , 33 2P10501A0 U03 S000930 IC OSC SILICON PROG 8-MSOP LTC6903CMS8#TRPBF/LT SOP 200 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MOS驱动 , 36 2P10501A0 U17 S001130 IC GATE DRVR HALF-BRIDGE 8SOIC UCC27201ADR/TI SOIC 400 个 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MELF晶圆电阻 , 1 贴片电阻 0R;TK50 0.01 SMD0204 1 PCS R110 VITROHM/VISHAY nan MMA02040Z0000ZB300 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MELF晶圆电阻 , 14 贴片电阻 7.5K;TK50 0.01 SMD0204 1 PCS R72 VITROHM nan nan 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__MELF晶圆电阻 , 21 贴片电阻 43K;TK50 0.01 SMD0204 1 PCS R21 VITROHM nan nan 20 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 25 C16, C17 805 YAGEO CC0805KKX7R8BB225 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 130 FAN15, FAN48 DIP2X5.5 MOLEX 39288020 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__圆形连接器 , 20 Y36Q-24浮动对接密封圆形电连接器 Y36Q-24TKB 结构安装 QJB 个 2 693厂 目外 国产 充电电缆用 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电阻 , 18 8 15429-A COMPONENT RES SMD 680K OHM 1% 1/10W 0603 Production RC0603FR-07680KL Yageo FUTURE ELECTRONICS CORP Prefer 98 0.000874 0 0 0 0.006992 0 0 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 13 2 14850-A COMPONENT 22µF ±10% 25V X5R 1206 Production CL31A226KAHNNNE Samsung AVNET INC Prefer 140 0.055 0.005 0 0 0.11 0.01 0 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__贴片电容 , 30 5 19912-A COMPONENT 1µF ±10% 50V X7R 0603 Production UMK107AB7105KA-T Taiyo Yuden AVNET INC Prefer 112 0.02178 0 0 0 0.1089 0 0 0 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__插拔式连接器 , 60 X4 nan Micro FIT 2x4 C3030WR-2X4P 1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__专用传感器 , 8 ..2 3IC21341298 Cap/proximity sensor CAP1298 QFN16 nan nan nan nan 1 U1 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__TVS二极管(瞬态电压抑制二极管) , 4 IC6A, IC10, IC18, IC23 nan IC,SP720,ESD & OV PROT,SOIC-16 nan Littelfuse Inc SP720ABTG SP720ABTG 120 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__拨码开关 , 1 DSW1 SW DIP-2 Dip Switch SPST 2 Position Through Hole nan CTS Electrocomponents 210-2MS 210-2MS 30 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 3 K15, K18, K21 nan CON,HDR,8POS,ST,.156CTR,LOCK,M nan TE Connectivity / AMP 640445-8 640445-8 90 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__连接器附件套件 , 20 CIRCUIT PIN, PRINTED, 0.165" 6 U1,U7 1705-0-15-15-30-27-04-0 MIX Stock 1800 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__精密可调电阻 , 17 POT 50K OHM 4MM CERMET TOP SMD 2 R5,R8 SM-42TW503替代型号：3224W-1-503E Copal Stock 600 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__PTC自恢复保险 , 24 101FP-00031BI.01 F2, F3, F4, F5, F6, F7, F8 自恢复保险丝 安装方式SMD,0805,额定电压6V,额定电流0.5A SEA&LAND SMD0805-050 7 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__无线模块 , 31 2D2422B0 U01 S000043 ENW-89837A3KF/Panasonic 3 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__IDC连接器(牛角) , 34 CN3, CN32 Connector Header Through Hole 14 position 0.100" (2.54mm) Vertical , Latch Lock/Eject Hooks MOLEX 90663-1142 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__稳压二极管 , 60 D-ZNR-1004 Diode, Zener, 15V, 200mW, SOD-323F 1 nan D1 ON SemiconductorON SemiconductorRohm SemiconductorTaiwan Semiconductor CorporationTaiwan Semiconductor Corporation MM3Z15VBMM3Z15VCUDZVTE-1715BBZT52C15S RRGUDZS15B RRG nan nan MM3Z15VB nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 35 nan J25 D000402 插件连接器 XH2.54-8A 针座 1*8POS 间距：2.54mm 直插 STX DSP, LCD 2 nan 600 nan XH2.54-8A STX 否 nan 2W nan nan HY nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+__label__线对板线对线连接器 , 45 插座 B16B-XADSS-N(LF)(SN) CONN HEADER VERT 16POS 2.5MM B16B-XADSS-N JST Sales America Inc. 2 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan

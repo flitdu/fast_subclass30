@@ -32,6 +32,7 @@ import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
 from data_operation.constant import label_name_forbid, SubclassLabelList
+from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
 
@@ -225,6 +226,28 @@ class TestExcel(OperateExcel):  # 重写函数
         else:
             return None, None
 
+    def predict_rewrite_excel(self, model):
+        """
+        预测，重写excel
+        :return: 返回预测标签和预测概率
+        """
+        predicted_label_lists = []
+        predicted_probability_list = []
+        for line_read in self.excel_content_all().splitlines():  # 先遍历行
+
+            aa_description = line_read
+            aa_description_standard = standard(aa_description, stop_words)  # 标准化处理
+            predicted_result = predict_output(aa_description_standard, model)
+
+
+            predicted_label = predicted_result[0][0][0].replace('__label__', '')
+            predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
+            print(predicted_label, predicted_probability, '!!!!!!')
+            predicted_label_lists.append(predicted_label)
+            predicted_probability_list.append(predicted_probability)
+
+        return predicted_label_lists, predicted_probability_list
+
 
 def save_test_info(error_info, true_label, aa_description_standard, aa_description, predicted_probability):
     pass
@@ -241,7 +264,7 @@ def save_test_info(error_info, true_label, aa_description_standard, aa_descripti
 if __name__ == '__main__':
     logger = get_logger()
 
-    excel_read_tag = 100
+    excel_read_tag = 10
     if excel_read_tag == 1:
         excel_read2txt()
 
@@ -252,18 +275,18 @@ if __name__ == '__main__':
     learn_rate = 0.5  # 0.5, 0.8
     n_gram = 2
 
-    train_tag = 10
+    train_tag = 100
     if train_tag == 1:
         # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-        # label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
-        # # SubclassLabelList.setLabel(label_list)
-        #
-        # f = open(r'.\data\variant\label_list.txt', 'wb')
-        # pickle.dump(label_list, f)
-        # f.close()
+        label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
+        # SubclassLabelList.setLabel(label_list)
+
+        f = open(r'.\data\variant\label_list.txt', 'wb')
+        pickle.dump(label_list, f)
+        f.close()
 
         # # # 3 划分数据集
-        # datasSplit()
+        datasSplit()
 
         # 读取误分类数据到训练集
         # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
@@ -273,7 +296,7 @@ if __name__ == '__main__':
         # 4 训练-评价
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate, n_gram)
-        # ft_.train(r'.\data\corpus\train_data.txt')  # 训练
+        ft_.train(r'.\data\corpus\train_data.txt')  # 训练
 
         train_accuracy_list = []  # 准确率
         train_f1_macro_list = []  # f1 宏平均
@@ -309,7 +332,7 @@ if __name__ == '__main__':
         plotTrainEffect(ft_,train_accuracy_list,train_f1_macro_list,val_accuracy_list,val_f1_macro_list)
 
     # ===============测试集========================
-    test_tag = 10  # 查看测试集效果
+    test_tag = 100  # 查看测试集效果
     if test_tag == 1:
         pass
         test_accuracy_list = []
@@ -335,17 +358,69 @@ if __name__ == '__main__':
         plotCompareModelAccuracy(dict_model_test_accu)
 
     # ===============利用所有数据重新训练得到最终模型========================
-    trian_with_alldatas = 10
+    trian_with_alldatas = 100
     if trian_with_alldatas == 1:
-        ft_ = FastTextModel(150, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(200, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
 
     # ===============BOM测试========================
-    test_flag = 1
-    if test_flag == 1:
+
+    test_flag = 0
+    time0 = time.time()
+    if test_flag == 0:  # 对不带有标注的excel 预测
+        pass
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e200'  #
+        excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
+        output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
+
+        dict_model_test = {}
+        record_right_probability_list = []
+        record_wrong_probability_list = []
+        file_names = os.listdir(excel_path)
+        prediciton_model = ff.load_model(modle_path)
+
+        number = 0
+        for i, name1 in enumerate(file_names):
+            if '~$' in name1:
+                continue
+            number += 1
+            bom_path = excel_path + '\\' + name1
+            print(bom_path)
+
+            aa = TestExcel(bom_path)
+            predict_labels, predict_probabilities = aa.predict_rewrite_excel(prediciton_model)  # 预测 excel 一行,除去标签
+            print(predict_labels,predict_probabilities)
+
+            df1 = pd.read_excel(bom_path)
+            df1['预测类目'] = '..'
+            df1['预测概率'] = '..'
+            for index,value in enumerate(predict_labels):
+                df1.ix[index, '预测类目'] = value
+                df1.ix[index, '预测概率'] = predict_probabilities[index]
+
+            output_name = output_path + '\\' + 'output_'+name1
+
+            # df1.to_excel(output_name)
+            # ---------背景色设置-------
+            sf = StyleFrame(df1)
+
+            sf.apply_column_style(cols_to_style=["预测类目"],
+                                  styler_obj=Styler(bg_color='yellow'),
+                                  style_header=True)
+            sf.apply_column_style(cols_to_style=["预测概率"],
+                                  styler_obj=Styler(bg_color='green'),
+                                  style_header=True)
+            ew = StyleFrame.ExcelWriter(output_name)
+            sf.to_excel(ew)
+            ew.save()
+        print(f'文件个数：{number}, 耗时{time.time() -time0}')
+        print('done!!!!!!')
+
+
+    if test_flag == 1:  # 对带有标注的excel 预测
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'
-        excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\5.29Mike标注\标注'
+        excel_path = r'D:\dufy\code\公测'
 
         model_folder = r'D:\dufy\code\local\model\ft_subclass\test_models'  #
         model_names = os.listdir(model_folder)
@@ -400,7 +475,7 @@ if __name__ == '__main__':
         plotCompareModelAccuracy(dict_model_test)
 
 
-    if test_flag == 0:
+    if test_flag == 100000:
         ft_vec = ff.load_model(r"D:\dufy\code\ft_BOM\model\model_w2_e98")
         print(ft_vec.get_word_vector('3v'))
         print(ft_vec.words)

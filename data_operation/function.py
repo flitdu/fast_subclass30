@@ -263,6 +263,8 @@ def labelNewSubclass(label_origin):
         aa_label = '结型场效应晶体管(JFET)'
     elif aa_label == 'IDC连接器（牛角）':
         aa_label = 'IDC连接器(牛角)'
+    elif aa_label == '线对板/线对线连接器':
+        aa_label = '线对板线对线连接器'
     elif aa_label == '结型场效应晶体管（JFET）':
         aa_label = '结型场效应晶体管(JFET)'
     elif aa_label == '电机马达点火驱动器I':
