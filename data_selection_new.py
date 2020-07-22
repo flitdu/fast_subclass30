@@ -9,6 +9,7 @@ from data_operation.txt_operate import OperateTXT
 from data_operation.constant import label_subclass_database
 from data_operation.function import get_logger
 from data_operation.function import path_clear, file_clear
+import pandas as pd
 
 logger = get_logger()
 
@@ -26,7 +27,13 @@ def shuffle(origin_txt, shuffle_txt):
     out.close()
 
 
-def mergeLabelTxt(lines_number, shuffle_tag):
+def mergeLabelTxt(limit_number, shuffle_tag):
+    """
+        将不同txt 文件融入到一起
+        :param limit_number: 极限数值，超过则选取读到txt 里
+        :param shuffle_tag:
+        :return:
+        """
     # f_1 = open(r'.\data\selection_data.txt', 'w')
     # f_1.truncate()
     # f_1.close()
@@ -36,34 +43,40 @@ def mergeLabelTxt(lines_number, shuffle_tag):
     file_names = tuple(os.listdir(path))  # 转为tuple
 
     label_number = {}
-    # for i in range(len(file_names)):  # 遍历各txt
-    for i, name0 in enumerate(file_names):  # 遍历各txt
-        txt_path = path + '\\' + name0
-        print('读取', txt_path)
-        txt = open(txt_path, 'rb')
 
-        data = txt.read().decode('utf-8')  # python3一定要加上这句不然会编码报错！
-        txt.close()
-        n = data.count('\n')
-        label_number[name0.replace('.txt', '')] = n
-        # n += 1
-        print("总行数:", n)
-        num = list(range(1, n))
-        # test_size = round(size * n)
-        name_ = name0.replace('.txt', '')
+    listfile = os.listdir(path)
+    df_list = []
+    number_limit = limit_number  # 超过3 个则随机选择写入
+    for k, i in enumerate(listfile):
+
+        file_name_i = path + '/' + i
+        print('进度：', k / len(listfile), '读取', file_name_i)
+
+        df_i = pd.read_csv(file_name_i, sep='/t', skip_blank_lines=False, names=['参数'], engine='python',
+                           encoding='utf8')
+
+        name_ = i.replace('.txt', '')
         label_name0 = '__label__' + name_ + ' , '
-        if lines_number < n:
-            test_slice = random.sample(num, lines_number)  # 从list中随机获取个元素，作为一个片断返回
-            for i in num:
-                line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                if i in test_slice:  # 如果在随机取的值里
-                    # print('test')
-                    OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
-        else:  # 直接全部写进去
-            num.append(n)
-            for i in num:
-                line = label_name0 + linecache.getline(txt_path, i)  # 待写入文件行
-                OperateTXT().txt_write_line(r'.\data\selection_data.txt', line.strip('\n'))
+
+        df_i['类目'] = label_name0
+        df_i = df_i[['类目', '参数']]  # 交换显示的列名字顺序
+        print('数据条数：', df_i.shape[0])
+        label_number[i.replace('.txt', '')] = df_i.shape[0]
+
+        if df_i.shape[0] < number_limit:
+            df_list.append(df_i)
+        else:
+            pass  # 随机从中选择number_limit 条
+            data_sample = df_i.sample(n=number_limit, random_state=None, replace=False)  # 随机选取
+            df_list.append(data_sample)
+
+    frames = df_list
+    result = pd.concat(frames)
+    result.to_csv(r'./data/selection_data.txt', encoding='utf-8', sep='\t', header=None, index=None)
+
+    print('文件合并完成')
+    # ===============================
+
     print(label_number)
     list1 = []
     for key, value in label_number.items():

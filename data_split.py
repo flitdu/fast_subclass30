@@ -13,7 +13,7 @@ import random
 import linecache
 from data_operation.function import path_clear
 # random.seed(42)  # 设置随机数，用于保证每次随机生成得到的数据是一致的
-
+import pandas as pd
 
 # f_all = open('all_labels.txt', 'w')
 # f_all.truncate()
@@ -180,18 +180,26 @@ class OperateTxt:
                 self.txt_write_line(r'.\data\corpus\train_data.txt', line)
 
 
-def datasSplit():
+def datasSplit(test_number, vali_number):
     # 记得在运行前，清空  'test_split_data.txt' 与 ‘train_split_data.txt'内容
     path_clear(r'.\data\corpus')
 
     a = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\selection_data_shuffle.txt')  # 添加需要操作的文件路径
-    a.txt_print()
-    # a.txt_write('text_write_test.txt')   # 写入文件路径
-    a.testSplit(0.15)  # 测试比例
+    # a.txt_print()
 
-    b = OperateTxt(r'D:\dufy\code\git\ft_subclass\data\corpus\trains.txt')  # 添加需要操作的文件路径
-    b.validationSplit(0.25)  # 验证集比例
-    print('ENDDD!!!')
+    df = pd.read_csv(a.url,
+                     encoding='utf8',
+                     #     skip_blank_lines=True,
+                     names=['类别', '参数'],
+                     )
+    df = df.sample(frac=1.0)  # 全部打乱
+    df = df.sample(frac=1.0)  # 全部打乱
+    df_test, df_vali, df_train = df.iloc[:test_number], \
+                                 df.iloc[test_number + 1:vali_number + test_number], \
+                                 df.iloc[vali_number + test_number + 1:]
+    df_test.to_csv(r'.\data\corpus\test_data.txt', header=None, index=False)
+    df_vali.to_csv(r'.\data\corpus\vali_data.txt', header=None, index=False)
+    df_train.to_csv(r'.\data\corpus\train_data.txt', header=None, index=False)
 
 if __name__ == '__main__':
 

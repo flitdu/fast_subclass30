@@ -264,7 +264,7 @@ def save_test_info(error_info, true_label, aa_description_standard, aa_descripti
 if __name__ == '__main__':
     logger = get_logger()
 
-    excel_read_tag = 10
+    excel_read_tag = 1
     if excel_read_tag == 1:
         excel_read2txt()
 
@@ -286,7 +286,13 @@ if __name__ == '__main__':
         f.close()
 
         # # # 3 划分数据集
-        datasSplit()
+        test_number = 40000  # 测试集序号索引0--test_index
+        vali_number = 20000
+        print('开始划分数据...')
+        time0 = time.time()
+        datasSplit(test_number, vali_number)
+        print(f'划分数据 耗时: {time.time()-time0}')
+
 
         # 读取误分类数据到训练集
         # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
@@ -366,7 +372,7 @@ if __name__ == '__main__':
 
     # ===============BOM测试========================
 
-    test_flag = 0
+    test_flag = 11110
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
