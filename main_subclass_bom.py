@@ -264,45 +264,45 @@ def save_test_info(error_info, true_label, aa_description_standard, aa_descripti
 if __name__ == '__main__':
     logger = get_logger()
 
-    excel_read_tag = 1
+    excel_read_tag = 10
     if excel_read_tag == 1:
         excel_read2txt()
 
 # ===============训练========================
     epoch_begin = 2
-    epoch_ = 300  # 100
+    epoch_ = 210  # 100
     loss_name = 'softmax'
     learn_rate = 0.5  # 0.5, 0.8
     n_gram = 2
 
-    train_tag = 100
+    train_tag = 10
     if train_tag == 1:
         # 2 读取上一步不同txt 融合，写入'selection_data.txt'
-        label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
-        # SubclassLabelList.setLabel(label_list)
-
-        f = open(r'.\data\variant\label_list.txt', 'wb')
-        pickle.dump(label_list, f)
-        f.close()
-
-        # # # 3 划分数据集
-        test_number = 40000  # 测试集序号索引0--test_index
-        vali_number = 20000
-        print('开始划分数据...')
-        time0 = time.time()
-        datasSplit(test_number, vali_number)
-        print(f'划分数据 耗时: {time.time()-time0}')
-
-
-        # 读取误分类数据到训练集
-        # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
-        #     for line in file.readlines():
-        #         OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
+        # label_list = mergeLabelTxt(1500000, shuffle_tag=1)  ## 选取行数
+        # # SubclassLabelList.setLabel(label_list)
+        #
+        # f = open(r'.\data\variant\label_list.txt', 'wb')
+        # pickle.dump(label_list, f)
+        # f.close()
+        #
+        # # # # 3 划分数据集
+        # test_number = 4000  # 测试集序号索引0--test_index
+        # vali_number = 2000
+        # print('开始划分数据...')
+        # time0 = time.time()
+        # datasSplit(test_number, vali_number)
+        # print(f'划分数据 耗时: {time.time()-time0}')
+        #
+        #
+        # # 读取误分类数据到训练集
+        # # with open(r'.\data\error_record.txt', 'r', encoding='utf-8') as file:
+        # #     for line in file.readlines():
+        # #         OperateTXT().txt_write_line(r'.\data\corpus\train_data.txt', line.replace('\n', ''))
 
         # 4 训练-评价
 
         ft_ = FastTextModel(epoch_, loss_name, learn_rate, n_gram)
-        ft_.train(r'.\data\corpus\train_data.txt')  # 训练
+        # ft_.train(r'.\data\corpus\train_data.txt')  # 训练
 
         train_accuracy_list = []  # 准确率
         train_f1_macro_list = []  # f1 宏平均
@@ -338,7 +338,7 @@ if __name__ == '__main__':
         plotTrainEffect(ft_,train_accuracy_list,train_f1_macro_list,val_accuracy_list,val_f1_macro_list)
 
     # ===============测试集========================
-    test_tag = 100  # 查看测试集效果
+    test_tag = 10  # 查看测试集效果
     if test_tag == 1:
         pass
         test_accuracy_list = []
@@ -364,19 +364,20 @@ if __name__ == '__main__':
         plotCompareModelAccuracy(dict_model_test_accu)
 
     # ===============利用所有数据重新训练得到最终模型========================
-    trian_with_alldatas = 100
+    trian_with_alldatas = 1000
     if trian_with_alldatas == 1:
-        ft_ = FastTextModel(200, loss_name, learn_rate, n_gram)
+        print('使用全部数据开始重新训练....')
+        ft_ = FastTextModel(170, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
 
     # ===============BOM测试========================
 
-    test_flag = 11110
+    test_flag = 0
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e200'  #
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e170'  #
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 

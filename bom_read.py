@@ -98,8 +98,8 @@ def excel_read2txt():
     bom_path = r'D:\dufy\code\local\corpus\bom_subclass\subclass_excel'  # 读取文件夹路径!!!!!!!!!!!!
     file_names = os.listdir(bom_path)
 
-    data1 =  pd.DataFrame()  # 排针排母
-    data2 =  pd.DataFrame()
+    data1 = pd.DataFrame()  # 排针排母
+    data2 = pd.DataFrame()
     for i, name0 in enumerate(file_names):  # 文件夹下文件循环
         if '~$' in name0:
             continue
@@ -135,3 +135,5 @@ if __name__ == "__main__":
 
     aa = OperateExcelSubclass(path)
     aa.excel_write_in(r'C:\Users\Administrator\Desktop\test')  # 读取当前excel覆盖写入
+
+
