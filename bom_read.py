@@ -54,15 +54,10 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                     description_after_standard = standard(aa_description, stop_words)  # 标准化处理
 
                     logger.debug('最终写入行为：{}'.format(description_after_standard))
-                    aa_description_length = 0
-                    for i in description_after_standard.split(' '):
-                        if i != '':
-                            aa_description_length += 1
-                    # print(length)
 
                     target_path_temp = target_path_temp + '\\' + aa_label + '.txt'
                     # print(target_path, '-', aa_label, '!!!!')
-                    if aa_description_length > 3:  # 选取训练数据的长度，大于3才算
+                    if len(aa_description.split()) > 3:  # 选取训练数据的长度，大于3才算
                         if aa_label not in label_subclass_database:
                             logger.critical('路径"{},产生错误标签：{}'.format(self.file_path, aa_label))
                         OperateTXT().txt_write_line(target_path_temp, description_after_standard)
