@@ -47,11 +47,28 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                 #     print('@@@@', line_read)
 
                 if aa_label != 'nan':
-
+                    split_symbol = ['_',
+                                    '-',
+                                    ',',
+                                    '/',
+                                    '（',
+                                    '）',
+                                    '(',
+                                    ')',
+                                    '"',
+                                    '，',
+                                    '\\',
+                                    ':',
+                                    '：',
+                                    '@',
+                                    '【',
+                                    '】',
+                                    ';',
+                                    '；']
                     # print(aa_label, '~~~~~~~')
                     aa_description = " ".join(line_read.split()[1:])
                     logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description))
-                    description_after_standard = standard(aa_description, stop_words)  # 标准化处理
+                    description_after_standard = standard(aa_description, split_symbol, stop_words)  # 标准化处理
 
                     logger.debug('最终写入行为：{}'.format(description_after_standard))
 
@@ -62,7 +79,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                             logger.critical('路径"{},产生错误标签：{}'.format(self.file_path, aa_label))
                         OperateTXT().txt_write_line(target_path_temp, description_after_standard)
 
-                        if aa_label in ['排针排母', '线对板线对线连接器']:
+                        if aa_label in ['排针排母', '线对板线对线连接器']:  # 取回待检查语料集，排故
                             corpus_check_dict = {}
                             corpus_check_dict['参数'] = aa_description
                             corpus_check_dict['类别'] = aa_label

@@ -264,7 +264,7 @@ def save_test_info(error_info, true_label, aa_description_standard, aa_descripti
 if __name__ == '__main__':
     logger = get_logger()
 
-    excel_read_tag = 10
+    excel_read_tag = 1
     if excel_read_tag == 1:
         excel_read2txt()
 
@@ -373,7 +373,7 @@ if __name__ == '__main__':
 
     # ===============BOM测试========================
 
-    test_flag = 0
+    test_flag = 10
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass

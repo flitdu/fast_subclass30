@@ -74,15 +74,24 @@ def standardize_text_similarity(content):
     return standard_after
 
 
-def standard(str1, stop_words=None):  #标准化处理
+def standard(str1, split_symbol=None, stop_words=None):  #标准化处理
 
     aa_description = str1.replace('nan', '')
     print('\033[1;32m  原始输入：\033[0m {}'.format(aa_description))
-    aa_description = ' '.join(jieba.cut(str(aa_description).lower()))
-    print('\033[1;32m # jieba分词：\033[0m {}'.format(aa_description))
-    for word in aa_description.split():  # 停用词使用
-        if str(word) in stop_words:
-            aa_description = aa_description.replace(word, '')
+    if bool(split_symbol):  # 分隔符和 jieba 选一种
+        pass
+        for i in split_symbol:
+            b = str(aa_description).lower().replace(i, ' ')
+            aa_description = b
+        print(f'分隔符：{aa_description}')
+    else:
+        aa_description = ' '.join(jieba.cut(str(aa_description).lower()))
+        print('\033[1;32m # jieba分词：\033[0m {}'.format(aa_description))
+
+    if stop_words:
+        for word in aa_description.split():  # 停用词使用
+            if str(word) in stop_words:
+                aa_description = aa_description.replace(word, '')
 
     # python 合并多个空格为1个,以下效果不一样
     aa_description = ' '.join(filter(lambda x: x, aa_description.split(' ')))
