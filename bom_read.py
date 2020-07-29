@@ -42,9 +42,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                 if aa_label in label_name_forbid:
                     continue
 
-                aa_label = labelNewSubclass(aa_label)
-                # if aa_label == '排针排母':
-                #     print('@@@@', line_read)
+                aa_label = labelNewSubclass(aa_label)  # label名字规范化
 
                 if aa_label != 'nan':
                     split_symbol = ['_',
@@ -67,21 +65,22 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                                     '；']
                     # print(aa_label, '~~~~~~~')
                     aa_description = " ".join(line_read.split()[1:])
-                    logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description))
-                    description_after_standard = standard(aa_description, split_symbol, stop_words)  # 标准化处理
+                    aa_description0 = aa_description
+                    logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description0))
+                    aa_description = standard(aa_description, split_symbol, stop_words)  # 标准化处理
 
-                    logger.debug('最终写入行为：{}'.format(description_after_standard))
+                    logger.debug('最终写入行为：{}'.format(aa_description))
 
                     target_path_temp = target_path_temp + '\\' + aa_label + '.txt'
                     # print(target_path, '-', aa_label, '!!!!')
                     if len(aa_description.split()) > 3:  # 选取训练数据的长度，大于3才算
                         if aa_label not in label_subclass_database:
                             logger.critical('路径"{},产生错误标签：{}'.format(self.file_path, aa_label))
-                        OperateTXT().txt_write_line(target_path_temp, description_after_standard)
+                        OperateTXT().txt_write_line(target_path_temp, aa_description)
 
                         if aa_label in ['排针排母', '线对板线对线连接器']:  # 取回待检查语料集，排故
                             corpus_check_dict = {}
-                            corpus_check_dict['参数'] = aa_description
+                            corpus_check_dict['参数'] = aa_description0
                             corpus_check_dict['类别'] = aa_label
                             corpus_check_dict['文件名'] = self.file_path.split('\\')[-1]
                             corpus_check.append(corpus_check_dict)
