@@ -74,7 +74,7 @@ def standardize_text_similarity(content):
     return standard_after
 
 
-def standard(str1, split_symbol=None, stop_words=None):  #标准化处理
+def standard(str1, stop_words=None, split_symbol=None):  # 标准化处理
 
     aa_description = str1.replace('nan', '')
     print('\033[1;32m  原始输入：\033[0m {}'.format(aa_description))

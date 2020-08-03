@@ -234,18 +234,36 @@ class TestExcel(OperateExcel):  # 重写函数
         predicted_label_lists = []
         predicted_probability_list = []
         for line_read in self.excel_content_all().splitlines():  # 先遍历行
-
+            time0 = time.time()
+            split_symbol = ['_',
+                            '-',
+                            ',',
+                            '/',
+                            '（',
+                            '）',
+                            '(',
+                            ')',
+                            '"',
+                            '，',
+                            '\\',
+                            ':',
+                            '：',
+                            '@',
+                            '【',
+                            '】',
+                            ';',
+                            '；']
+            split_symbol = []
             aa_description = line_read
-            aa_description_standard = standard(aa_description, stop_words)  # 标准化处理
+            aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
             predicted_result = predict_output(aa_description_standard, model)
-
 
             predicted_label = predicted_result[0][0][0].replace('__label__', '')
             predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
             print(predicted_label, predicted_probability, '!!!!!!')
             predicted_label_lists.append(predicted_label)
             predicted_probability_list.append(predicted_probability)
-
+            print(f'预测花费时间：{time.time()-time0}')
         return predicted_label_lists, predicted_probability_list
 
 
@@ -364,21 +382,20 @@ if __name__ == '__main__':
         plotCompareModelAccuracy(dict_model_test_accu)
 
     # ===============利用所有数据重新训练得到最终模型========================
-    trian_with_alldatas = 1
+    trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(102, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(171, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
-
 
     # ===============BOM测试========================
 
-    test_flag = 10
+    test_flag = 0
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e170'  #
-        excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e171'  #
+        excel_path = r'D:\dufy\code\local\corpus\bom_subclass\third_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
         dict_model_test = {}
@@ -397,7 +414,7 @@ if __name__ == '__main__':
 
             aa = TestExcel(bom_path)
             predict_labels, predict_probabilities = aa.predict_rewrite_excel(prediciton_model)  # 预测 excel 一行,除去标签
-            print(predict_labels,predict_probabilities)
+            # print(predict_labels, predict_probabilities)
 
             df1 = pd.read_excel(bom_path)
             df1['预测类目'] = '..'
@@ -423,7 +440,6 @@ if __name__ == '__main__':
             ew.save()
         print(f'文件个数：{number}, 耗时{time.time() -time0}')
         print('done!!!!!!')
-
 
     if test_flag == 1:  # 对带有标注的excel 预测
         excel_path = r'C:\Users\Administrator\Documents\Tencent Files\3007490756\FileRecv\test00'

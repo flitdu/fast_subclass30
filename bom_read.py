@@ -63,11 +63,12 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                                     '】',
                                     ';',
                                     '；']
+                    split_symbol = []
                     # print(aa_label, '~~~~~~~')
                     aa_description = " ".join(line_read.split()[1:])
                     aa_description0 = aa_description
                     logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description0))
-                    aa_description = standard(aa_description, split_symbol, stop_words)  # 标准化处理
+                    aa_description = standard(aa_description, stop_words, split_symbol)  # 标准化处理
 
                     logger.debug('最终写入行为：{}'.format(aa_description))
 

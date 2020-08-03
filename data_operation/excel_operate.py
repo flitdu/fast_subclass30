@@ -63,6 +63,7 @@ class OperateExcel:   # 针对单个文件
     def excel_write_in(self, target_path):
         try:
             for line_temp in self.excel_content_all().splitlines():
+                line_temp = line_temp.replace('nan', '')
                 OperateTXT().txt_write_line(target_path, line_temp)
         except IOError as ex:
             print(ex)
@@ -75,3 +76,9 @@ class OperateExcel:   # 针对单个文件
 
 if __name__ == "__main__":
     pass
+    aa= OperateExcel(r'C:\Users\Administrator\Desktop\连接器数据0731.xlsx')
+    print(aa.excel_content_all())
+    aa.excel_write_in(r'C:\Users\Administrator\Desktop\连接器数据0731.txt')
+    # df = pd.read_excel(r'C:\Users\Administrator\Desktop\连接器数据0731.xlsx',
+    #                    )
+    # df.to_csv(r'C:\Users\Administrator\Desktop\连接器数据0731.txt')
