@@ -385,7 +385,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(171, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(173, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
@@ -394,8 +394,9 @@ if __name__ == '__main__':
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e171'  #
-        excel_path = r'D:\dufy\code\local\corpus\bom_subclass\third_test'
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e173'  #
+        modle_path = r'D:\dufy\code\local\model\ft_third_subclass\test_rewrite_models\third_w2_e140'
+        excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
         dict_model_test = {}
@@ -417,11 +418,13 @@ if __name__ == '__main__':
             # print(predict_labels, predict_probabilities)
 
             df1 = pd.read_excel(bom_path)
-            df1['预测类目'] = '..'
-            df1['预测概率'] = '..'
-            for index,value in enumerate(predict_labels):
-                df1.ix[index, '预测类目'] = value
-                df1.ix[index, '预测概率'] = predict_probabilities[index]
+            df1['预测类目'] = pd.DataFrame(predict_labels)
+            df1['预测概率'] = pd.DataFrame(predict_probabilities)
+            # df1['预测类目'] = '..'
+            # df1['预测概率'] = '..'
+            # for index,value in enumerate(predict_labels):
+            #     df1.ix[index, '预测类目'] = value
+            #     df1.ix[index, '预测概率'] = predict_probabilities[index]
 
             output_name = output_path + '\\' + 'output_'+name1
 

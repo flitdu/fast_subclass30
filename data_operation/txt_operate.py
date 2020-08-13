@@ -33,5 +33,10 @@ class OperateTXT:   # 针对单个文件
 
 
 
+if __name__ == "__main__":
+    pass
+    with open('aaa.txt' ,'r') as f:
+        for line in f:
+            print(line, end='')
 
 
