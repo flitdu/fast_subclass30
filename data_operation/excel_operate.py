@@ -51,7 +51,7 @@ class OperateExcel:   # 针对单个文件
                 # print('excel矩阵单元格：',ss.loc[j_line].ix[i], end='')
                 # print(ss.loc[j_line].ix[i], end='')
                 # aa += str(ss.loc[j_line].iloc[i]) + '@'
-                aa += str(ss.loc[j_line].iloc[i]).replace('\n', '') + mark  # 同时去除换行符
+                aa += str(ss.loc[j_line].iloc[i]).replace('\n', '').replace('\r', '') + mark  # 同时去除换行符
             aa += '\n'
 
         # for line in aa.splitlines():  # 对字符串按行读取

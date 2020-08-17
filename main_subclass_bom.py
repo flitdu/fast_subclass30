@@ -256,8 +256,34 @@ class TestExcel(OperateExcel):  # 重写函数
             split_symbol = []
             aa_description = line_read
             aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
-            predicted_result = predict_output(aa_description_standard, model)
+            # 添加规则
+            tag = 0
+            rule_dict = {'耦合 电感':'共模扼流圈滤波器',
+                         '耦合电感':'共模扼流圈滤波器',
+                         'fast recovery rectifier': '超快快恢复二极管',
+                         'aluminum electrolytic capacitor smd':'贴片电解电容',
+                         '安规':'安规电容',
+                         '安规 电容': '安规电容',
+                         '固态 电解电容': '固态电解电容',
+                         '贴片 电容 排': '电容器阵列与网络',
+                         'power inductor':'功率电感',
+                         'high frequency inductor':'高频电感',
+                         '贴片 电阻 排':'排阻',
+                         'varistor':'压敏电阻',
+                         'smd0204':'MELF晶圆电阻',
+                         'cfs 碳膜 晶圆 电阻':'MELF晶圆电阻'}
 
+            for key,val in rule_dict.items():
+                if key in aa_description_standard:
+                    tag = 1
+                    predicted_label_lists.append(val)
+                    predicted_probability_list.append(1)
+                    print(val, 1, '!!!!!!')
+                    break
+            if tag:
+                continue
+
+            predicted_result = predict_output(aa_description_standard, model)
             predicted_label = predicted_result[0][0][0].replace('__label__', '')
             predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
             print(predicted_label, predicted_probability, '!!!!!!')
@@ -385,7 +411,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(173, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(174, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
@@ -394,8 +420,7 @@ if __name__ == '__main__':
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e173'  #
-        modle_path = r'D:\dufy\code\local\model\ft_third_subclass\test_rewrite_models\third_w2_e140'
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e174'  #
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
@@ -420,6 +445,7 @@ if __name__ == '__main__':
             df1 = pd.read_excel(bom_path)
             df1['预测类目'] = pd.DataFrame(predict_labels)
             df1['预测概率'] = pd.DataFrame(predict_probabilities)
+
             # df1['预测类目'] = '..'
             # df1['预测概率'] = '..'
             # for index,value in enumerate(predict_labels):
