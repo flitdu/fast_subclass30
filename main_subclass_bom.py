@@ -277,8 +277,8 @@ class TestExcel(OperateExcel):  # 重写函数
                 if key in aa_description_standard:
                     tag = 1
                     predicted_label_lists.append(val)
-                    predicted_probability_list.append(1)
-                    print(val, 1, '!!!!!!')
+                    predicted_probability_list.append(1.1) # 概率
+                    print(val, 1.1, '!!!!!!')
                     break
             if tag:
                 continue
