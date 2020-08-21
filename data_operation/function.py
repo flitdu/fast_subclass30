@@ -254,8 +254,8 @@ def labelNewSubclass(label_origin):
         aa_label = '直插瓷片电容'
     elif aa_label == '贴片绕线电感' or aa_label=='贴片线绕电感':
         aa_label = '贴片电感'
-    elif aa_label == '固定值电感' or aa_label=='固定电感':
-        aa_label = 'nan'
+    elif aa_label == '固定值电感':
+        aa_label = '固定电感'
     elif aa_label == '电感套件' or aa_label == '电感套件及配件' or aa_label == '可变电感' or aa_label == '可调电感':
         aa_label = '可变电感器套件配件'
     elif aa_label =='贴片晶体谐振器(有源)' or aa_label == '直插晶体振荡器(有源)' or aa_label == '贴片晶体振荡器(有源)' or aa_label == '压控振荡器（VCO）' or aa_label == '压控式晶体振荡器(VCXO)' or aa_label == '温度补偿晶体振荡器(TCXO)' or aa_label == '恒温晶体振荡器' or aa_label == '压控振荡器' or aa_label == '温度补偿压控晶体振荡器':
@@ -280,16 +280,16 @@ def labelNewSubclass(label_origin):
         aa_label = '电机马达点火驱动器IC'
     elif aa_label == 'LEDUPS等其他类型电源模块':
         aa_label = '其他模块'
-    elif aa_label == '8位微控制器' or aa_label == '8位微控制器-MCU':
-        aa_label = '8位微控制器-mcu'
-    elif aa_label == '16位微控制器'or aa_label == '16位微控制器-MCU':
-        aa_label = '16位微控制器-mcu'
-    elif aa_label == '32位微控制器'or aa_label == '32位微控制器-MCU':
-        aa_label = '32位微控制器-mcu'
-    elif aa_label == 'ARM微控制器-MCU' or aa_label =='ARM微控制器':
-        aa_label = 'arm微控制器-mcu'
-    elif aa_label == 'CPLD-FPGA芯片' or aa_label == 'CPLDFPGA芯片':
-        aa_label = 'cpld-fpga芯片'
+    elif aa_label == '8位微控制器':
+        aa_label = '8位微控制器-MCU'
+    elif aa_label == '16位微控制器':
+        aa_label = '16位微控制器-MCU'
+    elif aa_label == '32位微控制器':
+        aa_label = '32位微控制器-MCU'
+    elif aa_label =='ARM微控制器':
+        aa_label = 'ARM微控制器-MCU'
+    elif aa_label == 'CPLDFPGA芯片':
+        aa_label = 'CPLD-FPGA芯片'
     elif aa_label =='罩类、盒类及壳类产品':
         aa_label = '罩类盒类及壳类产品'
     elif aa_label=='光藕':

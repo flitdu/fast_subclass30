@@ -31,7 +31,7 @@ import os, pickle
 import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid, SubclassLabelList
+from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match
 from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -258,27 +258,13 @@ class TestExcel(OperateExcel):  # 重写函数
             aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
             # 添加规则
             tag = 0
-            rule_dict = {'耦合 电感':'共模扼流圈滤波器',
-                         '耦合电感':'共模扼流圈滤波器',
-                         'fast recovery rectifier': '超快快恢复二极管',
-                         'aluminum electrolytic capacitor smd':'贴片电解电容',
-                         '安规':'安规电容',
-                         '安规 电容': '安规电容',
-                         '固态 电解电容': '固态电解电容',
-                         '贴片 电容 排': '电容器阵列与网络',
-                         'power inductor':'功率电感',
-                         'high frequency inductor':'高频电感',
-                         '贴片 电阻 排':'排阻',
-                         'varistor':'压敏电阻',
-                         'smd0204':'MELF晶圆电阻',
-                         'cfs 碳膜 晶圆 电阻':'MELF晶圆电阻'}
-
-            for key,val in rule_dict.items():
-                if key in aa_description_standard:
+            # -------------  正则匹配
+            for expression, label in re_match.items():
+                if bool(re.search(expression, aa_description_standard)):  # 正则匹配到
                     tag = 1
-                    predicted_label_lists.append(val)
-                    predicted_probability_list.append(1.1) # 概率
-                    print(val, 1.1, '!!!!!!')
+                    predicted_label_lists.append(label)
+                    predicted_probability_list.append(2.0)  # 概率
+                    print(label, 2.0, '!!!!!!')
                     break
             if tag:
                 continue
@@ -411,7 +397,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(174, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(175, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
@@ -420,7 +406,7 @@ if __name__ == '__main__':
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e174'  #
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e175'  #
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
