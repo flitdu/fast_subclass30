@@ -32,6 +32,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
         try:
             # print(target_path, '~~~~~~~')
             # fs_list.append(open(filenames, 'w', encoding='utf-8'))
+            # print('@@@@',self.file_path.split('\\')[-1].split('.')[0])
 
             corpus_check = []
             for line_read in self.excel_content_all().splitlines():
@@ -70,6 +71,13 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                     logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description0))
                     aa_description = standard(aa_description, stop_words, split_symbol)  # 标准化处理
 
+                    # 贴片电感过滤，有关键字'fixed'的重新纠正
+                    current_bom_name = self.file_path.split('\\')[-1].split('.')[0]  # 当前BOM名称
+                    if aa_label=='贴片电感' and 'fixed' in aa_description and current_bom_name!='贴片电感fixed纠正':
+                        continue
+                    elif aa_label=='贴片电感' and 'power' in aa_description:
+                        continue
+
                     logger.debug('最终写入行为：{}'.format(aa_description))
 
                     target_path_temp = target_path_temp + '\\' + aa_label + '.txt'
@@ -79,7 +87,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                             logger.critical('路径"{},产生错误标签：{}'.format(self.file_path, aa_label))
                         OperateTXT().txt_write_line(target_path_temp, aa_description)
 
-                        if aa_label in ['排针排母', '线对板线对线连接器']:  # 取回待检查语料集，排故
+                        if aa_label in ['排针排母', '线对板线对线连接器','贴片电感']:  # 取回待检查语料集，排故
                             corpus_check_dict = {}
                             corpus_check_dict['参数'] = aa_description0
                             corpus_check_dict['类别'] = aa_label
@@ -112,6 +120,7 @@ def excel_read2txt():
 
     data1 = pd.DataFrame()  # 排针排母
     data2 = pd.DataFrame()
+    data3 = pd.DataFrame()
     for i, name0 in enumerate(file_names):  # 文件夹下文件循环
         if '~$' in name0:
             continue
@@ -135,8 +144,11 @@ def excel_read2txt():
                     data1 = data1.append(i, ignore_index=True)
                 elif i['类别'] =='线对板线对线连接器':
                     data2 = data2.append(i, ignore_index=True)
+                elif i['类别'] =='贴片电感':
+                    data3 = data3.append(i, ignore_index=True)
     data1.to_excel(r'./data/check/排针排母.xls')
     data2.to_excel(r'./data/check/线对板线对线连接器.xls')
+    data3.to_excel(r'./data/check/贴片电感.xls')
 
 
 if __name__ == "__main__":

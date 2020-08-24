@@ -18,7 +18,7 @@ label_name_forbid = ['nan', '(含税RMB)', '晶振贴片', '晶振直插', '圆�
                      '镀金;-40°C', '1206', '序号NO.', 'DATE:', 'Management',
                      '购买类型', 'PIN',
                      'RF', 'RT7291','EMIRFI', 'IRLR8259TRPBF','保险丝','存储器连接器',
-                     '继电器', '铝电解电容']
+                     '继电器', '瓷片电容', '可调电阻']
 
 # 规则类目词典
 rule_dict = {
@@ -51,6 +51,8 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
 
             r'\baluminum electrolytic capacitor\b.*(\bsmd\b|\bsmd\b)':'贴片电解电容',  # 中间可以插入别的内容
             r'\b轻触\b.*(开关)':'轻触开关',
+            r'\b功率\b.*(电感)':'功率电感',
+            r'\b高频\b.*(电感)':'高频电感',
 
             r'(耦合电感|耦合 电感|共模电感)': '共模扼流圈滤波器',
             r'(\bfast recovery rectifier\b)': '超快快恢复二极管',
@@ -59,7 +61,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(固态 电解电容)': '固态电解电容',
             r'(贴片 电容 排)': '电容器阵列与网络',
             r'(\bpower inductor\b)': '功率电感',
-            r'(\bhigh frequency inductor\b)': '高频电感',
+            r'(\bhigh frequency inductor\b|rf 电感|rf inductors|high frequency inductive|高频 电感)': '高频电感',
             r'(贴片 电阻 排)': '排阻',
             r'(\bvaristor\b|压敏)': '压敏电阻',
             r'(\bsmd0204\b|cfs 碳膜 晶圆 电阻)': 'MELF晶圆电阻',
@@ -69,6 +71,9 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(谐振器)': '谐振器',
             r'(网络 变压器)': '网口变压器',
             r'(n mos|p mos)': 'MOSFET',
+            r'(\bptc thermistor)': 'PTC热敏电阻',
+            r'(\bsuper capacitor|超级 电容)': '超级电容器',
+            r'(\bcrystal xtal|\bcrystal dip|\bcrystal xtal)': '无源晶体振荡器',
 
             }
 
