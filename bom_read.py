@@ -121,10 +121,12 @@ def excel_read2txt():
     data1 = pd.DataFrame()  # 排针排母
     data2 = pd.DataFrame()
     data3 = pd.DataFrame()
+    j = 0
     for i, name0 in enumerate(file_names):  # 文件夹下文件循环
+        j += 1
         if '~$' in name0:
             continue
-
+        print('\033[1;36m  文件读取进度：\033[0m {:.3f}'.format(j / len(file_names)))
         logger.debug('==========================')
         path = bom_path + '\\' + name0
         logger.debug('path为：{} '.format(path))

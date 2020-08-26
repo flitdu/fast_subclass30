@@ -896,8 +896,6 @@ viking
 该
 物料
 另外
-自
-恢复
 murata
 electronics
 north
@@ -1046,7 +1044,6 @@ vishay
 台庆
 贝岭
 补偿
-线性
 校正
 热电偶
 断线

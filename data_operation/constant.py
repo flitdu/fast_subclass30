@@ -18,7 +18,7 @@ label_name_forbid = ['nan', '(含税RMB)', '晶振贴片', '晶振直插', '圆�
                      '镀金;-40°C', '1206', '序号NO.', 'DATE:', 'Management',
                      '购买类型', 'PIN',
                      'RF', 'RT7291','EMIRFI', 'IRLR8259TRPBF','保险丝','存储器连接器',
-                     '继电器', '瓷片电容', '可调电阻']
+                     '继电器', '瓷片电容', '可调电阻', '铝电解电容']
 
 # 规则类目词典
 rule_dict = {
@@ -46,34 +46,73 @@ rule_dict = {
              # '网络 变压器': '网口变压器',
              }
 
+# 词典匹配, 同时满足
+dic_match = {
+    ('µ h', 'smd', 'ma'): 'to_judge',
+    ('mh', 'smd'): '固定电感',
+}
+
 # 正则匹配
 re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压器  严格匹配
 
             r'\baluminum electrolytic capacitor\b.*(\bsmd\b|\bsmd\b)':'贴片电解电容',  # 中间可以插入别的内容
             r'\b轻触\b.*(开关)':'轻触开关',
+            r'\b拨码\b.*(开关)':'拨码开关',
             r'\b功率\b.*(电感)':'功率电感',
             r'\b高频\b.*(电感)':'高频电感',
 
-            r'(耦合电感|耦合 电感|共模电感)': '共模扼流圈滤波器',
+            r'(耦合电感|耦合 电感|共模电感|\bcommon mode choke\b)': '共模扼流圈滤波器',
             r'(\bfast recovery rectifier\b)': '超快快恢复二极管',
+            r'(\btvs diode\b)': 'TVS二极管(瞬态电压抑制二极管)',
+            r'(稳压管|稳压 二极管|贴片 稳压 二极管)': '稳压二极管',
+            r'(\besd 二极管)': 'ESD二极管',
+            r'(插件 发光 二极管)': '发光二极管',
+            r'(三极管|\bnpn\b|\bpnp\b|贴片 三极管)': '数字三极管',
             r'(\bfrte\b|磁珠)': '磁珠',  # 英文严格匹配
+            r'(\bpin photodiode\b)': '红外接收管',
             r'(安规|安规 电容)': '安规电容',
+            r'(\bfilm capacitor\b)': '薄膜电容',
+            r'(\bcbb21\b|\bcbb22\b)': 'CBB电容',
             r'(固态 电解电容)': '固态电解电容',
             r'(贴片 电容 排)': '电容器阵列与网络',
             r'(\bpower inductor\b)': '功率电感',
             r'(\bhigh frequency inductor\b|rf 电感|rf inductors|high frequency inductive|高频 电感)': '高频电感',
-            r'(贴片 电阻 排)': '排阻',
+            r'(贴片 电阻 排|排阻)': '排阻',
+            r'(贴片 可调 电位器)': '可调电阻电位器',
+            r'(chip resistor)': '贴片电阻',
             r'(\bvaristor\b|压敏)': '压敏电阻',
+            r'(插件 碳膜 电阻)': '碳膜电阻',
             r'(\bsmd0204\b|cfs 碳膜 晶圆 电阻)': 'MELF晶圆电阻',
             r'(led 间隔 柱)': 'LED灯柱导光管配件',
-            r'(\bmf52e\b)': 'NTC热敏电阻',
-            r'(光耦)': '光耦',
+            r'(\bmf52e\b|\bntc\b)': 'NTC热敏电阻',
+            r'(光耦|光电 耦合器)': '光耦',
             r'(谐振器)': '谐振器',
             r'(网络 变压器)': '网口变压器',
-            r'(n mos|p mos)': 'MOSFET',
+            r'(高频 变压器)': '电源变压器',
+            r'(n mos|p mos|p 沟道|场效应管|mosfet|n channel)': 'MOSFET',
             r'(\bptc thermistor)': 'PTC热敏电阻',
             r'(\bsuper capacitor|超级 电容)': '超级电容器',
             r'(\bcrystal xtal|\bcrystal dip|\bcrystal xtal)': '无源晶体振荡器',
+            r'(\bzigbee 模块|wifi 模块)': '无线模块',
+            r'(\b16v 2a nc f1206\b|贴片 恢复 保险丝)': 'PTC自恢复保险',
+            r'(axial lead fuse)': '保险丝管',
+            r'(贴片 螺纹)': '螺丝紧固件硬件',
+            r'(\bcotex m4\b|\bstm32\b)': '32位微控制器-MCU',
+            r'(\beeprom\b|\bEEPROM存储器\b)': 'EEPROM存储器',
+            r'(\bheader\b|贴片 排针|排母|单排 插针)': '排针排母',
+            r'(钮扣 电池 座)': '电池座夹附件',
+            r'(fpc 座)': 'FFCFPC连接器',
+            r'(ic 座)': 'IC与器件插座',
+            r'(针座)': '线对板线对线连接器',
+            r'(牛角 插座)': 'IDC连接器(牛角)',
+            r'(电源插座)': '电源连接器',
+            r'(三端 稳压器|电源 稳压 芯片|\b\d+\.?\d* *v 稳压 块)': '线性稳压芯片LDO',
+            r'(运算 放大器)': '放大器',
+            r'(异或门)': '门极反相器',
+            r'(蜂鸣器)': '蜂鸣器',
+            r'(继电器)': '信号继电器',
+            r'(音频接口)': '音频视频链接器',
+            r'(整流桥)': '整流桥',
 
             }
 
@@ -196,7 +235,6 @@ label_subclass_database = ['32位微控制器-MCU',
                            '电容套件及附件',
                            '直插独石电容',
                            '校正电容',
-                           '铝电解电容',
                            'NTC热敏电阻',
                            '贴片电阻',
                            '贴片超低阻值电阻',

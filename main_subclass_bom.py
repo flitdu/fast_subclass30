@@ -31,7 +31,7 @@ import os, pickle
 import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match
+from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match
 from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -235,29 +235,66 @@ class TestExcel(OperateExcel):  # 重写函数
         predicted_probability_list = []
         for line_read in self.excel_content_all().splitlines():  # 先遍历行
             time0 = time.time()
-            split_symbol = ['_',
-                            '-',
-                            ',',
-                            '/',
-                            '（',
-                            '）',
-                            '(',
-                            ')',
-                            '"',
-                            '，',
-                            '\\',
-                            ':',
-                            '：',
-                            '@',
-                            '【',
-                            '】',
-                            ';',
-                            '；']
+            # split_symbol = ['_',
+            #                 '-',
+            #                 ',',
+            #                 '/',
+            #                 '（',
+            #                 '）',
+            #                 '(',
+            #                 ')',
+            #                 '"',
+            #                 '，',
+            #                 '\\',
+            #                 ':',
+            #                 '：',
+            #                 '@',
+            #                 '【',
+            #                 '】',
+            #                 ';',
+            #                 '；']
             split_symbol = []
             aa_description = line_read
             aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
             # 添加规则
             tag = 0
+            # -------------  词典匹配
+            for expression, label in dic_match.items():
+                pass
+                judge_tag = all(bool(x in aa_description_standard) for x in expression)  # 是否同时存在
+                if judge_tag:  # 转入判断
+                    if label == 'to_judge':
+                        if ('μ h' in aa_description_standard or 'µ h' in aa_description_standard) and 'smd' in aa_description_standard:
+                                pattern = re.compile(r'\d+\.?\d*ma')
+                                try:
+                                    string = pattern.findall(aa_description_standard)[0]  # '900ma'
+                                    number = int(re.findall(r"\d+\.?\d*", string)[0])  # 量值
+                                except IndexError:
+                                    break
+                                if (number / 1000) < 1:
+                                    tag = 1
+                                    label = '贴片电感'
+                                    predicted_label_lists.append(label)
+                                    predicted_probability_list.append(2.0)  # 概率
+                                    print(label, 2.0, '!!!!!!')
+                                    break
+                                else:
+                                    tag = 1
+                                    label = '功率电感'
+                                    predicted_label_lists.append(label)
+                                    predicted_probability_list.append(2.0)  # 概率
+                                    print(label, 2.0, '!!!!!!')
+                                    break
+                    else:
+                        if bool(re.search(r'\b\d+\.?\d*mh', aa_description_standard)) and 'smd' in aa_description_standard:
+                            tag = 1
+                            label = '固定电感'
+                            predicted_label_lists.append(label)
+                            predicted_probability_list.append(2.0)  # 概率
+                            print(label, 2.0, '!!!!!!')
+                            break
+            if tag:
+                continue
             # -------------  正则匹配
             for expression, label in re_match.items():
                 if bool(re.search(expression, aa_description_standard)):  # 正则匹配到
@@ -397,7 +434,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(176, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(177, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
@@ -406,7 +443,7 @@ if __name__ == '__main__':
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e176'  #
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e177'  #
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
@@ -421,7 +458,7 @@ if __name__ == '__main__':
             if '~$' in name1:
                 continue
             number += 1
-            bom_path = excel_path + '\\' + name1
+            bom_path = os.path.join(excel_path, name1)
             print(bom_path)
 
             aa = TestExcel(bom_path)
@@ -431,12 +468,6 @@ if __name__ == '__main__':
             df1 = pd.read_excel(bom_path)
             df1['预测类目'] = pd.DataFrame(predict_labels)
             df1['预测概率'] = pd.DataFrame(predict_probabilities)
-
-            # df1['预测类目'] = '..'
-            # df1['预测概率'] = '..'
-            # for index,value in enumerate(predict_labels):
-            #     df1.ix[index, '预测类目'] = value
-            #     df1.ix[index, '预测概率'] = predict_probabilities[index]
 
             output_name = output_path + '\\' + 'output_'+name1
 
