@@ -19,6 +19,7 @@ import os
 import pandas as pd
 import jieba                          # 组合使用】
 from data_operation.function import get_logger
+from collections import Counter
 
 jieba.load_userdict('dict_boom.txt')  # 组合使用】
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -27,13 +28,25 @@ logger = get_logger()
 
 class OperateExcelSubclass(OperateExcel):  # 重写函数
 
+    @staticmethod
+    def removeDuplicates(string):
+        """
+        去掉字符串中重复的词，只保留一个
+        :param string:
+        :return:去重后的句子
+        """
+        pass
+        a = string.split()
+        dic = Counter(a)
+        for i, v in dic.items():
+            while v > 1:
+                a.remove(i)
+                v -= 1
+        return ' '.join(a)
+
     def excel_write_in(self, target_path):
         pass
         try:
-            # print(target_path, '~~~~~~~')
-            # fs_list.append(open(filenames, 'w', encoding='utf-8'))
-            # print('@@@@',self.file_path.split('\\')[-1].split('.')[0])
-
             corpus_check = []
             for line_read in self.excel_content_all().splitlines():
                 target_path_temp = target_path   # 由于此处要循环，所以设置临时变量代替
@@ -68,6 +81,7 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                     # print(aa_label, '~~~~~~~')
                     aa_description = " ".join(line_read.split()[1:])
                     aa_description0 = aa_description
+
                     logger.debug('标签：{}， 初始输入：{}'.format(aa_label, aa_description0))
                     aa_description = standard(aa_description, stop_words, split_symbol)  # 标准化处理
 
@@ -77,6 +91,8 @@ class OperateExcelSubclass(OperateExcel):  # 重写函数
                         continue
                     elif aa_label=='贴片电感' and 'power' in aa_description:
                         continue
+
+                    # aa_description = self.removeDuplicates(aa_description)  # 去掉重复词后的句子
 
                     logger.debug('最终写入行为：{}'.format(aa_description))
 

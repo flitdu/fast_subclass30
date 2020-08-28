@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 import matplotlib.pyplot as plt
 from data_operation.function import get_logger
-from bom_read import excel_read2txt
+from bom_read import excel_read2txt, OperateExcelSubclass
 from data_selection_new import mergeLabelTxt
 from data_split import datasSplit
 import pandas as pd
@@ -234,7 +234,6 @@ class TestExcel(OperateExcel):  # 重写函数
         predicted_label_lists = []
         predicted_probability_list = []
         for line_read in self.excel_content_all().splitlines():  # 先遍历行
-            time0 = time.time()
             # split_symbol = ['_',
             #                 '-',
             #                 ',',
@@ -256,6 +255,9 @@ class TestExcel(OperateExcel):  # 重写函数
             split_symbol = []
             aa_description = line_read
             aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
+
+            # aa_description_standard = OperateExcelSubclass.removeDuplicates(aa_description_standard)  # 句子去重
+
             # 添加规则
             tag = 0
             # -------------  词典匹配
@@ -265,7 +267,7 @@ class TestExcel(OperateExcel):  # 重写函数
                 if judge_tag:  # 转入判断
                     if label == 'to_judge':
                         if ('μ h' in aa_description_standard or 'µ h' in aa_description_standard) and 'smd' in aa_description_standard:
-                                pattern = re.compile(r'\d+\.?\d*ma')
+                                pattern = re.compile(r'\b\d+\.?\d*ma\b')
                                 try:
                                     string = pattern.findall(aa_description_standard)[0]  # '900ma'
                                     number = int(re.findall(r"\d+\.?\d*", string)[0])  # 量值
@@ -285,8 +287,23 @@ class TestExcel(OperateExcel):  # 重写函数
                                     predicted_probability_list.append(2.0)  # 概率
                                     print(label, 2.0, '!!!!!!')
                                     break
+                        elif 'uh' in aa_description_standard and 'a' in aa_description_standard:
+                            pattern2 = re.compile(r'\b\d+\.?\d* *a\b')
+                            try:
+                                a_string = pattern2.findall(aa_description_standard)[0]  # '900a'
+                                a_number = float(re.findall(r"\d+\.?\d*", a_string)[0])  # 量值
+                            except IndexError:
+                                break
+                            if a_number >= 1:
+                                tag = 1
+                                label = '功率电感'
+                                predicted_label_lists.append(label)
+                                predicted_probability_list.append(2.0)  # 概率
+                                print(label, 2.0, '!!!!!!')
+                                break
+
                     else:
-                        if bool(re.search(r'\b\d+\.?\d*mh', aa_description_standard)) and 'smd' in aa_description_standard:
+                        if bool(re.search(r'\b\d+\.?\d*mh\b', aa_description_standard)) and 'smd' in aa_description_standard:
                             tag = 1
                             label = '固定电感'
                             predicted_label_lists.append(label)
@@ -309,10 +326,10 @@ class TestExcel(OperateExcel):  # 重写函数
             predicted_result = predict_output(aa_description_standard, model)
             predicted_label = predicted_result[0][0][0].replace('__label__', '')
             predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
-            print(predicted_label, predicted_probability, '!!!!!!')
+            print('\033[1;36m  {}：\033[0m {:.2f} !!!!!!'.format(predicted_label, float(predicted_probability)))
             predicted_label_lists.append(predicted_label)
             predicted_probability_list.append(predicted_probability)
-            print(f'预测花费时间：{time.time()-time0}')
+
         return predicted_label_lists, predicted_probability_list
 
 
@@ -434,7 +451,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(177, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(178, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================

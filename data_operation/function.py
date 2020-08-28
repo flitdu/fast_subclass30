@@ -184,13 +184,9 @@ def labelNewSubclass(label_origin):
         aa_label = '贴片电容'
     elif aa_label == '铝质电解电容器-SMD：' or aa_label=='铝质电解电容器-SMD' or aa_label == '铝有机聚合物电容器':
         aa_label = '贴片电解电容'
-    elif aa_label == '电阻贴片':
-        aa_label = '贴片电阻'
-    elif aa_label == '电阻贴片':
-        aa_label = '贴片电阻'
     elif aa_label == 'MLCC-SMDSMT':
         aa_label = '贴片电容'
-    elif aa_label == '厚膜电阻器' or aa_label == '薄膜电阻器' or aa_label == '芯片电阻-表面安装':
+    elif aa_label == '厚膜电阻器' or aa_label == '薄膜电阻器' or aa_label == '芯片电阻-表面安装' or aa_label == '电阻贴片' or aa_label=='贴片超低阻值电阻':
         aa_label = '贴片电阻'
     elif aa_label == '铝电解电容器-带引线' or aa_label == '直插电解电容:' or aa_label=='铝电铝电解电容器-带引线解电容器-带引线' or aa_label=='铝质电解电容器-螺旋式接线端':
         aa_label = '直插电解电容'
@@ -224,10 +220,8 @@ def labelNewSubclass(label_origin):
         aa_label = '铝壳大功率电阻'
     elif aa_label == '高频/射频电阻':
         aa_label = '射频高频电阻'
-    elif aa_label == '电位器-其他可调电阻' or aa_label == '变阻器' or aa_label == '电位计' or aa_label == '电位计工具及硬件' or aa_label == '可调功率电阻' or aa_label == '精度电位计':
+    elif aa_label == '电位器-其他可调电阻' or aa_label == '变阻器' or aa_label == '电位计' or aa_label == '电位计工具及硬件' or aa_label == '可调功率电阻' or aa_label == '精度电位计' or aa_label == '微调电阻器SMD' or aa_label == '微调电阻器通孔' or aa_label=='精密可调电阻':
         aa_label = '可调电阻电位器'
-    elif aa_label == '微调电阻器SMD' or aa_label == '微调电阻器通孔':
-        aa_label = '精密可调电阻'
     elif aa_label == '线绕电阻' or aa_label == '线绕电阻器-透孔' or aa_label == '线绕电阻器':
         aa_label = '绕线电阻'
     elif aa_label == '金属玻璃釉电阻' or aa_label == '通孔电阻器':
@@ -246,7 +240,7 @@ def labelNewSubclass(label_origin):
         aa_label = '云母电容'
     elif aa_label == '微调电容器与可变电容器':
         aa_label = '可调电容'
-    elif aa_label == '薄膜电容器' or aa_label =='CL21电容' or aa_label == '聚酯薄膜电容':
+    elif aa_label == '薄膜电容器' or aa_label =='CL21电容' or aa_label == '聚酯薄膜电容' or aa_label == 'CBB电容':
         aa_label = '薄膜电容'
     elif aa_label == '电容套件' or aa_label == '电容硬件':
         aa_label = '电容套件及附件'
@@ -260,7 +254,7 @@ def labelNewSubclass(label_origin):
         aa_label = '可变电感器套件配件'
     elif aa_label =='贴片晶体谐振器(有源)' or aa_label == '直插晶体振荡器(有源)' or aa_label == '贴片晶体振荡器(有源)' or aa_label == '压控振荡器（VCO）' or aa_label == '压控式晶体振荡器(VCXO)' or aa_label == '温度补偿晶体振荡器(TCXO)' or aa_label == '恒温晶体振荡器' or aa_label == '压控振荡器' or aa_label == '温度补偿压控晶体振荡器':
         aa_label = '有源晶体振荡器'
-    elif aa_label == '无源晶体振荡器:' or aa_label == '贴片晶体振荡器(无源)' or aa_label =='直插晶体谐振器(无源)' or aa_label == '贴片晶体谐振器(无源)' or aa_label=='贴片晶体振荡器(无源):' or aa_label=='贴片晶体谐振器(无源):':
+    elif aa_label == '无源晶体振荡器:' or aa_label == '贴片晶体振荡器(无源)' or aa_label =='直插晶体谐振器(无源)' or aa_label == '贴片晶体谐振器(无源)' or aa_label=='贴片晶体振荡器(无源):' or aa_label=='贴片晶体谐振器(无源):' or aa_label=='圆柱体晶振':
         aa_label = '无源晶体振荡器'
     elif aa_label == '陶瓷谐振器' or aa_label == '压控SAW振荡器' or aa_label == '声表谐振器':
         aa_label = '谐振器'
@@ -298,5 +292,9 @@ def labelNewSubclass(label_origin):
         aa_label = '安全(加密)IC'
     elif aa_label=='高速、宽带运放':
         aa_label = '高速宽带运放'
+    elif aa_label=='音视频IC':
+        aa_label = '音频视频接口芯片'
+
+
 
     return aa_label
