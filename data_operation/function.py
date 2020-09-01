@@ -77,6 +77,7 @@ def standardize_text_similarity(content):
 def standard(str1, stop_words=None, split_symbol=None):  # 标准化处理
 
     aa_description = str1.replace('nan', '')
+    print('--'*20)
     print('\033[1;32m  原始输入：\033[0m {}'.format(aa_description))
     if bool(split_symbol):  # 分隔符和 jieba 选一种
         pass

@@ -31,7 +31,7 @@ import os, pickle
 import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match
+from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match, SUBCLASS2ENTITY
 from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -168,7 +168,12 @@ class FastTextModel:
         return accuracy_score(correct_labels, predict_labels), metrics.f1_score(correct_labels, predict_labels, average='macro')
 
 
-def predict_output(str1, model):
+def predict_output(str1, model, k0=1):
+    print('前3预测： ', model.predict([str1], k=3))
+    predict = model.predict([str1], k=k0)
+    return predict
+def entiyPredictOutput(str1, model):
+    # 二级预测
     print('前3预测： ', model.predict([str1], k=3))
     predict = model.predict([str1])
     return predict
@@ -226,7 +231,7 @@ class TestExcel(OperateExcel):  # 重写函数
         else:
             return None, None
 
-    def predict_rewrite_excel(self, model):
+    def predict_rewrite_excel(self, model, entityPredicitonModel):
         """
         预测，重写excel
         :return: 返回预测标签和预测概率
@@ -323,9 +328,38 @@ class TestExcel(OperateExcel):  # 重写函数
             if tag:
                 continue
 
+            # 增加‘连接器’处理逻辑
+            predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)
+            entity_predicted_label = predicted_result[0][0][0].replace('__label__', '')
+            entity_predicted_probability = format(predicted_result[1][0][0], '.2f')  # 保留2位小数
+            print('\033[1;36m  二级分类--{}：\033[0m {:.2f} !!!!!!'.format(entity_predicted_label, float(entity_predicted_probability)))
+            if entity_predicted_label == '连接器' and float(entity_predicted_probability) > 0.9:
+                pass
+                predicted_result = predict_output(aa_description_standard, model, 10)
+                print(len(predicted_result[0][0]),'%%%%')
+                for i in range(10):
+                    print(predicted_result[0][0][i].replace('__label__', ''), '@@@')
+                    subclass_label_i = predicted_result[0][0][i].replace('__label__', '')
+                    print(SUBCLASS2ENTITY[subclass_label_i], '###')
+                    if SUBCLASS2ENTITY[subclass_label_i] == '连接器':  # 直接输出
+                        tag = 1
+                        label = subclass_label_i
+                        predicted_label_lists.append(label)
+                        predicted_probability_list.append(1.5)  # 概率
+                        print(label, 1.5, '!!!!!!')
+                        break
+                if tag:
+                    continue
+
+                # print(predict_output(aa_description_standard, model))
+
+
             predicted_result = predict_output(aa_description_standard, model)
             predicted_label = predicted_result[0][0][0].replace('__label__', '')
             predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
+
+
+
             print('\033[1;36m  {}：\033[0m {:.2f} !!!!!!'.format(predicted_label, float(predicted_probability)))
             predicted_label_lists.append(predicted_label)
             predicted_probability_list.append(predicted_probability)
@@ -451,16 +485,16 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(178, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(179, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
-
     test_flag = 0
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e177'  #
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e179'  #
+        entity_modle_path = r'D:\dufy\code\local\model\ft_entity\final_models\model_e162'  # 二级分类模型
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
 
@@ -469,6 +503,7 @@ if __name__ == '__main__':
         record_wrong_probability_list = []
         file_names = os.listdir(excel_path)
         prediciton_model = ff.load_model(modle_path)
+        entityPredicitonModel = ff.load_model(entity_modle_path)  # 二级分类模型
 
         number = 0
         for i, name1 in enumerate(file_names):
@@ -479,7 +514,7 @@ if __name__ == '__main__':
             print(bom_path)
 
             aa = TestExcel(bom_path)
-            predict_labels, predict_probabilities = aa.predict_rewrite_excel(prediciton_model)  # 预测 excel 一行,除去标签
+            predict_labels, predict_probabilities = aa.predict_rewrite_excel(prediciton_model, entityPredicitonModel)  # 预测 excel 一行,除去标签
             # print(predict_labels, predict_probabilities)
 
             df1 = pd.read_excel(bom_path)
