@@ -169,9 +169,11 @@ class FastTextModel:
 
 
 def predict_output(str1, model, k0=1):
+    print(model, type(model))
     print('前3预测： ', model.predict([str1], k=3))
     predict = model.predict([str1], k=k0)
     return predict
+
 def entiyPredictOutput(str1, model):
     # 二级预测
     print('前3预测： ', model.predict([str1], k=3))
@@ -230,6 +232,31 @@ class TestExcel(OperateExcel):  # 重写函数
             return true_false_list, probability_list
         else:
             return None, None
+
+    @staticmethod
+    def entityCheckLogic(content, sub_model, entity_label, number=3):
+        """
+        加入二级校验过程，默认更信任二级，防止出现三级预测不对应二级情况
+        目前考虑加入 连接器', '电感'， '开关', '光电器件', '二极管',
+        :param self:
+        :param content: 规范化后的bom行
+        :param sub_model: 三级模型
+        :param entity_label: 实体预测类目
+        :param number: 返回三级分类预测前 number 个
+        :return: 校验是否生效、校验后的三级分类
+        """
+        predicted_result = predict_output(content, sub_model, number)
+        print(len(predicted_result[0][0]), '%%%%')
+        for i in range(number):
+            print(predicted_result[0][0][i].replace('__label__', ''), '@@@')
+            subclass_label_i = predicted_result[0][0][i].replace('__label__', '')
+            print(SUBCLASS2ENTITY[subclass_label_i], '###')
+            if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
+                tag = 1
+                return tag, subclass_label_i
+
+        return 0, None
+
 
     def predict_rewrite_excel(self, model, entityPredicitonModel):
         """
@@ -328,38 +355,30 @@ class TestExcel(OperateExcel):  # 重写函数
             if tag:
                 continue
 
-            # 增加‘连接器’处理逻辑
+            # 校验逻辑
             predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)
+            print('####', predicted_result)
             entity_predicted_label = predicted_result[0][0][0].replace('__label__', '')
             entity_predicted_probability = format(predicted_result[1][0][0], '.2f')  # 保留2位小数
             print('\033[1;36m  二级分类--{}：\033[0m {:.2f} !!!!!!'.format(entity_predicted_label, float(entity_predicted_probability)))
-            if entity_predicted_label == '连接器' and float(entity_predicted_probability) > 0.9:
-                pass
-                predicted_result = predict_output(aa_description_standard, model, 10)
-                print(len(predicted_result[0][0]),'%%%%')
-                for i in range(10):
-                    print(predicted_result[0][0][i].replace('__label__', ''), '@@@')
-                    subclass_label_i = predicted_result[0][0][i].replace('__label__', '')
-                    print(SUBCLASS2ENTITY[subclass_label_i], '###')
-                    if SUBCLASS2ENTITY[subclass_label_i] == '连接器':  # 直接输出
-                        tag = 1
-                        label = subclass_label_i
-                        predicted_label_lists.append(label)
+
+            if float(entity_predicted_probability) > 0.9:
+                # 目前考虑加入连接器/电感/开关/光电器件/二极管
+                check_entity = {'连接器':1,'电感':2,'开关':3,'光电器件':4,'二极管':5}
+                if check_entity.get(entity_predicted_label):
+                    if entity_predicted_label == '连接器':
+                        tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 10)
+                    else:
+                        tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label)
+                    if tag:  # 校验生效
+                        predicted_label_lists.append(subclass_label)
                         predicted_probability_list.append(1.5)  # 概率
-                        print(label, 1.5, '!!!!!!')
-                        break
-                if tag:
-                    continue
-
-                # print(predict_output(aa_description_standard, model))
-
+                        print('\033[1;36m  {}：\033[0m {:.2f} !!!!!!'.format(subclass_label, float(1.5)))
+                        continue
 
             predicted_result = predict_output(aa_description_standard, model)
             predicted_label = predicted_result[0][0][0].replace('__label__', '')
             predicted_probability = format(predicted_result[1][0][0],'.2f')  # 保留2位小数
-
-
-
             print('\033[1;36m  {}：\033[0m {:.2f} !!!!!!'.format(predicted_label, float(predicted_probability)))
             predicted_label_lists.append(predicted_label)
             predicted_probability_list.append(predicted_probability)
