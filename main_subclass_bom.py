@@ -304,8 +304,8 @@ class TestExcel(OperateExcel):  # 重写函数
                                     string = pattern.findall(aa_description_standard)[0]  # '900ma'
                                     number = int(re.findall(r"\d+\.?\d*", string)[0])  # 量值
                                 except IndexError:
-                                    break
-                                if (number / 1000) < 1:
+                                    break   # 保证dic_match互斥，所以用break
+                                if number/1000 < 1:
                                     tag = 1
                                     label = '贴片电感'
                                     predicted_label_lists.append(label)

@@ -49,6 +49,7 @@ rule_dict = {
 # 词典匹配, 同时满足
 dic_match = {
     ('µ h', 'smd', 'ma'): 'to_judge',
+    ('μ h', 'smd', 'ma'): 'to_judge',
     ('mh', 'smd'): '固定电感',
     ('uh', 'a'): 'to_judge',
 }
