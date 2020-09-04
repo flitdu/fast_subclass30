@@ -31,7 +31,7 @@ import os, pickle
 import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match, SUBCLASS2ENTITY
+from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match, SUBCLASS2ENTITY,re_match_entity
 from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -169,7 +169,6 @@ class FastTextModel:
 
 
 def predict_output(str1, model, k0=1):
-    print(model, type(model))
     print('前3预测： ', model.predict([str1], k=3))
     predict = model.predict([str1], k=k0)
     return predict
@@ -356,7 +355,17 @@ class TestExcel(OperateExcel):  # 重写函数
                 continue
 
             # 校验逻辑
-            predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)
+            # -------------  二级正则匹配
+            predicted_result = ([[]], [[]])
+            flag = 1
+            for expression, label in re_match_entity.items():
+                if bool(re.search(expression, aa_description_standard)):
+                    predicted_result[0][0].append(label)
+                    predicted_result[1][0].append(2.0)  # 概率
+                    flag = 0
+                    break
+            if flag:
+                predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)
             print('####', predicted_result)
             entity_predicted_label = predicted_result[0][0][0].replace('__label__', '')
             entity_predicted_probability = format(predicted_result[1][0][0], '.2f')  # 保留2位小数

@@ -54,7 +54,10 @@ dic_match = {
     ('uh', 'a'): 'to_judge',
 }
 
-# 正则匹配
+# 二级正则匹配
+re_match_entity = {r'\b座子\b':'连接器'}
+
+# 三级正则匹配
 re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压器  严格匹配
 
             r'\baluminum electrolytic capacitor\b.*(\bsmd\b|\bsmd\b)':'贴片电解电容',  # 中间可以插入别的内容
