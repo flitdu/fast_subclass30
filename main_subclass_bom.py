@@ -169,7 +169,7 @@ class FastTextModel:
 
 
 def predict_output(str1, model, k0=1):
-    print('前3预测： ', model.predict([str1], k=3))
+    print('前4预测： ', model.predict([str1], k=4))
     predict = model.predict([str1], k=k0)
     return predict
 
@@ -233,7 +233,7 @@ class TestExcel(OperateExcel):  # 重写函数
             return None, None
 
     @staticmethod
-    def entityCheckLogic(content, sub_model, entity_label, number=3):
+    def entityCheckLogic(content, sub_model, entity_label, number=4):
         """
         加入二级校验过程，默认更信任二级，防止出现三级预测不对应二级情况
         目前考虑加入 连接器', '电感'， '开关', '光电器件', '二极管',
@@ -250,6 +250,25 @@ class TestExcel(OperateExcel):  # 重写函数
             print(predicted_result[0][0][i].replace('__label__', ''), '@@@')
             subclass_label_i = predicted_result[0][0][i].replace('__label__', '')
             print(SUBCLASS2ENTITY[subclass_label_i], '###')
+            if entity_label == '电阻':
+                pattern = re.compile(r'\b\d+\.?\d* *%')   #精度匹配
+                try:
+                    string = pattern.findall(content)[0]  # '900ma'
+                    magnitude = float(re.findall(r"\d+\.?\d*", string)[0])  # 量值
+
+                    if magnitude<1:  # 精度＜1%
+                        print('^^^^', magnitude)
+                        return 1, '贴片高精密-低温漂电阻'
+                    else:
+                        if subclass_label_i=='贴片高精密-低温漂电阻':
+                            continue
+                        elif subclass_label_i =='金属膜电阻' and bool(re.search(r'\b0603\b', content)):  #封装
+                            continue
+                        elif subclass_label_i =='采样电阻' and bool(re.search(r'\b\d+\.?\d*k', content)):  #阻值
+                            continue
+                except IndexError:
+                    pass  # 保证dic_match互斥，所以用break
+
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
                 return tag, subclass_label_i
@@ -298,10 +317,10 @@ class TestExcel(OperateExcel):  # 重写函数
                 if judge_tag:  # 转入判断
                     if label == 'to_judge':
                         if ('μ h' in aa_description_standard or 'µ h' in aa_description_standard) and 'smd' in aa_description_standard:
-                                pattern = re.compile(r'\b\d+\.?\d*ma\b')
+                                pattern = re.compile(r'\b\d+\.?\d* *ma\b')
                                 try:
                                     string = pattern.findall(aa_description_standard)[0]  # '900ma'
-                                    number = int(re.findall(r"\d+\.?\d*", string)[0])  # 量值
+                                    number = float(re.findall(r"\d+\.?\d*", string)[0])  # 量值
                                 except IndexError:
                                     break   # 保证dic_match互斥，所以用break
                                 if number/1000 < 1:
