@@ -148,6 +148,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(模拟开关)': '模拟开关芯片',
             r'(\bcpld\b)': 'CPLD-FPGA芯片',
             r'(\bd sub\b)': 'D-Sub连接器附件',
+            r'(贴片 数码管)': 'LED数码管',
 
 
             }
