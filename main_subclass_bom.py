@@ -278,6 +278,12 @@ class TestExcel(OperateExcel):  # 重写函数
                 except IndexError:
                     pass  # 保证dic_match互斥，所以用break
 
+                try:
+                    if subclass_label_i =='排阻' and bool(re.search(r'\b0603\b', content)):
+                        continue
+                except IndexError:
+                    pass
+
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
                 return tag, subclass_label_i
