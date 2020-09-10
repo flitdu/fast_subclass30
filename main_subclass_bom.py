@@ -409,10 +409,8 @@ class TestExcel(OperateExcel):  # 重写函数
                 # 不考虑的如下（语料太少）：
                 check_entity = {'嵌入式外围芯片':1,'射频无线电':2,'线材配件':3,'变压器':4,'继电器':5}
                 if not check_entity.get(entity_predicted_label):
-                    if entity_predicted_label == '连接器':
+                    if entity_predicted_label == '连接器' or entity_predicted_label == '保险丝' or entity_predicted_label == '驱动器IC':
                         tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 10)
-                    elif entity_predicted_label == '驱动器IC':
-                        tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 5)
                     else:
                         tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label)
                     if tag:  # 校验生效
