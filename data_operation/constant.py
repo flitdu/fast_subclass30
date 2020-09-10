@@ -80,7 +80,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(插件 发光 二极管|双色 灯|led 灯|贴片 发光 二极管)': '发光二极管',
             r'(三极管|\bnpn\b|\bpnp\b|贴片 三极管)': '数字三极管',
             r'(\bfrte\b|磁珠|\bbead\b)': '磁珠',  # 英文严格匹配
-            r'(\bpin photodiode\b)': '红外接收管',
+            r'(\bpin photodiode\b|红外 接收 头)': '红外接收管',
             r'(安规|安规 电容|\bsafety capacitor\b)': '安规电容',
             # r'(\b贴片 电容\b)': '贴片电容',  # 不加为宜，模型更灵活
             r'(\bfilm capacitor\b|薄膜 电容|\bcbb21\b|\bcbb22\b)': '薄膜电容',
