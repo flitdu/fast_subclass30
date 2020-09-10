@@ -252,7 +252,6 @@ class TestExcel(OperateExcel):  # 重写函数
             print(SUBCLASS2ENTITY[subclass_label_i], '###')
             if entity_label == '电阻':
                 pattern = re.compile(r'\b\d+\.?\d* *%')   #精度匹配
-                r_pattern = re.compile(r'\b\d+\.?\d* *ω')   #阻匹配
                 try:
                     string = pattern.findall(content)[0]  # '900ma'
                     magnitude = float(re.findall(r"\d+\.?\d*", string)[0])  # 量值
@@ -270,16 +269,23 @@ class TestExcel(OperateExcel):  # 重写函数
                 except IndexError:
                     pass  # 保证dic_match互斥，所以用break
 
+                r_pattern = re.compile(r'\b\d+\.?\d* *[ω|r]')  # 阻匹配
                 try:
                     r_string = r_pattern.findall(content)[0]  # '900ohm'
                     r_magnitude = float(re.findall(r"\d+\.?\d*", r_string)[0])  # 量值
                     if r_magnitude >=1 and subclass_label_i =='采样电阻':
                         continue
                 except IndexError:
-                    pass  # 保证dic_match互斥，所以用break
+                    pass
 
                 try:
                     if subclass_label_i =='排阻' and bool(re.search(r'\b0603\b', content)):
+                        continue
+                except IndexError:
+                    pass
+
+                try:
+                    if subclass_label_i =='采样电阻' and bool(re.search(r'\b1 / \d*w', content)):
                         continue
                 except IndexError:
                     pass
