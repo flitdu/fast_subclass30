@@ -105,7 +105,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(谐振器)': '谐振器',
             r'(网络 变压器)': '网口变压器',
             r'(高频 变压器)': '电源变压器',
-            r'(\bn mos\b|\bp mos\b|\bp 沟道|场效应管|\bmosfet\b|\bn channel\b)': 'MOSFET',
+            r'(\bnmos\b|\bpmos\b|\bn mos\b|\bp mos\b|\bp 沟道|场效应管|\bmosfet\b|\bn channel\b)': 'MOSFET',
             r'(\bptc thermistor\b)': 'PTC热敏电阻',
             r'(\bsuper capacitor\b|超级 电容)': '超级电容器',
             r'(\bcrystal xtal\b|\bcrystal dip\b|\bcrystal xtal\b)': '无源晶体振荡器',
