@@ -56,7 +56,9 @@ dic_match = {
 }
 
 # 二级正则匹配
-re_match_entity = {r'\b座子\b':'连接器'}
+re_match_entity = {r'\b座子\b':'连接器',
+                   r'\b保险丝\b':'保险丝',
+                   }
 
 # 三级正则匹配
 re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压器  严格匹配
