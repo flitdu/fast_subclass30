@@ -231,8 +231,8 @@ def labelNewSubclass(label_origin):
         aa_label = '金属膜电阻'
     elif aa_label == '电阻套件' or aa_label == '电阻硬件':
         aa_label = '电阻套件及附件'
-    elif aa_label == '贴片精密电阻' or aa_label=='贴片高精密、低温漂电阻':
-        aa_label = '贴片高精密-低温漂电阻'
+    elif aa_label == '贴片精密电阻' or aa_label=='贴片高精密、低温漂电阻' or aa_label == '贴片高精密-低温漂电阻':
+        aa_label = '贴片电阻'
     elif aa_label == '高压陶瓷电容' or aa_label == '高压瓷片电容' or aa_label == '瓷片电容器':
         aa_label = '直插瓷片电容'
     elif aa_label == '钽质电容器-固体铅钽电容器' or aa_label =='液体钽电容器' or aa_label == '钽质电容器-固体SMD钽电容器' or aa_label == '钽质电容器-SMD聚合物液体钽电容器' or aa_label=='钽质电容器-固体SMD钽电容器:':

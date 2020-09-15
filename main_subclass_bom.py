@@ -258,11 +258,9 @@ class TestExcel(OperateExcel):  # 重写函数
 
                     if magnitude<1:  # 精度＜1%
                         print('^^^^', magnitude)
-                        return 1, '贴片高精密-低温漂电阻'
+                        return 1, '贴片电阻'
                     else:
-                        if subclass_label_i=='贴片高精密-低温漂电阻':
-                            continue
-                        elif subclass_label_i =='金属膜电阻' and bool(re.search(r'\b0603\b|\b1206\b', content)):  #封装
+                        if subclass_label_i =='金属膜电阻' and bool(re.search(r'\b0603\b|\b1206\b', content)):  #封装
                             continue
                         elif subclass_label_i =='采样电阻' and bool(re.search(r'\b\d+\.?\d*k', content)):  #阻值
                             continue
@@ -553,7 +551,7 @@ if __name__ == '__main__':
     trian_with_alldatas = 10
     if trian_with_alldatas == 1:
         print('使用全部数据开始重新训练....')
-        ft_ = FastTextModel(179, loss_name, learn_rate, n_gram)
+        ft_ = FastTextModel(180, loss_name, learn_rate, n_gram)
         ft_.trainWithAllDatas(r'.\data\selection_data_shuffle.txt')  # 训练
 
     # ===============BOM测试========================
@@ -561,7 +559,7 @@ if __name__ == '__main__':
     time0 = time.time()
     if test_flag == 0:  # 对不带有标注的excel 预测
         pass
-        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e179'  #
+        modle_path = r'D:\dufy\code\local\model\ft_subclass\test_rewrite_models\model_e180'  #
         entity_modle_path = r'D:\dufy\code\local\model\ft_entity\final_models\model_e162'  # 二级分类模型
         excel_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test'
         output_path = r'D:\dufy\code\local\corpus\bom_subclass\bom_test_output'
