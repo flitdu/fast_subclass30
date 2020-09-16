@@ -370,6 +370,20 @@ class TestExcel(OperateExcel):  # 重写函数
                                 predicted_probability_list.append(2.0)  # 概率
                                 print(label, 2.0, '!!!!!!')
                                 break
+                        elif '电感' in aa_description_standard and 'ma' in aa_description_standard:
+                            pattern3 = re.compile(r'\b\d+\.?\d*\s*ma\b')
+                            try:
+                                a_string = pattern3.findall(aa_description_standard)[0]  # '900ma'
+                                a_number = float(re.findall(r"\d+\.?\d*", a_string)[0])  # 量值
+                            except IndexError:
+                                break
+                            if a_number >= 100:
+                                tag = 1
+                                label = '高频电感'
+                                predicted_label_lists.append(label)
+                                predicted_probability_list.append(2.0)  # 概率
+                                print(label, 2.0, '!!!!!!')
+                                break
 
                     else:
                         if bool(re.search(r'\b\d+\.?\d*mh\b', aa_description_standard)) and 'smd' in aa_description_standard:
