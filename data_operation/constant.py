@@ -89,7 +89,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(\bpin photodiode\b|红外 接收 头)': '红外接收管',
             r'(安规|安规 电容|\bsafety capacitor\b)': '安规电容',
             # r'(\b贴片 电容\b)': '贴片电容',  # 不加为宜，模型更灵活
-            r'(\bfilm capacitor\b|薄膜 电容|\bcbb21\b|\bcbb22\b)': '薄膜电容',
+            r'(\bfilm capacitor\b|薄膜 电容|\bcbb21\b|\bcbb22\b|聚丙烯 电容)': '薄膜电容',
             # r'(\bcbb21\b|\bcbb22\b)': 'CBB电容',  #合并
             r'(氧化铌 电容|铌 氧化物 电容器)': '氧化铌电容',
             r'(固态 电解电容)': '固态电解电容',
