@@ -286,6 +286,9 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 except IndexError:
                     pass
+            elif entity_label == '连接器':
+                if bool(re.search(r'\b(ph|vh|xh|zh)\d+\.?\d*', content)):  # 正则匹配到
+                    return 1, '线对板线对线连接器'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1

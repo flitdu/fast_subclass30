@@ -126,7 +126,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(螺纹)': '螺丝紧固件硬件',
             r'(\bcotex m4\b|\bstm32\b)': '32位微控制器-MCU',
             r'(\beeprom\b|\bEEPROM存储器\b)': 'EEPROM存储器',
-            r'(\bheader\b|排针|排母|单排 插针)': '排针排母',
+            r'(排针|排母|单排 插针)': '排针排母',
             r'(钮扣 电池 座)': '电池座夹附件',
             r'(\bfpc 座)': 'FFCFPC连接器',
             r'(\bic 座)': 'IC与器件插座',
