@@ -296,6 +296,9 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 elif bool(re.search(r'\bsim卡', content)):
                     return 1, '内存连接器'
+            elif entity_label == '电容':
+                if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)):
+                    return 1, '钽电容'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
