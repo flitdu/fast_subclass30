@@ -294,6 +294,8 @@ class TestExcel(OperateExcel):  # 重写函数
                         return 1, subclass_label_i
                     else:
                         continue
+                elif bool(re.search(r'\bsim卡', content)):
+                    return 1, '内存连接器'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
