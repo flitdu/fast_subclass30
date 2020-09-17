@@ -259,7 +259,7 @@ class TestExcel(OperateExcel):  # 重写函数
                         print('^^^^', magnitude)
                         return 1, '贴片电阻'
                     else:
-                        if subclass_label_i =='金属膜电阻' and bool(re.search(r'\b0603\b|\b1206\b', content)):  #封装
+                        if subclass_label_i =='金属膜电阻' and bool(re.search(r'\b603\b|\b0603\b|\b1206\b', content)):  #封装
                             continue
                         elif subclass_label_i =='采样电阻' and bool(re.search(r'\b\d+\.?\d*k', content)):  #阻值
                             continue
