@@ -266,7 +266,7 @@ class TestExcel(OperateExcel):  # 重写函数
                 except IndexError:
                     pass  # 保证dic_match互斥，所以用break
 
-                r_pattern = re.compile(r'\b\d+\.?\d* *[ω|r]')  # 阻匹配
+                r_pattern = re.compile(r'\b\d+\.?\d* *[ω|r]\b')  # 阻匹配
                 try:
                     r_string = r_pattern.findall(content)[0]  # '900ohm'
                     r_magnitude = float(re.findall(r"\d+\.?\d*", r_string)[0])  # 量值
