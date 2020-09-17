@@ -57,7 +57,7 @@ dic_match = {
 }
 
 # 二级正则匹配
-re_match_entity = {r'\b座子\b':'连接器',
+re_match_entity = {r'(\b座子\b|灯座|插座)':'连接器',
                    r'\b保险丝\b':'保险丝',
                    r'运放':'运放',
                    r'电源 芯片':'电源芯片',
@@ -91,7 +91,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(\btvs diode\b|瞬态 抑制 二极管)': 'TVS二极管(瞬态电压抑制二极管)',
             r'(稳压 二极管|贴片 稳压 二极管|双向 齐纳 二极管)': '稳压二极管',
             r'(\besd 保护 二极管)': 'ESD二极管',
-            r'(插件 发光 二极管|双色 灯|led 灯|贴片 发光 二极管)': '发光二极管',
+            r'(插件 发光 二极管|双色 灯|贴片 发光 二极管)': '发光二极管',
             r'(三极管|\bnpn\b|\bpnp\b|贴片 三极管)': '数字三极管',
             r'(\bfrte\b|磁珠|\bbead\b)': '磁珠',  # 英文严格匹配
             r'(\bpin photodiode\b|红外 接收 头)': '红外接收管',
@@ -107,7 +107,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(钽电容)': '钽电容',
             r'(\bpower inductor\b|功率 电感)': '功率电感',
             r'(\bhigh frequency inductor\b|rf 电感|\brf inductors\b|\bhigh frequency inductive\b|高频 电感)': '高频电感',
-            r'(贴片 电阻 排|排阻)': '排阻',
+            r'(贴片 电阻 排|排阻|电阻 排)': '排阻',
             r'(电位器)': '可调电阻电位器',
             r'(\bchip resistor\b|片状 电阻)': '贴片电阻',
             r'(\bvaristor\b|压敏)': '压敏电阻',
@@ -177,6 +177,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(逻辑 或非门|逻辑 或门)': '门极反相器',
             r'(\bjtag 插座|插拔 端子)': '插拔式连接器',
             r'(开关 控制器)': '开关电源芯片',
+            r'(灯座)': '照明连接器',
 
             }
 
