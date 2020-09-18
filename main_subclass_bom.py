@@ -280,8 +280,6 @@ class TestExcel(OperateExcel):  # 重写函数
                 elif subclass_label_i =='压敏电阻' and bool(re.search(r'\b\d+k\d+\b', content)):  #压敏电阻没有阻值
                     continue
 
-
-
             elif entity_label == '连接器':
                 if bool(re.search(r'\b(ph|vh|xh|zh)\d+\.?\d*', content)):  # 正则匹配到
                     return 1, '线对板线对线连接器'
