@@ -265,7 +265,6 @@ class TestExcel(OperateExcel):  # 重写函数
                             continue
                 except IndexError:
                     pass  # 保证dic_match互斥，所以用break
-
                 r_pattern = re.compile(r'\b\d+\.?\d* *[ω|r]\b')  # 阻匹配
                 try:
                     r_string = r_pattern.findall(content)[0]  # '900ohm'
@@ -274,18 +273,15 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 except IndexError:
                     pass
+                if subclass_label_i =='排阻' and bool(re.search(r'\b0603\b', content)):
+                    continue
+                elif subclass_label_i =='采样电阻' and bool(re.search(r'\b1 / \d*w', content)):
+                    continue
+                elif subclass_label_i =='压敏电阻' and bool(re.search(r'\b\d+k\d+\b', content)):  #压敏电阻没有阻值
+                    continue
 
-                try:
-                    if subclass_label_i =='排阻' and bool(re.search(r'\b0603\b', content)):
-                        continue
-                except IndexError:
-                    pass
 
-                try:
-                    if subclass_label_i =='采样电阻' and bool(re.search(r'\b1 / \d*w', content)):
-                        continue
-                except IndexError:
-                    pass
+
             elif entity_label == '连接器':
                 if bool(re.search(r'\b(ph|vh|xh|zh)\d+\.?\d*', content)):  # 正则匹配到
                     return 1, '线对板线对线连接器'
