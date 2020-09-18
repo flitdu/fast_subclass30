@@ -279,6 +279,8 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
                 elif subclass_label_i =='压敏电阻' and bool(re.search(r'\b\d+k\d+\b', content)):  #压敏电阻没有阻值
                     continue
+                elif subclass_label_i =='可调电阻电位器' and bool(re.search(r'\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
+                    continue
 
             elif entity_label == '连接器':
                 if bool(re.search(r'\b(ph|vh|xh|zh)\d+\.?\d*', content)):  # 正则匹配到
@@ -433,10 +435,7 @@ class TestExcel(OperateExcel):  # 重写函数
                 # 不考虑的如下（语料太少）：
                 check_entity = {'嵌入式外围芯片':1,'射频无线电':2,'线材配件':3,'变压器':4,'继电器':5}
                 if not check_entity.get(entity_predicted_label):
-                    if entity_predicted_label == '连接器' or entity_predicted_label == '保险丝' or entity_predicted_label == '驱动器IC'or entity_predicted_label == '开关':
-                        tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 10)
-                    else:
-                        tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label)
+                    tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 10)
                     if tag:  # 校验生效
                         predicted_label_lists.append(subclass_label)
                         predicted_probability_list.append(1.5)  # 概率
