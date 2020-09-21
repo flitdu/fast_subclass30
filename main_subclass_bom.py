@@ -292,6 +292,9 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 elif bool(re.search(r'\bsim卡', content)):
                     return 1, '内存连接器'
+                elif subclass_label_i =='排针排母' and bool(re.search(r'(带锁|自锁)', content)):
+                    continue
+
             elif entity_label == '电容':
                 if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)):
                     return 1, '钽电容'
