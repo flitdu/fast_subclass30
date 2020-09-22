@@ -111,7 +111,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(\bhigh frequency inductor\b|rf 电感|\brf inductors\b|\bhigh frequency inductive\b|高频 电感)': '高频电感',
             r'(贴片 电阻 排|排阻|电阻 排)': '排阻',
             r'(电位器)': '可调电阻电位器',
-            r'(\bchip resistor\b|片状 电阻)': '贴片电阻',
+            r'(\bchip resistor\b|片状 电阻|\bsmd res 1206\b)': '贴片电阻',
             r'(\bvaristor\b|压敏)': '压敏电阻',
             r'(插件 碳膜 电阻)': '碳膜电阻',
             r'(\bsmd2409\b|\bsmd0204\b|\bcfs 碳膜 晶圆 电阻|\bmelf\b)': 'MELF晶圆电阻',
