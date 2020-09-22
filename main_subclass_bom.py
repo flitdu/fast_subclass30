@@ -273,13 +273,13 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 except IndexError:
                     pass
-                if subclass_label_i =='排阻' and bool(re.search(r'\b0603\b', content)):
-                    continue
-                elif subclass_label_i =='采样电阻' and bool(re.search(r'\b1 / \d*w', content)):
+                if subclass_label_i =='采样电阻' and bool(re.search(r'\b1 / \d*w', content)):
                     continue
                 elif subclass_label_i =='压敏电阻' and bool(re.search(r'\b\d+k\d+\b', content)):  #压敏电阻没有阻值
                     continue
                 elif subclass_label_i =='可调电阻电位器' and bool(re.search(r'\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
+                    continue
+                elif (subclass_label_i =='碳膜电阻' or subclass_label_i =='金属氧化膜电阻' or subclass_label_i =='排阻') and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
                     continue
 
             elif entity_label == '连接器':
