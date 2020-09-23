@@ -62,6 +62,7 @@ pass_match = [r'\b客户自己买\b',
               r'\b不贴\b',
               r'\bN/C\b',
               r'\b不焊\b',
+              r'\b无需报价\b',
 
               ]
 
