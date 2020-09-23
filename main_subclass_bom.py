@@ -31,7 +31,7 @@ import os, pickle
 import numpy as np
 from ft_plot import plotCompareModelAccuracy, plotScatterRightWrongMark, plotTrainEffect
 np.set_printoptions(threshold=np.inf)
-from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match, SUBCLASS2ENTITY,re_match_entity
+from data_operation.constant import label_name_forbid, SubclassLabelList, rule_dict, re_match, dic_match, SUBCLASS2ENTITY,re_match_entity, pass_match
 from styleframe import StyleFrame, Styler, utils
 
 stop_words = load_stop_word_list("stopwords_subclass.txt")
@@ -336,6 +336,20 @@ class TestExcel(OperateExcel):  # 重写函数
             #                 '；']
             split_symbol = []
             aa_description = line_read
+
+            tag = 0
+            for expression in pass_match:  # 不对bom内容判断，自动忽略
+                if bool(re.search(expression, aa_description)):  # 正则匹配到
+                    tag = 1
+                    predicted_label_lists.append('pass')
+                    predicted_probability_list.append(0.01)  # 概率
+                    print('----------------------------------------')
+                    print(aa_description)
+                    print('\033[1;36m  {}：\033[0m {:.2f} !!!!!!'.format('pass', float(0.01)))
+                    break
+            if tag:
+                continue
+
             aa_description_standard = standard(aa_description, stop_words, split_symbol)  # 标准化处理
 
             # aa_description_standard = OperateExcelSubclass.removeDuplicates(aa_description_standard)  # 句子去重
@@ -430,7 +444,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     flag = 0
                     break
             if flag:
-                predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)
+                predicted_result = entiyPredictOutput(aa_description_standard, entityPredicitonModel)  # 二级结果
             print('####', predicted_result)
             entity_predicted_label = predicted_result[0][0][0].replace('__label__', '')
             entity_predicted_probability = format(predicted_result[1][0][0], '.2f')  # 保留2位小数

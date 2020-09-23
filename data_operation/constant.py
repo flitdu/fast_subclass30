@@ -53,8 +53,18 @@ dic_match = {
     ('mh', 'smd'): '固定电感',
     ('uh', 'a'): 'to_judge',
     ('电感', 'ma'): 'to_judge',
-
 }
+
+# 不进行报价的情况
+pass_match = [r'\b客户自己买\b',
+              r'\bNC\b',
+              r'\b不接\b',
+              r'\b不贴\b',
+              r'\bN/C\b',
+              r'\b不焊\b',
+
+              ]
+
 
 # 二级正则匹配
 re_match_entity = {r'(\b座子\b|灯座|插座|固定 座)':'连接器',
