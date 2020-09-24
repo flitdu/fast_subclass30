@@ -83,6 +83,7 @@ re_match_entity = {r'(\b座子\b|灯座|插座|固定 座)':'连接器',
                    r'晶振':'晶振',
                    r'电感':'电感',
                    r'\b(sensors|sensor)\b':'传感器',
+                   r'\bsemiconductor\b':'晶体管',
                    r'(\d+\.?\d*\s(ohm|m).*\sr\d+|r\d+\s.*\d+\.?\d*\s(ohm|m))':'电阻',  # R位号+阻值推断，考虑不同顺序
 
                    }
@@ -104,11 +105,12 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(耦合电感|耦合 电感|共模电感|\bcommon mode choke\b)': '共模扼流圈滤波器',
             r'(色環 電感|色环 电感)': '色环电感',
             r'(\bfast recovery rectifier\b|快 恢复 二极管)': '超快快恢复二极管',
-            r'(\btvs diode\b|瞬态 抑制 二极管)': 'TVS二极管(瞬态电压抑制二极管)',
+            r'(\btvs diode\b|瞬态 抑制 二极管|瞬息 抑制 二极管)': 'TVS二极管(瞬态电压抑制二极管)',
             r'(稳压 二极管|贴片 稳压 二极管|双向 齐纳 二极管)': '稳压二极管',
             r'(\besd 保护 二极管)': 'ESD二极管',
             r'(插件 发光 二极管|双色 灯|贴片 发光 二极管)': '发光二极管',
             r'(三极管|\bnpn\b|\bpnp\b|贴片 三极管)': '数字三极管',
+            r'开关 二极管': '开关二极管',
             r'(\bfrte\b|磁珠|\bbead\b)': '磁珠',  # 英文严格匹配
             r'(\bpin photodiode\b|红外 接收 头)': '红外接收管',
             r'(安规|安规 电容|\bsafety capacitor\b)': '安规电容',
