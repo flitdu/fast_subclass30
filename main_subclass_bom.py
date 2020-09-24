@@ -283,7 +283,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
 
             elif entity_label == '连接器':
-                if bool(re.search(r'\b(ph|vh|xh|zh)\d+\.?\d*', content)):  # 正则匹配到
+                if bool(re.search(r'(\b(ph|vh|xh|zh|sh)\d+\.?\d*)|\b(ph|vh|xh|zh|sh)\b', content)):  # 正则匹配到
                     return 1, '线对板线对线连接器'
                 elif bool(re.search(r'\bheader\b', content)):
                     if subclass_label_i in ['线对板线对线连接器', 'IDC连接器(牛角)']:
