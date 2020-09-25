@@ -305,6 +305,9 @@ class TestExcel(OperateExcel):  # 重写函数
                     return 1, '磁性传感器'
                 elif bool(re.search(r'(\baccelerometer\b)', content)):
                     return 1, '加速度传感器'
+            elif entity_label == '二极管':
+                if bool(re.search(r'(\b蓝|红|橙|黄|绿|蓝|靛|紫\b)', content)):
+                    return 1, '发光二极管'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
