@@ -83,7 +83,6 @@ re_match_entity = {r'(\b座子\b|灯座|插座|固定 座)':'连接器',
                    r'晶振':'晶振',
                    r'电感':'电感',
                    r'\b(sensors|sensor)\b':'传感器',
-                   r'\bsemiconductor\b':'晶体管',
                    r'(\d+\.?\d*\s(ohm|m)\b.*\sr\d+|r\d+\s.*\d+\.?\d*\s(ohm|m)\b)':'电阻',  # R位号+阻值推断，考虑不同顺序
 
                    }
