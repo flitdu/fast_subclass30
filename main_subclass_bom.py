@@ -296,7 +296,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
 
             elif entity_label == '电容':
-                if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)):
+                if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)) or bool(re.search(r'(钽)', content)):
                     return 1, '钽电容'
                 elif subclass_label_i == '贴片电容' and bool(re.search(r'\b5\s\*\s5.4\b', content)):  # 封装不对
                     continue
