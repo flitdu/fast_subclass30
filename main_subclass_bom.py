@@ -279,7 +279,9 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
                 elif subclass_label_i =='可调电阻电位器' and bool(re.search(r'\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
                     continue
-                elif (subclass_label_i =='碳膜电阻' or subclass_label_i =='金属氧化膜电阻' or subclass_label_i =='金属膜电阻' or subclass_label_i =='排阻') and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
+                elif (subclass_label_i =='碳膜电阻' or subclass_label_i =='金属氧化膜电阻' or\
+                      subclass_label_i =='金属膜电阻' or subclass_label_i =='排阻' or subclass_label_i =='绕线电阻')\
+                        and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
                     continue
 
             elif entity_label == '连接器':
@@ -301,6 +303,8 @@ class TestExcel(OperateExcel):  # 重写函数
                 elif subclass_label_i == '贴片电容' and bool(re.search(r'\b5\s\*\s5.4\b', content)):  # 封装不对
                     continue
                 elif subclass_label_i == '电容器阵列与网络' and bool(re.search(r'\b0805|0603\b', content)):  # 封装不对
+                    continue
+                elif subclass_label_i == '直插瓷片电容' and bool(re.search(r'\b0805|0603|1206\b', content)):  # 封装不对
                     continue
             elif entity_label == '传感器':
                 if bool(re.search(r'(\bcompass\b)', content)):
