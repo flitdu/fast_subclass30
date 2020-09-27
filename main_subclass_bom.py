@@ -283,6 +283,8 @@ class TestExcel(OperateExcel):  # 重写函数
                       subclass_label_i =='金属膜电阻' or subclass_label_i =='排阻' or subclass_label_i =='绕线电阻')\
                         and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
                     continue
+                elif subclass_label_i =='高压电阻' and not bool(re.search(r'\b\d+\s*(v|kv)\b', content)):  # 需要有电压
+                    continue
 
             elif entity_label == '连接器':
                 if bool(re.search(r'(\b(ph|vh|xh|zh|sh)\d+\.?\d*)|\b(ph|vh|xh|zh|sh)\b', content)):  # 正则匹配到
