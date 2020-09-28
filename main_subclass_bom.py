@@ -287,7 +287,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
 
             elif entity_label == '连接器':
-                if bool(re.search(r'(\b(ph|vh|xh|zh|sh)\d+\.?\d*)|\b(ph|vh|xh|zh|sh)\b', content)):  # 正则匹配到
+                if bool(re.search(r'(\b(ph|vh|xh|zh|sh)\d+\.?\d*)|\b(ph|vh|xh|zh|sh|wafer)\b', content)):  # 正则匹配到
                     return 1, '线对板线对线连接器'
                 elif bool(re.search(r'\bheader\b', content)):
                     if subclass_label_i in ['线对板线对线连接器', 'IDC连接器(牛角)']:
@@ -298,6 +298,12 @@ class TestExcel(OperateExcel):  # 重写函数
                     return 1, '内存连接器'
                 elif subclass_label_i =='排针排母' and bool(re.search(r'(带锁|自锁)', content)):
                     continue
+                elif bool(re.search(r'(\b(dr|dp|hdr|hdp)\s*\d+\b)', content)):
+                    return 1, 'D-Sub连接器附件'
+                elif bool(re.search(r'(\b(抽屉式|前锁|后锁|上 接|下 接|双面 接|上下 接)\b)', content)):
+                    return 1, 'FFCFPC连接器'
+                elif bool(re.search(r'(\b(micro\s*ab|micro\s*b|micro\s*a|type\s*c|usb\s*\d+\.?\d*)\b)', content)):
+                    return 1, 'USB连接器'
 
             elif entity_label == '电容':
                 if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)) or bool(re.search(r'(钽)', content)):
