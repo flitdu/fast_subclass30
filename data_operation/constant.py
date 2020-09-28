@@ -213,7 +213,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(电平 转换 芯片|\blevel\s*shift\b)':'电平转换移位器',
             r'(电压 霍尔 传感器)':'专用传感器',
             r'(保险丝 座)':'保险丝座夹',
-            r'(\b((ic|芯片)(\s*txrx\s*buss)|buffer)\b)':'缓冲器驱动器接收器收发器',
+            r'(\b((ic|芯片)\b(\s*txrx.*?\s*buss)|buffer)\b)':'缓冲器驱动器接收器收发器',
             r'(\bsd\s*卡\b)':'SDMicro-SDT-Flash卡',
             r'(\bmotor\s*driver\b)':'电机马达点火驱动器IC',
             r'(\bpcie\s*switch\b)':'接口专用芯片',
