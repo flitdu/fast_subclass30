@@ -306,13 +306,14 @@ class TestExcel(OperateExcel):  # 重写函数
                     return 1, 'USB连接器'
 
             elif entity_label == '电容':
-                if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b)', content)) or bool(re.search(r'(钽)', content)):
+                if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b|\b(3528|3216)\b)', content)) or bool(re.search(r'(钽)', content)):
                     return 1, '钽电容'
                 elif subclass_label_i == '贴片电容' and bool(re.search(r'\b5\s\*\s5.4\b', content)):  # 封装不对
                     continue
                 elif (subclass_label_i == '电容器阵列与网络' or subclass_label_i == '直插瓷片电容') and\
                         bool(re.search(r'\b0805|0603|1206\b', content)):  # 封装不对
                     continue
+
             elif entity_label == '传感器':
                 if bool(re.search(r'(\bcompass\b)', content)):
                     return 1, '磁性传感器'
