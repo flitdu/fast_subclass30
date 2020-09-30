@@ -218,6 +218,8 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(\bpcie\s*switch\b)':'接口专用芯片',
             r'(\busb\s*controller\b)':'USB芯片',
             r'(\bserial\s*real\s*time\s*clock\b)':'实时时钟芯片',
+            r'(线绕 电阻)':'绕线电阻',
+            r'(金属 氧化膜 电阻)':'金属氧化膜电阻',
 
             }
 

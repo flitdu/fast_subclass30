@@ -296,6 +296,8 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 elif bool(re.search(r'\bsim卡', content)):
                     return 1, '内存连接器'
+                elif bool(re.search(r'插拔 座', content)):
+                    return 1, '插拔式连接器'
                 elif subclass_label_i =='排针排母' and bool(re.search(r'(带锁|自锁)', content)):
                     continue
                 elif bool(re.search(r'(\b(dr|dp|hdr|hdp)\s*\d+\b)', content)):
