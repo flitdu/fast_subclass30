@@ -306,6 +306,9 @@ class TestExcel(OperateExcel):  # 重写函数
                     return 1, 'FFCFPC连接器'
                 elif bool(re.search(r'(\b(micro\s*ab|micro\s*b|micro\s*a|type\s*c|usb\s*\d+\.?\d*)\b)', content)):
                     return 1, 'USB连接器'
+                elif bool(re.search(r'(\b(btb|b2b)\b)', content)):
+                    return 1, '板对板连接器'
+
 
             elif entity_label == '电容':
                 if bool(re.search(r'(\bb 型\b|\bc 型\b|\bd 型\b|\b(3528|3216)\b)', content)) or bool(re.search(r'(钽)', content)):
