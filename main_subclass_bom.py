@@ -329,6 +329,11 @@ class TestExcel(OperateExcel):  # 重写函数
             elif entity_label == '二极管':
                 if bool(re.search(r'(\b红|橙|黄|绿|蓝|靛|紫\b)', content)):
                     return 1, '发光二极管'
+            elif entity_label == '晶振':
+                if bool(re.search(r'(\b有源\b)', content)):
+                    return 1, '有源晶体振荡器'
+                elif bool(re.search(r'(\b无源\b)', content)):
+                    return 1, '无源晶体振荡器'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
