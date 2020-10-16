@@ -229,6 +229,7 @@ re_match = {r'\bbase\b (\bt\b|\bt\b)':'网口变压器', # BASE-T：网口变压
             r'(\bphotorelay\b)':'光耦',
             r'(\bgpio expander\b)':'IO扩展器',
             r'(\brs 485\b)':'RS485RS422芯片',
+            r'(\b咪头\b)':'咪头麦克风',
 
             }
 
