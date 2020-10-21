@@ -320,6 +320,8 @@ class TestExcel(OperateExcel):  # 重写函数
                 elif (subclass_label_i == '电容器阵列与网络' or subclass_label_i == '直插瓷片电容') and\
                         bool(re.search(r'\b0805|0603|1206\b', content)):  # 封装不对
                     continue
+                elif subclass_label_i == '贴片电解电容' and bool(re.search(r'\b1206\b', content)):  # 封装不对
+                    continue
 
             elif entity_label == '传感器':
                 if bool(re.search(r'(\bcompass\b)', content)):
