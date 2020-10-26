@@ -275,7 +275,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     pass
                 if subclass_label_i =='采样电阻' and (bool(re.search(r'\b1 / \d*w', content)) or bool(re.search(r'\b\d+(k|m)\b', content))):
                     continue
-                elif subclass_label_i =='压敏电阻' and bool(re.search(r'\b\d+k\d+\b', content)):  #压敏电阻没有阻值
+                elif subclass_label_i =='压敏电阻' and bool(re.search(r'\s(\d+k\d+\b|\d+\.?\d*\s*(k|ohm)\b)', content)):  #压敏电阻没有阻值，匹配5k2|1.2k
                     continue
                 elif subclass_label_i =='可调电阻电位器' and bool(re.search(r'\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
                     continue
