@@ -273,6 +273,14 @@ class TestExcel(OperateExcel):  # 重写函数
                         continue
                 except IndexError:
                     pass
+                r_pattern = re.compile(r'\b\d+\.?\d*\sm ω\b')  # 阻匹配，匹配MΩ
+                try:
+                    r_string = r_pattern.findall(content)[0]  # '900ohm'
+                    r_magnitude = float(re.findall(r"\d+\.?\d*", r_string)[0])  # 量值
+                    if r_magnitude and subclass_label_i == '保险电阻':  # 保险电阻没有MΩ
+                        continue
+                except IndexError:
+                    pass
                 if subclass_label_i =='采样电阻' and (bool(re.search(r'\b1 / \d*w', content)) or bool(re.search(r'\b\d+(k|m)\b', content))):
                     continue
                 elif subclass_label_i =='压敏电阻' and bool(re.search(r'\s(\d+k\d+\b|\d+\.?\d*\s*(k|ohm)\b)', content)):  #压敏电阻没有阻值，匹配5k2|1.2k
@@ -281,7 +289,7 @@ class TestExcel(OperateExcel):  # 重写函数
                     continue
                 elif (subclass_label_i =='碳膜电阻' or subclass_label_i =='金属氧化膜电阻' or\
                       subclass_label_i =='金属膜电阻' or subclass_label_i =='排阻' or subclass_label_i =='绕线电阻')\
-                        and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b', content)):
+                        and bool(re.search(r'\bsmd\b|\b0805\b|\b0603\b|\b805\b|\b603\b|\b1206\b', content)):
                     continue
                 elif subclass_label_i =='高压电阻' and not bool(re.search(r'\b\d+\s*(v|kv)\b', content)):  # 需要有电压
                     continue
