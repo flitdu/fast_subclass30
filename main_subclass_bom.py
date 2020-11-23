@@ -347,6 +347,9 @@ class TestExcel(OperateExcel):  # 重写函数
                     return 1, '有源晶体振荡器'
                 elif bool(re.search(r'(\b无源\b)', content)):
                     return 1, '无源晶体振荡器'
+            elif entity_label == '线材配件':
+                if bool(re.search(r'(\bobd\b)', content)):
+                    return 1, '数据线信号线'
 
             if SUBCLASS2ENTITY[subclass_label_i] == entity_label:  # 直接输出
                 tag = 1
@@ -499,7 +502,7 @@ class TestExcel(OperateExcel):  # 重写函数
 
             if float(entity_predicted_probability) > 0.9:
                 # 不考虑的如下（语料太少）：
-                check_entity = {'嵌入式外围芯片':1,'射频无线电':2,'线材配件':3,'变压器':4,'继电器':5}
+                check_entity = {'嵌入式外围芯片':1,'射频无线电':2,'变压器':4,'继电器':5}
                 if not check_entity.get(entity_predicted_label):
                     tag, subclass_label = self.entityCheckLogic(aa_description_standard, model,entity_predicted_label, 10)
                     if tag:  # 校验生效
